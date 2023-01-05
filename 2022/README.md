@@ -3947,6 +3947,16 @@
 ## CVE-2022-4378 (2023-01-05T16:15:00)
 > A stack overflow flaw was found in the Linux kernel's SYSCTL subsystem in how a user changes certain kernel parameters and variables. This flaw allows a local user to crash or potentially escalate their privileges on the system.
 - [Live-Hack-CVE/CVE-2022-4378](https://github.com/Live-Hack-CVE/CVE-2022-4378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4378">
+- [Live-Hack-CVE/CVE-2022-43789](https://github.com/Live-Hack-CVE/CVE-2022-43789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43789">
+- [Live-Hack-CVE/CVE-2022-43788](https://github.com/Live-Hack-CVE/CVE-2022-43788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43788">
+- [Live-Hack-CVE/CVE-2022-43787](https://github.com/Live-Hack-CVE/CVE-2022-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43787">
+- [Live-Hack-CVE/CVE-2022-43786](https://github.com/Live-Hack-CVE/CVE-2022-43786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43786">
+- [Live-Hack-CVE/CVE-2022-43785](https://github.com/Live-Hack-CVE/CVE-2022-43785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43785">
+- [Live-Hack-CVE/CVE-2022-43784](https://github.com/Live-Hack-CVE/CVE-2022-43784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43784">
+- [Live-Hack-CVE/CVE-2022-43783](https://github.com/Live-Hack-CVE/CVE-2022-43783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43783">
+- [Live-Hack-CVE/CVE-2022-43782](https://github.com/Live-Hack-CVE/CVE-2022-43782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43782">
+- [Live-Hack-CVE/CVE-2022-43781](https://github.com/Live-Hack-CVE/CVE-2022-43781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43781">
+- [Live-Hack-CVE/CVE-2022-43780](https://github.com/Live-Hack-CVE/CVE-2022-43780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-43780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-43780">
 
 ---
 ## CVE-2022-43776 (2022-10-26T18:15:00)
