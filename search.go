@@ -3,8 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-
-	// "github.com/sari3l/notify/notifier/bark"
 	nUrl "net/url"
 	"os"
 	"reflect"
@@ -13,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sari3l/notify/notifier/feishu"
+	"github.com/sari3l/notify/notifier/bark"
 	"github.com/sari3l/requests"
 )
 
@@ -25,36 +23,10 @@ const enableRelatedQuery = true
 const cveQuery = "CVE-20"
 
 // 通知函数
-var feishuToken = os.Getenv("feishuToken")
+var barkToken = os.Getenv("barkToken")
 var barkGroup = "Poc-Monitor"
 var barkMsgLimit = 150
 
-// func Notice(updateItems *[]*Item) {
-// 	for _, item := range *updateItems {
-// 		name := nUrl.QueryEscape(item.Name)
-// 		content := nUrl.QueryEscape(item.Description)
-// 		if len(content) >= barkMsgLimit {
-// 			nBarkMsgLimit := barkMsgLimit
-// 			// 防止%截断
-// 			if content[barkMsgLimit-1] == '%' {
-// 				nBarkMsgLimit = barkMsgLimit + 2
-// 			} else if content[barkMsgLimit-2] == '%' {
-// 				nBarkMsgLimit = barkMsgLimit + 1
-// 			}
-// 			content = content[:nBarkMsgLimit] + "..."
-// 		}
-// 		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
-// 		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
-// 		option := bark.Option{Webhook: webhook}
-// 		option.Url = &item.HtmlUrl
-// 		option.Group = &barkGroup
-// 		err := option.ToNotifier().Send(nil)
-// 		if err != nil {
-// 			fmt.Printf("[!] 发送失败 %s %s\n", err, webhook)
-// 		}
-// 		fmt.Printf("[>] 新增 %s\n", webhook)
-// 	}
-// }
 func Notice(updateItems *[]*Item) {
 	for _, item := range *updateItems {
 		name := nUrl.QueryEscape(item.Name)
@@ -70,12 +42,10 @@ func Notice(updateItems *[]*Item) {
 			content = content[:nBarkMsgLimit] + "..."
 		}
 		fmt.Printf("[+] 准备发送 %s %s\n", name, content)
-		webhook := fmt.Sprintf("https://open.feishu.cn/open-apis/bot/v2/hook/{{feishu.token}}", feishuToken, name, content)
-		option := feishu.Option{Webhook: webhook}
-		// option.Url = &item.HtmlUrl
-		// option.Group = &barkGroup
-		option.MsgType = "text"
-		option.Content = map[string]any{"text": "poc-Monitor from Anonymous"}
+		webhook := fmt.Sprintf("https://api.day.app/%s/%s/%s", barkToken, name, content)
+		option := bark.Option{Webhook: webhook}
+		option.Url = &item.HtmlUrl
+		option.Group = &barkGroup
 		err := option.ToNotifier().Send(nil)
 		if err != nil {
 			fmt.Printf("[!] 发送失败 %s %s\n", err, webhook)
