@@ -103,6 +103,21 @@
 - [Live-Hack-CVE/CVE-2022-4865](https://github.com/Live-Hack-CVE/CVE-2022-4865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4865">
 
 ---
+## CVE-2022-4861 (2022-12-30T14:15:00)
+> Incorrect implementation in authentication protocol in M-Files Client before 22.5.11356.0 allows high privileged user to get other users tokens to another resource.
+- [Live-Hack-CVE/CVE-2022-4861](https://github.com/Live-Hack-CVE/CVE-2022-4861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4861">
+
+---
+## CVE-2022-4860 (2022-12-30T12:15:00)
+> A vulnerability was found in KBase Metrics. It has been classified as critical. This affects the function upload_user_data of the file source/daily_cron_jobs/methods_upload_user_stats.py. The manipulation leads to sql injection. The name of the patch is 959dfb6b05991e30b0fa972a1ecdcaae8e1dae6d. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217059.
+- [Live-Hack-CVE/CVE-2022-4860](https://github.com/Live-Hack-CVE/CVE-2022-4860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4860">
+
+---
+## CVE-2022-4823 (2022-12-28T21:15:00)
+> A vulnerability, which was classified as problematic, was found in InSTEDD Nuntium. Affected is an unknown function of the file app/controllers/geopoll_controller.rb. The manipulation of the argument signature leads to observable timing discrepancy. It is possible to launch the attack remotely. The name of the patch is 77236f7fd71a0e2eefeea07f9866b069d612cf0d. It is recommended to apply a patch to fix this issue. VDB-217002 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2022-4823](https://github.com/Live-Hack-CVE/CVE-2022-4823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4823">
+
+---
 ## CVE-2022-4822 (2022-12-28T21:15:00)
 > A vulnerability, which was classified as problematic, has been found in FlatPress. This issue affects some unknown processing of the file setup/lib/main.lib.php of the component Setup. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 5f23b4c2eac294cc0ba5e541f83a6f8a26f9fed1. It is recommended to apply a patch to fix this issue. The identifier VDB-217001 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-4822](https://github.com/Live-Hack-CVE/CVE-2022-4822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4822">
@@ -153,6 +168,11 @@
 - [ryan412/CVE-2022-48197](https://github.com/ryan412/CVE-2022-48197)	<img alt="forks" src="https://img.shields.io/github/forks/ryan412/CVE-2022-48197">	<img alt="stars" src="https://img.shields.io/github/stars/ryan412/CVE-2022-48197">
 - [Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48198">
 - [Live-Hack-CVE/CVE-2022-48195](https://github.com/Live-Hack-CVE/CVE-2022-48195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-48195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-48195">
+
+---
+## CVE-2022-4817 (2022-12-28T19:15:00)
+> A vulnerability was found in centic9 jgit-cookbook. It has been declared as problematic. This vulnerability affects unknown code. The manipulation leads to insecure temporary file. The attack can be initiated remotely. The name of the patch is b8cb29b43dc704708d598c60ac1881db7cf8e9c3. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216988.
+- [Live-Hack-CVE/CVE-2022-4817](https://github.com/Live-Hack-CVE/CVE-2022-4817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4817">
 
 ---
 ## CVE-2022-4814 (2022-12-28T14:15:00)
@@ -27230,6 +27250,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-23556](https://github.com/Live-Hack-CVE/CVE-2022-23556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23556">
 
 ---
+## CVE-2022-23555 (2022-12-28T01:15:00)
+> authentik is an open-source Identity Provider focused on flexibility and versatility. Versions prior to 2022.11.4 and 2022.10.4 are vulnerable to Improper Authentication. Token reuse in invitation URLs leads to access control bypass via the use of a different enrollment flow than in the one provided. The vulnerability allows an attacker that knows different invitation flows names (e.g. `enrollment-invitation-test` and `enrollment-invitation-admin`) via either different invite links or via brute forcing to signup via a single invitation url for any valid invite link received (it can even be a url for a third flow as long as it's a valid invite) as the token used in the `Invitations` section of the Admin interface does NOT change when a different `enrollment flow` is selected via the interface and it is NOT bound to the selected flow, so it will be valid for any flow when used. This issue is patched in authentik 2022.11.4,2022.10.4 and 2022.12.0. Only configurations that use invitations and have multiple enrollment flows with invitation stages that grant different permissions are affected. The default configuration is not vulnerable, and neither are configurations with a single enrollment flow. As a workaround, fixed data can be added to invitations which can be checked in the flow to deny requests. Alternatively, an identifier with high entropy (like a UUID) can be used as flow slug, mitigating the attack vector by exponentially decreasing the possibility of discovering other flows.
+- [Live-Hack-CVE/CVE-2022-23555](https://github.com/Live-Hack-CVE/CVE-2022-23555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23555">
+
+---
 ## CVE-2022-23549 (2023-01-05T19:15:00)
 > Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta15 on the `beta` and `tests-passed` branches, users can create posts with raw body longer than the `max_length` site setting by including html comments that are not counted toward the character limit. This issue is patched in versions 2.8.14 and 2.9.0.beta16. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2022-23549](https://github.com/Live-Hack-CVE/CVE-2022-23549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23549">
@@ -31699,6 +31724,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
 - [Ki11i0n4ir3/CVE-2022-0739](https://github.com/Ki11i0n4ir3/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2022-0739">
 - [viardant/CVE-2022-0739](https://github.com/viardant/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/viardant/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/viardant/CVE-2022-0739">
+- [hadrian3689/wp_bookingpress_1.0.11](https://github.com/hadrian3689/wp_bookingpress_1.0.11)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/wp_bookingpress_1.0.11">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/wp_bookingpress_1.0.11">
 
 ---
 ## CVE-2022-0731 (2022-02-23T19:15:00)
