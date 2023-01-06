@@ -304,6 +304,10 @@
 ## CVE-2022-4766 (2022-12-27T13:15:00)
 > A vulnerability was found in dolibarr_project_timesheet up to 4.5.5. It has been declared as problematic. This vulnerability affects unknown code of the component Form Handler. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. Upgrading to version 4.5.6.a is able to address this issue. The name of the patch is 082282e9dab43963e6c8f03cfaddd7921de377f4. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216880.
 - [Live-Hack-CVE/CVE-2022-4766](https://github.com/Live-Hack-CVE/CVE-2022-4766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4766">
+- [Live-Hack-CVE/CVE-2022-47663](https://github.com/Live-Hack-CVE/CVE-2022-47663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47663">
+- [Live-Hack-CVE/CVE-2022-47662](https://github.com/Live-Hack-CVE/CVE-2022-47662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47662">
+- [Live-Hack-CVE/CVE-2022-47661](https://github.com/Live-Hack-CVE/CVE-2022-47661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47661">
+- [Live-Hack-CVE/CVE-2022-47660](https://github.com/Live-Hack-CVE/CVE-2022-47660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47660">
 
 ---
 ## CVE-2022-47659 (2023-01-05T16:15:00)
