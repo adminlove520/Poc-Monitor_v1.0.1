@@ -306,6 +306,21 @@
 - [Live-Hack-CVE/CVE-2022-47895](https://github.com/Live-Hack-CVE/CVE-2022-47895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47895">
 
 ---
+## CVE-2022-4779 (2022-12-29T00:15:00)
+> StreamX applications from versions 6.02.01 to 6.04.34 are affected by a logic bug that allows to bypass the implemented authentication scheme. StreamX applications using StreamView HTML component with the public web server feature activated are affected.
+- [Live-Hack-CVE/CVE-2022-4779](https://github.com/Live-Hack-CVE/CVE-2022-4779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4779">
+
+---
+## CVE-2022-4778 (2022-12-29T00:15:00)
+> StreamX applications from versions 6.02.01 to 6.04.34 are affected by a path traversal vulnerability that allows authenticated users to get unauthorized access to files on the server's filesystem. StreamX applications using StreamView HTML component with the public web server feature activated are affected.
+- [Live-Hack-CVE/CVE-2022-4778](https://github.com/Live-Hack-CVE/CVE-2022-4778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4778">
+
+---
+## CVE-2022-4773 (2022-12-28T00:15:00)
+> ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic was found in cloudsync. Affected by this vulnerability is the function getItem of the file src/main/java/cloudsync/connector/LocalFilesystemConnector.java. The manipulation leads to path traversal. It is possible to launch the attack on the local host. The name of the patch is 3ad796833398af257c28e0ebeade68518e0e612a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-216919. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2022-4773](https://github.com/Live-Hack-CVE/CVE-2022-4773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-4773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-4773">
+
+---
 ## CVE-2022-47663 (2023-01-05T16:15:00)
 > GPAC MP4box 2.1-DEV-rev649-ga8f438d20 is vulnerable to buffer overflow in h263dmx_process filters/reframe_h263.c:609
 - [Live-Hack-CVE/CVE-2022-47663](https://github.com/Live-Hack-CVE/CVE-2022-47663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-47663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-47663">
@@ -1459,6 +1474,11 @@
 ## CVE-2022-46177 (2023-01-05T20:15:00)
 > Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 3.0.0.beta16 on the `beta` and `tests-passed` branches, when a user requests for a password reset link email, then changes their primary email, the old reset email is still valid. When the old reset email is used to reset the password, the Discourse account's primary email would be re-linked to the old email. If the old email address is compromised or has transferred ownership, this leads to an account takeover. This is however mitigated by the SiteSetting `email_token_valid_hours` which is currently 48 hours. Users should upgrade to versions 2.8.14 or 3.0.0.beta15 to receive a patch. As a workaround, lower `email_token_valid_hours ` as needed.
 - [Live-Hack-CVE/CVE-2022-46177](https://github.com/Live-Hack-CVE/CVE-2022-46177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46177">
+
+---
+## CVE-2022-46172 (2022-12-28T07:15:00)
+> authentik is an open-source Identity provider focused on flexibility and versatility. In versions prior to 2022.10.4, and 2022.11.4, any authenticated user can create an arbitrary number of accounts through the default flows. This would circumvent any policy in a situation where it is undesirable for users to create new accounts by themselves. This may also affect other applications as these new basic accounts would exist throughout the SSO infrastructure. By default the newly created accounts cannot be logged into as no password reset exists by default. However password resets are likely to be enabled by most installations. This vulnerability pertains to the user context used in the default-user-settings-flow, /api/v3/flows/instances/default-user-settings-flow/execute/. This issue has been fixed in versions 2022.10.4 and 2022.11.4.
+- [Live-Hack-CVE/CVE-2022-46172](https://github.com/Live-Hack-CVE/CVE-2022-46172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46172">
 
 ---
 ## CVE-2022-46171 (2022-12-23T14:15:00)
@@ -3824,6 +3844,11 @@
 > Rapid Software LLC Rapid SCADA 5.8.4 is vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
 - [Live-Hack-CVE/CVE-2022-44153](https://github.com/Live-Hack-CVE/CVE-2022-44153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44153">
+
+---
+## CVE-2022-44149 (2023-01-06T17:15:00)
+> The web service on Nexxt Amp300 ARN02304U8 42.103.1.5095 devices allows remote OS command execution by placing &telnetd in the JSON host field to the ping feature of the goform/sysTools component. Authentication is required.
+- [Live-Hack-CVE/CVE-2022-44149](https://github.com/Live-Hack-CVE/CVE-2022-44149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-44149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-44149">
 
 ---
 ## CVE-2022-44137 (2022-12-30T01:15:00)
@@ -6854,9 +6879,15 @@
 - [Live-Hack-CVE/CVE-2022-41968](https://github.com/Live-Hack-CVE/CVE-2022-41968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41968">
 
 ---
+## CVE-2022-41967 (2022-12-28T00:15:00)
+> Dragonfly is a Java runtime dependency management library. Dragonfly v0.3.0-SNAPSHOT does not configure DocumentBuilderFactory to prevent XML external entity (XXE) attacks. This issue is patched in 0.3.1-SNAPSHOT. As a workaround, since Dragonfly only parses XML `SNAPSHOT` versions are being resolved, this vulnerability may be avoided by not trying to resolve `SNAPSHOT` versions.
+- [Live-Hack-CVE/CVE-2022-41967](https://github.com/Live-Hack-CVE/CVE-2022-41967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41967">
+
+---
 ## CVE-2022-41966 (2022-12-28T00:15:00)
 > XStream serializes Java objects to XML and back again. Versions prior to 1.4.20 may allow a remote attacker to terminate the application with a stack overflow error, resulting in a denial of service only via manipulation the processed input stream. The attack uses the hash code implementation for collections and maps to force recursive hash calculation causing a stack overflow. This issue is patched in version 1.4.20 which handles the stack overflow and raises an InputManipulationException instead. A potential workaround for users who only use HashMap or HashSet and whose XML refers these only as default map or set, is to change the default implementation of java.util.Map and java.util per the code example in the referenced advisory. However, this implies that your application does not care about the implementation of the map and all elements are comparable.
 - [111ddea/Xstream_cve-2022-41966](https://github.com/111ddea/Xstream_cve-2022-41966)	<img alt="forks" src="https://img.shields.io/github/forks/111ddea/Xstream_cve-2022-41966">	<img alt="stars" src="https://img.shields.io/github/stars/111ddea/Xstream_cve-2022-41966">
+- [Live-Hack-CVE/CVE-2022-41966](https://github.com/Live-Hack-CVE/CVE-2022-41966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41966">
 
 ---
 ## CVE-2022-41964 (2022-12-16T18:15:00)
