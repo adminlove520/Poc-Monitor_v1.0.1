@@ -1262,6 +1262,8 @@
 ## CVE-2021-4239 (2022-12-27T22:15:00)
 > The Noise protocol implementation suffers from weakened cryptographic security after encrypting 2^64 messages, and a potential denial of service attack. After 2^64 (~18.4 quintillion) messages are encrypted with the Encrypt function, the nonce counter will wrap around, causing multiple messages to be encrypted with the same key and nonce. In a separate issue, the Decrypt function increments the nonce state even when it fails to decrypt a message. If an attacker can provide an invalid input to the Decrypt function, this will cause the nonce state to desynchronize between the peers, resulting in a failure to encrypt all subsequent messages.
 - [Live-Hack-CVE/CVE-2021-4239](https://github.com/Live-Hack-CVE/CVE-2021-4239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4239">
+- [Live-Hack-CVE/CVE-2021-42392](https://github.com/Live-Hack-CVE/CVE-2021-42392)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42392">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42392">
+- [cybersecurityworks553/CVE-2021-42392-Detect](https://github.com/cybersecurityworks553/CVE-2021-42392-Detect)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/CVE-2021-42392-Detect">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/CVE-2021-42392-Detect">
 
 ---
 ## CVE-2021-42387 (2022-03-14T23:15:00)
