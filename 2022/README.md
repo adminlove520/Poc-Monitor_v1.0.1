@@ -31698,6 +31698,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Chris01s/CVE-2022-0739](https://github.com/Chris01s/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Chris01s/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Chris01s/CVE-2022-0739">
 - [BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2022-0739">
 - [Ki11i0n4ir3/CVE-2022-0739](https://github.com/Ki11i0n4ir3/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2022-0739">
+- [viardant/CVE-2022-0739](https://github.com/viardant/CVE-2022-0739)	<img alt="forks" src="https://img.shields.io/github/forks/viardant/CVE-2022-0739">	<img alt="stars" src="https://img.shields.io/github/stars/viardant/CVE-2022-0739">
 
 ---
 ## CVE-2022-0731 (2022-02-23T19:15:00)
