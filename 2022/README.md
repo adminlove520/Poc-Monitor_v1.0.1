@@ -1819,9 +1819,19 @@
 - [Live-Hack-CVE/CVE-2022-45914](https://github.com/Live-Hack-CVE/CVE-2022-45914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45914">
 
 ---
+## CVE-2022-45913 (2023-01-06T23:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur via one of attributes in webmail URLs to execute arbitrary JavaScript code, leading to information disclosure.
+- [Live-Hack-CVE/CVE-2022-45913](https://github.com/Live-Hack-CVE/CVE-2022-45913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45913">
+
+---
 ## CVE-2022-45912 (2022-12-05T22:15:00)
 > An issue was discovered in Zimbra Collaboration (ZCS) 8.8.15 and 9.0. Remote code execution can occur through ClientUploader by an authenticated admin user. An authenticated admin user can upload files through the ClientUploader utility, and traverse to any other directory for remote code execution.
 - [Live-Hack-CVE/CVE-2022-45912](https://github.com/Live-Hack-CVE/CVE-2022-45912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45912">
+
+---
+## CVE-2022-45911 (2023-01-06T23:15:00)
+> An issue was discovered in Zimbra Collaboration (ZCS) 9.0. XSS can occur on the Classic UI login page by injecting arbitrary JavaScript code in the username field. This occurs before the user logs into the system, which means that even if the attacker executes arbitrary JavaScript, they will not get any sensitive information.
+- [Live-Hack-CVE/CVE-2022-45911](https://github.com/Live-Hack-CVE/CVE-2022-45911)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45911">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45911">
 
 ---
 ## CVE-2022-4591 (2022-12-17T19:15:00)
