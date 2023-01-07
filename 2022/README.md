@@ -26724,6 +26724,8 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-2482 (2023-01-06T22:15:00)
 > A vulnerability exists in Nokia’s ASIK AirScale system module (versions 474021A.101 and 474021A.102) that could allow an attacker to place a script on the file system accessible from Linux. A script placed in the appropriate place could allow for arbitrary code execution in the bootloader.
 - [Live-Hack-CVE/CVE-2022-2482](https://github.com/Live-Hack-CVE/CVE-2022-2482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2482">
+- [Live-Hack-CVE/CVE-2022-24828](https://github.com/Live-Hack-CVE/CVE-2022-24828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24828">
+- [Live-Hack-CVE/CVE-2022-24823](https://github.com/Live-Hack-CVE/CVE-2022-24823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24823">
 
 ---
 ## CVE-2022-24793 (2022-04-06T14:15:00)
