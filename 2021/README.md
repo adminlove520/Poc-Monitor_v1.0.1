@@ -1020,6 +1020,7 @@
 ## CVE-2021-4301 (2023-01-07T22:15:00)
 > A vulnerability was found in slackero phpwcms up to 1.9.26 and classified as critical. Affected by this issue is some unknown functionality. The manipulation of the argument $phpwcms['db_prepend'] leads to sql injection. The attack may be launched remotely. Upgrading to version 1.9.27 is able to address this issue. The name of the patch is 77dafb6a8cc1015f0777daeb5792f43beef77a9d. It is recommended to upgrade the affected component. VDB-217418 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4301](https://github.com/Live-Hack-CVE/CVE-2021-4301)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4301">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4301">
+- [Live-Hack-CVE/CVE-2021-43019](https://github.com/Live-Hack-CVE/CVE-2021-43019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43019">
 
 ---
 ## CVE-2021-4300 (2023-01-04T22:15:00)
