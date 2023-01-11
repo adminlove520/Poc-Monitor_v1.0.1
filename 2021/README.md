@@ -2639,6 +2639,8 @@
 ## CVE-2021-3966 (2023-01-11T05:15:00)
 > usb device bluetooth class includes a buffer overflow related to implementation of net_buf_add_mem.
 - [Live-Hack-CVE/CVE-2021-3966](https://github.com/Live-Hack-CVE/CVE-2021-3966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3966">
+- [Live-Hack-CVE/CVE-2021-39661](https://github.com/Live-Hack-CVE/CVE-2021-39661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39661">
+- [Live-Hack-CVE/CVE-2021-39660](https://github.com/Live-Hack-CVE/CVE-2021-39660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39660">
 
 ---
 ## CVE-2021-39617 (2022-12-13T16:15:00)
