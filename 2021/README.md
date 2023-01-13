@@ -1006,6 +1006,7 @@
 ## CVE-2021-4312 (2023-01-13T18:15:00)
 > ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic has been found in Th3-822 Rapidleech. This affects the function zip_go of the file classes/options/zip.php. The manipulation of the argument archive leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 885a87ea4ee5e14fa95801eca255604fb2e138c6. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218295. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2021-4312](https://github.com/Live-Hack-CVE/CVE-2021-4312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4312">
+- [Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)	<img alt="forks" src="https://img.shields.io/github/forks/Skotizo/CVE-2021-43129">	<img alt="stars" src="https://img.shields.io/github/stars/Skotizo/CVE-2021-43129">
 
 ---
 ## CVE-2021-4311 (2023-01-09T12:15:00)
