@@ -699,6 +699,8 @@
 ## CVE-2023-21550 (2023-01-10T22:15:00)
 > Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21540, CVE-2023-21559.
 - [Live-Hack-CVE/CVE-2023-21550](https://github.com/Live-Hack-CVE/CVE-2023-21550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21550">
+- [Live-Hack-CVE/CVE-2023-21559](https://github.com/Live-Hack-CVE/CVE-2023-21559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21559">
+- [Live-Hack-CVE/CVE-2023-21540](https://github.com/Live-Hack-CVE/CVE-2023-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21540">
 
 ---
 ## CVE-2023-21548 (2023-01-10T22:15:00)
