@@ -826,6 +826,11 @@
 - [RevoCain/CVE-2018-14699](https://github.com/RevoCain/CVE-2018-14699)	<img alt="forks" src="https://img.shields.io/github/forks/RevoCain/CVE-2018-14699">	<img alt="stars" src="https://img.shields.io/github/stars/RevoCain/CVE-2018-14699">
 
 ---
+## CVE-2018-14628 (2023-01-17T18:15:00)
+> An information leak vulnerability was discovered in Samba's LDAP server. Due to missing access control checks, an authenticated but unprivileged attacker could discover the names and preserved attributes of deleted objects in the LDAP store.
+- [Live-Hack-CVE/CVE-2018-14628](https://github.com/Live-Hack-CVE/CVE-2018-14628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14628">
+
+---
 ## CVE-2018-14550 (2019-07-10T12:15:00)
 > An issue has been found in third-party PNM decoding associated with libpng 1.6.35. It is a stack-based buffer overflow in the function get_token in pnm2png.c in pnm2png.
 - [Live-Hack-CVE/CVE-2018-14550](https://github.com/Live-Hack-CVE/CVE-2018-14550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14550">

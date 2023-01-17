@@ -696,6 +696,11 @@
 - [Live-Hack-CVE/CVE-2023-21540](https://github.com/Live-Hack-CVE/CVE-2023-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21540">
 
 ---
+## CVE-2023-21555 (2023-01-10T22:15:00)
+> Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21546, CVE-2023-21556, CVE-2023-21679.
+- [Live-Hack-CVE/CVE-2023-21555](https://github.com/Live-Hack-CVE/CVE-2023-21555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21555">
+
+---
 ## CVE-2023-21551 (2023-01-10T22:15:00)
 > Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21561, CVE-2023-21730.
 - [Live-Hack-CVE/CVE-2023-21551](https://github.com/Live-Hack-CVE/CVE-2023-21551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21551">
@@ -1047,6 +1052,11 @@
 ## CVE-2023-0161 (2023-01-11T08:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
 - [Live-Hack-CVE/CVE-2023-0161](https://github.com/Live-Hack-CVE/CVE-2023-0161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0161">
+
+---
+## CVE-2023-0158 (2023-01-17T17:15:00)
+> NLnet Labs Krill supports direct access to the RRDP repository content through its built-in web server at the "/rrdp" endpoint. Prior to 0.12.1 a direct query for any existing directory under "/rrdp/", rather than an RRDP file such as "/rrdp/notification.xml" as would be expected, causes Krill to crash. If the built-in "/rrdp" endpoint is exposed directly to the internet, then malicious remote parties can cause the publication server to crash. The repository content is not affected by this, but the availability of the server and repository can cause issues if this attack is persistent and is not mitigated.
+- [Live-Hack-CVE/CVE-2023-0158](https://github.com/Live-Hack-CVE/CVE-2023-0158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0158">
 
 ---
 ## CVE-2023-0141 (2023-01-10T20:15:00)
