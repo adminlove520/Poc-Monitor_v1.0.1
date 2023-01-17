@@ -1,6 +1,26 @@
 # 2012 List
 
 ---
+## CVE-2012-6704 (2016-12-28T07:59:00)
+> The sock_setsockopt function in net/core/sock.c in the Linux kernel before 3.5 mishandles negative values of sk_sndbuf and sk_rcvbuf, which allows local users to cause a denial of service (memory corruption and system crash) or possibly have unspecified other impact by leveraging the CAP_NET_ADMIN capability for a crafted setsockopt system call with the (1) SO_SNDBUF or (2) SO_RCVBUF option.
+- [Live-Hack-CVE/CVE-2012-6704](https://github.com/Live-Hack-CVE/CVE-2012-6704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6704">
+
+---
+## CVE-2012-6703 (2016-06-29T14:10:00)
+> Integer overflow in the snd_compr_allocate_buffer function in sound/core/compress_offload.c in the ALSA subsystem in the Linux kernel before 3.6-rc6-next-20120917 allows local users to cause a denial of service (insufficient memory allocation) or possibly have unspecified other impact via a crafted SNDRV_COMPRESS_SET_PARAMS ioctl call.
+- [Live-Hack-CVE/CVE-2012-6703](https://github.com/Live-Hack-CVE/CVE-2012-6703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6703">
+
+---
+## CVE-2012-6701 (2016-05-02T10:59:00)
+> Integer overflow in fs/aio.c in the Linux kernel before 3.4.1 allows local users to cause a denial of service or possibly have unspecified other impact via a large AIO iovec.
+- [Live-Hack-CVE/CVE-2012-6701](https://github.com/Live-Hack-CVE/CVE-2012-6701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6701">
+
+---
+## CVE-2012-6638 (2014-02-15T14:57:00)
+> The tcp_rcv_state_process function in net/ipv4/tcp_input.c in the Linux kernel before 3.2.24 allows remote attackers to cause a denial of service (kernel resource consumption) via a flood of SYN+FIN TCP packets, a different vulnerability than CVE-2012-2663.
+- [Live-Hack-CVE/CVE-2012-6638](https://github.com/Live-Hack-CVE/CVE-2012-6638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6638">
+
+---
 ## CVE-2012-5519 (2012-11-20T00:55:00)
 > CUPS 1.4.4, when running in certain Linux distributions such as Debian GNU/Linux, stores the web interface administrator key in /var/run/cups/certs/0 using certain permissions, which allows local users in the lpadmin group to read or write arbitrary files as root by leveraging the web interface.
 - [p1ckzi/CVE-2012-5519](https://github.com/p1ckzi/CVE-2012-5519)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2012-5519">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2012-5519">
@@ -18,6 +38,11 @@
 > ISC BIND 9.x before 9.7.6-P3, 9.8.x before 9.8.3-P3, 9.9.x before 9.9.1-P3, and 9.4-ESV and 9.6-ESV before 9.6-ESV-R7-P3 allows remote attackers to cause a denial of service (assertion failure and named daemon exit) via a query for a long resource record.
 - [Live-Hack-CVE/CVE-2012-4244](https://github.com/Live-Hack-CVE/CVE-2012-4244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4244">
 - [Live-Hack-CVE/CVE-2012-4244](https://github.com/Live-Hack-CVE/CVE-2012-4244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4244">
+
+---
+## CVE-2012-3400 (2012-10-03T11:02:00)
+> Heap-based buffer overflow in the udf_load_logicalvol function in fs/udf/super.c in the Linux kernel before 3.4.5 allows remote attackers to cause a denial of service (system crash) or possibly have unspecified other impact via a crafted UDF filesystem.
+- [Live-Hack-CVE/CVE-2012-3400](https://github.com/Live-Hack-CVE/CVE-2012-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-3400">
 
 ---
 ## CVE-2012-2982 (2012-09-11T18:55:00)

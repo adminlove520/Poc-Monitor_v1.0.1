@@ -1,9 +1,24 @@
 # 2014 List
 
 ---
+## CVE-2014-9914 (2017-02-07T07:59:00)
+> Race condition in the ip4_datagram_release_cb function in net/ipv4/datagram.c in the Linux kernel before 3.15.2 allows local users to gain privileges or cause a denial of service (use-after-free) by leveraging incorrect expectations about locking during multithreaded access to internal data structures for IPv4 UDP sockets.
+- [Live-Hack-CVE/CVE-2014-9914](https://github.com/Live-Hack-CVE/CVE-2014-9914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-9914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-9914">
+
+---
+## CVE-2014-9904 (2016-06-27T10:59:00)
+> The snd_compress_check_input function in sound/core/compress_offload.c in the ALSA subsystem in the Linux kernel before 3.17 does not properly check for an integer overflow, which allows local users to cause a denial of service (insufficient memory allocation) or possibly have unspecified other impact via a crafted SNDRV_COMPRESS_SET_PARAMS ioctl call.
+- [Live-Hack-CVE/CVE-2014-9904](https://github.com/Live-Hack-CVE/CVE-2014-9904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-9904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-9904">
+
+---
 ## CVE-2014-8731 (2017-03-23T17:59:00)
 > PHPMemcachedAdmin 1.2.2 and earlier allows remote attackers to execute arbitrary PHP code via vectors related "serialized data and the last part of the concatenated filename," which creates a file in webroot.
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
+
+---
+## CVE-2014-7145 (2014-09-28T10:55:00)
+> The SMB2_tcon function in fs/cifs/smb2pdu.c in the Linux kernel before 3.16.3 allows remote CIFS servers to cause a denial of service (NULL pointer dereference and client system crash) or possibly have unspecified other impact by deleting the IPC$ share during resolution of DFS referrals.
+- [Live-Hack-CVE/CVE-2014-7145](https://github.com/Live-Hack-CVE/CVE-2014-7145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-7145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-7145">
 
 ---
 ## CVE-2014-6568 (2015-01-21T15:28:00)
@@ -14,6 +29,11 @@
 ## CVE-2014-6474 (2014-10-15T15:55:00)
 > Unspecified vulnerability in Oracle MySQL Server 5.6.19 and earlier allows remote authenticated users to affect availability via vectors related to SERVER:MEMCACHED.
 - [Live-Hack-CVE/CVE-2014-6474](https://github.com/Live-Hack-CVE/CVE-2014-6474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6474">
+
+---
+## CVE-2014-6416 (2014-09-28T10:55:00)
+> Buffer overflow in net/ceph/auth_x.c in Ceph, as used in the Linux kernel before 3.16.3, allows remote attackers to cause a denial of service (memory corruption and panic) or possibly have unspecified other impact via a long unencrypted auth ticket.
+- [Live-Hack-CVE/CVE-2014-6416](https://github.com/Live-Hack-CVE/CVE-2014-6416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6416">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
