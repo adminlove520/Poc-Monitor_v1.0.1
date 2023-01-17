@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-23749 (2023-01-17T20:15:00)
+> The 'LDAP Integration with Active Directory and OpenLDAP - NTLM & Kerberos Login' extension is vulnerable to LDAP Injection since is not properly sanitizing the 'username' POST parameter. An attacker can manipulate this paramter to dump arbitrary contents form the LDAP Database.
+- [Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23749">
+
+---
 ## CVE-2023-23595 (2023-01-15T07:15:00)
 > BlueCat Device Registration Portal 2.2 allows XXE attacks that exfiltrate single-line files. A single-line file might contain credentials, such as "machine example.com login daniel password qwerty" in the documentation example for the .netrc file format. NOTE; 2.x versions are no longer supported. There is no available information about whether any later version is affected.
 - [Live-Hack-CVE/CVE-2023-23595](https://github.com/Live-Hack-CVE/CVE-2023-23595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23595">
@@ -79,6 +84,11 @@
 ## CVE-2023-22626 (2023-01-05T08:15:00)
 > PgHero before 3.1.0 allows Information Disclosure via EXPLAIN because query results may be present in an error message. (Depending on database user privileges, this may only be information from the database, or may be information from file contents on the database server.)
 - [Live-Hack-CVE/CVE-2023-22626](https://github.com/Live-Hack-CVE/CVE-2023-22626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22626">
+
+---
+## CVE-2023-22624 (2023-01-17T20:15:00)
+> Zoho ManageEngine Exchange Reporter Plus before 5708 allows attackers to conduct XXE attacks.
+- [Live-Hack-CVE/CVE-2023-22624](https://github.com/Live-Hack-CVE/CVE-2023-22624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22624">
 
 ---
 ## CVE-2023-22622 (2023-01-05T02:15:00)
@@ -637,6 +647,16 @@
 ## CVE-2023-21726 (2023-01-10T22:15:00)
 > Windows Credential Manager User Interface Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21726">
+
+---
+## CVE-2023-21681 (2023-01-10T22:15:00)
+> Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21681](https://github.com/Live-Hack-CVE/CVE-2023-21681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21681">
+
+---
+## CVE-2023-21680 (2023-01-10T22:15:00)
+> Windows Win32k Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21680](https://github.com/Live-Hack-CVE/CVE-2023-21680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21680">
 
 ---
 ## CVE-2023-21599 (2023-01-13T21:15:00)
