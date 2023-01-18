@@ -1583,6 +1583,9 @@
 ## CVE-2021-4200 (2022-05-02T12:16:00)
 > A Improper Privilege Management vulnerability in SUSE Rancher allows write access to the Catalog for any user when restricted-admin role is enabled. This issue affects: SUSE Rancher Rancher versions prior to 2.5.13; Rancher versions prior to 2.6.4.
 - [Live-Hack-CVE/CVE-2021-4200](https://github.com/Live-Hack-CVE/CVE-2021-4200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4200">
+- [Live-Hack-CVE/CVE-2021-42001](https://github.com/Live-Hack-CVE/CVE-2021-42001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42001">
+- [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2021-42008">
+- [numanturle/CVE-2021-42008](https://github.com/numanturle/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-42008">
 
 ---
 ## CVE-2021-41992 (2022-04-30T22:15:00)
