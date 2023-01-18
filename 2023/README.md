@@ -819,6 +819,7 @@
 ## CVE-2023-21678 (2023-01-10T22:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21760, CVE-2023-21765.
 - [Live-Hack-CVE/CVE-2023-21678](https://github.com/Live-Hack-CVE/CVE-2023-21678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21678">
+- [Live-Hack-CVE/CVE-2023-21765](https://github.com/Live-Hack-CVE/CVE-2023-21765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21765">
 
 ---
 ## CVE-2023-21677 (2023-01-10T22:15:00)
@@ -834,6 +835,7 @@
 ## CVE-2023-21675 (2023-01-10T22:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21755, CVE-2023-21772, CVE-2023-21773, CVE-2023-21774.
 - [Live-Hack-CVE/CVE-2023-21675](https://github.com/Live-Hack-CVE/CVE-2023-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21675">
+- [Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21755">
 
 ---
 ## CVE-2023-21674 (2023-01-10T22:15:00)
