@@ -791,6 +791,8 @@
 ## CVE-2023-21730 (2023-01-10T22:15:00)
 > Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21551, CVE-2023-21561.
 - [Live-Hack-CVE/CVE-2023-21730](https://github.com/Live-Hack-CVE/CVE-2023-21730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21730">
+- [Live-Hack-CVE/CVE-2023-21551](https://github.com/Live-Hack-CVE/CVE-2023-21551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21551">
+- [Live-Hack-CVE/CVE-2023-21561](https://github.com/Live-Hack-CVE/CVE-2023-21561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21561">
 
 ---
 ## CVE-2023-21726 (2023-01-10T22:15:00)
