@@ -446,6 +446,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20173 (2023-01-18T16:15:00)
+> A vulnerability was found in AlexRed contentmap. It has been rated as critical. Affected by this issue is the function Load of the file contentmap.php. The manipulation of the argument contentid leads to sql injection. The name of the patch is dd265d23ff4abac97422835002c6a47f45ae2a66. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-218492.
+- [Live-Hack-CVE/CVE-2017-20173](https://github.com/Live-Hack-CVE/CVE-2017-20173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20173">
+
+---
 ## CVE-2017-20170 (2023-01-17T14:15:00)
 > A vulnerability was found in ollpu parontalli. It has been classified as critical. Affected is an unknown function of the file httpdocs/index.php. The manipulation of the argument s leads to sql injection. The name of the patch is 6891bb2dec57dca6daabc15a6d2808c8896620e5. It is recommended to apply a patch to fix this issue. VDB-218418 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20170](https://github.com/Live-Hack-CVE/CVE-2017-20170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20170">

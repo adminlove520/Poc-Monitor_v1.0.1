@@ -36,6 +36,11 @@
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
 
 ---
+## CVE-2023-22963 (2023-01-11T06:15:00)
+> The personnummer implementation before 3.0.3 for Dart mishandles numbers in which the last four digits match the ^000[0-9]$ regular expression.
+- [Live-Hack-CVE/CVE-2023-22963](https://github.com/Live-Hack-CVE/CVE-2023-22963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22963">
+
+---
 ## CVE-2023-22959 (2023-01-11T04:15:00)
 > WebChess through 0.9.0 and 1.0.0.rc2 allows SQL injection: mainmenu.php, chess.php, and opponentspassword.php (txtFirstName, txtLastName).
 - [Live-Hack-CVE/CVE-2023-22959](https://github.com/Live-Hack-CVE/CVE-2023-22959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22959">
@@ -738,9 +743,31 @@
 - [Live-Hack-CVE/CVE-2023-21781](https://github.com/Live-Hack-CVE/CVE-2023-21781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21781">
 
 ---
+## CVE-2023-21772 (2023-01-10T22:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21675, CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21755, CVE-2023-21773, CVE-2023-21774.
+- [Live-Hack-CVE/CVE-2023-21772](https://github.com/Live-Hack-CVE/CVE-2023-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21772">
+- [Live-Hack-CVE/CVE-2023-21675](https://github.com/Live-Hack-CVE/CVE-2023-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21675">
+- [Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21755">
+
+---
 ## CVE-2023-21771 (2023-01-10T22:15:00)
 > Windows Local Session Manager (LSM) Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21771](https://github.com/Live-Hack-CVE/CVE-2023-21771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21771">
+
+---
+## CVE-2023-21768 (2023-01-10T22:15:00)
+> Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21768](https://github.com/Live-Hack-CVE/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21768">
+
+---
+## CVE-2023-21767 (2023-01-10T22:15:00)
+> Windows Overlay Filter Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21767](https://github.com/Live-Hack-CVE/CVE-2023-21767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21767">
+
+---
+## CVE-2023-21766 (2023-01-10T22:15:00)
+> Windows Overlay Filter Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21766](https://github.com/Live-Hack-CVE/CVE-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21766">
 
 ---
 ## CVE-2023-21765 (2023-01-10T22:15:00)
@@ -791,6 +818,11 @@
 - [Live-Hack-CVE/CVE-2023-21744](https://github.com/Live-Hack-CVE/CVE-2023-21744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21744">
 
 ---
+## CVE-2023-21736 (2023-01-10T22:15:00)
+> Microsoft Office Visio Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21737, CVE-2023-21738.
+- [Live-Hack-CVE/CVE-2023-21736](https://github.com/Live-Hack-CVE/CVE-2023-21736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21736">
+
+---
 ## CVE-2023-21735 (2023-01-10T22:15:00)
 > Microsoft Office Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21734.
 - [Live-Hack-CVE/CVE-2023-21735](https://github.com/Live-Hack-CVE/CVE-2023-21735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21735">
@@ -828,6 +860,26 @@
 ## CVE-2023-21726 (2023-01-10T22:15:00)
 > Windows Credential Manager User Interface Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21726">
+
+---
+## CVE-2023-21725 (2023-01-10T22:15:00)
+> Windows Malicious Software Removal Tool Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21725](https://github.com/Live-Hack-CVE/CVE-2023-21725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21725">
+
+---
+## CVE-2023-21724 (2023-01-10T22:15:00)
+> Microsoft DWM Core Library Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21724](https://github.com/Live-Hack-CVE/CVE-2023-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21724">
+
+---
+## CVE-2023-21683 (2023-01-10T22:15:00)
+> Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability. This CVE ID is unique from CVE-2023-21677, CVE-2023-21758.
+- [Live-Hack-CVE/CVE-2023-21683](https://github.com/Live-Hack-CVE/CVE-2023-21683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21683">
+
+---
+## CVE-2023-21682 (2023-01-10T22:15:00)
+> Windows Point-to-Point Protocol (PPP) Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21682](https://github.com/Live-Hack-CVE/CVE-2023-21682)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21682">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21682">
 
 ---
 ## CVE-2023-21681 (2023-01-10T22:15:00)
@@ -940,6 +992,11 @@
 - [Live-Hack-CVE/CVE-2023-21559](https://github.com/Live-Hack-CVE/CVE-2023-21559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21559">
 - [Live-Hack-CVE/CVE-2023-21550](https://github.com/Live-Hack-CVE/CVE-2023-21550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21550">
 - [Live-Hack-CVE/CVE-2023-21540](https://github.com/Live-Hack-CVE/CVE-2023-21540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21540">
+
+---
+## CVE-2023-21558 (2023-01-10T22:15:00)
+> Windows Error Reporting Service Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21558](https://github.com/Live-Hack-CVE/CVE-2023-21558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21558">
 
 ---
 ## CVE-2023-21555 (2023-01-10T22:15:00)
@@ -1094,6 +1151,11 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0385 (2023-01-18T15:15:00)
+> The Custom 404 Pro plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 3.7.1. This is due to missing or incorrect nonce validation on the custom_404_pro_admin_init function. This makes it possible for unauthenticated attackers to delete logs, via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2023-0385](https://github.com/Live-Hack-CVE/CVE-2023-0385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0385">
 
 ---
 ## CVE-2023-0358 (2023-01-18T02:15:00)

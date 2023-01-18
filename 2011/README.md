@@ -39,6 +39,11 @@
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
 
 ---
+## CVE-2011-10001 (2023-01-18T16:15:00)
+> A vulnerability was found in iamdroppy phoenixcf. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file content/2-Community/articles.cfm. The manipulation leads to sql injection. The name of the patch is d156faf8bc36cd49c3b10d3697ef14167ad451d8. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218491.
+- [Live-Hack-CVE/CVE-2011-10001](https://github.com/Live-Hack-CVE/CVE-2011-10001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-10001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-10001">
+
+---
 ## CVE-2011-0419 (2011-05-16T17:55:00)
 > Stack consumption vulnerability in the fnmatch implementation in apr_fnmatch.c in the Apache Portable Runtime (APR) library before 1.4.3 and the Apache HTTP Server before 2.2.18, and in fnmatch.c in libc in NetBSD 5.1, OpenBSD 4.8, FreeBSD, Apple Mac OS X 10.6, Oracle Solaris 10, and Android, allows context-dependent attackers to cause a denial of service (CPU and memory consumption) via *? sequences in the first argument, as demonstrated by attacks against mod_autoindex in httpd.
 - [Live-Hack-CVE/CVE-2011-0419](https://github.com/Live-Hack-CVE/CVE-2011-0419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-0419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-0419">

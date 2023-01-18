@@ -96,6 +96,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-10006 (2023-01-18T16:15:00)
+> A vulnerability classified as critical has been found in ale7714 sigeprosi. This affects an unknown part. The manipulation leads to sql injection. The name of the patch is 5291886f6c992316407c376145d331169c55f25b. It is recommended to apply a patch to fix this issue. The identifier VDB-218493 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2012-10006](https://github.com/Live-Hack-CVE/CVE-2012-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10006">
+
+---
 ## CVE-2012-10005 (2023-01-12T16:15:00)
 > A vulnerability has been found in manikandan170890 php-form-builder-class and classified as problematic. Affected by this vulnerability is an unknown functionality of the file PFBC/Element/Textarea.php of the component Textarea Handler. The manipulation of the argument value leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 74897993818d826595fd5857038e6703456a594a. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218155.
 - [Live-Hack-CVE/CVE-2012-10005](https://github.com/Live-Hack-CVE/CVE-2012-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10005">

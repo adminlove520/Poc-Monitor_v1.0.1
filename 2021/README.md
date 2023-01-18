@@ -1003,6 +1003,13 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4314 (2023-01-18T16:15:00)
+> It is possible to manipulate the JWT token without the knowledge of the JWT secret and authenticate without valid JWT token as any user. This is happening only in the situation when zOSMF doesn’t have the APAR PH12143 applied. This issue affects: 1.16 versions to 1.19. What happens is that the services using the ZAAS client or the API ML API to query will be deceived into believing the information in the JWT token is valid when it isn’t. It’s possible to use this to persuade the southbound service that different user is authenticated.
+- [Live-Hack-CVE/CVE-2021-4314](https://github.com/Live-Hack-CVE/CVE-2021-4314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4314">
+- [Dir0x/CVE-2021-43141](https://github.com/Dir0x/CVE-2021-43141)	<img alt="forks" src="https://img.shields.io/github/forks/Dir0x/CVE-2021-43141">	<img alt="stars" src="https://img.shields.io/github/stars/Dir0x/CVE-2021-43141">
+- [Dir0x/CVE-2021-43140](https://github.com/Dir0x/CVE-2021-43140)	<img alt="forks" src="https://img.shields.io/github/forks/Dir0x/CVE-2021-43140">	<img alt="stars" src="https://img.shields.io/github/stars/Dir0x/CVE-2021-43140">
+
+---
 ## CVE-2021-4313 (2023-01-16T12:15:00)
 > A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fix this issue. The identifier VDB-218393 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4313](https://github.com/Live-Hack-CVE/CVE-2021-4313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4313">
