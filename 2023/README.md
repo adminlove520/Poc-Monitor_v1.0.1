@@ -773,6 +773,7 @@
 ## CVE-2023-21742 (2023-01-10T22:15:00)
 > Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21744.
 - [Live-Hack-CVE/CVE-2023-21742](https://github.com/Live-Hack-CVE/CVE-2023-21742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21742">
+- [Live-Hack-CVE/CVE-2023-21744](https://github.com/Live-Hack-CVE/CVE-2023-21744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21744">
 
 ---
 ## CVE-2023-21735 (2023-01-10T22:15:00)
