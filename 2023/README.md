@@ -875,6 +875,7 @@
 ## CVE-2023-21683 (2023-01-10T22:15:00)
 > Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability. This CVE ID is unique from CVE-2023-21677, CVE-2023-21758.
 - [Live-Hack-CVE/CVE-2023-21683](https://github.com/Live-Hack-CVE/CVE-2023-21683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21683">
+- [Live-Hack-CVE/CVE-2023-21677](https://github.com/Live-Hack-CVE/CVE-2023-21677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21677">
 
 ---
 ## CVE-2023-21682 (2023-01-10T22:15:00)
