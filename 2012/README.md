@@ -106,6 +106,11 @@
 - [Live-Hack-CVE/CVE-2012-10005](https://github.com/Live-Hack-CVE/CVE-2012-10005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10005">
 
 ---
+## CVE-2012-10004 (2023-01-11T07:15:00)
+> A vulnerability was found in backdrop-contrib Basic Cart. It has been classified as problematic. Affected is the function basic_cart_checkout_form_submit of the file basic_cart.cart.inc. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.x-1.1.1 is able to address this issue. The name of the patch is a10424ccd4b3b4b433cf33b73c1ad608b11890b4. It is recommended to upgrade the affected component. VDB-217950 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2012-10004](https://github.com/Live-Hack-CVE/CVE-2012-10004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10004">
+
+---
 ## CVE-2012-10003 (2023-01-03T12:15:00)
 > A vulnerability, which was classified as problematic, has been found in ahmyi RivetTracker. This issue affects some unknown processing. The manipulation of the argument $_SERVER['PHP_SELF'] leads to cross site scripting. The attack may be initiated remotely. The name of the patch is f053c5cc2bc44269b0496b5f275e349928a92ef9. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217271.
 - [Live-Hack-CVE/CVE-2012-10003](https://github.com/Live-Hack-CVE/CVE-2012-10003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10003">

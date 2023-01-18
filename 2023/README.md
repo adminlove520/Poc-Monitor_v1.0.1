@@ -743,6 +743,14 @@
 - [Live-Hack-CVE/CVE-2023-21781](https://github.com/Live-Hack-CVE/CVE-2023-21781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21781">
 
 ---
+## CVE-2023-21773 (2023-01-10T22:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21675, CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21755, CVE-2023-21772, CVE-2023-21774.
+- [Live-Hack-CVE/CVE-2023-21773](https://github.com/Live-Hack-CVE/CVE-2023-21773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21773">
+- [Live-Hack-CVE/CVE-2023-21772](https://github.com/Live-Hack-CVE/CVE-2023-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21772">
+- [Live-Hack-CVE/CVE-2023-21675](https://github.com/Live-Hack-CVE/CVE-2023-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21675">
+- [Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21755">
+
+---
 ## CVE-2023-21772 (2023-01-10T22:15:00)
 > Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21675, CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21755, CVE-2023-21773, CVE-2023-21774.
 - [Live-Hack-CVE/CVE-2023-21772](https://github.com/Live-Hack-CVE/CVE-2023-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21772">
@@ -778,6 +786,41 @@
 ## CVE-2023-21764 (2023-01-10T22:15:00)
 > Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763.
 - [Live-Hack-CVE/CVE-2023-21764](https://github.com/Live-Hack-CVE/CVE-2023-21764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21764">
+
+---
+## CVE-2023-21763 (2023-01-10T22:15:00)
+> Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21764.
+- [Live-Hack-CVE/CVE-2023-21763](https://github.com/Live-Hack-CVE/CVE-2023-21763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21763">
+
+---
+## CVE-2023-21762 (2023-01-10T22:15:00)
+> Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21745.
+- [Live-Hack-CVE/CVE-2023-21762](https://github.com/Live-Hack-CVE/CVE-2023-21762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21762">
+
+---
+## CVE-2023-21761 (2023-01-10T22:15:00)
+> Microsoft Exchange Server Information Disclosure Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21761](https://github.com/Live-Hack-CVE/CVE-2023-21761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21761">
+
+---
+## CVE-2023-21760 (2023-01-10T22:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21765.
+- [Live-Hack-CVE/CVE-2023-21760](https://github.com/Live-Hack-CVE/CVE-2023-21760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21760">
+
+---
+## CVE-2023-21759 (2023-01-10T22:15:00)
+> Windows Smart Card Resource Management Server Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21759](https://github.com/Live-Hack-CVE/CVE-2023-21759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21759">
+
+---
+## CVE-2023-21758 (2023-01-10T22:15:00)
+> Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability. This CVE ID is unique from CVE-2023-21677, CVE-2023-21683.
+- [Live-Hack-CVE/CVE-2023-21758](https://github.com/Live-Hack-CVE/CVE-2023-21758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21758">
+
+---
+## CVE-2023-21757 (2023-01-10T22:15:00)
+> Windows Layer 2 Tunneling Protocol (L2TP) Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21757](https://github.com/Live-Hack-CVE/CVE-2023-21757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21757">
 
 ---
 ## CVE-2023-21755 (2023-01-10T22:15:00)
@@ -926,6 +969,16 @@
 ## CVE-2023-21674 (2023-01-10T22:15:00)
 > Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21674](https://github.com/Live-Hack-CVE/CVE-2023-21674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21674">
+
+---
+## CVE-2023-21603 (2023-01-18T18:15:00)
+> Adobe Dimension version 3.4.6 (and earlier) are affected by an out-of-bounds read vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-21603](https://github.com/Live-Hack-CVE/CVE-2023-21603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21603">
+
+---
+## CVE-2023-21601 (2023-01-18T18:15:00)
+> Adobe Dimension version 3.4.6 (and earlier) are affected by a Use After Free vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-21601](https://github.com/Live-Hack-CVE/CVE-2023-21601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21601">
 
 ---
 ## CVE-2023-21599 (2023-01-13T21:15:00)

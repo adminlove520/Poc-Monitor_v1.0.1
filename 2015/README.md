@@ -382,6 +382,26 @@
 - [Live-Hack-CVE/CVE-2015-10040](https://github.com/Live-Hack-CVE/CVE-2015-10040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10040">
 
 ---
+## CVE-2015-10039 (2023-01-11T19:15:00)
+> A vulnerability was found in dobos domino. It has been rated as critical. Affected by this issue is some unknown functionality in the library src/Complex.Domino.Lib/Lib/EntityFactory.cs. The manipulation leads to sql injection. Upgrading to version 0.1.5524.38553 is able to address this issue. The name of the patch is 16f039073709a21a76526110d773a6cce0ce753a. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218024.
+- [Live-Hack-CVE/CVE-2015-10039](https://github.com/Live-Hack-CVE/CVE-2015-10039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10039">
+
+---
+## CVE-2015-10038 (2023-01-11T19:15:00)
+> A vulnerability was found in nym3r0s pplv2. It has been declared as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to sql injection. The name of the patch is 28f8b0550104044da09f04659797487c59f85b00. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218023.
+- [Live-Hack-CVE/CVE-2015-10038](https://github.com/Live-Hack-CVE/CVE-2015-10038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10038">
+
+---
+## CVE-2015-10037 (2023-01-11T07:15:00)
+> A vulnerability, which was classified as critical, was found in ACI_Escola. This affects an unknown part. The manipulation leads to sql injection. The name of the patch is 34eed1f7b9295d1424912f79989d8aba5de41e9f. It is recommended to apply a patch to fix this issue. The identifier VDB-217965 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2015-10037](https://github.com/Live-Hack-CVE/CVE-2015-10037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10037">
+
+---
+## CVE-2015-10036 (2023-01-11T07:15:00)
+> A vulnerability was found in kylebebak dronfelipe. It has been declared as critical. Affected by this vulnerability is an unknown functionality. The manipulation leads to sql injection. The name of the patch is 87405b74fe651892d79d0dff62ed17a7eaef6a60. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217951.
+- [Live-Hack-CVE/CVE-2015-10036](https://github.com/Live-Hack-CVE/CVE-2015-10036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10036">
+
+---
 ## CVE-2015-10035 (2023-01-09T21:15:00)
 > A vulnerability was found in gperson angular-test-reporter and classified as critical. This issue affects the function getProjectTables/addTest of the file rest-server/data-server.js. The manipulation leads to sql injection. The name of the patch is a29d8ae121b46ebfa96a55a9106466ab2ef166ae. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217715.
 - [Live-Hack-CVE/CVE-2015-10035](https://github.com/Live-Hack-CVE/CVE-2015-10035)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10035">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10035">

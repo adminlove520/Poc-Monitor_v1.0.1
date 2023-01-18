@@ -12,6 +12,11 @@
 - [g1vi/CVE-2006-3392](https://github.com/g1vi/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2006-3392">
 
 ---
+## CVE-2006-3360 (2006-07-06T20:05:00)
+> Directory traversal vulnerability in index.php in phpSysInfo 2.5.1 allows remote attackers to determine the existence of arbitrary files via a .. (dot dot) sequence and a trailing null (%00) byte in the lng parameter, which will display a different error message if the file exists.
+- [Live-Hack-CVE/CVE-2006-3360](https://github.com/Live-Hack-CVE/CVE-2006-3360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-3360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-3360">
+
+---
 ## CVE-2006-20001 (2023-01-17T20:15:00)
 > A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier.
 - [Live-Hack-CVE/CVE-2006-20001](https://github.com/Live-Hack-CVE/CVE-2006-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-20001">
