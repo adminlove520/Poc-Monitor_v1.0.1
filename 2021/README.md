@@ -71,6 +71,11 @@
 - [Live-Hack-CVE/CVE-2021-46784](https://github.com/Live-Hack-CVE/CVE-2021-46784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46784">
 
 ---
+## CVE-2021-46779 (2023-01-11T08:15:00)
+> Insufficient input validation in SVC_ECC_PRIMITIVE system call in a compromised user application or ABL may allow an attacker to corrupt ASP (AMD Secure Processor) OS memory which may lead to potential loss of integrity and availability.
+- [Live-Hack-CVE/CVE-2021-46779](https://github.com/Live-Hack-CVE/CVE-2021-46779)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46779">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46779">
+
+---
 ## CVE-2021-46778 (2022-08-10T20:15:00)
 > Execution unit scheduler contention may lead to a side channel vulnerability found on AMD CPU microarchitectures codenamed “Zen 1”, “Zen 2” and “Zen 3” that use simultaneous multithreading (SMT). By measuring the contention level on scheduler queues an attacker may potentially leak sensitive information.
 - [Live-Hack-CVE/CVE-2021-46778](https://github.com/Live-Hack-CVE/CVE-2021-46778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46778">
