@@ -1580,6 +1580,11 @@
 - [Live-Hack-CVE/CVE-2021-42001](https://github.com/Live-Hack-CVE/CVE-2021-42001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42001">
 
 ---
+## CVE-2021-4200 (2022-05-02T12:16:00)
+> A Improper Privilege Management vulnerability in SUSE Rancher allows write access to the Catalog for any user when restricted-admin role is enabled. This issue affects: SUSE Rancher Rancher versions prior to 2.5.13; Rancher versions prior to 2.6.4.
+- [Live-Hack-CVE/CVE-2021-4200](https://github.com/Live-Hack-CVE/CVE-2021-4200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4200">
+
+---
 ## CVE-2021-41992 (2022-04-30T22:15:00)
 > A misconfiguration of RSA in PingID Windows Login prior to 2.7 is vulnerable to pre-computed dictionary attacks, leading to an offline MFA bypass.
 - [Live-Hack-CVE/CVE-2021-41992](https://github.com/Live-Hack-CVE/CVE-2021-41992)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41992">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41992">
@@ -3572,9 +3577,10 @@
 - [Live-Hack-CVE/CVE-2021-36631](https://github.com/Live-Hack-CVE/CVE-2021-36631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36631">
 
 ---
-## CVE-2021-36630 ()
-> 
+## CVE-2021-36630 (2023-01-18T13:15:00)
+> DDOS reflection amplification vulnerability in eAut module of Ruckus Wireless SmartZone controller that allows remote attackers to perform DOS attacks via crafted request.
 - [lixiang957/CVE-2021-36630](https://github.com/lixiang957/CVE-2021-36630)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-36630">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-36630">
+- [Live-Hack-CVE/CVE-2021-36630](https://github.com/Live-Hack-CVE/CVE-2021-36630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36630">
 
 ---
 ## CVE-2021-3661 (2022-12-12T13:15:00)
@@ -4542,11 +4548,12 @@
 - [Live-Hack-CVE/CVE-2021-3410](https://github.com/Live-Hack-CVE/CVE-2021-3410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3410">
 
 ---
-## CVE-2021-33959 ()
-> 
+## CVE-2021-33959 (2023-01-18T14:15:00)
+> Plex media server 1.21 and before is vulnerable to ddos reflection attack via plex service.
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
+- [Live-Hack-CVE/CVE-2021-33959](https://github.com/Live-Hack-CVE/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33959">
 
 ---
 ## CVE-2021-33909 (2021-07-20T19:15:00)

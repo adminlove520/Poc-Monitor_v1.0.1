@@ -738,6 +738,11 @@
 - [Live-Hack-CVE/CVE-2023-21781](https://github.com/Live-Hack-CVE/CVE-2023-21781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21781">
 
 ---
+## CVE-2023-21771 (2023-01-10T22:15:00)
+> Windows Local Session Manager (LSM) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21771](https://github.com/Live-Hack-CVE/CVE-2023-21771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21771">
+
+---
 ## CVE-2023-21765 (2023-01-10T22:15:00)
 > Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21760.
 - [Live-Hack-CVE/CVE-2023-21765](https://github.com/Live-Hack-CVE/CVE-2023-21765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21765">
@@ -753,10 +758,20 @@
 - [Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21755">
 
 ---
+## CVE-2023-21753 (2023-01-10T22:15:00)
+> Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21536.
+- [Live-Hack-CVE/CVE-2023-21753](https://github.com/Live-Hack-CVE/CVE-2023-21753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21753">
+
+---
 ## CVE-2023-21752 (2023-01-10T22:15:00)
 > Windows Backup Service Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21752](https://github.com/Live-Hack-CVE/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21752">
 - [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-21752">
+
+---
+## CVE-2023-21745 (2023-01-10T22:15:00)
+> Microsoft Exchange Server Spoofing Vulnerability. This CVE ID is unique from CVE-2023-21762.
+- [Live-Hack-CVE/CVE-2023-21745](https://github.com/Live-Hack-CVE/CVE-2023-21745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21745">
 
 ---
 ## CVE-2023-21744 (2023-01-10T22:15:00)
@@ -788,11 +803,26 @@
 - [Live-Hack-CVE/CVE-2023-21735](https://github.com/Live-Hack-CVE/CVE-2023-21735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21735">
 
 ---
+## CVE-2023-21733 (2023-01-10T22:15:00)
+> Windows Bind Filter Driver Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21733](https://github.com/Live-Hack-CVE/CVE-2023-21733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21733">
+
+---
+## CVE-2023-21732 (2023-01-10T22:15:00)
+> Microsoft ODBC Driver Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21732](https://github.com/Live-Hack-CVE/CVE-2023-21732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21732">
+
+---
 ## CVE-2023-21730 (2023-01-10T22:15:00)
 > Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21551, CVE-2023-21561.
 - [Live-Hack-CVE/CVE-2023-21730](https://github.com/Live-Hack-CVE/CVE-2023-21730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21730">
 - [Live-Hack-CVE/CVE-2023-21551](https://github.com/Live-Hack-CVE/CVE-2023-21551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21551">
 - [Live-Hack-CVE/CVE-2023-21561](https://github.com/Live-Hack-CVE/CVE-2023-21561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21561">
+
+---
+## CVE-2023-21728 (2023-01-10T22:15:00)
+> Windows Netlogon Denial of Service Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21728](https://github.com/Live-Hack-CVE/CVE-2023-21728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21728">
 
 ---
 ## CVE-2023-21726 (2023-01-10T22:15:00)

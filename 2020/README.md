@@ -2674,6 +2674,11 @@
 - [Live-Hack-CVE/CVE-2020-22025](https://github.com/Live-Hack-CVE/CVE-2020-22025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22025">
 
 ---
+## CVE-2020-22007 (2023-01-18T13:15:00)
+> OS Command Injection vulnerability in OKER G955V1 v1.03.02.20161128, allows physical attackers to interrupt the boot sequence and execute arbitrary commands with root privileges.
+- [Live-Hack-CVE/CVE-2020-22007](https://github.com/Live-Hack-CVE/CVE-2020-22007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22007">
+
+---
 ## CVE-2020-21997 (2021-04-29T15:15:00)
 > Smartwares HOME easy <=1.0.9 is vulnerable to an unauthenticated database backup download and information disclosure vulnerability. An attacker could disclose sensitive and clear-text information resulting in authentication bypass, session hijacking and full system control.
 - [Live-Hack-CVE/CVE-2020-21997](https://github.com/Live-Hack-CVE/CVE-2020-21997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21997">
