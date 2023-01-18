@@ -759,6 +759,38 @@
 - [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-21752">
 
 ---
+## CVE-2023-21744 (2023-01-10T22:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21742.
+- [Live-Hack-CVE/CVE-2023-21744](https://github.com/Live-Hack-CVE/CVE-2023-21744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21744">
+- [Live-Hack-CVE/CVE-2023-21742](https://github.com/Live-Hack-CVE/CVE-2023-21742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21742">
+
+---
+## CVE-2023-21743 (2023-01-10T22:15:00)
+> Microsoft SharePoint Server Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21743](https://github.com/Live-Hack-CVE/CVE-2023-21743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21743">
+
+---
+## CVE-2023-21742 (2023-01-10T22:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21744.
+- [Live-Hack-CVE/CVE-2023-21742](https://github.com/Live-Hack-CVE/CVE-2023-21742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21742">
+
+---
+## CVE-2023-21735 (2023-01-10T22:15:00)
+> Microsoft Office Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21734.
+- [Live-Hack-CVE/CVE-2023-21735](https://github.com/Live-Hack-CVE/CVE-2023-21735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21735">
+
+---
+## CVE-2023-21734 (2023-01-10T22:15:00)
+> Microsoft Office Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21735.
+- [Live-Hack-CVE/CVE-2023-21734](https://github.com/Live-Hack-CVE/CVE-2023-21734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21734">
+- [Live-Hack-CVE/CVE-2023-21735](https://github.com/Live-Hack-CVE/CVE-2023-21735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21735">
+
+---
+## CVE-2023-21730 (2023-01-10T22:15:00)
+> Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21551, CVE-2023-21561.
+- [Live-Hack-CVE/CVE-2023-21730](https://github.com/Live-Hack-CVE/CVE-2023-21730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21730">
+
+---
 ## CVE-2023-21726 (2023-01-10T22:15:00)
 > Windows Credential Manager User Interface Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21726">
@@ -772,6 +804,36 @@
 ## CVE-2023-21680 (2023-01-10T22:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21680](https://github.com/Live-Hack-CVE/CVE-2023-21680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21680">
+
+---
+## CVE-2023-21679 (2023-01-10T22:15:00)
+> Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21546, CVE-2023-21555, CVE-2023-21556.
+- [Live-Hack-CVE/CVE-2023-21679](https://github.com/Live-Hack-CVE/CVE-2023-21679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21679">
+
+---
+## CVE-2023-21678 (2023-01-10T22:15:00)
+> Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21760, CVE-2023-21765.
+- [Live-Hack-CVE/CVE-2023-21678](https://github.com/Live-Hack-CVE/CVE-2023-21678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21678">
+
+---
+## CVE-2023-21677 (2023-01-10T22:15:00)
+> Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability. This CVE ID is unique from CVE-2023-21683, CVE-2023-21758.
+- [Live-Hack-CVE/CVE-2023-21677](https://github.com/Live-Hack-CVE/CVE-2023-21677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21677">
+
+---
+## CVE-2023-21676 (2023-01-10T22:15:00)
+> Windows Lightweight Directory Access Protocol (LDAP) Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21676](https://github.com/Live-Hack-CVE/CVE-2023-21676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21676">
+
+---
+## CVE-2023-21675 (2023-01-10T22:15:00)
+> Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21755, CVE-2023-21772, CVE-2023-21773, CVE-2023-21774.
+- [Live-Hack-CVE/CVE-2023-21675](https://github.com/Live-Hack-CVE/CVE-2023-21675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21675">
+
+---
+## CVE-2023-21674 (2023-01-10T22:15:00)
+> Windows Advanced Local Procedure Call (ALPC) Elevation of Privilege Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21674](https://github.com/Live-Hack-CVE/CVE-2023-21674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21674">
 
 ---
 ## CVE-2023-21599 (2023-01-13T21:15:00)
@@ -819,9 +881,19 @@
 - [Live-Hack-CVE/CVE-2023-21587](https://github.com/Live-Hack-CVE/CVE-2023-21587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21587">
 
 ---
+## CVE-2023-21563 (2023-01-10T22:15:00)
+> BitLocker Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21563](https://github.com/Live-Hack-CVE/CVE-2023-21563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21563">
+
+---
 ## CVE-2023-21561 (2023-01-10T22:15:00)
 > Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21551, CVE-2023-21730.
 - [Live-Hack-CVE/CVE-2023-21561](https://github.com/Live-Hack-CVE/CVE-2023-21561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21561">
+
+---
+## CVE-2023-21560 (2023-01-10T22:15:00)
+> Windows Boot Manager Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21560](https://github.com/Live-Hack-CVE/CVE-2023-21560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21560">
 
 ---
 ## CVE-2023-21559 (2023-01-10T22:15:00)
@@ -983,6 +1055,11 @@
 ## CVE-2023-20523 (2023-01-11T08:15:00)
 > TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service.
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
+
+---
+## CVE-2023-0358 (2023-01-18T02:15:00)
+> Use After Free in GitHub repository gpac/gpac prior to 2.3.0-DEV.
+- [Live-Hack-CVE/CVE-2023-0358](https://github.com/Live-Hack-CVE/CVE-2023-0358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0358">
 
 ---
 ## CVE-2023-0338 (2023-01-17T16:15:00)
