@@ -1333,6 +1333,11 @@
 - [Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20523">
 
 ---
+## CVE-2023-20522 (2023-01-11T08:15:00)
+> Insufficient input validation in ASP may allow an attacker with a malicious BIOS to potentially cause a denial of service.
+- [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
+
+---
 ## CVE-2023-0406 (2023-01-19T18:15:00)
 > Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0406](https://github.com/Live-Hack-CVE/CVE-2023-0406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0406">

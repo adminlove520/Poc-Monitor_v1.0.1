@@ -655,9 +655,29 @@
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
 
 ---
+## CVE-2017-16312 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_sonos, at 0x9d01c028, the value for the `sn_discover` key is copied using `strcpy` to the buffer at `$sp+0x2b0`.This buffer is 32 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16312](https://github.com/Live-Hack-CVE/CVE-2017-16312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16312">
+
+---
+## CVE-2017-16311 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd UpdateCheck, at 0x9d01bb64, the value for the `type` key is copied using `strcpy` to the buffer at `$sp+0x270`.This buffer is 16 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16311](https://github.com/Live-Hack-CVE/CVE-2017-16311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16311">
+
+---
+## CVE-2017-16310 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_ch, at 0x9d01b7b0, the value for the `ch` key is copied using `strcpy` to the buffer at `$sp+0x334`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16310](https://github.com/Live-Hack-CVE/CVE-2017-16310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16310">
+
+---
 ## CVE-2017-16309 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd sn_exw, at 0x9d01b3d8, the value for the `d` key is copied using `strcpy` to the buffer at `$sp+0x334`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16309](https://github.com/Live-Hack-CVE/CVE-2017-16309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16309">
+
+---
+## CVE-2017-16304 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd sn_ex, at 0x9d01ae40, the value for the `d` key is copied using `strcpy` to the buffer at `$sp+0x334`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16304](https://github.com/Live-Hack-CVE/CVE-2017-16304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16304">
 
 ---
 ## CVE-2017-16303 (2023-01-11T22:15:00)
@@ -680,14 +700,59 @@
 - [Live-Hack-CVE/CVE-2017-16300](https://github.com/Live-Hack-CVE/CVE-2017-16300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16300">
 
 ---
+## CVE-2017-16292 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd g_schd, at 0x9d019c50, the value for the `grp` key is copied using `strcpy` to the buffer at `$sp+0x1b4`.This buffer is 8 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16292](https://github.com/Live-Hack-CVE/CVE-2017-16292)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16292">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16292">
+
+---
+## CVE-2017-16291 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_sun, at 0x9d019854, the value for the `sunset` key is copied using `strcpy` to the buffer at `$sp+0x334`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16291](https://github.com/Live-Hack-CVE/CVE-2017-16291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16291">
+
+---
+## CVE-2017-16290 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_sun, at 0x9d01980c, the value for the `sunrise` key is copied using `strcpy` to the buffer at `$sp+0x2d0`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16290](https://github.com/Live-Hack-CVE/CVE-2017-16290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16290">
+
+---
 ## CVE-2017-16289 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_utc, at 0x9d0193ac, the value for the `offset` key is copied using `strcpy` to the buffer at `$sp+0x2d0`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16289](https://github.com/Live-Hack-CVE/CVE-2017-16289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16289">
 
 ---
+## CVE-2017-16288 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_time, at 0x9d018f60, the value for the `dst` key is copied using `strcpy` to the buffer at `$sp+0x2b0`.This buffer is 32 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16288](https://github.com/Live-Hack-CVE/CVE-2017-16288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16288">
+
+---
+## CVE-2017-16287 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_time, at 0x9d018f00, the value for the `dstend` key is copied using `strcpy` to the buffer at `$sp+0x270`.This buffer is 16 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16287](https://github.com/Live-Hack-CVE/CVE-2017-16287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16287">
+
+---
 ## CVE-2017-16286 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_time, at 0x9d018ea0, the value for the `dststart` key is copied using `strcpy` to the buffer at `$sp+0x280`.This buffer is 16 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16286](https://github.com/Live-Hack-CVE/CVE-2017-16286)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16286">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16286">
+
+---
+## CVE-2017-16285 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_time, at 0x9d018e58, the value for the `offset` key is copied using `strcpy` to the buffer at `$sp+0x2d0`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16285](https://github.com/Live-Hack-CVE/CVE-2017-16285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16285">
+
+---
+## CVE-2017-16284 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_name, at 0x9d018958, the value for the `city` key is copied using `strcpy` to the buffer at `$sp+0x290`.This buffer is 32 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16284](https://github.com/Live-Hack-CVE/CVE-2017-16284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16284">
+
+---
+## CVE-2017-16283 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_name, at 0x9d0188a8, the value for the `name` key is copied using `strcpy` to the buffer at `$sp+0x2b0`.This buffer is 32 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16283](https://github.com/Live-Hack-CVE/CVE-2017-16283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16283">
+
+---
+## CVE-2017-16282 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_net, at 0x9d01827c, the value for the `dhcp` key is copied using `strcpy` to the buffer at `$sp+0x270`.This buffer is 16 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16282](https://github.com/Live-Hack-CVE/CVE-2017-16282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16282">
 
 ---
 ## CVE-2017-16281 (2023-01-11T22:15:00)
@@ -703,6 +768,11 @@
 ## CVE-2017-16279 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_net, at 0x9d0181a4, the value for the `port` key is copied using `strcpy` to the buffer at `$sp+0x280`.This buffer is 16 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16279](https://github.com/Live-Hack-CVE/CVE-2017-16279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16279">
+
+---
+## CVE-2017-16278 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd s_net, at 0x9d01815c, the value for the `ip` key is copied using `strcpy` to the buffer at `$sp+0x2d0`.This buffer is 100 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16278](https://github.com/Live-Hack-CVE/CVE-2017-16278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16278">
 
 ---
 ## CVE-2017-16277 (2023-01-11T22:15:00)
@@ -728,6 +798,11 @@
 ## CVE-2017-16273 (2023-01-11T22:15:00)
 > Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd e_ml, at 0x9d016fa8, the value for the `grp` key is copied using `strcpy` to the buffer at `$sp+0x1b4`.This buffer is 8 bytes large, sending anything longer will cause a buffer overflow.
 - [Live-Hack-CVE/CVE-2017-16273](https://github.com/Live-Hack-CVE/CVE-2017-16273)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16273">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16273">
+
+---
+## CVE-2017-16272 (2023-01-11T22:15:00)
+> Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the "cc" channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authenticated HTTP request to trigger this vulnerability. In cmd e_l, at 0x9d016cf0, the value for the `grp` key is copied using `strcpy` to the buffer at `$sp+0x1b4`.This buffer is 8 bytes large, sending anything longer will cause a buffer overflow.
+- [Live-Hack-CVE/CVE-2017-16272](https://github.com/Live-Hack-CVE/CVE-2017-16272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16272">
 
 ---
 ## CVE-2017-16271 (2023-01-11T22:15:00)
