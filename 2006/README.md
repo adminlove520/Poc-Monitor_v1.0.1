@@ -1,6 +1,11 @@
 # 2006 List
 
 ---
+## CVE-2006-7204 (2007-05-22T19:30:00)
+> The imap_body function in PHP before 4.4.4 does not implement safemode or open_basedir checks, which allows local users to read arbitrary files or list arbitrary directory contents.
+- [Live-Hack-CVE/CVE-2006-7204](https://github.com/Live-Hack-CVE/CVE-2006-7204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-7204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-7204">
+
+---
 ## CVE-2006-3392 (2006-07-06T20:05:00)
 > Webmin before 1.290 and Usermin before 1.220 calls the simplify_path function before decoding HTML, which allows remote attackers to read arbitrary files, as demonstrated using "..%01" sequences, which bypass the removal of "../" sequences before bytes such as "%01" are removed from the filename.  NOTE: This is a different issue than CVE-2006-3274.
 - [kernel-cyber/CVE-2006-3392](https://github.com/kernel-cyber/CVE-2006-3392)	<img alt="forks" src="https://img.shields.io/github/forks/kernel-cyber/CVE-2006-3392">	<img alt="stars" src="https://img.shields.io/github/stars/kernel-cyber/CVE-2006-3392">

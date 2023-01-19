@@ -92,6 +92,11 @@
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">
 
 ---
+## CVE-2014-4698 (2014-07-10T11:06:00)
+> Use-after-free vulnerability in ext/spl/spl_array.c in the SPL component in PHP through 5.5.14 allows context-dependent attackers to cause a denial of service or possibly have unspecified other impact via crafted ArrayIterator usage within applications in certain web-hosting environments.
+- [Live-Hack-CVE/CVE-2014-4698](https://github.com/Live-Hack-CVE/CVE-2014-4698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4698">
+
+---
 ## CVE-2014-4078 (2014-11-11T22:55:00)
 > The IP Security feature in Microsoft Internet Information Services (IIS) 8.0 and 8.5 does not properly process wildcard allow and deny rules for domains within the "IP Address and Domain Restrictions" list, which makes it easier for remote attackers to bypass an intended rule set via an HTTP request, aka "IIS Security Feature Bypass Vulnerability."
 - [AleMizandari/-CVE-2014-4078](https://github.com/AleMizandari/-CVE-2014-4078)	<img alt="forks" src="https://img.shields.io/github/forks/AleMizandari/-CVE-2014-4078">	<img alt="stars" src="https://img.shields.io/github/stars/AleMizandari/-CVE-2014-4078">
@@ -102,9 +107,19 @@
 - [Live-Hack-CVE/CVE-2014-4049](https://github.com/Live-Hack-CVE/CVE-2014-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4049">
 
 ---
+## CVE-2014-3981 (2014-06-08T18:55:00)
+> acinclude.m4, as used in the configure script in PHP 5.5.13 and earlier, allows local users to overwrite arbitrary files via a symlink attack on the /tmp/phpglibccheck file.
+- [Live-Hack-CVE/CVE-2014-3981](https://github.com/Live-Hack-CVE/CVE-2014-3981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3981">
+
+---
 ## CVE-2014-3710 (2014-11-05T11:55:00)
 > The donote function in readelf.c in file through 5.20, as used in the Fileinfo component in PHP 5.4.34, does not ensure that sufficient note headers are present, which allows remote attackers to cause a denial of service (out-of-bounds read and application crash) via a crafted ELF file.
 - [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
+
+---
+## CVE-2014-3538 (2014-07-03T14:55:00)
+> file before 5.19 does not properly restrict the amount of data read during a regex search, which allows remote attackers to cause a denial of service (CPU consumption) via a crafted file that triggers backtracking during processing of an awk rule.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2013-7345.
+- [Live-Hack-CVE/CVE-2014-3538](https://github.com/Live-Hack-CVE/CVE-2014-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3538">
 
 ---
 ## CVE-2014-3166 (2014-08-13T04:57:00)
@@ -117,6 +132,11 @@
 - [xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120">
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
+
+---
+## CVE-2014-2523 (2014-03-24T16:40:00)
+> net/netfilter/nf_conntrack_proto_dccp.c in the Linux kernel through 3.13.6 uses a DCCP header pointer incorrectly, which allows remote attackers to cause a denial of service (system crash) or possibly execute arbitrary code via a DCCP packet that triggers a call to the (1) dccp_new, (2) dccp_packet, or (3) dccp_error function.
+- [Live-Hack-CVE/CVE-2014-2523](https://github.com/Live-Hack-CVE/CVE-2014-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2523">
 
 ---
 ## CVE-2014-2497 (2014-03-21T14:55:00)

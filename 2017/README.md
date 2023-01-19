@@ -581,6 +581,11 @@
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
 
 ---
+## CVE-2017-18017 (2018-01-03T06:29:00)
+> The tcpmss_mangle_packet function in net/netfilter/xt_TCPMSS.c in the Linux kernel before 4.11, and 4.9.x before 4.9.36, allows remote attackers to cause a denial of service (use-after-free and memory corruption) or possibly have unspecified other impact by leveraging the presence of xt_TCPMSS in an iptables action.
+- [Live-Hack-CVE/CVE-2017-18017](https://github.com/Live-Hack-CVE/CVE-2017-18017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18017">
+
+---
 ## CVE-2017-18005 (2017-12-31T19:29:00)
 > Exiv2 0.26 has a Null Pointer Dereference in the Exiv2::DataValue::toLong function in value.cpp, related to crafted metadata in a TIFF file.
 - [Live-Hack-CVE/CVE-2017-18005](https://github.com/Live-Hack-CVE/CVE-2017-18005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18005">
@@ -589,6 +594,16 @@
 ## CVE-2017-17898 (2017-12-27T17:08:00)
 > Dolibarr ERP/CRM version 6.0.4 does not block direct requests to *.tpl.php files, which allows remote attackers to obtain sensitive information.
 - [Live-Hack-CVE/CVE-2017-17898](https://github.com/Live-Hack-CVE/CVE-2017-17898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17898">
+
+---
+## CVE-2017-17853 (2017-12-27T17:08:00)
+> kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging incorrect BPF_RSH signed bounds calculations.
+- [Live-Hack-CVE/CVE-2017-17853](https://github.com/Live-Hack-CVE/CVE-2017-17853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17853">
+
+---
+## CVE-2017-17806 (2017-12-20T23:29:00)
+> The HMAC implementation (crypto/hmac.c) in the Linux kernel before 4.14.8 does not validate that the underlying cryptographic hash algorithm is unkeyed, allowing a local attacker able to use the AF_ALG-based hash interface (CONFIG_CRYPTO_USER_API_HASH) and the SHA-3 hash algorithm (CONFIG_CRYPTO_SHA3) to cause a kernel stack buffer overflow by executing a crafted sequence of system calls that encounter a missing SHA-3 initialization.
+- [Live-Hack-CVE/CVE-2017-17806](https://github.com/Live-Hack-CVE/CVE-2017-17806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17806">
 
 ---
 ## CVE-2017-17736 (2018-03-23T15:29:00)

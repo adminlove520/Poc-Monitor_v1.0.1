@@ -28,6 +28,11 @@
 - [Live-Hack-CVE/CVE-2009-2699](https://github.com/Live-Hack-CVE/CVE-2009-2699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2699">
 
 ---
+## CVE-2009-2687 (2009-08-05T19:30:00)
+> The exif_read_data function in the Exif module in PHP before 5.2.10 allows remote attackers to cause a denial of service (crash) via a malformed JPEG image with invalid offset fields, a different issue than CVE-2005-3353.
+- [Live-Hack-CVE/CVE-2009-2687](https://github.com/Live-Hack-CVE/CVE-2009-2687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2687">
+
+---
 ## CVE-2009-2265 (2009-07-05T16:30:00)
 > Multiple directory traversal vulnerabilities in FCKeditor before 2.6.4.1 allow remote attackers to create executable files in arbitrary directories via directory traversal sequences in the input to unspecified connector modules, as exploited in the wild for remote code execution in July 2009, related to the file browser and the editor/filemanager/connectors/ directory.
 - [p1ckzi/CVE-2009-2265](https://github.com/p1ckzi/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2009-2265">

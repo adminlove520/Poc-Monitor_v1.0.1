@@ -1813,6 +1813,11 @@
 - [graysuit/CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514)	<img alt="forks" src="https://img.shields.io/github/forks/graysuit/CVE-2019-15514">	<img alt="stars" src="https://img.shields.io/github/stars/graysuit/CVE-2019-15514">
 
 ---
+## CVE-2019-15504 (2019-08-23T06:15:00)
+> drivers/net/wireless/rsi/rsi_91x_usb.c in the Linux kernel through 5.2.9 has a Double Free via crafted USB device traffic (which may be remote via usbip or usbredir).
+- [Live-Hack-CVE/CVE-2019-15504](https://github.com/Live-Hack-CVE/CVE-2019-15504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15504">
+
+---
 ## CVE-2019-15107 (2019-08-16T03:15:00)
 > An issue was discovered in Webmin <=1.920. The parameter old in password_change.cgi contains a command injection vulnerability.
 - [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)	<img alt="forks" src="https://img.shields.io/github/forks/psw01/CVE-2019-15107_webminRCE">	<img alt="stars" src="https://img.shields.io/github/stars/psw01/CVE-2019-15107_webminRCE">

@@ -524,6 +524,11 @@
 - [Live-Hack-CVE/CVE-2018-21010](https://github.com/Live-Hack-CVE/CVE-2018-21010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-21010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-21010">
 
 ---
+## CVE-2018-20961 (2019-08-07T15:15:00)
+> In the Linux kernel before 4.16.4, a double free vulnerability in the f_midi_set_alt function of drivers/usb/gadget/function/f_midi.c in the f_midi driver may allow attackers to cause a denial of service or possibly have unspecified other impact.
+- [Live-Hack-CVE/CVE-2018-20961](https://github.com/Live-Hack-CVE/CVE-2018-20961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20961">
+
+---
 ## CVE-2018-20580 (2019-05-03T20:29:00)
 > The WSDL import functionality in SmartBear ReadyAPI 2.5.0 and 2.6.0 allows remote attackers to execute arbitrary Java code via a crafted request parameter in a WSDL file.
 - [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580)	<img alt="forks" src="https://img.shields.io/github/forks/gscamelo/CVE-2018-20580">	<img alt="stars" src="https://img.shields.io/github/stars/gscamelo/CVE-2018-20580">

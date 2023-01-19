@@ -34,6 +34,11 @@
 - [benjholla/CVE-2012-4681-Armoring](https://github.com/benjholla/CVE-2012-4681-Armoring)	<img alt="forks" src="https://img.shields.io/github/forks/benjholla/CVE-2012-4681-Armoring">	<img alt="stars" src="https://img.shields.io/github/stars/benjholla/CVE-2012-4681-Armoring">
 
 ---
+## CVE-2012-4388 (2012-09-07T22:55:00)
+> The sapi_header_op function in main/SAPI.c in PHP 5.4.0RC2 through 5.4.0 does not properly determine a pointer during checks for %0D sequences (aka carriage return characters), which allows remote attackers to bypass an HTTP response-splitting protection mechanism via a crafted URL, related to improper interaction between the PHP header function and certain browsers, as demonstrated by Internet Explorer and Google Chrome.  NOTE: this vulnerability exists because of an incorrect fix for CVE-2011-1398.
+- [Live-Hack-CVE/CVE-2012-4388](https://github.com/Live-Hack-CVE/CVE-2012-4388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4388">
+
+---
 ## CVE-2012-4244 (2012-09-14T10:33:00)
 > ISC BIND 9.x before 9.7.6-P3, 9.8.x before 9.8.3-P3, 9.9.x before 9.9.1-P3, and 9.4-ESV and 9.6-ESV before 9.6-ESV-R7-P3 allows remote attackers to cause a denial of service (assertion failure and named daemon exit) via a query for a long resource record.
 - [Live-Hack-CVE/CVE-2012-4244](https://github.com/Live-Hack-CVE/CVE-2012-4244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4244">

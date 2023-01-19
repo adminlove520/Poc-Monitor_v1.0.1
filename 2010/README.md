@@ -41,6 +41,11 @@
 - [Live-Hack-CVE/CVE-2010-3870](https://github.com/Live-Hack-CVE/CVE-2010-3870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3870">
 
 ---
+## CVE-2010-3709 (2010-11-09T01:00:00)
+> The ZipArchive::getArchiveComment function in PHP 5.2.x through 5.2.14 and 5.3.x through 5.3.3 allows context-dependent attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted ZIP archive.
+- [Live-Hack-CVE/CVE-2010-3709](https://github.com/Live-Hack-CVE/CVE-2010-3709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3709">
+
+---
 ## CVE-2010-3333 (2010-11-10T03:00:00)
 > Stack-based buffer overflow in Microsoft Office XP SP3, Office 2003 SP3, Office 2007 SP2, Office 2010, Office 2004 and 2008 for Mac, Office for Mac 2011, and Open XML File Format Converter for Mac allows remote attackers to execute arbitrary code via crafted RTF data, aka "RTF Stack Buffer Overflow Vulnerability."
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
@@ -57,6 +62,11 @@
 > The Cinepak codec in Microsoft Windows XP SP2 and SP3, Windows Vista SP1 and SP2, and Windows 7 does not properly decompress media files, which allows remote attackers to execute arbitrary code via a crafted file, aka "Cinepak Codec Decompression Vulnerability."
 - [Sunqiz/CVE-2010-2553-reproduction](https://github.com/Sunqiz/CVE-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-2553-reproduction">
 - [Sunqiz/cve-2010-2553-reproduction](https://github.com/Sunqiz/cve-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/cve-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/cve-2010-2553-reproduction">
+
+---
+## CVE-2010-2531 (2010-08-20T22:00:00)
+> The var_export function in PHP 5.2 before 5.2.14 and 5.3 before 5.3.3 flushes the output buffer to the user when certain fatal errors occur, even if display_errors is off, which allows remote attackers to obtain sensitive information by causing the application to exceed limits for memory, execution time, or recursion.
+- [Live-Hack-CVE/CVE-2010-2531](https://github.com/Live-Hack-CVE/CVE-2010-2531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2531">
 
 ---
 ## CVE-2010-2089 (2010-05-27T19:30:00)
