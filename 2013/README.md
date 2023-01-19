@@ -153,6 +153,11 @@
 - [Live-Hack-CVE/CVE-2013-1059](https://github.com/Live-Hack-CVE/CVE-2013-1059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1059">
 
 ---
+## CVE-2013-10014 (2023-01-19T10:15:00)
+> A vulnerability classified as critical has been found in oktora24 2moons. Affected is an unknown function. The manipulation leads to sql injection. The name of the patch is 1b09cf7672eb85b5b0c8a4de321f7a4ad87b09a7. It is recommended to apply a patch to fix this issue. VDB-218898 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2013-10014](https://github.com/Live-Hack-CVE/CVE-2013-10014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10014">
+
+---
 ## CVE-2013-10013 (2023-01-17T16:15:00)
 > A vulnerability was found in Bricco Authenticator Plugin. It has been declared as critical. This vulnerability affects the function authenticate/compare of the file src/java/talentum/escenic/plugins/authenticator/authenticators/DBAuthenticator.java. The manipulation leads to sql injection. Upgrading to version 1.39 is able to address this issue. The name of the patch is a5456633ff75e8f13705974c7ed1ce77f3f142d5. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218428.
 - [Live-Hack-CVE/CVE-2013-10013](https://github.com/Live-Hack-CVE/CVE-2013-10013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-10013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-10013">
