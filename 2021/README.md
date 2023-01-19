@@ -2563,6 +2563,11 @@
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
 
 ---
+## CVE-2021-40052 (2022-03-10T17:43:00)
+> There is an incorrect buffer size calculation vulnerability in the video framework.Successful exploitation of this vulnerability may affect availability.
+- [Live-Hack-CVE/CVE-2021-40052](https://github.com/Live-Hack-CVE/CVE-2021-40052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40052">
+
+---
 ## CVE-2021-40023 (2022-09-16T18:15:00)
 > Configuration defects in the secure OS module. Successful exploitation of this vulnerability will affect confidentiality.
 - [Live-Hack-CVE/CVE-2021-40023](https://github.com/Live-Hack-CVE/CVE-2021-40023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40023">
@@ -2840,6 +2845,13 @@
 ## CVE-2021-39175 (2021-08-30T21:15:00)
 > HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39175](https://github.com/Live-Hack-CVE/CVE-2021-39175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39175">
+
+---
+## CVE-2021-39174 (2021-08-28T00:15:00)
+> Cachet is an open source status page system. Prior to version 2.5.1, authenticated users, regardless of their privileges (User or Admin), can leak the value of any configuration entry of the dotenv file, e.g. the application secret (`APP_KEY`) and various passwords (email, database, etc). This issue was addressed in version 2.5.1 by improving `UpdateConfigCommandHandler` and preventing the use of nested variables in the resulting dotenv configuration file. As a workaround, only allow trusted source IP addresses to access to the administration dashboard.
+- [Live-Hack-CVE/CVE-2021-39174](https://github.com/Live-Hack-CVE/CVE-2021-39174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39174">
+- [hadrian3689/cachet_2.4.0-dev](https://github.com/hadrian3689/cachet_2.4.0-dev)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/cachet_2.4.0-dev">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/cachet_2.4.0-dev">
+- [n0kovo/CVE-2021-39174-PoC](https://github.com/n0kovo/CVE-2021-39174-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/n0kovo/CVE-2021-39174-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/n0kovo/CVE-2021-39174-PoC">
 
 ---
 ## CVE-2021-39173 (2021-08-27T23:15:00)
