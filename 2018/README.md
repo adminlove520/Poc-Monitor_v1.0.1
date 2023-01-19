@@ -188,6 +188,11 @@
 - [cristiandrami/pentesterlab_CVE-2018-6574](https://github.com/cristiandrami/pentesterlab_CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/cristiandrami/pentesterlab_CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/cristiandrami/pentesterlab_CVE-2018-6574">
 
 ---
+## CVE-2018-6557 (2018-08-21T16:29:00)
+> The MOTD update script in the base-files package in Ubuntu 18.04 LTS before 10.1ubuntu2.2, and Ubuntu 18.10 before 10.1ubuntu6 incorrectly handled temporary files. A local attacker could use this issue to cause a denial of service, or possibly escalate privileges if kernel symlink restrictions were disabled.
+- [Live-Hack-CVE/CVE-2018-6557](https://github.com/Live-Hack-CVE/CVE-2018-6557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6557">
+
+---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
 > Some NVIDIA Tegra mobile processors released prior to 2016 contain a buffer overflow vulnerability in BootROM Recovery Mode (RCM). An attacker with physical access to the device's USB and the ability to force the device to reboot into RCM could exploit the vulnerability to execute unverified code.
 - [Haruster/Haruster-Nintendo-CVE-2018-6242](https://github.com/Haruster/Haruster-Nintendo-CVE-2018-6242)	<img alt="forks" src="https://img.shields.io/github/forks/Haruster/Haruster-Nintendo-CVE-2018-6242">	<img alt="stars" src="https://img.shields.io/github/stars/Haruster/Haruster-Nintendo-CVE-2018-6242">

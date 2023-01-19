@@ -5906,6 +5906,21 @@
 - [Live-Hack-CVE/CVE-2021-26559](https://github.com/Live-Hack-CVE/CVE-2021-26559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26559">
 
 ---
+## CVE-2021-26409 (2023-01-11T08:15:00)
+> Insufficient bounds checking in SEV-ES may allow an attacker to corrupt Reverse Map table (RMP) memory, potentially resulting in a loss of SNP (Secure Nested Paging) memory integrity.
+- [Live-Hack-CVE/CVE-2021-26409](https://github.com/Live-Hack-CVE/CVE-2021-26409)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26409">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26409">
+
+---
+## CVE-2021-26407 (2023-01-11T08:15:00)
+> A randomly generated Initialization Vector (IV) may lead to a collision of IVs with the same key potentially resulting in information disclosure.
+- [Live-Hack-CVE/CVE-2021-26407](https://github.com/Live-Hack-CVE/CVE-2021-26407)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26407">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26407">
+
+---
+## CVE-2021-26404 (2023-01-11T08:15:00)
+> Improper input validation and bounds checking in SEV firmware may leak scratch buffer bytes leading to potential information disclosure.
+- [Live-Hack-CVE/CVE-2021-26404](https://github.com/Live-Hack-CVE/CVE-2021-26404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26404">
+
+---
 ## CVE-2021-26403 (2023-01-11T08:15:00)
 > Insufficient checks in SEV may lead to a malicious hypervisor disclosing the launch secret potentially resulting in compromise of VM confidentiality.
 - [Live-Hack-CVE/CVE-2021-26403](https://github.com/Live-Hack-CVE/CVE-2021-26403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26403">

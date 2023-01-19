@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2007-6755](https://github.com/Live-Hack-CVE/CVE-2007-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6755">
 
 ---
+## CVE-2007-6601 (2008-01-09T21:46:00)
+> The DBLink module in PostgreSQL 8.2 before 8.2.6, 8.1 before 8.1.11, 8.0 before 8.0.15, 7.4 before 7.4.19, and 7.3 before 7.3.21, when local trust or ident authentication is used, allows remote attackers to gain privileges via unspecified vectors.  NOTE: this issue exists because of an incomplete fix for CVE-2007-3278.
+- [Live-Hack-CVE/CVE-2007-6601](https://github.com/Live-Hack-CVE/CVE-2007-6601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6601">
+
+---
 ## CVE-2007-5536 (2007-10-18T00:17:00)
 > Unspecified vulnerability in OpenSSL before A.00.09.07l on HP-UX B.11.11, B.11.23, and B.11.31 allows local users to cause a denial of service via unspecified vectors.
 - [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
