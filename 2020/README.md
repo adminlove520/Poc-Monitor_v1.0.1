@@ -869,6 +869,11 @@
 - [Live-Hack-CVE/CVE-2020-36650](https://github.com/Live-Hack-CVE/CVE-2020-36650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36650">
 
 ---
+## CVE-2020-36649 (2023-01-11T15:15:00)
+> A vulnerability was found in mholt PapaParse up to 5.1.x. It has been classified as problematic. Affected is an unknown function of the file papaparse.js. The manipulation leads to inefficient regular expression complexity. Upgrading to version 5.2.0 is able to address this issue. The name of the patch is 235a12758cd77266d2e98fd715f53536b34ad621. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-218004.
+- [Live-Hack-CVE/CVE-2020-36649](https://github.com/Live-Hack-CVE/CVE-2020-36649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36649">
+
+---
 ## CVE-2020-36648 (2023-01-08T10:15:00)
 > A vulnerability, which was classified as critical, was found in pouetnet pouet 2.0. This affects an unknown part. The manipulation of the argument howmany leads to sql injection. The name of the patch is 11d615931352066fb2f6dcb07428277c2cd99baf. It is recommended to apply a patch to fix this issue. The identifier VDB-217641 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36648](https://github.com/Live-Hack-CVE/CVE-2020-36648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36648">

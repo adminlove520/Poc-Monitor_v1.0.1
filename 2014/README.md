@@ -234,6 +234,11 @@
 - [Live-Hack-CVE/CVE-2014-125075](https://github.com/Live-Hack-CVE/CVE-2014-125075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125075">
 
 ---
+## CVE-2014-125074 (2023-01-11T15:15:00)
+> A vulnerability was found in Nayshlok Voyager. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file Voyager/src/models/DatabaseAccess.java. The manipulation leads to sql injection. The name of the patch is f1249f438cd8c39e7ef2f6c8f2ab76b239a02fae. It is recommended to apply a patch to fix this issue. The identifier VDB-218005 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2014-125074](https://github.com/Live-Hack-CVE/CVE-2014-125074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125074">
+
+---
 ## CVE-2014-125073 (2023-01-10T16:15:00)
 > A vulnerability was found in mapoor voteapp. It has been rated as critical. Affected by this issue is the function create_poll/do_poll/show_poll/show_refresh of the file app.py. The manipulation leads to sql injection. The name of the patch is b290c21a0d8bcdbd55db860afd3cadec97388e72. It is recommended to apply a patch to fix this issue. VDB-217790 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125073](https://github.com/Live-Hack-CVE/CVE-2014-125073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125073">

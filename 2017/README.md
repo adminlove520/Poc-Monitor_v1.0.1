@@ -470,6 +470,11 @@
 - [Live-Hack-CVE/CVE-2017-20169](https://github.com/Live-Hack-CVE/CVE-2017-20169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20169">
 
 ---
+## CVE-2017-20168 (2023-01-11T15:15:00)
+> A vulnerability was found in jfm-so piWallet. It has been rated as critical. Affected by this issue is some unknown functionality of the file api.php. The manipulation of the argument key leads to sql injection. The name of the patch is b420f8c4cbe7f06a34d1b05e90ee5cdfe0aa83bb. It is recommended to apply a patch to fix this issue. VDB-218006 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2017-20168](https://github.com/Live-Hack-CVE/CVE-2017-20168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20168">
+
+---
 ## CVE-2017-20167 (2023-01-14T20:15:00)
 > A vulnerability, which was classified as problematic, was found in Minichan. This affects an unknown part of the file reports.php. The manipulation of the argument headline leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is fc0e732e58630cba318d6bf49d1388a7aa9d390e. It is recommended to apply a patch to fix this issue. The identifier VDB-217785 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20167](https://github.com/Live-Hack-CVE/CVE-2017-20167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20167">

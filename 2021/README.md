@@ -3310,6 +3310,11 @@
 - [Live-Hack-CVE/CVE-2021-3778](https://github.com/Live-Hack-CVE/CVE-2021-3778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3778">
 
 ---
+## CVE-2021-37774 (2023-01-19T13:15:00)
+> An issue was discovered in function httpProcDataSrv in TL-WDR7660 2.0.30 that allows attackers to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-37774](https://github.com/Live-Hack-CVE/CVE-2021-37774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37774">
+
+---
 ## CVE-2021-37740 (2022-04-20T20:15:00)
 > A denial of service vulnerability exists in MDT's firmware for the KNXnet/IP Secure router SCN-IP100.03 and KNX IP interface SCN-IP000.03 before v3.0.4, that allows a remote attacker to turn the device unresponsive to all requests on the KNXnet/IP Secure layer, until the device is rebooted, via a SESSION_REQUEST frame with a modified total length field.
 - [robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/CVE-2021-37740">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/CVE-2021-37740">
