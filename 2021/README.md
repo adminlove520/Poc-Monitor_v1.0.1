@@ -1026,6 +1026,11 @@
 - [Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)	<img alt="forks" src="https://img.shields.io/github/forks/Skotizo/CVE-2021-43129">	<img alt="stars" src="https://img.shields.io/github/stars/Skotizo/CVE-2021-43129">
 
 ---
+## CVE-2021-43113 (2021-12-15T07:15:00)
+> iTextPDF in iText 7 and up to 7.1.17 allows command injection via a CompareTool filename that is mishandled on the gs (aka Ghostscript) command line in GhostscriptHelper.java.
+- [Live-Hack-CVE/CVE-2021-43113](https://github.com/Live-Hack-CVE/CVE-2021-43113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43113">
+
+---
 ## CVE-2021-4311 (2023-01-09T12:15:00)
 > A vulnerability classified as problematic was found in Talend Open Studio for MDM. This vulnerability affects unknown code of the component XML Handler. The manipulation leads to xml external entity reference. The name of the patch is 31d442b9fb1d518128fd18f6e4d54e06c3d67793. It is recommended to apply a patch to fix this issue. VDB-217666 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4311](https://github.com/Live-Hack-CVE/CVE-2021-4311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4311">
