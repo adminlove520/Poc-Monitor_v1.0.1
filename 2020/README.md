@@ -3108,6 +3108,8 @@
 ## CVE-2020-1713 (2023-01-19T17:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: The CNA or individual who requested this candidate did not associate it with any vulnerability during 2020. Notes: none.
 - [Live-Hack-CVE/CVE-2020-1713](https://github.com/Live-Hack-CVE/CVE-2020-1713)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1713">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1713">
+- [xyddnljydd/CVE-2020-17136](https://github.com/xyddnljydd/CVE-2020-17136)	<img alt="forks" src="https://img.shields.io/github/forks/xyddnljydd/CVE-2020-17136">	<img alt="stars" src="https://img.shields.io/github/stars/xyddnljydd/CVE-2020-17136">
+- [cssxn/CVE-2020-17136](https://github.com/cssxn/CVE-2020-17136)	<img alt="forks" src="https://img.shields.io/github/forks/cssxn/CVE-2020-17136">	<img alt="stars" src="https://img.shields.io/github/stars/cssxn/CVE-2020-17136">
 
 ---
 ## CVE-2020-1709 (2020-03-20T15:15:00)
