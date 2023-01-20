@@ -800,6 +800,11 @@
 - [Live-Hack-CVE/CVE-2019-4422](https://github.com/Live-Hack-CVE/CVE-2019-4422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4422">
 
 ---
+## CVE-2019-4343 (2019-12-30T16:15:00)
+> IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422.
+- [Live-Hack-CVE/CVE-2019-4343](https://github.com/Live-Hack-CVE/CVE-2019-4343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4343">
+
+---
 ## CVE-2019-4284 (2019-08-05T14:15:00)
 > IBM Cloud Private 2.1.0 , 3.1.0, 3.1.1, and 3.1.2 could allow a local privileged user to obtain sensitive OIDC token that is printed to log files, which could be used to log in to the system as another user. IBM X-Force ID: 160512.
 - [Live-Hack-CVE/CVE-2019-4284](https://github.com/Live-Hack-CVE/CVE-2019-4284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4284">
@@ -1375,10 +1380,46 @@
 - [Live-Hack-CVE/CVE-2019-20330](https://github.com/Live-Hack-CVE/CVE-2019-20330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20330">
 
 ---
+## CVE-2019-20208 (2020-01-02T14:16:00)
+> dimC_Read in isomedia/box_code_3gpp.c in GPAC 0.8.0 has a stack-based buffer overflow.
+- [Live-Hack-CVE/CVE-2019-20208](https://github.com/Live-Hack-CVE/CVE-2019-20208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20208">
+
+---
+## CVE-2019-20204 (2020-01-02T14:16:00)
+> The Postie plugin 1.9.40 for WordPress allows XSS, as demonstrated by a certain payload with jaVasCript:/* at the beginning and a crafted SVG element.
+- [Live-Hack-CVE/CVE-2019-20204](https://github.com/Live-Hack-CVE/CVE-2019-20204)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20204">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20204">
+
+---
+## CVE-2019-20176 (2019-12-31T15:15:00)
+> In Pure-FTPd 1.0.49, a stack exhaustion issue was discovered in the listdir function in ls.c.
+- [Live-Hack-CVE/CVE-2019-20176](https://github.com/Live-Hack-CVE/CVE-2019-20176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20176">
+
+---
 ## CVE-2019-20172 (2019-12-31T03:15:00)
 > Kernel/VM/MemoryManager.cpp in SerenityOS before 2019-12-30 does not reject syscalls with pointers into the kernel-only virtual address space, which allows local users to gain privileges by overwriting a return address that was found on the kernel stack.
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
+
+---
+## CVE-2019-20141 (2019-12-30T18:15:00)
+> An XSS issue was discovered in the Laborator Neon theme 2.0 for WordPress via the data/autosuggest-remote.php q parameter.
+- [Live-Hack-CVE/CVE-2019-20141](https://github.com/Live-Hack-CVE/CVE-2019-20141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20141">
+
+---
+## CVE-2019-20096 (2019-12-30T05:15:00)
+> In the Linux kernel before 5.1, there is a memory leak in __feat_register_sp() in net/dccp/feat.c, which may cause denial of service, aka CID-1d3ff0950e2b.
+- [Live-Hack-CVE/CVE-2019-20096](https://github.com/Live-Hack-CVE/CVE-2019-20096)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20096">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20096">
+
+---
+## CVE-2019-20093 (2019-12-30T04:15:00)
+> The PoDoFo::PdfVariant::DelayedLoad function in PdfVariant.h in PoDoFo 0.9.6 allows remote attackers to cause a denial of service (NULL pointer dereference) via a crafted file, because of ImageExtractor.cpp.
+- [Live-Hack-CVE/CVE-2019-20093](https://github.com/Live-Hack-CVE/CVE-2019-20093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20093">
+
+---
+## CVE-2019-20085 (2019-12-30T03:15:00)
+> TVT NVMS-1000 devices allow GET /.. Directory Traversal
+- [Live-Hack-CVE/CVE-2019-20085](https://github.com/Live-Hack-CVE/CVE-2019-20085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20085">
+- [AleDiBen/NVMS1000-Exploit](https://github.com/AleDiBen/NVMS1000-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/NVMS1000-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/NVMS1000-Exploit">
 
 ---
 ## CVE-2019-20051 (2019-12-27T22:15:00)
@@ -1654,8 +1695,9 @@
 ---
 ## CVE-2019-17621 (2019-12-30T17:15:00)
 > The UPnP endpoint URL /gena.cgi in the D-Link DIR-859 Wi-Fi router 1.05 and 1.06B01 Beta01 allows an Unauthenticated remote attacker to execute system commands as root, by sending a specially crafted HTTP SUBSCRIBE request to the UPnP service when connecting to the local network.
-- [Ler2sq/CVE-2019-17621](https://github.com/Ler2sq/CVE-2019-17621)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-17621">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-17621">
+- [Squirre17/CVE-2019-17621](https://github.com/Squirre17/CVE-2019-17621)	<img alt="forks" src="https://img.shields.io/github/forks/Squirre17/CVE-2019-17621">	<img alt="stars" src="https://img.shields.io/github/stars/Squirre17/CVE-2019-17621">
 - [s1kr10s/D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1kr10s/D-Link-DIR-859-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1kr10s/D-Link-DIR-859-RCE">
+- [Live-Hack-CVE/CVE-2019-17621](https://github.com/Live-Hack-CVE/CVE-2019-17621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17621">
 
 ---
 ## CVE-2019-17578 (2019-10-16T18:15:00)

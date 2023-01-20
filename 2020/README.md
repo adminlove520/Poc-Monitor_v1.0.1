@@ -578,6 +578,11 @@
 - [Live-Hack-CVE/CVE-2020-6563](https://github.com/Live-Hack-CVE/CVE-2020-6563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6563">
 
 ---
+## CVE-2020-6509 (2020-07-22T17:15:00)
+> Use after free in extensions in Google Chrome prior to 83.0.4103.116 allowed an attacker who convinced a user to install a malicious extension to potentially perform a sandbox escape via a crafted Chrome Extension.
+- [Live-Hack-CVE/CVE-2020-6509](https://github.com/Live-Hack-CVE/CVE-2020-6509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6509">
+
+---
 ## CVE-2020-6498 (2020-06-03T23:15:00)
 > Incorrect implementation in user interface in Google Chrome on iOS prior to 83.0.4103.88 allowed a remote attacker to perform domain spoofing via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2020-6498](https://github.com/Live-Hack-CVE/CVE-2020-6498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6498">
@@ -3282,6 +3287,21 @@
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
 
 ---
+## CVE-2020-15920 (2020-07-24T01:15:00)
+> There is an OS Command Injection in Mida eFramework through 2.9.0 that allows an attacker to achieve Remote Code Execution (RCE) with administrative (root) privileges. No authentication is required.
+- [Live-Hack-CVE/CVE-2020-15920](https://github.com/Live-Hack-CVE/CVE-2020-15920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15920">
+
+---
+## CVE-2020-15890 (2020-07-21T22:15:00)
+> LuaJit through 2.1.0-beta3 has an out-of-bounds read because __gc handler frame traversal is mishandled.
+- [Live-Hack-CVE/CVE-2020-15890](https://github.com/Live-Hack-CVE/CVE-2020-15890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15890">
+
+---
+## CVE-2020-15860 (2020-07-24T16:15:00)
+> Parallels Remote Application Server (RAS) 17.1.1 has a Business Logic Error causing remote code execution. It allows an authenticated user to execute any application in the backend operating system through the web application, despite the affected application not being published. In addition, it was discovered that it is possible to access any host in the internal domain, even if it has no published applications or the mentioned host is no longer associated with that server farm.
+- [Live-Hack-CVE/CVE-2020-15860](https://github.com/Live-Hack-CVE/CVE-2020-15860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15860">
+
+---
 ## CVE-2020-15802 (2020-09-11T14:15:00)
 > Devices supporting Bluetooth before 5.1 may allow man-in-the-middle attacks, aka BLURtooth. Cross Transport Key Derivation in Bluetooth Core Specification v4.2 and v5.0 may permit an unauthenticated user to establish a bonding with one transport, either LE or BR/EDR, and replace a bonding already established on the opposing transport, BR/EDR or LE, potentially overwriting an authenticated key with an unauthenticated key, or a key with greater entropy with one with less.
 - [Live-Hack-CVE/CVE-2020-15802](https://github.com/Live-Hack-CVE/CVE-2020-15802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15802">
@@ -3327,6 +3347,11 @@
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
+
+---
+## CVE-2020-15562 (2020-07-06T12:15:00)
+> An issue was discovered in Roundcube Webmail before 1.2.11, 1.3.x before 1.3.14, and 1.4.x before 1.4.7. It allows XSS via a crafted HTML e-mail message, as demonstrated by a JavaScript payload in the xmlns (aka XML namespace) attribute of a HEAD element when an SVG element exists.
+- [Live-Hack-CVE/CVE-2020-15562](https://github.com/Live-Hack-CVE/CVE-2020-15562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15562">
 
 ---
 ## CVE-2020-15500 (2020-07-01T23:15:00)
@@ -3650,6 +3675,11 @@
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
 
 ---
+## CVE-2020-13625 (2020-06-08T17:15:00)
+> PHPMailer before 6.1.6 contains an output escaping bug when the name of a file attachment contains a double quote character. This can result in the file type being misinterpreted by the receiver or any mail relay processing the message.
+- [Live-Hack-CVE/CVE-2020-13625](https://github.com/Live-Hack-CVE/CVE-2020-13625)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13625">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13625">
+
+---
 ## CVE-2020-13614 (2020-05-26T23:15:00)
 > An issue was discovered in ssl.c in Axel before 2.17.8. The TLS implementation lacks hostname verification.
 - [Live-Hack-CVE/CVE-2020-13614](https://github.com/Live-Hack-CVE/CVE-2020-13614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13614">
@@ -3810,6 +3840,21 @@
 - [Live-Hack-CVE/CVE-2020-12783](https://github.com/Live-Hack-CVE/CVE-2020-12783)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12783">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12783">
 
 ---
+## CVE-2020-12781 (2020-08-10T03:15:00)
+> Combodo iTop contains a cross-site request forgery (CSRF) vulnerability, attackers can execute specific commands via malicious site request forgery.
+- [Live-Hack-CVE/CVE-2020-12781](https://github.com/Live-Hack-CVE/CVE-2020-12781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12781">
+
+---
+## CVE-2020-12778 (2020-08-10T03:15:00)
+> Combodo iTop does not validate inputted parameters, attackers can inject malicious commands and launch XSS attack.
+- [Live-Hack-CVE/CVE-2020-12778](https://github.com/Live-Hack-CVE/CVE-2020-12778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12778">
+
+---
+## CVE-2020-12777 (2020-08-10T03:15:00)
+> A function in Combodo iTop contains a vulnerability of Broken Access Control, which allows unauthorized attacker to inject command and disclose system information.
+- [Live-Hack-CVE/CVE-2020-12777](https://github.com/Live-Hack-CVE/CVE-2020-12777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12777">
+
+---
 ## CVE-2020-12762 (2020-05-09T18:15:00)
 > json-c through 0.14 has an integer overflow and out-of-bounds write via a large JSON file, as demonstrated by printbuf_memappend.
 - [Live-Hack-CVE/CVE-2020-12762](https://github.com/Live-Hack-CVE/CVE-2020-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12762">
@@ -3954,6 +3999,11 @@
 ## CVE-2020-11738 (2020-04-13T22:15:00)
 > The Snap Creek Duplicator plugin before 1.3.28 for WordPress (and Duplicator Pro before 3.8.7.1) allows Directory Traversal via ../ in the file parameter to duplicator_download or duplicator_init.
 - [Live-Hack-CVE/CVE-2020-11738](https://github.com/Live-Hack-CVE/CVE-2020-11738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11738">
+
+---
+## CVE-2020-11081 (2020-07-10T19:15:00)
+> osquery before version 4.4.0 enables a privilege escalation vulnerability. If a Window system is configured with a PATH that contains a user-writable directory then a local user may write a zlib1.dll DLL, which osquery will attempt to load. Since osquery runs with elevated privileges this enables local escalation. This is fixed in version 4.4.0.
+- [Live-Hack-CVE/CVE-2020-11081](https://github.com/Live-Hack-CVE/CVE-2020-11081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11081">
 
 ---
 ## CVE-2020-11066 (2020-05-14T00:15:00)
