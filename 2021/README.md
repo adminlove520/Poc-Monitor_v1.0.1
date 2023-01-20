@@ -4689,6 +4689,16 @@
 - [Live-Hack-CVE/CVE-2021-33655](https://github.com/Live-Hack-CVE/CVE-2021-33655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33655">
 
 ---
+## CVE-2021-33642 (2023-01-20T21:15:00)
+> When a file is processed, an infinite loop occurs in next_inline() of the more_curly() function.
+- [Live-Hack-CVE/CVE-2021-33642](https://github.com/Live-Hack-CVE/CVE-2021-33642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33642">
+
+---
+## CVE-2021-33641 (2023-01-20T21:15:00)
+> When processing files, malloc stores the data of the current line. When processing comments, malloc incorrectly accesses the released memory (use after free).
+- [Live-Hack-CVE/CVE-2021-33641](https://github.com/Live-Hack-CVE/CVE-2021-33641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33641">
+
+---
 ## CVE-2021-33640 (2022-12-19T16:15:00)
 > After tar_close(), libtar.c releases the memory pointed to by pointer t. After tar_close() is called in the list() function, it continues to use pointer t: free_longlink_longname(t->th_buf) . As a result, the released memory is used (use-after-free).
 - [Live-Hack-CVE/CVE-2021-33640](https://github.com/Live-Hack-CVE/CVE-2021-33640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33640">

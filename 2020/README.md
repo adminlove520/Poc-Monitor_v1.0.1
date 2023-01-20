@@ -2362,6 +2362,11 @@
 - [jas502n/CVE-2020-2551](https://github.com/jas502n/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-2551">
 
 ---
+## CVE-2020-25502 (2023-01-20T21:15:00)
+> Cybereason EDR version 19.1.282 and above, 19.2.182 and above, 20.1.343 and above, and 20.2.X and above has a DLL hijacking vulnerability, which could allow a local attacker to execute code with elevated privileges.
+- [Live-Hack-CVE/CVE-2020-25502](https://github.com/Live-Hack-CVE/CVE-2020-25502)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25502">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25502">
+
+---
 ## CVE-2020-2550 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle WebLogic Server executes to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data as well as unauthorized update, insert or delete access to some of Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 5.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:L/A:N).
 - [Live-Hack-CVE/CVE-2020-2550](https://github.com/Live-Hack-CVE/CVE-2020-2550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2550">
@@ -3282,9 +3287,19 @@
 - [Live-Hack-CVE/CVE-2020-16164](https://github.com/Live-Hack-CVE/CVE-2020-16164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16164">
 
 ---
+## CVE-2020-16145 (2020-08-12T13:15:00)
+> Roundcube Webmail before 1.3.15 and 1.4.8 allows stored XSS in HTML messages during message display via a crafted SVG document. This issue has been fixed in 1.4.8 and 1.3.15.
+- [Live-Hack-CVE/CVE-2020-16145](https://github.com/Live-Hack-CVE/CVE-2020-16145)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16145">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16145">
+
+---
 ## CVE-2020-16122 (2020-11-07T04:15:00)
 > PackageKit's apt backend mistakenly treated all local debs as trusted. The apt security model is based on repository trust and not on the contents of individual files. On sites with configured PolicyKit rules this may allow users to install malicious packages.
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
+
+---
+## CVE-2020-15953 (2020-07-27T07:15:00)
+> LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response injection."
+- [Live-Hack-CVE/CVE-2020-15953](https://github.com/Live-Hack-CVE/CVE-2020-15953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15953">
 
 ---
 ## CVE-2020-15920 (2020-07-24T01:15:00)
