@@ -51,6 +51,21 @@
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
 
 ---
+## CVE-2023-23163 ()
+> 
+- [rahulpatwari/CVE-2023-23163](https://github.com/rahulpatwari/CVE-2023-23163)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23163">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23163">
+
+---
+## CVE-2023-23162 ()
+> 
+- [rahulpatwari/CVE-2023-23162](https://github.com/rahulpatwari/CVE-2023-23162)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23162">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23162">
+
+---
+## CVE-2023-23161 ()
+> 
+- [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
+
+---
 ## CVE-2023-22963 (2023-01-11T06:15:00)
 > The personnummer implementation before 3.0.3 for Dart mishandles numbers in which the last four digits match the ^000[0-9]$ regular expression.
 - [Live-Hack-CVE/CVE-2023-22963](https://github.com/Live-Hack-CVE/CVE-2023-22963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22963">
