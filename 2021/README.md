@@ -3388,6 +3388,21 @@
 - [Live-Hack-CVE/CVE-2021-37533](https://github.com/Live-Hack-CVE/CVE-2021-37533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37533">
 
 ---
+## CVE-2021-37500 (2023-01-20T12:15:00)
+> Directory traversal vulnerability in Reprise License Manager (RLM) web interface before 14.2BL4 in the diagnostics function that allows RLM users with sufficient privileges to overwrite any file the on the server.
+- [Live-Hack-CVE/CVE-2021-37500](https://github.com/Live-Hack-CVE/CVE-2021-37500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37500">
+
+---
+## CVE-2021-37499 (2023-01-20T12:15:00)
+> CRLF vulnerability in Reprise License Manager (RLM) web interface through 14.2BL4 in the password parameter in View License Result function, that allows remote attackers to inject arbitrary HTTP headers.
+- [Live-Hack-CVE/CVE-2021-37499](https://github.com/Live-Hack-CVE/CVE-2021-37499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37499">
+
+---
+## CVE-2021-37498 (2023-01-20T12:15:00)
+> An SSRF issue was discovered in Reprise License Manager (RLM) web interface through 14.2BL4 that allows remote attackers to trigger outbound requests to intranet servers, conduct port scans via the actserver parameter in License Activation function.
+- [Live-Hack-CVE/CVE-2021-37498](https://github.com/Live-Hack-CVE/CVE-2021-37498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37498">
+
+---
 ## CVE-2021-3749 (2021-08-31T11:15:00)
 > axios is vulnerable to Inefficient Regular Expression Complexity
 - [Live-Hack-CVE/CVE-2021-3749](https://github.com/Live-Hack-CVE/CVE-2021-3749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3749">
