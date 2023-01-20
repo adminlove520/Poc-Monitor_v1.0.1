@@ -17,6 +17,11 @@
 - [Live-Hack-CVE/CVE-2019-9947](https://github.com/Live-Hack-CVE/CVE-2019-9947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9947">
 
 ---
+## CVE-2019-9892 (2019-05-22T00:29:00)
+> An issue was discovered in Open Ticket Request System (OTRS) 5.x through 5.0.34, 6.x through 6.0.17, and 7.x through 7.0.6. An attacker who is logged into OTRS as an agent user with appropriate permissions may try to import carefully crafted Report Statistics XML that will result in reading of arbitrary files on the OTRS filesystem.
+- [Live-Hack-CVE/CVE-2019-9892](https://github.com/Live-Hack-CVE/CVE-2019-9892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9892">
+
+---
 ## CVE-2019-9855 (2019-09-06T19:15:00)
 > LibreOffice is typically bundled with LibreLogo, a programmable turtle vector graphics script, which can execute arbitrary python commands contained with the document it is launched from. LibreOffice also has a feature where documents can specify that pre-installed scripts can be executed on various document script events such as mouse-over, etc. Protection was added to block calling LibreLogo from script event handers. However a Windows 8.3 path equivalence handling flaw left LibreOffice vulnerable under Windows that a document could trigger executing LibreLogo via a Windows filename pseudonym. This issue affects: Document Foundation LibreOffice 6.2 versions prior to 6.2.7; 6.3 versions prior to 6.3.1.
 - [Live-Hack-CVE/CVE-2019-9855](https://github.com/Live-Hack-CVE/CVE-2019-9855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9855">
@@ -1371,6 +1376,16 @@
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 
 ---
+## CVE-2019-20051 (2019-12-27T22:15:00)
+> A floating-point exception was discovered in PackLinuxElf::elf_hash in p_lx_elf.cpp in UPX 3.95. The vulnerability causes an application crash, which leads to denial of service.
+- [Live-Hack-CVE/CVE-2019-20051](https://github.com/Live-Hack-CVE/CVE-2019-20051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20051">
+
+---
+## CVE-2019-20043 (2019-12-27T08:15:00)
+> In in wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php in WordPress 3.7 to 5.3.0, authenticated users who do not have the rights to publish a post are able to mark posts as sticky or unsticky via the REST API. For example, the contributor role does not have such rights, but this allowed them to bypass that. This has been patched in WordPress 5.3.1, along with all the previous WordPress versions from 3.7 to 5.3 via a minor release.
+- [Live-Hack-CVE/CVE-2019-20043](https://github.com/Live-Hack-CVE/CVE-2019-20043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20043">
+
+---
 ## CVE-2019-20042 (2019-12-27T08:15:00)
 > In wp-includes/formatting.php in WordPress 3.7 to 5.3.0, the function wp_targeted_link_rel() can be used in a particular way to result in a stored cross-site scripting (XSS) vulnerability. This has been patched in WordPress 5.3.1, along with all the previous WordPress versions from 3.7 to 5.3 via a minor release.
 - [Live-Hack-CVE/CVE-2019-20042](https://github.com/Live-Hack-CVE/CVE-2019-20042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20042">
@@ -1483,6 +1498,7 @@
 - [x1sec/citrix-honeypot](https://github.com/x1sec/citrix-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/x1sec/citrix-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/x1sec/citrix-honeypot">
 - [trhacknon/CVE-2019-19781](https://github.com/trhacknon/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-19781">
 - [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [Live-Hack-CVE/CVE-2019-19781](https://github.com/Live-Hack-CVE/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19781">
 
 ---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
@@ -1779,6 +1795,11 @@
 - [Live-Hack-CVE/CVE-2019-1649](https://github.com/Live-Hack-CVE/CVE-2019-1649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1649">
 
 ---
+## CVE-2019-16303 (2019-09-14T00:15:00)
+> A class generated by the Generator in JHipster before 6.3.0 and JHipster Kotlin through 1.1.0 produces code that uses an insecure source of randomness (apache.commons.lang3 RandomStringUtils). This allows an attacker (if able to obtain their own password reset URL) to compute the value for all other password resets for other accounts, thus allowing privilege escalation or account takeover.
+- [Live-Hack-CVE/CVE-2019-16303](https://github.com/Live-Hack-CVE/CVE-2019-16303)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16303">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16303">
+
+---
 ## CVE-2019-16278 (2019-10-14T17:15:00)
 > Directory Traversal in the function http_verify in nostromo nhttpd through 1.9.6 allows an attacker to achieve remote code execution via a crafted HTTP request.
 - [keshiba/cve-2019-16278](https://github.com/keshiba/cve-2019-16278)	<img alt="forks" src="https://img.shields.io/github/forks/keshiba/cve-2019-16278">	<img alt="stars" src="https://img.shields.io/github/stars/keshiba/cve-2019-16278">
@@ -1800,6 +1821,11 @@
 - [Live-Hack-CVE/CVE-2019-15961](https://github.com/Live-Hack-CVE/CVE-2019-15961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15961">
 
 ---
+## CVE-2019-15715 (2019-10-09T20:15:00)
+> MantisBT before 1.3.20 and 2.22.1 allows Post Authentication Command Injection, leading to Remote Code Execution.
+- [Live-Hack-CVE/CVE-2019-15715](https://github.com/Live-Hack-CVE/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15715">
+
+---
 ## CVE-2019-15605 (2020-02-07T15:15:00)
 > HTTP request smuggling in Node.js 10, 12, and 13 causes malicious payload delivery when transfer-encoding is malformed
 - [Live-Hack-CVE/CVE-2019-15605](https://github.com/Live-Hack-CVE/CVE-2019-15605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15605">
@@ -1813,6 +1839,11 @@
 ## CVE-2019-1559 (2019-02-27T23:29:00)
 > If an application encounters a fatal protocol error and then calls SSL_shutdown() twice (once to send a close_notify, and once to receive one) then OpenSSL can respond differently to the calling application if a 0 byte record is received with invalid padding compared to if a 0 byte record is received with an invalid MAC. If the application then behaves differently based on that in a way that is detectable to the remote peer, then this amounts to a padding oracle that could be used to decrypt data. In order for this to be exploitable "non-stitched" ciphersuites must be in use. Stitched ciphersuites are optimised implementations of certain commonly used ciphersuites. Also the application must call SSL_shutdown() twice even if a protocol error has occurred (applications should not do this but some do anyway). Fixed in OpenSSL 1.0.2r (Affected 1.0.2-1.0.2q).
 - [Live-Hack-CVE/CVE-2019-1559](https://github.com/Live-Hack-CVE/CVE-2019-1559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1559">
+
+---
+## CVE-2019-15587 (2019-10-22T21:15:00)
+> In the Loofah gem for Ruby through v2.3.0 unsanitized JavaScript may occur in sanitized output when a crafted SVG element is republished.
+- [Live-Hack-CVE/CVE-2019-15587](https://github.com/Live-Hack-CVE/CVE-2019-15587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15587">
 
 ---
 ## CVE-2019-15514 (2019-08-23T13:15:00)
@@ -1906,9 +1937,24 @@
 - [Live-Hack-CVE/CVE-2019-14574](https://github.com/Live-Hack-CVE/CVE-2019-14574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14574">
 
 ---
+## CVE-2019-14497 (2019-08-01T18:15:00)
+> ModuleEditor::convertInstrument in tracker/ModuleEditor.cpp in MilkyTracker 1.02.00 has a heap-based buffer overflow.
+- [Live-Hack-CVE/CVE-2019-14497](https://github.com/Live-Hack-CVE/CVE-2019-14497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14497">
+
+---
+## CVE-2019-14496 (2019-08-01T18:15:00)
+> LoaderXM::load in LoaderXM.cpp in milkyplay in MilkyTracker 1.02.00 has a stack-based buffer overflow.
+- [Live-Hack-CVE/CVE-2019-14496](https://github.com/Live-Hack-CVE/CVE-2019-14496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14496">
+
+---
 ## CVE-2019-14494 (2019-08-01T17:15:00)
 > An issue was discovered in Poppler through 0.78.0. There is a divide-by-zero error in the function SplashOutputDev::tilingPatternFill at SplashOutputDev.cc.
 - [Live-Hack-CVE/CVE-2019-14494](https://github.com/Live-Hack-CVE/CVE-2019-14494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14494">
+
+---
+## CVE-2019-14464 (2019-07-31T23:15:00)
+> XMFile::read in XMFile.cpp in milkyplay in MilkyTracker 1.02.00 has a heap-based buffer overflow.
+- [Live-Hack-CVE/CVE-2019-14464](https://github.com/Live-Hack-CVE/CVE-2019-14464)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14464">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14464">
 
 ---
 ## CVE-2019-14433 (2019-08-09T19:15:00)
@@ -2065,6 +2111,17 @@
 - [5l1v3r1/fuzzenv-exiv2](https://github.com/5l1v3r1/fuzzenv-exiv2)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/fuzzenv-exiv2">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/fuzzenv-exiv2">
 
 ---
+## CVE-2019-13458 (2019-08-21T14:15:00)
+> An issue was discovered in Open Ticket Request System (OTRS) 7.0.x through 7.0.8, and Community Edition 5.0.x through 5.0.36 and 6.0.x through 6.0.19. An attacker who is logged into OTRS as an agent user with appropriate permissions can leverage OTRS notification tags in templates in order to disclose hashed user passwords.
+- [Live-Hack-CVE/CVE-2019-13458](https://github.com/Live-Hack-CVE/CVE-2019-13458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13458">
+
+---
+## CVE-2019-13361 (2019-09-05T17:15:00)
+> Smanos W100 1.0.0 devices have Insecure Permissions, exploitable by an attacker on the same Wi-Fi network.
+- [Live-Hack-CVE/CVE-2019-13361](https://github.com/Live-Hack-CVE/CVE-2019-13361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13361">
+- [lodi-g/CVE-2019-13361](https://github.com/lodi-g/CVE-2019-13361)	<img alt="forks" src="https://img.shields.io/github/forks/lodi-g/CVE-2019-13361">	<img alt="stars" src="https://img.shields.io/github/stars/lodi-g/CVE-2019-13361">
+
+---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
@@ -2111,12 +2168,27 @@
 - [Live-Hack-CVE/CVE-2019-12762](https://github.com/Live-Hack-CVE/CVE-2019-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12762">
 
 ---
+## CVE-2019-12746 (2019-08-21T14:15:00)
+> An issue was discovered in Open Ticket Request System (OTRS) Community Edition 5.0.x through 5.0.36 and 6.0.x through 6.0.19. A user logged into OTRS as an agent might unknowingly disclose their session ID by sharing the link of an embedded ticket article with third parties. This identifier can be then be potentially abused in order to impersonate the agent user.
+- [Live-Hack-CVE/CVE-2019-12746](https://github.com/Live-Hack-CVE/CVE-2019-12746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12746">
+
+---
 ## CVE-2019-12735 (2019-06-05T14:29:00)
 > getchar.c in Vim before 8.1.1365 and Neovim before 0.3.6 allows remote attackers to execute arbitrary OS commands via the :source! command in a modeline, as demonstrated by execute in Vim, and assert_fails or nvim_input in Neovim.
 - [st9007a/CVE-2019-12735](https://github.com/st9007a/CVE-2019-12735)	<img alt="forks" src="https://img.shields.io/github/forks/st9007a/CVE-2019-12735">	<img alt="stars" src="https://img.shields.io/github/stars/st9007a/CVE-2019-12735">
 - [nickylimjj/cve-2019-12735](https://github.com/nickylimjj/cve-2019-12735)	<img alt="forks" src="https://img.shields.io/github/forks/nickylimjj/cve-2019-12735">	<img alt="stars" src="https://img.shields.io/github/stars/nickylimjj/cve-2019-12735">
 - [oldthree3/CVE-2019-12735-VIM-NEOVIM](https://github.com/oldthree3/CVE-2019-12735-VIM-NEOVIM)	<img alt="forks" src="https://img.shields.io/github/forks/oldthree3/CVE-2019-12735-VIM-NEOVIM">	<img alt="stars" src="https://img.shields.io/github/stars/oldthree3/CVE-2019-12735-VIM-NEOVIM">
 - [pcy190/ace-vim-neovim](https://github.com/pcy190/ace-vim-neovim)	<img alt="forks" src="https://img.shields.io/github/forks/pcy190/ace-vim-neovim">	<img alt="stars" src="https://img.shields.io/github/stars/pcy190/ace-vim-neovim">
+
+---
+## CVE-2019-12497 (2019-06-17T17:15:00)
+> An issue was discovered in Open Ticket Request System (OTRS) 7.0.x through 7.0.8, Community Edition 6.0.x through 6.0.19, and Community Edition 5.0.x through 5.0.36. In the customer or external frontend, personal information of agents (e.g., Name and mail address) can be disclosed in external notes.
+- [Live-Hack-CVE/CVE-2019-12497](https://github.com/Live-Hack-CVE/CVE-2019-12497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12497">
+
+---
+## CVE-2019-12416 (2020-03-19T15:15:00)
+> we got reports for 2 injection attacks against the DeltaSpike windowhandler.js. This is only active if a developer selected the ClientSideWindowStrategy which is not the default.
+- [Live-Hack-CVE/CVE-2019-12416](https://github.com/Live-Hack-CVE/CVE-2019-12416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12416">
 
 ---
 ## CVE-2019-12257 (2019-08-09T18:15:00)
@@ -2128,6 +2200,11 @@
 > Wind River VxWorks 6.9 and vx7 has a Buffer Overflow in the IPv4 component. There is an IPNET security vulnerability: Stack overflow in the parsing of IPv4 packets’ IP options.
 - [Live-Hack-CVE/CVE-2019-12256](https://github.com/Live-Hack-CVE/CVE-2019-12256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12256">
 - [sud0woodo/Urgent11-Suricata-LUA-scripts](https://github.com/sud0woodo/Urgent11-Suricata-LUA-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/sud0woodo/Urgent11-Suricata-LUA-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/sud0woodo/Urgent11-Suricata-LUA-scripts">
+
+---
+## CVE-2019-12248 (2019-06-17T18:15:00)
+> An issue was discovered in Open Ticket Request System (OTRS) 7.0.x through 7.0.7, Community Edition 6.0.x through 6.0.19, and Community Edition 5.0.x through 5.0.36. An attacker could send a malicious email to an OTRS system. If a logged-in agent user quotes it, the email could cause the browser to load external image resources.
+- [Live-Hack-CVE/CVE-2019-12248](https://github.com/Live-Hack-CVE/CVE-2019-12248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12248">
 
 ---
 ## CVE-2019-1205 (2019-08-14T21:15:00)
@@ -2301,6 +2378,11 @@
 ## CVE-2019-1010065 (2019-07-18T17:15:00)
 > The Sleuth Kit 4.6.0 and earlier is affected by: Integer Overflow. The impact is: Opening crafted disk image triggers crash in tsk/fs/hfs_dent.c:237. The component is: Overflow in fls tool used on HFS image. Bug is in tsk/fs/hfs.c file in function hfs_cat_traverse() in lines: 952, 1062. The attack vector is: Victim must open a crafted HFS filesystem image.
 - [Live-Hack-CVE/CVE-2019-1010065](https://github.com/Live-Hack-CVE/CVE-2019-1010065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1010065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1010065">
+
+---
+## CVE-2019-10067 (2019-05-22T00:29:00)
+> An issue was discovered in Open Ticket Request System (OTRS) 7.x through 7.0.6 and Community Edition 5.0.x through 5.0.35 and 6.0.x through 6.0.17. An attacker who is logged into OTRS as an agent user with appropriate permissions may manipulate the URL to cause execution of JavaScript in the context of OTRS.
+- [Live-Hack-CVE/CVE-2019-10067](https://github.com/Live-Hack-CVE/CVE-2019-10067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10067">
 
 ---
 ## CVE-2019-0845 (2019-04-09T21:29:00)

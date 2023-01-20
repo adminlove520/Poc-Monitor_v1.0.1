@@ -806,6 +806,11 @@
 - [Live-Hack-CVE/CVE-2020-5351](https://github.com/Live-Hack-CVE/CVE-2020-5351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5351">
 
 ---
+## CVE-2020-5306 (2020-01-05T23:15:00)
+> Codoforum 4.8.3 allows XSS via a post using parameters display name, title name, or content.
+- [Live-Hack-CVE/CVE-2020-5306](https://github.com/Live-Hack-CVE/CVE-2020-5306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5306">
+
+---
 ## CVE-2020-5248 (2020-05-12T16:15:00)
 > GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.
 - [indevi0us/CVE-2020-5248](https://github.com/indevi0us/CVE-2020-5248)	<img alt="forks" src="https://img.shields.io/github/forks/indevi0us/CVE-2020-5248">	<img alt="stars" src="https://img.shields.io/github/stars/indevi0us/CVE-2020-5248">
