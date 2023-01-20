@@ -586,6 +586,16 @@
 - [Live-Hack-CVE/CVE-2016-4160](https://github.com/Live-Hack-CVE/CVE-2016-4160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4160">
 
 ---
+## CVE-2016-4154 (2016-06-16T14:59:00)
+> Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083.
+- [Live-Hack-CVE/CVE-2016-4154](https://github.com/Live-Hack-CVE/CVE-2016-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4154">
+
+---
+## CVE-2016-4153 (2016-06-16T14:59:00)
+> Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083.
+- [Live-Hack-CVE/CVE-2016-4153](https://github.com/Live-Hack-CVE/CVE-2016-4153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4153">
+
+---
 ## CVE-2016-4121 (2016-06-16T14:59:00)
 > Use-after-free vulnerability in Adobe Flash Player before 18.0.0.352 and 19.x through 21.x before 21.0.0.242 on Windows and OS X and before 11.2.202.621 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1097, CVE-2016-1106, CVE-2016-1107, CVE-2016-1108, CVE-2016-1109, CVE-2016-1110, CVE-2016-4108, and CVE-2016-4110.
 - [Live-Hack-CVE/CVE-2016-4121](https://github.com/Live-Hack-CVE/CVE-2016-4121)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4121">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4121">
@@ -863,6 +873,11 @@
 > The npm module "shell-quote" 1.6.0 and earlier cannot correctly escape ">" and "<" operator used for redirection in shell. Applications that depend on shell-quote may also be vulnerable. A malicious user could perform code injection.
 - [Live-Hack-CVE/CVE-2016-10541](https://github.com/Live-Hack-CVE/CVE-2016-10541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10541">
 - [Live-Hack-CVE/CVE-2016-10541](https://github.com/Live-Hack-CVE/CVE-2016-10541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10541">
+
+---
+## CVE-2016-1033 (2016-04-09T01:59:00)
+> Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-1021, CVE-2016-1022, CVE-2016-1023, CVE-2016-1024, CVE-2016-1025, CVE-2016-1026, CVE-2016-1027, CVE-2016-1028, CVE-2016-1029, and CVE-2016-1032.
+- [Live-Hack-CVE/CVE-2016-1033](https://github.com/Live-Hack-CVE/CVE-2016-1033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1033">
 
 ---
 ## CVE-2016-10229 (2017-04-04T05:59:00)

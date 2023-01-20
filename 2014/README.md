@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2014-9904](https://github.com/Live-Hack-CVE/CVE-2014-9904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-9904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-9904">
 
 ---
+## CVE-2014-9428 (2015-01-02T21:59:00)
+> The batadv_frag_merge_packets function in net/batman-adv/fragmentation.c in the B.A.T.M.A.N. implementation in the Linux kernel through 3.18.1 uses an incorrect length field during a calculation of an amount of memory, which allows remote attackers to cause a denial of service (mesh-node system crash) via fragmented packets.
+- [Live-Hack-CVE/CVE-2014-9428](https://github.com/Live-Hack-CVE/CVE-2014-9428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-9428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-9428">
+
+---
 ## CVE-2014-8731 (2017-03-23T17:59:00)
 > PHPMemcachedAdmin 1.2.2 and earlier allows remote attackers to execute arbitrary PHP code via vectors related "serialized data and the last part of the concatenated filename," which creates a file in webroot.
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">

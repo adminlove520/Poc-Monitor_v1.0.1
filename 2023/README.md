@@ -366,6 +366,11 @@
 - [Live-Hack-CVE/CVE-2023-22395](https://github.com/Live-Hack-CVE/CVE-2023-22395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22395">
 
 ---
+## CVE-2023-22373 (2023-01-20T03:15:00)
+> Cross-site scripting vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote authenticated attacker to inject an arbitrary script and obtain the sensitive information.
+- [Live-Hack-CVE/CVE-2023-22373](https://github.com/Live-Hack-CVE/CVE-2023-22373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22373">
+
+---
 ## CVE-2023-22366 (2023-01-17T10:15:00)
 > CX-Motion-MCH v2.32 and earlier contains an access of uninitialized pointer vulnerability. Having a user to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2023-22366](https://github.com/Live-Hack-CVE/CVE-2023-22366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22366">
@@ -374,6 +379,21 @@
 ## CVE-2023-22357 (2023-01-17T10:15:00)
 > Active debug code exists in OMRON CP1L-EL20DR-D all versions, which may lead to a command that is not specified in FINS protocol being executed without authentication. A remote unauthenticated attacker may read/write in arbitrary area of the device memory, which may lead to overwriting the firmware, causing a denial-of-service (DoS) condition, and/or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2023-22357](https://github.com/Live-Hack-CVE/CVE-2023-22357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22357">
+
+---
+## CVE-2023-22339 (2023-01-20T03:15:00)
+> Improper access control vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote unauthenticated attacker to bypass access restriction and obtain the server certificate including the private key of the product.
+- [Live-Hack-CVE/CVE-2023-22339](https://github.com/Live-Hack-CVE/CVE-2023-22339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22339">
+
+---
+## CVE-2023-22334 (2023-01-20T03:15:00)
+> Use of password hash instead of password for authentication vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote authenticated attacker to obtain user credentials information via a man-in-the-middle attack.
+- [Live-Hack-CVE/CVE-2023-22334](https://github.com/Live-Hack-CVE/CVE-2023-22334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22334">
+
+---
+## CVE-2023-22331 (2023-01-20T03:15:00)
+> Use of default credentials vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote unauthenticated attacker to alter user credentials information.
+- [Live-Hack-CVE/CVE-2023-22331](https://github.com/Live-Hack-CVE/CVE-2023-22331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22331">
 
 ---
 ## CVE-2023-22320 (2023-01-10T04:15:00)
