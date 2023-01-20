@@ -1350,6 +1350,11 @@
 - [Live-Hack-CVE/CVE-2019-20892](https://github.com/Live-Hack-CVE/CVE-2019-20892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20892">
 
 ---
+## CVE-2019-20811 (2020-06-03T03:15:00)
+> An issue was discovered in the Linux kernel before 5.0.6. In rx_queue_add_kobject() and netdev_queue_add_kobject() in net/core/net-sysfs.c, a reference count is mishandled, aka CID-a3e23f719f5c.
+- [Live-Hack-CVE/CVE-2019-20811](https://github.com/Live-Hack-CVE/CVE-2019-20811)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20811">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20811">
+
+---
 ## CVE-2019-20798 (2020-05-18T00:15:00)
 > An XSS issue was discovered in handler_server_info.c in Cherokee through 1.2.104. The requested URL is improperly displayed on the About page in the default configuration of the web server and its administrator panel. The XSS in the administrator panel can be used to reconfigure the server and execute arbitrary commands.
 - [Live-Hack-CVE/CVE-2019-20798](https://github.com/Live-Hack-CVE/CVE-2019-20798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20798">
@@ -1630,6 +1635,11 @@
 ## CVE-2019-18218 (2019-10-21T05:15:00)
 > cdf_read_property_info in cdf.c in file through 5.37 does not restrict the number of CDF_VECTOR elements, which allows a heap-based buffer overflow (4-byte out-of-bounds write).
 - [Live-Hack-CVE/CVE-2019-18218](https://github.com/Live-Hack-CVE/CVE-2019-18218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18218">
+
+---
+## CVE-2019-18198 (2019-10-18T22:15:00)
+> In the Linux kernel before 5.3.4, a reference count usage error in the fib6_rule_suppress() function in the fib6 suppression feature of net/ipv6/fib6_rules.c, when handling the FIB_LOOKUP_NOREF flag, can be exploited by a local attacker to corrupt memory, aka CID-ca7a03c41753.
+- [Live-Hack-CVE/CVE-2019-18198](https://github.com/Live-Hack-CVE/CVE-2019-18198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18198">
 
 ---
 ## CVE-2019-17662 (2019-10-16T18:15:00)

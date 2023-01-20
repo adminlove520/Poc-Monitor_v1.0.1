@@ -66,6 +66,16 @@
 - [Live-Hack-CVE/CVE-2021-46834](https://github.com/Live-Hack-CVE/CVE-2021-46834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46834">
 
 ---
+## CVE-2021-46795 (2023-01-11T08:15:00)
+> A TOCTOU (time-of-check to time-of-use) vulnerability exists where an attacker may use a compromised BIOS to cause the TEE OS to read memory out of bounds that could potentially result in a denial of service.
+- [Live-Hack-CVE/CVE-2021-46795](https://github.com/Live-Hack-CVE/CVE-2021-46795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46795">
+
+---
+## CVE-2021-46791 (2023-01-11T08:15:00)
+> Insufficient input validation during parsing of the System Management Mode (SMM) binary may allow a maliciously crafted SMM executable binary to corrupt Dynamic Root of Trust for Measurement (DRTM) user application memory that may result in a potential denial of service.
+- [Live-Hack-CVE/CVE-2021-46791](https://github.com/Live-Hack-CVE/CVE-2021-46791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46791">
+
+---
 ## CVE-2021-46784 (2022-07-17T22:15:00)
 > In Squid 3.x through 3.5.28, 4.x through 4.17, and 5.x before 5.6, due to improper buffer management, a Denial of Service can occur when processing long Gopher server responses.
 - [Live-Hack-CVE/CVE-2021-46784](https://github.com/Live-Hack-CVE/CVE-2021-46784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46784">
