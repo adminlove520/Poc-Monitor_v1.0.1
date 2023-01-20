@@ -3964,6 +3964,9 @@
 ## CVE-2020-1106 (2020-05-21T23:15:00)
 > A cross-site-scripting (XSS) vulnerability exists when Microsoft SharePoint Server does not properly sanitize a specially crafted web request to an affected SharePoint server, aka 'Microsoft Office SharePoint XSS Vulnerability'. This CVE ID is unique from CVE-2020-1099, CVE-2020-1100, CVE-2020-1101.
 - [Live-Hack-CVE/CVE-2020-1106](https://github.com/Live-Hack-CVE/CVE-2020-1106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1106">
+- [Live-Hack-CVE/CVE-2020-11066](https://github.com/Live-Hack-CVE/CVE-2020-11066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11066">
+- [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xdreadnaught/cve-2020-11060-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xdreadnaught/cve-2020-11060-poc">
+- [zeromirror/cve_2020-11060](https://github.com/zeromirror/cve_2020-11060)	<img alt="forks" src="https://img.shields.io/github/forks/zeromirror/cve_2020-11060">	<img alt="stars" src="https://img.shields.io/github/stars/zeromirror/cve_2020-11060">
 
 ---
 ## CVE-2020-11022 (2020-04-29T22:15:00)
