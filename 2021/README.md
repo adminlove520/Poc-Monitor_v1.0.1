@@ -1025,6 +1025,11 @@
 - [Dir0x/CVE-2021-43140](https://github.com/Dir0x/CVE-2021-43140)	<img alt="forks" src="https://img.shields.io/github/forks/Dir0x/CVE-2021-43140">	<img alt="stars" src="https://img.shields.io/github/stars/Dir0x/CVE-2021-43140">
 
 ---
+## CVE-2021-43138 (2022-04-06T17:15:00)
+> In Async before 2.6.4 and 3.x before 3.2.2, a malicious user can obtain privileges via the mapValues() method, aka lib/internal/iterator.js createObjectIterator prototype pollution.
+- [Live-Hack-CVE/CVE-2021-43138](https://github.com/Live-Hack-CVE/CVE-2021-43138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43138">
+
+---
 ## CVE-2021-4313 (2023-01-16T12:15:00)
 > A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fix this issue. The identifier VDB-218393 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4313](https://github.com/Live-Hack-CVE/CVE-2021-4313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4313">

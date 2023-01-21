@@ -1,6 +1,26 @@
 # 2023 List
 
 ---
+## CVE-2023-24042 (2023-01-21T02:15:00)
+> A race condition in LightFTP through 2.2 allows an attacker to achieve path traversal via a malformed FTP request. A handler thread can use an overwritten context->FileName.
+- [Live-Hack-CVE/CVE-2023-24042](https://github.com/Live-Hack-CVE/CVE-2023-24042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24042">
+
+---
+## CVE-2023-24040 (2023-01-21T02:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** dtprintinfo in Common Desktop Environment 1.6 has a bug in the parser of lpstat (an invoked external command) during listing of the names of available printers. This allows low-privileged local users to inject arbitrary printer names via the $HOME/.printers file. This injection allows those users to manipulate the control flow and disclose memory contents on Solaris 10 systems. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2023-24040](https://github.com/Live-Hack-CVE/CVE-2023-24040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24040">
+
+---
+## CVE-2023-24039 (2023-01-21T02:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** A stack-based buffer overflow in ParseColors in libXm in Common Desktop Environment 1.6 can be exploited by local low-privileged users via the dtprintinfo setuid binary to escalate their privileges to root on Solaris 10 systems. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
+- [Live-Hack-CVE/CVE-2023-24039](https://github.com/Live-Hack-CVE/CVE-2023-24039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24039">
+
+---
+## CVE-2023-24038 (2023-01-21T01:15:00)
+> The HTML-StripScripts module through 1.06 for Perl allows _hss_attval_style ReDoS because of catastrophic backtracking for HTML content with certain style attributes.
+- [Live-Hack-CVE/CVE-2023-24038](https://github.com/Live-Hack-CVE/CVE-2023-24038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24038">
+
+---
 ## CVE-2023-24028 (2023-01-20T22:15:00)
 > In MISP 2.4.167, app/Controller/Component/ACLComponent.php has incorrect access control for the decaying import function.
 - [Live-Hack-CVE/CVE-2023-24028](https://github.com/Live-Hack-CVE/CVE-2023-24028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24028">

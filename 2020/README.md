@@ -869,6 +869,11 @@
 - [jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041](https://github.com/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041)	<img alt="forks" src="https://img.shields.io/github/forks/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">	<img alt="stars" src="https://img.shields.io/github/stars/jpvispo/RCE-Exploit-Bolt-3.7.0-CVE-2020-4040-4041">
 
 ---
+## CVE-2020-36655 (2023-01-21T01:15:00)
+> Yii Yii2 Gii before 2.2.2 allows remote attackers to execute arbitrary code via the Generator.php messageCategory field. The attacker can embed arbitrary PHP code into the model file.
+- [Live-Hack-CVE/CVE-2020-36655](https://github.com/Live-Hack-CVE/CVE-2020-36655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36655">
+
+---
 ## CVE-2020-36654 (2023-01-18T08:15:00)
 > A vulnerability classified as problematic has been found in GENI Portal. This affects the function no_invocation_id_error of the file portal/www/portal/sliceresource.php. The manipulation of the argument invocation_id/invocation_user leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 39a96fb4b822bd3497442a96135de498d4a81337. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218475.
 - [Live-Hack-CVE/CVE-2020-36654](https://github.com/Live-Hack-CVE/CVE-2020-36654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36654">
