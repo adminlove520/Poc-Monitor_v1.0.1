@@ -1,6 +1,16 @@
 # 2023 List
 
 ---
+## CVE-2023-24059 (2023-01-22T07:15:00)
+> Grand Theft Auto V for PC allows attackers to achieve partial remote code execution or modify files on a PC, as exploited in the wild in January 2023.
+- [Live-Hack-CVE/CVE-2023-24059](https://github.com/Live-Hack-CVE/CVE-2023-24059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24059">
+
+---
+## CVE-2023-24058 (2023-01-22T06:15:00)
+> Booked Scheduler 2.5.5 allows authenticated users to create and schedule events for any other user via a modified userId value to reservation_save.php. NOTE: 2.5.5 is a version from 2014.
+- [Live-Hack-CVE/CVE-2023-24058](https://github.com/Live-Hack-CVE/CVE-2023-24058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24058">
+
+---
 ## CVE-2023-24056 (2023-01-22T04:15:00)
 > In pkgconf through 1.9.3, variable duplication can cause unbounded string expansion due to incorrect checks in libpkgconf/tuple.c:pkgconf_tuple_parse. For example, a .pc file containing a few hundred bytes can expand to one billion bytes.
 - [Live-Hack-CVE/CVE-2023-24056](https://github.com/Live-Hack-CVE/CVE-2023-24056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24056">
