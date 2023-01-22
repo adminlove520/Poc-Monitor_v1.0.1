@@ -2886,6 +2886,7 @@
 ## CVE-2021-39172 (2021-08-27T23:15:00)
 > Cachet is an open source status page system. Prior to version 2.5.1, authenticated users, regardless of their privileges (User or Admin), can exploit a new line injection in the configuration edition feature (e.g. mail settings) and gain arbitrary code execution on the server. This issue was addressed in version 2.5.1 by improving `UpdateConfigCommandHandler` and preventing the use of new lines characters in new configuration values. As a workaround, only allow trusted source IP addresses to access to the administration dashboard.
 - [W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W1ngLess/CVE-2021-39172-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W1ngLess/CVE-2021-39172-RCE">
+- [Live-Hack-CVE/CVE-2021-39172](https://github.com/Live-Hack-CVE/CVE-2021-39172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39172">
 
 ---
 ## CVE-2021-3917 (2022-08-23T20:15:00)
