@@ -1,6 +1,21 @@
 # 2023 List
 
 ---
+## CVE-2023-24056 (2023-01-22T04:15:00)
+> In pkgconf through 1.9.3, variable duplication can cause unbounded string expansion due to incorrect checks in libpkgconf/tuple.c:pkgconf_tuple_parse. For example, a .pc file containing a few hundred bytes can expand to one billion bytes.
+- [Live-Hack-CVE/CVE-2023-24056](https://github.com/Live-Hack-CVE/CVE-2023-24056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24056">
+
+---
+## CVE-2023-24055 (2023-01-22T04:15:00)
+> ** DISPUTED ** KeePass through 2.53 (in a default installation) allows an attacker, who has write access to the XML configuration file, to obtain the cleartext passwords by adding an export trigger. NOTE: the vendor's position is that the password database is not intended to be secure against an attacker who has that level of access to the local PC.
+- [Live-Hack-CVE/CVE-2023-24055](https://github.com/Live-Hack-CVE/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24055">
+
+---
+## CVE-2023-24044 (2023-01-22T03:15:00)
+> A Host Header Injection issue on the Login page of Plesk Obsidian through 18.0.49 allows attackers to redirect users to malicious websites via a Host request header.
+- [Live-Hack-CVE/CVE-2023-24044](https://github.com/Live-Hack-CVE/CVE-2023-24044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24044">
+
+---
 ## CVE-2023-24042 (2023-01-21T02:15:00)
 > A race condition in LightFTP through 2.2 allows an attacker to achieve path traversal via a malformed FTP request. A handler thread can use an overwritten context->FileName.
 - [Live-Hack-CVE/CVE-2023-24042](https://github.com/Live-Hack-CVE/CVE-2023-24042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24042">
@@ -94,6 +109,16 @@
 ## CVE-2023-23488 (2023-01-20T18:15:00)
 > The Paid Memberships Pro WordPress Plugin, version < 2.9.8, is affected by an unauthenticated SQL injection vulnerability in the 'code' parameter of the '/pmpro/v1/order' REST route.
 - [Live-Hack-CVE/CVE-2023-23488](https://github.com/Live-Hack-CVE/CVE-2023-23488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23488">
+
+---
+## CVE-2023-23457 (2023-01-12T19:15:00)
+> A Segmentation fault was found in UPX in PackLinuxElf64::invert_pt_dynamic() in p_lx_elf.cpp. An attacker with a crafted input file allows invalid memory address access that could lead to a denial of service.
+- [Live-Hack-CVE/CVE-2023-23457](https://github.com/Live-Hack-CVE/CVE-2023-23457)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23457">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23457">
+
+---
+## CVE-2023-23456 (2023-01-12T19:15:00)
+> A heap-based buffer overflow issue was discovered in UPX in PackTmt::pack() in p_tmt.cpp file. The flow allows an attacker to cause a denial of service (abort) via a crafted file.
+- [Live-Hack-CVE/CVE-2023-23456](https://github.com/Live-Hack-CVE/CVE-2023-23456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23456">
 
 ---
 ## CVE-2023-23455 (2023-01-12T07:15:00)
@@ -1477,6 +1502,11 @@
 ## CVE-2023-20522 (2023-01-11T08:15:00)
 > Insufficient input validation in ASP may allow an attacker with a malicious BIOS to potentially cause a denial of service.
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
+
+---
+## CVE-2023-0434 (2023-01-22T01:15:00)
+> Improper Input Validation in GitHub repository pyload/pyload prior to 0.5.0b3.dev40.
+- [Live-Hack-CVE/CVE-2023-0434](https://github.com/Live-Hack-CVE/CVE-2023-0434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0434">
 
 ---
 ## CVE-2023-0433 (2023-01-21T15:15:00)
