@@ -1174,6 +1174,7 @@
 ## CVE-2020-36109 (2021-02-01T14:15:00)
 > ASUS RT-AX86U router firmware below version under 9.0.0.4_386 has a buffer overflow in the blocking_request.cgi function of the httpd module that can cause code execution when an attacker constructs malicious data.
 - [tin-z/CVE-2020-36109-POC](https://github.com/tin-z/CVE-2020-36109-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tin-z/CVE-2020-36109-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tin-z/CVE-2020-36109-POC">
+- [sunn1day/CVE-2020-36109-POC](https://github.com/sunn1day/CVE-2020-36109-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sunn1day/CVE-2020-36109-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sunn1day/CVE-2020-36109-POC">
 
 ---
 ## CVE-2020-36002 (2021-02-17T15:15:00)
