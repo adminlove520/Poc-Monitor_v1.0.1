@@ -696,6 +696,11 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
 
 ---
+## CVE-2018-18439 (2018-11-20T19:29:00)
+> DENX U-Boot through 2018.09-rc1 has a remotely exploitable buffer overflow via a malicious TFTP server because TFTP traffic is mishandled. Also, local exploitation can occur via a crafted kernel image.
+- [Live-Hack-CVE/CVE-2018-18439](https://github.com/Live-Hack-CVE/CVE-2018-18439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18439">
+
+---
 ## CVE-2018-18333 (2019-02-05T22:29:00)
 > A DLL hijacking vulnerability in Trend Micro Security 2019 (Consumer) versions below 15.0.0.1163 and below could allow an attacker to manipulate a specific DLL and escalate privileges on vulnerable installations.
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">

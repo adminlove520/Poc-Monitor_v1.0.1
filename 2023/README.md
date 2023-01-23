@@ -342,6 +342,11 @@
 - [Live-Hack-CVE/CVE-2023-22494](https://github.com/Live-Hack-CVE/CVE-2023-22494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22494">
 
 ---
+## CVE-2023-22493 (2023-01-13T15:15:00)
+> RSSHub is an open source RSS feed generator. RSSHub is vulnerable to Server-Side Request Forgery (SSRF) attacks. This vulnerability allows an attacker to send arbitrary HTTP requests from the server to other servers or resources on the network. An attacker can exploit this vulnerability by sending a request to the affected routes with a malicious URL. An attacker could also use this vulnerability to send requests to internal or any other servers or resources on the network, potentially gain access to sensitive information that would not normally be accessible and amplifying the impact of the attack. The patch for this issue can be found in commit a66cbcf.
+- [Live-Hack-CVE/CVE-2023-22493](https://github.com/Live-Hack-CVE/CVE-2023-22493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22493">
+
+---
 ## CVE-2023-22492 (2023-01-11T20:15:00)
 > ZITADEL is a combination of Auth0 and Keycloak. RefreshTokens is an OAuth 2.0 feature that allows applications to retrieve new access tokens and refresh the user's session without the need for interacting with a UI. RefreshTokens were not invalidated when a user was locked or deactivated. The deactivated or locked user was able to obtain a valid access token only through a refresh token grant. When the locked or deactivated user’s session was already terminated (“logged out”) then it was not possible to create a new session. Renewal of access token through a refresh token grant is limited to the configured amount of time (RefreshTokenExpiration). As a workaround, ensure the RefreshTokenExpiration in the OIDC settings of your instance is set according to your security requirements. This issue has been patched in versions 2.17.3 and 2.16.4.
 - [Live-Hack-CVE/CVE-2023-22492](https://github.com/Live-Hack-CVE/CVE-2023-22492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22492">
@@ -1775,6 +1780,11 @@
 - [Live-Hack-CVE/CVE-2023-0288](https://github.com/Live-Hack-CVE/CVE-2023-0288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0288">
 
 ---
+## CVE-2023-0287 (2023-01-13T13:15:00)
+> A vulnerability was found in ityouknow favorites-web. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Comment Handler. The manipulation leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-218294 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0287](https://github.com/Live-Hack-CVE/CVE-2023-0287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0287">
+
+---
 ## CVE-2023-0283 (2023-01-13T10:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Online Flight Booking Management System. This affects an unknown part of the file review_search.php of the component POST Parameter Handler. The manipulation of the argument txtsearch leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-218277 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0283](https://github.com/Live-Hack-CVE/CVE-2023-0283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0283">
@@ -2003,6 +2013,11 @@
 ## CVE-2023-0106 (2023-01-07T04:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository usememos/memos prior to 0.10.0.
 - [Live-Hack-CVE/CVE-2023-0106](https://github.com/Live-Hack-CVE/CVE-2023-0106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0106">
+
+---
+## CVE-2023-0105 (2023-01-13T06:15:00)
+> A flaw was found in Keycloak. This flaw allows impersonation and lockout due to the email trust not being handled correctly in Keycloak. An attacker can shadow other users with the same email and lockout or impersonate them.
+- [Live-Hack-CVE/CVE-2023-0105](https://github.com/Live-Hack-CVE/CVE-2023-0105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0105">
 
 ---
 ## CVE-2023-0088 (2023-01-05T19:15:00)
