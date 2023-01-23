@@ -1534,6 +1534,16 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0440 (2023-01-23T14:15:00)
+> Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository healthchecks/healthchecks prior to v2.6.
+- [Live-Hack-CVE/CVE-2023-0440](https://github.com/Live-Hack-CVE/CVE-2023-0440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0440">
+
+---
+## CVE-2023-0438 (2023-01-23T14:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.0.4.
+- [Live-Hack-CVE/CVE-2023-0438](https://github.com/Live-Hack-CVE/CVE-2023-0438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0438">
+
+---
 ## CVE-2023-0435 (2023-01-22T22:15:00)
 > Excessive Attack Surface in GitHub repository pyload/pyload prior to 0.5.0b3.dev41.
 - [Live-Hack-CVE/CVE-2023-0435](https://github.com/Live-Hack-CVE/CVE-2023-0435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0435">
