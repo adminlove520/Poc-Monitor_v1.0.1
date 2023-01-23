@@ -246,6 +246,16 @@
 - [patrickhener/CVE-2023-22855](https://github.com/patrickhener/CVE-2023-22855)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhener/CVE-2023-22855">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhener/CVE-2023-22855">
 
 ---
+## CVE-2023-22853 (2023-01-14T01:15:00)
+> Tiki before 24.1, when feature_create_webhelp is enabled, allows lib/structures/structlib.php PHP Object Injection because of an eval.
+- [Live-Hack-CVE/CVE-2023-22853](https://github.com/Live-Hack-CVE/CVE-2023-22853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22853">
+
+---
+## CVE-2023-22852 (2023-01-14T01:15:00)
+> Tiki through 25.0 allows CSRF attacks that are related to tiki-importer.php and tiki-import_sheet.php.
+- [Live-Hack-CVE/CVE-2023-22852](https://github.com/Live-Hack-CVE/CVE-2023-22852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22852">
+
+---
 ## CVE-2023-22809 (2023-01-18T17:15:00)
 > In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a "--" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.
 - [Live-Hack-CVE/CVE-2023-22809](https://github.com/Live-Hack-CVE/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22809">
