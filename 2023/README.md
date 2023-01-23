@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-24070 (2023-01-23T05:15:00)
+> app/View/AuthKeys/authkey_display.ctp in MISP through 2.4.167 has an XSS in authkey add via a Referer field.
+- [Live-Hack-CVE/CVE-2023-24070](https://github.com/Live-Hack-CVE/CVE-2023-24070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24070">
+
+---
 ## CVE-2023-24059 (2023-01-22T07:15:00)
 > Grand Theft Auto V for PC allows attackers to achieve partial remote code execution or modify files on a PC, as exploited in the wild in January 2023.
 - [Live-Hack-CVE/CVE-2023-24059](https://github.com/Live-Hack-CVE/CVE-2023-24059)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24059">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24059">
@@ -139,6 +144,11 @@
 ## CVE-2023-23454 (2023-01-12T07:15:00)
 > cbq_classify in net/sched/sch_cbq.c in the Linux kernel through 6.1.4 allows attackers to cause a denial of service (slab-out-of-bounds read) because of type confusion (non-negative numbers can sometimes indicate a TC_ACT_SHOT condition rather than valid classification results).
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
+
+---
+## CVE-2023-23314 (2023-01-23T05:15:00)
+> An arbitrary file upload vulnerability in the /api/upload component of zdir v3.2.0 allows attackers to execute arbitrary code via a crafted .ssh file.
+- [Live-Hack-CVE/CVE-2023-23314](https://github.com/Live-Hack-CVE/CVE-2023-23314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23314">
 
 ---
 ## CVE-2023-23163 ()
