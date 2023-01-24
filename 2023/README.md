@@ -755,6 +755,7 @@
 ## CVE-2023-21796 (2023-01-24T00:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795.
 - [Live-Hack-CVE/CVE-2023-21796](https://github.com/Live-Hack-CVE/CVE-2023-21796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21796">
+- [Live-Hack-CVE/CVE-2023-21795](https://github.com/Live-Hack-CVE/CVE-2023-21795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21795">
 
 ---
 ## CVE-2023-21795 (2023-01-24T00:15:00)
