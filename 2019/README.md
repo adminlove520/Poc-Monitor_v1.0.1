@@ -641,6 +641,11 @@
 - [Live-Hack-CVE/CVE-2019-5477](https://github.com/Live-Hack-CVE/CVE-2019-5477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5477">
 
 ---
+## CVE-2019-5475 (2019-09-03T20:15:00)
+> The Nexus Yum Repository Plugin in v2 is vulnerable to Remote Code Execution when instances using CommandLineExecutor.java are supplied vulnerable data, such as the Yum Configuration Capability.
+- [lyy289065406/CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2019-5475">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2019-5475">
+
+---
 ## CVE-2019-5456 (2019-07-30T21:15:00)
 > SMTP MITM refers to a malicious actor setting up an SMTP proxy server between the UniFi Controller version <= 5.10.21 and their actual SMTP server to record their SMTP credentials for malicious use later.
 - [Live-Hack-CVE/CVE-2019-5456](https://github.com/Live-Hack-CVE/CVE-2019-5456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5456">
@@ -1907,6 +1912,11 @@
 ## CVE-2019-1559 (2019-02-27T23:29:00)
 > If an application encounters a fatal protocol error and then calls SSL_shutdown() twice (once to send a close_notify, and once to receive one) then OpenSSL can respond differently to the calling application if a 0 byte record is received with invalid padding compared to if a 0 byte record is received with an invalid MAC. If the application then behaves differently based on that in a way that is detectable to the remote peer, then this amounts to a padding oracle that could be used to decrypt data. In order for this to be exploitable "non-stitched" ciphersuites must be in use. Stitched ciphersuites are optimised implementations of certain commonly used ciphersuites. Also the application must call SSL_shutdown() twice even if a protocol error has occurred (applications should not do this but some do anyway). Fixed in OpenSSL 1.0.2r (Affected 1.0.2-1.0.2q).
 - [Live-Hack-CVE/CVE-2019-1559](https://github.com/Live-Hack-CVE/CVE-2019-1559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1559">
+
+---
+## CVE-2019-15588 (2019-11-01T15:15:00)
+> There is an OS Command Injection in Nexus Repository Manager <= 2.14.14 (bypass CVE-2019-5475) that could allow an attacker a Remote Code Execution (RCE). All instances using CommandLineExecutor.java with user-supplied data is vulnerable, such as the Yum Configuration Capability.
+- [lyy289065406/CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2019-15588">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2019-15588">
 
 ---
 ## CVE-2019-15587 (2019-10-22T21:15:00)
