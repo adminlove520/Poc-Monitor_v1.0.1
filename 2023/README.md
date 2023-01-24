@@ -397,6 +397,16 @@
 - [Live-Hack-CVE/CVE-2023-22487](https://github.com/Live-Hack-CVE/CVE-2023-22487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22487">
 
 ---
+## CVE-2023-22484 (2023-01-23T23:15:00)
+> cmark-gfm is GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C. Versions prior to 0.29.0.gfm.7 are subject to a polynomial time complexity issue in cmark-gfm that may lead to unbounded resource exhaustion and subsequent denial of service. This vulnerability has been patched in 0.29.0.gfm.7.
+- [Live-Hack-CVE/CVE-2023-22484](https://github.com/Live-Hack-CVE/CVE-2023-22484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22484">
+
+---
+## CVE-2023-22483 (2023-01-23T23:15:00)
+> cmark-gfm is GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C. Versions prior to 0.29.0.gfm.7 are subject to several polynomial time complexity issues in cmark-gfm that may lead to unbounded resource exhaustion and subsequent denial of service. Various commands, when piped to cmark-gfm with large values, cause the running time to increase quadratically. These vulnerabilities have been patched in version 0.29.0.gfm.7.
+- [Live-Hack-CVE/CVE-2023-22483](https://github.com/Live-Hack-CVE/CVE-2023-22483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22483">
+
+---
 ## CVE-2023-22479 (2023-01-10T21:15:00)
 > KubePi is a modern Kubernetes panel. A session fixation attack allows an attacker to hijack a legitimate user session, versions 1.6.3 and below are susceptible. A patch will be released in version 1.6.4.
 - [Live-Hack-CVE/CVE-2023-22479](https://github.com/Live-Hack-CVE/CVE-2023-22479)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22479">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22479">
@@ -742,6 +752,17 @@
 - [Live-Hack-CVE/CVE-2023-21825](https://github.com/Live-Hack-CVE/CVE-2023-21825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21825">
 
 ---
+## CVE-2023-21796 (2023-01-24T00:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795.
+- [Live-Hack-CVE/CVE-2023-21796](https://github.com/Live-Hack-CVE/CVE-2023-21796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21796">
+
+---
+## CVE-2023-21795 (2023-01-24T00:15:00)
+> Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21796.
+- [Live-Hack-CVE/CVE-2023-21795](https://github.com/Live-Hack-CVE/CVE-2023-21795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21795">
+- [Live-Hack-CVE/CVE-2023-21796](https://github.com/Live-Hack-CVE/CVE-2023-21796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21796">
+
+---
 ## CVE-2023-21793 (2023-01-10T22:15:00)
 > 3D Builder Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21780, CVE-2023-21781, CVE-2023-21782, CVE-2023-21783, CVE-2023-21784, CVE-2023-21785, CVE-2023-21786, CVE-2023-21787, CVE-2023-21788, CVE-2023-21789, CVE-2023-21790, CVE-2023-21791, CVE-2023-21792.
 - [Live-Hack-CVE/CVE-2023-21793](https://github.com/Live-Hack-CVE/CVE-2023-21793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21793">
@@ -997,6 +1018,11 @@
 ## CVE-2023-21776 (2023-01-10T22:15:00)
 > Windows Kernel Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21776](https://github.com/Live-Hack-CVE/CVE-2023-21776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21776">
+
+---
+## CVE-2023-21775 (2023-01-24T00:15:00)
+> Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21775](https://github.com/Live-Hack-CVE/CVE-2023-21775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21775">
 
 ---
 ## CVE-2023-21774 (2023-01-10T22:15:00)
@@ -1265,6 +1291,11 @@
 ## CVE-2023-21724 (2023-01-10T22:15:00)
 > Microsoft DWM Core Library Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21724](https://github.com/Live-Hack-CVE/CVE-2023-21724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21724">
+
+---
+## CVE-2023-21719 (2023-01-24T00:15:00)
+> Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability.
+- [Live-Hack-CVE/CVE-2023-21719](https://github.com/Live-Hack-CVE/CVE-2023-21719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21719">
 
 ---
 ## CVE-2023-21683 (2023-01-10T22:15:00)
