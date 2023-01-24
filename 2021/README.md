@@ -7100,6 +7100,7 @@
 ## CVE-2021-22192 (2021-03-24T17:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.2 allowing unauthorized authenticated users to execute arbitrary code on the server.
 - [lyy289065406/CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2021-22192">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2021-22192">
+- [PetrusViet/Gitlab-RCE](https://github.com/PetrusViet/Gitlab-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/Gitlab-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/Gitlab-RCE">
 
 ---
 ## CVE-2021-22134 (2021-03-08T21:15:00)
