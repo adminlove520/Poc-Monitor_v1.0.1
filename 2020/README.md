@@ -836,6 +836,11 @@
 - [Live-Hack-CVE/CVE-2020-5351](https://github.com/Live-Hack-CVE/CVE-2020-5351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5351">
 
 ---
+## CVE-2020-5313 (2020-01-03T01:15:00)
+> libImaging/FliDecode.c in Pillow before 6.2.2 has an FLI buffer overflow.
+- [Live-Hack-CVE/CVE-2020-5313](https://github.com/Live-Hack-CVE/CVE-2020-5313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5313">
+
+---
 ## CVE-2020-5306 (2020-01-05T23:15:00)
 > Codoforum 4.8.3 allows XSS via a post using parameters display name, title name, or content.
 - [Live-Hack-CVE/CVE-2020-5306](https://github.com/Live-Hack-CVE/CVE-2020-5306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5306">
