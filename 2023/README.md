@@ -686,9 +686,89 @@
 - [Live-Hack-CVE/CVE-2023-21891](https://github.com/Live-Hack-CVE/CVE-2023-21891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21891">
 
 ---
+## CVE-2023-21879 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21879](https://github.com/Live-Hack-CVE/CVE-2023-21879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21879">
+
+---
+## CVE-2023-21878 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21878](https://github.com/Live-Hack-CVE/CVE-2023-21878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21878">
+
+---
+## CVE-2023-21877 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as  unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2023-21877](https://github.com/Live-Hack-CVE/CVE-2023-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21877">
+
+---
+## CVE-2023-21876 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21876](https://github.com/Live-Hack-CVE/CVE-2023-21876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21876">
+
+---
+## CVE-2023-21875 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption).  Supported versions that are affected are 8.0.31 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in  unauthorized creation, deletion or modification access to critical data or all MySQL Server accessible data and unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 5.9 (Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:H/A:H).
+- [Live-Hack-CVE/CVE-2023-21875](https://github.com/Live-Hack-CVE/CVE-2023-21875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21875">
+
+---
+## CVE-2023-21874 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of MySQL Server. CVSS 3.1 Base Score 2.7 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2023-21874](https://github.com/Live-Hack-CVE/CVE-2023-21874)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21874">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21874">
+
+---
+## CVE-2023-21873 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21873](https://github.com/Live-Hack-CVE/CVE-2023-21873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21873">
+
+---
+## CVE-2023-21872 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as  unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2023-21872](https://github.com/Live-Hack-CVE/CVE-2023-21872)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21872">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21872">
+
+---
+## CVE-2023-21871 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21871](https://github.com/Live-Hack-CVE/CVE-2023-21871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21871">
+
+---
+## CVE-2023-21870 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21870](https://github.com/Live-Hack-CVE/CVE-2023-21870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21870">
+
+---
+## CVE-2023-21869 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server as well as  unauthorized update, insert or delete access to some of MySQL Server accessible data. CVSS 3.1 Base Score 5.5 (Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:L/A:H).
+- [Live-Hack-CVE/CVE-2023-21869](https://github.com/Live-Hack-CVE/CVE-2023-21869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21869">
+
+---
+## CVE-2023-21868 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 6.5 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21868](https://github.com/Live-Hack-CVE/CVE-2023-21868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21868">
+
+---
+## CVE-2023-21867 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21867](https://github.com/Live-Hack-CVE/CVE-2023-21867)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21867">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21867">
+
+---
+## CVE-2023-21866 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.28 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21866](https://github.com/Live-Hack-CVE/CVE-2023-21866)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21866">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21866">
+
+---
+## CVE-2023-21865 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21865](https://github.com/Live-Hack-CVE/CVE-2023-21865)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21865">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21865">
+
+---
 ## CVE-2023-21864 (2023-01-18T00:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2023-21864](https://github.com/Live-Hack-CVE/CVE-2023-21864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21864">
+
+---
+## CVE-2023-21863 (2023-01-18T00:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.9 (Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2023-21863](https://github.com/Live-Hack-CVE/CVE-2023-21863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21863">
 
 ---
 ## CVE-2023-21853 (2023-01-18T00:15:00)
