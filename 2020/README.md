@@ -257,6 +257,11 @@
 - [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/qazbnm456/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/qazbnm456/CVE-2020-8163">
 
 ---
+## CVE-2020-8026 (2020-08-07T10:15:00)
+> A Incorrect Default Permissions vulnerability in the packaging of inn in openSUSE Leap 15.2, openSUSE Tumbleweed, openSUSE Leap 15.1 allows local attackers with control of the new user to escalate their privileges to root. This issue affects: openSUSE Leap 15.2 inn version 2.6.2-lp152.1.26 and prior versions. openSUSE Tumbleweed inn version 2.6.2-4.2 and prior versions. openSUSE Leap 15.1 inn version 2.5.4-lp151.3.3.1 and prior versions.
+- [Live-Hack-CVE/CVE-2020-8026](https://github.com/Live-Hack-CVE/CVE-2020-8026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8026">
+
+---
 ## CVE-2020-8003 (2020-01-27T05:15:00)
 > A double-free vulnerability in vrend_renderer.c in virglrenderer through 0.8.1 allows attackers to cause a denial of service by triggering texture allocation failure, because vrend_renderer_resource_allocated_texture is not an appropriate place for a free.
 - [Live-Hack-CVE/CVE-2020-8003](https://github.com/Live-Hack-CVE/CVE-2020-8003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8003">
@@ -782,6 +787,16 @@
 - [Live-Hack-CVE/CVE-2020-5517](https://github.com/Live-Hack-CVE/CVE-2020-5517)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5517">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5517">
 
 ---
+## CVE-2020-5497 (2020-01-04T03:15:00)
+> The OpenID Connect reference implementation for MITREid Connect through 1.3.3 allows XSS due to userInfoJson being included in the page unsanitized. This is related to header.tag. The issue can be exploited to execute arbitrary JavaScript.
+- [Live-Hack-CVE/CVE-2020-5497](https://github.com/Live-Hack-CVE/CVE-2020-5497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5497">
+
+---
+## CVE-2020-5496 (2020-01-03T22:15:00)
+> FontForge 20190801 has a heap-based buffer overflow in the Type2NotDefSplines() function in splinesave.c.
+- [Live-Hack-CVE/CVE-2020-5496](https://github.com/Live-Hack-CVE/CVE-2020-5496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5496">
+
+---
 ## CVE-2020-5410 (2020-06-02T17:15:00)
 > Spring Cloud Config, versions 2.2.x prior to 2.2.3, versions 2.1.x prior to 2.1.9, and older unsupported versions allow applications to serve arbitrary configuration files through the spring-cloud-config-server module. A malicious user, or attacker, can send a request using a specially crafted URL that can lead to a directory traversal attack.
 - [Live-Hack-CVE/CVE-2020-5410](https://github.com/Live-Hack-CVE/CVE-2020-5410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5410">
@@ -803,6 +818,11 @@
 ## CVE-2020-5398 (2020-01-17T00:15:00)
 > In Spring Framework, versions 5.2.x prior to 5.2.3, versions 5.1.x prior to 5.1.13, and versions 5.0.x prior to 5.0.16, an application is vulnerable to a reflected file download (RFD) attack when it sets a "Content-Disposition" header in the response where the filename attribute is derived from user supplied input.
 - [motikan2010/CVE-2020-5398](https://github.com/motikan2010/CVE-2020-5398)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2020-5398">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2020-5398">
+
+---
+## CVE-2020-5395 (2020-01-03T20:15:00)
+> FontForge 20190801 has a use-after-free in SFD_GetFontMetaData in sfd.c.
+- [Live-Hack-CVE/CVE-2020-5395](https://github.com/Live-Hack-CVE/CVE-2020-5395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5395">
 
 ---
 ## CVE-2020-5355 (2022-10-21T18:15:00)
@@ -2412,6 +2432,11 @@
 - [Ko-kn3t/CVE-2020-25270](https://github.com/Ko-kn3t/CVE-2020-25270)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25270">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25270">
 
 ---
+## CVE-2020-25269 (2020-09-11T05:15:00)
+> An issue was discovered in InspIRCd 2 before 2.0.29 and 3 before 3.6.0. The pgsql module contains a use after free vulnerability. When combined with the sqlauth or sqloper modules, this vulnerability can be used for remote crashing of an InspIRCd server by any user able to connect to a server.
+- [Live-Hack-CVE/CVE-2020-25269](https://github.com/Live-Hack-CVE/CVE-2020-25269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25269">
+
+---
 ## CVE-2020-25238 (2021-02-09T17:15:00)
 > A vulnerability has been identified in PCS neo (Administration Console) (All versions < V3.1), TIA Portal (V15, V15.1 and V16). Manipulating certain files in specific folders could allow a local attacker to execute code with SYSTEM privileges. The security vulnerability could be exploited by an attacker with a valid account and limited access rights on the system.
 - [Live-Hack-CVE/CVE-2020-25238](https://github.com/Live-Hack-CVE/CVE-2020-25238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25238">
@@ -2566,6 +2591,11 @@
 ## CVE-2020-24396 (2021-05-20T14:15:00)
 > homee Brain Cube v2 (2.28.2 and 2.28.4) devices have sensitive SSH keys within downloadable and unencrypted firmware images. This allows remote attackers to use the support server as a SOCKS proxy.
 - [Live-Hack-CVE/CVE-2020-24396](https://github.com/Live-Hack-CVE/CVE-2020-24396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24396">
+
+---
+## CVE-2020-24370 (2020-08-17T17:15:00)
+> ldebug.c in Lua 5.4.0 allows a negation overflow and segmentation fault in getlocal and setlocal, as demonstrated by getlocal(3,2^31).
+- [Live-Hack-CVE/CVE-2020-24370](https://github.com/Live-Hack-CVE/CVE-2020-24370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24370">
 
 ---
 ## CVE-2020-24223 (2020-08-30T18:15:00)
@@ -3094,6 +3124,11 @@
 - [Live-Hack-CVE/CVE-2020-17506](https://github.com/Live-Hack-CVE/CVE-2020-17506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17506">
 
 ---
+## CVE-2020-17505 (2020-08-12T17:15:00)
+> Artica Web Proxy 4.30.000000 allows an authenticated remote attacker to inject commands via the service-cmds parameter in cyrus.php. These commands are executed with root privileges via service_cmds_peform.
+- [Live-Hack-CVE/CVE-2020-17505](https://github.com/Live-Hack-CVE/CVE-2020-17505)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17505">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17505">
+
+---
 ## CVE-2020-17498 (2020-08-13T16:15:00)
 > In Wireshark 3.2.0 to 3.2.5, the Kafka protocol dissector could crash. This was addressed in epan/dissectors/packet-kafka.c by avoiding a double free during LZ4 decompression.
 - [Live-Hack-CVE/CVE-2020-17498](https://github.com/Live-Hack-CVE/CVE-2020-17498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17498">
@@ -3125,6 +3160,11 @@
 ## CVE-2020-17368 (2020-08-11T16:15:00)
 > Firejail through 0.9.62 mishandles shell metacharacters during use of the --output or --output-stderr option, which may lead to command injection.
 - [Live-Hack-CVE/CVE-2020-17368](https://github.com/Live-Hack-CVE/CVE-2020-17368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17368">
+
+---
+## CVE-2020-17353 (2020-08-05T14:15:00)
+> scm/define-stencil-commands.scm in LilyPond through 2.20.0, and 2.21.x through 2.21.4, when -dsafe is used, lacks restrictions on embedded-ps and embedded-svg, as demonstrated by including dangerous PostScript code.
+- [Live-Hack-CVE/CVE-2020-17353](https://github.com/Live-Hack-CVE/CVE-2020-17353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17353">
 
 ---
 ## CVE-2020-1730 (2020-04-13T19:15:00)
@@ -3340,6 +3380,11 @@
 - [Live-Hack-CVE/CVE-2020-15798](https://github.com/Live-Hack-CVE/CVE-2020-15798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15798">
 
 ---
+## CVE-2020-15701 (2020-08-06T23:15:00)
+> An unhandled exception in check_ignored() in apport/report.py can be exploited by a local attacker to cause a denial of service. If the mtime attribute is a string value in apport-ignore.xml, it will trigger an unhandled exception, resulting in a crash. Fixed in 2.20.1-0ubuntu2.24, 2.20.9-0ubuntu7.16, 2.20.11-0ubuntu27.6.
+- [Live-Hack-CVE/CVE-2020-15701](https://github.com/Live-Hack-CVE/CVE-2020-15701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15701">
+
+---
 ## CVE-2020-15685 (2022-12-22T20:15:00)
 > During the plaintext phase of the STARTTLS connection setup, protocol commands could have been injected and evaluated within the encrypted session. This vulnerability affects Thunderbird < 78.7.
 - [Live-Hack-CVE/CVE-2020-15685](https://github.com/Live-Hack-CVE/CVE-2020-15685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15685">
@@ -3369,6 +3414,16 @@
 ## CVE-2020-15652 (2020-08-10T18:15:00)
 > By observing the stack trace for JavaScript errors in web workers, it was possible to leak the result of a cross-origin redirect. This applied only to content that can be parsed as script. This vulnerability affects Firefox < 79, Firefox ESR < 68.11, Firefox ESR < 78.1, Thunderbird < 68.11, and Thunderbird < 78.1.
 - [Live-Hack-CVE/CVE-2020-15652](https://github.com/Live-Hack-CVE/CVE-2020-15652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15652">
+
+---
+## CVE-2020-15645 (2020-08-25T21:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole 5.5.0.64. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the getFileFromURL method of the GWTTestServiceImpl class. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-10553.
+- [Live-Hack-CVE/CVE-2020-15645](https://github.com/Live-Hack-CVE/CVE-2020-15645)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15645">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15645">
+
+---
+## CVE-2020-15643 (2020-08-25T21:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole 5.5.0.64. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the saveAsText method of the GWTTestServiceImpl class. The issue results from the lack of proper validation of a user-supplied path prior to using it in file operations. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-10549.
+- [Live-Hack-CVE/CVE-2020-15643](https://github.com/Live-Hack-CVE/CVE-2020-15643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15643">
 
 ---
 ## CVE-2020-15568 (2021-01-30T05:15:00)
@@ -3420,6 +3475,11 @@
 ## CVE-2020-15113 (2020-08-05T20:15:00)
 > In etcd before versions 3.3.23 and 3.4.10, certain directory paths are created (etcd data directory and the directory path when provided to automatically generate self-signed certificates for TLS connections with clients) with restricted access permissions (700) by using the os.MkdirAll. This function does not perform any permission checks when a given directory path exists already. A possible workaround is to ensure the directories have the desired permission (700).
 - [Live-Hack-CVE/CVE-2020-15113](https://github.com/Live-Hack-CVE/CVE-2020-15113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15113">
+
+---
+## CVE-2020-15094 (2020-09-02T18:15:00)
+> In Symfony before versions 4.4.13 and 5.1.5, the CachingHttpClient class from the HttpClient Symfony component relies on the HttpCache class to handle requests. HttpCache uses internal headers like X-Body-Eval and X-Body-File to control the restoration of cached responses. The class was initially written with surrogate caching and ESI support in mind (all HTTP calls come from a trusted backend in that scenario). But when used by CachingHttpClient and if an attacker can control the response for a request being made by the CachingHttpClient, remote code execution is possible. This has been fixed in versions 4.4.13 and 5.1.5.
+- [Live-Hack-CVE/CVE-2020-15094](https://github.com/Live-Hack-CVE/CVE-2020-15094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15094">
 
 ---
 ## CVE-2020-15087 (2020-06-30T17:15:00)
@@ -3595,6 +3655,16 @@
 ## CVE-2020-14361 (2020-09-15T19:15:00)
 > A flaw was found in X.Org Server before xorg-x11-server 1.20.9. An Integer underflow leading to heap-buffer overflow may lead to a privilege escalation vulnerability. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability.
 - [Live-Hack-CVE/CVE-2020-14361](https://github.com/Live-Hack-CVE/CVE-2020-14361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14361">
+
+---
+## CVE-2020-14350 (2020-08-24T13:15:00)
+> It was found that some PostgreSQL extensions did not use search_path safely in their installation script. An attacker with sufficient privileges could use this flaw to trick an administrator into executing a specially crafted script, during the installation or update of such extension. This affects PostgreSQL versions before 12.4, before 11.9, before 10.14, before 9.6.19, and before 9.5.23.
+- [Live-Hack-CVE/CVE-2020-14350](https://github.com/Live-Hack-CVE/CVE-2020-14350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14350">
+
+---
+## CVE-2020-14349 (2020-08-24T13:15:00)
+> It was found that PostgreSQL versions before 12.4, before 11.9 and before 10.14 did not properly sanitize the search_path during logical replication. An authenticated attacker could use this flaw in an attack similar to CVE-2018-1058, in order to execute arbitrary SQL command in the context of the user used for replication.
+- [Live-Hack-CVE/CVE-2020-14349](https://github.com/Live-Hack-CVE/CVE-2020-14349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14349">
 
 ---
 ## CVE-2020-14346 (2020-09-15T19:15:00)
@@ -4489,6 +4559,11 @@
 ## CVE-2020-10148 (2020-12-29T22:15:00)
 > The SolarWinds Orion API is vulnerable to an authentication bypass that could allow a remote attacker to execute API commands. This vulnerability could allow a remote attacker to bypass authentication and execute API commands which may result in a compromise of the SolarWinds instance. SolarWinds Orion Platform versions 2019.4 HF 5, 2020.2 with no hotfix installed, and 2020.2 HF 1 are affected.
 - [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
+
+---
+## CVE-2020-10056 (2020-09-09T19:15:00)
+> A vulnerability has been identified in License Management Utility (LMU) (All versions < V2.4). The lmgrd service of the affected application is executed with local SYSTEM privileges on the server while its configuration can be modified by local users. The vulnerability could allow a local authenticated attacker to execute arbitrary commands on the server with local SYSTEM privileges.
+- [Live-Hack-CVE/CVE-2020-10056](https://github.com/Live-Hack-CVE/CVE-2020-10056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10056">
 
 ---
 ## CVE-2020-10029 (2020-03-04T15:15:00)

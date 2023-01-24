@@ -1,6 +1,11 @@
 # 2013 List
 
 ---
+## CVE-2013-7490 (2020-09-11T19:15:00)
+> An issue was discovered in the DBI module before 1.632 for Perl. Using many arguments to methods for Callbacks may lead to memory corruption.
+- [Live-Hack-CVE/CVE-2013-7490](https://github.com/Live-Hack-CVE/CVE-2013-7490)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-7490">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-7490">
+
+---
 ## CVE-2013-6668 (2014-03-05T05:11:00)
 > Multiple unspecified vulnerabilities in Google V8 before 3.24.35.10, as used in Google Chrome before 33.0.1750.146, allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
 - [Live-Hack-CVE/CVE-2013-6668](https://github.com/Live-Hack-CVE/CVE-2013-6668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6668">
@@ -208,6 +213,16 @@
 - [Live-Hack-CVE/CVE-2013-0900](https://github.com/Live-Hack-CVE/CVE-2013-0900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0900">
 
 ---
+## CVE-2013-0899 (2013-02-23T21:55:00)
+> Integer overflow in the padding implementation in the opus_packet_parse_impl function in src/opus_decoder.c in Opus before 1.0.2, as used in Google Chrome before 25.0.1364.97 on Windows and Linux and before 25.0.1364.99 on Mac OS X and other products, allows remote attackers to cause a denial of service (out-of-bounds read) via a long packet.
+- [Live-Hack-CVE/CVE-2013-0899](https://github.com/Live-Hack-CVE/CVE-2013-0899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0899">
+
+---
+## CVE-2013-0898 (2013-02-23T21:55:00)
+> Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving a URL.
+- [Live-Hack-CVE/CVE-2013-0898](https://github.com/Live-Hack-CVE/CVE-2013-0898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0898">
+
+---
 ## CVE-2013-0897 (2013-02-23T21:55:00)
 > Off-by-one error in the PDF functionality in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service via a crafted document.
 - [Live-Hack-CVE/CVE-2013-0897](https://github.com/Live-Hack-CVE/CVE-2013-0897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0897">
@@ -251,6 +266,11 @@
 ## CVE-2013-0884 (2013-02-23T21:55:00)
 > Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, does not properly load Native Client (aka NaCl) code, which has unspecified impact and attack vectors.
 - [Live-Hack-CVE/CVE-2013-0884](https://github.com/Live-Hack-CVE/CVE-2013-0884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0884">
+
+---
+## CVE-2013-0880 (2013-02-23T21:55:00)
+> Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to databases.
+- [Live-Hack-CVE/CVE-2013-0880](https://github.com/Live-Hack-CVE/CVE-2013-0880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0880">
 
 ---
 ## CVE-2013-0796 (2013-04-03T11:56:00)

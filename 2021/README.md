@@ -5615,6 +5615,11 @@
 - [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
 
 ---
+## CVE-2021-29024 (2021-05-17T19:15:00)
+> In InvoicePlane 1.5.11 a misconfigured web server allows unauthenticated directory listing and file download. Allowing an attacker to directory traversal and download files suppose to be private without authentication.
+- [Live-Hack-CVE/CVE-2021-29024](https://github.com/Live-Hack-CVE/CVE-2021-29024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29024">
+
+---
 ## CVE-2021-28879 (2021-04-11T20:15:00)
 > In the standard library in Rust before 1.52.0, the Zip implementation can report an incorrect size due to an integer overflow. This bug can lead to a buffer overflow when a consumed Zip iterator is used again.
 - [Live-Hack-CVE/CVE-2021-28879](https://github.com/Live-Hack-CVE/CVE-2021-28879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28879">
