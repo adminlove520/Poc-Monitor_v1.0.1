@@ -1917,6 +1917,7 @@
 ## CVE-2019-15588 (2019-11-01T15:15:00)
 > There is an OS Command Injection in Nexus Repository Manager <= 2.14.14 (bypass CVE-2019-5475) that could allow an attacker a Remote Code Execution (RCE). All instances using CommandLineExecutor.java with user-supplied data is vulnerable, such as the Yum Configuration Capability.
 - [lyy289065406/CVE-2019-15588](https://github.com/lyy289065406/CVE-2019-15588)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2019-15588">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2019-15588">
+- [lyy289065406/CVE-2019-5475](https://github.com/lyy289065406/CVE-2019-5475)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2019-5475">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2019-5475">
 
 ---
 ## CVE-2019-15587 (2019-10-22T21:15:00)
