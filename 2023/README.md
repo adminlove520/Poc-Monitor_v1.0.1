@@ -121,6 +121,11 @@
 - [Live-Hack-CVE/CVE-2023-23589](https://github.com/Live-Hack-CVE/CVE-2023-23589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23589">
 
 ---
+## CVE-2023-23560 (2023-01-23T21:15:00)
+> In certain Lexmark products through 2023-01-12, SSRF can occur because of a lack of input validation.
+- [Live-Hack-CVE/CVE-2023-23560](https://github.com/Live-Hack-CVE/CVE-2023-23560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23560">
+
+---
 ## CVE-2023-23559 (2023-01-13T01:15:00)
 > In rndis_query_oid in drivers/net/wireless/rndis_wlan.c in the Linux kernel through 6.1.5, there is an integer overflow in an addition.
 - [Live-Hack-CVE/CVE-2023-23559](https://github.com/Live-Hack-CVE/CVE-2023-23559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23559">
@@ -179,6 +184,11 @@
 ## CVE-2023-22963 (2023-01-11T06:15:00)
 > The personnummer implementation before 3.0.3 for Dart mishandles numbers in which the last four digits match the ^000[0-9]$ regular expression.
 - [Live-Hack-CVE/CVE-2023-22963](https://github.com/Live-Hack-CVE/CVE-2023-22963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22963">
+
+---
+## CVE-2023-22960 (2023-01-23T21:15:00)
+> Lexmark products through 2023-01-10 have Improper Control of Interaction Frequency.
+- [Live-Hack-CVE/CVE-2023-22960](https://github.com/Live-Hack-CVE/CVE-2023-22960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22960">
 
 ---
 ## CVE-2023-22959 (2023-01-11T04:15:00)
@@ -310,6 +320,11 @@
 ## CVE-2023-22671 (2023-01-06T07:15:00)
 > Ghidra/RuntimeScripts/Linux/support/launch.sh in NSA Ghidra through 10.2.2 passes user-provided input into eval, leading to command injection when calling analyzeHeadless with untrusted input.
 - [Live-Hack-CVE/CVE-2023-22671](https://github.com/Live-Hack-CVE/CVE-2023-22671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22671">
+
+---
+## CVE-2023-22630 (2023-01-23T22:15:00)
+> IzyBat Orange casiers before 20221102_1 allows SQL Injection via a getCasier.php?taille= URI.
+- [Live-Hack-CVE/CVE-2023-22630](https://github.com/Live-Hack-CVE/CVE-2023-22630)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22630">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22630">
 
 ---
 ## CVE-2023-22626 (2023-01-05T08:15:00)

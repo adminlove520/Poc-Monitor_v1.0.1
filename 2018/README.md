@@ -572,6 +572,11 @@
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
 
 ---
+## CVE-2018-20104 (2023-01-23T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2018. Notes: none.
+- [Live-Hack-CVE/CVE-2018-20104](https://github.com/Live-Hack-CVE/CVE-2018-20104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20104">
+
+---
 ## CVE-2018-20097 (2018-12-12T10:29:00)
 > There is a SEGV in Exiv2::Internal::TiffParserWorker::findPrimaryGroups of tiffimage_int.cpp in Exiv2 0.27-RC3. A crafted input will lead to a remote denial of service attack.
 - [Live-Hack-CVE/CVE-2018-20097](https://github.com/Live-Hack-CVE/CVE-2018-20097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20097">
