@@ -3001,6 +3001,11 @@
 - [Live-Hack-CVE/CVE-2021-39077](https://github.com/Live-Hack-CVE/CVE-2021-39077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39077">
 
 ---
+## CVE-2021-39027 (2022-05-06T16:15:00)
+> IBM Guardium Data Encryption (GDE) 4.0.0 and 5.0.0 prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved. IBM X-Force ID: 213865.
+- [Live-Hack-CVE/CVE-2021-39027](https://github.com/Live-Hack-CVE/CVE-2021-39027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39027">
+
+---
 ## CVE-2021-38997 (2022-12-12T09:15:00)
 > IBM API Connect V10.0.0.0 through V10.0.5.0, V10.0.1.0 through V10.0.1.7, and V2018.4.1.0 through 2018.4.1.19 is vulnerable to HTTP header injection, caused by improper validation of input by the HOST headers. This could allow an attacker to conduct various attacks against the vulnerable system, including cross-site scripting, cache poisoning or session hijacking. IBM X-Force ID: 213212.
 - [Live-Hack-CVE/CVE-2021-38997](https://github.com/Live-Hack-CVE/CVE-2021-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38997">

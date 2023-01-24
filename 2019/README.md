@@ -1840,6 +1840,11 @@
 - [Live-Hack-CVE/CVE-2019-16781](https://github.com/Live-Hack-CVE/CVE-2019-16781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16781">
 
 ---
+## CVE-2019-16775 (2019-12-13T01:15:00)
+> Versions of the npm CLI prior to 6.13.3 are vulnerable to an Arbitrary File Write. It is possible for packages to create symlinks to files outside of thenode_modules folder through the bin field upon installation. A properly constructed entry in the package.json bin field would allow a package publisher to create a symlink pointing to arbitrary files on a user's system when the package is installed. This behavior is still possible through install scripts. This vulnerability bypasses a user using the --ignore-scripts install option.
+- [Live-Hack-CVE/CVE-2019-16775](https://github.com/Live-Hack-CVE/CVE-2019-16775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16775">
+
+---
 ## CVE-2019-16770 (2019-12-05T20:15:00)
 > In Puma before versions 3.12.2 and 4.3.1, a poorly-behaved client could use keepalive requests to monopolize Puma's reactor and create a denial of service attack. If more keepalive connections to Puma are opened than there are threads available, additional connections will wait permanently if the attacker sends requests frequently enough. This vulnerability is patched in Puma 4.3.1 and 3.12.2.
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">

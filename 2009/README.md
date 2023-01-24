@@ -13,6 +13,11 @@
 - [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-4049">
 
 ---
+## CVE-2009-3732 (2010-04-12T18:30:00)
+> Format string vulnerability in vmware-vmrc.exe build 158248 in VMware Remote Console (aka VMrc) allows remote attackers to execute arbitrary code via unspecified vectors.
+- [Live-Hack-CVE/CVE-2009-3732](https://github.com/Live-Hack-CVE/CVE-2009-3732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3732">
+
+---
 ## CVE-2009-3095 (2009-09-08T18:30:00)
 > The mod_proxy_ftp module in the Apache HTTP Server allows remote attackers to bypass intended access restrictions and send arbitrary commands to an FTP server via vectors related to the embedding of these commands in the Authorization HTTP header, as demonstrated by a certain module in VulnDisco Pack Professional 8.11.
 - [Live-Hack-CVE/CVE-2009-3095](https://github.com/Live-Hack-CVE/CVE-2009-3095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3095">

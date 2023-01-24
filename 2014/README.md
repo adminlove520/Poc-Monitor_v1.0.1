@@ -127,6 +127,11 @@
 - [Live-Hack-CVE/CVE-2014-3538](https://github.com/Live-Hack-CVE/CVE-2014-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3538">
 
 ---
+## CVE-2014-3394 (2014-10-10T10:55:00)
+> The Smart Call Home (SCH) implementation in Cisco ASA Software 8.2 before 8.2(5.50), 8.4 before 8.4(7.15), 8.6 before 8.6(1.14), 8.7 before 8.7(1.13), 9.0 before 9.0(4.8), and 9.1 before 9.1(5.1) allows remote attackers to bypass certificate validation via an arbitrary VeriSign certificate, aka Bug ID CSCun10916.
+- [Live-Hack-CVE/CVE-2014-3394](https://github.com/Live-Hack-CVE/CVE-2014-3394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3394">
+
+---
 ## CVE-2014-3166 (2014-08-13T04:57:00)
 > The Public Key Pinning (PKP) implementation in Google Chrome before 36.0.1985.143 on Windows, OS X, and Linux, and before 36.0.1985.135 on Android, does not correctly consider the properties of SPDY connections, which allows remote attackers to obtain sensitive information by leveraging the use of multiple domain names.
 - [Live-Hack-CVE/CVE-2014-3166](https://github.com/Live-Hack-CVE/CVE-2014-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3166">

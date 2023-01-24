@@ -1717,6 +1717,11 @@
 - [Live-Hack-CVE/CVE-2023-0327](https://github.com/Live-Hack-CVE/CVE-2023-0327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0327">
 
 ---
+## CVE-2023-0323 (2023-01-16T15:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 10.5.14.
+- [Live-Hack-CVE/CVE-2023-0323](https://github.com/Live-Hack-CVE/CVE-2023-0323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0323">
+
+---
 ## CVE-2023-0316 (2023-01-16T01:15:00)
 > Path Traversal: '\..\filename' in GitHub repository froxlor/froxlor prior to 2.0.0.
 - [Live-Hack-CVE/CVE-2023-0316](https://github.com/Live-Hack-CVE/CVE-2023-0316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0316">

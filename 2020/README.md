@@ -775,6 +775,11 @@
 - [Live-Hack-CVE/CVE-2020-5844](https://github.com/Live-Hack-CVE/CVE-2020-5844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5844">
 
 ---
+## CVE-2020-5791 (2020-10-20T22:15:00)
+> Improper neutralization of special elements used in an OS command in Nagios XI 5.7.3 allows a remote, authenticated admin user to execute operating system commands with the privileges of the apache user.
+- [Live-Hack-CVE/CVE-2020-5791](https://github.com/Live-Hack-CVE/CVE-2020-5791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5791">
+
+---
 ## CVE-2020-5752 (2020-05-21T15:15:00)
 > Relative path traversal in Druva inSync Windows Client 6.6.3 allows a local, unauthenticated attacker to execute arbitrary operating system commands with SYSTEM privileges.
 - [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">
