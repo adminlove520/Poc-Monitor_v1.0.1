@@ -232,6 +232,16 @@
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
 
 ---
+## CVE-2018-5962 (2018-01-22T01:29:00)
+> index.php in CentOS-WebPanel.com (aka CWP) CentOS Web Panel through v0.9.8.12 has XSS via the id parameter to the phpini_editor module or the email_address parameter to the mail_add-new module.
+- [Live-Hack-CVE/CVE-2018-5962](https://github.com/Live-Hack-CVE/CVE-2018-5962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5962">
+
+---
+## CVE-2018-5961 (2018-01-22T01:29:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel through v0.9.8.12 has XSS via the `module` value of the `index.php` file.
+- [Live-Hack-CVE/CVE-2018-5961](https://github.com/Live-Hack-CVE/CVE-2018-5961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5961">
+
+---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in the ucompthread function (stream.c). Remote attackers could leverage this vulnerability to cause a denial of service via a crafted lrz file.
 - [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
@@ -701,6 +711,16 @@
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
 
 ---
+## CVE-2018-18774 (2018-11-20T19:29:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.740 allows XSS via the admin/index.php module parameter.
+- [Live-Hack-CVE/CVE-2018-18774](https://github.com/Live-Hack-CVE/CVE-2018-18774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18774">
+
+---
+## CVE-2018-18772 (2018-11-20T19:29:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.740 allows CSRF via admin/index.php?module=send_ssh, as demonstrated by executing an arbitrary OS command.
+- [Live-Hack-CVE/CVE-2018-18772](https://github.com/Live-Hack-CVE/CVE-2018-18772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18772">
+
+---
 ## CVE-2018-18439 (2018-11-20T19:29:00)
 > DENX U-Boot through 2018.09-rc1 has a remotely exploitable buffer overflow via a malicious TFTP server because TFTP traffic is mishandled. Also, local exploitation can occur via a crafted kernel image.
 - [Live-Hack-CVE/CVE-2018-18439](https://github.com/Live-Hack-CVE/CVE-2018-18439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18439">
@@ -709,6 +729,11 @@
 ## CVE-2018-18333 (2019-02-05T22:29:00)
 > A DLL hijacking vulnerability in Trend Micro Security 2019 (Consumer) versions below 15.0.0.1163 and below could allow an attacker to manipulate a specific DLL and escalate privileges on vulnerable installations.
 - [mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)	<img alt="forks" src="https://img.shields.io/github/forks/mrx04programmer/Dr.DLL-CVE-2018-18333">	<img alt="stars" src="https://img.shields.io/github/stars/mrx04programmer/Dr.DLL-CVE-2018-18333">
+
+---
+## CVE-2018-18322 (2018-10-15T07:29:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.480 has Command Injection via shell metacharacters in the admin/index.php service_start, service_restart, service_fullstatus, or service_stop parameter.
+- [Live-Hack-CVE/CVE-2018-18322](https://github.com/Live-Hack-CVE/CVE-2018-18322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18322">
 
 ---
 ## CVE-2018-17956 (2019-03-15T20:29:00)

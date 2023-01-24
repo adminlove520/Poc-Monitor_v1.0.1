@@ -5282,6 +5282,16 @@
 - [Live-Hack-CVE/CVE-2021-31340](https://github.com/Live-Hack-CVE/CVE-2021-31340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31340">
 
 ---
+## CVE-2021-31324 (2021-05-18T20:15:00)
+> The unprivileged user portal part of CentOS Web Panel is affected by a Command Injection vulnerability leading to root Remote Code Execution.
+- [Live-Hack-CVE/CVE-2021-31324](https://github.com/Live-Hack-CVE/CVE-2021-31324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31324">
+
+---
+## CVE-2021-31316 (2021-05-18T20:15:00)
+> The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the 'idsession' HTTP POST parameter.
+- [Live-Hack-CVE/CVE-2021-31316](https://github.com/Live-Hack-CVE/CVE-2021-31316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31316">
+
+---
 ## CVE-2021-3129 (2021-01-12T15:15:00)
 > Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.
 - [JacobEbben/CVE-2021-3129](https://github.com/JacobEbben/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2021-3129">

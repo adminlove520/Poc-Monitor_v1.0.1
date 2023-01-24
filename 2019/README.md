@@ -226,6 +226,11 @@
 - [Live-Hack-CVE/CVE-2019-7654](https://github.com/Live-Hack-CVE/CVE-2019-7654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7654">
 
 ---
+## CVE-2019-7646 (2019-03-26T16:29:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.763 is vulnerable to Stored/Persistent XSS for the "Package Name" field via the add_package module parameter.
+- [Live-Hack-CVE/CVE-2019-7646](https://github.com/Live-Hack-CVE/CVE-2019-7646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7646">
+
+---
 ## CVE-2019-7304 (2019-04-23T16:29:00)
 > Canonical snapd before version 2.37.1 incorrectly performed socket owner validation, allowing an attacker to run arbitrary commands as root. This issue affects: Canonical snapd versions prior to 2.37.1.
 - [Live-Hack-CVE/CVE-2019-7304](https://github.com/Live-Hack-CVE/CVE-2019-7304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7304">
@@ -1942,6 +1947,11 @@
 - [Live-Hack-CVE/CVE-2019-15504](https://github.com/Live-Hack-CVE/CVE-2019-15504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15504">
 
 ---
+## CVE-2019-15235 (2019-12-17T16:15:00)
+> CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.864 allows an attacker to get a victim's session file name from /home/[USERNAME]/tmp/session/sess_xxxxxx, and the victim's token value from /usr/local/cwpsrv/logs/access_log, then use them to gain access to the victim's password (for the OS and phpMyAdmin) via an attacker account. This is different from CVE-2019-14782.
+- [Live-Hack-CVE/CVE-2019-15235](https://github.com/Live-Hack-CVE/CVE-2019-15235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15235">
+
+---
 ## CVE-2019-15107 (2019-08-16T03:15:00)
 > An issue was discovered in Webmin <=1.920. The parameter old in password_change.cgi contains a command injection vulnerability.
 - [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)	<img alt="forks" src="https://img.shields.io/github/forks/psw01/CVE-2019-15107_webminRCE">	<img alt="stars" src="https://img.shields.io/github/stars/psw01/CVE-2019-15107_webminRCE">
@@ -2003,6 +2013,16 @@
 ## CVE-2019-14824 (2019-11-08T15:15:00)
 > A flaw was found in the 'deref' plugin of 389-ds-base where it could use the 'search' permission to display attribute values. In some configurations, this could allow an authenticated attacker to view private attributes, such as password hashes.
 - [Live-Hack-CVE/CVE-2019-14824](https://github.com/Live-Hack-CVE/CVE-2019-14824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14824">
+
+---
+## CVE-2019-14729 (2019-09-10T16:15:00)
+> In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.851, an insecure object reference allows an attacker to delete a sub-domain from a victim's account via an attacker account.
+- [Live-Hack-CVE/CVE-2019-14729](https://github.com/Live-Hack-CVE/CVE-2019-14729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14729">
+
+---
+## CVE-2019-14726 (2019-09-10T16:15:00)
+> In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.851, an insecure object reference allows an attacker to access and delete DNS records of a victim's account via an attacker account.
+- [Live-Hack-CVE/CVE-2019-14726](https://github.com/Live-Hack-CVE/CVE-2019-14726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14726">
 
 ---
 ## CVE-2019-14591 (2019-11-14T20:15:00)
@@ -2206,6 +2226,11 @@
 > Smanos W100 1.0.0 devices have Insecure Permissions, exploitable by an attacker on the same Wi-Fi network.
 - [Live-Hack-CVE/CVE-2019-13361](https://github.com/Live-Hack-CVE/CVE-2019-13361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13361">
 - [lodi-g/CVE-2019-13361](https://github.com/lodi-g/CVE-2019-13361)	<img alt="forks" src="https://img.shields.io/github/forks/lodi-g/CVE-2019-13361">	<img alt="stars" src="https://img.shields.io/github/stars/lodi-g/CVE-2019-13361">
+
+---
+## CVE-2019-13359 (2019-07-16T18:15:00)
+> In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.836, a cwpsrv-xxx cookie allows a normal user to craft and upload a session file to the /tmp directory, and use it to become the root user.
+- [Live-Hack-CVE/CVE-2019-13359](https://github.com/Live-Hack-CVE/CVE-2019-13359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13359">
 
 ---
 ## CVE-2019-13120 (2019-10-07T22:15:00)

@@ -3436,6 +3436,26 @@
 - [Live-Hack-CVE/CVE-2020-15643](https://github.com/Live-Hack-CVE/CVE-2020-15643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15643">
 
 ---
+## CVE-2020-15624 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_new_account.php. When parsing the domain parameter, the process does not properly validate a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to disclose information in the context of root. Was ZDI-CAN-9727.
+- [Live-Hack-CVE/CVE-2020-15624](https://github.com/Live-Hack-CVE/CVE-2020-15624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15624">
+
+---
+## CVE-2020-15620 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_list_accounts.php. When parsing the id parameter, the process does not properly validate a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to disclose information in the context of root. Was ZDI-CAN-9741.
+- [Live-Hack-CVE/CVE-2020-15620](https://github.com/Live-Hack-CVE/CVE-2020-15620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15620">
+
+---
+## CVE-2020-15616 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_list_accounts.php. When parsing the package parameter, the process does not properly validate a user-supplied string before using it to construct SQL queries. An attacker can leverage this vulnerability to disclose information in the context of root. Was ZDI-CAN-9706.
+- [Live-Hack-CVE/CVE-2020-15616](https://github.com/Live-Hack-CVE/CVE-2020-15616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15616">
+
+---
+## CVE-2020-15612 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_ftp_manager.php. When parsing the userLogin parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9737.
+- [Live-Hack-CVE/CVE-2020-15612](https://github.com/Live-Hack-CVE/CVE-2020-15612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15612">
+
+---
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
@@ -3449,6 +3469,26 @@
 ## CVE-2020-15500 (2020-07-01T23:15:00)
 > An issue was discovered in server.js in TileServer GL through 3.0.0. The content of the key GET parameter is reflected unsanitized in an HTTP response for the application's main page, causing reflected XSS.
 - [Live-Hack-CVE/CVE-2020-15500](https://github.com/Live-Hack-CVE/CVE-2020-15500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15500">
+
+---
+## CVE-2020-15435 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_dashboard.php. When parsing the service_start parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9719.
+- [Live-Hack-CVE/CVE-2020-15435](https://github.com/Live-Hack-CVE/CVE-2020-15435)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15435">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15435">
+
+---
+## CVE-2020-15434 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_php_pecl.php. When parsing the canal parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9745.
+- [Live-Hack-CVE/CVE-2020-15434](https://github.com/Live-Hack-CVE/CVE-2020-15434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15434">
+
+---
+## CVE-2020-15429 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_crons.php. When parsing the user parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9716.
+- [Live-Hack-CVE/CVE-2020-15429](https://github.com/Live-Hack-CVE/CVE-2020-15429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15429">
+
+---
+## CVE-2020-15422 (2020-07-28T17:15:00)
+> This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_mod_security.php. When parsing the archivo parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-9731.
+- [Live-Hack-CVE/CVE-2020-15422](https://github.com/Live-Hack-CVE/CVE-2020-15422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15422">
 
 ---
 ## CVE-2020-15366 (2020-07-15T20:15:00)
