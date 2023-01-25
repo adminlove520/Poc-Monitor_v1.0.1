@@ -914,6 +914,11 @@
 - [Live-Hack-CVE/CVE-2020-36653](https://github.com/Live-Hack-CVE/CVE-2020-36653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36653">
 
 ---
+## CVE-2020-36651 (2023-01-18T01:15:00)
+> A vulnerability has been found in youngerheart nodeserver and classified as critical. Affected by this vulnerability is an unknown functionality of the file nodeserver.js. The manipulation leads to path traversal. The name of the patch is c4c0f0138ab5afbac58e03915d446680421bde28. It is recommended to apply a patch to fix this issue. The identifier VDB-218461 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36651](https://github.com/Live-Hack-CVE/CVE-2020-36651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36651">
+
+---
 ## CVE-2020-36650 (2023-01-11T18:15:00)
 > A vulnerability, which was classified as critical, was found in IonicaBizau node-gry up to 5.x. This affects an unknown part. The manipulation leads to command injection. Upgrading to version 6.0.0 is able to address this issue. The name of the patch is 5108446c1e23960d65e8b973f1d9486f9f9dbd6c. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-218019.
 - [Live-Hack-CVE/CVE-2020-36650](https://github.com/Live-Hack-CVE/CVE-2020-36650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36650">
