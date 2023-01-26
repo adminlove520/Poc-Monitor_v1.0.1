@@ -659,6 +659,28 @@
 - [Live-Hack-CVE/CVE-2016-4222](https://github.com/Live-Hack-CVE/CVE-2016-4222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4222">
 
 ---
+## CVE-2016-4226 (2016-07-13T02:00:00)
+> Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4227, CVE-2016-4228, CVE-2016-4229, CVE-2016-4230, CVE-2016-4231, and CVE-2016-4248.
+- [Live-Hack-CVE/CVE-2016-4226](https://github.com/Live-Hack-CVE/CVE-2016-4226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4226">
+
+---
+## CVE-2016-4225 (2016-07-13T02:00:00)
+> Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified "type confusion," a different vulnerability than CVE-2016-4223 and CVE-2016-4224.
+- [Live-Hack-CVE/CVE-2016-4225](https://github.com/Live-Hack-CVE/CVE-2016-4225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4225">
+- [Live-Hack-CVE/CVE-2016-4223](https://github.com/Live-Hack-CVE/CVE-2016-4223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4223">
+- [Live-Hack-CVE/CVE-2016-4224](https://github.com/Live-Hack-CVE/CVE-2016-4224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4224">
+
+---
+## CVE-2016-4224 (2016-07-13T02:00:00)
+> Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified "type confusion," a different vulnerability than CVE-2016-4223 and CVE-2016-4225.
+- [Live-Hack-CVE/CVE-2016-4224](https://github.com/Live-Hack-CVE/CVE-2016-4224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4224">
+
+---
+## CVE-2016-4223 (2016-07-13T02:00:00)
+> Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified "type confusion," a different vulnerability than CVE-2016-4224 and CVE-2016-4225.
+- [Live-Hack-CVE/CVE-2016-4223](https://github.com/Live-Hack-CVE/CVE-2016-4223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4223">
+
+---
 ## CVE-2016-4222 (2016-07-13T02:00:00)
 > Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4226, CVE-2016-4227, CVE-2016-4228, CVE-2016-4229, CVE-2016-4230, CVE-2016-4231, and CVE-2016-4248.
 - [Live-Hack-CVE/CVE-2016-4222](https://github.com/Live-Hack-CVE/CVE-2016-4222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4222">
@@ -669,6 +691,7 @@
 - [Live-Hack-CVE/CVE-2016-4248](https://github.com/Live-Hack-CVE/CVE-2016-4248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4248">
 - [Live-Hack-CVE/CVE-2016-4231](https://github.com/Live-Hack-CVE/CVE-2016-4231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4231">
 - [Live-Hack-CVE/CVE-2016-7020](https://github.com/Live-Hack-CVE/CVE-2016-7020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7020">
+- [Live-Hack-CVE/CVE-2016-4226](https://github.com/Live-Hack-CVE/CVE-2016-4226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4226">
 
 ---
 ## CVE-2016-4221 (2016-07-13T02:00:00)
@@ -1043,6 +1066,11 @@
 - [Live-Hack-CVE/CVE-2016-1033](https://github.com/Live-Hack-CVE/CVE-2016-1033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1033">
 
 ---
+## CVE-2016-1031 (2016-04-09T01:59:00)
+> Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1016, and CVE-2016-1017.
+- [Live-Hack-CVE/CVE-2016-1031](https://github.com/Live-Hack-CVE/CVE-2016-1031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1031">
+
+---
 ## CVE-2016-10229 (2017-04-04T05:59:00)
 > udp.c in the Linux kernel before 4.5 allows remote attackers to execute arbitrary code via UDP traffic that triggers an unsafe second checksum calculation during execution of a recv system call with the MSG_PEEK flag.
 - [Live-Hack-CVE/CVE-2016-10229](https://github.com/Live-Hack-CVE/CVE-2016-10229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-10229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-10229">
@@ -1063,6 +1091,24 @@
 > Adobe Flash Player 21.0.0.197 and earlier allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via unspecified vectors, as exploited in the wild in April 2016.
 - [Live-Hack-CVE/CVE-2016-1019](https://github.com/Live-Hack-CVE/CVE-2016-1019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1019">
 - [KaviDk/Heap-Over-Flow-with-CVE-2016-10191](https://github.com/KaviDk/Heap-Over-Flow-with-CVE-2016-10191)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/Heap-Over-Flow-with-CVE-2016-10191">
+
+---
+## CVE-2016-1017 (2016-04-09T01:59:00)
+> Use-after-free vulnerability in the LoadVars.decode function in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1016, and CVE-2016-1031.
+- [Live-Hack-CVE/CVE-2016-1017](https://github.com/Live-Hack-CVE/CVE-2016-1017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1017">
+
+---
+## CVE-2016-1013 (2016-04-09T01:59:00)
+> Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1031.
+- [Live-Hack-CVE/CVE-2016-1013](https://github.com/Live-Hack-CVE/CVE-2016-1013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1013">
+
+---
+## CVE-2016-1011 (2016-04-09T01:59:00)
+> Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1013, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1031.
+- [Live-Hack-CVE/CVE-2016-1011](https://github.com/Live-Hack-CVE/CVE-2016-1011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1011">
+- [Live-Hack-CVE/CVE-2016-1017](https://github.com/Live-Hack-CVE/CVE-2016-1017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1017">
+- [Live-Hack-CVE/CVE-2016-1031](https://github.com/Live-Hack-CVE/CVE-2016-1031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1031">
+- [Live-Hack-CVE/CVE-2016-1013](https://github.com/Live-Hack-CVE/CVE-2016-1013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1013">
 
 ---
 ## CVE-2016-1010 (2016-03-12T15:59:00)
