@@ -1116,6 +1116,9 @@
 ## CVE-2016-1016 (2016-04-09T01:59:00)
 > Use-after-free vulnerability in the Transform object implementation in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via a flash.geom.Matrix callback, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1017, and CVE-2016-1031.
 - [Live-Hack-CVE/CVE-2016-1016](https://github.com/Live-Hack-CVE/CVE-2016-1016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1016">
+- [Live-Hack-CVE/CVE-2016-1031](https://github.com/Live-Hack-CVE/CVE-2016-1031)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1031">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1031">
+- [Live-Hack-CVE/CVE-2016-1011](https://github.com/Live-Hack-CVE/CVE-2016-1011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1011">
+- [Live-Hack-CVE/CVE-2016-1013](https://github.com/Live-Hack-CVE/CVE-2016-1013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1013">
 
 ---
 ## CVE-2016-1013 (2016-04-09T01:59:00)
