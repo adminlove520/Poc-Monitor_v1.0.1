@@ -1836,6 +1836,11 @@
 - [Live-Hack-CVE/CVE-2023-0433](https://github.com/Live-Hack-CVE/CVE-2023-0433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0433">
 
 ---
+## CVE-2023-0410 (2023-01-20T01:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository builderio/qwik prior to 0.1.0-beta5.
+- [Live-Hack-CVE/CVE-2023-0410](https://github.com/Live-Hack-CVE/CVE-2023-0410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0410">
+
+---
 ## CVE-2023-0406 (2023-01-19T18:15:00)
 > Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0406](https://github.com/Live-Hack-CVE/CVE-2023-0406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0406">
@@ -2005,6 +2010,11 @@
 > Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
 - [Live-Hack-CVE/CVE-2023-0297](https://github.com/Live-Hack-CVE/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0297">
+
+---
+## CVE-2023-0296 (2023-01-17T21:15:00)
+> The Birthday attack against 64-bit block ciphers flaw (CVE-2016-2183) was reported for the health checks port (9979) on etcd grpc-proxy component. Even though the CVE-2016-2183 has been fixed in the etcd components, to enable periodic health checks from kubelet, it was necessary to open up a new port (9979) on etcd grpc-proxy, hence this port might be considered as still vulnerable to the same type of vulnerability. The health checks on etcd grpc-proxy do not contain sensitive data (only metrics data), therefore the potential impact related to this vulnerability is minimal. The CVE-2023-0296 has been assigned to this issue to track the permanent fix in the etcd component.
+- [Live-Hack-CVE/CVE-2023-0296](https://github.com/Live-Hack-CVE/CVE-2023-0296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0296">
 
 ---
 ## CVE-2023-0295 (2023-01-13T20:15:00)
