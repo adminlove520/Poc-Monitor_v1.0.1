@@ -545,6 +545,7 @@
 ## CVE-2020-7115 (2020-06-03T13:15:00)
 > The ClearPass Policy Manager web interface is affected by a vulnerability that leads to authentication bypass. Upon successful bypass an attacker could then execute an exploit that would allow to remote command execution in the underlying operating system. Resolution: Fixed in 6.7.13-HF, 6.8.5-HF, 6.8.6, 6.9.1 and higher.
 - [Live-Hack-CVE/CVE-2020-7115](https://github.com/Live-Hack-CVE/CVE-2020-7115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7115">
+- [Retr02332/CVE-2020-7115](https://github.com/Retr02332/CVE-2020-7115)	<img alt="forks" src="https://img.shields.io/github/forks/Retr02332/CVE-2020-7115">	<img alt="stars" src="https://img.shields.io/github/stars/Retr02332/CVE-2020-7115">
 
 ---
 ## CVE-2020-7112 (2023-01-06T16:15:00)
