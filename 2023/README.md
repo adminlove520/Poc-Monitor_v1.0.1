@@ -1811,6 +1811,16 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0519 (2023-01-26T23:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository modoboa/modoboa prior to 2.0.4.
+- [Live-Hack-CVE/CVE-2023-0519](https://github.com/Live-Hack-CVE/CVE-2023-0519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0519">
+
+---
+## CVE-2023-0493 (2023-01-26T23:15:00)
+> Improper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.
+- [Live-Hack-CVE/CVE-2023-0493](https://github.com/Live-Hack-CVE/CVE-2023-0493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0493">
+
+---
 ## CVE-2023-0440 (2023-01-23T14:15:00)
 > Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository healthchecks/healthchecks prior to v2.6.
 - [Live-Hack-CVE/CVE-2023-0440](https://github.com/Live-Hack-CVE/CVE-2023-0440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0440">
