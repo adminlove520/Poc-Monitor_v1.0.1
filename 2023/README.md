@@ -1821,6 +1821,46 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0534 (2023-01-27T11:15:00)
+> A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file admin/expense_report.php. The manipulation of the argument to_date leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-219603.
+- [Live-Hack-CVE/CVE-2023-0534](https://github.com/Live-Hack-CVE/CVE-2023-0534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0534">
+
+---
+## CVE-2023-0533 (2023-01-27T11:15:00)
+> A vulnerability, which was classified as critical, has been found in SourceCodester Online Tours & Travels Management System 1.0. Affected by this issue is some unknown functionality of the file admin/expense_report.php. The manipulation of the argument from_date leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-219602 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0533](https://github.com/Live-Hack-CVE/CVE-2023-0533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0533">
+
+---
+## CVE-2023-0532 (2023-01-27T11:15:00)
+> A vulnerability classified as critical was found in SourceCodester Online Tours & Travels Management System 1.0. Affected by this vulnerability is an unknown functionality of the file admin/disapprove_user.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219601 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0532](https://github.com/Live-Hack-CVE/CVE-2023-0532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0532">
+
+---
+## CVE-2023-0531 (2023-01-27T11:15:00)
+> A vulnerability classified as critical has been found in SourceCodester Online Tours & Travels Management System 1.0. Affected is an unknown function of the file admin/booking_report.php. The manipulation of the argument to_date leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-219600.
+- [Live-Hack-CVE/CVE-2023-0531](https://github.com/Live-Hack-CVE/CVE-2023-0531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0531">
+
+---
+## CVE-2023-0530 (2023-01-27T11:15:00)
+> A vulnerability was found in SourceCodester Online Tours & Travels Management System 1.0. It has been rated as critical. This issue affects some unknown processing of the file admin/approve_user.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-219599.
+- [Live-Hack-CVE/CVE-2023-0530](https://github.com/Live-Hack-CVE/CVE-2023-0530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0530">
+
+---
+## CVE-2023-0529 (2023-01-27T11:15:00)
+> A vulnerability was found in SourceCodester Online Tours & Travels Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file admin/add_payment.php. The manipulation of the argument id leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-219598 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0529](https://github.com/Live-Hack-CVE/CVE-2023-0529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0529">
+
+---
+## CVE-2023-0528 (2023-01-27T11:15:00)
+> A vulnerability was found in SourceCodester Online Tours & Travels Management System 1.0. It has been classified as critical. This affects an unknown part of the file admin/abc.php. The manipulation of the argument id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219597 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0528](https://github.com/Live-Hack-CVE/CVE-2023-0528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0528">
+
+---
+## CVE-2023-0527 (2023-01-27T11:15:00)
+> A vulnerability was found in PHPGurukul Online Security Guards Hiring System 1.0 and classified as problematic. Affected by this issue is some unknown functionality of the file search-request.php. The manipulation of the argument searchdata with the input "><script>alert(document.domain)</script> leads to cross site scripting. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-219596.
+- [Live-Hack-CVE/CVE-2023-0527](https://github.com/Live-Hack-CVE/CVE-2023-0527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0527">
+
+---
 ## CVE-2023-0519 (2023-01-26T23:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository modoboa/modoboa prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0519](https://github.com/Live-Hack-CVE/CVE-2023-0519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0519">
