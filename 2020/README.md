@@ -186,9 +186,19 @@
 - [Live-Hack-CVE/CVE-2020-8570](https://github.com/Live-Hack-CVE/CVE-2020-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8570">
 
 ---
+## CVE-2020-8559 (2020-07-22T14:15:00)
+> The Kubernetes kube-apiserver in versions v1.6-v1.15, and versions prior to v1.16.13, v1.17.9 and v1.18.6 are vulnerable to an unvalidated redirect on proxied upgrade requests that could allow an attacker to escalate privileges from a node compromise to a full cluster compromise.
+- [Live-Hack-CVE/CVE-2020-8559](https://github.com/Live-Hack-CVE/CVE-2020-8559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8559">
+
+---
 ## CVE-2020-8558 (2020-07-27T20:15:00)
 > The Kubelet and kube-proxy components in versions 1.1.0-1.16.10, 1.17.0-1.17.6, and 1.18.0-1.18.3 were found to contain a security issue which allows adjacent hosts to reach TCP and UDP services bound to 127.0.0.1 running on the node or in the node's network namespace. Such a service is generally thought to be reachable only by other processes on the same host, but due to this defeect, could be reachable by other hosts on the same LAN as the node, or by containers running on the same node as the service.
 - [Live-Hack-CVE/CVE-2020-8558](https://github.com/Live-Hack-CVE/CVE-2020-8558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8558">
+
+---
+## CVE-2020-8557 (2020-07-23T17:15:00)
+> The Kubernetes kubelet component in versions 1.1-1.16.12, 1.17.0-1.17.8 and 1.18.0-1.18.5 do not account for disk usage by a pod which writes to its own /etc/hosts file. The /etc/hosts file mounted in a pod by kubelet is not included by the kubelet eviction manager when calculating ephemeral storage usage by a pod. If a pod writes a large amount of data to the /etc/hosts file, it could fill the storage space of the node and cause the node to fail.
+- [Live-Hack-CVE/CVE-2020-8557](https://github.com/Live-Hack-CVE/CVE-2020-8557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8557">
 
 ---
 ## CVE-2020-8555 (2020-06-05T17:15:00)
@@ -561,6 +571,11 @@
 ## CVE-2020-7064 (2020-04-01T04:15:00)
 > In PHP versions 7.2.x below 7.2.9, 7.3.x below 7.3.16 and 7.4.x below 7.4.4, while parsing EXIF data with exif_read_data() function, it is possible for malicious data to cause PHP to read one byte of uninitialized memory. This could potentially lead to information disclosure or crash.
 - [Live-Hack-CVE/CVE-2020-7064](https://github.com/Live-Hack-CVE/CVE-2020-7064)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7064">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7064">
+
+---
+## CVE-2020-7019 (2020-08-18T17:15:00)
+> In Elasticsearch before 7.9.0 and 6.8.12 a field disclosure flaw was found when running a scrolling search with Field Level Security. If a user runs the same query another more privileged user recently ran, the scrolling search can leak fields that should be hidden. This could result in an attacker gaining additional permissions against a restricted index.
+- [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
 
 ---
 ## CVE-2020-6627 (2022-12-06T15:15:00)
@@ -3220,6 +3235,11 @@
 - [Live-Hack-CVE/CVE-2020-17463](https://github.com/Live-Hack-CVE/CVE-2020-17463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17463">
 
 ---
+## CVE-2020-17446 (2020-08-12T16:15:00)
+> asyncpg before 0.21.0 allows a malicious PostgreSQL server to trigger a crash or execute arbitrary code (on a database client) via a crafted server response, because of access to an uninitialized pointer in the array data decoder.
+- [Live-Hack-CVE/CVE-2020-17446](https://github.com/Live-Hack-CVE/CVE-2020-17446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17446">
+
+---
 ## CVE-2020-1744 (2020-03-24T14:15:00)
 > A flaw was found in keycloak before version 9.0.1. When configuring an Conditional OTP Authentication Flow as a post login flow of an IDP, the failure login events for OTP are not being sent to the brute force protection event queue. So BruteForceProtector does not handle this events.
 - [Live-Hack-CVE/CVE-2020-1744](https://github.com/Live-Hack-CVE/CVE-2020-1744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1744">
@@ -3404,6 +3424,11 @@
 - [Live-Hack-CVE/CVE-2020-16210](https://github.com/Live-Hack-CVE/CVE-2020-16210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16210">
 
 ---
+## CVE-2020-16207 (2020-08-06T19:15:00)
+> Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. Multiple heap-based buffer overflow vulnerabilities may be exploited by opening specially crafted project files that may overflow the heap, which may allow remote code execution, disclosure/modification of information, or cause the application to crash.
+- [Live-Hack-CVE/CVE-2020-16207](https://github.com/Live-Hack-CVE/CVE-2020-16207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16207">
+
+---
 ## CVE-2020-16206 (2020-09-01T21:15:00)
 > The affected product is vulnerable to stored cross-site scripting, which may allow an attacker to remotely execute arbitrary code to gain access to sensitive data on the N-Tron 702-W / 702M12-W (all versions).
 - [Live-Hack-CVE/CVE-2020-16206](https://github.com/Live-Hack-CVE/CVE-2020-16206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16206">
@@ -3463,6 +3488,11 @@
 ## CVE-2020-15701 (2020-08-06T23:15:00)
 > An unhandled exception in check_ignored() in apport/report.py can be exploited by a local attacker to cause a denial of service. If the mtime attribute is a string value in apport-ignore.xml, it will trigger an unhandled exception, resulting in a crash. Fixed in 2.20.1-0ubuntu2.24, 2.20.9-0ubuntu7.16, 2.20.11-0ubuntu27.6.
 - [Live-Hack-CVE/CVE-2020-15701](https://github.com/Live-Hack-CVE/CVE-2020-15701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15701">
+
+---
+## CVE-2020-15689 (2020-07-13T14:15:00)
+> Appweb before 7.2.2 and 8.x before 8.1.0, when built with CGI support, mishandles an HTTP request with a Range header that lacks an exact range. This may result in a NULL pointer dereference and cause a denial of service.
+- [Live-Hack-CVE/CVE-2020-15689](https://github.com/Live-Hack-CVE/CVE-2020-15689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15689">
 
 ---
 ## CVE-2020-15685 (2022-12-22T20:15:00)
@@ -3626,6 +3656,11 @@
 ## CVE-2020-14980 (2020-06-22T18:15:00)
 > The Sophos Secure Email application through 3.9.4 for Android has Missing SSL Certificate Validation.
 - [Live-Hack-CVE/CVE-2020-14980](https://github.com/Live-Hack-CVE/CVE-2020-14980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14980">
+
+---
+## CVE-2020-14968 (2020-06-22T12:15:00)
+> An issue was discovered in the jsrsasign package before 8.0.17 for Node.js. Its RSASSA-PSS (RSA-PSS) implementation does not detect signature manipulation/modification by prepending '\0' bytes to a signature (it accepts these modified signatures as valid). An attacker can abuse this behavior in an application by creating multiple valid signatures where only one signature should exist. Also, an attacker might prepend these bytes with the goal of triggering memory corruption issues.
+- [Live-Hack-CVE/CVE-2020-14968](https://github.com/Live-Hack-CVE/CVE-2020-14968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14968">
 
 ---
 ## CVE-2020-14943 (2020-06-22T22:15:00)
@@ -3867,6 +3902,11 @@
 ## CVE-2020-14129 (2022-10-11T20:15:00)
 > A logic vulnerability exists in a Xiaomi product. The vulnerability is caused by an identity verification failure, which can be exploited by an attacker who can obtain a brief elevation of privilege.
 - [Live-Hack-CVE/CVE-2020-14129](https://github.com/Live-Hack-CVE/CVE-2020-14129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14129">
+
+---
+## CVE-2020-14073 (2020-06-23T20:15:00)
+> XSS exists in PRTG Network Monitor 20.1.56.1574 via crafted map properties. An attacker with Read/Write privileges can create a map, and then use the Map Designer Properties screen to insert JavaScript code. This can be exploited against any user with View Maps or Edit Maps access.
+- [Live-Hack-CVE/CVE-2020-14073](https://github.com/Live-Hack-CVE/CVE-2020-14073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14073">
 
 ---
 ## CVE-2020-14044 (2020-08-24T16:15:00)

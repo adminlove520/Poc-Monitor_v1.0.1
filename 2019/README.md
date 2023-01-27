@@ -1721,6 +1721,11 @@
 - [bl4ck574r/CVE-2019-17662](https://github.com/bl4ck574r/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ck574r/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ck574r/CVE-2019-17662">
 
 ---
+## CVE-2019-17637 (2020-07-15T15:15:00)
+> In all versions of Eclipse Web Tools Platform through release 3.18 (2020-06), XML and DTD files referring to external entities could be exploited to send the contents of local files to a remote server when edited or validated, even when external entity resolution is disabled in the user preferences.
+- [Live-Hack-CVE/CVE-2019-17637](https://github.com/Live-Hack-CVE/CVE-2019-17637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17637">
+
+---
 ## CVE-2019-17621 (2019-12-30T17:15:00)
 > The UPnP endpoint URL /gena.cgi in the D-Link DIR-859 Wi-Fi router 1.05 and 1.06B01 Beta01 allows an Unauthenticated remote attacker to execute system commands as root, by sending a specially crafted HTTP SUBSCRIBE request to the UPnP service when connecting to the local network.
 - [Squirre17/CVE-2019-17621](https://github.com/Squirre17/CVE-2019-17621)	<img alt="forks" src="https://img.shields.io/github/forks/Squirre17/CVE-2019-17621">	<img alt="stars" src="https://img.shields.io/github/stars/Squirre17/CVE-2019-17621">
@@ -2257,6 +2262,11 @@
 ## CVE-2019-13046 (2019-06-29T15:15:00)
 > linker/linker.c in ToaruOS through 1.10.9 has insecure LD_LIBRARY_PATH handling in setuid applications.
 - [Live-Hack-CVE/CVE-2019-13046](https://github.com/Live-Hack-CVE/CVE-2019-13046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13046">
+
+---
+## CVE-2019-13033 (2020-06-18T18:15:00)
+> In CISOfy Lynis 2.x through 2.7.5, the license key can be obtained by looking at the process list when a data upload is being performed. This license can be used to upload data to a central Lynis server. Although no data can be extracted by knowing the license key, it may be possible to upload the data of additional scans.
+- [Live-Hack-CVE/CVE-2019-13033](https://github.com/Live-Hack-CVE/CVE-2019-13033)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13033">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13033">
 
 ---
 ## CVE-2019-12937 (2019-06-23T23:15:00)
