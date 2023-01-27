@@ -138,6 +138,11 @@
 - [Live-Hack-CVE/CVE-2023-23559](https://github.com/Live-Hack-CVE/CVE-2023-23559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23559">
 
 ---
+## CVE-2023-23492 (2023-01-20T19:15:00)
+> The Login with Phone Number WordPress Plugin, version < 1.4.2, is affected by an authenticated SQL injection vulnerability in the 'ID' parameter of its 'lwp_forgot_password' action.
+- [Live-Hack-CVE/CVE-2023-23492](https://github.com/Live-Hack-CVE/CVE-2023-23492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23492">
+
+---
 ## CVE-2023-23489 (2023-01-20T18:15:00)
 > The Easy Digital Downloads WordPress Plugin, version < 3.1.0.4, is affected by an unauthenticated SQL injection vulnerability in the 's' parameter of its 'edd_download_search' action.
 - [Live-Hack-CVE/CVE-2023-23489](https://github.com/Live-Hack-CVE/CVE-2023-23489)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23489">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23489">
