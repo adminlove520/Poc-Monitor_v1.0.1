@@ -138,6 +138,51 @@
 - [Live-Hack-CVE/CVE-2018-7158](https://github.com/Live-Hack-CVE/CVE-2018-7158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7158">
 
 ---
+## CVE-2018-6703 (2018-12-11T23:29:00)
+> Use After Free in Remote logging (which is disabled by default) in McAfee McAfee Agent (MA) 5.x prior to 5.6.0 allows remote unauthenticated attackers to cause a Denial of Service and potentially a remote code execution via a specially crafted HTTP header sent to the logging service.
+- [Live-Hack-CVE/CVE-2018-6703](https://github.com/Live-Hack-CVE/CVE-2018-6703)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6703">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6703">
+
+---
+## CVE-2018-6700 (2018-09-24T13:29:00)
+> DLL Search Order Hijacking vulnerability in Microsoft Windows Client in McAfee True Key (TK) before 5.1.165 allows local users to execute arbitrary code via specially crafted malware.
+- [Live-Hack-CVE/CVE-2018-6700](https://github.com/Live-Hack-CVE/CVE-2018-6700)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6700">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6700">
+
+---
+## CVE-2018-6693 (2018-09-18T21:29:00)
+> An unprivileged user can delete arbitrary files on a Linux system running ENSLTP 10.5.1, 10.5.0, and 10.2.3 Hotfix 1246778 and earlier. By exploiting a time of check to time of use (TOCTOU) race condition during a specific scanning sequence, the unprivileged user is able to perform a privilege escalation to delete arbitrary files.
+- [Live-Hack-CVE/CVE-2018-6693](https://github.com/Live-Hack-CVE/CVE-2018-6693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6693">
+
+---
+## CVE-2018-6692 (2018-08-21T14:29:00)
+> Stack-based Buffer Overflow vulnerability in libUPnPHndlr.so in Belkin Wemo Insight Smart Plug allows remote attackers to bypass local security protection via a crafted HTTP post packet.
+- [Live-Hack-CVE/CVE-2018-6692](https://github.com/Live-Hack-CVE/CVE-2018-6692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6692">
+
+---
+## CVE-2018-6690 (2018-09-18T22:29:00)
+> Accessing, modifying, or executing executable files vulnerability in Microsoft Windows client in McAfee Application and Change Control (MACC) 8.0.0 Hotfix 4 and earlier allows authenticated users to execute arbitrary code via file transfer from external system.
+- [Live-Hack-CVE/CVE-2018-6690](https://github.com/Live-Hack-CVE/CVE-2018-6690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6690">
+
+---
+## CVE-2018-6689 (2018-10-03T12:29:00)
+> Authentication Bypass vulnerability in McAfee Data Loss Prevention Endpoint (DLPe) 10.0.x earlier than 10.0.510, and 11.0.x earlier than 11.0.600 allows attackers to bypass local security protection via specific conditions.
+- [Live-Hack-CVE/CVE-2018-6689](https://github.com/Live-Hack-CVE/CVE-2018-6689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6689">
+
+---
+## CVE-2018-6686 (2018-07-27T13:29:00)
+> Authentication Bypass vulnerability in TPM autoboot in McAfee Drive Encryption (MDE) 7.1.0 and above allows physically proximate attackers to bypass local security protection via specific set of circumstances.
+- [Live-Hack-CVE/CVE-2018-6686](https://github.com/Live-Hack-CVE/CVE-2018-6686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6686">
+
+---
+## CVE-2018-6677 (2018-07-23T13:29:00)
+> Directory Traversal vulnerability in the administrative user interface in McAfee Web Gateway (MWG) MWG 7.8.1.x allows authenticated administrator users to gain elevated privileges via unspecified vectors.
+- [Live-Hack-CVE/CVE-2018-6677](https://github.com/Live-Hack-CVE/CVE-2018-6677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6677">
+
+---
+## CVE-2018-6590 (2018-08-03T14:29:00)
+> CA API Developer Portal 4.x, prior to v4.2.5.3 and v4.2.7.1, has an unspecified reflected cross-site scripting vulnerability.
+- [Live-Hack-CVE/CVE-2018-6590](https://github.com/Live-Hack-CVE/CVE-2018-6590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6590">
+
+---
 ## CVE-2018-6574 (2018-02-07T21:29:00)
 > Go before 1.8.7, Go 1.9.x before 1.9.4, and Go 1.10 pre-releases before Go 1.10rc2 allow "go get" remote command execution during source code build, by leveraging the gcc or clang plugin feature, because -fplugin= and -plugin= arguments were not blocked.
 - [NBAquicknut/CVE-2018-6574](https://github.com/NBAquicknut/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/NBAquicknut/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/NBAquicknut/CVE-2018-6574">
