@@ -103,6 +103,36 @@
 - [Live-Hack-CVE/CVE-2023-23690](https://github.com/Live-Hack-CVE/CVE-2023-23690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23690">
 
 ---
+## CVE-2023-23627 (2023-01-28T00:15:00)
+> Sanitize is an allowlist-based HTML and CSS sanitizer. Versions 5.0.0 and later, prior to 6.0.1, are vulnerable to Cross-site Scripting. When Sanitize is configured with a custom allowlist that allows `noscript` elements, attackers are able to include arbitrary HTML, resulting in XSS (cross-site scripting) or other undesired behavior when that HTML is rendered in a browser. The default configurations do not allow `noscript` elements and are not vulnerable. This issue only affects users who are using a custom config that adds `noscript` to the element allowlist. This issue has been patched in version 6.0.1. Users who are unable to upgrade can prevent this issue by using one of Sanitize's default configs or by ensuring that their custom config does not include `noscript` in the element allowlist.
+- [Live-Hack-CVE/CVE-2023-23627](https://github.com/Live-Hack-CVE/CVE-2023-23627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23627">
+
+---
+## CVE-2023-23624 (2023-01-28T00:15:00)
+> Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, someone can use the `exclude_tag param` to filter out topics and deduce which ones were using a specific hidden tag. This affects any Discourse site using hidden tags in public categories. This issue is patched in version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches. As a workaround, secure any categories that are using hidden tags, change any existing hidden tags to not include private data, or remove any hidden tags currently in use.
+- [Live-Hack-CVE/CVE-2023-23624](https://github.com/Live-Hack-CVE/CVE-2023-23624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23624">
+
+---
+## CVE-2023-23621 (2023-01-28T00:15:00)
+> Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, a malicious user can cause a regular expression denial of service using a carefully crafted user agent. This issue is patched in version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-23621](https://github.com/Live-Hack-CVE/CVE-2023-23621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23621">
+
+---
+## CVE-2023-23620 (2023-01-28T00:15:00)
+> Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, the contents of latest/top routes for restricted tags can be accessed by unauthorized users. This issue is patched in version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-23620](https://github.com/Live-Hack-CVE/CVE-2023-23620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23620">
+
+---
+## CVE-2023-23617 (2023-01-28T00:15:00)
+> OpenMage LTS is an e-commerce platform. Versions prior to 19.4.22 and 20.0.19 contain an infinite loop in malicious code filter in certain conditions. Versions 19.4.22 and 20.0.19 have a fix for this issue. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-23617](https://github.com/Live-Hack-CVE/CVE-2023-23617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23617">
+
+---
+## CVE-2023-23616 (2023-01-28T00:15:00)
+> Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, when submitting a membership request, there is no character limit for the reason provided with the request. This could potentially allow a user to flood the database with a large amount of data. However it is unlikely this could be used as part of a DoS attack, as the paths reading back the reasons are only available to administrators. Starting in version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, a limit of 280 characters has been introduced for membership requests.
+- [Live-Hack-CVE/CVE-2023-23616](https://github.com/Live-Hack-CVE/CVE-2023-23616)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23616">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23616">
+
+---
 ## CVE-2023-23607 (2023-01-20T21:15:00)
 > erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the server. This issue has been addressed in version 1.05.00. Users are advised to upgrade. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2023-23607](https://github.com/Live-Hack-CVE/CVE-2023-23607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23607">
@@ -320,6 +350,11 @@
 ## CVE-2023-22740 (2023-01-27T01:15:00)
 > Discourse is an open source platform for community discussion. Versions prior to 3.1.0.beta1 (beta) (tests-passed) are vulnerable to Allocation of Resources Without Limits. Users can create chat drafts of an unlimited length, which can cause a denial of service by generating an excessive load on the server. Additionally, an unlimited number of drafts were loaded when loading the user. This issue has been patched in version 2.1.0.beta1 (beta) and (tests-passed). Users should upgrade to the latest version where a limit has been introduced. There are no workarounds available.
 - [Live-Hack-CVE/CVE-2023-22740](https://github.com/Live-Hack-CVE/CVE-2023-22740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22740">
+
+---
+## CVE-2023-22737 (2023-01-28T00:15:00)
+> wire-server provides back end services for Wire, a team communication and collaboration platform. Prior to version 2022-12-09, every member of a Conversation can remove a Bot from a Conversation due to a missing permissions check. Only Conversation admins should be able to remove Bots. Regular Conversations are not allowed to do so. The issue is fixed in wire-server 2022-12-09 and is already deployed on all Wire managed services. On-premise instances of wire-server need to be updated to 2022-12-09/Chart 4.29.0, so that their backends are no longer affected. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-22737](https://github.com/Live-Hack-CVE/CVE-2023-22737)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22737">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22737">
 
 ---
 ## CVE-2023-22734 (2023-01-17T22:15:00)
@@ -2435,6 +2470,11 @@
 ## CVE-2023-0048 (2023-01-04T14:15:00)
 >  Code Injection in GitHub repository lirantal/daloradius prior to master-branch.
 - [Live-Hack-CVE/CVE-2023-0048](https://github.com/Live-Hack-CVE/CVE-2023-0048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0048">
+
+---
+## CVE-2023-0047 (2023-01-27T23:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2023. Notes: none.
+- [Live-Hack-CVE/CVE-2023-0047](https://github.com/Live-Hack-CVE/CVE-2023-0047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0047">
 
 ---
 ## CVE-2023-0046 (2023-01-04T12:15:00)

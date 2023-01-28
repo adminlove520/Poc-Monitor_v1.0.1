@@ -3668,6 +3668,16 @@
 - [Live-Hack-CVE/CVE-2020-14968](https://github.com/Live-Hack-CVE/CVE-2020-14968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14968">
 
 ---
+## CVE-2020-14967 (2020-06-22T12:15:00)
+> An issue was discovered in the jsrsasign package before 8.0.18 for Node.js. Its RSA PKCS1 v1.5 decryption implementation does not detect ciphertext modification by prepending '\0' bytes to ciphertexts (it decrypts modified ciphertexts without error). An attacker might prepend these bytes with the goal of triggering memory corruption issues.
+- [Live-Hack-CVE/CVE-2020-14967](https://github.com/Live-Hack-CVE/CVE-2020-14967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14967">
+
+---
+## CVE-2020-14966 (2020-06-22T12:15:00)
+> An issue was discovered in the jsrsasign package through 8.0.18 for Node.js. It allows a malleability in ECDSA signatures by not checking overflows in the length of a sequence and '0' characters appended or prepended to an integer. The modified signatures are verified as valid. This could have a security-relevant impact if an application relied on a single canonical signature.
+- [Live-Hack-CVE/CVE-2020-14966](https://github.com/Live-Hack-CVE/CVE-2020-14966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14966">
+
+---
 ## CVE-2020-14943 (2020-06-22T22:15:00)
 > The Firstname and Lastname parameters in Global RADAR BSA Radar 1.6.7234.24750 and earlier are vulnerable to stored cross-site scripting (XSS) via Update User Profile.
 - [Live-Hack-CVE/CVE-2020-14943](https://github.com/Live-Hack-CVE/CVE-2020-14943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14943">
@@ -3982,6 +3992,11 @@
 ## CVE-2020-13659 (2020-06-02T13:15:00)
 > address_space_map in exec.c in QEMU 4.2.0 can trigger a NULL pointer dereference related to BounceBuffer.
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
+
+---
+## CVE-2020-13640 (2020-06-18T15:15:00)
+> A SQL injection issue in the gVectors wpDiscuz plugin 5.3.5 and earlier for WordPress allows remote attackers to execute arbitrary SQL commands via the order parameter of a wpdLoadMoreComments request. (No 7.x versions are affected.)
+- [Live-Hack-CVE/CVE-2020-13640](https://github.com/Live-Hack-CVE/CVE-2020-13640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13640">
 
 ---
 ## CVE-2020-13625 (2020-06-08T17:15:00)
