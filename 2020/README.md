@@ -3464,6 +3464,13 @@
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
 
 ---
+## CVE-2020-16093 (2022-07-18T00:15:00)
+> In LemonLDAP::NG (aka lemonldap-ng) through 2.0.8, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used.
+- [Live-Hack-CVE/CVE-2020-16093](https://github.com/Live-Hack-CVE/CVE-2020-16093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16093">
+- [Live-Hack-CVE/CVE-2020-36659](https://github.com/Live-Hack-CVE/CVE-2020-36659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36659">
+- [Live-Hack-CVE/CVE-2020-36658](https://github.com/Live-Hack-CVE/CVE-2020-36658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36658">
+
+---
 ## CVE-2020-15953 (2020-07-27T07:15:00)
 > LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response injection."
 - [Live-Hack-CVE/CVE-2020-15953](https://github.com/Live-Hack-CVE/CVE-2020-15953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15953">
