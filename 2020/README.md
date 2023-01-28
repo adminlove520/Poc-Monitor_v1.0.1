@@ -2665,6 +2665,11 @@
 - [Live-Hack-CVE/CVE-2020-24396](https://github.com/Live-Hack-CVE/CVE-2020-24396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24396">
 
 ---
+## CVE-2020-24371 (2020-08-17T17:15:00)
+> lgc.c in Lua 5.4.0 mishandles the interaction between barriers and the sweep phase, leading to a memory access violation involving collectgarbage.
+- [Live-Hack-CVE/CVE-2020-24371](https://github.com/Live-Hack-CVE/CVE-2020-24371)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24371">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24371">
+
+---
 ## CVE-2020-24370 (2020-08-17T17:15:00)
 > ldebug.c in Lua 5.4.0 allows a negation overflow and segmentation fault in getlocal and setlocal, as demonstrated by getlocal(3,2^31).
 - [Live-Hack-CVE/CVE-2020-24370](https://github.com/Live-Hack-CVE/CVE-2020-24370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24370">
@@ -3676,6 +3681,12 @@
 ## CVE-2020-14966 (2020-06-22T12:15:00)
 > An issue was discovered in the jsrsasign package through 8.0.18 for Node.js. It allows a malleability in ECDSA signatures by not checking overflows in the length of a sequence and '0' characters appended or prepended to an integer. The modified signatures are verified as valid. This could have a security-relevant impact if an application relied on a single canonical signature.
 - [Live-Hack-CVE/CVE-2020-14966](https://github.com/Live-Hack-CVE/CVE-2020-14966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14966">
+
+---
+## CVE-2020-14947 (2020-06-30T21:15:00)
+> OCS Inventory NG 2.7 allows Remote Command Execution via shell metacharacters to require/commandLine/CommandLine.php because mib_file in plugins/main_sections/ms_config/ms_snmp_config.php is mishandled in get_mib_oid.
+- [Live-Hack-CVE/CVE-2020-14947](https://github.com/Live-Hack-CVE/CVE-2020-14947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14947">
+- [mhaskar/CVE-2020-14947](https://github.com/mhaskar/CVE-2020-14947)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2020-14947">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2020-14947">
 
 ---
 ## CVE-2020-14943 (2020-06-22T22:15:00)
