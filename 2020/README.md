@@ -3262,6 +3262,11 @@
 - [Live-Hack-CVE/CVE-2020-17368](https://github.com/Live-Hack-CVE/CVE-2020-17368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17368">
 
 ---
+## CVE-2020-17366 (2020-08-05T22:15:00)
+> An issue was discovered in NLnet Labs Routinator 0.1.0 through 0.7.1. It allows remote attackers to bypass intended access restrictions or to cause a denial of service on dependent routing systems by strategically withholding RPKI Route Origin Authorisation ".roa" files or X509 Certificate Revocation List files from the RPKI relying party's view.
+- [Live-Hack-CVE/CVE-2020-17366](https://github.com/Live-Hack-CVE/CVE-2020-17366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17366">
+
+---
 ## CVE-2020-17353 (2020-08-05T14:15:00)
 > scm/define-stencil-commands.scm in LilyPond through 2.20.0, and 2.21.x through 2.21.4, when -dsafe is used, lacks restrictions on embedded-ps and embedded-svg, as demonstrated by including dangerous PostScript code.
 - [Live-Hack-CVE/CVE-2020-17353](https://github.com/Live-Hack-CVE/CVE-2020-17353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17353">

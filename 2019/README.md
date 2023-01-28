@@ -1352,6 +1352,11 @@
 - [Live-Hack-CVE/CVE-2019-25072](https://github.com/Live-Hack-CVE/CVE-2019-25072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25072">
 
 ---
+## CVE-2019-25053 (2023-01-27T21:15:00)
+> A path traversal vulnerability exists in Sage FRP 1000 before November 2019. This allows remote unauthenticated attackers to access files outside of the web tree via a crafted URL.
+- [Live-Hack-CVE/CVE-2019-25053](https://github.com/Live-Hack-CVE/CVE-2019-25053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25053">
+
+---
 ## CVE-2019-25044 (2021-05-14T23:15:00)
 > The block subsystem in the Linux kernel before 5.2 has a use-after-free that can lead to arbitrary code execution in the kernel context and privilege escalation, aka CID-c3e2219216c9. This is related to blk_mq_free_rqs and blk_cleanup_queue.
 - [Live-Hack-CVE/CVE-2019-25044](https://github.com/Live-Hack-CVE/CVE-2019-25044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25044">

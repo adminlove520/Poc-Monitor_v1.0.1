@@ -1826,6 +1826,41 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0558 (2023-01-27T22:15:00)
+> The ContentStudio plugin for WordPress is vulnerable to authorization bypass due to an unsecure token check that is susceptible to type juggling in versions up to, and including, 1.2.5. This makes it possible for unauthenticated attackers to execute functions intended for use by users with proper API keys.
+- [Live-Hack-CVE/CVE-2023-0558](https://github.com/Live-Hack-CVE/CVE-2023-0558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0558">
+
+---
+## CVE-2023-0557 (2023-01-27T22:15:00)
+> The ContentStudio plugin for WordPress is vulnerable to Sensitive Information Exposure in versions up to, and including, 1.2.5. This could allow unauthenticated attackers to obtain a nonce needed for the creation of posts.
+- [Live-Hack-CVE/CVE-2023-0557](https://github.com/Live-Hack-CVE/CVE-2023-0557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0557">
+
+---
+## CVE-2023-0556 (2023-01-27T22:15:00)
+> The ContentStudio plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on several functions in versions up to, and including, 1.2.5. This makes it possible for unauthenticated attackers to obtain the blog metadata (via the function cstu_get_metadata) that includes the plugin's contentstudio_token. Knowing this token allows for other interactions with the plugin such as creating posts in versions prior to 1.2.5, which added other requirements to posting and updating.
+- [Live-Hack-CVE/CVE-2023-0556](https://github.com/Live-Hack-CVE/CVE-2023-0556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0556">
+
+---
+## CVE-2023-0555 (2023-01-27T21:15:00)
+> The Quick Restaurant Menu plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on its AJAX actions in versions up to, and including, 2.0.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke those actions intended for administrator use. Actions include menu item creation, update and deletion and other menu management functions. Since the plugin does not verify that a post ID passed to one of its AJAX actions belongs to a menu item, this can lead to arbitrary post deletion/alteration.
+- [Live-Hack-CVE/CVE-2023-0555](https://github.com/Live-Hack-CVE/CVE-2023-0555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0555">
+
+---
+## CVE-2023-0554 (2023-01-27T21:15:00)
+> The Quick Restaurant Menu plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.0.2. This is due to missing or incorrect nonce validation on its AJAX actions. This makes it possible for unauthenticated attackers to update menu items, via forged request granted they can trick a site administrator into performing an action such as clicking on a link.
+- [Live-Hack-CVE/CVE-2023-0554](https://github.com/Live-Hack-CVE/CVE-2023-0554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0554">
+
+---
+## CVE-2023-0553 (2023-01-27T21:15:00)
+> The Quick Restaurant Menu plugin for WordPress is vulnerable to Stored Cross-Site Scripting via its settings parameters in versions up to, and including, 2.0.2 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with administrator-level permissions and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [Live-Hack-CVE/CVE-2023-0553](https://github.com/Live-Hack-CVE/CVE-2023-0553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0553">
+
+---
+## CVE-2023-0550 (2023-01-27T21:15:00)
+> The Quick Restaurant Menu plugin for WordPress is vulnerable to Insecure Direct Object Reference in versions up to, and including, 2.0.2. This is due to the fact that during menu item deletion/modification, the plugin does not verify that the post ID provided to the AJAX action is indeed a menu item. This makes it possible for authenticated attackers, with subscriber-level access or higher, to modify or delete arbitrary posts.
+- [Live-Hack-CVE/CVE-2023-0550](https://github.com/Live-Hack-CVE/CVE-2023-0550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0550">
+
+---
 ## CVE-2023-0534 (2023-01-27T11:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file admin/expense_report.php. The manipulation of the argument to_date leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-219603.
 - [Live-Hack-CVE/CVE-2023-0534](https://github.com/Live-Hack-CVE/CVE-2023-0534)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0534">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0534">
