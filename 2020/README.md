@@ -925,6 +925,12 @@
 - [Live-Hack-CVE/CVE-2020-4062](https://github.com/Live-Hack-CVE/CVE-2020-4062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4062">
 
 ---
+## CVE-2020-4051 (2020-06-15T22:15:00)
+> In Dijit before versions 1.11.11, and greater than or equal to 1.12.0 and less than 1.12.9, and greater than or equal to 1.13.0 and less than 1.13.8, and greater than or equal to 1.14.0 and less than 1.14.7, and greater than or equal to 1.15.0 and less than 1.15.4, and greater than or equal to 1.16.0 and less than 1.16.3, there is a cross-site scripting vulnerability in the Editor's LinkDialog plugin. This has been fixed in 1.11.11, 1.12.9, 1.13.8, 1.14.7, 1.15.4, 1.16.3.
+- [Live-Hack-CVE/CVE-2020-4051](https://github.com/Live-Hack-CVE/CVE-2020-4051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4051">
+- [ossf-cve-benchmark/CVE-2020-4051](https://github.com/ossf-cve-benchmark/CVE-2020-4051)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-4051">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-4051">
+
+---
 ## CVE-2020-4046 (2020-06-12T16:15:00)
 > In affected versions of WordPress, users with low privileges (like contributors and authors) can use the embed block in a certain way to inject unfiltered HTML in the block editor. When affected posts are viewed by a higher privileged user, this could lead to script execution in the editor/wp-admin. This has been patched in version 5.4.2, along with all the previously affected versions via a minor release (5.3.4, 5.2.7, 5.1.6, 5.0.10, 4.9.15, 4.8.14, 4.7.18, 4.6.19, 4.5.22, 4.4.23, 4.3.24, 4.2.28, 4.1.31, 4.0.31, 3.9.32, 3.8.34, 3.7.34).
 - [Live-Hack-CVE/CVE-2020-4046](https://github.com/Live-Hack-CVE/CVE-2020-4046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4046">

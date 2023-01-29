@@ -6755,6 +6755,11 @@
 - [Live-Hack-CVE/CVE-2021-2351](https://github.com/Live-Hack-CVE/CVE-2021-2351)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2351">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2351">
 
 ---
+## CVE-2021-23450 (2021-12-17T20:15:00)
+> All versions of package dojo are vulnerable to Prototype Pollution via the setObject function.
+- [Live-Hack-CVE/CVE-2021-23450](https://github.com/Live-Hack-CVE/CVE-2021-23450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23450">
+
+---
 ## CVE-2021-23437 (2021-09-03T16:15:00)
 > The package pillow 5.2.0 and before 8.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via the getrgb function.
 - [Live-Hack-CVE/CVE-2021-23437](https://github.com/Live-Hack-CVE/CVE-2021-23437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23437">
