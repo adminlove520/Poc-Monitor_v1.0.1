@@ -41,6 +41,7 @@
 - [Live-Hack-CVE/CVE-2023-24055](https://github.com/Live-Hack-CVE/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24055">
 - [deetl/CVE-2023-24055](https://github.com/deetl/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/deetl/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/deetl/CVE-2023-24055">
 - [alt3kx/CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2023-24055_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2023-24055_PoC">
+- [Cyb3rtus/keepass_CVE-2023-24055_yara_rule](https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">
 
 ---
 ## CVE-2023-24044 (2023-01-22T03:15:00)
