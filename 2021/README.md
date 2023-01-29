@@ -1033,6 +1033,11 @@
 - [Citizen13X/CVE-2021-43229](https://github.com/Citizen13X/CVE-2021-43229)	<img alt="forks" src="https://img.shields.io/github/forks/Citizen13X/CVE-2021-43229">	<img alt="stars" src="https://img.shields.io/github/stars/Citizen13X/CVE-2021-43229">
 
 ---
+## CVE-2021-4315 (2023-01-28T23:15:00)
+> A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the public and may be used. Upgrading to version 3.2.1 is able to address this issue. The name of the patch is 47787e15cecd66f2aa87687bf852ae0194a4335f. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-219676.
+- [Live-Hack-CVE/CVE-2021-4315](https://github.com/Live-Hack-CVE/CVE-2021-4315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4315">
+
+---
 ## CVE-2021-4314 (2023-01-18T16:15:00)
 > It is possible to manipulate the JWT token without the knowledge of the JWT secret and authenticate without valid JWT token as any user. This is happening only in the situation when zOSMF doesn’t have the APAR PH12143 applied. This issue affects: 1.16 versions to 1.19. What happens is that the services using the ZAAS client or the API ML API to query will be deceived into believing the information in the JWT token is valid when it isn’t. It’s possible to use this to persuade the southbound service that different user is authenticated.
 - [Live-Hack-CVE/CVE-2021-4314](https://github.com/Live-Hack-CVE/CVE-2021-4314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4314">

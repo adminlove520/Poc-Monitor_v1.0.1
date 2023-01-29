@@ -1876,6 +1876,16 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0563 (2023-01-28T23:15:00)
+> A vulnerability classified as problematic has been found in PHPGurukul Bank Locker Management System 1.0. This affects an unknown part of the file add-locker-form.php of the component Assign Locker. The manipulation of the argument ahname leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219717 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0563](https://github.com/Live-Hack-CVE/CVE-2023-0563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0563">
+
+---
+## CVE-2023-0562 (2023-01-28T23:15:00)
+> A vulnerability was found in PHPGurukul Bank Locker Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file index.php of the component Login. The manipulation of the argument username leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-219716.
+- [Live-Hack-CVE/CVE-2023-0562](https://github.com/Live-Hack-CVE/CVE-2023-0562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0562">
+
+---
 ## CVE-2023-0561 (2023-01-28T17:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. Affected is an unknown function of the file /user/s.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-219702 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0561](https://github.com/Live-Hack-CVE/CVE-2023-0561)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0561">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0561">
