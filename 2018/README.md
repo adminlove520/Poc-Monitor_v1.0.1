@@ -815,6 +815,8 @@
 ## CVE-2018-17254 (2018-09-20T14:29:00)
 > The JCK Editor component 6.4.4 for Joomla! allows SQL Injection via the jtreelink/dialogs/links.php parent parameter.
 - [MataKucing-OFC/CVE-2018-17254](https://github.com/MataKucing-OFC/CVE-2018-17254)	<img alt="forks" src="https://img.shields.io/github/forks/MataKucing-OFC/CVE-2018-17254">	<img alt="stars" src="https://img.shields.io/github/stars/MataKucing-OFC/CVE-2018-17254">
+- [Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection](https://github.com/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Joomla-JCK-Editor-6.4.4-SQL-Injection">
+- [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
 
 ---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
