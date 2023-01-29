@@ -998,6 +998,11 @@
 - [Live-Hack-CVE/CVE-2016-1583](https://github.com/Live-Hack-CVE/CVE-2016-1583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1583">
 
 ---
+## CVE-2016-15022 (2023-01-29T19:15:00)
+> A vulnerability was found in mosbth cimage up to 0.7.18. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file check_system.php. The manipulation of the argument $_SERVER['SERVER_SOFTWARE'] leads to cross site scripting. The attack can be launched remotely. Upgrading to version 0.7.19 is able to address this issue. The name of the patch is 401478c8393989836beeddfeac5ce44570af162b. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-219715.
+- [Live-Hack-CVE/CVE-2016-15022](https://github.com/Live-Hack-CVE/CVE-2016-15022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15022">
+
+---
 ## CVE-2016-15021 (2023-01-17T16:15:00)
 > A vulnerability was found in nickzren alsdb. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. Upgrading to version v2 is able to address this issue. The name of the patch is cbc79a68145e845f951113d184b4de207c341599. It is recommended to upgrade the affected component. The identifier VDB-218429 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2016-15021](https://github.com/Live-Hack-CVE/CVE-2016-15021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15021">
