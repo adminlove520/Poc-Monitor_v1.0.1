@@ -1877,6 +1877,11 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0564 (2023-01-29T01:15:00)
+> Weak Password Requirements in GitHub repository froxlor/froxlor prior to 2.0.10.
+- [Live-Hack-CVE/CVE-2023-0564](https://github.com/Live-Hack-CVE/CVE-2023-0564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0564">
+
+---
 ## CVE-2023-0563 (2023-01-28T23:15:00)
 > A vulnerability classified as problematic has been found in PHPGurukul Bank Locker Management System 1.0. This affects an unknown part of the file add-locker-form.php of the component Assign Locker. The manipulation of the argument ahname leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219717 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0563](https://github.com/Live-Hack-CVE/CVE-2023-0563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0563">
