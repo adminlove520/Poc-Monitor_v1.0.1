@@ -1878,6 +1878,21 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0571 (2023-01-29T18:15:00)
+> A vulnerability has been found in SourceCodester Canteen Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file createcustomer.php of the component Add Customer. The manipulation of the argument name leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-219730 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0571](https://github.com/Live-Hack-CVE/CVE-2023-0571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0571">
+
+---
+## CVE-2023-0570 (2023-01-29T18:15:00)
+> A vulnerability, which was classified as critical, was found in SourceCodester Online Tours & Travels Management System 1.0. This affects an unknown part of the file user\operations\payment_operation.php. The manipulation of the argument booking_id leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219729 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0570](https://github.com/Live-Hack-CVE/CVE-2023-0570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0570">
+
+---
+## CVE-2023-0569 (2023-01-29T17:15:00)
+> Weak Password Requirements in GitHub repository publify/publify prior to 9.2.10.
+- [Live-Hack-CVE/CVE-2023-0569](https://github.com/Live-Hack-CVE/CVE-2023-0569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0569">
+
+---
 ## CVE-2023-0564 (2023-01-29T01:15:00)
 > Weak Password Requirements in GitHub repository froxlor/froxlor prior to 2.0.10.
 - [Live-Hack-CVE/CVE-2023-0564](https://github.com/Live-Hack-CVE/CVE-2023-0564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0564">

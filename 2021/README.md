@@ -3312,6 +3312,11 @@
 - [Live-Hack-CVE/CVE-2021-3813](https://github.com/Live-Hack-CVE/CVE-2021-3813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3813">
 
 ---
+## CVE-2021-3805 (2021-09-17T06:15:00)
+> object-path is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
+- [Live-Hack-CVE/CVE-2021-3805](https://github.com/Live-Hack-CVE/CVE-2021-3805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3805">
+
+---
 ## CVE-2021-38003 (2021-11-23T22:15:00)
 > Inappropriate implementation in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">
@@ -6763,6 +6768,11 @@
 ## CVE-2021-23437 (2021-09-03T16:15:00)
 > The package pillow 5.2.0 and before 8.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via the getrgb function.
 - [Live-Hack-CVE/CVE-2021-23437](https://github.com/Live-Hack-CVE/CVE-2021-23437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23437">
+
+---
+## CVE-2021-23434 (2021-08-27T17:15:00)
+> This affects the package object-path before 0.11.6. A type confusion vulnerability can lead to a bypass of CVE-2020-15256 when the path components used in the path parameter are arrays. In particular, the condition currentPath === '__proto__' returns false if currentPath is ['__proto__']. This is because the === operator returns always false when the type of the operands is different.
+- [Live-Hack-CVE/CVE-2021-23434](https://github.com/Live-Hack-CVE/CVE-2021-23434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23434">
 
 ---
 ## CVE-2021-23394 (2021-06-13T11:15:00)
