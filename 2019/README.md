@@ -2099,6 +2099,10 @@
 ## CVE-2019-1458 (2019-12-10T22:15:00)
 > An elevation of privilege vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka 'Win32k Elevation of Privilege Vulnerability'.
 - [Live-Hack-CVE/CVE-2019-1458](https://github.com/Live-Hack-CVE/CVE-2019-1458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1458">
+- [piotrflorczyk/cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC)	<img alt="forks" src="https://img.shields.io/github/forks/piotrflorczyk/cve-2019-1458_POC">	<img alt="stars" src="https://img.shields.io/github/stars/piotrflorczyk/cve-2019-1458_POC">
+- [Eternit7/CVE-2019-1458](https://github.com/Eternit7/CVE-2019-1458)	<img alt="forks" src="https://img.shields.io/github/forks/Eternit7/CVE-2019-1458">	<img alt="stars" src="https://img.shields.io/github/stars/Eternit7/CVE-2019-1458">
+- [DreamoneOnly/CVE-2019-1458-malware](https://github.com/DreamoneOnly/CVE-2019-1458-malware)	<img alt="forks" src="https://img.shields.io/github/forks/DreamoneOnly/CVE-2019-1458-malware">	<img alt="stars" src="https://img.shields.io/github/stars/DreamoneOnly/CVE-2019-1458-malware">
+- [unamer/CVE-2019-1458](https://github.com/unamer/CVE-2019-1458)	<img alt="forks" src="https://img.shields.io/github/forks/unamer/CVE-2019-1458">	<img alt="stars" src="https://img.shields.io/github/stars/unamer/CVE-2019-1458">
 
 ---
 ## CVE-2019-14574 (2019-11-14T20:15:00)
