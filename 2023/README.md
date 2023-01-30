@@ -1948,6 +1948,11 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-20007 (2023-01-20T07:15:00)
+> A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
 ## CVE-2023-0572 (2023-01-29T23:15:00)
 > Unchecked Error Condition in GitHub repository froxlor/froxlor prior to 2.0.10.
 - [Live-Hack-CVE/CVE-2023-0572](https://github.com/Live-Hack-CVE/CVE-2023-0572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0572">
@@ -2359,6 +2364,11 @@
 - [Live-Hack-CVE/CVE-2023-0281](https://github.com/Live-Hack-CVE/CVE-2023-0281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0281">
 
 ---
+## CVE-2023-0266 (2023-01-30T14:15:00)
+> A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c83927b7ebb055e
+- [Live-Hack-CVE/CVE-2023-0266](https://github.com/Live-Hack-CVE/CVE-2023-0266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0266">
+
+---
 ## CVE-2023-0258 (2023-01-12T22:15:00)
 > A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been rated as problematic. Affected by this issue is some unknown functionality of the component Category List Handler. The manipulation of the argument Reason with the input "><script>prompt(1)</script> leads to cross site scripting. The attack may be launched remotely. VDB-218186 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0258](https://github.com/Live-Hack-CVE/CVE-2023-0258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0258">
@@ -2402,6 +2412,11 @@
 ## CVE-2023-0242 (2023-01-18T21:15:00)
 > Rapid7 Velociraptor allows users to be created with different privileges on the server. Administrators are generally allowed to run any command on the server including writing arbitrary files. However, lower privilege users are generally forbidden from writing or modifying files on the server. The VQL copy() function applies permission checks for reading files but does not check for permission to write files. This allows a low privilege user (usually, users with the Velociraptor "investigator" role) to overwrite files on the server, including Velociraptor configuration files. To exploit this vulnerability, the attacker must already have a Velociraptor user account at a low privilege level (at least "analyst") and be able to log into the GUI and create a notebook where they can run the VQL query invoking the copy() VQL function. Typically, most users deploy Velociraptor with limited access to a trusted group (most users will be administrators within the GUI). This vulnerability is associated with program files https://github.Com/Velocidex/velociraptor/blob/master/vql/filesystem/copy.go https://github.Com/Velocidex/velociraptor/blob/master/vql/filesystem/copy.go and program routines copy(). This issue affects Velociraptor versions before 0.6.7-5. Version 0.6.7-5, released January 16, 2023, fixes the issue.
 - [Live-Hack-CVE/CVE-2023-0242](https://github.com/Live-Hack-CVE/CVE-2023-0242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0242">
+
+---
+## CVE-2023-0240 (2023-01-30T14:15:00)
+> There is a logic error in io_uring's implementation which can be used to trigger a use-after-free vulnerability leading to privilege escalation. In the io_prep_async_work function the assumption that the last io_grab_identity call cannot return false is not true, and in this case the function will use the init_cred or the previous linked requests identity to do operations instead of using the current identity. This can lead to reference counting issues causing use-after-free. We recommend upgrading past version 5.10.161.
+- [Live-Hack-CVE/CVE-2023-0240](https://github.com/Live-Hack-CVE/CVE-2023-0240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0240">
 
 ---
 ## CVE-2023-0237 (2023-01-13T05:15:00)
