@@ -235,6 +235,16 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
+## CVE-2023-23127 ()
+> 
+- [l00neyhacker/CVE-2023-23127](https://github.com/l00neyhacker/CVE-2023-23127)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23127">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23127">
+
+---
+## CVE-2023-23126 ()
+> 
+- [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
+
+---
 ## CVE-2023-23014 (2023-01-20T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in InventorySystem thru commit e08fbbe17902146313501ed0b5feba81d58f455c (on Apr 23, 2021) via edit_store_name and edit_active inputs in file InventorySystem.php.
 - [Live-Hack-CVE/CVE-2023-23014](https://github.com/Live-Hack-CVE/CVE-2023-23014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23014">
