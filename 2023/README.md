@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2023-24068](https://github.com/Live-Hack-CVE/CVE-2023-24068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24068">
 
 ---
+## CVE-2023-24065 (2023-01-29T22:15:00)
+> NOSH 4a5cfdb allows stored XSS via the create user page. For example, a first name (of a physician, assistant, or billing user) can have a JavaScript payload that is executed upon visiting the /users/2/1 page. This may allow attackers to steal Protected Health Information because the product is for health charting.
+- [Live-Hack-CVE/CVE-2023-24065](https://github.com/Live-Hack-CVE/CVE-2023-24065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24065">
+
+---
 ## CVE-2023-24060 (2023-01-27T04:15:00)
 > Haven 5d15944 allows Server-Side Request Forgery (SSRF) via the feed[url]= Feeds functionality. Authenticated users with the ability to create new RSS Feeds or add RSS Feeds can supply an arbitrary hostname (or even the hostname of the Haven server itself). NOTE: this product has significant usage but does not have numbered releases; ordinary end users may typically use the master branch.
 - [Live-Hack-CVE/CVE-2023-24060](https://github.com/Live-Hack-CVE/CVE-2023-24060)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24060">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24060">
@@ -1891,6 +1896,16 @@
 ## CVE-2023-0569 (2023-01-29T17:15:00)
 > Weak Password Requirements in GitHub repository publify/publify prior to 9.2.10.
 - [Live-Hack-CVE/CVE-2023-0569](https://github.com/Live-Hack-CVE/CVE-2023-0569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0569">
+
+---
+## CVE-2023-0566 (2023-01-29T22:15:00)
+> Static Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10.
+- [Live-Hack-CVE/CVE-2023-0566](https://github.com/Live-Hack-CVE/CVE-2023-0566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0566">
+
+---
+## CVE-2023-0565 (2023-01-29T22:15:00)
+> Business Logic Errors in GitHub repository froxlor/froxlor prior to 2.0.10.
+- [Live-Hack-CVE/CVE-2023-0565](https://github.com/Live-Hack-CVE/CVE-2023-0565)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0565">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0565">
 
 ---
 ## CVE-2023-0564 (2023-01-29T01:15:00)
