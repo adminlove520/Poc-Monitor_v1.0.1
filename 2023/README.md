@@ -1,6 +1,21 @@
 # 2023 List
 
 ---
+## CVE-2023-24623 (2023-01-30T05:15:00)
+> Paranoidhttp before 0.3.0 allows SSRF because [::] is equivalent to the 127.0.0.1 address, but does not match the filter for private addresses.
+- [Live-Hack-CVE/CVE-2023-24623](https://github.com/Live-Hack-CVE/CVE-2023-24623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24623">
+
+---
+## CVE-2023-24622 (2023-01-30T05:15:00)
+> isInList in the safeurl-python package before 1.2 for Python has an insufficiently restrictive regular expression for external domains, leading to SSRF.
+- [Live-Hack-CVE/CVE-2023-24622](https://github.com/Live-Hack-CVE/CVE-2023-24622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24622">
+
+---
+## CVE-2023-24612 (2023-01-30T03:15:00)
+> The PdfBook extension through 2.0.5 before b07b6a64 for MediaWiki allows command injection via an option.
+- [Live-Hack-CVE/CVE-2023-24612](https://github.com/Live-Hack-CVE/CVE-2023-24612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24612">
+
+---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
 > app/View/AuthKeys/authkey_display.ctp in MISP through 2.4.167 has an XSS in authkey add via a Referer field.
 - [Live-Hack-CVE/CVE-2023-24070](https://github.com/Live-Hack-CVE/CVE-2023-24070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24070">
