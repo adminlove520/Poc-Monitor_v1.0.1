@@ -355,6 +355,48 @@
 - [Live-Hack-CVE/CVE-2018-3852](https://github.com/Live-Hack-CVE/CVE-2018-3852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3852">
 
 ---
+## CVE-2018-3746 (2018-06-01T17:29:00)
+> The pdfinfojs NPM module versions <= 0.3.6 has a command injection vulnerability that allows an attacker to execute arbitrary commands on the victim's machine.
+- [Live-Hack-CVE/CVE-2018-3746](https://github.com/Live-Hack-CVE/CVE-2018-3746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3746">
+- [ossf-cve-benchmark/CVE-2018-3746](https://github.com/ossf-cve-benchmark/CVE-2018-3746)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3746">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3746">
+
+---
+## CVE-2018-3744 (2018-05-29T20:29:00)
+> The html-pages node module contains a path traversal vulnerabilities that allows an attacker to read any file from the server with cURL.
+- [Live-Hack-CVE/CVE-2018-3744](https://github.com/Live-Hack-CVE/CVE-2018-3744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3744">
+
+---
+## CVE-2018-3743 (2018-06-01T17:29:00)
+> Open redirect in hekto <=0.2.3 when target domain name is used as html filename on server.
+- [Live-Hack-CVE/CVE-2018-3743](https://github.com/Live-Hack-CVE/CVE-2018-3743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3743">
+
+---
+## CVE-2018-3734 (2018-05-29T20:29:00)
+> stattic node module suffers from a Path Traversal vulnerability due to lack of validation of path, which allows a malicious user to read content of any file with known path.
+- [Live-Hack-CVE/CVE-2018-3734](https://github.com/Live-Hack-CVE/CVE-2018-3734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3734">
+
+---
+## CVE-2018-3731 (2018-06-07T02:29:00)
+> public node module suffers from a Path Traversal vulnerability due to lack of validation of filePath, which allows a malicious user to read content of any file with known path.
+- [Live-Hack-CVE/CVE-2018-3731](https://github.com/Live-Hack-CVE/CVE-2018-3731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3731">
+- [ossf-cve-benchmark/CVE-2018-3731](https://github.com/ossf-cve-benchmark/CVE-2018-3731)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3731">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3731">
+
+---
+## CVE-2018-3730 (2018-06-07T02:29:00)
+> mcstatic node module suffers from a Path Traversal vulnerability due to lack of validation of filePath, which allows a malicious user to read content of any file with known path.
+- [Live-Hack-CVE/CVE-2018-3730](https://github.com/Live-Hack-CVE/CVE-2018-3730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3730">
+
+---
+## CVE-2018-3725 (2018-06-07T02:29:00)
+> hekto node module suffers from a Path Traversal vulnerability due to lack of validation of file, which allows a malicious user to read content of any file with known path.
+- [Live-Hack-CVE/CVE-2018-3725](https://github.com/Live-Hack-CVE/CVE-2018-3725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3725">
+
+---
+## CVE-2018-3715 (2018-06-07T02:29:00)
+> glance node module before 3.0.4 suffers from a Path Traversal vulnerability due to lack of validation of path passed to it, which allows a malicious user to read content of any file with known path.
+- [Live-Hack-CVE/CVE-2018-3715](https://github.com/Live-Hack-CVE/CVE-2018-3715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3715">
+
+---
 ## CVE-2018-3282 (2018-10-17T01:31:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Storage Engines). Supported versions that are affected are 5.5.61 and prior, 5.6.41 and prior, 5.7.23 and prior and 8.0.12 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2018-3282](https://github.com/Live-Hack-CVE/CVE-2018-3282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3282">
@@ -622,6 +664,16 @@
 - [gscamelo/CVE-2018-20580](https://github.com/gscamelo/CVE-2018-20580)	<img alt="forks" src="https://img.shields.io/github/forks/gscamelo/CVE-2018-20580">	<img alt="stars" src="https://img.shields.io/github/stars/gscamelo/CVE-2018-20580">
 
 ---
+## CVE-2018-20470 (2019-06-17T14:15:00)
+> An issue was discovered in Tyto Sahi Pro through 7.x.x and 8.0.0. A directory traversal (arbitrary file access) vulnerability exists in the web reports module. This allows an outside attacker to view contents of sensitive files.
+- [Live-Hack-CVE/CVE-2018-20470](https://github.com/Live-Hack-CVE/CVE-2018-20470)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20470">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20470">
+
+---
+## CVE-2018-20469 (2019-06-17T14:15:00)
+> An issue was discovered in Tyto Sahi Pro through 7.x.x and 8.0.0. A parameter in the web reports module is vulnerable to h2 SQL injection. This can be exploited to inject SQL queries and run standard h2 system functions.
+- [Live-Hack-CVE/CVE-2018-20469](https://github.com/Live-Hack-CVE/CVE-2018-20469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20469">
+
+---
 ## CVE-2018-20463 (2018-12-25T21:29:00)
 > An issue was discovered in the JSmol2WP plugin 1.07 for WordPress. There is an arbitrary file read vulnerability via ../ directory traversal in query=php://filter/resource= in the jsmol.php query string. This can also be used for SSRF.
 - [Henry4E36/CVE-2018-20463](https://github.com/Henry4E36/CVE-2018-20463)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2018-20463">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2018-20463">
@@ -769,6 +821,11 @@
 ## CVE-2018-18772 (2018-11-20T19:29:00)
 > CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.740 allows CSRF via admin/index.php?module=send_ssh, as demonstrated by executing an arbitrary OS command.
 - [Live-Hack-CVE/CVE-2018-18772](https://github.com/Live-Hack-CVE/CVE-2018-18772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18772">
+
+---
+## CVE-2018-1845 (2019-06-17T15:15:00)
+> IBM InfoSphere Information Server 11.3, 11.5, and 11.7 is vulnerable to a XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 150905.
+- [Live-Hack-CVE/CVE-2018-1845](https://github.com/Live-Hack-CVE/CVE-2018-1845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1845">
 
 ---
 ## CVE-2018-18439 (2018-11-20T19:29:00)

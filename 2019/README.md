@@ -813,6 +813,21 @@
 - [Live-Hack-CVE/CVE-2019-4422](https://github.com/Live-Hack-CVE/CVE-2019-4422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4422">
 
 ---
+## CVE-2019-4385 (2019-06-19T14:15:00)
+> IBM Spectrum Protect Plus 10.1.2 may display the vSnap CIFS password in the IBM Spectrum Protect Plus Joblog. This can result in an attacker gaining access to sensitive information as well as vSnap. IBM X-Force ID: 162173.
+- [Live-Hack-CVE/CVE-2019-4385](https://github.com/Live-Hack-CVE/CVE-2019-4385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4385">
+
+---
+## CVE-2019-4384 (2019-06-19T14:15:00)
+> IBM Campaign 9.1.2 and 10.1 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 162172.
+- [Live-Hack-CVE/CVE-2019-4384](https://github.com/Live-Hack-CVE/CVE-2019-4384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4384">
+
+---
+## CVE-2019-4364 (2019-06-19T14:15:00)
+> IBM Maximo Asset Management 7.6 is vulnerable to CSV injection, which could allow a remote authenticated attacker to execute arbirary commands on the system. IBM X-Force ID: 161680.
+- [Live-Hack-CVE/CVE-2019-4364](https://github.com/Live-Hack-CVE/CVE-2019-4364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4364">
+
+---
 ## CVE-2019-4343 (2019-12-30T16:15:00)
 > IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422.
 - [Live-Hack-CVE/CVE-2019-4343](https://github.com/Live-Hack-CVE/CVE-2019-4343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4343">
@@ -2340,6 +2355,11 @@
 ## CVE-2019-12248 (2019-06-17T18:15:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 7.0.x through 7.0.7, Community Edition 6.0.x through 6.0.19, and Community Edition 5.0.x through 5.0.36. An attacker could send a malicious email to an OTRS system. If a logged-in agent user quotes it, the email could cause the browser to load external image resources.
 - [Live-Hack-CVE/CVE-2019-12248](https://github.com/Live-Hack-CVE/CVE-2019-12248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12248">
+
+---
+## CVE-2019-12181 (2019-06-17T16:15:00)
+> A privilege escalation vulnerability exists in SolarWinds Serv-U before 15.1.7 for Linux.
+- [Live-Hack-CVE/CVE-2019-12181](https://github.com/Live-Hack-CVE/CVE-2019-12181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12181">
 
 ---
 ## CVE-2019-1205 (2019-08-14T21:15:00)
