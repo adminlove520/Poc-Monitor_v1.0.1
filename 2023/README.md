@@ -1883,6 +1883,11 @@
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-0572 (2023-01-29T23:15:00)
+> Unchecked Error Condition in GitHub repository froxlor/froxlor prior to 2.0.10.
+- [Live-Hack-CVE/CVE-2023-0572](https://github.com/Live-Hack-CVE/CVE-2023-0572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0572">
+
+---
 ## CVE-2023-0571 (2023-01-29T18:15:00)
 > A vulnerability has been found in SourceCodester Canteen Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file createcustomer.php of the component Add Customer. The manipulation of the argument name leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-219730 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0571](https://github.com/Live-Hack-CVE/CVE-2023-0571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0571">
