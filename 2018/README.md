@@ -369,6 +369,7 @@
 ## CVE-2018-3743 (2018-06-01T17:29:00)
 > Open redirect in hekto <=0.2.3 when target domain name is used as html filename on server.
 - [Live-Hack-CVE/CVE-2018-3743](https://github.com/Live-Hack-CVE/CVE-2018-3743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3743">
+- [ossf-cve-benchmark/CVE-2018-3743](https://github.com/ossf-cve-benchmark/CVE-2018-3743)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3743">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3743">
 
 ---
 ## CVE-2018-3734 (2018-05-29T20:29:00)

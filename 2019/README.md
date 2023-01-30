@@ -2360,6 +2360,7 @@
 ## CVE-2019-12181 (2019-06-17T16:15:00)
 > A privilege escalation vulnerability exists in SolarWinds Serv-U before 15.1.7 for Linux.
 - [Live-Hack-CVE/CVE-2019-12181](https://github.com/Live-Hack-CVE/CVE-2019-12181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12181">
+- [mavlevin/CVE-2019-12181](https://github.com/mavlevin/CVE-2019-12181)	<img alt="forks" src="https://img.shields.io/github/forks/mavlevin/CVE-2019-12181">	<img alt="stars" src="https://img.shields.io/github/stars/mavlevin/CVE-2019-12181">
 
 ---
 ## CVE-2019-1205 (2019-08-14T21:15:00)
