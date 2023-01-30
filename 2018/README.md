@@ -391,6 +391,7 @@
 ## CVE-2018-3725 (2018-06-07T02:29:00)
 > hekto node module suffers from a Path Traversal vulnerability due to lack of validation of file, which allows a malicious user to read content of any file with known path.
 - [Live-Hack-CVE/CVE-2018-3725](https://github.com/Live-Hack-CVE/CVE-2018-3725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3725">
+- [ossf-cve-benchmark/CVE-2018-3725](https://github.com/ossf-cve-benchmark/CVE-2018-3725)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3725">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3725">
 
 ---
 ## CVE-2018-3715 (2018-06-07T02:29:00)
