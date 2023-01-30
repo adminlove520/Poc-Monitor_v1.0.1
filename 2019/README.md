@@ -823,6 +823,16 @@
 - [Live-Hack-CVE/CVE-2019-4384](https://github.com/Live-Hack-CVE/CVE-2019-4384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4384">
 
 ---
+## CVE-2019-4382 (2019-06-25T16:15:00)
+> IBM API Connect 5.0.0.0 through 5.0.8.6 could allow an unauthorized user to obtain sensitive information about the system users using specially crafted HTTP requests. IBM X-Force ID: 162162.
+- [Live-Hack-CVE/CVE-2019-4382](https://github.com/Live-Hack-CVE/CVE-2019-4382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4382">
+
+---
+## CVE-2019-4377 (2019-06-25T16:15:00)
+> IBM Sterling B2B Integrator 6.0.0.0 and 6.0.0.1 reveals sensitive information from a stack trace that could be used in further attacks against the system. IBM X-Force ID: 162803.
+- [Live-Hack-CVE/CVE-2019-4377](https://github.com/Live-Hack-CVE/CVE-2019-4377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4377">
+
+---
 ## CVE-2019-4364 (2019-06-19T14:15:00)
 > IBM Maximo Asset Management 7.6 is vulnerable to CSV injection, which could allow a remote authenticated attacker to execute arbirary commands on the system. IBM X-Force ID: 161680.
 - [Live-Hack-CVE/CVE-2019-4364](https://github.com/Live-Hack-CVE/CVE-2019-4364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4364">
@@ -2245,6 +2255,11 @@
 - [Live-Hack-CVE/CVE-2019-13699](https://github.com/Live-Hack-CVE/CVE-2019-13699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13699">
 
 ---
+## CVE-2019-13564 (2019-07-11T18:15:00)
+> XSS exists in Ping Identity Agentless Integration Kit before 1.5.
+- [Live-Hack-CVE/CVE-2019-13564](https://github.com/Live-Hack-CVE/CVE-2019-13564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13564">
+
+---
 ## CVE-2019-13504 (2019-07-11T02:15:00)
 > There is an out-of-bounds read in Exiv2::MrwImage::readMetadata in mrwimage.cpp in Exiv2 through 0.27.2.
 - [Live-Hack-CVE/CVE-2019-13504](https://github.com/Live-Hack-CVE/CVE-2019-13504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13504">
@@ -2271,6 +2286,11 @@
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">
+
+---
+## CVE-2019-13072 (2019-06-30T02:15:00)
+> Stored XSS in the Filters page (Name field) in ZoneMinder 1.32.3 allows a malicious user to embed and execute JavaScript code in the browser of any user who navigates to this page.
+- [Live-Hack-CVE/CVE-2019-13072](https://github.com/Live-Hack-CVE/CVE-2019-13072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13072">
 
 ---
 ## CVE-2019-13049 (2019-06-29T15:15:00)
@@ -2373,6 +2393,16 @@
 - [Live-Hack-CVE/CVE-2019-11823](https://github.com/Live-Hack-CVE/CVE-2019-11823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11823">
 
 ---
+## CVE-2019-11822 (2019-06-30T15:15:00)
+> Relative path traversal vulnerability in SYNO.PhotoStation.File in Synology Photo Station before 6.8.11-3489 and before 6.3-2977 allows remote attackers to upload arbitrary files via the uploadphoto parameter.
+- [Live-Hack-CVE/CVE-2019-11822](https://github.com/Live-Hack-CVE/CVE-2019-11822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11822">
+
+---
+## CVE-2019-11821 (2019-06-30T15:15:00)
+> SQL injection vulnerability in synophoto_csPhotoDB.php in Synology Photo Station before 6.8.11-3489 and before 6.3-2977 allows remote attackers to execute arbitrary SQL command via the type parameter.
+- [Live-Hack-CVE/CVE-2019-11821](https://github.com/Live-Hack-CVE/CVE-2019-11821)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11821">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11821">
+
+---
 ## CVE-2019-11810 (2019-05-07T14:29:00)
 > An issue was discovered in the Linux kernel before 5.0.7. A NULL pointer dereference can occur when megasas_create_frame_pool() fails in megasas_alloc_cmds() in drivers/scsi/megaraid/megaraid_sas_base.c. This causes a Denial of Service, related to a use-after-free.
 - [Live-Hack-CVE/CVE-2019-11810](https://github.com/Live-Hack-CVE/CVE-2019-11810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11810">
@@ -2401,6 +2431,11 @@
 ## CVE-2019-11498 (2019-04-24T05:29:00)
 > WavpackSetConfiguration64 in pack_utils.c in libwavpack.a in WavPack through 5.1.0 has a "Conditional jump or move depends on uninitialised value" condition, which might allow attackers to cause a denial of service (application crash) via a DFF file that lacks valid sample-rate data.
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
+
+---
+## CVE-2019-11206 (2019-05-14T20:29:00)
+> The Spotfire library component of TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace, and TIBCO Spotfire Server contains vulnerabilities that theoretically allow a malicious user to undermine the integrity of comments and bookmarks. Affected releases are TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace: versions up to and including 10.2.0, and TIBCO Spotfire Server: versions up to and including 7.11.2; 7.12.0; 7.13.0; 7.14.0; 10.0.0; 10.0.1; 10.1.0; and 10.2.0.
+- [Live-Hack-CVE/CVE-2019-11206](https://github.com/Live-Hack-CVE/CVE-2019-11206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11206">
 
 ---
 ## CVE-2019-11165 (2019-12-16T20:15:00)
@@ -2509,6 +2544,21 @@
 ## CVE-2019-10433 (2019-10-01T14:15:00)
 > Jenkins Dingding[??] Plugin stores credentials unencrypted in job config.xml files on the Jenkins master where they can be viewed by users with Extended Read permission, or access to the master file system.
 - [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
+
+---
+## CVE-2019-10349 (2019-07-11T14:15:00)
+> A stored cross site scripting vulnerability in Jenkins Dependency Graph Viewer Plugin 0.13 and earlier allowed attackers able to configure jobs in Jenkins to inject arbitrary HTML and JavaScript in the plugin-provided web pages in Jenkins.
+- [Live-Hack-CVE/CVE-2019-10349](https://github.com/Live-Hack-CVE/CVE-2019-10349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10349">
+
+---
+## CVE-2019-10346 (2019-07-11T14:15:00)
+> A reflected cross site scripting vulnerability in Jenkins Embeddable Build Status Plugin 2.0.1 and earlier allowed attackers inject arbitrary HTML and JavaScript into the response of this plugin.
+- [Live-Hack-CVE/CVE-2019-10346](https://github.com/Live-Hack-CVE/CVE-2019-10346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10346">
+
+---
+## CVE-2019-10340 (2019-07-11T14:15:00)
+> A cross-site request forgery vulnerability in Jenkins Docker Plugin 1.1.6 and earlier in DockerAPI.DescriptorImpl#doTestConnection allowed users with Overall/Read access to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2019-10340](https://github.com/Live-Hack-CVE/CVE-2019-10340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10340">
 
 ---
 ## CVE-2019-10222 (2019-11-08T15:15:00)

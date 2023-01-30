@@ -686,6 +686,17 @@
 - [ahaShiyu/CVE-2018-20175](https://github.com/ahaShiyu/CVE-2018-20175)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-20175">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-20175">
 
 ---
+## CVE-2018-2013 (2019-06-25T16:15:00)
+> IBM API Connect 2018.1 through 2018.4.1.5 could disclose sensitive information to an unauthorized user that could aid in further attacks against the system. IBM X-Force ID: 155193.
+- [Live-Hack-CVE/CVE-2018-2013](https://github.com/Live-Hack-CVE/CVE-2018-2013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2013">
+
+---
+## CVE-2018-2011 (2019-06-25T16:15:00)
+> IBM API Connect 2018.1 through 2018.4.1.5 could allow an attacker to obtain sensitive information from a specially crafted HTTP request that could aid an attacker in further attacks against the system. IBM X-Force ID: 155150.
+- [Live-Hack-CVE/CVE-2018-2011](https://github.com/Live-Hack-CVE/CVE-2018-2011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-2011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-2011">
+- [Live-Hack-CVE/CVE-2021-27038](https://github.com/Live-Hack-CVE/CVE-2021-27038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27038">
+
+---
 ## CVE-2018-20104 (2023-01-23T22:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2018. Notes: none.
 - [Live-Hack-CVE/CVE-2018-20104](https://github.com/Live-Hack-CVE/CVE-2018-20104)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20104">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20104">
@@ -810,6 +821,17 @@
 - [iveresk/cve-2018-19052](https://github.com/iveresk/cve-2018-19052)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/cve-2018-19052">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/cve-2018-19052">
 
 ---
+## CVE-2018-1893 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 152157.
+- [Live-Hack-CVE/CVE-2018-1893](https://github.com/Live-Hack-CVE/CVE-2018-1893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1893">
+
+---
+## CVE-2018-1892 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 152156.
+- [Live-Hack-CVE/CVE-2018-1892](https://github.com/Live-Hack-CVE/CVE-2018-1892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1892">
+- [j4k0m/CVE-2018-18925](https://github.com/j4k0m/CVE-2018-18925)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2018-18925">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2018-18925">
+
+---
 ## CVE-2018-18839 (2019-06-18T16:15:00)
 > ** DISPUTED ** An issue was discovered in Netdata 1.10.0. Full Path Disclosure (FPD) exists via api/v1/alarms. NOTE: the vendor says "is intentional."
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
@@ -845,6 +867,21 @@
 - [Live-Hack-CVE/CVE-2018-18322](https://github.com/Live-Hack-CVE/CVE-2018-18322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18322">
 
 ---
+## CVE-2018-1828 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 150431.
+- [Live-Hack-CVE/CVE-2018-1828](https://github.com/Live-Hack-CVE/CVE-2018-1828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1828">
+
+---
+## CVE-2018-1827 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 150430.
+- [Live-Hack-CVE/CVE-2018-1827](https://github.com/Live-Hack-CVE/CVE-2018-1827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1827">
+
+---
+## CVE-2018-1826 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 150429.
+- [Live-Hack-CVE/CVE-2018-1826](https://github.com/Live-Hack-CVE/CVE-2018-1826)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1826">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1826">
+
+---
 ## CVE-2018-17956 (2019-03-15T20:29:00)
 > In yast2-samba-provision up to and including version 1.0.1 the password for samba shares was provided on the command line to tools used by yast2-samba-provision, allowing local attackers to read them in the process list
 - [Live-Hack-CVE/CVE-2018-17956](https://github.com/Live-Hack-CVE/CVE-2018-17956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17956">
@@ -866,9 +903,24 @@
 - [Live-Hack-CVE/CVE-2018-17773](https://github.com/Live-Hack-CVE/CVE-2018-17773)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17773">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17773">
 
 ---
+## CVE-2018-1760 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 148614.
+- [Live-Hack-CVE/CVE-2018-1760](https://github.com/Live-Hack-CVE/CVE-2018-1760)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1760">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1760">
+
+---
 ## CVE-2018-17581 (2018-09-28T09:29:00)
 > CiffDirectory::readDirectory() at crwimage_int.cpp in Exiv2 0.26 has excessive stack consumption due to a recursive function, leading to Denial of service.
 - [Live-Hack-CVE/CVE-2018-17581](https://github.com/Live-Hack-CVE/CVE-2018-17581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17581">
+
+---
+## CVE-2018-1758 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 148605.
+- [Live-Hack-CVE/CVE-2018-1758](https://github.com/Live-Hack-CVE/CVE-2018-1758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1758">
+
+---
+## CVE-2018-1734 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 discloses sensitive information in error messages that may be used by a malicious user to orchestrate further attacks. IBM X-Force ID: 147838.
+- [Live-Hack-CVE/CVE-2018-1734](https://github.com/Live-Hack-CVE/CVE-2018-1734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1734">
 
 ---
 ## CVE-2018-17254 (2018-09-20T14:29:00)
