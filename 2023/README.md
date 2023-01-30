@@ -758,9 +758,29 @@
 - [Live-Hack-CVE/CVE-2023-22334](https://github.com/Live-Hack-CVE/CVE-2023-22334)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22334">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22334">
 
 ---
+## CVE-2023-22333 (2023-01-30T07:15:00)
+> Cross-site scripting vulnerability in EasyMail 2.00.130 and earlier allows a remote unauthenticated attacker to inject an arbitrary script.
+- [Live-Hack-CVE/CVE-2023-22333](https://github.com/Live-Hack-CVE/CVE-2023-22333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22333">
+
+---
+## CVE-2023-22332 (2023-01-30T07:15:00)
+> Information disclosure vulnerability exists in Pgpool-II 4.4.0 to 4.4.1 (4.4 series), 4.3.0 to 4.3.4 (4.3 series), 4.2.0 to 4.2.11 (4.2 series), 4.1.0 to 4.1.14 (4.1 series), 4.0.0 to 4.0.21 (4.0 series), All versions of 3.7 series, All versions of 3.6 series, All versions of 3.5 series, All versions of 3.4 series, and All versions of 3.3 series. A specific database user's authentication information may be obtained by another database user. As a result, the information stored in the database may be altered and/or database may be suspended by a remote attacker who successfully logged in the product with the obtained credentials.
+- [Live-Hack-CVE/CVE-2023-22332](https://github.com/Live-Hack-CVE/CVE-2023-22332)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22332">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22332">
+
+---
 ## CVE-2023-22331 (2023-01-20T03:15:00)
 > Use of default credentials vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote unauthenticated attacker to alter user credentials information.
 - [Live-Hack-CVE/CVE-2023-22331](https://github.com/Live-Hack-CVE/CVE-2023-22331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22331">
+
+---
+## CVE-2023-22324 (2023-01-30T07:15:00)
+> SQL injection vulnerability in the CONPROSYS HMI System (CHS) Ver.3.5.0 and earlier allows a remote authenticated attacker to execute an arbitrary SQL command. As a result, information stored in the database may be obtained.
+- [Live-Hack-CVE/CVE-2023-22324](https://github.com/Live-Hack-CVE/CVE-2023-22324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22324">
+
+---
+## CVE-2023-22322 (2023-01-30T07:15:00)
+> Improper restriction of XML external entity reference (XXE) vulnerability exists in OMRON CX-Motion Pro 1.4.6.013 and earlier. If a user opens a specially crafted project file created by an attacker, sensitive information in the file system where CX-Motion Pro is installed may be disclosed.
+- [Live-Hack-CVE/CVE-2023-22322](https://github.com/Live-Hack-CVE/CVE-2023-22322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22322">
 
 ---
 ## CVE-2023-22320 (2023-01-10T04:15:00)
@@ -2066,6 +2086,26 @@
 ## CVE-2023-0493 (2023-01-26T23:15:00)
 > Improper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.
 - [Live-Hack-CVE/CVE-2023-0493](https://github.com/Live-Hack-CVE/CVE-2023-0493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0493">
+
+---
+## CVE-2023-0474 (2023-01-30T09:15:00)
+> Use after free in GuestView in Google Chrome prior to 109.0.5414.119 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a Chrome web app. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2023-0474](https://github.com/Live-Hack-CVE/CVE-2023-0474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0474">
+
+---
+## CVE-2023-0473 (2023-01-30T09:15:00)
+> Type Confusion in ServiceWorker API in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
+- [Live-Hack-CVE/CVE-2023-0473](https://github.com/Live-Hack-CVE/CVE-2023-0473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0473">
+
+---
+## CVE-2023-0472 (2023-01-30T09:15:00)
+> Use after free in WebRTC in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2023-0472](https://github.com/Live-Hack-CVE/CVE-2023-0472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0472">
+
+---
+## CVE-2023-0471 (2023-01-30T09:15:00)
+> Use after free in WebTransport in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2023-0471](https://github.com/Live-Hack-CVE/CVE-2023-0471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0471">
 
 ---
 ## CVE-2023-0440 (2023-01-23T14:15:00)
