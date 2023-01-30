@@ -504,6 +504,21 @@
 - [Live-Hack-CVE/CVE-2020-7608](https://github.com/Live-Hack-CVE/CVE-2020-7608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7608">
 
 ---
+## CVE-2020-7588 (2020-07-14T14:15:00)
+> A vulnerability has been identified in Opcenter Execution Discrete (All versions < V3.2), Opcenter Execution Foundation (All versions < V3.2), Opcenter Execution Process (All versions < V3.2), Opcenter Intelligence (All versions < V3.3), Opcenter Quality (All versions < V11.3), Opcenter RD&L (V8.0), SIMATIC IT LMS (All versions < V2.6), SIMATIC IT Production Suite (All versions < V8.0), SIMATIC Notifier Server for Windows (All versions), SIMATIC PCS neo (All versions < V3.0 SP1), SIMATIC STEP 7 (TIA Portal) V15 (All versions < V15.1 Update 5), SIMATIC STEP 7 (TIA Portal) V16 (All versions < V16 Update 2), SIMOCODE ES V15.1 (All versions < V15.1 Update 4), SIMOCODE ES V16 (All versions < V16 Update 1), Soft Starter ES V15.1 (All versions < V15.1 Update 3), Soft Starter ES V16 (All versions < V16 Update 1). Sending a specially crafted packet to the affected service could cause a partial remote denial-of-service, that would cause the service to restart itself.
+- [Live-Hack-CVE/CVE-2020-7588](https://github.com/Live-Hack-CVE/CVE-2020-7588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7588">
+
+---
+## CVE-2020-7587 (2020-07-14T14:15:00)
+> A vulnerability has been identified in Opcenter Execution Discrete (All versions < V3.2), Opcenter Execution Foundation (All versions < V3.2), Opcenter Execution Process (All versions < V3.2), Opcenter Intelligence (All versions < V3.3), Opcenter Quality (All versions < V11.3), Opcenter RD&L (V8.0), SIMATIC IT LMS (All versions < V2.6), SIMATIC IT Production Suite (All versions < V8.0), SIMATIC Notifier Server for Windows (All versions), SIMATIC PCS neo (All versions < V3.0 SP1), SIMATIC STEP 7 (TIA Portal) V15 (All versions < V15.1 Update 5), SIMATIC STEP 7 (TIA Portal) V16 (All versions < V16 Update 2), SIMOCODE ES V15.1 (All versions < V15.1 Update 4), SIMOCODE ES V16 (All versions < V16 Update 1), Soft Starter ES V15.1 (All versions < V15.1 Update 3), Soft Starter ES V16 (All versions < V16 Update 1). Sending multiple specially crafted packets to the affected service could cause a partial remote denial-of-service, that would cause the service to restart itself. On some cases the vulnerability could leak random information from the remote service.
+- [Live-Hack-CVE/CVE-2020-7587](https://github.com/Live-Hack-CVE/CVE-2020-7587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7587">
+
+---
+## CVE-2020-7581 (2020-07-14T14:15:00)
+> A vulnerability has been identified in Opcenter Execution Discrete (All versions < V3.2), Opcenter Execution Foundation (All versions < V3.2), Opcenter Execution Process (All versions < V3.2), Opcenter Intelligence (All versions < V3.3), Opcenter Quality (All versions < V11.3), Opcenter RD&L (V8.0), SIMATIC Notifier Server for Windows (All versions), SIMATIC PCS neo (All versions < V3.0 SP1), SIMATIC STEP 7 (TIA Portal) V15 (All versions < V15.1 Update 5), SIMATIC STEP 7 (TIA Portal) V16 (All versions < V16 Update 2), SIMOCODE ES V15.1 (All versions < V15.1 Update 4), SIMOCODE ES V16 (All versions < V16 Update 1), Soft Starter ES V15.1 (All versions < V15.1 Update 3), Soft Starter ES V16 (All versions < V16 Update 1). A component within the affected application calls a helper binary with SYSTEM privileges during startup while the call path is not quoted. This could allow a local attacker with administrative privileges to execute code with SYSTEM level privileges.
+- [Live-Hack-CVE/CVE-2020-7581](https://github.com/Live-Hack-CVE/CVE-2020-7581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7581">
+
+---
 ## CVE-2020-7573 (2020-11-19T22:15:00)
 > A CWE-284 Improper Access Control vulnerability exists in EcoStruxure Building Operation WebReports V1.9 - V3.1 that could cause a remote attacker being able to access a restricted web resources due to improper access control.
 - [Live-Hack-CVE/CVE-2020-7573](https://github.com/Live-Hack-CVE/CVE-2020-7573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7573">
@@ -3700,6 +3715,11 @@
 > OCS Inventory NG 2.7 allows Remote Command Execution via shell metacharacters to require/commandLine/CommandLine.php because mib_file in plugins/main_sections/ms_config/ms_snmp_config.php is mishandled in get_mib_oid.
 - [Live-Hack-CVE/CVE-2020-14947](https://github.com/Live-Hack-CVE/CVE-2020-14947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14947">
 - [mhaskar/CVE-2020-14947](https://github.com/mhaskar/CVE-2020-14947)	<img alt="forks" src="https://img.shields.io/github/forks/mhaskar/CVE-2020-14947">	<img alt="stars" src="https://img.shields.io/github/stars/mhaskar/CVE-2020-14947">
+
+---
+## CVE-2020-14946 (2020-06-22T22:15:00)
+> downloadFile.ashx in the Administrator section of the Surveillance module in Global RADAR BSA Radar 1.6.7234.24750 and earlier allows users to download transaction files. When downloading the files, a user is able to view local files on the web server by manipulating the FileName and FilePath parameters in the URL, or while using a proxy. This vulnerability could be used to view local sensitive files or configuration files.
+- [Live-Hack-CVE/CVE-2020-14946](https://github.com/Live-Hack-CVE/CVE-2020-14946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14946">
 
 ---
 ## CVE-2020-14943 (2020-06-22T22:15:00)

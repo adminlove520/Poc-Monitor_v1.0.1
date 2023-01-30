@@ -67,6 +67,7 @@
 - [deetl/CVE-2023-24055](https://github.com/deetl/CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/deetl/CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/deetl/CVE-2023-24055">
 - [alt3kx/CVE-2023-24055_PoC](https://github.com/alt3kx/CVE-2023-24055_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2023-24055_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2023-24055_PoC">
 - [Cyb3rtus/keepass_CVE-2023-24055_yara_rule](https://github.com/Cyb3rtus/keepass_CVE-2023-24055_yara_rule)	<img alt="forks" src="https://img.shields.io/github/forks/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">	<img alt="stars" src="https://img.shields.io/github/stars/Cyb3rtus/keepass_CVE-2023-24055_yara_rule">
+- [julesbozouklian/PoC_CVE-2023-24055](https://github.com/julesbozouklian/PoC_CVE-2023-24055)	<img alt="forks" src="https://img.shields.io/github/forks/julesbozouklian/PoC_CVE-2023-24055">	<img alt="stars" src="https://img.shields.io/github/stars/julesbozouklian/PoC_CVE-2023-24055">
 
 ---
 ## CVE-2023-24044 (2023-01-22T03:15:00)
@@ -1951,6 +1952,11 @@
 ## CVE-2023-20522 (2023-01-11T08:15:00)
 > Insufficient input validation in ASP may allow an attacker with a malicious BIOS to potentially cause a denial of service.
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
+
+---
+## CVE-2023-20043 (2023-01-20T07:15:00)
+> A vulnerability in Cisco CX Cloud Agent of could allow an authenticated, local attacker to elevate their privileges. This vulnerability is due to insecure file permissions. An attacker could exploit this vulnerability by calling the script with sudo. A successful exploit could allow the attacker to take complete control of the affected device.
+- [Live-Hack-CVE/CVE-2023-20043](https://github.com/Live-Hack-CVE/CVE-2023-20043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20043">
 
 ---
 ## CVE-2023-20007 (2023-01-20T07:15:00)

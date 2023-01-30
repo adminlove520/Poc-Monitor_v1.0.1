@@ -6496,6 +6496,11 @@
 - [Live-Hack-CVE/CVE-2021-24839](https://github.com/Live-Hack-CVE/CVE-2021-24839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24839">
 
 ---
+## CVE-2021-24837 (2023-01-23T15:15:00)
+> The Passster WordPress plugin before 3.5.5.8 does not escape the area parameter of its shortcode, which could allow users with a role as low as Contributor to perform Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2021-24837](https://github.com/Live-Hack-CVE/CVE-2021-24837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24837">
+
+---
 ## CVE-2021-24822 (2021-11-29T09:15:00)
 > The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">

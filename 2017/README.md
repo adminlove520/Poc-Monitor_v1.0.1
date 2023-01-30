@@ -442,6 +442,16 @@
 - [Live-Hack-CVE/CVE-2017-2788](https://github.com/Live-Hack-CVE/CVE-2017-2788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2788">
 
 ---
+## CVE-2017-2786 (2017-03-10T10:59:00)
+> A denial of service vulnerability exists in the psnotifyd application of the Pharos PopUp printer client version 9.0. A specially crafted packet can be sent to the victim's computer and can lead to an out of bounds read causing a crash and a denial of service.
+- [Live-Hack-CVE/CVE-2017-2786](https://github.com/Live-Hack-CVE/CVE-2017-2786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2786">
+
+---
+## CVE-2017-2781 (2017-06-22T21:29:00)
+> An exploitable heap buffer overflow vulnerability exists in the X509 certificate parsing functionality of InsideSecure MatrixSSL 3.8.7b. A specially crafted x509 certificate can cause a buffer overflow on the heap resulting in remote code execution. To trigger this vulnerability, a specially crafted x509 certificate must be presented to the vulnerable client or server application when initiating secure connection.
+- [Live-Hack-CVE/CVE-2017-2781](https://github.com/Live-Hack-CVE/CVE-2017-2781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2781">
+
+---
 ## CVE-2017-2619 (2018-03-12T15:29:00)
 > Samba before versions 4.6.1, 4.5.7 and 4.4.11 are vulnerable to a malicious client using a symlink race to allow access to areas of the server file system not exported under the share definition.
 - [Live-Hack-CVE/CVE-2017-2619](https://github.com/Live-Hack-CVE/CVE-2017-2619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2619">
@@ -669,6 +679,11 @@
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
+
+---
+## CVE-2017-16349 (2018-08-02T19:29:00)
+> An exploitable XML external entity vulnerability exists in the reporting functionality of SAP BPC. A specially crafted XML request can cause an XML external entity to be referenced, resulting in information disclosure and potential denial of service. An attacker can issue authenticated HTTP requests to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2017-16349](https://github.com/Live-Hack-CVE/CVE-2017-16349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16349">
 
 ---
 ## CVE-2017-16335 (2023-01-11T22:15:00)

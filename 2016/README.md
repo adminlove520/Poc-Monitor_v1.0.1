@@ -213,6 +213,11 @@
 - [Live-Hack-CVE/CVE-2016-8388](https://github.com/Live-Hack-CVE/CVE-2016-8388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8388">
 
 ---
+## CVE-2016-8339 (2016-10-28T14:59:00)
+> A buffer overflow in Redis 3.2.x prior to 3.2.4 causes arbitrary code execution when a crafted command is sent. An out of bounds write vulnerability exists in the handling of the client-output-buffer-limit option during the CONFIG SET command for the Redis data structure store. A crafted CONFIG SET command can lead to an out of bounds write potentially resulting in code execution.
+- [Live-Hack-CVE/CVE-2016-8339](https://github.com/Live-Hack-CVE/CVE-2016-8339)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-8339">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-8339">
+
+---
 ## CVE-2016-7892 (2016-12-15T06:59:00)
 > Adobe Flash Player versions 23.0.0.207 and earlier, 11.2.202.644 and earlier have an exploitable use after free vulnerability in the TextField class. Successful exploitation could lead to arbitrary code execution.
 - [Live-Hack-CVE/CVE-2016-7892](https://github.com/Live-Hack-CVE/CVE-2016-7892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-7892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-7892">

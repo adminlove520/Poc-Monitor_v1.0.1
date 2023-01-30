@@ -1605,9 +1605,19 @@
 - [Live-Hack-CVE/CVE-2019-19740](https://github.com/Live-Hack-CVE/CVE-2019-19740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19740">
 
 ---
+## CVE-2019-19726 (2019-12-12T01:15:00)
+> OpenBSD through 6.6 allows local users to escalate to root because a check for LD_LIBRARY_PATH in setuid programs can be defeated by setting a very small RLIMIT_DATA resource limit. When executing chpass or passwd (which are setuid root), _dl_setup_env in ld.so tries to strip LD_LIBRARY_PATH from the environment, but fails when it cannot allocate memory. Thus, the attacker is able to execute their own library code as root.
+- [Live-Hack-CVE/CVE-2019-19726](https://github.com/Live-Hack-CVE/CVE-2019-19726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19726">
+
+---
 ## CVE-2019-19725 (2019-12-11T18:16:00)
 > sysstat through 12.2.0 has a double free in check_file_actlst in sa_common.c.
 - [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
+
+---
+## CVE-2019-19650 (2019-12-11T18:16:00)
+> Zoho ManageEngine Applications Manager before 13640 allows a remote authenticated SQL injection via the Agent servlet agentid parameter to the Agent.java process function.
+- [Live-Hack-CVE/CVE-2019-19650](https://github.com/Live-Hack-CVE/CVE-2019-19650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19650">
 
 ---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
@@ -2044,6 +2054,11 @@
 - [Live-Hack-CVE/CVE-2019-14870](https://github.com/Live-Hack-CVE/CVE-2019-14870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14870">
 
 ---
+## CVE-2019-14861 (2019-12-10T23:15:00)
+> All Samba versions 4.x.x before 4.9.17, 4.10.x before 4.10.11 and 4.11.x before 4.11.3 have an issue, where the (poorly named) dnsserver RPC pipe provides administrative facilities to modify DNS records and zones. Samba, when acting as an AD DC, stores DNS records in LDAP. In AD, the default permissions on the DNS partition allow creation of new records by authenticated users. This is used for example to allow machines to self-register in DNS. If a DNS record was created that case-insensitively matched the name of the zone, the ldb_qsort() and dns_name_compare() routines could be confused into reading memory prior to the list of DNS entries when responding to DnssrvEnumRecords() or DnssrvEnumRecords2() and so following invalid memory as a pointer.
+- [Live-Hack-CVE/CVE-2019-14861](https://github.com/Live-Hack-CVE/CVE-2019-14861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14861">
+
+---
 ## CVE-2019-14855 (2020-03-20T16:15:00)
 > A flaw was found in the way certificate signatures could be forged using collisions found in the SHA-1 algorithm. An attacker could use this weakness to create forged certificate signatures. This issue affects GnuPG versions before 2.2.18.
 - [Live-Hack-CVE/CVE-2019-14855](https://github.com/Live-Hack-CVE/CVE-2019-14855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14855">
@@ -2079,6 +2094,11 @@
 > Improper access control in the API for the Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable information disclosure via local access.
 - [Live-Hack-CVE/CVE-2019-14590](https://github.com/Live-Hack-CVE/CVE-2019-14590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14590">
 - [Live-Hack-CVE/CVE-2019-14590](https://github.com/Live-Hack-CVE/CVE-2019-14590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14590">
+
+---
+## CVE-2019-1458 (2019-12-10T22:15:00)
+> An elevation of privilege vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka 'Win32k Elevation of Privilege Vulnerability'.
+- [Live-Hack-CVE/CVE-2019-1458](https://github.com/Live-Hack-CVE/CVE-2019-1458)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1458">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1458">
 
 ---
 ## CVE-2019-14574 (2019-11-14T20:15:00)
