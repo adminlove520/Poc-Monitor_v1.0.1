@@ -870,6 +870,8 @@
 ## CVE-2018-1828 (2019-06-27T14:15:00)
 > IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 150431.
 - [Live-Hack-CVE/CVE-2018-1828](https://github.com/Live-Hack-CVE/CVE-2018-1828)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1828">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1828">
+- [Live-Hack-CVE/CVE-2018-18288](https://github.com/Live-Hack-CVE/CVE-2018-18288)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18288">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18288">
+- [ossf-cve-benchmark/CVE-2018-18282](https://github.com/ossf-cve-benchmark/CVE-2018-18282)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-18282">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-18282">
 
 ---
 ## CVE-2018-1827 (2019-06-27T14:15:00)
