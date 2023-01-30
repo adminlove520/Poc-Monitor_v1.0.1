@@ -235,6 +235,26 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
+## CVE-2023-23132 ()
+> 
+- [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
+
+---
+## CVE-2023-23131 ()
+> 
+- [l00neyhacker/CVE-2023-23131](https://github.com/l00neyhacker/CVE-2023-23131)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23131">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23131">
+
+---
+## CVE-2023-23130 ()
+> 
+- [l00neyhacker/CVE-2023-23130](https://github.com/l00neyhacker/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23130">
+
+---
+## CVE-2023-23128 ()
+> 
+- [l00neyhacker/CVE-2023-23128](https://github.com/l00neyhacker/CVE-2023-23128)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23128">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23128">
+
+---
 ## CVE-2023-23127 ()
 > 
 - [l00neyhacker/CVE-2023-23127](https://github.com/l00neyhacker/CVE-2023-23127)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23127">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23127">
