@@ -2440,6 +2440,7 @@
 ## CVE-2019-11730 (2019-07-23T14:15:00)
 > A vulnerability exists where if a user opens a locally saved HTML file, this file can use file: URIs to access other files in the same directory or sub-directories if the names are known or guessed. The Fetch API can then be used to read the contents of any files stored in these directories and they may uploaded to a server. It was demonstrated that in combination with a popular Android messaging app, if a malicious HTML attachment is sent to a user and they opened that attachment in Firefox, due to that app's predictable pattern for locally-saved file names, it is possible to read attachments the victim received from other correspondents. This vulnerability affects Firefox ESR < 60.8, Firefox < 68, and Thunderbird < 60.8.
 - [Live-Hack-CVE/CVE-2019-11730](https://github.com/Live-Hack-CVE/CVE-2019-11730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11730">
+- [alidnf/CVE-2019-11730](https://github.com/alidnf/CVE-2019-11730)	<img alt="forks" src="https://img.shields.io/github/forks/alidnf/CVE-2019-11730">	<img alt="stars" src="https://img.shields.io/github/stars/alidnf/CVE-2019-11730">
 
 ---
 ## CVE-2019-11728 (2019-07-23T14:15:00)
