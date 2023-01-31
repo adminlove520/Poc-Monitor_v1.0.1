@@ -3014,6 +3014,11 @@
 - [Live-Hack-CVE/CVE-2020-20412](https://github.com/Live-Hack-CVE/CVE-2020-20412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20412">
 
 ---
+## CVE-2020-20402 (2023-01-31T16:15:00)
+> Westbrookadmin portfolioCMS v1.05 allows attackers to bypass password validation and access sensitive information via session fixation.
+- [Live-Hack-CVE/CVE-2020-20402](https://github.com/Live-Hack-CVE/CVE-2020-20402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20402">
+
+---
 ## CVE-2020-2038 (2020-09-09T17:15:00)
 > An OS Command Injection vulnerability in the PAN-OS management interface that allows authenticated administrators to execute arbitrary OS commands with root privileges. This issue impacts: PAN-OS 9.0 versions earlier than 9.0.10; PAN-OS 9.1 versions earlier than 9.1.4; PAN-OS 10.0 versions earlier than 10.0.1.
 - [und3sc0n0c1d0/CVE-2020-2038](https://github.com/und3sc0n0c1d0/CVE-2020-2038)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/CVE-2020-2038">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/CVE-2020-2038">

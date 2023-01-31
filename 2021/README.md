@@ -970,6 +970,26 @@
 - [Live-Hack-CVE/CVE-2021-43466](https://github.com/Live-Hack-CVE/CVE-2021-43466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43466">
 
 ---
+## CVE-2021-43447 (2023-01-23T15:15:00)
+> ONLYOFFICE all versions as of 2021-11-08 is affected by Incorrect Access Control. An authentication bypass in the document editor allows attackers to edit documents without authentication.
+- [Live-Hack-CVE/CVE-2021-43447](https://github.com/Live-Hack-CVE/CVE-2021-43447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43447">
+
+---
+## CVE-2021-43446 (2023-01-23T15:15:00)
+> ONLYOFFICE all versions as of 2021-11-08 is vulnerable to Cross Site Scripting (XSS). The "macros" feature of the document editor allows malicious cross site scripting payloads to be used.
+- [Live-Hack-CVE/CVE-2021-43446](https://github.com/Live-Hack-CVE/CVE-2021-43446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43446">
+
+---
+## CVE-2021-43445 (2023-01-23T15:15:00)
+> ONLYOFFICE all versions as of 2021-11-08 is affected by Incorrect Access Control. An attacker can authenticate with the web socket service of the ONLYOFFICE document editor which is protected by JWT auth by using a default JWT signing key.
+- [Live-Hack-CVE/CVE-2021-43445](https://github.com/Live-Hack-CVE/CVE-2021-43445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43445">
+
+---
+## CVE-2021-43444 (2023-01-23T15:15:00)
+> ONLYOFFICE all versions as of 2021-11-08 is affected by Incorrect Access Control. Signed document download URLs can be forged due to a weak default URL signing key.
+- [Live-Hack-CVE/CVE-2021-43444](https://github.com/Live-Hack-CVE/CVE-2021-43444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43444">
+
+---
 ## CVE-2021-43403 (2022-09-29T03:15:00)
 > An issue was discovered in FusionPBX before 4.5.30. The log_viewer.php Log View page allows an authenticated user to choose an arbitrary filename for download (i.e., not necessarily freeswitch.log in the intended directory).
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
@@ -3724,6 +3744,11 @@
 ## CVE-2021-3655 (2021-08-05T21:15:00)
 > A vulnerability was found in the Linux kernel in versions prior to v5.14-rc1. Missing size validations on inbound SCTP packets may allow the kernel to read uninitialized memory.
 - [Live-Hack-CVE/CVE-2021-3655](https://github.com/Live-Hack-CVE/CVE-2021-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3655">
+
+---
+## CVE-2021-36539 (2023-01-26T21:15:00)
+> Instructure Canvas LMS didn't properly deny access to locked/unpublished files when the unprivileged user access the DocViewer based file preview URL (canvadoc_session_url).
+- [Live-Hack-CVE/CVE-2021-36539](https://github.com/Live-Hack-CVE/CVE-2021-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36539">
 
 ---
 ## CVE-2021-3644 (2022-08-26T16:15:00)

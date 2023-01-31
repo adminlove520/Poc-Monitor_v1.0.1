@@ -26,6 +26,16 @@
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
+## CVE-2023-24163 (2023-01-31T16:15:00)
+> SQL Inection vulnerability in Dromara hutool v5.8.11 allows attacker to execute arbitrary code via the aviator template engine.
+- [Live-Hack-CVE/CVE-2023-24163](https://github.com/Live-Hack-CVE/CVE-2023-24163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24163">
+
+---
+## CVE-2023-24162 (2023-01-31T16:15:00)
+> Deserialization vulnerability in Dromara Hutool v5.8.11 allows attacker to execute arbitrary code via the XmlUtil.readObjectFromXml parameter.
+- [Live-Hack-CVE/CVE-2023-24162](https://github.com/Live-Hack-CVE/CVE-2023-24162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24162">
+
+---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
 > app/View/AuthKeys/authkey_display.ctp in MISP through 2.4.167 has an XSS in authkey add via a Referer field.
 - [Live-Hack-CVE/CVE-2023-24070](https://github.com/Live-Hack-CVE/CVE-2023-24070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24070">
