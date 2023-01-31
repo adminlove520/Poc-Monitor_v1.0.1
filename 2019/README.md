@@ -1281,6 +1281,11 @@
 - [Live-Hack-CVE/CVE-2019-2614](https://github.com/Live-Hack-CVE/CVE-2019-2614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2614">
 
 ---
+## CVE-2019-2587 (2019-04-23T19:32:00)
+> Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Partition). Supported versions that are affected are 8.0.15 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
+- [Live-Hack-CVE/CVE-2019-2587](https://github.com/Live-Hack-CVE/CVE-2019-2587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2587">
+
+---
 ## CVE-2019-25100 (2023-01-08T11:15:00)
 > A vulnerability was found in happyman twmap. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file twmap3/data/ajaxCRUD/pointdata2.php. The manipulation of the argument id leads to sql injection. Upgrading to version v2.9_v4.31 is able to address this issue. The name of the patch is babbec79b3fa4efb3bd581ea68af0528d11bba0c. It is recommended to upgrade the affected component. The identifier VDB-217645 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25100](https://github.com/Live-Hack-CVE/CVE-2019-25100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25100">
@@ -2432,6 +2437,43 @@
 - [Live-Hack-CVE/CVE-2019-11810](https://github.com/Live-Hack-CVE/CVE-2019-11810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11810">
 
 ---
+## CVE-2019-11730 (2019-07-23T14:15:00)
+> A vulnerability exists where if a user opens a locally saved HTML file, this file can use file: URIs to access other files in the same directory or sub-directories if the names are known or guessed. The Fetch API can then be used to read the contents of any files stored in these directories and they may uploaded to a server. It was demonstrated that in combination with a popular Android messaging app, if a malicious HTML attachment is sent to a user and they opened that attachment in Firefox, due to that app's predictable pattern for locally-saved file names, it is possible to read attachments the victim received from other correspondents. This vulnerability affects Firefox ESR < 60.8, Firefox < 68, and Thunderbird < 60.8.
+- [Live-Hack-CVE/CVE-2019-11730](https://github.com/Live-Hack-CVE/CVE-2019-11730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11730">
+
+---
+## CVE-2019-11728 (2019-07-23T14:15:00)
+> The HTTP Alternative Services header, Alt-Svc, can be used by a malicious site to scan all TCP ports of any host that the accessible to a user when web content is loaded. This vulnerability affects Firefox < 68.
+- [Live-Hack-CVE/CVE-2019-11728](https://github.com/Live-Hack-CVE/CVE-2019-11728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11728">
+
+---
+## CVE-2019-11725 (2019-07-23T14:15:00)
+> When a user navigates to site marked as unsafe by the Safebrowsing API, warning messages are displayed and navigation is interrupted but resources from the same site loaded through websockets are not blocked, leading to the loading of unsafe resources and bypassing safebrowsing protections. This vulnerability affects Firefox < 68.
+- [Live-Hack-CVE/CVE-2019-11725](https://github.com/Live-Hack-CVE/CVE-2019-11725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11725">
+
+---
+## CVE-2019-11724 (2019-07-23T14:15:00)
+> Application permissions give additional remote troubleshooting permission to the site input.mozilla.org, which has been retired and now redirects to another site. This additional permission is unnecessary and is a potential vector for malicious attacks. This vulnerability affects Firefox < 68.
+- [Live-Hack-CVE/CVE-2019-11724](https://github.com/Live-Hack-CVE/CVE-2019-11724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11724">
+
+---
+## CVE-2019-11723 (2019-07-23T14:15:00)
+> A vulnerability exists during the installation of add-ons where the initial fetch ignored the origin attributes of the browsing context. This could leak cookies in private browsing mode or across different "containers" for people who use the Firefox Multi-Account Containers Web Extension. This vulnerability affects Firefox < 68.
+- [Live-Hack-CVE/CVE-2019-11723](https://github.com/Live-Hack-CVE/CVE-2019-11723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11723">
+
+---
+## CVE-2019-11718 (2019-07-23T14:15:00)
+> Activity Stream can display content from sent from the Snippet Service website. This content is written to innerHTML on the Activity Stream page without sanitization, allowing for a potential access to other information available to the Activity Stream, such as browsing history, if the Snipper Service were compromised. This vulnerability affects Firefox < 68.
+- [Live-Hack-CVE/CVE-2019-11718](https://github.com/Live-Hack-CVE/CVE-2019-11718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11718">
+
+---
+## CVE-2019-11707 (2019-07-23T14:15:00)
+> A type confusion vulnerability can occur when manipulating JavaScript objects due to issues in Array.pop. This can allow for an exploitable crash. We are aware of targeted attacks in the wild abusing this flaw. This vulnerability affects Firefox ESR < 60.7.1, Firefox < 67.0.3, and Thunderbird < 60.7.2.
+- [Live-Hack-CVE/CVE-2019-11707](https://github.com/Live-Hack-CVE/CVE-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11707">
+- [tunnelshade/cve-2019-11707](https://github.com/tunnelshade/cve-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/tunnelshade/cve-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/tunnelshade/cve-2019-11707">
+- [vigneshsrao/CVE-2019-11707](https://github.com/vigneshsrao/CVE-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/vigneshsrao/CVE-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/vigneshsrao/CVE-2019-11707">
+
+---
 ## CVE-2019-11510 (2019-05-08T17:29:00)
 > In Pulse Secure Pulse Connect Secure (PCS) 8.2 before 8.2R12.1, 8.3 before 8.3R7.1, and 9.0 before 9.0R3.4, an unauthenticated remote attacker can send a specially crafted URI to perform an arbitrary file reading vulnerability .
 - [trhacknon/CVE-2019-11510](https://github.com/trhacknon/CVE-2019-11510)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2019-11510">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2019-11510">
@@ -2623,6 +2665,11 @@
 ## CVE-2019-10067 (2019-05-22T00:29:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 7.x through 7.0.6 and Community Edition 5.0.x through 5.0.35 and 6.0.x through 6.0.17. An attacker who is logged into OTRS as an agent user with appropriate permissions may manipulate the URL to cause execution of JavaScript in the context of OTRS.
 - [Live-Hack-CVE/CVE-2019-10067](https://github.com/Live-Hack-CVE/CVE-2019-10067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10067">
+
+---
+## CVE-2019-0988 (2019-06-12T14:29:00)
+> A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka 'Scripting Engine Memory Corruption Vulnerability'. This CVE ID is unique from CVE-2019-0920, CVE-2019-1005, CVE-2019-1055, CVE-2019-1080.
+- [Live-Hack-CVE/CVE-2019-0988](https://github.com/Live-Hack-CVE/CVE-2019-0988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0988">
 
 ---
 ## CVE-2019-0845 (2019-04-09T21:29:00)
