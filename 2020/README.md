@@ -588,6 +588,16 @@
 - [Live-Hack-CVE/CVE-2020-7112](https://github.com/Live-Hack-CVE/CVE-2020-7112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7112">
 
 ---
+## CVE-2020-7108 (2020-01-16T05:15:00)
+> The LearnDash LMS plugin before 3.1.2 for WordPress allows XSS via the ld-profile search field.
+- [Live-Hack-CVE/CVE-2020-7108](https://github.com/Live-Hack-CVE/CVE-2020-7108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7108">
+
+---
+## CVE-2020-7105 (2020-01-16T04:15:00)
+> async.c and dict.c in libhiredis.a in hiredis through 0.14.0 allow a NULL pointer dereference because malloc return values are unchecked.
+- [Live-Hack-CVE/CVE-2020-7105](https://github.com/Live-Hack-CVE/CVE-2020-7105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7105">
+
+---
 ## CVE-2020-7071 (2021-02-15T04:15:00)
 > In PHP versions 7.3.x below 7.3.26, 7.4.x below 7.4.14 and 8.0.0, when validating URL with functions like filter_var($url, FILTER_VALIDATE_URL), PHP will accept an URL with invalid password as valid URL. This may lead to functions that rely on URL being valid to mis-parse the URL and produce wrong data as components of the URL.
 - [Live-Hack-CVE/CVE-2020-7071](https://github.com/Live-Hack-CVE/CVE-2020-7071)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7071">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7071">
@@ -3192,6 +3202,11 @@
 ## CVE-2020-1771 (2020-03-27T13:15:00)
 > Attacker is able craft an article with a link to the customer address book with malicious content (JavaScript). When agent opens the link, JavaScript code is executed due to the missing parameter encoding. This issue affects: ((OTRS)) Community Edition: 6.0.26 and prior versions. OTRS: 7.0.15 and prior versions.
 - [Live-Hack-CVE/CVE-2020-1771](https://github.com/Live-Hack-CVE/CVE-2020-1771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1771">
+
+---
+## CVE-2020-1767 (2020-01-10T15:15:00)
+> Agent A is able to save a draft (i.e. for customer reply). Then Agent B can open the draft, change the text completely and send it in the name of Agent A. For the customer it will not be visible that the message was sent by another agent. This issue affects: ((OTRS)) Community Edition 6.0.x version 6.0.24 and prior versions. OTRS 7.0.x version 7.0.13 and prior versions.
+- [Live-Hack-CVE/CVE-2020-1767](https://github.com/Live-Hack-CVE/CVE-2020-1767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1767">
 
 ---
 ## CVE-2020-1756 (2022-08-16T21:15:00)

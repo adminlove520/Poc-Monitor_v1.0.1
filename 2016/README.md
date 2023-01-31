@@ -566,6 +566,16 @@
 ## CVE-2016-4279 (2016-09-14T18:59:00)
 > Use-after-free vulnerability in Adobe Flash Player before 18.0.0.375 and 19.x through 23.x before 23.0.0.162 on Windows and OS X and before 11.2.202.635 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4272, CVE-2016-6921, CVE-2016-6923, CVE-2016-6925, CVE-2016-6926, CVE-2016-6927, CVE-2016-6929, CVE-2016-6930, CVE-2016-6931, and CVE-2016-6932.
 - [Live-Hack-CVE/CVE-2016-4279](https://github.com/Live-Hack-CVE/CVE-2016-4279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4279">
+- [Live-Hack-CVE/CVE-2016-6929](https://github.com/Live-Hack-CVE/CVE-2016-6929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6929">
+- [Live-Hack-CVE/CVE-2016-6930](https://github.com/Live-Hack-CVE/CVE-2016-6930)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6930">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6930">
+- [Live-Hack-CVE/CVE-2016-6921](https://github.com/Live-Hack-CVE/CVE-2016-6921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6921">
+- [Live-Hack-CVE/CVE-2016-6932](https://github.com/Live-Hack-CVE/CVE-2016-6932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6932">
+- [Live-Hack-CVE/CVE-2016-4272](https://github.com/Live-Hack-CVE/CVE-2016-4272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4272">
+- [Live-Hack-CVE/CVE-2016-6923](https://github.com/Live-Hack-CVE/CVE-2016-6923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6923">
+- [Live-Hack-CVE/CVE-2016-6925](https://github.com/Live-Hack-CVE/CVE-2016-6925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6925">
+- [Live-Hack-CVE/CVE-2016-6926](https://github.com/Live-Hack-CVE/CVE-2016-6926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6926">
+- [Live-Hack-CVE/CVE-2016-6927](https://github.com/Live-Hack-CVE/CVE-2016-6927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6927">
+- [Live-Hack-CVE/CVE-2016-6931](https://github.com/Live-Hack-CVE/CVE-2016-6931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6931">
 
 ---
 ## CVE-2016-4277 (2016-09-14T18:59:00)
@@ -1036,6 +1046,11 @@
 ## CVE-2016-1583 (2016-06-27T10:59:00)
 > The ecryptfs_privileged_open function in fs/ecryptfs/kthread.c in the Linux kernel before 4.6.3 allows local users to gain privileges or cause a denial of service (stack memory consumption) via vectors involving crafted mmap calls for /proc pathnames, leading to recursive pagefault handling.
 - [Live-Hack-CVE/CVE-2016-1583](https://github.com/Live-Hack-CVE/CVE-2016-1583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1583">
+
+---
+## CVE-2016-15023 (2023-01-31T20:15:00)
+> A vulnerability, which was classified as problematic, was found in SiteFusion Application Server up to 6.6.6. This affects an unknown part of the file getextension.php of the component Extension Handler. The manipulation leads to path traversal. Upgrading to version 6.6.7 is able to address this issue. The name of the patch is 49fff155c303d6cd06ce8f97bba56c9084bf08ac. It is recommended to upgrade the affected component. The identifier VDB-219765 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2016-15023](https://github.com/Live-Hack-CVE/CVE-2016-15023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15023">
 
 ---
 ## CVE-2016-15022 (2023-01-29T19:15:00)

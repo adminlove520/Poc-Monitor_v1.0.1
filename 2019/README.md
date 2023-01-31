@@ -1159,6 +1159,11 @@
 - [Live-Hack-CVE/CVE-2019-3692](https://github.com/Live-Hack-CVE/CVE-2019-3692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3692">
 
 ---
+## CVE-2019-3691 (2020-01-23T16:15:00)
+> A Symbolic Link (Symlink) Following vulnerability in the packaging of munge in SUSE Linux Enterprise Server 15; openSUSE Factory allowed local attackers to escalate privileges from user munge to root. This issue affects: SUSE Linux Enterprise Server 15 munge versions prior to 0.5.13-4.3.1. openSUSE Factory munge versions prior to 0.5.13-6.1.
+- [Live-Hack-CVE/CVE-2019-3691](https://github.com/Live-Hack-CVE/CVE-2019-3691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3691">
+
+---
 ## CVE-2019-3638 (2019-09-12T16:15:00)
 > Reflected Cross Site Scripting vulnerability in Administrators web console in McAfee Web Gateway (MWG) 7.8.x prior to 7.8.2.13 allows remote attackers to collect sensitive information or execute commands with the MWG administrator's credentials via tricking the administrator to click on a carefully constructed malicious link.
 - [Live-Hack-CVE/CVE-2019-3638](https://github.com/Live-Hack-CVE/CVE-2019-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3638">
@@ -1428,9 +1433,19 @@
 - [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
 
 ---
+## CVE-2019-20387 (2020-01-21T23:15:00)
+> repodata_schema2id in repodata.c in libsolv before 0.7.6 has a heap-based buffer over-read via a last schema whose length is less than the length of the input schema.
+- [Live-Hack-CVE/CVE-2019-20387](https://github.com/Live-Hack-CVE/CVE-2019-20387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20387">
+
+---
 ## CVE-2019-20382 (2020-03-05T19:15:00)
 > QEMU 4.1.0 has a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c during a VNC disconnect operation because libz is misused, resulting in a situation where memory allocated in deflateInit2 is not freed in deflateEnd.
 - [Live-Hack-CVE/CVE-2019-20382](https://github.com/Live-Hack-CVE/CVE-2019-20382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20382">
+
+---
+## CVE-2019-20361 (2020-01-08T06:15:00)
+> There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability).
+- [Live-Hack-CVE/CVE-2019-20361](https://github.com/Live-Hack-CVE/CVE-2019-20361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20361">
 
 ---
 ## CVE-2019-20330 (2020-01-03T04:15:00)
@@ -1625,6 +1640,21 @@
 - [Live-Hack-CVE/CVE-2019-19650](https://github.com/Live-Hack-CVE/CVE-2019-19650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19650">
 
 ---
+## CVE-2019-19585 (2020-01-06T20:15:00)
+> An issue was discovered in rConfig 3.9.3. The install script updates the /etc/sudoers file for rconfig specific tasks. After an "rConfig specific Apache configuration" update, apache has high privileges for some binaries. This can be exploited by an attacker to bypass local security restrictions.
+- [Live-Hack-CVE/CVE-2019-19585](https://github.com/Live-Hack-CVE/CVE-2019-19585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19585">
+
+---
+## CVE-2019-19547 (2020-01-13T16:15:00)
+> Symantec Endpoint Detection and Response (SEDR), prior to 4.3.0, may be susceptible to a cross site scripting (XSS) issue. XSS is a type of issue that can enable attackers to inject client-side scripts into web pages viewed by other users. An XSS vulnerability may be used by attackers to potentially bypass access controls such as the same-origin policy.
+- [Live-Hack-CVE/CVE-2019-19547](https://github.com/Live-Hack-CVE/CVE-2019-19547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19547">
+
+---
+## CVE-2019-19509 (2020-01-06T20:15:00)
+> An issue was discovered in rConfig 3.9.3. A remote authenticated user can directly execute system commands by sending a GET request to ajaxArchiveFiles.php because the path parameter is passed to the exec function without filtering, which can lead to command execution.
+- [Live-Hack-CVE/CVE-2019-19509](https://github.com/Live-Hack-CVE/CVE-2019-19509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19509">
+
+---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">
@@ -1680,6 +1710,11 @@
 ## CVE-2019-18860 (2020-03-20T21:15:00)
 > Squid before 4.9, when certain web browsers are used, mishandles HTML in the host (aka hostname) parameter to cachemgr.cgi.
 - [Live-Hack-CVE/CVE-2019-18860](https://github.com/Live-Hack-CVE/CVE-2019-18860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18860">
+
+---
+## CVE-2019-18859 (2020-01-09T21:15:00)
+> Digi AnywhereUSB 14 allows XSS via a link for the Digi Page.
+- [Live-Hack-CVE/CVE-2019-18859](https://github.com/Live-Hack-CVE/CVE-2019-18859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18859">
 
 ---
 ## CVE-2019-18845 (2019-11-09T18:15:00)
@@ -1862,6 +1897,11 @@
 > There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
+
+---
+## CVE-2019-17190 (2020-01-27T16:15:00)
+> A Local Privilege Escalation issue was discovered in Avast Secure Browser 76.0.1659.101. The vulnerability is due to an insecure ACL set by the AvastBrowserUpdate.exe (which is running as NT AUTHORITY\SYSTEM) when AvastSecureBrowser.exe checks for new updates. When the update check is triggered, the elevated process cleans the ACL of the Update.ini file in %PROGRAMDATA%\Avast Software\Browser\Update\ and sets all privileges to group Everyone. Because any low-privileged user can create, delete, or modify the Update.ini file stored in this location, an attacker with low privileges can create a hard link named Update.ini in this folder, and make it point to a file writable by NT AUTHORITY\SYSTEM. Once AvastBrowserUpdate.exe is triggered by the update check functionality, the DACL is set to a misconfigured value on the crafted Update.ini and, consequently, to the target file that was previously not writable by the low-privileged attacker.
+- [Live-Hack-CVE/CVE-2019-17190](https://github.com/Live-Hack-CVE/CVE-2019-17190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17190">
 
 ---
 ## CVE-2019-17060 (2020-02-10T21:51:00)
@@ -2074,6 +2114,11 @@
 - [Live-Hack-CVE/CVE-2019-14842](https://github.com/Live-Hack-CVE/CVE-2019-14842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14842">
 
 ---
+## CVE-2019-14834 (2020-01-07T17:15:00)
+> A vulnerability was found in dnsmasq before version 2.81, where the memory leak allows remote attackers to cause a denial of service (memory consumption) via vectors involving DHCP response creation.
+- [Live-Hack-CVE/CVE-2019-14834](https://github.com/Live-Hack-CVE/CVE-2019-14834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14834">
+
+---
 ## CVE-2019-14824 (2019-11-08T15:15:00)
 > A flaw was found in the 'deref' plugin of 389-ds-base where it could use the 'search' permission to display attribute values. In some configurations, this could allow an authenticated attacker to view private attributes, such as password hashes.
 - [Live-Hack-CVE/CVE-2019-14824](https://github.com/Live-Hack-CVE/CVE-2019-14824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14824">
@@ -2149,6 +2194,11 @@
 ## CVE-2019-14369 (2019-07-28T19:15:00)
 > Exiv2::PngImage::readMetadata() in pngimage.cpp in Exiv2 0.27.99.0 allows attackers to cause a denial of service (heap-based buffer over-read) via a crafted image file.
 - [Live-Hack-CVE/CVE-2019-14369](https://github.com/Live-Hack-CVE/CVE-2019-14369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14369">
+
+---
+## CVE-2019-14322 (2019-07-28T13:15:00)
+> In Pallets Werkzeug before 0.15.5, SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames.
+- [Live-Hack-CVE/CVE-2019-14322](https://github.com/Live-Hack-CVE/CVE-2019-14322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14322">
 
 ---
 ## CVE-2019-14287 (2019-10-17T18:15:00)

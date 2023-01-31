@@ -336,6 +336,11 @@
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
 
 ---
+## CVE-2018-3914 (2018-09-21T15:29:00)
+> An exploitable stack-based buffer overflow vulnerability exists in the retrieval of database fields in the video-core HTTP server of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The strcpy call overflows the destination buffer, which has a size of 2000 bytes. An attacker can send an arbitrarily long "sessionToken" value in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3914](https://github.com/Live-Hack-CVE/CVE-2018-3914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3914">
+
+---
 ## CVE-2018-3856 (2018-08-23T22:29:00)
 > An exploitable vulnerability exists in the smart cameras RTSP configuration of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The device incorrectly handles spaces in the URL field, leading to an arbitrary operating system command injection. An attacker can send a series of HTTP requests to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2018-3856](https://github.com/Live-Hack-CVE/CVE-2018-3856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3856">
