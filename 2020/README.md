@@ -259,12 +259,22 @@
 - [Live-Hack-CVE/CVE-2020-8193](https://github.com/Live-Hack-CVE/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8193">
 
 ---
+## CVE-2020-8184 (2020-06-19T17:15:00)
+> A reliance on cookies without validation/integrity check security vulnerability exists in rack < 2.2.3, rack < 2.1.4 that makes it is possible for an attacker to forge a secure or host-only cookie prefix.
+- [Live-Hack-CVE/CVE-2020-8184](https://github.com/Live-Hack-CVE/CVE-2020-8184)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8184">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8184">
+
+---
 ## CVE-2020-8163 (2020-07-02T19:15:00)
 > The is a code injection vulnerability in versions of Rails prior to 5.0.1 that wouldallow an attacker who controlled the `locals` argument of a `render` call to perform a RCE.
 - [lucasallan/CVE-2020-8163](https://github.com/lucasallan/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/lucasallan/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/lucasallan/CVE-2020-8163">
 - [TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/TKLinux966/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/TKLinux966/CVE-2020-8163">
 - [h4ms1k/CVE-2020-8163](https://github.com/h4ms1k/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/h4ms1k/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/h4ms1k/CVE-2020-8163">
 - [qazbnm456/CVE-2020-8163](https://github.com/qazbnm456/CVE-2020-8163)	<img alt="forks" src="https://img.shields.io/github/forks/qazbnm456/CVE-2020-8163">	<img alt="stars" src="https://img.shields.io/github/stars/qazbnm456/CVE-2020-8163">
+
+---
+## CVE-2020-8161 (2020-07-02T19:15:00)
+> A directory traversal vulnerability exists in rack < 2.2.0 that allows an attacker perform directory traversal vulnerability in the Rack::Directory app that is bundled with Rack which could result in information disclosure.
+- [Live-Hack-CVE/CVE-2020-8161](https://github.com/Live-Hack-CVE/CVE-2020-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8161">
 
 ---
 ## CVE-2020-8026 (2020-08-07T10:15:00)
