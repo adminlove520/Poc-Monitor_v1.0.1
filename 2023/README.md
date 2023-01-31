@@ -515,6 +515,11 @@
 - [Live-Hack-CVE/CVE-2023-22617](https://github.com/Live-Hack-CVE/CVE-2023-22617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22617">
 
 ---
+## CVE-2023-22610 (2023-01-31T17:15:00)
+> A CWE-285: Improper Authorization vulnerability exists that could cause Denial of Service against the Geo SCADA server when specific messages are sent to the server over the database server TCP port. Affected Products: EcoStruxure™ Geo SCADA Expert 2019, EcoStruxure™ Geo SCADA Expert 2020, EcoStruxure™ Geo SCADA Expert 2021 (All versions prior to October 2022), ClearSCADA (All Versions).
+- [Live-Hack-CVE/CVE-2023-22610](https://github.com/Live-Hack-CVE/CVE-2023-22610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22610">
+
+---
 ## CVE-2023-22602 (2023-01-14T10:15:00)
 > When using Apache Shiro before 1.11.0 together with Spring Boot 2.6+, a specially crafted HTTP request may cause an authentication bypass. The authentication bypass occurs when Shiro and Spring Boot are using different pattern-matching techniques. Both Shiro and Spring Boot < 2.6 default to Ant style pattern matching. Mitigation: Update to Apache Shiro 1.11.0, or set the following Spring Boot configuration value: `spring.mvc.pathmatch.matching-strategy = ant_path_matcher`
 - [Live-Hack-CVE/CVE-2023-22602](https://github.com/Live-Hack-CVE/CVE-2023-22602)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22602">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22602">
