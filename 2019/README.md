@@ -1446,6 +1446,7 @@
 ## CVE-2019-20361 (2020-01-08T06:15:00)
 > There was a flaw in the WordPress plugin, Email Subscribers & Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability).
 - [Live-Hack-CVE/CVE-2019-20361](https://github.com/Live-Hack-CVE/CVE-2019-20361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20361">
+- [jerrylewis9/CVE-2019-20361-EXPLOIT](https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/jerrylewis9/CVE-2019-20361-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/jerrylewis9/CVE-2019-20361-EXPLOIT">
 
 ---
 ## CVE-2019-20330 (2020-01-03T04:15:00)
