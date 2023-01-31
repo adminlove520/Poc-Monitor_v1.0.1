@@ -897,6 +897,11 @@
 - [Live-Hack-CVE/CVE-2020-5395](https://github.com/Live-Hack-CVE/CVE-2020-5395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5395">
 
 ---
+## CVE-2020-5387 (2020-10-01T20:15:00)
+> Dell XPS 13 9370 BIOS versions prior to 1.13.1 contains an Improper Exception Handling vulnerability. A local attacker with physical access could exploit this vulnerability to prevent the system from booting until the exploited boot device is removed.
+- [Live-Hack-CVE/CVE-2020-5387](https://github.com/Live-Hack-CVE/CVE-2020-5387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5387">
+
+---
 ## CVE-2020-5355 (2022-10-21T18:15:00)
 > The Dell Isilon OneFS versions 8.2.2 and earlier SSHD process improperly allows Transmission Control Protocol (TCP) and stream forwarding. This provides the remotesupport user and users with restricted shells more access than is intended.
 - [Live-Hack-CVE/CVE-2020-5355](https://github.com/Live-Hack-CVE/CVE-2020-5355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5355">
@@ -2051,6 +2056,11 @@
 - [Live-Hack-CVE/CVE-2020-27652](https://github.com/Live-Hack-CVE/CVE-2020-27652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27652">
 
 ---
+## CVE-2020-27619 (2020-10-22T03:16:00)
+> In Python 3 through 3.9.0, the Lib/test/multibytecodec_support.py CJK codec tests call eval() on content retrieved via HTTP.
+- [Live-Hack-CVE/CVE-2020-27619](https://github.com/Live-Hack-CVE/CVE-2020-27619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27619">
+
+---
 ## CVE-2020-27618 (2021-02-26T23:15:00)
 > The iconv function in the GNU C Library (aka glibc or libc6) 2.32 and earlier, when processing invalid multi-byte input sequences in IBM1364, IBM1371, IBM1388, IBM1390, and IBM1399 encodings, fails to advance the input state, which could lead to an infinite loop in applications, resulting in a denial of service, a different vulnerability from CVE-2016-10228.
 - [Live-Hack-CVE/CVE-2020-27618](https://github.com/Live-Hack-CVE/CVE-2020-27618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27618">
@@ -2151,6 +2161,11 @@
 - [Live-Hack-CVE/CVE-2020-26938](https://github.com/Live-Hack-CVE/CVE-2020-26938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26938">
 
 ---
+## CVE-2020-26935 (2020-10-10T19:15:00)
+> An issue was discovered in SearchController in phpMyAdmin before 4.9.6 and 5.x before 5.0.3. A SQL injection vulnerability was discovered in how phpMyAdmin processes SQL statements in the search feature. An attacker could use this flaw to inject malicious SQL in to a query.
+- [Live-Hack-CVE/CVE-2020-26935](https://github.com/Live-Hack-CVE/CVE-2020-26935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26935">
+
+---
 ## CVE-2020-2688 (2020-01-15T17:15:00)
 > Vulnerability in the Oracle Financial Services Analytical Applications Infrastructure product of Oracle Financial Services Applications (component: Object Migration). Supported versions that are affected are 8.0.4-8.0.8. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Financial Services Analytical Applications Infrastructure. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle Financial Services Analytical Applications Infrastructure accessible data as well as unauthorized update, insert or delete access to some of Oracle Financial Services Analytical Applications Infrastructure accessible data. CVSS 3.0 Base Score 7.1 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:L/A:N).
 - [Live-Hack-CVE/CVE-2020-2688](https://github.com/Live-Hack-CVE/CVE-2020-2688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2688">
@@ -2197,6 +2212,11 @@
 ## CVE-2020-26732 (2021-01-14T16:15:00)
 > Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.
 - [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732">
+
+---
+## CVE-2020-26566 (2020-10-26T18:15:00)
+> A Denial of Service condition in Motion-Project Motion 3.2 through 4.3.1 allows remote unauthenticated users to cause a webu.c segmentation fault and kill the main process via a crafted HTTP request.
+- [Live-Hack-CVE/CVE-2020-26566](https://github.com/Live-Hack-CVE/CVE-2020-26566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26566">
 
 ---
 ## CVE-2020-2656 (2020-01-15T17:15:00)
@@ -2304,9 +2324,24 @@
 - [Live-Hack-CVE/CVE-2020-2617](https://github.com/Live-Hack-CVE/CVE-2020-2617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2617">
 
 ---
+## CVE-2020-26164 (2020-10-07T19:15:00)
+> In kdeconnect-kde (aka KDE Connect) before 20.08.2, an attacker on the local network could send crafted packets that trigger use of large amounts of CPU, memory, or network connection slots, aka a Denial of Service attack.
+- [Live-Hack-CVE/CVE-2020-26164](https://github.com/Live-Hack-CVE/CVE-2020-26164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26164">
+
+---
+## CVE-2020-26154 (2020-09-30T18:15:00)
+> url.cpp in libproxy through 0.4.15 is prone to a buffer overflow when PAC is enabled, as demonstrated by a large PAC file that is delivered without a Content-length header.
+- [Live-Hack-CVE/CVE-2020-26154](https://github.com/Live-Hack-CVE/CVE-2020-26154)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26154">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26154">
+
+---
 ## CVE-2020-26140 (2021-05-11T20:15:00)
 > An issue was discovered in the ALFA Windows 10 driver 6.1316.1209 for AWUS036H. The WEP, WPA, WPA2, and WPA3 implementations accept plaintext frames in a protected Wi-Fi network. An adversary can abuse this to inject arbitrary data frames independent of the network configuration.
 - [Live-Hack-CVE/CVE-2020-26140](https://github.com/Live-Hack-CVE/CVE-2020-26140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26140">
+
+---
+## CVE-2020-26137 (2020-09-30T18:15:00)
+> urllib3 before 1.25.9 allows CRLF injection if the attacker controls the HTTP request method, as demonstrated by inserting CR and LF control characters in the first argument of putrequest(). NOTE: this is similar to CVE-2020-26116.
+- [Live-Hack-CVE/CVE-2020-26137](https://github.com/Live-Hack-CVE/CVE-2020-26137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26137">
 
 ---
 ## CVE-2020-2604 (2020-01-15T17:15:00)
@@ -3470,6 +3505,11 @@
 - [Live-Hack-CVE/CVE-2020-16287](https://github.com/Live-Hack-CVE/CVE-2020-16287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16287">
 
 ---
+## CVE-2020-16242 (2020-09-25T18:15:00)
+> The affected Reason S20 Ethernet Switch is vulnerable to cross-site scripting (XSS), which may allow an attacker to trick application users into performing critical application actions that include, but are not limited to, adding and updating accounts.
+- [Live-Hack-CVE/CVE-2020-16242](https://github.com/Live-Hack-CVE/CVE-2020-16242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16242">
+
+---
 ## CVE-2020-16213 (2020-08-06T19:15:00)
 > Advantech WebAccess HMI Designer, Versions 2.1.9.31 and prior. Processing specially crafted project files lacking proper validation of user supplied data may cause the system to write outside the intended buffer area, which may allow remote code execution, disclosure/modification of information, or cause the application to crash.
 - [Live-Hack-CVE/CVE-2020-16213](https://github.com/Live-Hack-CVE/CVE-2020-16213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16213">
@@ -4026,6 +4066,11 @@
 ## CVE-2020-13948 (2020-09-17T13:15:00)
 > While investigating a bug report on Apache Superset, it was determined that an authenticated user could craft requests via a number of templated text fields in the product that would allow arbitrary access to Python’s `os` package in the web application process in versions < 0.37.1. It was thus possible for an authenticated user to list and access files, environment variables, and process information. Additionally it was possible to set environment variables for the current process, create and update files in folders writable by the web process, and execute arbitrary programs accessible by the web process. All other operations available to the `os` package in Python were also available, even if not explicitly enumerated in this CVE.
 - [Live-Hack-CVE/CVE-2020-13948](https://github.com/Live-Hack-CVE/CVE-2020-13948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13948">
+
+---
+## CVE-2020-13943 (2020-10-12T14:15:00)
+> If an HTTP/2 client connecting to Apache Tomcat 10.0.0-M1 to 10.0.0-M7, 9.0.0.M1 to 9.0.37 or 8.5.0 to 8.5.57 exceeded the agreed maximum number of concurrent streams for a connection (in violation of the HTTP/2 protocol), it was possible that a subsequent request made on that connection could contain HTTP headers - including HTTP/2 pseudo headers - from a previous request rather than the intended headers. This could lead to users seeing responses for unexpected resources.
+- [Live-Hack-CVE/CVE-2020-13943](https://github.com/Live-Hack-CVE/CVE-2020-13943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13943">
 
 ---
 ## CVE-2020-13937 (2020-10-19T21:15:00)

@@ -17,6 +17,11 @@
 - [Live-Hack-CVE/CVE-2019-9947](https://github.com/Live-Hack-CVE/CVE-2019-9947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9947">
 
 ---
+## CVE-2019-9921 (2019-03-29T15:29:00)
+> An issue was discovered in the Harmis JE Messenger component 1.2.2 for Joomla!. It is possible to read information that should only be accessible by a different user.
+- [Live-Hack-CVE/CVE-2019-9921](https://github.com/Live-Hack-CVE/CVE-2019-9921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9921">
+
+---
 ## CVE-2019-9892 (2019-05-22T00:29:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 5.x through 5.0.34, 6.x through 6.0.17, and 7.x through 7.0.6. An attacker who is logged into OTRS as an agent user with appropriate permissions may try to import carefully crafted Report Statistics XML that will result in reading of arbitrary files on the OTRS filesystem.
 - [Live-Hack-CVE/CVE-2019-9892](https://github.com/Live-Hack-CVE/CVE-2019-9892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9892">
@@ -641,6 +646,31 @@
 - [GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736](https://github.com/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736)	<img alt="forks" src="https://img.shields.io/github/forks/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">	<img alt="stars" src="https://img.shields.io/github/stars/GiovanniCrudo00/Docker-Vulnerabilities-CVE-2019-5736">
 
 ---
+## CVE-2019-5612 (2019-08-30T09:15:00)
+> In FreeBSD 12.0-STABLE before r351264, 12.0-RELEASE before 12.0-RELEASE-p10, 11.3-STABLE before r351265, 11.3-RELEASE before 11.3-RELEASE-p3, and 11.2-RELEASE before 11.2-RELEASE-p14, the kernel driver for /dev/midistat implements a read handler that is not thread-safe. A multi-threaded program can exploit races in the handler to copy out kernel memory outside the boundaries of midistat's data buffer.
+- [Live-Hack-CVE/CVE-2019-5612](https://github.com/Live-Hack-CVE/CVE-2019-5612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5612">
+
+---
+## CVE-2019-5611 (2019-08-30T09:15:00)
+> In FreeBSD 12.0-STABLE before r350828, 12.0-RELEASE before 12.0-RELEASE-p10, 11.3-STABLE before r350829, 11.3-RELEASE before 11.3-RELEASE-p3, and 11.2-RELEASE before 11.2-RELEASE-p14, a missing check in the function to arrange data in a chain of mbufs could cause data returned not to be contiguous. Extra checks in the IPv6 stack could catch the error condition and trigger a kernel panic, leading to a remote denial of service.
+- [Live-Hack-CVE/CVE-2019-5611](https://github.com/Live-Hack-CVE/CVE-2019-5611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5611">
+
+---
+## CVE-2019-5610 (2019-08-30T09:15:00)
+> In FreeBSD 12.0-STABLE before r350637, 12.0-RELEASE before 12.0-RELEASE-p9, 11.3-STABLE before r350638, 11.3-RELEASE before 11.3-RELEASE-p2, and 11.2-RELEASE before 11.2-RELEASE-p13, the bsnmp library is not properly validating the submitted length from a type-length-value encoding. A remote user could cause an out-of-bounds read or trigger a crash of the software such as bsnmpd resulting in a denial of service.
+- [Live-Hack-CVE/CVE-2019-5610](https://github.com/Live-Hack-CVE/CVE-2019-5610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5610">
+
+---
+## CVE-2019-5609 (2019-08-30T09:15:00)
+> In FreeBSD 12.0-STABLE before r350619, 12.0-RELEASE before 12.0-RELEASE-p9, 11.3-STABLE before r350619, 11.3-RELEASE before 11.3-RELEASE-p2, and 11.2-RELEASE before 11.2-RELEASE-p13, the bhyve e1000 device emulation used a guest-provided value to determine the size of the on-stack buffer without validation when TCP segmentation offload is requested for a transmitted packet. A misbehaving bhyve guest could overwrite memory in the bhyve process on the host.
+- [Live-Hack-CVE/CVE-2019-5609](https://github.com/Live-Hack-CVE/CVE-2019-5609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5609">
+
+---
+## CVE-2019-5608 (2019-08-30T09:15:00)
+> In FreeBSD 12.0-STABLE before r350648, 12.0-RELEASE before 12.0-RELEASE-p9, 11.3-STABLE before r350650, 11.3-RELEASE before 11.3-RELEASE-p2, and 11.2-RELEASE before 11.2-RELEASE-p13, the ICMPv6 input path incorrectly handles cases where an MLDv2 listener query packet is internally fragmented across multiple mbufs. A remote attacker may be able to cause an out-of-bounds read or write that may cause the kernel to attempt to access an unmapped page and subsequently panic.
+- [Live-Hack-CVE/CVE-2019-5608](https://github.com/Live-Hack-CVE/CVE-2019-5608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5608">
+
+---
 ## CVE-2019-5477 (2019-08-16T16:15:00)
 > A command injection vulnerability in Nokogiri v1.10.3 and earlier allows commands to be executed in a subprocess via Ruby's `Kernel.open` method. Processes are vulnerable only if the undocumented method `Nokogiri::CSS::Tokenizer#load_file` is being called with unsafe user input as the filename. This vulnerability appears in code generated by the Rexical gem versions v1.0.6 and earlier. Rexical is used by Nokogiri to generate lexical scanner code for parsing CSS queries. The underlying vulnerability was addressed in Rexical v1.0.7 and Nokogiri upgraded to this version of Rexical in Nokogiri v1.10.4.
 - [Live-Hack-CVE/CVE-2019-5477](https://github.com/Live-Hack-CVE/CVE-2019-5477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5477">
@@ -792,6 +822,11 @@
 - [Live-Hack-CVE/CVE-2019-4477](https://github.com/Live-Hack-CVE/CVE-2019-4477)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4477">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4477">
 
 ---
+## CVE-2019-4473 (2019-08-05T14:15:00)
+> Multiple binaries in IBM SDK, Java Technology Edition 7, 7R, and 8 on the AIX platform use insecure absolute RPATHs, which may facilitate code injection and privilege elevation by local users. IBM X-Force ID: 163984.
+- [Live-Hack-CVE/CVE-2019-4473](https://github.com/Live-Hack-CVE/CVE-2019-4473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4473">
+
+---
 ## CVE-2019-4456 (2019-07-30T14:15:00)
 > IBM Daeja ViewONE Professional, Standard & Virtual 5.0.5 and 5.0.6 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 163620.
 - [Live-Hack-CVE/CVE-2019-4456](https://github.com/Live-Hack-CVE/CVE-2019-4456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4456">
@@ -823,6 +858,11 @@
 - [Live-Hack-CVE/CVE-2019-4384](https://github.com/Live-Hack-CVE/CVE-2019-4384)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4384">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4384">
 
 ---
+## CVE-2019-4383 (2019-07-01T15:15:00)
+> When using IBM Spectrum Protect Plus 10.1.0, 10.1.2, and 10.1.3 to protect Oracle or MongoDB databases, a redirected restore operation may result in an escalation of user privileges. IBM X-Force ID: 162165.
+- [Live-Hack-CVE/CVE-2019-4383](https://github.com/Live-Hack-CVE/CVE-2019-4383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4383">
+
+---
 ## CVE-2019-4382 (2019-06-25T16:15:00)
 > IBM API Connect 5.0.0.0 through 5.0.8.6 could allow an unauthorized user to obtain sensitive information about the system users using specially crafted HTTP requests. IBM X-Force ID: 162162.
 - [Live-Hack-CVE/CVE-2019-4382](https://github.com/Live-Hack-CVE/CVE-2019-4382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4382">
@@ -841,6 +881,26 @@
 ## CVE-2019-4343 (2019-12-30T16:15:00)
 > IBM Cognos Analytics 11.0 and 11.1 allows overly permissive cross-origin resource sharing which could allow an attacker to transfer private information. An attacker could exploit this vulnerability to access content that should be restricted. IBM X-Force ID: 161422.
 - [Live-Hack-CVE/CVE-2019-4343](https://github.com/Live-Hack-CVE/CVE-2019-4343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4343">
+
+---
+## CVE-2019-4310 (2019-08-20T19:15:00)
+> IBM Security Guardium Big Data Intelligence 4.0 (SonarG) uses an inadequate account lockout setting that could allow a remote attacker to brute force account credentials. IBM X-Force ID: 161036.
+- [Live-Hack-CVE/CVE-2019-4310](https://github.com/Live-Hack-CVE/CVE-2019-4310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4310">
+
+---
+## CVE-2019-4308 (2019-08-20T19:15:00)
+> IBM Emptoris Sourcing 10.1.0 through 10.1.3, IBM Contract Management 10.1.0 through 10.1.3, and IBM Emptoris Spend Analysis 10.1.0 through 10.1.3 could allow an authenticated user to obtain sensitive information from error messages IBM X-Force ID: 161034.
+- [Live-Hack-CVE/CVE-2019-4308](https://github.com/Live-Hack-CVE/CVE-2019-4308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4308">
+
+---
+## CVE-2019-4299 (2019-07-01T15:15:00)
+> IBM Robotic Process Automation with Automation Anywhere 11 could allow a local user to obtain highly sensitive information from log files when debugging is enabled. IBM X-Force ID: 160765.
+- [Live-Hack-CVE/CVE-2019-4299](https://github.com/Live-Hack-CVE/CVE-2019-4299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4299">
+
+---
+## CVE-2019-4298 (2019-07-01T15:15:00)
+> IBM Robotic Process Automation with Automation Anywhere 11 uses a high privileged PostgreSQL account for database access which could allow a local user to perform actions they should not have privileges to execute. IBM X-Force ID: 160764.
+- [Live-Hack-CVE/CVE-2019-4298](https://github.com/Live-Hack-CVE/CVE-2019-4298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4298">
 
 ---
 ## CVE-2019-4284 (2019-08-05T14:15:00)
@@ -2201,6 +2261,9 @@
 ## CVE-2019-14322 (2019-07-28T13:15:00)
 > In Pallets Werkzeug before 0.15.5, SharedDataMiddleware mishandles drive names (such as C:) in Windows pathnames.
 - [Live-Hack-CVE/CVE-2019-14322](https://github.com/Live-Hack-CVE/CVE-2019-14322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14322">
+- [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/http-vuln-cve2019-14322.nse">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/http-vuln-cve2019-14322.nse">
+- [faisalfs10x/CVE-2019-14322-scanner](https://github.com/faisalfs10x/CVE-2019-14322-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/CVE-2019-14322-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/CVE-2019-14322-scanner">
+- [EmreOvunc/Odoo-12.0-LFI-Vulnerabilities](https://github.com/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">
 
 ---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
