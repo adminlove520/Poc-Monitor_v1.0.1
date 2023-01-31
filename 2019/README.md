@@ -1648,6 +1648,7 @@
 ## CVE-2019-19547 (2020-01-13T16:15:00)
 > Symantec Endpoint Detection and Response (SEDR), prior to 4.3.0, may be susceptible to a cross site scripting (XSS) issue. XSS is a type of issue that can enable attackers to inject client-side scripts into web pages viewed by other users. An XSS vulnerability may be used by attackers to potentially bypass access controls such as the same-origin policy.
 - [Live-Hack-CVE/CVE-2019-19547](https://github.com/Live-Hack-CVE/CVE-2019-19547)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19547">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19547">
+- [nasbench/CVE-2019-19547](https://github.com/nasbench/CVE-2019-19547)	<img alt="forks" src="https://img.shields.io/github/forks/nasbench/CVE-2019-19547">	<img alt="stars" src="https://img.shields.io/github/stars/nasbench/CVE-2019-19547">
 
 ---
 ## CVE-2019-19509 (2020-01-06T20:15:00)
