@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-24829 (2023-01-31T10:15:00)
+> Incorrect Authorization vulnerability in Apache Software Foundation Apache IoTDB.This issue affects the iotdb-web-workbench component from 0.13.0 before 0.13.3. iotdb-web-workbench is an optional component of IoTDB, providing a web console of the database. This problem is fixed from version 0.13.3 of iotdb-web-workbench onwards.
+- [Live-Hack-CVE/CVE-2023-24829](https://github.com/Live-Hack-CVE/CVE-2023-24829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24829">
+
+---
 ## CVE-2023-24623 (2023-01-30T05:15:00)
 > Paranoidhttp before 0.3.0 allows SSRF because [::] is equivalent to the 127.0.0.1 address, but does not match the filter for private addresses.
 - [Live-Hack-CVE/CVE-2023-24623](https://github.com/Live-Hack-CVE/CVE-2023-24623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24623">
@@ -367,6 +372,11 @@
 ## CVE-2023-22903 (2023-01-10T06:15:00)
 > api/views/user.py in LibrePhotos before e19e539 has incorrect access control.
 - [Live-Hack-CVE/CVE-2023-22903](https://github.com/Live-Hack-CVE/CVE-2023-22903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22903">
+
+---
+## CVE-2023-22900 (2023-01-31T08:15:00)
+> Efence login function has insufficient validation for user input. An unauthenticated remote attacker can exploit this vulnerability to inject arbitrary SQL commands to access, modify or delete database.
+- [Live-Hack-CVE/CVE-2023-22900](https://github.com/Live-Hack-CVE/CVE-2023-22900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22900">
 
 ---
 ## CVE-2023-22885 (2023-01-11T08:15:00)
@@ -1978,6 +1988,21 @@
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0593 (2023-01-31T10:15:00)
+> A path traversal vulnerability affects yaffshiv YAFFS filesystem extractor. By crafting a malicious YAFFS file, an attacker could force yaffshiv to write outside of the extraction directory. This issue affects yaffshiv up to version 0.1 included, which is the most recent at time of publication.
+- [Live-Hack-CVE/CVE-2023-0593](https://github.com/Live-Hack-CVE/CVE-2023-0593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0593">
+
+---
+## CVE-2023-0592 (2023-01-31T10:15:00)
+> A path traversal vulnerability affects jefferson's JFFS2 filesystem extractor. By crafting malicious JFFS2 files, attackers could force jefferson to write outside of the extraction directory.This issue affects jefferson: before 0.4.1.
+- [Live-Hack-CVE/CVE-2023-0592](https://github.com/Live-Hack-CVE/CVE-2023-0592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0592">
+
+---
+## CVE-2023-0591 (2023-01-31T10:15:00)
+> ubireader_extract_files is vulnerable to path traversal when run against specifically crafted UBIFS files, allowing the attacker to overwrite files outside of the extraction directory (provided the process has write access to that file or directory). This is due to the fact that a node name (dent_node.name) is considered trusted and joined to the extraction directory path during processing, then the node content is written to that joined path. By crafting a malicious UBIFS file with node names holding path traversal payloads (e.g. ../../tmp/outside.txt), it's possible to force ubi_reader to write outside of the extraction directory. This issue affects ubi-reader before 0.8.5.
+- [Live-Hack-CVE/CVE-2023-0591](https://github.com/Live-Hack-CVE/CVE-2023-0591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0591">
 
 ---
 ## CVE-2023-0572 (2023-01-29T23:15:00)
