@@ -151,6 +151,11 @@
 - [Live-Hack-CVE/CVE-2023-23924](https://github.com/Live-Hack-CVE/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23924">
 
 ---
+## CVE-2023-23846 (2023-02-01T03:15:00)
+> Due to insufficient length validation in the Open5GS GTP library versions prior to versions 2.4.13 and 2.5.7, when parsing extension headers in GPRS tunneling protocol (GPTv1-U) messages, a protocol payload with any extension header length set to zero causes an infinite loop. The affected process becomes immediately unresponsive, resulting in denial of service and excessive resource consumption. CVSS3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
+- [Live-Hack-CVE/CVE-2023-23846](https://github.com/Live-Hack-CVE/CVE-2023-23846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23846">
+
+---
 ## CVE-2023-23749 (2023-01-17T20:15:00)
 > The 'LDAP Integration with Active Directory and OpenLDAP - NTLM & Kerberos Login' extension is vulnerable to LDAP Injection since is not properly sanitizing the 'username' POST parameter. An attacker can manipulate this paramter to dump arbitrary contents form the LDAP Database.
 - [Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23749">
@@ -1960,6 +1965,11 @@
 - [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
 
 ---
+## CVE-2023-20856 (2023-02-01T03:15:00)
+> VMware vRealize Operations (vROps) contains a CSRF bypass vulnerability. A malicious user could execute actions on the vROps platform on behalf of the authenticated victim user.
+- [Live-Hack-CVE/CVE-2023-20856](https://github.com/Live-Hack-CVE/CVE-2023-20856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20856">
+
+---
 ## CVE-2023-20532 (2023-01-11T08:15:00)
 > Insufficient input validation in the SMU may allow an attacker to improperly lock resources, potentially resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2023-20532](https://github.com/Live-Hack-CVE/CVE-2023-20532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20532">
@@ -2020,6 +2030,11 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0607 (2023-02-01T04:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository projectsend/projectsend prior to r1606.
+- [Live-Hack-CVE/CVE-2023-0607](https://github.com/Live-Hack-CVE/CVE-2023-0607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0607">
+
+---
 ## CVE-2023-0593 (2023-01-31T10:15:00)
 > A path traversal vulnerability affects yaffshiv YAFFS filesystem extractor. By crafting a malicious YAFFS file, an attacker could force yaffshiv to write outside of the extraction directory. This issue affects yaffshiv up to version 0.1 included, which is the most recent at time of publication.
 - [Live-Hack-CVE/CVE-2023-0593](https://github.com/Live-Hack-CVE/CVE-2023-0593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0593">
@@ -2033,6 +2048,11 @@
 ## CVE-2023-0591 (2023-01-31T10:15:00)
 > ubireader_extract_files is vulnerable to path traversal when run against specifically crafted UBIFS files, allowing the attacker to overwrite files outside of the extraction directory (provided the process has write access to that file or directory). This is due to the fact that a node name (dent_node.name) is considered trusted and joined to the extraction directory path during processing, then the node content is written to that joined path. By crafting a malicious UBIFS file with node names holding path traversal payloads (e.g. ../../tmp/outside.txt), it's possible to force ubi_reader to write outside of the extraction directory. This issue affects ubi-reader before 0.8.5.
 - [Live-Hack-CVE/CVE-2023-0591](https://github.com/Live-Hack-CVE/CVE-2023-0591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0591">
+
+---
+## CVE-2023-0587 (2023-02-01T03:15:00)
+> A file upload vulnerability in exists in Trend Micro Apex One server build 11110. Using a malformed Content-Length header in an HTTP PUT message sent to URL /officescan/console/html/cgi/fcgiOfcDDA.exe, an unauthenticated remote attacker can upload arbitrary files to the SampleSubmission directory (i.e., \PCCSRV\TEMP\SampleSubmission) on the server. The attacker can upload a large number of large files to fill up the file system on which the Apex One server is installed.
+- [Live-Hack-CVE/CVE-2023-0587](https://github.com/Live-Hack-CVE/CVE-2023-0587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0587">
 
 ---
 ## CVE-2023-0572 (2023-01-29T23:15:00)
@@ -2165,6 +2185,11 @@
 - [Live-Hack-CVE/CVE-2023-0527](https://github.com/Live-Hack-CVE/CVE-2023-0527)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0527">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0527">
 
 ---
+## CVE-2023-0524 (2023-02-01T03:15:00)
+> As part of our Security Development Lifecycle, a potential privilege escalation issue was identified internally. This could allow a malicious actor with sufficient permissions to modify environment variables and abuse an impacted plugin in order to escalate privileges. We have resolved the issue and also made several defense-in-depth fixes alongside. While the probability of successful exploitation is low, Tenable is committed to securing our customers’ environments and our products. The updates have been distributed via the Tenable plugin feed in feed serial numbers equal to or greater than #202212212055.
+- [Live-Hack-CVE/CVE-2023-0524](https://github.com/Live-Hack-CVE/CVE-2023-0524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0524">
+
+---
 ## CVE-2023-0519 (2023-01-26T23:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository modoboa/modoboa prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0519](https://github.com/Live-Hack-CVE/CVE-2023-0519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0519">
@@ -2193,6 +2218,11 @@
 ## CVE-2023-0471 (2023-01-30T09:15:00)
 > Use after free in WebTransport in Google Chrome prior to 109.0.5414.119 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2023-0471](https://github.com/Live-Hack-CVE/CVE-2023-0471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0471">
+
+---
+## CVE-2023-0454 (2023-02-01T03:15:00)
+> OrangeScrum version 2.0.11 allows an authenticated external attacker to delete arbitrary local files from the server. This is possible because the application uses an unsanitized attacker-controlled parameter to construct an internal path.
+- [Live-Hack-CVE/CVE-2023-0454](https://github.com/Live-Hack-CVE/CVE-2023-0454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0454">
 
 ---
 ## CVE-2023-0440 (2023-01-23T14:15:00)

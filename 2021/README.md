@@ -7093,6 +7093,11 @@
 - [Live-Hack-CVE/CVE-2021-2279](https://github.com/Live-Hack-CVE/CVE-2021-2279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2279">
 
 ---
+## CVE-2021-22786 (2023-02-01T04:15:00)
+> A CWE-200: Information Exposure vulnerability exists that could cause the exposure of sensitive information stored on the memory of the controller when communicating over the Modbus TCP protocol. Affected Products: Modicon M340 CPU (part numbers BMXP34*) (Versions prior to V3.30), Modicon M580 CPU (part numbers BMEP* and BMEH*) (Versions prior to SV3.20), Modicon MC80 (BMKC80) (Versions prior to V1.6), Modicon M580 CPU Safety (part numbers BMEP58*S and BMEH58*S) (All Versions), Modicon Momentum MDI (171CBU*) (Versions prior to V2.3), Legacy Modicon Quantum (All Versions)
+- [Live-Hack-CVE/CVE-2021-22786](https://github.com/Live-Hack-CVE/CVE-2021-22786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22786">
+
+---
 ## CVE-2021-22785 (2022-02-11T18:15:00)
 > A CWE-200: Information Exposure vulnerability exists that could cause sensitive information of files located in the web root directory to leak when an attacker sends a HTTP request to the web server of the device. Affected Product: Modicon M340 CPUs: BMXP34 (Versions prior to V3.40), Modicon M340 X80 Ethernet Communication Modules: BMXNOE0100 (H), BMXNOE0110 (H), BMXNOC0401, BMXNOR0200H RTU (All Versions), Modicon Premium Processors with integrated Ethernet (Copro): TSXP574634, TSXP575634, TSXP576634 (All Versions), Modicon Quantum Processors with Integrated Ethernet (Copro): 140CPU65xxxxx (All Versions), Modicon Quantum Communication Modules: 140NOE771x1, 140NOC78x00, 140NOC77101 (All Versions), Modicon Premium Communication Modules: TSXETY4103, TSXETY5103 (All Versions)
 - [Live-Hack-CVE/CVE-2021-22785](https://github.com/Live-Hack-CVE/CVE-2021-22785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22785">
