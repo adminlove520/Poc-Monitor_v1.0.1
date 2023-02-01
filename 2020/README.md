@@ -2878,6 +2878,16 @@
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
 
 ---
+## CVE-2020-22452 (2023-01-26T21:15:00)
+> SQL Injection vulnerability in function getTableCreationQuery in CreateAddField.php in phpMyAdmin 5.x before 5.2.0 via the tbl_storage_engine or tbl_collation parameters to tbl_create.php.
+- [Live-Hack-CVE/CVE-2020-22452](https://github.com/Live-Hack-CVE/CVE-2020-22452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22452">
+
+---
+## CVE-2020-22327 (2023-01-26T21:15:00)
+> An issue was discovered in HFish 0.5.1. When a payload is inserted where the name is entered, XSS code is triggered when the administrator views the information.
+- [Live-Hack-CVE/CVE-2020-22327](https://github.com/Live-Hack-CVE/CVE-2020-22327)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22327">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22327">
+
+---
 ## CVE-2020-22201 (2021-06-16T17:15:00)
 > phpCMS 2008 sp4 allowas remote malicious users to execute arbitrary php commands via the pagesize parameter to yp/product.php.
 - [Live-Hack-CVE/CVE-2020-22201](https://github.com/Live-Hack-CVE/CVE-2020-22201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22201">

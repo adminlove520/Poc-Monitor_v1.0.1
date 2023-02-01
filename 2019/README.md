@@ -2267,6 +2267,16 @@
 - [EmreOvunc/Odoo-12.0-LFI-Vulnerabilities](https://github.com/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">
 
 ---
+## CVE-2019-14302 (2020-01-10T18:15:00)
+> On Ricoh SP C250DN 1.06 devices, a debug port can be used.
+- [Live-Hack-CVE/CVE-2019-14302](https://github.com/Live-Hack-CVE/CVE-2019-14302)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14302">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14302">
+
+---
+## CVE-2019-14301 (2020-01-10T18:15:00)
+> Ricoh SP C250DN 1.06 devices have Incorrect Access Control (issue 1 of 2).
+- [Live-Hack-CVE/CVE-2019-14301](https://github.com/Live-Hack-CVE/CVE-2019-14301)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14301">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14301">
+
+---
 ## CVE-2019-14287 (2019-10-17T18:15:00)
 > In Sudo before 1.8.28, an attacker with access to a Runas ALL sudoer account can bypass certain policy blacklists and session PAM modules, and can cause incorrect logging, by invoking sudo with a crafted user ID. For example, this allows bypass of !root configuration, and USER= logging, for a "sudo -u \#$((0xffffffff))" command.
 - [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/MariliaMeira/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/MariliaMeira/CVE-2019-14287">
@@ -2310,6 +2320,11 @@
 > Use after free in FileAPI in Google Chrome prior to 72.0.3626.81 allowed a remote attacker to potentially perform a sandbox escape via a crafted HTML page. (Chrome security severity: High)
 - [Live-Hack-CVE/CVE-2019-13768](https://github.com/Live-Hack-CVE/CVE-2019-13768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13768">
 - [ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768](https://github.com/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768)	<img alt="forks" src="https://img.shields.io/github/forks/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768">	<img alt="stars" src="https://img.shields.io/github/stars/ZwCreatePhoton/CVE-2019-5782_CVE-2019-13768">
+
+---
+## CVE-2019-13767 (2020-01-10T22:15:00)
+> Use after free in media picker in Google Chrome prior to 79.0.3945.88 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13767](https://github.com/Live-Hack-CVE/CVE-2019-13767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13767">
 
 ---
 ## CVE-2019-13720 (2019-11-25T15:15:00)
@@ -2730,6 +2745,11 @@
 - [fairyming/CVE-2019-11043](https://github.com/fairyming/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2019-11043">
 - [ianxtianxt/CVE-2019-11043](https://github.com/ianxtianxt/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2019-11043">
 - [tinker-li/CVE-2019-11043](https://github.com/tinker-li/CVE-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/tinker-li/CVE-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/tinker-li/CVE-2019-11043">
+
+---
+## CVE-2019-10957 (2020-01-17T18:15:00)
+> Geutebruck IP Cameras G-Code(EEC-2xxx), G-Cam(EBC-21xx/EFD-22xx/ETHC-22xx/EWPC-22xx): All versions 1.12.0.25 and prior may allow a remote authenticated attacker with access to event configuration to store malicious code on the server, which could later be triggered by a legitimate user resulting in code execution within the user’s browser.
+- [Live-Hack-CVE/CVE-2019-10957](https://github.com/Live-Hack-CVE/CVE-2019-10957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10957">
 
 ---
 ## CVE-2019-10808 (2020-03-11T23:15:00)

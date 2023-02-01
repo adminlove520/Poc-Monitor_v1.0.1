@@ -91,6 +91,16 @@
 - [brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)	<img alt="forks" src="https://img.shields.io/github/forks/brookeses69/CVE-2014-5460">	<img alt="stars" src="https://img.shields.io/github/stars/brookeses69/CVE-2014-5460">
 
 ---
+## CVE-2014-4984 (2020-01-10T13:15:00)
+> Déjà Vu Crescendo Sales CRM has remote SQL Injection
+- [Live-Hack-CVE/CVE-2014-4984](https://github.com/Live-Hack-CVE/CVE-2014-4984)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4984">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4984">
+
+---
+## CVE-2014-4982 (2020-01-10T13:15:00)
+> LPAR2RRD ? 4.53 and ? 3.5 has arbitrary command injection on the application server.
+- [Live-Hack-CVE/CVE-2014-4982](https://github.com/Live-Hack-CVE/CVE-2014-4982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4982">
+
+---
 ## CVE-2014-4717 (2014-07-03T14:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Simple Share Buttons Adder plugin before 4.5 for WordPress allow remote attackers to hijack the authentication of administrators for requests that conduct cross-site scripting (XSS) attacks via the (1) ssba_share_text parameter in a save action to wp-admin/options-general.php, which is not properly handled in the homepage, and unspecified vectors related to (2) Pages, (3) Posts, (4) Category/Archive pages or (5) post Excerpts.
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">

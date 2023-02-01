@@ -2295,6 +2295,41 @@
 - [Live-Hack-CVE/CVE-2023-0433](https://github.com/Live-Hack-CVE/CVE-2023-0433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0433">
 
 ---
+## CVE-2023-0417 (2023-01-26T21:18:00)
+> Memory leak in the NFS dissector in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0417](https://github.com/Live-Hack-CVE/CVE-2023-0417)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0417">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0417">
+
+---
+## CVE-2023-0416 (2023-01-26T21:18:00)
+> GNW dissector crash in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0416](https://github.com/Live-Hack-CVE/CVE-2023-0416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0416">
+
+---
+## CVE-2023-0415 (2023-01-26T21:18:00)
+> iSCSI dissector crash in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0415](https://github.com/Live-Hack-CVE/CVE-2023-0415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0415">
+
+---
+## CVE-2023-0414 (2023-01-26T21:18:00)
+> Crash in the EAP dissector in Wireshark 4.0.0 to 4.0.2 allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0414](https://github.com/Live-Hack-CVE/CVE-2023-0414)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0414">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0414">
+
+---
+## CVE-2023-0413 (2023-01-26T21:18:00)
+> Dissection engine bug in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0413](https://github.com/Live-Hack-CVE/CVE-2023-0413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0413">
+
+---
+## CVE-2023-0412 (2023-01-26T21:18:00)
+> TIPC dissector crash in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0412](https://github.com/Live-Hack-CVE/CVE-2023-0412)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0412">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0412">
+
+---
+## CVE-2023-0411 (2023-01-26T21:18:00)
+> Excessive loops in multiple dissectors in Wireshark 4.0.0 to 4.0.2 and 3.6.0 to 3.6.10 and allows denial of service via packet injection or crafted capture file
+- [Live-Hack-CVE/CVE-2023-0411](https://github.com/Live-Hack-CVE/CVE-2023-0411)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0411">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0411">
+
+---
 ## CVE-2023-0410 (2023-01-20T01:15:00)
 > Cross-site Scripting (XSS) - Generic in GitHub repository builderio/qwik prior to 0.1.0-beta5.
 - [Live-Hack-CVE/CVE-2023-0410](https://github.com/Live-Hack-CVE/CVE-2023-0410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0410">
