@@ -2035,6 +2035,16 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0610 (2023-02-01T12:15:00)
+> Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3.
+- [Live-Hack-CVE/CVE-2023-0610](https://github.com/Live-Hack-CVE/CVE-2023-0610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0610">
+
+---
+## CVE-2023-0609 (2023-02-01T12:15:00)
+> Improper Authorization in GitHub repository wallabag/wallabag prior to 2.5.3.
+- [Live-Hack-CVE/CVE-2023-0609](https://github.com/Live-Hack-CVE/CVE-2023-0609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0609">
+
+---
 ## CVE-2023-0608 (2023-02-01T06:15:00)
 > Cross-site Scripting (XSS) - DOM in GitHub repository microweber/microweber prior to 1.3.2.
 - [Live-Hack-CVE/CVE-2023-0608](https://github.com/Live-Hack-CVE/CVE-2023-0608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0608">
