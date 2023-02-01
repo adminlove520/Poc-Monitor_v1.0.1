@@ -3354,6 +3354,16 @@
 - [Live-Hack-CVE/CVE-2021-3813](https://github.com/Live-Hack-CVE/CVE-2021-3813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3813">
 
 ---
+## CVE-2021-3809 (2023-02-01T07:15:00)
+> Potential security vulnerabilities have been identified in the BIOS (UEFI Firmware) for certain HP PC products, which might allow arbitrary code execution. HP is releasing firmware updates to mitigate these potential vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-3809](https://github.com/Live-Hack-CVE/CVE-2021-3809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3809">
+
+---
+## CVE-2021-3808 (2023-02-01T07:15:00)
+> Potential security vulnerabilities have been identified in the BIOS (UEFI Firmware) for certain HP PC products, which might allow arbitrary code execution. HP is releasing firmware updates to mitigate these potential vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-3808](https://github.com/Live-Hack-CVE/CVE-2021-3808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3808">
+
+---
 ## CVE-2021-3805 (2021-09-17T06:15:00)
 > object-path is vulnerable to Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')
 - [Live-Hack-CVE/CVE-2021-3805](https://github.com/Live-Hack-CVE/CVE-2021-3805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3805">
@@ -4635,6 +4645,11 @@
 ## CVE-2021-34402 (2022-01-18T18:15:00)
 > NVIDIA Tegra kernel driver contains a vulnerability in NVIDIA NVDEC, where a user with high privileges might be able to read from or write to a memory location that is outside the intended boundary of the buffer, which may lead to denial of service, Information disclosure, loss of Integrity, or possible escalation of privileges.
 - [Live-Hack-CVE/CVE-2021-34402](https://github.com/Live-Hack-CVE/CVE-2021-34402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34402">
+
+---
+## CVE-2021-3439 (2023-02-01T07:15:00)
+> HP has identified a potential vulnerability in BIOS firmware of some Workstation products. Firmware updates are being released to mitigate these potential vulnerabilities.
+- [Live-Hack-CVE/CVE-2021-3439](https://github.com/Live-Hack-CVE/CVE-2021-3439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3439">
 
 ---
 ## CVE-2021-3437 (2022-12-12T13:15:00)

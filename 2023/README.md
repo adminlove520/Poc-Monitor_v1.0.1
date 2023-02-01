@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-24977 (2023-02-01T10:15:00)
+> Out-of-bounds Read vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong's latest version or cherry-pick https://github.com/apache/inlong/pull/7214 https://github.com/apache/inlong/pull/7214 to solve it.
+- [Live-Hack-CVE/CVE-2023-24977](https://github.com/Live-Hack-CVE/CVE-2023-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24977">
+
+---
 ## CVE-2023-24956 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /cha.php.
 - [Live-Hack-CVE/CVE-2023-24956](https://github.com/Live-Hack-CVE/CVE-2023-24956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24956">
@@ -2030,6 +2035,11 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0608 (2023-02-01T06:15:00)
+> Cross-site Scripting (XSS) - DOM in GitHub repository microweber/microweber prior to 1.3.2.
+- [Live-Hack-CVE/CVE-2023-0608](https://github.com/Live-Hack-CVE/CVE-2023-0608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0608">
+
+---
 ## CVE-2023-0607 (2023-02-01T04:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository projectsend/projectsend prior to r1606.
 - [Live-Hack-CVE/CVE-2023-0607](https://github.com/Live-Hack-CVE/CVE-2023-0607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0607">
@@ -2669,6 +2679,11 @@
 ## CVE-2023-0122 (2023-01-17T21:15:00)
 > A NULL pointer dereference vulnerability in the Linux kernel NVMe functionality, in nvmet_setup_auth(), allows an attacker to perform a Pre-Auth Denial of Service (DoS) attack on a remote machine. Affected versions v6.0-rc1 to v6.0-rc3, fixed in v6.0-rc4.
 - [Live-Hack-CVE/CVE-2023-0122](https://github.com/Live-Hack-CVE/CVE-2023-0122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0122">
+
+---
+## CVE-2023-0115 (2023-02-01T07:15:00)
+> This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
+- [Live-Hack-CVE/CVE-2023-0115](https://github.com/Live-Hack-CVE/CVE-2023-0115)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0115">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0115">
 
 ---
 ## CVE-2023-0114 (2023-01-07T09:15:00)

@@ -3940,6 +3940,11 @@
 - [Live-Hack-CVE/CVE-2020-14461](https://github.com/Live-Hack-CVE/CVE-2020-14461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14461">
 
 ---
+## CVE-2020-14395 (2023-02-01T07:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
+- [Live-Hack-CVE/CVE-2020-14395](https://github.com/Live-Hack-CVE/CVE-2020-14395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14395">
+
+---
 ## CVE-2020-14394 (2022-08-17T21:15:00)
 > An infinite loop flaw was found in the USB xHCI controller emulation of QEMU while computing the length of the Transfer Request Block (TRB) Ring. This flaw allows a privileged guest user to hang the QEMU process on the host, resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2020-14394](https://github.com/Live-Hack-CVE/CVE-2020-14394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14394">
