@@ -31,8 +31,8 @@
 - [Live-Hack-CVE/CVE-2023-24612](https://github.com/Live-Hack-CVE/CVE-2023-24612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24612">
 
 ---
-## CVE-2023-24610 ()
-> 
+## CVE-2023-24610 (2023-02-01T14:15:00)
+> NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
@@ -302,33 +302,33 @@
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
-## CVE-2023-23132 ()
-> 
+## CVE-2023-23132 (2023-02-01T14:15:00)
+> Selfwealth iOS mobile App 3.3.1 is vulnerable to Sensitive key disclosure. The application reveals hardcoded API keys.
 - [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
 
 ---
-## CVE-2023-23131 ()
-> 
+## CVE-2023-23131 (2023-02-01T14:15:00)
+> Selfwealth iOS mobile App 3.3.1 is vulnerable to Insecure App Transport Security (ATS) Settings.
 - [l00neyhacker/CVE-2023-23131](https://github.com/l00neyhacker/CVE-2023-23131)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23131">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23131">
 
 ---
-## CVE-2023-23130 ()
-> 
+## CVE-2023-23130 (2023-02-01T14:15:00)
+> Connectwise Automate 2022.11 is vulnerable to Cleartext authentication. Authentication is being done via HTTP (cleartext) with SSL disabled.
 - [l00neyhacker/CVE-2023-23130](https://github.com/l00neyhacker/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23130">
 
 ---
-## CVE-2023-23128 ()
-> 
+## CVE-2023-23128 (2023-02-01T14:15:00)
+> Connectwise Control 22.8.10013.8329 is vulnerable to Cross Origin Resource Sharing (CORS).
 - [l00neyhacker/CVE-2023-23128](https://github.com/l00neyhacker/CVE-2023-23128)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23128">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23128">
 
 ---
-## CVE-2023-23127 ()
-> 
+## CVE-2023-23127 (2023-02-01T14:15:00)
+> In Connectwise Control 22.8.10013.8329, the login page does not implement HSTS headers therefore not enforcing HTTPS.
 - [l00neyhacker/CVE-2023-23127](https://github.com/l00neyhacker/CVE-2023-23127)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23127">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23127">
 
 ---
-## CVE-2023-23126 ()
-> 
+## CVE-2023-23126 (2023-02-01T14:15:00)
+> Connectwise Automate 2022.11 is vulnerable to Clickjacking. The login screen can be iframed and used to manipulate users to perform unintended actions.
 - [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
 
 ---
@@ -553,6 +553,16 @@
 ## CVE-2023-22597 (2023-01-12T23:15:00)
 > InHand Networks InRouter 302, prior to version IR302 V3.5.56, and InRouter 615, prior to version InRouter6XX-S-V2.3.0.r5542, contain vulnerability CWE-319: Cleartext Transmission of Sensitive Information. They use an unsecured channel to communicate with the cloud platform by default. An unauthorized user could intercept this communication and steal sensitive information such as configuration information and MQTT credentials; this could allow MQTT command injection.
 - [Live-Hack-CVE/CVE-2023-22597](https://github.com/Live-Hack-CVE/CVE-2023-22597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22597">
+
+---
+## CVE-2023-22574 (2023-02-01T14:15:00)
+> Dell PowerScale OneFS 9.0.0.x - 9.4.0.x contain an insertion of sensitive information into log file vulnerability in platform API of IPMI module. A low-privileged user with permission to read logs on the cluster could potentially exploit this vulnerability, leading to Information disclosure and denial of service.
+- [Live-Hack-CVE/CVE-2023-22574](https://github.com/Live-Hack-CVE/CVE-2023-22574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22574">
+
+---
+## CVE-2023-22573 (2023-02-01T14:15:00)
+> Dell PowerScale OneFS 9.0.0.x-9.4.0.x contain an insertion of sensitive information into log file vulnerability in cloudpool. A low privileged local attacker could potentially exploit this vulnerability, leading to sensitive information disclosure.
+- [Live-Hack-CVE/CVE-2023-22573](https://github.com/Live-Hack-CVE/CVE-2023-22573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22573">
 
 ---
 ## CVE-2023-22551 (2023-01-01T18:15:00)
@@ -2033,6 +2043,21 @@
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0613 (2023-02-01T14:15:00)
+> A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. Affected by this vulnerability is an unknown functionality of the file /wireless/security.asp of the component httpd. The manipulation of the argument device_web_ip leads to memory corruption. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-219937 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0613](https://github.com/Live-Hack-CVE/CVE-2023-0613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0613">
+
+---
+## CVE-2023-0612 (2023-02-01T14:15:00)
+> A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. Affected is an unknown function of the file /wireless/basic.asp of the component httpd. The manipulation of the argument device_web_ip leads to buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-219936.
+- [Live-Hack-CVE/CVE-2023-0612](https://github.com/Live-Hack-CVE/CVE-2023-0612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0612">
+
+---
+## CVE-2023-0611 (2023-02-01T14:15:00)
+> A vulnerability, which was classified as critical, has been found in TRENDnet TEW-652BRP 3.04B01. This issue affects some unknown processing of the file get_set.ccp of the component Web Management Interface. The manipulation leads to command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-219935.
+- [Live-Hack-CVE/CVE-2023-0611](https://github.com/Live-Hack-CVE/CVE-2023-0611)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0611">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0611">
 
 ---
 ## CVE-2023-0610 (2023-02-01T12:15:00)
