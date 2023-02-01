@@ -197,6 +197,16 @@
 - [Live-Hack-CVE/CVE-2023-23846](https://github.com/Live-Hack-CVE/CVE-2023-23846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23846">
 
 ---
+## CVE-2023-23751 (2023-02-01T22:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.4. A missing ACL check allows non super-admin users to access com_actionlogs.
+- [Live-Hack-CVE/CVE-2023-23751](https://github.com/Live-Hack-CVE/CVE-2023-23751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23751">
+
+---
+## CVE-2023-23750 (2023-02-01T22:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.6. A missing token check causes a CSRF vulnerability in the handling of post-installation messages.
+- [Live-Hack-CVE/CVE-2023-23750](https://github.com/Live-Hack-CVE/CVE-2023-23750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23750">
+
+---
 ## CVE-2023-23749 (2023-01-17T20:15:00)
 > The 'LDAP Integration with Active Directory and OpenLDAP - NTLM & Kerberos Login' extension is vulnerable to LDAP Injection since is not properly sanitizing the 'username' POST parameter. An attacker can manipulate this paramter to dump arbitrary contents form the LDAP Database.
 - [Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23749">

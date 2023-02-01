@@ -2878,6 +2878,21 @@
 - [Live-Hack-CVE/CVE-2020-22818](https://github.com/Live-Hack-CVE/CVE-2020-22818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22818">
 
 ---
+## CVE-2020-22662 (2023-01-20T19:15:00)
+> In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) before 3.6.2.0.795, ZoneDirector 1100 9.10.2.0.130, ZoneDirector 1200 10.2.1.0.218, ZoneDirector 3000 10.2.1.0.218, ZoneDirector 5000 10.0.1.0.151, a vulnerability allows attackers to change and set unauthorized "illegal region code" by remote code Execution command injection which leads to run illegal frequency with maxi output power. Vulnerability allows attacker to create an arbitrary amount of ssid wlans interface per radio which creates overhead over noise (the default max limit is 8 ssid only per radio in solo AP). Vulnerability allows attacker to unlock hidden regions by privilege command injection in WEB GUI.
+- [Live-Hack-CVE/CVE-2020-22662](https://github.com/Live-Hack-CVE/CVE-2020-22662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22662">
+
+---
+## CVE-2020-22661 (2023-01-20T19:15:00)
+> In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) before 3.6.2.0.795, ZoneDirector 1100 9.10.2.0.130, ZoneDirector 1200 10.2.1.0.218, ZoneDirector 3000 10.2.1.0.218, ZoneDirector 5000 10.0.1.0.151, a vulnerability allows attackers to erase the backup secondary official image and write secondary backup unauthorized image.
+- [Live-Hack-CVE/CVE-2020-22661](https://github.com/Live-Hack-CVE/CVE-2020-22661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22661">
+
+---
+## CVE-2020-22660 (2023-01-20T19:15:00)
+> In Ruckus R310 10.5.1.0.199, Ruckus R500 10.5.1.0.199, Ruckus R600 10.5.1.0.199, Ruckus T300 10.5.1.0.199, Ruckus T301n 10.5.1.0.199, Ruckus T301s 10.5.1.0.199, SmartCell Gateway 200 (SCG200) before 3.6.2.0.795, SmartZone 100 (SZ-100) before 3.6.2.0.795, SmartZone 300 (SZ300) before 3.6.2.0.795, Virtual SmartZone (vSZ) before 3.6.2.0.795, ZoneDirector 1100 9.10.2.0.130, ZoneDirector 1200 10.2.1.0.218, ZoneDirector 3000 10.2.1.0.218, ZoneDirector 5000 10.0.1.0.151, a vulnerability allows attackers to force bypass Secure Boot failed attempts and run temporarily the previous Backup image.
+- [Live-Hack-CVE/CVE-2020-22660](https://github.com/Live-Hack-CVE/CVE-2020-22660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22660">
+
+---
 ## CVE-2020-22452 (2023-01-26T21:15:00)
 > SQL Injection vulnerability in function getTableCreationQuery in CreateAddField.php in phpMyAdmin 5.x before 5.2.0 via the tbl_storage_engine or tbl_collation parameters to tbl_create.php.
 - [Live-Hack-CVE/CVE-2020-22452](https://github.com/Live-Hack-CVE/CVE-2020-22452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22452">
