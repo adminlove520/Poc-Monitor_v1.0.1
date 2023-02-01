@@ -2426,6 +2426,41 @@
 - [Live-Hack-CVE/CVE-2019-13359](https://github.com/Live-Hack-CVE/CVE-2019-13359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13359">
 
 ---
+## CVE-2019-13223 (2019-08-15T17:15:00)
+> A reachable assertion in the lookup1_values function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13223](https://github.com/Live-Hack-CVE/CVE-2019-13223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13223">
+
+---
+## CVE-2019-13222 (2019-08-15T17:15:00)
+> An out-of-bounds read of a global buffer in the draw_line function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service or disclose sensitive information by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13222](https://github.com/Live-Hack-CVE/CVE-2019-13222)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13222">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13222">
+
+---
+## CVE-2019-13221 (2019-08-15T17:15:00)
+> A stack buffer overflow in the compute_codewords function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service or execute arbitrary code by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13221](https://github.com/Live-Hack-CVE/CVE-2019-13221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13221">
+
+---
+## CVE-2019-13220 (2019-08-15T17:15:00)
+> Use of uninitialized stack variables in the start_decoder function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service or disclose sensitive information by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13220](https://github.com/Live-Hack-CVE/CVE-2019-13220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13220">
+
+---
+## CVE-2019-13219 (2019-08-15T17:15:00)
+> A NULL pointer dereference in the get_window function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13219](https://github.com/Live-Hack-CVE/CVE-2019-13219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13219">
+
+---
+## CVE-2019-13218 (2019-08-15T17:15:00)
+> Division by zero in the predict_point function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13218](https://github.com/Live-Hack-CVE/CVE-2019-13218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13218">
+
+---
+## CVE-2019-13217 (2019-08-15T17:15:00)
+> A heap buffer overflow in the start_decoder function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service or execute arbitrary code by opening a crafted Ogg Vorbis file.
+- [Live-Hack-CVE/CVE-2019-13217](https://github.com/Live-Hack-CVE/CVE-2019-13217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13217">
+
+---
 ## CVE-2019-13120 (2019-10-07T22:15:00)
 > Amazon FreeRTOS up to and including v1.4.8 lacks length checking in prvProcessReceivedPublish, resulting in untargetable leakage of arbitrary memory contents on a device to an attacker. If an attacker has the authorization to send a malformed MQTT publish packet to an Amazon IoT Thing, which interacts with an associated vulnerable MQTT message in the application, specific circumstances could trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2019-13120](https://github.com/Live-Hack-CVE/CVE-2019-13120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13120">

@@ -1308,6 +1308,11 @@
 - [Live-Hack-CVE/CVE-2021-42717](https://github.com/Live-Hack-CVE/CVE-2021-42717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42717">
 
 ---
+## CVE-2021-42715 (2021-10-21T19:15:00)
+> An issue was discovered in stb stb_image.h 1.33 through 2.27. The HDR loader parsed truncated end-of-file RLE scanlines as an infinite sequence of zero-length runs. An attacker could potentially have caused denial of service in applications using stb_image by submitting crafted HDR files.
+- [Live-Hack-CVE/CVE-2021-42715](https://github.com/Live-Hack-CVE/CVE-2021-42715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42715">
+
+---
 ## CVE-2021-42704 (2022-05-18T17:15:00)
 > Inkscape version 0.91 is vulnerable to an out-of-bounds write, which may allow an attacker to arbitrary execute code.
 - [Live-Hack-CVE/CVE-2021-42704](https://github.com/Live-Hack-CVE/CVE-2021-42704)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42704">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42704">
@@ -5173,6 +5178,11 @@
 - [Live-Hack-CVE/CVE-2021-32415](https://github.com/Live-Hack-CVE/CVE-2021-32415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32415">
 
 ---
+## CVE-2021-32280 (2021-09-20T16:15:00)
+> An issue was discovered in fig2dev before 3.2.8.. A NULL pointer dereference exists in the function compute_closed_spline() located in trans_spline.c. It allows an attacker to cause Denial of Service. The fixed version of fig2dev is 3.2.8.
+- [Live-Hack-CVE/CVE-2021-32280](https://github.com/Live-Hack-CVE/CVE-2021-32280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32280">
+
+---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
 > A flaw was found in postgresql. Using an INSERT ... ON CONFLICT ... DO UPDATE command on a purpose-crafted table, an authenticated database user could read arbitrary bytes of server memory. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2021-32028](https://github.com/Live-Hack-CVE/CVE-2021-32028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32028">
@@ -5827,6 +5837,11 @@
 ## CVE-2021-28052 (2022-09-26T16:15:00)
 > A tenant administrator Hitachi Content Platform (HCP) may modify the configuration in another tenant without authorization, potentially allowing unauthorized access to data in the other tenant. Also, a tenant user (non-administrator) may view configuration in another tenant without authorization. This issue affects: Hitachi Vantara Hitachi Content Platform versions prior to 8.3.7; 9.0.0 versions prior to 9.2.3.
 - [Live-Hack-CVE/CVE-2021-28052](https://github.com/Live-Hack-CVE/CVE-2021-28052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28052">
+
+---
+## CVE-2021-28021 (2021-10-15T16:15:00)
+> Buffer overflow vulnerability in function stbi__extend_receive in stb_image.h in stb 2.26 via a crafted JPEG file.
+- [Live-Hack-CVE/CVE-2021-28021](https://github.com/Live-Hack-CVE/CVE-2021-28021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28021">
 
 ---
 ## CVE-2021-27965 (2021-03-05T02:15:00)

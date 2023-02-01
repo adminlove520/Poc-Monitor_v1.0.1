@@ -2975,6 +2975,21 @@
 - [Live-Hack-CVE/CVE-2020-2159](https://github.com/Live-Hack-CVE/CVE-2020-2159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2159">
 
 ---
+## CVE-2020-21532 (2021-09-16T21:15:00)
+> fig2dev 3.2.7b contains a global buffer overflow in the setfigfont function in genepic.c.
+- [Live-Hack-CVE/CVE-2020-21532](https://github.com/Live-Hack-CVE/CVE-2020-21532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21532">
+
+---
+## CVE-2020-21531 (2021-09-16T21:15:00)
+> fig2dev 3.2.7b contains a global buffer overflow in the conv_pattern_index function in gencgm.c.
+- [Live-Hack-CVE/CVE-2020-21531](https://github.com/Live-Hack-CVE/CVE-2020-21531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21531">
+
+---
+## CVE-2020-21529 (2021-09-16T21:15:00)
+> fig2dev 3.2.7b contains a stack buffer overflow in the bezier_spline function in genepic.c.
+- [Live-Hack-CVE/CVE-2020-21529](https://github.com/Live-Hack-CVE/CVE-2020-21529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21529">
+
+---
 ## CVE-2020-2152 (2020-03-09T16:15:00)
 > Jenkins Subversion Release Manager Plugin 1.2 and earlier does not escape the error message for the Repository URL field form validation, resulting in a reflected cross-site scripting vulnerability.
 - [Live-Hack-CVE/CVE-2020-2152](https://github.com/Live-Hack-CVE/CVE-2020-2152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2152">

@@ -939,6 +939,11 @@
 - [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
 
 ---
+## CVE-2018-16981 (2018-09-12T23:29:00)
+> stb stb_image.h 2.19, as used in catimg, Emscripten, and other products, has a heap-based buffer overflow in the stbi__out_gif_code function.
+- [Live-Hack-CVE/CVE-2018-16981](https://github.com/Live-Hack-CVE/CVE-2018-16981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16981">
+
+---
 ## CVE-2018-16881 (2019-01-25T18:29:00)
 > A denial of service vulnerability was found in rsyslog in the imptcp module. An attacker could send a specially crafted message to the imptcp socket, which would cause rsyslog to crash. Versions before 8.27.0 are vulnerable.
 - [Live-Hack-CVE/CVE-2018-16881](https://github.com/Live-Hack-CVE/CVE-2018-16881)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16881">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16881">
