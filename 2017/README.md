@@ -62,6 +62,11 @@
 - [hahwul/struts2-rce-cve-2017-9805-ruby](https://github.com/hahwul/struts2-rce-cve-2017-9805-ruby)	<img alt="forks" src="https://img.shields.io/github/forks/hahwul/struts2-rce-cve-2017-9805-ruby">	<img alt="stars" src="https://img.shields.io/github/stars/hahwul/struts2-rce-cve-2017-9805-ruby">
 
 ---
+## CVE-2017-9614 (2017-07-27T06:29:00)
+> ** DISPUTED ** The fill_input_buffer function in jdatasrc.c in libjpeg-turbo 1.5.1 allows remote attackers to cause a denial of service (invalid memory access and application crash) or possibly have unspecified other impact via a crafted jpg file. NOTE: Maintainer asserts the issue is due to a bug in downstream code caused by misuse of the libjpeg API.
+- [Live-Hack-CVE/CVE-2017-9614](https://github.com/Live-Hack-CVE/CVE-2017-9614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9614">
+
+---
 ## CVE-2017-9340 (2017-07-17T21:29:00)
 > An attacker is logged in as a normal user and can somehow make admin to delete shared folders in ownCloud Server before 10.0.2.
 - [Live-Hack-CVE/CVE-2017-9340](https://github.com/Live-Hack-CVE/CVE-2017-9340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9340">

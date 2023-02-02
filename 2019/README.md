@@ -2874,6 +2874,11 @@
 - [Live-Hack-CVE/CVE-2019-10171](https://github.com/Live-Hack-CVE/CVE-2019-10171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10171">
 
 ---
+## CVE-2019-10153 (2019-07-30T23:15:00)
+> A flaw was discovered in fence-agents, prior to version 4.3.4, where using non-ASCII characters in a guest VM's comment or other fields would cause fence_rhevm to exit with an exception. In cluster environments, this could lead to preventing automated recovery or otherwise denying service to clusters of which that VM is a member.
+- [Live-Hack-CVE/CVE-2019-10153](https://github.com/Live-Hack-CVE/CVE-2019-10153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10153">
+
+---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
 > WavPack 5.1.0 and earlier is affected by: CWE-457: Use of Uninitialized Variable. The impact is: Unexpected control flow, crashes, and segfaults. The component is: ParseWave64HeaderConfig (wave64.c:211). The attack vector is: Maliciously crafted .wav file. The fixed version is: After commit https://github.com/dbry/WavPack/commit/33a0025d1d63ccd05d9dbaa6923d52b1446a62fe.
 - [ahaShiyu/CVE-2019-1010319](https://github.com/ahaShiyu/CVE-2019-1010319)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2019-1010319">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2019-1010319">
