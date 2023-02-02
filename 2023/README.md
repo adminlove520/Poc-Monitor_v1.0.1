@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-25012 (2023-02-02T00:15:00)
+> The Linux kernel through 6.1.9 has a Use-After-Free in bigben_remove in drivers/hid/hid-bigbenff.c via a crafted USB device because the LED controllers remain registered for too long.
+- [Live-Hack-CVE/CVE-2023-25012](https://github.com/Live-Hack-CVE/CVE-2023-25012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25012">
+
+---
 ## CVE-2023-24977 (2023-02-01T10:15:00)
 > Out-of-bounds Read vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong's latest version or cherry-pick https://github.com/apache/inlong/pull/7214 https://github.com/apache/inlong/pull/7214 to solve it.
 - [Live-Hack-CVE/CVE-2023-24977](https://github.com/Live-Hack-CVE/CVE-2023-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24977">
@@ -2239,6 +2244,11 @@
 ## CVE-2023-0607 (2023-02-01T04:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository projectsend/projectsend prior to r1606.
 - [Live-Hack-CVE/CVE-2023-0607](https://github.com/Live-Hack-CVE/CVE-2023-0607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0607">
+
+---
+## CVE-2023-0599 (2023-02-01T23:15:00)
+> Rapid7 Metasploit Pro versions 4.21.2 and lower suffer from a stored cross site scripting vulnerability, due to a lack of JavaScript request string sanitization. Using this vulnerability, an authenticated attacker can execute arbitrary HTML and script code in the target browser against another Metasploit Pro user using a specially crafted request. Note that in most deployments, all Metasploit Pro users tend to enjoy privileges equivalent to local administrator.
+- [Live-Hack-CVE/CVE-2023-0599](https://github.com/Live-Hack-CVE/CVE-2023-0599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0599">
 
 ---
 ## CVE-2023-0593 (2023-01-31T10:15:00)
