@@ -1900,6 +1900,11 @@
 - [Live-Hack-CVE/CVE-2023-21674](https://github.com/Live-Hack-CVE/CVE-2023-21674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21674">
 
 ---
+## CVE-2023-21608 (2023-01-18T19:15:00)
+> Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by a Use After Free vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608)	<img alt="forks" src="https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608">	<img alt="stars" src="https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608">
+
+---
 ## CVE-2023-21606 (2023-01-18T19:15:00)
 > Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 - [Live-Hack-CVE/CVE-2023-21606](https://github.com/Live-Hack-CVE/CVE-2023-21606)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21606">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21606">
