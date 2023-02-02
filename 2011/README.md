@@ -6,9 +6,24 @@
 - [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
 
 ---
+## CVE-2011-4127 (2012-07-03T16:40:00)
+> CVE-2011-4127 kernel: possible privilege escalation via SG_IO ioctl
+- [Live-Hack-CVE/CVE-2011-4127](https://github.com/Live-Hack-CVE/CVE-2011-4127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4127">
+
+---
+## CVE-2011-3609 (2019-11-26T03:15:00)
+> CVE-2011-3609 JBoss AS: CSRF in the administration console & HTTP management API
+- [Live-Hack-CVE/CVE-2011-3609](https://github.com/Live-Hack-CVE/CVE-2011-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3609">
+
+---
 ## CVE-2011-3348 (2011-09-20T05:55:00)
 > The mod_proxy_ajp module in the Apache HTTP Server before 2.2.21, when used with mod_proxy_balancer in certain configurations, allows remote attackers to cause a denial of service (temporary "error state" in the backend server) via a malformed HTTP request.
 - [Live-Hack-CVE/CVE-2011-3348](https://github.com/Live-Hack-CVE/CVE-2011-3348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3348">
+
+---
+## CVE-2011-3344 (2014-02-05T18:55:00)
+> CVE-2011-3344 Satellite/Spacewalk: XSS on the Lost Password page
+- [Live-Hack-CVE/CVE-2011-3344](https://github.com/Live-Hack-CVE/CVE-2011-3344)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3344">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3344">
 
 ---
 ## CVE-2011-3192 (2011-08-29T15:55:00)
@@ -18,6 +33,16 @@
 - [stcmjp/cve-2011-3192](https://github.com/stcmjp/cve-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/stcmjp/cve-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/stcmjp/cve-2011-3192">
 - [limkokholefork/CVE-2011-3192](https://github.com/limkokholefork/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2011-3192">
 - [tkisason/KillApachePy](https://github.com/tkisason/KillApachePy)	<img alt="forks" src="https://img.shields.io/github/forks/tkisason/KillApachePy">	<img alt="stars" src="https://img.shields.io/github/stars/tkisason/KillApachePy">
+
+---
+## CVE-2011-2927 (2014-02-05T18:55:00)
+> CVE-2011-2927 Satellite/Spacewalk: XSS flaw in channels search
+- [Live-Hack-CVE/CVE-2011-2927](https://github.com/Live-Hack-CVE/CVE-2011-2927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2927">
+
+---
+## CVE-2011-2920 (2014-02-05T18:55:00)
+> CVE-2011-2920 Satellite: XSS flaw(s) in filter handling
+- [Live-Hack-CVE/CVE-2011-2920](https://github.com/Live-Hack-CVE/CVE-2011-2920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2920">
 
 ---
 ## CVE-2011-2523 (2019-11-27T21:15:00)
@@ -37,6 +62,11 @@
 ## CVE-2011-2522 (2011-07-29T20:55:00)
 > Multiple cross-site request forgery (CSRF) vulnerabilities in the Samba Web Administration Tool (SWAT) in Samba 3.x before 3.5.10 allow remote attackers to hijack the authentication of administrators for requests that (1) shut down daemons, (2) start daemons, (3) add shares, (4) remove shares, (5) add printers, (6) remove printers, (7) add user accounts, or (8) remove user accounts, as demonstrated by certain start, stop, and restart parameters to the status program.
 - [Live-Hack-CVE/CVE-2011-2522](https://github.com/Live-Hack-CVE/CVE-2011-2522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2522">
+
+---
+## CVE-2011-2487 (2020-03-11T16:15:00)
+> A flaw was found in JBoss web services where the services used a weak symmetric encryption protocol, PKCS#1 v1.5. An attacker could use this weakness in chosen-ciphertext attacks to recover the symmetric key and conduct further attacks.
+- [Live-Hack-CVE/CVE-2011-2487](https://github.com/Live-Hack-CVE/CVE-2011-2487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2487">
 
 ---
 ## CVE-2011-1471 (2011-03-20T02:00:00)
