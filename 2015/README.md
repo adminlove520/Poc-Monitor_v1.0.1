@@ -144,6 +144,7 @@
 ## CVE-2015-5195 (2017-07-21T14:29:00)
 > It was found that ntpd would exit with a segmentation fault when a statistics type that was not enabled during compilation (e.g. timingstats) was referenced by the statistics or filegen configuration command.
 - [Live-Hack-CVE/CVE-2015-5195](https://github.com/Live-Hack-CVE/CVE-2015-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-5195">
+- [theglife214/CVE-2015-5195](https://github.com/theglife214/CVE-2015-5195)	<img alt="forks" src="https://img.shields.io/github/forks/theglife214/CVE-2015-5195">	<img alt="stars" src="https://img.shields.io/github/stars/theglife214/CVE-2015-5195">
 
 ---
 ## CVE-2015-5194 (2017-07-21T14:29:00)
