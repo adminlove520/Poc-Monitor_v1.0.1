@@ -2216,6 +2216,16 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0643 (2023-02-02T12:15:00)
+> Improper Handling of Additional Special Element in GitHub repository squidex/squidex prior to 7.4.0.
+- [Live-Hack-CVE/CVE-2023-0643](https://github.com/Live-Hack-CVE/CVE-2023-0643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0643">
+
+---
+## CVE-2023-0642 (2023-02-02T12:15:00)
+> Cross-Site Request Forgery (CSRF) in GitHub repository squidex/squidex prior to 7.4.0.
+- [Live-Hack-CVE/CVE-2023-0642](https://github.com/Live-Hack-CVE/CVE-2023-0642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0642">
+
+---
 ## CVE-2023-0641 (2023-02-02T09:15:00)
 > A vulnerability was found in PHPGurukul Employee Leaves Management System 1.0. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file changepassword.php. The manipulation of the argument newpassword/confirmpassword leads to weak password requirements. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-220021 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0641](https://github.com/Live-Hack-CVE/CVE-2023-0641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0641">

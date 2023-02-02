@@ -2752,6 +2752,11 @@
 - [Live-Hack-CVE/CVE-2020-24370](https://github.com/Live-Hack-CVE/CVE-2020-24370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24370">
 
 ---
+## CVE-2020-24307 (2023-02-02T12:15:00)
+> An issue in mRemoteNG v1.76.20 allows attackers to escalate privileges via a crafted executable file.
+- [Live-Hack-CVE/CVE-2020-24307](https://github.com/Live-Hack-CVE/CVE-2020-24307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24307">
+
+---
 ## CVE-2020-24223 (2020-08-30T18:15:00)
 > Mara CMS 7.5 allows cross-site scripting (XSS) in contact.php via the theme or pagetheme parameters.
 - [Live-Hack-CVE/CVE-2020-24223](https://github.com/Live-Hack-CVE/CVE-2020-24223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-24223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-24223">
