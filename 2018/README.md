@@ -1325,6 +1325,9 @@
 ## CVE-2018-1111 (2018-05-17T16:29:00)
 > A command injection flaw was found in the NetworkManager integration script included in the DHCP client packages in Red Hat Enterprise Linux. A malicious DHCP server, or an attacker on the local network able to spoof DHCP responses, could use this flaw to execute arbitrary commands with root privileges on systems using NetworkManager and configured to obtain network configuration using the DHCP protocol.
 - [Live-Hack-CVE/CVE-2018-1111](https://github.com/Live-Hack-CVE/CVE-2018-1111)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1111">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1111">
+- [baldassarreFe/FEP3370-advanced-ethical-hacking](https://github.com/baldassarreFe/FEP3370-advanced-ethical-hacking)	<img alt="forks" src="https://img.shields.io/github/forks/baldassarreFe/FEP3370-advanced-ethical-hacking">	<img alt="stars" src="https://img.shields.io/github/stars/baldassarreFe/FEP3370-advanced-ethical-hacking">
+- [kkirsche/CVE-2018-1111](https://github.com/kkirsche/CVE-2018-1111)	<img alt="forks" src="https://img.shields.io/github/forks/kkirsche/CVE-2018-1111">	<img alt="stars" src="https://img.shields.io/github/stars/kkirsche/CVE-2018-1111">
+- [knqyf263/CVE-2018-1111](https://github.com/knqyf263/CVE-2018-1111)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-1111">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-1111">
 
 ---
 ## CVE-2018-1108 (2018-05-21T21:29:00)
