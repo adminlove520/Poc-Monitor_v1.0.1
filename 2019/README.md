@@ -309,6 +309,11 @@
 - [Live-Hack-CVE/CVE-2019-7061](https://github.com/Live-Hack-CVE/CVE-2019-7061)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7061">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7061">
 
 ---
+## CVE-2019-7004 (2019-12-12T00:15:00)
+> A Cross-Site Scripting (XSS) vulnerability in the WebUI component of IP Office Application Server could allow unauthorized code execution and potentially disclose sensitive information. All product versions 11.x are affected. Product versions prior to 11.0, including unsupported versions, were not evaluated.
+- [Live-Hack-CVE/CVE-2019-7004](https://github.com/Live-Hack-CVE/CVE-2019-7004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7004">
+
+---
 ## CVE-2019-6957 (2019-05-29T19:29:00)
 > A recently discovered security vulnerability affects all Bosch Video Management System (BVMS) versions 9.0 and below, DIVAR IP 2000, 3000, 5000 and 7000, Video Recording Manager (VRM), Video Streaming Gateway (VSG), Configuration Manager, Building Integration System (BIS) with Video Engine, Access Professional Edition (APE), Access Easy Controller (AEC), Bosch Video Client (BVC) and Video SDK (VSDK). The vulnerability potentially allows the unauthorized execution of code in the system via the network interface.
 - [Live-Hack-CVE/CVE-2019-6957](https://github.com/Live-Hack-CVE/CVE-2019-6957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6957">
@@ -1692,6 +1697,11 @@
 - [Live-Hack-CVE/CVE-2019-19781](https://github.com/Live-Hack-CVE/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19781">
 
 ---
+## CVE-2019-19746 (2019-12-12T03:15:00)
+> make_arrow in arrow.c in Xfig fig2dev 3.2.7b allows a segmentation fault and out-of-bounds write because of an integer overflow via a large arrow type.
+- [Live-Hack-CVE/CVE-2019-19746](https://github.com/Live-Hack-CVE/CVE-2019-19746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19746">
+
+---
 ## CVE-2019-19740 (2019-12-12T03:15:00)
 > Octeth Oempro 4.7 and 4.8 allow SQL injection. The parameter CampaignID in Campaign.Get is vulnerable.
 - [Live-Hack-CVE/CVE-2019-19740](https://github.com/Live-Hack-CVE/CVE-2019-19740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19740">
@@ -1707,9 +1717,19 @@
 - [Live-Hack-CVE/CVE-2019-19725](https://github.com/Live-Hack-CVE/CVE-2019-19725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19725">
 
 ---
+## CVE-2019-19722 (2019-12-13T17:15:00)
+> In Dovecot before 2.3.9.2, an attacker can crash a push-notification driver with a crafted email when push notifications are used, because of a NULL Pointer Dereference. The email must use a group address as either the sender or the recipient.
+- [Live-Hack-CVE/CVE-2019-19722](https://github.com/Live-Hack-CVE/CVE-2019-19722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19722">
+
+---
 ## CVE-2019-19650 (2019-12-11T18:16:00)
 > Zoho ManageEngine Applications Manager before 13640 allows a remote authenticated SQL injection via the Agent servlet agentid parameter to the Agent.java process function.
 - [Live-Hack-CVE/CVE-2019-19650](https://github.com/Live-Hack-CVE/CVE-2019-19650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19650">
+
+---
+## CVE-2019-19649 (2019-12-11T18:16:00)
+> Zoho ManageEngine Applications Manager before 13620 allows a remote unauthenticated SQL injection via the SyncEventServlet eventid parameter to the SyncEventServlet.java doGet function.
+- [Live-Hack-CVE/CVE-2019-19649](https://github.com/Live-Hack-CVE/CVE-2019-19649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19649">
 
 ---
 ## CVE-2019-19648 (2019-12-09T01:15:00)

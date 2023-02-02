@@ -336,14 +336,99 @@
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
 
 ---
+## CVE-2018-3981 (2018-10-01T20:29:00)
+> An exploitable out-of-bounds write exists in the TIFF-parsing functionality of Canvas Draw version 5.0.0. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution.
+- [Live-Hack-CVE/CVE-2018-3981](https://github.com/Live-Hack-CVE/CVE-2018-3981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3981">
+
+---
+## CVE-2018-3967 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3967](https://github.com/Live-Hack-CVE/CVE-2018-3967)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3967">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3967">
+
+---
+## CVE-2018-3966 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3966](https://github.com/Live-Hack-CVE/CVE-2018-3966)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3966">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3966">
+
+---
+## CVE-2018-3965 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3965](https://github.com/Live-Hack-CVE/CVE-2018-3965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3965">
+
+---
 ## CVE-2018-3964 (2018-10-03T15:29:00)
 > An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
 - [Live-Hack-CVE/CVE-2018-3964](https://github.com/Live-Hack-CVE/CVE-2018-3964)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3964">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3964">
 
 ---
+## CVE-2018-3935 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the UDP network functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can allocate unlimited memory, resulting in denial of service. An attacker can send a set of packets to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3935](https://github.com/Live-Hack-CVE/CVE-2018-3935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3935">
+
+---
+## CVE-2018-3934 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can cause a logic flaw, resulting in an authentication bypass. An attacker can sniff network traffic and send a set of packets to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3934](https://github.com/Live-Hack-CVE/CVE-2018-3934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3934">
+
+---
+## CVE-2018-3928 (2018-11-01T15:29:00)
+> An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can cause a settings change, resulting in denial of service. An attacker can send a set of packets to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3928](https://github.com/Live-Hack-CVE/CVE-2018-3928)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3928">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3928">
+
+---
+## CVE-2018-3920 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the firmware update functionality of the Yi Home Camera 27US 1.8.7.0D. A specially crafted 7-Zip file can cause a CRC collision, resulting in a firmware update and code execution. An attacker can insert an SDcard to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3920](https://github.com/Live-Hack-CVE/CVE-2018-3920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3920">
+
+---
 ## CVE-2018-3914 (2018-09-21T15:29:00)
 > An exploitable stack-based buffer overflow vulnerability exists in the retrieval of database fields in the video-core HTTP server of the Samsung SmartThings Hub STH-ETH-250 - Firmware version 0.20.17. The strcpy call overflows the destination buffer, which has a size of 2000 bytes. An attacker can send an arbitrarily long "sessionToken" value in order to exploit this vulnerability.
 - [Live-Hack-CVE/CVE-2018-3914](https://github.com/Live-Hack-CVE/CVE-2018-3914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3914">
+
+---
+## CVE-2018-3910 (2018-11-01T15:29:00)
+> An exploitable code execution vulnerability exists in the cloud OTA setup functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted SSID can cause a command injection, resulting in code execution. An attacker can cause a camera to connect to this SSID to trigger this vulnerability. Alternatively, an attacker can convince a user to connect their camera to this SSID.
+- [Live-Hack-CVE/CVE-2018-3910](https://github.com/Live-Hack-CVE/CVE-2018-3910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3910">
+
+---
+## CVE-2018-3900 (2018-11-01T15:29:00)
+> An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. An attacker can make the camera scan a QR code to trigger this vulnerability. Alternatively, a user could be convinced to display a QR code from the internet to their camera, which could exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3900](https://github.com/Live-Hack-CVE/CVE-2018-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3900">
+
+---
+## CVE-2018-3899 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. The trans_info call can overwrite a buffer of size 0x104, which is more than enough to overflow the return address from the password_dst field
+- [Live-Hack-CVE/CVE-2018-3899](https://github.com/Live-Hack-CVE/CVE-2018-3899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3899">
+
+---
+## CVE-2018-3898 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. The trans_info call can overwrite a buffer of size 0x104, which is more than enough to overflow the return address from the ssid_dst field.
+- [Live-Hack-CVE/CVE-2018-3898](https://github.com/Live-Hack-CVE/CVE-2018-3898)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3898">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3898">
+
+---
+## CVE-2018-3892 (2018-11-02T17:29:00)
+> An exploitable firmware downgrade vulnerability exists in the time syncing functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted packet can cause a buffer overflow, resulting in code execution. An attacker can intercept and alter network traffic to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3892](https://github.com/Live-Hack-CVE/CVE-2018-3892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3892">
+
+---
+## CVE-2018-3891 (2018-11-02T17:29:00)
+> An exploitable firmware downgrade vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted file can cause a logic flaw, resulting in a firmware downgrade. An attacker can insert an SD card to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3891](https://github.com/Live-Hack-CVE/CVE-2018-3891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3891">
+
+---
+## CVE-2018-3890 (2018-11-02T17:29:00)
+> An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted file can cause a logic flaw and command injection, resulting in code execution. An attacker can insert an SD card to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3890](https://github.com/Live-Hack-CVE/CVE-2018-3890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3890">
+
+---
+## CVE-2018-3888 (2018-04-11T20:29:00)
+> A memory corruption vulnerability exists in the PCX-parsing functionality of Computerinsel Photoline 20.53. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution.
+- [Live-Hack-CVE/CVE-2018-3888](https://github.com/Live-Hack-CVE/CVE-2018-3888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3888">
+
+---
+## CVE-2018-3887 (2018-04-11T20:29:00)
+> A memory corruption vulnerability exists in the PCX-parsing functionality of Computerinsel Photoline 20.53. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution.
+- [Live-Hack-CVE/CVE-2018-3887](https://github.com/Live-Hack-CVE/CVE-2018-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3887">
 
 ---
 ## CVE-2018-3856 (2018-08-23T22:29:00)
@@ -1122,6 +1207,11 @@
 ## CVE-2018-14371 (2018-07-18T12:29:00)
 > The getLocalePrefix function in ResourceManager.java in Eclipse Mojarra before 2.3.7 is affected by Directory Traversal via the loc parameter. A remote attacker can download configuration files or Java bytecodes from applications.
 - [mattysaints/CVE-2018-14371](https://github.com/mattysaints/CVE-2018-14371)	<img alt="forks" src="https://img.shields.io/github/forks/mattysaints/CVE-2018-14371">	<img alt="stars" src="https://img.shields.io/github/stars/mattysaints/CVE-2018-14371">
+
+---
+## CVE-2018-1386 (2018-03-14T00:29:00)
+> IBM Tivoli Workload Automation for AIX (IBM Workload Scheduler 8.6, 9.1, 9.2, 9.3, and 9.4) contains directories with improper permissions that could allow a local user to with special access to gain root privileges. IBM X-Force ID: 138208.
+- [Live-Hack-CVE/CVE-2018-1386](https://github.com/Live-Hack-CVE/CVE-2018-1386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1386">
 
 ---
 ## CVE-2018-13405 (2018-07-06T14:29:00)
