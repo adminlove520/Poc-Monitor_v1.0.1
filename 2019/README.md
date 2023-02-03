@@ -960,6 +960,16 @@
 - [Live-Hack-CVE/CVE-2019-4298](https://github.com/Live-Hack-CVE/CVE-2019-4298)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4298">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4298">
 
 ---
+## CVE-2019-4296 (2019-07-01T15:15:00)
+> IBM Robotic Process Automation with Automation Anywhere 11 information disclosure could allow a local user to obtain e-mail contents from the client debug log file. IBM X-Force ID: 160759.
+- [Live-Hack-CVE/CVE-2019-4296](https://github.com/Live-Hack-CVE/CVE-2019-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4296">
+
+---
+## CVE-2019-4295 (2019-07-01T15:15:00)
+> IBM Robotic Process Automation with Automation Anywhere 11 could allow an attacker with specialized access to obtain highly sensitive from the credential vault. IBM X-Force ID: 160758.
+- [Live-Hack-CVE/CVE-2019-4295](https://github.com/Live-Hack-CVE/CVE-2019-4295)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4295">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4295">
+
+---
 ## CVE-2019-4284 (2019-08-05T14:15:00)
 > IBM Cloud Private 2.1.0 , 3.1.0, 3.1.1, and 3.1.2 could allow a local privileged user to obtain sensitive OIDC token that is printed to log files, which could be used to log in to the system as another user. IBM X-Force ID: 160512.
 - [Live-Hack-CVE/CVE-2019-4284](https://github.com/Live-Hack-CVE/CVE-2019-4284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4284">
@@ -988,6 +998,11 @@
 - [Live-Hack-CVE/CVE-2019-4270](https://github.com/Live-Hack-CVE/CVE-2019-4270)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4270">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4270">
 
 ---
+## CVE-2019-4269 (2019-06-28T17:15:00)
+> IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 Admin Console could allow a remote attacker to obtain sensitive information when a specially crafted url causes a stack trace to be dumped. IBM X-Force ID: 160202.
+- [Live-Hack-CVE/CVE-2019-4269](https://github.com/Live-Hack-CVE/CVE-2019-4269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4269">
+
+---
 ## CVE-2019-4268 (2019-09-17T19:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 160201.
 - [Live-Hack-CVE/CVE-2019-4268](https://github.com/Live-Hack-CVE/CVE-2019-4268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4268">
@@ -998,6 +1013,31 @@
 > The IBM Spectrum Protect 7.1 and 8.1 Backup-Archive Client is vulnerable to a buffer overflow. This could allow execution of arbitrary code on the local system or the application to crash. IBM X-Force ID: 160200.
 - [Live-Hack-CVE/CVE-2019-4267](https://github.com/Live-Hack-CVE/CVE-2019-4267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4267">
 - [Live-Hack-CVE/CVE-2019-4267](https://github.com/Live-Hack-CVE/CVE-2019-4267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4267">
+
+---
+## CVE-2019-4263 (2019-07-11T20:15:00)
+> IBM Content Navigator 3.0CD is vulnerable to local file inclusion, allowing an attacker to access a configuration file in the ICN server. IBM X-Force ID: 160015.
+- [Live-Hack-CVE/CVE-2019-4263](https://github.com/Live-Hack-CVE/CVE-2019-4263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4263">
+
+---
+## CVE-2019-4260 (2019-07-02T15:15:00)
+> IBM Daeja ViewONE Professional, Standard & Virtual 5.0 through 5.0.5 could allow an unauthorized user to download server files resulting in sensitive information disclosure. IBM X-Force ID: 160012.
+- [Live-Hack-CVE/CVE-2019-4260](https://github.com/Live-Hack-CVE/CVE-2019-4260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4260">
+
+---
+## CVE-2019-4257 (2019-06-06T21:29:00)
+> IBM InfoSphere Information Server 11.5 and 11.7 is affected by an information disclosure vulnerability. Sensitive information in an error message may be used to conduct further attacks against the system. IBM X-Force ID: 159945.
+- [Live-Hack-CVE/CVE-2019-4257](https://github.com/Live-Hack-CVE/CVE-2019-4257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4257">
+
+---
+## CVE-2019-4252 (2019-06-27T14:15:00)
+> IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 159883.
+- [Live-Hack-CVE/CVE-2019-4252](https://github.com/Live-Hack-CVE/CVE-2019-4252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4252">
+
+---
+## CVE-2019-4250 (2019-06-27T14:15:00)
+> IBM Jazz Foundation products (IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1) is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159648.
+- [Live-Hack-CVE/CVE-2019-4250](https://github.com/Live-Hack-CVE/CVE-2019-4250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4250">
 
 ---
 ## CVE-2019-4249 (2019-06-27T14:15:00)
@@ -1100,15 +1140,40 @@
 - [Live-Hack-CVE/CVE-2019-4175](https://github.com/Live-Hack-CVE/CVE-2019-4175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4175">
 
 ---
+## CVE-2019-4173 (2019-06-17T15:15:00)
+> IBM Cognos Controller 10.2.0, 10.2.1, 10.3.0, 10.3.1, and 10.4.0 could allow a remote attacker to obtain sensitive information, caused by a flaw in the HTTP OPTIONS method, aka Optionsbleed. By sending an OPTIONS HTTP request, a remote attacker could exploit this vulnerability to read secret data from process memory and obtain sensitive information. IBM X-Force ID: 158878.
+- [Live-Hack-CVE/CVE-2019-4173](https://github.com/Live-Hack-CVE/CVE-2019-4173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4173">
+
+---
 ## CVE-2019-4171 (2019-09-17T19:15:00)
 > IBM Cognos Controller 10.3.0, 10.3.1, 10.4.0, and 10.4.1 does not set the secure attribute on authorization tokens or session cookies. This could allow an attacker to obtain sensitive information using man in the middle techniques. IBM X-Force ID: 158876.
 - [Live-Hack-CVE/CVE-2019-4171](https://github.com/Live-Hack-CVE/CVE-2019-4171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4171">
 - [Live-Hack-CVE/CVE-2019-4171](https://github.com/Live-Hack-CVE/CVE-2019-4171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4171">
 
 ---
+## CVE-2019-4166 (2019-04-30T15:29:00)
+> IBM StoredIQ 7.6 could allow a remote attacker to conduct phishing attacks, using an open redirect attack. By persuading a victim to visit a specially-crafted Web site, a remote attacker could exploit this vulnerability to spoof the URL displayed to redirect a user to a malicious Web site that would appear to be trusted. This could allow the attacker to obtain highly sensitive information or conduct further attacks against the victim. IBM X-Force ID: 158699.
+- [Live-Hack-CVE/CVE-2019-4166](https://github.com/Live-Hack-CVE/CVE-2019-4166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4166">
+
+---
 ## CVE-2019-4163 (2019-07-31T17:15:00)
 > IBM StoreIQ 7.6.0.0. through 7.6.0.18 could allow an authenticated user to obtain sensitive information that a privileged user should only be allowed to view. IBM X-Force ID: 158696.
 - [Live-Hack-CVE/CVE-2019-4163](https://github.com/Live-Hack-CVE/CVE-2019-4163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4163">
+
+---
+## CVE-2019-4162 (2019-06-06T21:29:00)
+> IBM Security Information Queue (ISIQ) 1.0.0, 1.0.1, and 1.0.2 is missing the HTTP Strict Transport Security header. Users can navigate by mistake to the unencrypted version of the web application or accept invalid certificates. This leads to sensitive data being sent unencrypted over the wire. IBM X-Force ID: 158661.
+- [Live-Hack-CVE/CVE-2019-4162](https://github.com/Live-Hack-CVE/CVE-2019-4162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4162">
+
+---
+## CVE-2019-4157 (2019-06-25T16:15:00)
+> IBM Security Access Manager 9.0.1 through 9.0.6 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158573.
+- [Live-Hack-CVE/CVE-2019-4157](https://github.com/Live-Hack-CVE/CVE-2019-4157)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4157">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4157">
+
+---
+## CVE-2019-4156 (2019-06-25T16:15:00)
+> IBM Security Access Manager 9.0.1 through 9.0.6 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 158572.
+- [Live-Hack-CVE/CVE-2019-4156](https://github.com/Live-Hack-CVE/CVE-2019-4156)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4156">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4156">
 
 ---
 ## CVE-2019-4147 (2019-09-16T19:15:00)
@@ -1121,6 +1186,11 @@
 > IBM MQ 7.1.0.0 - 7.1.0.9, 7.5.0.0 - 7.5.0.9, 8.0.0.0 - 8.0.0.11, 9.0.0.0 - 9.0.0.6, 9.1.0.0 - 9.1.0.2, and 9.1.1 - 9.1.2 is vulnerable to a denial of service attack caused by a memory leak in the clustering code. IBM X-Force ID: 158337.
 - [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
 - [Live-Hack-CVE/CVE-2019-4141](https://github.com/Live-Hack-CVE/CVE-2019-4141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4141">
+
+---
+## CVE-2019-4140 (2019-07-02T15:15:00)
+> IBM Tivoli Storage Manager Server (IBM Spectrum Protect 7.1 and 8.1) could allow a local user to replace existing databases by restoring old data. IBM X-Force ID: 158336.
+- [Live-Hack-CVE/CVE-2019-4140](https://github.com/Live-Hack-CVE/CVE-2019-4140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4140">
 
 ---
 ## CVE-2019-4136 (2019-06-17T15:15:00)
@@ -1350,6 +1420,11 @@
 ## CVE-2019-3635 (2019-08-14T17:15:00)
 > Exfiltration of Data in McAfee Web Gateway (MWG) 7.8.2.x prior to 7.8.2.12 allows attackers to obtain sensitive data via crafting a complex webpage that will trigger the Web Gateway to block the user accessing an iframe.
 - [Live-Hack-CVE/CVE-2019-3635](https://github.com/Live-Hack-CVE/CVE-2019-3635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3635">
+
+---
+## CVE-2019-3612 (2019-04-10T20:29:00)
+> Information Disclosure vulnerability in McAfee DXL Platform and TIE Server in DXL prior to 5.0.1 HF2 and TIE prior to 2.3.1 HF1 allows Authenticated users to view sensitive information in plain text via the GUI or command line.
+- [Live-Hack-CVE/CVE-2019-3612](https://github.com/Live-Hack-CVE/CVE-2019-3612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3612">
 
 ---
 ## CVE-2019-3560 (2019-04-29T16:29:00)
@@ -2098,6 +2173,21 @@
 - [Live-Hack-CVE/CVE-2019-17402](https://github.com/Live-Hack-CVE/CVE-2019-17402)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17402">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17402">
 
 ---
+## CVE-2019-17350 (2019-10-08T00:15:00)
+> An issue was discovered in Xen through 4.12.x allowing Arm domU attackers to cause a denial of service (infinite loop) involving a compare-and-exchange operation.
+- [Live-Hack-CVE/CVE-2019-17350](https://github.com/Live-Hack-CVE/CVE-2019-17350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17350">
+
+---
+## CVE-2019-17342 (2019-10-08T01:15:00)
+> An issue was discovered in Xen through 4.11.x allowing x86 PV guest OS users to cause a denial of service or gain privileges by leveraging a race condition that arose when XENMEM_exchange was introduced.
+- [Live-Hack-CVE/CVE-2019-17342](https://github.com/Live-Hack-CVE/CVE-2019-17342)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17342">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17342">
+
+---
+## CVE-2019-17341 (2019-10-08T01:15:00)
+> An issue was discovered in Xen through 4.11.x allowing x86 PV guest OS users to cause a denial of service or gain privileges by leveraging a page-writability race condition during addition of a passed-through PCI device.
+- [Live-Hack-CVE/CVE-2019-17341](https://github.com/Live-Hack-CVE/CVE-2019-17341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17341">
+
+---
 ## CVE-2019-17223 (2019-10-15T12:15:00)
 > There is HTML Injection in the Note field in Dolibarr ERP/CRM 10.0.2 via user/note.php.
 - [Live-Hack-CVE/CVE-2019-17223](https://github.com/Live-Hack-CVE/CVE-2019-17223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17223">
@@ -2482,6 +2572,21 @@
 ## CVE-2019-13767 (2020-01-10T22:15:00)
 > Use after free in media picker in Google Chrome prior to 79.0.3945.88 allowed a remote attacker who had compromised the renderer process to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13767](https://github.com/Live-Hack-CVE/CVE-2019-13767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13767">
+
+---
+## CVE-2019-13748 (2019-12-10T22:15:00)
+> Insufficient policy enforcement in developer tools in Google Chrome prior to 79.0.3945.79 allowed a local attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13748](https://github.com/Live-Hack-CVE/CVE-2019-13748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13748">
+
+---
+## CVE-2019-13746 (2019-12-10T22:15:00)
+> Insufficient policy enforcement in Omnibox in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13746](https://github.com/Live-Hack-CVE/CVE-2019-13746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13746">
+
+---
+## CVE-2019-13744 (2019-12-10T22:15:00)
+> Insufficient policy enforcement in cookies in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13744](https://github.com/Live-Hack-CVE/CVE-2019-13744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13744">
 
 ---
 ## CVE-2019-13720 (2019-11-25T15:15:00)
