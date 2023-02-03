@@ -1569,6 +1569,11 @@
 - [Live-Hack-CVE/CVE-2020-29506](https://github.com/Live-Hack-CVE/CVE-2020-29506)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29506">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29506">
 
 ---
+## CVE-2020-29396 (2020-12-22T17:15:00)
+> A sandboxing issue in Odoo Community 11.0 through 13.0 and Odoo Enterprise 11.0 through 13.0, when running with Python 3.6 or later, allows remote authenticated users to execute arbitrary code, leading to privilege escalation.
+- [Live-Hack-CVE/CVE-2020-29396](https://github.com/Live-Hack-CVE/CVE-2020-29396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29396">
+
+---
 ## CVE-2020-29394 (2020-11-30T19:15:00)
 > A buffer overflow in the dlt_filter_load function in dlt_common.c from dlt-daemon through 2.18.5 (GENIVI Diagnostic Log and Trace) allows arbitrary code execution because fscanf is misused (no limit on the number of characters to be read in the format argument).
 - [Live-Hack-CVE/CVE-2020-29394](https://github.com/Live-Hack-CVE/CVE-2020-29394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29394">
@@ -1873,6 +1878,11 @@
 - [Live-Hack-CVE/CVE-2020-28268](https://github.com/Live-Hack-CVE/CVE-2020-28268)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28268">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28268">
 
 ---
+## CVE-2020-28052 (2020-12-18T01:15:00)
+> An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different.
+- [Live-Hack-CVE/CVE-2020-28052](https://github.com/Live-Hack-CVE/CVE-2020-28052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28052">
+
+---
 ## CVE-2020-2805 (2020-04-15T14:15:00)
 > Vulnerability in the Java SE, Java SE Embedded product of Oracle Java SE (component: Libraries). Supported versions that are affected are Java SE: 7u251, 8u241, 11.0.6 and 14; Java SE Embedded: 8u241. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Java SE, Java SE Embedded, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Java SE, Java SE Embedded. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.0 Base Score 8.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2020-2805](https://github.com/Live-Hack-CVE/CVE-2020-2805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2805">
@@ -2008,6 +2018,7 @@
 ## CVE-2020-27786 (2020-12-11T05:15:00)
 > A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for memory corruption or privilege escalation. The highest threat from this vulnerability is to confidentiality, integrity, as well as system availability.
 - [kiks7/CVE-2020-27786-Kernel-Exploit](https://github.com/kiks7/CVE-2020-27786-Kernel-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kiks7/CVE-2020-27786-Kernel-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kiks7/CVE-2020-27786-Kernel-Exploit">
+- [Live-Hack-CVE/CVE-2020-27786](https://github.com/Live-Hack-CVE/CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27786">
 
 ---
 ## CVE-2020-27784 (2022-09-01T18:15:00)
@@ -2594,6 +2605,11 @@
 ## CVE-2020-25223 (2020-09-25T04:23:00)
 > A remote code execution vulnerability exists in the WebAdmin of Sophos SG UTM before v9.705 MR5, v9.607 MR7, and v9.511 MR11
 - [Live-Hack-CVE/CVE-2020-25223](https://github.com/Live-Hack-CVE/CVE-2020-25223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25223">
+
+---
+## CVE-2020-25221 (2020-09-10T14:15:00)
+> get_gate_page in mm/gup.c in the Linux kernel 5.7.x and 5.8.x before 5.8.7 allows privilege escalation because of incorrect reference counting (caused by gate page mishandling) of the struct page that backs the vsyscall page. The result is a refcount underflow. This can be triggered by any 64-bit process that can use ptrace() or process_vm_readv(), aka CID-9fa2dd946743.
+- [Live-Hack-CVE/CVE-2020-25221](https://github.com/Live-Hack-CVE/CVE-2020-25221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25221">
 
 ---
 ## CVE-2020-25218 (2021-03-29T17:15:00)
@@ -3673,6 +3689,26 @@
 ## CVE-2020-15676 (2020-10-01T19:15:00)
 > Firefox sometimes ran the onload handler for SVG elements that the DOM sanitizer decided to remove, resulting in JavaScript being executed after pasting attacker-controlled data into a contenteditable element. This vulnerability affects Firefox < 81, Thunderbird < 78.3, and Firefox ESR < 78.3.
 - [Live-Hack-CVE/CVE-2020-15676](https://github.com/Live-Hack-CVE/CVE-2020-15676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15676">
+
+---
+## CVE-2020-15658 (2020-08-10T18:15:00)
+> The code for downloading files did not properly take care of special characters, which led to an attacker being able to cut off the file ending at an earlier position, leading to a different file type being downloaded than shown in the dialog. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1.
+- [Live-Hack-CVE/CVE-2020-15658](https://github.com/Live-Hack-CVE/CVE-2020-15658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15658">
+
+---
+## CVE-2020-15656 (2020-08-10T18:15:00)
+> JIT optimizations involving the Javascript arguments object could confuse later optimizations. This risk was already mitigated by various precautions in the code, resulting in this bug rated at only moderate severity. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1.
+- [Live-Hack-CVE/CVE-2020-15656](https://github.com/Live-Hack-CVE/CVE-2020-15656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15656">
+
+---
+## CVE-2020-15654 (2020-08-10T18:15:00)
+> When in an endless loop, a website specifying a custom cursor using CSS could make it look like the user is interacting with the user interface, when they are not. This could lead to a perceived broken state, especially when interactions with existing browser dialogs and warnings do not work. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1.
+- [Live-Hack-CVE/CVE-2020-15654](https://github.com/Live-Hack-CVE/CVE-2020-15654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15654">
+
+---
+## CVE-2020-15653 (2020-08-10T18:15:00)
+> An iframe sandbox element with the allow-popups flag could be bypassed when using noopener links. This could have led to security issues for websites relying on sandbox configurations that allowed popups and hosted arbitrary content. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1.
+- [Live-Hack-CVE/CVE-2020-15653](https://github.com/Live-Hack-CVE/CVE-2020-15653)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15653">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15653">
 
 ---
 ## CVE-2020-15652 (2020-08-10T18:15:00)

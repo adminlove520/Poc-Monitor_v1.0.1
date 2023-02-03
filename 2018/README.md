@@ -331,6 +331,26 @@
 - [Live-Hack-CVE/CVE-2018-4832](https://github.com/Live-Hack-CVE/CVE-2018-4832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4832">
 
 ---
+## CVE-2018-3996 (2018-10-08T16:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3996](https://github.com/Live-Hack-CVE/CVE-2018-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3996">
+
+---
+## CVE-2018-3995 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3995](https://github.com/Live-Hack-CVE/CVE-2018-3995)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3995">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3995">
+
+---
+## CVE-2018-3994 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3994](https://github.com/Live-Hack-CVE/CVE-2018-3994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3994">
+
+---
+## CVE-2018-3993 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3993](https://github.com/Live-Hack-CVE/CVE-2018-3993)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3993">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3993">
+
+---
 ## CVE-2018-3990 (2019-02-05T23:29:00)
 > An exploitable pool corruption vulnerability exists in the 0x8200E804 IOCTL handler functionality of WIBU-SYSTEMS WibuKey.sys Version 6.40 (Build 2400). A specially crafted IRP request can cause a buffer overflow, resulting in kernel memory corruption and, potentially, privilege escalation. An attacker can send an IRP request to trigger this vulnerability.
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
@@ -364,6 +384,46 @@
 ## CVE-2018-3962 (2018-10-02T21:29:00)
 > A use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A use-after-free condition can occur when accessing the CreationDate property of the this.info object. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
 - [Live-Hack-CVE/CVE-2018-3962](https://github.com/Live-Hack-CVE/CVE-2018-3962)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3962">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3962">
+
+---
+## CVE-2018-3946 (2018-10-03T15:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3946](https://github.com/Live-Hack-CVE/CVE-2018-3946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3946">
+
+---
+## CVE-2018-3945 (2018-10-08T16:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3945](https://github.com/Live-Hack-CVE/CVE-2018-3945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3945">
+
+---
+## CVE-2018-3944 (2018-10-02T21:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3944](https://github.com/Live-Hack-CVE/CVE-2018-3944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3944">
+
+---
+## CVE-2018-3943 (2018-10-02T21:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3943](https://github.com/Live-Hack-CVE/CVE-2018-3943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3943">
+
+---
+## CVE-2018-3942 (2018-10-08T16:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3942](https://github.com/Live-Hack-CVE/CVE-2018-3942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3942">
+
+---
+## CVE-2018-3941 (2018-10-08T16:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3941](https://github.com/Live-Hack-CVE/CVE-2018-3941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3941">
+
+---
+## CVE-2018-3940 (2018-10-08T16:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused. An attacker needs to trick the user to open the malicious file to trigger.
+- [Live-Hack-CVE/CVE-2018-3940](https://github.com/Live-Hack-CVE/CVE-2018-3940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3940">
+
+---
+## CVE-2018-3939 (2018-08-01T20:29:00)
+> An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
+- [Live-Hack-CVE/CVE-2018-3939](https://github.com/Live-Hack-CVE/CVE-2018-3939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3939">
 
 ---
 ## CVE-2018-3935 (2018-11-02T17:29:00)

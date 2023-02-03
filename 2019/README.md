@@ -704,6 +704,16 @@
 - [Live-Hack-CVE/CVE-2019-5455](https://github.com/Live-Hack-CVE/CVE-2019-5455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5455">
 
 ---
+## CVE-2019-5446 (2019-07-10T20:15:00)
+> Command Injection in EdgeMAX EdgeSwitch prior to 1.8.2 allow an Admin user to execute commands as root.
+- [Live-Hack-CVE/CVE-2019-5446](https://github.com/Live-Hack-CVE/CVE-2019-5446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5446">
+
+---
+## CVE-2019-5445 (2019-07-10T20:15:00)
+> DoS in EdgeMAX EdgeSwitch prior to 1.8.2 allow an Admin user to Crash the SSH CLI interface by using crafted commands.
+- [Live-Hack-CVE/CVE-2019-5445](https://github.com/Live-Hack-CVE/CVE-2019-5445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5445">
+
+---
 ## CVE-2019-5420 (2019-03-27T14:29:00)
 > A remote code execution vulnerability in development mode Rails <5.2.2.1, <6.0.0.beta3 can allow an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit.
 - [laffray/ruby-RCE-CVE-2019-5420-](https://github.com/laffray/ruby-RCE-CVE-2019-5420-)	<img alt="forks" src="https://img.shields.io/github/forks/laffray/ruby-RCE-CVE-2019-5420-">	<img alt="stars" src="https://img.shields.io/github/stars/laffray/ruby-RCE-CVE-2019-5420-">
