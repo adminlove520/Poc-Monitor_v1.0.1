@@ -490,6 +490,16 @@
 - [Live-Hack-CVE/CVE-2019-6706](https://github.com/Live-Hack-CVE/CVE-2019-6706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6706">
 
 ---
+## CVE-2019-6648 (2019-09-04T16:15:00)
+> On version 1.9.0, If DEBUG logging is enable, F5 Container Ingress Service (CIS) for Kubernetes and Red Hat OpenShift (k8s-bigip-ctlr) log files may contain BIG-IP secrets such as SSL Private Keys and Private key Passphrases as provided as inputs by an AS3 Declaration.
+- [Live-Hack-CVE/CVE-2019-6648](https://github.com/Live-Hack-CVE/CVE-2019-6648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6648">
+
+---
+## CVE-2019-6643 (2019-09-04T18:15:00)
+> On versions 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.2, 12.1.0-12.1.4.1, and 11.5.2-11.6.4, an attacker sending specifically crafted DHCPv6 requests through a BIG-IP virtual server configured with a DHCPv6 profile may be able to cause the TMM process to produce a core file.
+- [Live-Hack-CVE/CVE-2019-6643](https://github.com/Live-Hack-CVE/CVE-2019-6643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6643">
+
+---
 ## CVE-2019-6575 (2019-04-17T14:29:00)
 > A vulnerability has been identified in SIMATIC CP 443-1 OPC UA (All versions), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions < V2.7), SIMATIC HMI Comfort Outdoor Panels 7" & 15" (incl. SIPLUS variants) (All versions < V15.1 Upd 4), SIMATIC HMI Comfort Panels 4" - 22" (incl. SIPLUS variants) (All versions < V15.1 Upd 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V15.1 Upd 4), SIMATIC IPC DiagMonitor (All versions < V5.1.3), SIMATIC NET PC Software V13 (All versions), SIMATIC NET PC Software V14 (All versions < V14 SP1 Update 14), SIMATIC NET PC Software V15 (All versions), SIMATIC RF188C (All versions < V1.1.0), SIMATIC RF600R family (All versions < V3.2.1), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions >= V2.5 < V2.6.1), SIMATIC S7-1500 Software Controller (All versions between V2.5 (including) and V2.7 (excluding)), SIMATIC WinCC OA (All versions < V3.15 P018), SIMATIC WinCC Runtime Advanced (All versions < V15.1 Upd 4), SINEC NMS (All versions < V1.0 SP1), SINEMA Server (All versions < V14 SP2), SINUMERIK OPC UA Server (All versions < V2.1), TeleControl Server Basic (All versions < V3.1.1). Specially crafted network packets sent to affected devices on port 4840/tcp could allow an unauthenticated remote attacker to cause a denial of service condition of the OPC communication or crash the device. The security vulnerability could be exploited by an attacker with network access to the affected systems. Successful exploitation requires no system privileges and no user interaction. An attacker could use the vulnerability to compromise availability of the OPC communication.
 - [Live-Hack-CVE/CVE-2019-6575](https://github.com/Live-Hack-CVE/CVE-2019-6575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6575">
@@ -1184,6 +1194,11 @@
 - [Live-Hack-CVE/CVE-2019-4106](https://github.com/Live-Hack-CVE/CVE-2019-4106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4106">
 
 ---
+## CVE-2019-4103 (2019-06-17T15:15:00)
+> IBM Tivoli Netcool/Impact 7.1.0 allows for remote execution of command by low privileged User. Remote code execution allow to execute arbitrary code on system which lead to take control over the system. IBM X-Force ID: 158094.
+- [Live-Hack-CVE/CVE-2019-4103](https://github.com/Live-Hack-CVE/CVE-2019-4103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4103">
+
+---
 ## CVE-2019-4086 (2019-09-17T19:15:00)
 > IBM Cloud Application Performance Management 8.1.4 could allow a remote attacker to hijack the clicking action of the victim. By persuading a victim to visit a malicious Web site, a remote attacker could exploit this vulnerability to hijack the victim's click actions and possibly launch further attacks against the victim. IBM X-Force ID: 157509.
 - [Live-Hack-CVE/CVE-2019-4086](https://github.com/Live-Hack-CVE/CVE-2019-4086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4086">
@@ -1202,6 +1217,11 @@
 - [Live-Hack-CVE/CVE-2019-4083](https://github.com/Live-Hack-CVE/CVE-2019-4083)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4083">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4083">
 
 ---
+## CVE-2019-4080 (2019-04-02T14:29:00)
+> IBM WebSphere Application Server Admin Console 7.5, 8.0, 8.5, and 9.0 is vulnerable to a potential denial of service, caused by improper parameter parsing. A remote attacker could exploit this to consume all available CPU resources. IBM X-Force ID: 157380.
+- [Live-Hack-CVE/CVE-2019-4080](https://github.com/Live-Hack-CVE/CVE-2019-4080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4080">
+
+---
 ## CVE-2019-4075 (2019-04-25T15:29:00)
 > IBM Sterling B2B Integrator Standard Edition 6.0.0.0 and 6.0.0.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157109.
 - [Live-Hack-CVE/CVE-2019-4075](https://github.com/Live-Hack-CVE/CVE-2019-4075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4075">
@@ -1217,9 +1237,34 @@
 - [Live-Hack-CVE/CVE-2019-4072](https://github.com/Live-Hack-CVE/CVE-2019-4072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4072">
 
 ---
+## CVE-2019-4070 (2019-06-07T15:29:00)
+> IBM Intelligent Operations Center (IOC) 5.1.0 through 5.2.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157015.
+- [Live-Hack-CVE/CVE-2019-4070](https://github.com/Live-Hack-CVE/CVE-2019-4070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4070">
+
+---
+## CVE-2019-4067 (2019-06-07T15:29:00)
+> IBM Intelligent Operations Center (IOC) 5.1.0 through 5.2.0 does not require that users should have strong passwords by default, which makes it easier for attackers to compromise user accounts. IBM X-Force ID: 157012.
+- [Live-Hack-CVE/CVE-2019-4067](https://github.com/Live-Hack-CVE/CVE-2019-4067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4067">
+
+---
+## CVE-2019-4063 (2019-03-05T18:29:00)
+> IBM Sterling B2B Integrator 5.2.0.1 through 6.0.0.0 Standard Edition could allow highly sensitive information to be transmitted in plain text. An attacker could obtain this information using man in the middle techniques. IBM X-ForceID: 157008.
+- [Live-Hack-CVE/CVE-2019-4063](https://github.com/Live-Hack-CVE/CVE-2019-4063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4063">
+
+---
+## CVE-2019-4062 (2019-07-30T14:15:00)
+> IBM i2 Intelligent Analyis Platform 9.0.0 through 9.1.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 157007.
+- [Live-Hack-CVE/CVE-2019-4062](https://github.com/Live-Hack-CVE/CVE-2019-4062)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4062">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4062">
+
+---
 ## CVE-2019-4054 (2019-07-17T14:15:00)
 > IBM QRadar SIEM 7.2 and 7.3 could allow a local user to obtain sensitive information when exporting content that could aid an attacker in further attacks against the system. IBM X-Force ID: 156563.
 - [Live-Hack-CVE/CVE-2019-4054](https://github.com/Live-Hack-CVE/CVE-2019-4054)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4054">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4054">
+
+---
+## CVE-2019-4052 (2019-03-22T19:29:00)
+> IBM API Connect 2018.1 and 2018.4.1.2 apis can be leveraged by unauthenticated users to discover login ids of registered users. IBM X-Force ID: 156544.
+- [Live-Hack-CVE/CVE-2019-4052](https://github.com/Live-Hack-CVE/CVE-2019-4052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4052">
 
 ---
 ## CVE-2019-4048 (2019-06-06T01:29:00)

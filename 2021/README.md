@@ -5844,6 +5844,11 @@
 - [Live-Hack-CVE/CVE-2021-28169](https://github.com/Live-Hack-CVE/CVE-2021-28169)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28169">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28169">
 
 ---
+## CVE-2021-28116 (2021-03-09T22:15:00)
+> Squid through 4.14 and 5.x through 5.0.5, in some configurations, allows information disclosure because of an out-of-bounds read in WCCP protocol data. This can be leveraged as part of a chain for remote code execution as nobody.
+- [Live-Hack-CVE/CVE-2021-28116](https://github.com/Live-Hack-CVE/CVE-2021-28116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28116">
+
+---
 ## CVE-2021-28114 (2021-07-16T13:15:00)
 > Froala WYSIWYG Editor 3.2.6-1 is affected by XSS due to a namespace confusion during parsing.
 - [Live-Hack-CVE/CVE-2021-28114](https://github.com/Live-Hack-CVE/CVE-2021-28114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28114">

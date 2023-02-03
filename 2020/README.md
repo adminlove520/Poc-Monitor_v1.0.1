@@ -1259,6 +1259,11 @@
 - [Live-Hack-CVE/CVE-2020-36430](https://github.com/Live-Hack-CVE/CVE-2020-36430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36430">
 
 ---
+## CVE-2020-36403 (2021-07-01T03:15:00)
+> HTSlib through 1.10.2 allows out-of-bounds write access in vcf_parse_format (called from vcf_parse and vcf_read).
+- [Live-Hack-CVE/CVE-2020-36403](https://github.com/Live-Hack-CVE/CVE-2020-36403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36403">
+
+---
 ## CVE-2020-36322 (2021-04-14T06:15:00)
 > An issue was discovered in the FUSE filesystem implementation in the Linux kernel before 5.10.6, aka CID-5d069dbe8aaf. fuse_do_getattr() calls make_bad_inode() in inappropriate situations, causing a system crash. NOTE: the original fix for this vulnerability was incomplete, and its incompleteness is tracked as CVE-2021-28950.
 - [Live-Hack-CVE/CVE-2020-36322](https://github.com/Live-Hack-CVE/CVE-2020-36322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36322">
@@ -2249,6 +2254,12 @@
 ## CVE-2020-26732 (2021-01-14T16:15:00)
 > Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.
 - [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732">
+- [Live-Hack-CVE/CVE-2020-26732](https://github.com/Live-Hack-CVE/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26732">
+
+---
+## CVE-2020-26664 (2021-01-08T18:15:00)
+> A vulnerability in EbmlTypeDispatcher::send in VideoLAN VLC media player 3.0.11 allows attackers to trigger a heap-based buffer overflow via a crafted .mkv file.
+- [Live-Hack-CVE/CVE-2020-26664](https://github.com/Live-Hack-CVE/CVE-2020-26664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26664">
 
 ---
 ## CVE-2020-26566 (2020-10-26T18:15:00)
@@ -4345,6 +4356,11 @@
 ## CVE-2020-13381 (2020-07-01T15:15:00)
 > openSIS through 7.4 allows SQL Injection.
 - [Live-Hack-CVE/CVE-2020-13381](https://github.com/Live-Hack-CVE/CVE-2020-13381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13381">
+
+---
+## CVE-2020-13300 (2020-09-14T19:15:00)
+> GitLab CE/EE version 13.3 prior to 13.3.4 was vulnerable to an OAuth authorization scope change without user consent in the middle of the authorization flow.
+- [Live-Hack-CVE/CVE-2020-13300](https://github.com/Live-Hack-CVE/CVE-2020-13300)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13300">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13300">
 
 ---
 ## CVE-2020-13277 (2020-06-19T18:15:00)

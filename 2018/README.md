@@ -516,6 +516,11 @@
 - [Live-Hack-CVE/CVE-2018-3868](https://github.com/Live-Hack-CVE/CVE-2018-3868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3868">
 
 ---
+## CVE-2018-3861 (2018-04-12T19:29:00)
+> A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution.
+- [Live-Hack-CVE/CVE-2018-3861](https://github.com/Live-Hack-CVE/CVE-2018-3861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3861">
+
+---
 ## CVE-2018-3860 (2018-07-19T19:29:00)
 > An exploitable out-of-bounds write exists in the TIFF parsing functionality of Canvas Draw version 4.0.0. A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain the ability to execute code. A different vulnerability than CVE-2018-3859.
 - [Live-Hack-CVE/CVE-2018-3860](https://github.com/Live-Hack-CVE/CVE-2018-3860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3860">
@@ -549,6 +554,21 @@
 ## CVE-2018-3852 (2018-06-06T21:29:00)
 > An exploitable denial of service vulnerability exists in the Ocularis Recorder functionality of Ocularis 5.5.0.242. A specially crafted TCP packet can cause a process to terminate resulting in denial of service. An attacker can send a crafted TCP packet to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2018-3852](https://github.com/Live-Hack-CVE/CVE-2018-3852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3852">
+
+---
+## CVE-2018-3836 (2018-04-24T19:29:00)
+> An exploitable command injection vulnerability exists in the gplotMakeOutput function of Leptonica 1.74.4. A specially crafted gplot rootname argument can cause a command injection resulting in arbitrary code execution. An attacker can provide a malicious path as input to an application that passes attacker data to this function to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3836](https://github.com/Live-Hack-CVE/CVE-2018-3836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3836">
+
+---
+## CVE-2018-3835 (2018-01-29T20:29:00)
+> An exploitable out of bounds write vulnerability exists in version 2.2 of the Per Face Texture mapping application known as PTEX. The vulnerability is present in the reading of a file without proper parameter checking. The value read in, is not verified to be valid and its use can lead to a buffer overflow, potentially resulting in code execution.
+- [Live-Hack-CVE/CVE-2018-3835](https://github.com/Live-Hack-CVE/CVE-2018-3835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3835">
+
+---
+## CVE-2018-3834 (2018-08-02T19:29:00)
+> An exploitable permanent denial of service vulnerability exists in Insteon Hub running firmware version 1013. The firmware upgrade functionality, triggered via PubNub, retrieves signed firmware binaries using plain HTTP requests. The device doesn't check the kind of firmware image that is going to be installed and thus allows for flashing any signed firmware into any MCU. Since the device contains different and incompatible MCUs, flashing one firmware to the wrong MCU will result in a permanent brick condition. To trigger this vulnerability, an attacker needs to impersonate the remote server "cache.insteon.com" and serve a signed firmware image.
+- [Live-Hack-CVE/CVE-2018-3834](https://github.com/Live-Hack-CVE/CVE-2018-3834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3834">
 
 ---
 ## CVE-2018-3746 (2018-06-01T17:29:00)
