@@ -310,6 +310,11 @@
 - [Live-Hack-CVE/CVE-2020-7994](https://github.com/Live-Hack-CVE/CVE-2020-7994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7994">
 
 ---
+## CVE-2020-7923 (2020-08-21T15:15:00)
+> A user authorized to perform database queries may cause denial of service by issuing specially crafted queries, which violate an invariant in the query subsystem's support for geoNear. This issue affects: MongoDB Inc. MongoDB Server v4.4 versions prior to 4.4.0-rc7; v4.2 versions prior to 4.2.8; v4.0 versions prior to 4.0.19.
+- [Live-Hack-CVE/CVE-2020-7923](https://github.com/Live-Hack-CVE/CVE-2020-7923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7923">
+
+---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
 > A vulnerability in agent program of HelpU remote control solution could allow an authenticated remote attacker to execute arbitrary commands This vulnerability is due to insufficient input santization when communicating customer process.
 - [Live-Hack-CVE/CVE-2020-7862](https://github.com/Live-Hack-CVE/CVE-2020-7862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7862">
@@ -527,6 +532,11 @@
 ## CVE-2020-7581 (2020-07-14T14:15:00)
 > A vulnerability has been identified in Opcenter Execution Discrete (All versions < V3.2), Opcenter Execution Foundation (All versions < V3.2), Opcenter Execution Process (All versions < V3.2), Opcenter Intelligence (All versions < V3.3), Opcenter Quality (All versions < V11.3), Opcenter RD&L (V8.0), SIMATIC Notifier Server for Windows (All versions), SIMATIC PCS neo (All versions < V3.0 SP1), SIMATIC STEP 7 (TIA Portal) V15 (All versions < V15.1 Update 5), SIMATIC STEP 7 (TIA Portal) V16 (All versions < V16 Update 2), SIMOCODE ES V15.1 (All versions < V15.1 Update 4), SIMOCODE ES V16 (All versions < V16 Update 1), Soft Starter ES V15.1 (All versions < V15.1 Update 3), Soft Starter ES V16 (All versions < V16 Update 1). A component within the affected application calls a helper binary with SYSTEM privileges during startup while the call path is not quoted. This could allow a local attacker with administrative privileges to execute code with SYSTEM level privileges.
 - [Live-Hack-CVE/CVE-2020-7581](https://github.com/Live-Hack-CVE/CVE-2020-7581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7581">
+
+---
+## CVE-2020-7576 (2020-07-14T14:15:00)
+> A vulnerability has been identified in Camstar Enterprise Platform (All versions), Opcenter Execution Core (All versions < V8.2), Opcenter Execution Core (V8.2). An authenticated user with the ability to create containers, packages or register defects could perform stored Cross-Site Scripting (XSS) attacks within the vulnerable software. The impact of this attack could result in the session cookies of legitimate users being stolen. Should the attacker gain access to these cookies, they could then hijack the session and perform arbitrary actions in the name of the victim.
+- [Live-Hack-CVE/CVE-2020-7576](https://github.com/Live-Hack-CVE/CVE-2020-7576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7576">
 
 ---
 ## CVE-2020-7573 (2020-11-19T22:15:00)
@@ -3471,6 +3481,11 @@
 - [Live-Hack-CVE/CVE-2020-17049](https://github.com/Live-Hack-CVE/CVE-2020-17049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17049">
 
 ---
+## CVE-2020-16845 (2020-08-06T18:15:00)
+> Go before 1.13.15 and 14.x before 1.14.7 can have an infinite read loop in ReadUvarint and ReadVarint in encoding/binary via invalid inputs.
+- [Live-Hack-CVE/CVE-2020-16845](https://github.com/Live-Hack-CVE/CVE-2020-16845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16845">
+
+---
 ## CVE-2020-16593 (2020-12-09T21:15:00)
 > A Null Pointer Dereference vulnerability exists in the Binary File Descriptor (BFD) library (aka libbfd), as distributed in GNU Binutils 2.35, in scan_unit_for_symbols, as demonstrated in addr2line, that can cause a denial of service via a crafted file.
 - [Live-Hack-CVE/CVE-2020-16593](https://github.com/Live-Hack-CVE/CVE-2020-16593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16593">
@@ -3569,6 +3584,11 @@
 ## CVE-2020-16287 (2020-08-13T03:15:00)
 > A buffer overflow vulnerability in lprn_is_black() in contrib/lips4/gdevlprn.c of Artifex Software GhostScript v9.50 allows a remote attacker to cause a denial of service via a crafted PDF file. This is fixed in v9.51.
 - [Live-Hack-CVE/CVE-2020-16287](https://github.com/Live-Hack-CVE/CVE-2020-16287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16287">
+
+---
+## CVE-2020-16251 (2020-08-26T15:15:00)
+> HashiCorp Vault and Vault Enterprise versions 0.8.3 and newer, when configured with the GCP GCE auth method, may be vulnerable to authentication bypass. Fixed in 1.2.5, 1.3.8, 1.4.4, and 1.5.1.
+- [Live-Hack-CVE/CVE-2020-16251](https://github.com/Live-Hack-CVE/CVE-2020-16251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16251">
 
 ---
 ## CVE-2020-16242 (2020-09-25T18:15:00)
@@ -4139,6 +4159,11 @@
 - [Live-Hack-CVE/CVE-2020-14043](https://github.com/Live-Hack-CVE/CVE-2020-14043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14043">
 
 ---
+## CVE-2020-14042 (2020-08-25T15:15:00)
+> ** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Cross Site Scripting (XSS) vulnerability was found in Codiad v1.7.8 and later. The vulnerability occurs because of improper sanitization of the folder's name $path variable in components/filemanager/class.filemanager.php. NOTE: the vendor states "Codiad is no longer under active maintenance by core contributors."
+- [Live-Hack-CVE/CVE-2020-14042](https://github.com/Live-Hack-CVE/CVE-2020-14042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14042">
+
+---
 ## CVE-2020-14005 (2020-06-24T14:15:00)
 > Solarwinds Orion (with Web Console WPM 2019.4.1, and Orion Platform HF4 or NPM HF2 2019.4) allows remote attackers to execute arbitrary code via a defined event.
 - [Live-Hack-CVE/CVE-2020-14005](https://github.com/Live-Hack-CVE/CVE-2020-14005)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14005">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14005">
@@ -4420,6 +4445,16 @@
 - [Live-Hack-CVE/CVE-2020-12744](https://github.com/Live-Hack-CVE/CVE-2020-12744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12744">
 
 ---
+## CVE-2020-12674 (2020-08-12T16:15:00)
+> In Dovecot before 2.3.11.3, sending a specially formatted RPA request will crash the auth service because a length of zero is mishandled.
+- [Live-Hack-CVE/CVE-2020-12674](https://github.com/Live-Hack-CVE/CVE-2020-12674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12674">
+
+---
+## CVE-2020-12673 (2020-08-12T16:15:00)
+> In Dovecot before 2.3.11.3, sending a specially formatted NTLM request will crash the auth service because of an out-of-bounds read.
+- [Live-Hack-CVE/CVE-2020-12673](https://github.com/Live-Hack-CVE/CVE-2020-12673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12673">
+
+---
 ## CVE-2020-12672 (2020-05-06T03:15:00)
 > GraphicsMagick through 1.3.35 has a heap-based buffer overflow in ReadMNGImage in coders/png.c.
 - [Live-Hack-CVE/CVE-2020-12672](https://github.com/Live-Hack-CVE/CVE-2020-12672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12672">
@@ -4682,6 +4717,11 @@
 ## CVE-2020-10732 (2020-06-12T14:15:00)
 > A flaw was found in the Linux kernel's implementation of Userspace core dumps. This flaw allows an attacker with a local account to crash a trivial program and exfiltrate private kernel data.
 - [Live-Hack-CVE/CVE-2020-10732](https://github.com/Live-Hack-CVE/CVE-2020-10732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10732">
+
+---
+## CVE-2020-10730 (2020-07-07T14:15:00)
+> A NULL pointer dereference, or possible use-after-free flaw was found in Samba AD LDAP server in versions before 4.10.17, before 4.11.11 and before 4.12.4. Although some versions of Samba shipped with Red Hat Enterprise Linux do not support Samba in AD mode, the affected code is shipped with the libldb package. This flaw allows an authenticated user to possibly trigger a use-after-free or NULL pointer dereference. The highest threat from this vulnerability is to system availability.
+- [Live-Hack-CVE/CVE-2020-10730](https://github.com/Live-Hack-CVE/CVE-2020-10730)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10730">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10730">
 
 ---
 ## CVE-2020-10728 (2022-08-16T21:15:00)

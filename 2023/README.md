@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-25135 (2023-02-03T05:15:00)
+> vBulletin before 5.6.9 PL1 allows an unauthenticated remote attacker to execute arbitrary code via a crafted HTTP request that triggers deserialization. This occurs because verify_serialized checks that a value is serialized by calling unserialize and then checking for errors. The fixed versions are 5.6.7 PL1, 5.6.8 PL1, and 5.6.9 PL1.
+- [Live-Hack-CVE/CVE-2023-25135](https://github.com/Live-Hack-CVE/CVE-2023-25135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25135">
+
+---
 ## CVE-2023-25015 (2023-02-02T04:15:00)
 > Clockwork Web before 0.1.2, when Rails before 5.2 is used, allows CSRF.
 - [Live-Hack-CVE/CVE-2023-25015](https://github.com/Live-Hack-CVE/CVE-2023-25015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25015">
@@ -444,6 +449,16 @@
 ## CVE-2023-23126 (2023-02-01T14:15:00)
 > Connectwise Automate 2022.11 is vulnerable to Clickjacking. The login screen can be iframed and used to manipulate users to perform unintended actions.
 - [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
+
+---
+## CVE-2023-23120 (2023-02-02T17:17:00)
+> The use of the cyclic redundancy check (CRC) algorithm for integrity check during firmware update makes TRENDnet TV-IP651WI Network Camera firmware version v1.07.01 and earlier vulnerable to firmware modification attacks. An attacker can conduct a man-in-the-middle (MITM) attack to modify the new firmware image and bypass the checksum verification.
+- [Live-Hack-CVE/CVE-2023-23120](https://github.com/Live-Hack-CVE/CVE-2023-23120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23120">
+
+---
+## CVE-2023-23119 (2023-02-02T17:17:00)
+> The use of the cyclic redundancy check (CRC) algorithm for integrity check during firmware update makes Ubiquiti airFiber AF2X Radio firmware version 3.2.2 and earlier vulnerable to firmware modification attacks. An attacker can conduct a man-in-the-middle (MITM) attack to modify the new firmware image and bypass the checksum verification.
+- [Live-Hack-CVE/CVE-2023-23119](https://github.com/Live-Hack-CVE/CVE-2023-23119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23119">
 
 ---
 ## CVE-2023-23110 (2023-02-02T15:17:00)
@@ -3053,6 +3068,16 @@
 ## CVE-2023-0125 (2023-01-09T21:15:00)
 > A vulnerability was found in Control iD Panel. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the component Web Interface. The manipulation of the argument Nome leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-217717 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0125](https://github.com/Live-Hack-CVE/CVE-2023-0125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0125">
+
+---
+## CVE-2023-0124 (2023-02-03T03:15:00)
+> Delta Electronics DOPSoft versions 4.00.16.22 and prior are vulnerable to an out-of-bounds write, which could allow an attacker to remotely execute arbitrary code when a malformed file is introduced to the software.
+- [Live-Hack-CVE/CVE-2023-0124](https://github.com/Live-Hack-CVE/CVE-2023-0124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0124">
+
+---
+## CVE-2023-0123 (2023-02-03T03:15:00)
+> Delta Electronics DOPSoft versions 4.00.16.22 and prior are vulnerable to a stack-based buffer overflow, which could allow an attacker to remotely execute arbitrary code when a malformed file is introduced to the software.
+- [Live-Hack-CVE/CVE-2023-0123](https://github.com/Live-Hack-CVE/CVE-2023-0123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0123">
 
 ---
 ## CVE-2023-0122 (2023-01-17T21:15:00)

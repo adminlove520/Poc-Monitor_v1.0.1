@@ -704,6 +704,16 @@
 - [Live-Hack-CVE/CVE-2019-5455](https://github.com/Live-Hack-CVE/CVE-2019-5455)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5455">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5455">
 
 ---
+## CVE-2019-5454 (2019-07-30T21:15:00)
+> SQL Injection in the Nextcloud Android app prior to version 3.0.0 allows to destroy a local cache when a harmful query is executed requiring to resetup the account.
+- [Live-Hack-CVE/CVE-2019-5454](https://github.com/Live-Hack-CVE/CVE-2019-5454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5454">
+
+---
+## CVE-2019-5447 (2019-07-15T18:15:00)
+> A path traversal vulnerability in <= v0.2.6 of http-file-server npm module allows attackers to list files in arbitrary folders.
+- [Live-Hack-CVE/CVE-2019-5447](https://github.com/Live-Hack-CVE/CVE-2019-5447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5447">
+
+---
 ## CVE-2019-5446 (2019-07-10T20:15:00)
 > Command Injection in EdgeMAX EdgeSwitch prior to 1.8.2 allow an Admin user to execute commands as root.
 - [Live-Hack-CVE/CVE-2019-5446](https://github.com/Live-Hack-CVE/CVE-2019-5446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5446">

@@ -496,6 +496,11 @@
 - [Live-Hack-CVE/CVE-2018-3887](https://github.com/Live-Hack-CVE/CVE-2018-3887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3887">
 
 ---
+## CVE-2018-3876 (2018-09-21T14:29:00)
+> An exploitable buffer overflow vulnerability exists in the credentials handler of video-core's HTTP server of Samsung SmartThings Hub STH-ETH-250-Firmware version 0.20.17. The strncpy overflows the destination buffer, which has a size of 64 bytes. An attacker can send an arbitrarily long "bucket" value in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3876](https://github.com/Live-Hack-CVE/CVE-2018-3876)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3876">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3876">
+
+---
 ## CVE-2018-3871 (2018-07-19T19:29:00)
 > An exploitable out-of-bounds write exists in the PCX parsing functionality of Canvas Draw version 4.0.0. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution. A different vulnerability than CVE-2018-3870.
 - [Live-Hack-CVE/CVE-2018-3871](https://github.com/Live-Hack-CVE/CVE-2018-3871)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3871">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3871">
@@ -504,6 +509,11 @@
 ## CVE-2018-3870 (2018-07-19T19:29:00)
 > An exploitable out-of-bounds write exists in the PCX parsing functionality of Canvas Draw version 4.0.0. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution. A different vulnerability than CVE-2018-3871.
 - [Live-Hack-CVE/CVE-2018-3870](https://github.com/Live-Hack-CVE/CVE-2018-3870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3870">
+
+---
+## CVE-2018-3868 (2018-04-12T19:29:00)
+> A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution.
+- [Live-Hack-CVE/CVE-2018-3868](https://github.com/Live-Hack-CVE/CVE-2018-3868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3868">
 
 ---
 ## CVE-2018-3860 (2018-07-19T19:29:00)
