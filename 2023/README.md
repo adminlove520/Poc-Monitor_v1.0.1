@@ -1,6 +1,16 @@
 # 2023 List
 
 ---
+## CVE-2023-25139 (2023-02-03T06:15:00)
+> sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buffer is allocated the exact size required to represent that number as a string. For example, 1,234,567 (with padding to 13) overflows by two bytes.
+- [Live-Hack-CVE/CVE-2023-25139](https://github.com/Live-Hack-CVE/CVE-2023-25139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25139">
+
+---
+## CVE-2023-25136 (2023-02-03T06:15:00)
+> OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that "exploiting this vulnerability will not be easy."
+- [Live-Hack-CVE/CVE-2023-25136](https://github.com/Live-Hack-CVE/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25136">
+
+---
 ## CVE-2023-25135 (2023-02-03T05:15:00)
 > vBulletin before 5.6.9 PL1 allows an unauthenticated remote attacker to execute arbitrary code via a crafted HTTP request that triggers deserialization. This occurs because verify_serialized checks that a value is serialized by calling unserialize and then checking for errors. The fixed versions are 5.6.7 PL1, 5.6.8 PL1, and 5.6.9 PL1.
 - [Live-Hack-CVE/CVE-2023-25135](https://github.com/Live-Hack-CVE/CVE-2023-25135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25135">
@@ -432,6 +442,7 @@
 ## CVE-2023-23130 (2023-02-01T14:15:00)
 > Connectwise Automate 2022.11 is vulnerable to Cleartext authentication. Authentication is being done via HTTP (cleartext) with SSL disabled.
 - [l00neyhacker/CVE-2023-23130](https://github.com/l00neyhacker/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23130">
+- [Live-Hack-CVE/CVE-2023-23130](https://github.com/Live-Hack-CVE/CVE-2023-23130)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23130">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23130">
 
 ---
 ## CVE-2023-23128 (2023-02-01T14:15:00)
@@ -449,6 +460,7 @@
 ## CVE-2023-23126 (2023-02-01T14:15:00)
 > Connectwise Automate 2022.11 is vulnerable to Clickjacking. The login screen can be iframed and used to manipulate users to perform unintended actions.
 - [l00neyhacker/CVE-2023-23126](https://github.com/l00neyhacker/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23126">
+- [Live-Hack-CVE/CVE-2023-23126](https://github.com/Live-Hack-CVE/CVE-2023-23126)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23126">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23126">
 
 ---
 ## CVE-2023-23120 (2023-02-02T17:17:00)
