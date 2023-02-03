@@ -707,6 +707,7 @@
 ## CVE-2019-5454 (2019-07-30T21:15:00)
 > SQL Injection in the Nextcloud Android app prior to version 3.0.0 allows to destroy a local cache when a harmful query is executed requiring to resetup the account.
 - [Live-Hack-CVE/CVE-2019-5454](https://github.com/Live-Hack-CVE/CVE-2019-5454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5454">
+- [shanika04/nextcloud_android](https://github.com/shanika04/nextcloud_android)	<img alt="forks" src="https://img.shields.io/github/forks/shanika04/nextcloud_android">	<img alt="stars" src="https://img.shields.io/github/stars/shanika04/nextcloud_android">
 
 ---
 ## CVE-2019-5447 (2019-07-15T18:15:00)
