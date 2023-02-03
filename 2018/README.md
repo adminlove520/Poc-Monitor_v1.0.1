@@ -1157,6 +1157,11 @@
 - [Live-Hack-CVE/CVE-2018-16877](https://github.com/Live-Hack-CVE/CVE-2018-16877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16877">
 
 ---
+## CVE-2018-16869 (2018-12-03T14:29:00)
+> A Bleichenbacher type side-channel based padding oracle attack was found in the way nettle handles endian conversion of RSA decrypted PKCS#1 v1.5 data. An attacker who is able to run a process on the same physical core as the victim process, could use this flaw extract plaintext or in some cases downgrade any TLS connections to a vulnerable server.
+- [Live-Hack-CVE/CVE-2018-16869](https://github.com/Live-Hack-CVE/CVE-2018-16869)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16869">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16869">
+
+---
 ## CVE-2018-16868 (2018-12-03T14:29:00)
 > A Bleichenbacher type side-channel based padding oracle attack was found in the way gnutls handles verification of RSA decrypted PKCS#1 v1.5 data. An attacker who is able to run process on the same physical core as the victim process, could use this to extract plaintext or in some cases downgrade any TLS connections to a vulnerable server.
 - [Live-Hack-CVE/CVE-2018-16868](https://github.com/Live-Hack-CVE/CVE-2018-16868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16868">
@@ -1284,6 +1289,11 @@
 ## CVE-2018-14628 (2023-01-17T18:15:00)
 > An information leak vulnerability was discovered in Samba's LDAP server. Due to missing access control checks, an authenticated but unprivileged attacker could discover the names and preserved attributes of deleted objects in the LDAP store.
 - [Live-Hack-CVE/CVE-2018-14628](https://github.com/Live-Hack-CVE/CVE-2018-14628)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14628">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14628">
+
+---
+## CVE-2018-14622 (2018-08-30T13:29:00)
+> A null-pointer dereference vulnerability was found in libtirpc before version 0.3.3-rc3. The return value of makefd_xprt() was not checked in all instances, which could lead to a crash when the server exhausted the maximum number of available file descriptors. A remote attacker could cause an rpc-based application to crash by flooding it with new connections.
+- [Live-Hack-CVE/CVE-2018-14622](https://github.com/Live-Hack-CVE/CVE-2018-14622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-14622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-14622">
 
 ---
 ## CVE-2018-14550 (2019-07-10T12:15:00)

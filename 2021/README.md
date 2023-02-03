@@ -6735,6 +6735,11 @@
 - [Live-Hack-CVE/CVE-2021-24500](https://github.com/Live-Hack-CVE/CVE-2021-24500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24500">
 
 ---
+## CVE-2021-24467 (2021-08-09T10:15:00)
+> The Leaflet Map WordPress plugin before 3.0.0 does not verify the CSRF nonce when saving its settings, which allows attackers to make a logged in admin update the settings via a Cross-Site Request Forgery attack. This could lead to Cross-Site Scripting issues by either changing the URL of the JavaScript library being used, or using malicious attributions which will be executed in all page with an embed map from the plugin
+- [Live-Hack-CVE/CVE-2021-24467](https://github.com/Live-Hack-CVE/CVE-2021-24467)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24467">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24467">
+
+---
 ## CVE-2021-24444 (2021-08-02T11:15:00)
 > The TaxoPress – Create and Manage Taxonomies, Tags, Categories WordPress plugin before 3.0.7.2 does not sanitise its Taxonomy description field, allowing high privilege users to set JavaScript payload in them even when the unfiltered_html capability is disallowed, leading to an authenticated Stored Cross-Site Scripting issue.
 - [Live-Hack-CVE/CVE-2021-24444](https://github.com/Live-Hack-CVE/CVE-2021-24444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24444">
@@ -7449,6 +7454,11 @@
 ## CVE-2021-21784 (2021-04-13T19:15:00)
 > An out-of-bounds write vulnerability exists in the JPG format SOF marker processing of Accusoft ImageGear 19.8. A specially crafted malformed file can lead to memory corruption. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21784](https://github.com/Live-Hack-CVE/CVE-2021-21784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21784">
+
+---
+## CVE-2021-21781 (2021-08-18T15:15:00)
+> An information disclosure vulnerability exists in the ARM SIGPAGE functionality of Linux Kernel v5.4.66 and v5.4.54. The latest version (5.11-rc4) seems to still be vulnerable. A userland application can read the contents of the sigpage, which can leak kernel memory contents. An attacker can read a process’s memory at a specific offset to trigger this vulnerability. This was fixed in kernel releases: 4.14.222 4.19.177 5.4.99 5.10.17 5.11
+- [Live-Hack-CVE/CVE-2021-21781](https://github.com/Live-Hack-CVE/CVE-2021-21781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21781">
 
 ---
 ## CVE-2021-21772 (2021-03-10T17:15:00)

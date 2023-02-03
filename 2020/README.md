@@ -956,6 +956,11 @@
 - [Live-Hack-CVE/CVE-2020-5135](https://github.com/Live-Hack-CVE/CVE-2020-5135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5135">
 
 ---
+## CVE-2020-4788 (2020-11-20T04:15:00)
+> IBM Power9 (AIX 7.1, 7.2, and VIOS 3.1) processors could allow a local user to obtain sensitive information from the data in the L1 cache under extenuating circumstances. IBM X-Force ID: 189296.
+- [Live-Hack-CVE/CVE-2020-4788](https://github.com/Live-Hack-CVE/CVE-2020-4788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4788">
+
+---
 ## CVE-2020-4464 (2020-07-17T14:15:00)
 > IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 - [yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2020-4464-and-CVE-2020-4450">
@@ -3666,6 +3671,11 @@
 ## CVE-2020-15860 (2020-07-24T16:15:00)
 > Parallels Remote Application Server (RAS) 17.1.1 has a Business Logic Error causing remote code execution. It allows an authenticated user to execute any application in the backend operating system through the web application, despite the affected application not being published. In addition, it was discovered that it is possible to access any host in the internal domain, even if it has no published applications or the mentioned host is no longer associated with that server farm.
 - [Live-Hack-CVE/CVE-2020-15860](https://github.com/Live-Hack-CVE/CVE-2020-15860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15860">
+
+---
+## CVE-2020-15803 (2020-07-17T03:15:00)
+> Zabbix before 3.0.32rc1, 4.x before 4.0.22rc1, 4.1.x through 4.4.x before 4.4.10rc1, and 5.x before 5.0.2rc1 allows stored XSS in the URL Widget.
+- [Live-Hack-CVE/CVE-2020-15803](https://github.com/Live-Hack-CVE/CVE-2020-15803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15803">
 
 ---
 ## CVE-2020-15802 (2020-09-11T14:15:00)

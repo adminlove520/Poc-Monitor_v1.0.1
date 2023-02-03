@@ -116,6 +116,16 @@
 - [Live-Hack-CVE/CVE-2023-24445](https://github.com/Live-Hack-CVE/CVE-2023-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24445">
 
 ---
+## CVE-2023-24426 (2023-01-26T21:18:00)
+> Jenkins Azure AD Plugin 303.va_91ef20ee49f and earlier does not invalidate the previous session on login.
+- [Live-Hack-CVE/CVE-2023-24426](https://github.com/Live-Hack-CVE/CVE-2023-24426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24426">
+
+---
+## CVE-2023-24425 (2023-01-26T21:18:00)
+> Jenkins Kubernetes Credentials Provider Plugin 1.208.v128ee9800c04 and earlier does not set the appropriate context for Kubernetes credentials lookup, allowing attackers with Item/Configure permission to access and potentially capture Kubernetes credentials they are not entitled to.
+- [Live-Hack-CVE/CVE-2023-24425](https://github.com/Live-Hack-CVE/CVE-2023-24425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24425">
+
+---
 ## CVE-2023-24241 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /admin/loginpost.php.
 - [Live-Hack-CVE/CVE-2023-24241](https://github.com/Live-Hack-CVE/CVE-2023-24241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24241">

@@ -242,6 +242,11 @@
 - [Live-Hack-CVE/CVE-2019-7646](https://github.com/Live-Hack-CVE/CVE-2019-7646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7646">
 
 ---
+## CVE-2019-7307 (2019-08-29T15:15:00)
+> Apport before versions 2.14.1-0ubuntu3.29+esm1, 2.20.1-0ubuntu2.19, 2.20.9-0ubuntu7.7, 2.20.10-0ubuntu27.1, 2.20.11-0ubuntu5 contained a TOCTTOU vulnerability when reading the users ~/.apport-ignore.xml file, which allows a local attacker to replace this file with a symlink to any other file on the system and so cause Apport to include the contents of this other file in the resulting crash report. The crash report could then be read by that user either by causing it to be uploaded and reported to Launchpad, or by leveraging some other vulnerability to read the resulting crash report, and so allow the user to read arbitrary files on the system.
+- [Live-Hack-CVE/CVE-2019-7307](https://github.com/Live-Hack-CVE/CVE-2019-7307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7307">
+
+---
 ## CVE-2019-7304 (2019-04-23T16:29:00)
 > Canonical snapd before version 2.37.1 incorrectly performed socket owner validation, allowing an attacker to run arbitrary commands as root. This issue affects: Canonical snapd versions prior to 2.37.1.
 - [Live-Hack-CVE/CVE-2019-7304](https://github.com/Live-Hack-CVE/CVE-2019-7304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7304">
@@ -312,6 +317,11 @@
 ## CVE-2019-7004 (2019-12-12T00:15:00)
 > A Cross-Site Scripting (XSS) vulnerability in the WebUI component of IP Office Application Server could allow unauthorized code execution and potentially disclose sensitive information. All product versions 11.x are affected. Product versions prior to 11.0, including unsupported versions, were not evaluated.
 - [Live-Hack-CVE/CVE-2019-7004](https://github.com/Live-Hack-CVE/CVE-2019-7004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7004">
+
+---
+## CVE-2019-7003 (2019-07-11T19:15:00)
+> A SQL injection vulnerability in the reporting component of Avaya Control Manager could allow an unauthenticated attacker to execute arbitrary SQL commands and retrieve sensitive data related to other users on the system. Affected versions of Avaya Control Manager include 7.x and 8.0.x versions prior to 8.0.4.0. Unsupported versions not listed here were not evaluated.
+- [Live-Hack-CVE/CVE-2019-7003](https://github.com/Live-Hack-CVE/CVE-2019-7003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7003">
 
 ---
 ## CVE-2019-6957 (2019-05-29T19:29:00)
@@ -995,6 +1005,11 @@
 - [Live-Hack-CVE/CVE-2019-4241](https://github.com/Live-Hack-CVE/CVE-2019-4241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4241">
 
 ---
+## CVE-2019-4238 (2019-04-25T15:29:00)
+> IBM InfoSphere Information Server 11.3, 11.5, and 11.7 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159464.
+- [Live-Hack-CVE/CVE-2019-4238](https://github.com/Live-Hack-CVE/CVE-2019-4238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4238">
+
+---
 ## CVE-2019-4237 (2019-07-01T15:15:00)
 > A Cross-Frame Scripting vulnerability in IBM InfoSphere Information Server 11.3, 11.5, and 11.7 can allow an attacker to load the vulnerable application inside an HTML iframe tag on a malicious page. IBM X-Force ID: 159419.
 - [Live-Hack-CVE/CVE-2019-4237](https://github.com/Live-Hack-CVE/CVE-2019-4237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4237">
@@ -1026,6 +1041,11 @@
 - [Live-Hack-CVE/CVE-2019-4227](https://github.com/Live-Hack-CVE/CVE-2019-4227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4227">
 
 ---
+## CVE-2019-4220 (2019-06-06T01:29:00)
+> IBM InfoSphere Information Server 11.7.1.0 stores a common hard coded encryption key that could be used to decrypt sensitive information. IBM X-Force ID: 159229.
+- [Live-Hack-CVE/CVE-2019-4220](https://github.com/Live-Hack-CVE/CVE-2019-4220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4220">
+
+---
 ## CVE-2019-4212 (2019-07-25T15:15:00)
 > IBM QRadar SIEM 7.2 and 7.3 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 159132.
 - [Live-Hack-CVE/CVE-2019-4212](https://github.com/Live-Hack-CVE/CVE-2019-4212)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4212">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4212">
@@ -1034,6 +1054,22 @@
 ## CVE-2019-4211 (2019-07-17T14:15:00)
 > IBM QRadar SIEM 7.2 and 7.3 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159131.
 - [Live-Hack-CVE/CVE-2019-4211](https://github.com/Live-Hack-CVE/CVE-2019-4211)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4211">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4211">
+
+---
+## CVE-2019-4210 (2019-04-08T15:29:00)
+> IBM QRadar SIEM 7.3.2 could allow a user to bypass authentication exposing certain functionality which could lead to information disclosure or modification of application configuration. IBM X-Force ID: 158986.
+- [Live-Hack-CVE/CVE-2019-4210](https://github.com/Live-Hack-CVE/CVE-2019-4210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4210">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+
+---
+## CVE-2019-4208 (2019-05-07T19:29:00)
+> IBM TRIRIGA Application Platform 3.5.3 and 3.6.0 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 159129.
+- [Live-Hack-CVE/CVE-2019-4208](https://github.com/Live-Hack-CVE/CVE-2019-4208)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4208">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4208">
+
+---
+## CVE-2019-4207 (2019-05-07T19:29:00)
+> IBM TRIRIGA Application Platform 3.5.3 and 3.6.0 may disclose sensitive information only available to a local user that could be used in further attacks against the system. IBM X-Force ID: 159148.
+- [Live-Hack-CVE/CVE-2019-4207](https://github.com/Live-Hack-CVE/CVE-2019-4207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4207">
 
 ---
 ## CVE-2019-4194 (2019-07-17T14:15:00)
@@ -2895,9 +2931,19 @@
 - [Live-Hack-CVE/CVE-2019-10171](https://github.com/Live-Hack-CVE/CVE-2019-10171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10171">
 
 ---
+## CVE-2019-10163 (2019-07-30T23:15:00)
+> A Vulnerability has been found in PowerDNS Authoritative Server before versions 4.1.9, 4.0.8 allowing a remote, authorized master server to cause a high CPU load or even prevent any further updates to any slave zone by sending a large number of NOTIFY messages. Note that only servers configured as slaves are affected by this issue.
+- [Live-Hack-CVE/CVE-2019-10163](https://github.com/Live-Hack-CVE/CVE-2019-10163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10163">
+
+---
 ## CVE-2019-10153 (2019-07-30T23:15:00)
 > A flaw was discovered in fence-agents, prior to version 4.3.4, where using non-ASCII characters in a guest VM's comment or other fields would cause fence_rhevm to exit with an exception. In cluster environments, this could lead to preventing automated recovery or otherwise denying service to clusters of which that VM is a member.
 - [Live-Hack-CVE/CVE-2019-10153](https://github.com/Live-Hack-CVE/CVE-2019-10153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10153">
+
+---
+## CVE-2019-10129 (2019-07-30T17:15:00)
+> A vulnerability was found in postgresql versions 11.x prior to 11.3. Using a purpose-crafted insert to a partitioned table, an attacker can read arbitrary bytes of server memory. In the default configuration, any user can create a partitioned table suitable for this attack. (Exploit prerequisites are the same as for CVE-2018-1052).
+- [Live-Hack-CVE/CVE-2019-10129](https://github.com/Live-Hack-CVE/CVE-2019-10129)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10129">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10129">
 
 ---
 ## CVE-2019-1010319 (2019-07-11T20:15:00)
