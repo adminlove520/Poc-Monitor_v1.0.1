@@ -935,6 +935,12 @@
 - [Live-Hack-CVE/CVE-2020-5306](https://github.com/Live-Hack-CVE/CVE-2020-5306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5306">
 
 ---
+## CVE-2020-5267 (2020-03-19T18:15:00)
+> In ActionView before versions 6.0.2.2 and 5.2.4.2, there is a possible XSS vulnerability in ActionView's JavaScript literal escape helpers. Views that use the `j` or `escape_javascript` methods may be susceptible to XSS attacks. The issue is fixed in versions 6.0.2.2 and 5.2.4.2.
+- [Live-Hack-CVE/CVE-2020-5267](https://github.com/Live-Hack-CVE/CVE-2020-5267)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5267">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5267">
+- [GUI/legacy-rails-CVE-2020-5267-patch](https://github.com/GUI/legacy-rails-CVE-2020-5267-patch)	<img alt="forks" src="https://img.shields.io/github/forks/GUI/legacy-rails-CVE-2020-5267-patch">	<img alt="stars" src="https://img.shields.io/github/stars/GUI/legacy-rails-CVE-2020-5267-patch">
+
+---
 ## CVE-2020-5248 (2020-05-12T16:15:00)
 > GLPI before before version 9.4.6 has a vulnerability involving a default encryption key. GLPIKEY is public and is used on every instance. This means anyone can decrypt sensitive data stored using this key. It is possible to change the key before installing GLPI. But on existing instances, data must be reencrypted with the new key. Problem is we can not know which columns or rows in the database are using that; espcially from plugins. Changing the key without updating data would lend in bad password sent from glpi; but storing them again from the UI will work.
 - [indevi0us/CVE-2020-5248](https://github.com/indevi0us/CVE-2020-5248)	<img alt="forks" src="https://img.shields.io/github/forks/indevi0us/CVE-2020-5248">	<img alt="stars" src="https://img.shields.io/github/stars/indevi0us/CVE-2020-5248">
@@ -3285,6 +3291,11 @@
 - [Live-Hack-CVE/CVE-2020-19003](https://github.com/Live-Hack-CVE/CVE-2020-19003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19003">
 
 ---
+## CVE-2020-1878 (2020-03-20T15:15:00)
+> Huawei smartphone OxfordS-AN00A with versions earlier than 10.0.1.152D(C735E152R3P3),versions earlier than 10.0.1.160(C00E160R4P1) have an improper authentication vulnerability. Authentication to target component is improper when device performs an operation. Attackers exploit this vulnerability to obtain some information by loading malicious application, leading to information leak.
+- [Live-Hack-CVE/CVE-2020-1878](https://github.com/Live-Hack-CVE/CVE-2020-1878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1878">
+
+---
 ## CVE-2020-18731 (2021-08-23T21:15:00)
 > A segmentation violation in the Iec104_Deal_FirmUpdate function of IEC104 v1.0 allows attackers to cause a denial of service (DOS).
 - [Live-Hack-CVE/CVE-2020-18731](https://github.com/Live-Hack-CVE/CVE-2020-18731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-18731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-18731">
@@ -3644,6 +3655,11 @@
 ## CVE-2020-16122 (2020-11-07T04:15:00)
 > PackageKit's apt backend mistakenly treated all local debs as trusted. The apt security model is based on repository trust and not on the contents of individual files. On sites with configured PolicyKit rules this may allow users to install malicious packages.
 - [Live-Hack-CVE/CVE-2020-16122](https://github.com/Live-Hack-CVE/CVE-2020-16122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16122">
+
+---
+## CVE-2020-16118 (2020-07-29T18:15:00)
+> In GNOME Balsa before 2.6.0, a malicious server operator or man in the middle can trigger a NULL pointer dereference and client crash by sending a PREAUTH response to imap_mbox_connect in libbalsa/imap/imap-handle.c.
+- [Live-Hack-CVE/CVE-2020-16118](https://github.com/Live-Hack-CVE/CVE-2020-16118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-16118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-16118">
 
 ---
 ## CVE-2020-16093 (2022-07-18T00:15:00)
@@ -4095,6 +4111,11 @@
 ## CVE-2020-14349 (2020-08-24T13:15:00)
 > It was found that PostgreSQL versions before 12.4, before 11.9 and before 10.14 did not properly sanitize the search_path during logical replication. An authenticated attacker could use this flaw in an attack similar to CVE-2018-1058, in order to execute arbitrary SQL command in the context of the user used for replication.
 - [Live-Hack-CVE/CVE-2020-14349](https://github.com/Live-Hack-CVE/CVE-2020-14349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14349">
+
+---
+## CVE-2020-14347 (2020-08-05T14:15:00)
+> A flaw was found in the way xserver memory was not properly initialized. This could leak parts of server memory to the X client. In cases where Xorg server runs with elevated privileges, this could result in possible ASLR bypass. Xorg-server before version 1.20.9 is vulnerable.
+- [Live-Hack-CVE/CVE-2020-14347](https://github.com/Live-Hack-CVE/CVE-2020-14347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14347">
 
 ---
 ## CVE-2020-14346 (2020-09-15T19:15:00)
@@ -4804,6 +4825,11 @@
 - [Live-Hack-CVE/CVE-2020-10684](https://github.com/Live-Hack-CVE/CVE-2020-10684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10684">
 
 ---
+## CVE-2020-10675 (2020-03-19T14:15:00)
+> The Library API in buger jsonparser through 2019-12-04 allows attackers to cause a denial of service (infinite loop) via a Delete call.
+- [Live-Hack-CVE/CVE-2020-10675](https://github.com/Live-Hack-CVE/CVE-2020-10675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10675">
+
+---
 ## CVE-2020-10627 (2021-12-01T16:15:00)
 > Insulet Omnipod Insulin Management System insulin pump product ID 19191 and 40160 is designed to communicate using a wireless RF with an Insulet manufactured Personal Diabetes Manager device. This wireless RF communication protocol does not properly implement authentication or authorization. An attacker with access to one of the affected insulin pump models may be able to modify and/or intercept data. This vulnerability could also allow attackers to change pump settings and control insulin delivery.
 - [Live-Hack-CVE/CVE-2020-10627](https://github.com/Live-Hack-CVE/CVE-2020-10627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10627">
@@ -5279,6 +5305,11 @@
 > In multiple settings screens, there are possible tapjacking attacks due to an insecure default value. This could lead to local escalation of privilege and permissions with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-9 Android-10 Android-11 Android-8.0 Android-8.1Android ID: A-155288585
 - [Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416">
 - [ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2020-0416">
+
+---
+## CVE-2020-0305 (2020-07-17T20:15:00)
+> In cdev_get of char_dev.c, there is a possible use-after-free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-153467744
+- [Live-Hack-CVE/CVE-2020-0305](https://github.com/Live-Hack-CVE/CVE-2020-0305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-0305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-0305">
 
 ---
 ## CVE-2020-0198 (2020-06-11T15:15:00)

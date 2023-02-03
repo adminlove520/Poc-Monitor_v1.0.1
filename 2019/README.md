@@ -1561,6 +1561,11 @@
 - [Live-Hack-CVE/CVE-2019-20790](https://github.com/Live-Hack-CVE/CVE-2019-20790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20790">
 
 ---
+## CVE-2019-20485 (2020-03-19T02:15:00)
+> qemu/qemu_driver.c in libvirt before 6.0.0 mishandles the holding of a monitor job during a query to a guest agent, which allows attackers to cause a denial of service (API blockage).
+- [Live-Hack-CVE/CVE-2019-20485](https://github.com/Live-Hack-CVE/CVE-2019-20485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20485">
+
+---
 ## CVE-2019-20446 (2020-02-02T14:15:00)
 > In xml.rs in GNOME librsvg before 2.46.2, a crafted SVG file with nested patterns can cause denial of service when passed to the library for processing. The attacker constructs pattern elements so that the number of final rendered objects grows exponentially.
 - [Live-Hack-CVE/CVE-2019-20446](https://github.com/Live-Hack-CVE/CVE-2019-20446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20446">
@@ -2159,6 +2164,11 @@
 ## CVE-2019-15715 (2019-10-09T20:15:00)
 > MantisBT before 1.3.20 and 2.22.1 allows Post Authentication Command Injection, leading to Remote Code Execution.
 - [Live-Hack-CVE/CVE-2019-15715](https://github.com/Live-Hack-CVE/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15715">
+
+---
+## CVE-2019-15654 (2020-03-19T18:15:00)
+> Comba AC2400 devices are prone to password disclosure via a simple crafted /09/business/upgrade/upcfgAction.php?download=true request to the web management server. The request doesn't require any authentication and will lead to saving the DBconfig.cfg file. At the end of the file, the login information is stored in cleartext.
+- [Live-Hack-CVE/CVE-2019-15654](https://github.com/Live-Hack-CVE/CVE-2019-15654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15654">
 
 ---
 ## CVE-2019-15605 (2020-02-07T15:15:00)
