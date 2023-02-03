@@ -1883,6 +1883,8 @@
 ## CVE-2020-28052 (2020-12-18T01:15:00)
 > An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different.
 - [Live-Hack-CVE/CVE-2020-28052](https://github.com/Live-Hack-CVE/CVE-2020-28052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-28052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-28052">
+- [kurenaif/CVE-2020-28052_PoC](https://github.com/kurenaif/CVE-2020-28052_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kurenaif/CVE-2020-28052_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kurenaif/CVE-2020-28052_PoC">
+- [madstap/bouncy-castle-generative-test-poc](https://github.com/madstap/bouncy-castle-generative-test-poc)	<img alt="forks" src="https://img.shields.io/github/forks/madstap/bouncy-castle-generative-test-poc">	<img alt="stars" src="https://img.shields.io/github/stars/madstap/bouncy-castle-generative-test-poc">
 
 ---
 ## CVE-2020-2805 (2020-04-15T14:15:00)
