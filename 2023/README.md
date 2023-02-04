@@ -2397,6 +2397,21 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0678 (2023-02-04T13:15:00)
+> Improper Authorization in GitHub repository phpipam/phpipam prior to v1.5.1.
+- [Live-Hack-CVE/CVE-2023-0678](https://github.com/Live-Hack-CVE/CVE-2023-0678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0678">
+
+---
+## CVE-2023-0677 (2023-02-04T13:15:00)
+> Cross-site Scripting (XSS) - Reflected in GitHub repository phpipam/phpipam prior to v1.5.1.
+- [Live-Hack-CVE/CVE-2023-0677](https://github.com/Live-Hack-CVE/CVE-2023-0677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0677">
+
+---
+## CVE-2023-0676 (2023-02-04T13:15:00)
+> Cross-site Scripting (XSS) - Reflected in GitHub repository phpipam/phpipam prior to 1.5.1.
+- [Live-Hack-CVE/CVE-2023-0676](https://github.com/Live-Hack-CVE/CVE-2023-0676)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0676">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0676">
+
+---
 ## CVE-2023-0675 (2023-02-04T08:15:00)
 > A vulnerability, which was classified as critical, was found in Calendar Event Management System 2.3.0. This affects an unknown part. The manipulation of the argument start/end leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-220197 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0675](https://github.com/Live-Hack-CVE/CVE-2023-0675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0675">
