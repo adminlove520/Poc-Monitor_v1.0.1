@@ -126,6 +126,41 @@
 - [Live-Hack-CVE/CVE-2023-24445](https://github.com/Live-Hack-CVE/CVE-2023-24445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24445">
 
 ---
+## CVE-2023-24440 (2023-01-26T21:18:00)
+> Jenkins JIRA Pipeline Steps Plugin 2.0.165.v8846cf59f3db and earlier transmits the private key in plain text as part of the global Jenkins configuration form, potentially resulting in their exposure.
+- [Live-Hack-CVE/CVE-2023-24440](https://github.com/Live-Hack-CVE/CVE-2023-24440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24440">
+
+---
+## CVE-2023-24439 (2023-01-26T21:18:00)
+> Jenkins JIRA Pipeline Steps Plugin 2.0.165.v8846cf59f3db and earlier stores the private keys unencrypted in its global configuration file on the Jenkins controller where it can be viewed by users with access to the Jenkins controller file system.
+- [Live-Hack-CVE/CVE-2023-24439](https://github.com/Live-Hack-CVE/CVE-2023-24439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24439">
+
+---
+## CVE-2023-24438 (2023-01-26T21:18:00)
+> A missing permission check in Jenkins JIRA Pipeline Steps Plugin 2.0.165.v8846cf59f3db and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2023-24438](https://github.com/Live-Hack-CVE/CVE-2023-24438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24438">
+
+---
+## CVE-2023-24430 (2023-01-26T21:18:00)
+> Jenkins Semantic Versioning Plugin 1.14 and earlier does not configure its XML parser to prevent XML external entity (XXE) attacks.
+- [Live-Hack-CVE/CVE-2023-24430](https://github.com/Live-Hack-CVE/CVE-2023-24430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24430">
+
+---
+## CVE-2023-24429 (2023-01-26T21:18:00)
+> Jenkins Semantic Versioning Plugin 1.14 and earlier does not restrict execution of an controller/agent message to agents, and implements no limitations about the file path that can be parsed, allowing attackers able to control agent processes to have Jenkins parse a crafted file that uses external entities for extraction of secrets from the Jenkins controller or server-side request forgery.
+- [Live-Hack-CVE/CVE-2023-24429](https://github.com/Live-Hack-CVE/CVE-2023-24429)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24429">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24429">
+
+---
+## CVE-2023-24428 (2023-01-26T21:18:00)
+> A cross-site request forgery (CSRF) vulnerability in Jenkins Bitbucket OAuth Plugin 0.12 and earlier allows attackers to trick users into logging in to the attacker's account.
+- [Live-Hack-CVE/CVE-2023-24428](https://github.com/Live-Hack-CVE/CVE-2023-24428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24428">
+
+---
+## CVE-2023-24427 (2023-01-26T21:18:00)
+> Jenkins Bitbucket OAuth Plugin 0.12 and earlier does not invalidate the previous session on login.
+- [Live-Hack-CVE/CVE-2023-24427](https://github.com/Live-Hack-CVE/CVE-2023-24427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24427">
+
+---
 ## CVE-2023-24426 (2023-01-26T21:18:00)
 > Jenkins Azure AD Plugin 303.va_91ef20ee49f and earlier does not invalidate the previous session on login.
 - [Live-Hack-CVE/CVE-2023-24426](https://github.com/Live-Hack-CVE/CVE-2023-24426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24426">
@@ -134,6 +169,11 @@
 ## CVE-2023-24425 (2023-01-26T21:18:00)
 > Jenkins Kubernetes Credentials Provider Plugin 1.208.v128ee9800c04 and earlier does not set the appropriate context for Kubernetes credentials lookup, allowing attackers with Item/Configure permission to access and potentially capture Kubernetes credentials they are not entitled to.
 - [Live-Hack-CVE/CVE-2023-24425](https://github.com/Live-Hack-CVE/CVE-2023-24425)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24425">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24425">
+
+---
+## CVE-2023-24422 (2023-01-26T21:18:00)
+> A sandbox bypass vulnerability involving map constructors in Jenkins Script Security Plugin 1228.vd93135a_2fb_25 and earlier allows attackers with permission to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
+- [Live-Hack-CVE/CVE-2023-24422](https://github.com/Live-Hack-CVE/CVE-2023-24422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24422">
 
 ---
 ## CVE-2023-24241 (2023-02-01T00:15:00)
@@ -280,6 +320,11 @@
 ## CVE-2023-24025 (2023-01-20T21:15:00)
 > CRYSTALS-DILITHIUM (in Post-Quantum Cryptography Selected Algorithms 2022) in PQClean d03da30 may allow universal forgeries of digital signatures via a template side-channel attack because of intermediate data leakage of one vector.
 - [Live-Hack-CVE/CVE-2023-24025](https://github.com/Live-Hack-CVE/CVE-2023-24025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24025">
+
+---
+## CVE-2023-24022 (2023-01-26T21:18:00)
+> Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.7.11.3 have hardcoded credentials that are easily discovered and can be used by remote attackers to authenticate via ssh. (The credentials are stored in the firmware, encrypted by the crypt function.)
+- [Live-Hack-CVE/CVE-2023-24022](https://github.com/Live-Hack-CVE/CVE-2023-24022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24022">
 
 ---
 ## CVE-2023-24020 (2023-01-30T22:15:00)
@@ -2349,6 +2394,11 @@
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0671 (2023-02-04T01:15:00)
+> Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10.
+- [Live-Hack-CVE/CVE-2023-0671](https://github.com/Live-Hack-CVE/CVE-2023-0671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0671">
 
 ---
 ## CVE-2023-0658 (2023-02-03T00:15:00)

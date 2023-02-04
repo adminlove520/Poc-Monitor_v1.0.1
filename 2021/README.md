@@ -2914,6 +2914,11 @@
 - [Live-Hack-CVE/CVE-2021-39227](https://github.com/Live-Hack-CVE/CVE-2021-39227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39227">
 
 ---
+## CVE-2021-39217 (2023-01-27T18:15:00)
+> OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, Custom Layout enabled admin users to execute arbitrary commands via block methods. Versions 19.4.22 and 20.0.19 contain patches for this issue.
+- [Live-Hack-CVE/CVE-2021-39217](https://github.com/Live-Hack-CVE/CVE-2021-39217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39217">
+
+---
 ## CVE-2021-39205 (2021-09-15T18:15:00)
 > Jitsi Meet is an open source video conferencing application. Versions prior to 2.0.6173 are vulnerable to client-side cross-site scripting via injecting properties into JSON objects that were not properly escaped. There are no known incidents related to this vulnerability being exploited in the wild. This issue is fixed in Jitsi Meet version 2.0.6173. There are no known workarounds aside from upgrading.
 - [Live-Hack-CVE/CVE-2021-39205](https://github.com/Live-Hack-CVE/CVE-2021-39205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39205">
