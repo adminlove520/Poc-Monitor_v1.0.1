@@ -1574,6 +1574,11 @@
 - [Live-Hack-CVE/CVE-2019-2587](https://github.com/Live-Hack-CVE/CVE-2019-2587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2587">
 
 ---
+## CVE-2019-25101 (2023-02-04T08:15:00)
+> A vulnerability classified as critical has been found in OnShift TurboGears 1.0.11.10. This affects an unknown part of the file turbogears/controllers.py of the component HTTP Header Handler. The manipulation leads to http response splitting. It is possible to initiate the attack remotely. Upgrading to version 1.0.11.11 is able to address this issue. The name of the patch is f68bbaba47f4474e1da553aa51564a73e1d92a84. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220059.
+- [Live-Hack-CVE/CVE-2019-25101](https://github.com/Live-Hack-CVE/CVE-2019-25101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25101">
+
+---
 ## CVE-2019-25100 (2023-01-08T11:15:00)
 > A vulnerability was found in happyman twmap. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file twmap3/data/ajaxCRUD/pointdata2.php. The manipulation of the argument id leads to sql injection. Upgrading to version v2.9_v4.31 is able to address this issue. The name of the patch is babbec79b3fa4efb3bd581ea68af0528d11bba0c. It is recommended to upgrade the affected component. The identifier VDB-217645 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2019-25100](https://github.com/Live-Hack-CVE/CVE-2019-25100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25100">

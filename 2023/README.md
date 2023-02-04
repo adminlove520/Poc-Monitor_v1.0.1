@@ -2396,9 +2396,29 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0675 (2023-02-04T08:15:00)
+> A vulnerability, which was classified as critical, was found in Calendar Event Management System 2.3.0. This affects an unknown part. The manipulation of the argument start/end leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-220197 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0675](https://github.com/Live-Hack-CVE/CVE-2023-0675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0675">
+
+---
+## CVE-2023-0674 (2023-02-04T08:15:00)
+> A vulnerability, which was classified as problematic, has been found in XXL-JOB 2.3.1. Affected by this issue is some unknown functionality of the file /user/updatePwd of the component New Password Handler. The manipulation leads to cross-site request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-220196.
+- [Live-Hack-CVE/CVE-2023-0674](https://github.com/Live-Hack-CVE/CVE-2023-0674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0674">
+
+---
+## CVE-2023-0673 (2023-02-04T08:15:00)
+> A vulnerability classified as critical was found in SourceCodester Online Eyewear Shop 1.0. Affected by this vulnerability is an unknown functionality of the file oews/products/view_product.php. The manipulation of the argument id leads to sql injection. The attack can be launched remotely. The associated identifier of this vulnerability is VDB-220195.
+- [Live-Hack-CVE/CVE-2023-0673](https://github.com/Live-Hack-CVE/CVE-2023-0673)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0673">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0673">
+
+---
 ## CVE-2023-0671 (2023-02-04T01:15:00)
 > Code Injection in GitHub repository froxlor/froxlor prior to 2.0.10.
 - [Live-Hack-CVE/CVE-2023-0671](https://github.com/Live-Hack-CVE/CVE-2023-0671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0671">
+
+---
+## CVE-2023-0663 (2023-02-03T21:15:00)
+> A vulnerability was found in Calendar Event Management System 2.3.0. It has been rated as critical. This issue affects some unknown processing of the component Login Page. The manipulation of the argument name/pwd leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-220175.
+- [Live-Hack-CVE/CVE-2023-0663](https://github.com/Live-Hack-CVE/CVE-2023-0663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0663">
 
 ---
 ## CVE-2023-0658 (2023-02-03T00:15:00)

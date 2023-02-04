@@ -729,6 +729,11 @@
 - [forlin/CVE-2018-2628](https://github.com/forlin/CVE-2018-2628)	<img alt="forks" src="https://img.shields.io/github/forks/forlin/CVE-2018-2628">	<img alt="stars" src="https://img.shields.io/github/stars/forlin/CVE-2018-2628">
 
 ---
+## CVE-2018-25080 (2023-02-04T08:15:00)
+> A vulnerability, which was classified as problematic, has been found in MobileDetect 2.8.31. This issue affects the function initLayoutType of the file examples/session_example.php of the component Example. The manipulation of the argument $_SERVER['PHP_SELF'] leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 2.8.32 is able to address this issue. The name of the patch is 31818a441b095bdc4838602dbb17b8377d1e5cce. It is recommended to upgrade the affected component. The identifier VDB-220061 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2018-25080](https://github.com/Live-Hack-CVE/CVE-2018-25080)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25080">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25080">
+
+---
 ## CVE-2018-25079 (2023-02-04T04:15:00)
 > A vulnerability was found in Segmentio is-url up to 1.2.2. It has been rated as problematic. Affected by this issue is some unknown functionality of the file index.js. The manipulation leads to inefficient regular expression complexity. The attack may be launched remotely. Upgrading to version 1.2.3 is able to address this issue. The name of the patch is 149550935c63a98c11f27f694a7c4a9479e53794. It is recommended to upgrade the affected component. VDB-220058 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2018-25079](https://github.com/Live-Hack-CVE/CVE-2018-25079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25079">
