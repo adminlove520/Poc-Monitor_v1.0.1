@@ -623,6 +623,11 @@
 - [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
 
 ---
+## CVE-2020-6806 (2020-03-25T22:15:00)
+> By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR < 68.6.
+- [Live-Hack-CVE/CVE-2020-6806](https://github.com/Live-Hack-CVE/CVE-2020-6806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6806">
+
+---
 ## CVE-2020-6627 (2022-12-06T15:15:00)
 > The web-management application on Seagate Central NAS STCG2000300, STCG3000300, and STCG4000300 devices allows OS command injection via mv_backend_launch in cirrus/application/helpers/mv_backend_helper.php by leveraging the "start" state and sending a check_device_name request.
 - [Live-Hack-CVE/CVE-2020-6627](https://github.com/Live-Hack-CVE/CVE-2020-6627)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6627">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6627">
@@ -4728,6 +4733,16 @@
 ## CVE-2020-10936 (2020-05-27T18:15:00)
 > Sympa before 6.2.56 allows privilege escalation.
 - [Live-Hack-CVE/CVE-2020-10936](https://github.com/Live-Hack-CVE/CVE-2020-10936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10936">
+
+---
+## CVE-2020-10883 (2020-03-25T21:15:00)
+> This vulnerability allows local attackers to escalate privileges on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability. The specific flaw exists within the file system. The issue lies in the lack of proper permissions set on the file system. An attacker can leverage this vulnerability to escalate privileges. Was ZDI-CAN-9651.
+- [Live-Hack-CVE/CVE-2020-10883](https://github.com/Live-Hack-CVE/CVE-2020-10883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10883">
+
+---
+## CVE-2020-10882 (2020-03-25T21:15:00)
+> This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link Archer A7 Firmware Ver: 190726 AC1750 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the tdpServer service, which listens on UDP port 20002 by default. When parsing the slave_mac parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code in the context of the root user. Was ZDI-CAN-9650.
+- [Live-Hack-CVE/CVE-2020-10882](https://github.com/Live-Hack-CVE/CVE-2020-10882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10882">
 
 ---
 ## CVE-2020-10804 (2020-03-22T04:15:00)

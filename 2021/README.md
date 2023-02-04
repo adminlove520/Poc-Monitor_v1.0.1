@@ -215,6 +215,11 @@
 - [9lyph/CVE-2021-45901](https://github.com/9lyph/CVE-2021-45901)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2021-45901">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2021-45901">
 
 ---
+## CVE-2021-45868 (2022-03-18T07:15:00)
+> In the Linux kernel before 5.15.3, fs/quota/quota_tree.c does not validate the block number in the quota tree (on disk). This can, for example, lead to a kernel/locking/rwsem.c use-after-free if there is a corrupted quota file.
+- [Live-Hack-CVE/CVE-2021-45868](https://github.com/Live-Hack-CVE/CVE-2021-45868)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45868">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45868">
+
+---
 ## CVE-2021-45845 (2022-01-25T13:15:00)
 > The Path Sanity Check script of FreeCAD 0.19 is vulnerable to OS command injection, allowing an attacker to execute arbitrary commands via a crafted FCStd document.
 - [Live-Hack-CVE/CVE-2021-45845](https://github.com/Live-Hack-CVE/CVE-2021-45845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45845">
@@ -6754,6 +6759,11 @@
 > The Language Bar Flags WordPress plugin through 1.0.8 does not have any CSRF in place when saving its settings and did not sanitise or escape them when generating the flag bar in the frontend. This could allow attackers to make a logged in admin change the settings, and set Cross-Site Scripting payload in them, which will be executed in the frontend for all users
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
 - [Live-Hack-CVE/CVE-2021-24431](https://github.com/Live-Hack-CVE/CVE-2021-24431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24431">
+
+---
+## CVE-2021-24374 (2021-06-21T20:15:00)
+> The Jetpack Carousel module of the JetPack WordPress plugin before 9.8 allows users to create a "carousel" type image gallery and allows users to comment on the images. A security vulnerability was found within the Jetpack Carousel module by nguyenhg_vcs that allowed the comments of non-published page/posts to be leaked.
+- [Live-Hack-CVE/CVE-2021-24374](https://github.com/Live-Hack-CVE/CVE-2021-24374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24374">
 
 ---
 ## CVE-2021-24359 (2021-06-14T14:15:00)

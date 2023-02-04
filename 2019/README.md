@@ -945,6 +945,11 @@
 - [Live-Hack-CVE/CVE-2019-4310](https://github.com/Live-Hack-CVE/CVE-2019-4310)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4310">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4310">
 
 ---
+## CVE-2019-4309 (2019-10-29T00:15:00)
+> IBM Security Guardium Big Data Intelligence (SonarG) 4.0 uses hard coded credentials which could allow a local user to obtain highly sensitive information. IBM X-Force ID: 161035.
+- [Live-Hack-CVE/CVE-2019-4309](https://github.com/Live-Hack-CVE/CVE-2019-4309)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4309">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4309">
+
+---
 ## CVE-2019-4308 (2019-08-20T19:15:00)
 > IBM Emptoris Sourcing 10.1.0 through 10.1.3, IBM Contract Management 10.1.0 through 10.1.3, and IBM Emptoris Spend Analysis 10.1.0 through 10.1.3 could allow an authenticated user to obtain sensitive information from error messages IBM X-Force ID: 161034.
 - [Live-Hack-CVE/CVE-2019-4308](https://github.com/Live-Hack-CVE/CVE-2019-4308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4308">
@@ -1400,6 +1405,11 @@
 ## CVE-2019-3837 (2019-04-11T15:29:00)
 > It was found that the net_dma code in tcp_recvmsg() in the 2.6.32 kernel as shipped in RHEL6 is thread-unsafe. So an unprivileged multi-threaded userspace application calling recvmsg() for the same network socket in parallel executed on ioatdma-enabled hardware with net_dma enabled can leak the memory, crash the host leading to a denial-of-service or cause a random memory corruption.
 - [Live-Hack-CVE/CVE-2019-3837](https://github.com/Live-Hack-CVE/CVE-2019-3837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3837">
+
+---
+## CVE-2019-3721 (2019-04-25T21:29:00)
+> Dell EMC Open Manage System Administrator (OMSA) versions prior to 9.3.0 contain an Improper Range Header Processing Vulnerability. A remote unauthenticated attacker may send crafted requests with overlapping ranges to cause the application to compress each of the requested bytes, resulting in a crash due to excessive memory consumption and preventing users from accessing the system.
+- [Live-Hack-CVE/CVE-2019-3721](https://github.com/Live-Hack-CVE/CVE-2019-3721)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-3721">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-3721">
 
 ---
 ## CVE-2019-3692 (2020-01-24T09:15:00)
@@ -2052,6 +2062,11 @@
 - [Plazmaz/CVE-2019-18634](https://github.com/Plazmaz/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/Plazmaz/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/Plazmaz/CVE-2019-18634">
 
 ---
+## CVE-2019-18422 (2019-10-31T14:15:00)
+> An issue was discovered in Xen through 4.12.x allowing ARM guest OS users to cause a denial of service or gain privileges by leveraging the erroneous enabling of interrupts. Interrupts are unconditionally unmasked in exception handlers. When an exception occurs on an ARM system which is handled without changing processor level, some interrupts are unconditionally enabled during exception entry. So exceptions which occur when interrupts are masked will effectively unmask the interrupts. A malicious guest might contrive to arrange for critical Xen code to run with interrupts erroneously enabled. This could lead to data corruption, denial of service, or possibly even privilege escalation. However a precise attack technique has not been identified.
+- [Live-Hack-CVE/CVE-2019-18422](https://github.com/Live-Hack-CVE/CVE-2019-18422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18422">
+
+---
 ## CVE-2019-18413 (2019-10-24T18:15:00)
 > In TypeStack class-validator 0.10.2, validate() input validation can be bypassed because certain internal attributes can be overwritten via a conflicting name. Even though there is an optional forbidUnknownValues parameter that can be used to reduce the risk of this bypass, this option is not documented and thus most developers configure input validation in the vulnerable default manner. With this vulnerability, attackers can launch SQL Injection or XSS attacks by injecting arbitrary malicious input. NOTE: a software maintainer agrees with the "is not documented" finding but suggests that much of the responsibility for the risk lies in a different product.
 - [Live-Hack-CVE/CVE-2019-18413](https://github.com/Live-Hack-CVE/CVE-2019-18413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18413">
@@ -2464,6 +2479,21 @@
 - [lolminerxmrig/CVE-2019-15107](https://github.com/lolminerxmrig/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2019-15107">
 
 ---
+## CVE-2019-15017 (2019-10-09T21:15:00)
+> The SSH service is enabled on the Zingbox Inspector versions 1.294 and earlier, exposing SSH to the local network. When combined with PAN-SA-2019-0027, this can allow an attacker to authenticate to the service using hardcoded credentials.
+- [Live-Hack-CVE/CVE-2019-15017](https://github.com/Live-Hack-CVE/CVE-2019-15017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15017">
+
+---
+## CVE-2019-15016 (2019-10-09T21:15:00)
+> An SQL injection vulnerability exists in the management interface of Zingbox Inspector versions 1.288 and earlier, that allows for unsanitized data provided by an authenticated user to be passed from the web UI into the database.
+- [Live-Hack-CVE/CVE-2019-15016](https://github.com/Live-Hack-CVE/CVE-2019-15016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15016">
+
+---
+## CVE-2019-15015 (2019-10-09T21:15:00)
+> In the Zingbox Inspector, versions 1.294 and earlier, hardcoded credentials for root and inspector user accounts are present in the system software, which can result in unauthorized users gaining access to the system.
+- [Live-Hack-CVE/CVE-2019-15015](https://github.com/Live-Hack-CVE/CVE-2019-15015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15015">
+
+---
 ## CVE-2019-14907 (2020-01-21T18:15:00)
 > All samba versions 4.9.x before 4.9.18, 4.10.x before 4.10.12 and 4.11.x before 4.11.5 have an issue where if it is set with "log level = 3" (or above) then the string obtained from the client, after a failed character conversion, is printed. Such strings can be provided during the NTLMSSP authentication exchange. In the Samba AD DC in particular, this may cause a long-lived process(such as the RPC server) to terminate. (In the file server case, the most likely target, smbd, operates as process-per-client and so a crash there is harmless).
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
@@ -2654,6 +2684,21 @@
 - [Live-Hack-CVE/CVE-2019-13767](https://github.com/Live-Hack-CVE/CVE-2019-13767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13767">
 
 ---
+## CVE-2019-13754 (2019-12-10T22:15:00)
+> Insufficient policy enforcement in extensions in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13754](https://github.com/Live-Hack-CVE/CVE-2019-13754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13754">
+
+---
+## CVE-2019-13750 (2019-12-10T22:15:00)
+> Insufficient data validation in SQLite in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to bypass defense-in-depth measures via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13750](https://github.com/Live-Hack-CVE/CVE-2019-13750)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13750">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13750">
+
+---
+## CVE-2019-13749 (2019-12-10T22:15:00)
+> Incorrect security UI in Omnibox in Google Chrome on iOS prior to 79.0.3945.79 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13749](https://github.com/Live-Hack-CVE/CVE-2019-13749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13749">
+
+---
 ## CVE-2019-13748 (2019-12-10T22:15:00)
 > Insufficient policy enforcement in developer tools in Google Chrome prior to 79.0.3945.79 allowed a local attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13748](https://github.com/Live-Hack-CVE/CVE-2019-13748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13748">
@@ -2667,6 +2712,11 @@
 ## CVE-2019-13744 (2019-12-10T22:15:00)
 > Insufficient policy enforcement in cookies in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to leak cross-origin data via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13744](https://github.com/Live-Hack-CVE/CVE-2019-13744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13744">
+
+---
+## CVE-2019-13725 (2019-12-10T22:15:00)
+> Use-after-free in Bluetooth in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to execute arbitrary code via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13725](https://github.com/Live-Hack-CVE/CVE-2019-13725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13725">
 
 ---
 ## CVE-2019-13720 (2019-11-25T15:15:00)
@@ -3119,6 +3169,16 @@
 ## CVE-2019-10695 (2019-12-12T00:15:00)
 > When using the cd4pe::root_configuration task to configure a Continuous Delivery for PE installation, the root user’s username and password were exposed in the job’s Job Details pane in the PE console. These issues have been resolved in version 1.2.1 of the puppetlabs/cd4pe module.
 - [Live-Hack-CVE/CVE-2019-10695](https://github.com/Live-Hack-CVE/CVE-2019-10695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10695">
+
+---
+## CVE-2019-10443 (2019-10-16T14:15:00)
+> Jenkins iceScrum Plugin 1.1.4 and earlier stored credentials unencrypted in job config.xml files on the Jenkins master where they could be viewed by users with Extended Read permission, or access to the master file system.
+- [Live-Hack-CVE/CVE-2019-10443](https://github.com/Live-Hack-CVE/CVE-2019-10443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10443">
+
+---
+## CVE-2019-10440 (2019-10-16T14:15:00)
+> Jenkins NeoLoad Plugin 2.2.5 and earlier stored credentials unencrypted in its global configuration file and in job config.xml files on the Jenkins master where they could be viewed by users with Extended Read permission, or access to the master file system.
+- [Live-Hack-CVE/CVE-2019-10440](https://github.com/Live-Hack-CVE/CVE-2019-10440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10440">
 
 ---
 ## CVE-2019-10433 (2019-10-01T14:15:00)

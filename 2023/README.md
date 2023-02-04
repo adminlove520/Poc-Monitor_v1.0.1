@@ -46,6 +46,11 @@
 - [Live-Hack-CVE/CVE-2023-24829](https://github.com/Live-Hack-CVE/CVE-2023-24829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24829">
 
 ---
+## CVE-2023-24806 (2023-02-04T00:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This CVE has been rejected as it was incorrectly assigned. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2023-24806](https://github.com/Live-Hack-CVE/CVE-2023-24806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24806">
+
+---
 ## CVE-2023-24623 (2023-01-30T05:15:00)
 > Paranoidhttp before 0.3.0 allows SSRF because [::] is equivalent to the 127.0.0.1 address, but does not match the filter for private addresses.
 - [Live-Hack-CVE/CVE-2023-24623](https://github.com/Live-Hack-CVE/CVE-2023-24623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24623">
