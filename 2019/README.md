@@ -1477,6 +1477,26 @@
 - [Live-Hack-CVE/CVE-2019-2933](https://github.com/Live-Hack-CVE/CVE-2019-2933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2933">
 
 ---
+## CVE-2019-2924 (2019-10-16T18:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Server accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2019-2924](https://github.com/Live-Hack-CVE/CVE-2019-2924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2924">
+
+---
+## CVE-2019-2923 (2019-10-16T18:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Server accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2019-2923](https://github.com/Live-Hack-CVE/CVE-2019-2923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2923">
+
+---
+## CVE-2019-2922 (2019-10-16T18:15:00)
+> Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption). Supported versions that are affected are 5.6.45 and prior and 5.7.27 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized read access to a subset of MySQL Server accessible data. CVSS 3.0 Base Score 5.3 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N).
+- [Live-Hack-CVE/CVE-2019-2922](https://github.com/Live-Hack-CVE/CVE-2019-2922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2922">
+
+---
+## CVE-2019-2920 (2019-10-16T18:15:00)
+> Vulnerability in the MySQL Connectors product of Oracle MySQL (component: Connector/ODBC). Supported versions that are affected are 5.3.13 and prior and 8.0.17 and prior. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Connectors. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of MySQL Connectors. CVSS 3.0 Base Score 5.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L).
+- [Live-Hack-CVE/CVE-2019-2920](https://github.com/Live-Hack-CVE/CVE-2019-2920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2920">
+
+---
 ## CVE-2019-2897 (2019-10-16T18:15:00)
 > Vulnerability in the Oracle Business Intelligence Enterprise Edition product of Oracle Fusion Middleware (component: Analytics Actions). Supported versions that are affected are 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows low privileged attacker with network access via HTTP to compromise Oracle Business Intelligence Enterprise Edition. While the vulnerability is in Oracle Business Intelligence Enterprise Edition, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in unauthorized update, insert or delete access to some of Oracle Business Intelligence Enterprise Edition accessible data as well as unauthorized read access to a subset of Oracle Business Intelligence Enterprise Edition accessible data. CVSS 3.0 Base Score 6.4 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N).
 - [Live-Hack-CVE/CVE-2019-2897](https://github.com/Live-Hack-CVE/CVE-2019-2897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2897">
@@ -2076,6 +2096,26 @@
 - [Live-Hack-CVE/CVE-2019-18198](https://github.com/Live-Hack-CVE/CVE-2019-18198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18198">
 
 ---
+## CVE-2019-17675 (2019-10-17T13:15:00)
+> WordPress before 5.2.4 does not properly consider type confusion during validation of the referer in the admin pages, possibly leading to CSRF.
+- [Live-Hack-CVE/CVE-2019-17675](https://github.com/Live-Hack-CVE/CVE-2019-17675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17675">
+
+---
+## CVE-2019-17674 (2019-10-17T13:15:00)
+> WordPress before 5.2.4 is vulnerable to stored XSS (cross-site scripting) via the Customizer.
+- [Live-Hack-CVE/CVE-2019-17674](https://github.com/Live-Hack-CVE/CVE-2019-17674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17674">
+
+---
+## CVE-2019-17672 (2019-10-17T13:15:00)
+> WordPress before 5.2.4 is vulnerable to a stored XSS attack to inject JavaScript into STYLE elements.
+- [Live-Hack-CVE/CVE-2019-17672](https://github.com/Live-Hack-CVE/CVE-2019-17672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17672">
+
+---
+## CVE-2019-17671 (2019-10-17T13:15:00)
+> In WordPress before 5.2.4, unauthenticated viewing of certain content is possible because the static query property is mishandled.
+- [Live-Hack-CVE/CVE-2019-17671](https://github.com/Live-Hack-CVE/CVE-2019-17671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17671">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
@@ -2215,6 +2255,21 @@
 - [Live-Hack-CVE/CVE-2019-17026](https://github.com/Live-Hack-CVE/CVE-2019-17026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17026">
 
 ---
+## CVE-2019-16972 (2019-10-22T22:15:00)
+> In FusionPBX up to 4.5.7, the file app\contacts\contact_addresses.php uses an unsanitized "id" variable coming from the URL, which is reflected in HTML, leading to XSS.
+- [Live-Hack-CVE/CVE-2019-16972](https://github.com/Live-Hack-CVE/CVE-2019-16972)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16972">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16972">
+
+---
+## CVE-2019-16968 (2019-10-21T20:15:00)
+> An issue was discovered in FusionPBX up to 4.5.7. In the file app\conference_controls\conference_control_details.php, an unsanitized id variable coming from the URL is reflected in HTML on 2 occasions, leading to XSS.
+- [Live-Hack-CVE/CVE-2019-16968](https://github.com/Live-Hack-CVE/CVE-2019-16968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16968">
+
+---
+## CVE-2019-16965 (2019-10-21T19:15:00)
+> resources/cmd.php in FusionPBX up to 4.5.7 suffers from a command injection vulnerability due to a lack of input validation, which allows authenticated administrative attackers to execute any commands on the host as www-data.
+- [Live-Hack-CVE/CVE-2019-16965](https://github.com/Live-Hack-CVE/CVE-2019-16965)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16965">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16965">
+
+---
 ## CVE-2019-16943 (2019-10-01T17:15:00)
 > A Polymorphic Typing issue was discovered in FasterXML jackson-databind 2.0.0 through 2.9.10. When Default Typing is enabled (either globally or for a specific property) for an externally exposed JSON endpoint and the service has the p6spy (3.8.6) jar in the classpath, and an attacker can find an RMI service endpoint to access, it is possible to make the service execute a malicious payload. This issue exists because of com.p6spy.engine.spy.P6DataSource mishandling.
 - [Live-Hack-CVE/CVE-2019-16943](https://github.com/Live-Hack-CVE/CVE-2019-16943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16943">
@@ -2289,6 +2344,31 @@
 ## CVE-2019-16167 (2019-09-09T17:15:00)
 > sysstat before 12.1.6 has memory corruption due to an Integer Overflow in remap_struct() in sa_common.c.
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
+
+---
+## CVE-2019-16095 (2019-09-08T03:15:00)
+> Symonics libmysofa 0.7 has an invalid read in getDimension in hrtf/reader.c.
+- [Live-Hack-CVE/CVE-2019-16095](https://github.com/Live-Hack-CVE/CVE-2019-16095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16095">
+
+---
+## CVE-2019-16094 (2019-09-08T03:15:00)
+> Symonics libmysofa 0.7 has an invalid read in readOHDRHeaderMessageDataLayout in hdf/dataobject.c.
+- [Live-Hack-CVE/CVE-2019-16094](https://github.com/Live-Hack-CVE/CVE-2019-16094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16094">
+
+---
+## CVE-2019-16093 (2019-09-08T03:15:00)
+> Symonics libmysofa 0.7 has an invalid write in readOHDRHeaderMessageDataLayout in hdf/dataobject.c.
+- [Live-Hack-CVE/CVE-2019-16093](https://github.com/Live-Hack-CVE/CVE-2019-16093)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16093">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16093">
+
+---
+## CVE-2019-16092 (2019-09-08T03:15:00)
+> Symonics libmysofa 0.7 has a NULL pointer dereference in getHrtf in hrtf/reader.c.
+- [Live-Hack-CVE/CVE-2019-16092](https://github.com/Live-Hack-CVE/CVE-2019-16092)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16092">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16092">
+
+---
+## CVE-2019-16091 (2019-09-08T03:15:00)
+> Symonics libmysofa 0.7 has an out-of-bounds read in directblockRead in hdf/fractalhead.c.
+- [Live-Hack-CVE/CVE-2019-16091](https://github.com/Live-Hack-CVE/CVE-2019-16091)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16091">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16091">
 
 ---
 ## CVE-2019-15961 (2020-01-15T19:15:00)
