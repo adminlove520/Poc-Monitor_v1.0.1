@@ -2129,6 +2129,7 @@
 ## CVE-2019-17671 (2019-10-17T13:15:00)
 > In WordPress before 5.2.4, unauthenticated viewing of certain content is possible because the static query property is mishandled.
 - [Live-Hack-CVE/CVE-2019-17671](https://github.com/Live-Hack-CVE/CVE-2019-17671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17671">
+- [rhbb/CVE-2019-17671](https://github.com/rhbb/CVE-2019-17671)	<img alt="forks" src="https://img.shields.io/github/forks/rhbb/CVE-2019-17671">	<img alt="stars" src="https://img.shields.io/github/stars/rhbb/CVE-2019-17671">
 
 ---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
