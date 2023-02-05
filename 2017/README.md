@@ -482,6 +482,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20175 (2023-02-05T20:15:00)
+> A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 2.4.3 is able to address this issue. The name of the patch is 681324e4f518a8af4bd1f93867074c728eb9923d. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220203.
+- [Live-Hack-CVE/CVE-2017-20175](https://github.com/Live-Hack-CVE/CVE-2017-20175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20175">
+
+---
 ## CVE-2017-20174 (2023-01-19T08:15:00)
 > A vulnerability was found in bastianallgeier Kirby Webmentions Plugin and classified as problematic. Affected by this issue is some unknown functionality. The manipulation leads to injection. The attack may be launched remotely. The name of the patch is 55bedea78ae9af916a9a41497bd9996417851502. It is recommended to apply a patch to fix this issue. VDB-218894 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20174](https://github.com/Live-Hack-CVE/CVE-2017-20174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20174">
