@@ -484,6 +484,11 @@
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
 
 ---
+## CVE-2023-23333 ()
+> 
+- [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
+
+---
 ## CVE-2023-23331 (2023-01-24T01:15:00)
 > Amano Xoffice parking solutions 7.1.3879 is vulnerable to SQL Injection.
 - [Live-Hack-CVE/CVE-2023-23331](https://github.com/Live-Hack-CVE/CVE-2023-23331)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23331">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23331">

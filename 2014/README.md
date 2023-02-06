@@ -246,6 +246,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-125086 (2023-02-06T04:15:00)
+> A vulnerability has been found in Gimmie Plugin 1.2.2 and classified as critical. Affected by this vulnerability is an unknown functionality of the file trigger_login.php. The manipulation of the argument userid leads to sql injection. Upgrading to version 1.3.0 is able to address this issue. The name of the patch is fe851002d20a8d6196a5abb68bafec4102964d5b. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220207.
+- [Live-Hack-CVE/CVE-2014-125086](https://github.com/Live-Hack-CVE/CVE-2014-125086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125086">
+
+---
 ## CVE-2014-125085 (2023-02-06T00:15:00)
 > A vulnerability, which was classified as critical, was found in Gimmie Plugin 1.2.2. Affected is an unknown function of the file trigger_ratethread.php. The manipulation of the argument t/postusername leads to sql injection. Upgrading to version 1.3.0 is able to address this issue. The name of the patch is f11a136e9cbd24997354965178728dc22a2aa2ed. It is recommended to upgrade the affected component. VDB-220206 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2014-125085](https://github.com/Live-Hack-CVE/CVE-2014-125085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125085">

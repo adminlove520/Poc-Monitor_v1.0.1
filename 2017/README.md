@@ -482,6 +482,11 @@
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
 
 ---
+## CVE-2017-20176 (2023-02-06T04:15:00)
+> A vulnerability classified as problematic was found in ciubotaru share-on-diaspora 0.7.9. This vulnerability affects unknown code of the file new_window.php. The manipulation of the argument title/url leads to cross site scripting. The attack can be initiated remotely. The name of the patch is fb6fae2f8a9b146471450b5b0281046a17d1ac8d. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-220204.
+- [Live-Hack-CVE/CVE-2017-20176](https://github.com/Live-Hack-CVE/CVE-2017-20176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20176">
+
+---
 ## CVE-2017-20175 (2023-02-05T20:15:00)
 > A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 2.4.3 is able to address this issue. The name of the patch is 681324e4f518a8af4bd1f93867074c728eb9923d. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220203.
 - [Live-Hack-CVE/CVE-2017-20175](https://github.com/Live-Hack-CVE/CVE-2017-20175)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20175">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20175">
