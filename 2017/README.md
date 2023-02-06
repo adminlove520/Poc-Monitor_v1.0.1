@@ -485,6 +485,7 @@
 ## CVE-2017-20176 (2023-02-06T04:15:00)
 > A vulnerability classified as problematic was found in ciubotaru share-on-diaspora 0.7.9. This vulnerability affects unknown code of the file new_window.php. The manipulation of the argument title/url leads to cross site scripting. The attack can be initiated remotely. The name of the patch is fb6fae2f8a9b146471450b5b0281046a17d1ac8d. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-220204.
 - [Live-Hack-CVE/CVE-2017-20176](https://github.com/Live-Hack-CVE/CVE-2017-20176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20176">
+- [Live-Hack-CVE/CVE-2019-20176](https://github.com/Live-Hack-CVE/CVE-2019-20176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20176">
 
 ---
 ## CVE-2017-20175 (2023-02-05T20:15:00)
