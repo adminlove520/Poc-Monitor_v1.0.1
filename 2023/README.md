@@ -181,9 +181,64 @@
 - [Live-Hack-CVE/CVE-2023-24422](https://github.com/Live-Hack-CVE/CVE-2023-24422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24422">
 
 ---
+## CVE-2023-24276 (2023-02-06T15:15:00)
+> TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the country parameter at setting/delStaticDhcpRules.
+- [Live-Hack-CVE/CVE-2023-24276](https://github.com/Live-Hack-CVE/CVE-2023-24276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24276">
+
+---
 ## CVE-2023-24241 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /admin/loginpost.php.
 - [Live-Hack-CVE/CVE-2023-24241](https://github.com/Live-Hack-CVE/CVE-2023-24241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24241">
+
+---
+## CVE-2023-24202 (2023-02-06T15:15:00)
+> Raffle Draw System v1.0 was discovered to contain a local file inclusion vulnerability via the page parameter in index.php.
+- [Live-Hack-CVE/CVE-2023-24202](https://github.com/Live-Hack-CVE/CVE-2023-24202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24202">
+
+---
+## CVE-2023-24201 (2023-02-06T15:15:00)
+> Raffle Draw System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at get_ticket.php.
+- [Live-Hack-CVE/CVE-2023-24201](https://github.com/Live-Hack-CVE/CVE-2023-24201)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24201">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24201">
+
+---
+## CVE-2023-24200 (2023-02-06T15:15:00)
+> Raffle Draw System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at save_ticket.php.
+- [Live-Hack-CVE/CVE-2023-24200](https://github.com/Live-Hack-CVE/CVE-2023-24200)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24200">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24200">
+
+---
+## CVE-2023-24199 (2023-02-06T15:15:00)
+> Raffle Draw System v1.0 was discovered to contain a SQL injection vulnerability via the id parameter at delete_ticket.php.
+- [Live-Hack-CVE/CVE-2023-24199](https://github.com/Live-Hack-CVE/CVE-2023-24199)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24199">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24199">
+
+---
+## CVE-2023-24198 (2023-02-06T15:15:00)
+> Raffle Draw System v1.0 was discovered to contain multiple SQL injection vulnerabilities at save_winner.php via the ticket_id and draw parameters.
+- [Live-Hack-CVE/CVE-2023-24198](https://github.com/Live-Hack-CVE/CVE-2023-24198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24198">
+
+---
+## CVE-2023-24197 (2023-02-06T15:15:00)
+> Online Food Ordering System v2 was discovered to contain a SQL injection vulnerability via the id parameter at view_order.php.
+- [Live-Hack-CVE/CVE-2023-24197](https://github.com/Live-Hack-CVE/CVE-2023-24197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24197">
+
+---
+## CVE-2023-24195 (2023-02-06T15:15:00)
+> Online Food Ordering System v2 was discovered to contain a cross-site scripting (XSS) vulnerability via the page parameter in index.php.
+- [Live-Hack-CVE/CVE-2023-24195](https://github.com/Live-Hack-CVE/CVE-2023-24195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24195">
+
+---
+## CVE-2023-24194 (2023-02-06T15:15:00)
+> Online Food Ordering System v2 was discovered to contain a cross-site scripting (XSS) vulnerability via the page parameter in navbar.php.
+- [Live-Hack-CVE/CVE-2023-24194](https://github.com/Live-Hack-CVE/CVE-2023-24194)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24194">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24194">
+
+---
+## CVE-2023-24192 (2023-02-06T15:15:00)
+> Online Food Ordering System v2 was discovered to contain a cross-site scripting (XSS) vulnerability via the redirect parameter in login.php.
+- [Live-Hack-CVE/CVE-2023-24192](https://github.com/Live-Hack-CVE/CVE-2023-24192)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24192">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24192">
+
+---
+## CVE-2023-24191 (2023-02-06T15:15:00)
+> Online Food Ordering System v2 was discovered to contain a cross-site scripting (XSS) vulnerability via the redirect parameter in signup.php.
+- [Live-Hack-CVE/CVE-2023-24191](https://github.com/Live-Hack-CVE/CVE-2023-24191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24191">
 
 ---
 ## CVE-2023-24170 (2023-01-26T21:18:00)
@@ -2412,6 +2467,16 @@
 - [Live-Hack-CVE/CVE-2023-20043](https://github.com/Live-Hack-CVE/CVE-2023-20043)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20043">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20043">
 
 ---
+## CVE-2023-20020 (2023-01-20T07:15:00)
+> A vulnerability in the Device Management Servlet application of Cisco BroadWorks Application Delivery Platform and Cisco BroadWorks Xtended Services Platform could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. This vulnerability is due to improper input validation when parsing HTTP requests. An attacker could exploit this vulnerability by sending a sustained stream of crafted requests to an affected device. A successful exploit could allow the attacker to cause all subsequent requests to be dropped, resulting in a DoS condition.
+- [Live-Hack-CVE/CVE-2023-20020](https://github.com/Live-Hack-CVE/CVE-2023-20020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20020">
+
+---
+## CVE-2023-20019 (2023-01-20T07:15:00)
+> A vulnerability in the web-based management interface of Cisco BroadWorks Application Delivery Platform, Cisco BroadWorks Application Server, and Cisco BroadWorks Xtended Services Platform could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the interface of an affected device. This vulnerability exists because the web-based management interface does not properly validate user-supplied input. An attacker could exploit this vulnerability by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.
+- [Live-Hack-CVE/CVE-2023-20019](https://github.com/Live-Hack-CVE/CVE-2023-20019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20019">
+
+---
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
@@ -2757,6 +2822,11 @@
 - [Live-Hack-CVE/CVE-2023-0454](https://github.com/Live-Hack-CVE/CVE-2023-0454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0454">
 
 ---
+## CVE-2023-0451 (2023-01-26T21:18:00)
+> All versions of Econolite EOS traffic control software are vulnerable to CWE-284: Improper Access Control, and lack a password requirement for gaining “READONLY” access to log files, as well as certain database and configuration files. One such file contains tables with message-digest algorithm 5 (MD5) hashes and usernames for all defined users in the control software, including administrators and technicians.
+- [Live-Hack-CVE/CVE-2023-0451](https://github.com/Live-Hack-CVE/CVE-2023-0451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0451">
+
+---
 ## CVE-2023-0444 (2023-01-26T21:18:00)
 > A privilege escalation vulnerability exists in Delta Electronics InfraSuite Device Master 00.00.02a. A default user 'User', which is in the 'Read Only User' group, can view the password of another default user 'Administrator', which is in the 'Administrator' group. This allows any lower privileged user to log in as an administrator.
 - [Live-Hack-CVE/CVE-2023-0444](https://github.com/Live-Hack-CVE/CVE-2023-0444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0444">
@@ -2907,6 +2977,11 @@
 - [Live-Hack-CVE/CVE-2023-0323](https://github.com/Live-Hack-CVE/CVE-2023-0323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0323">
 
 ---
+## CVE-2023-0321 (2023-01-26T21:18:00)
+> Campbell Scientific dataloggers CR6, CR300, CR800, CR1000 and CR3000 may allow an attacker to download configuration files, which may contain sensitive information about the internal network. From factory defaults, the mentioned datalogges have HTTP and PakBus enabled. The devices, with the default configuration, allow this situation via the PakBus port. The exploitation of this vulnerability may allow an attacker to download, modify, and upload new configuration files.
+- [Live-Hack-CVE/CVE-2023-0321](https://github.com/Live-Hack-CVE/CVE-2023-0321)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0321">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0321">
+
+---
 ## CVE-2023-0316 (2023-01-16T01:15:00)
 > Path Traversal: '\..\filename' in GitHub repository froxlor/froxlor prior to 2.0.0.
 - [Live-Hack-CVE/CVE-2023-0316](https://github.com/Live-Hack-CVE/CVE-2023-0316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0316">
@@ -3048,6 +3123,11 @@
 - [Live-Hack-CVE/CVE-2023-0287](https://github.com/Live-Hack-CVE/CVE-2023-0287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0287">
 
 ---
+## CVE-2023-0284 (2023-01-26T21:18:00)
+> Improper Input Validation of LDAP user IDs in Tribe29 Checkmk allows attackers that can control LDAP user IDs to manipulate files on the server. Checkmk <= 2.1.0p19, Checkmk <= 2.0.0p32, and all versions of Checkmk 1.6.0 (EOL) are affected.
+- [Live-Hack-CVE/CVE-2023-0284](https://github.com/Live-Hack-CVE/CVE-2023-0284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0284">
+
+---
 ## CVE-2023-0283 (2023-01-13T10:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Online Flight Booking Management System. This affects an unknown part of the file review_search.php of the component POST Parameter Handler. The manipulation of the argument txtsearch leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-218277 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0283](https://github.com/Live-Hack-CVE/CVE-2023-0283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0283">
@@ -3121,6 +3201,11 @@
 ## CVE-2023-0235 (2023-01-13T05:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
 - [Live-Hack-CVE/CVE-2023-0235](https://github.com/Live-Hack-CVE/CVE-2023-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0235">
+
+---
+## CVE-2023-0229 (2023-01-26T21:18:00)
+> A flaw was found in github.com/openshift/apiserver-library-go, used in OpenShift 4.12 and 4.11, that contains an issue that can allow low-privileged users to set the seccomp profile for pods they control to "unconfined." By default, the seccomp profile used in the restricted-v2 Security Context Constraint (SCC) is "runtime/default," allowing users to disable seccomp for pods they can create and modify.
+- [Live-Hack-CVE/CVE-2023-0229](https://github.com/Live-Hack-CVE/CVE-2023-0229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0229">
 
 ---
 ## CVE-2023-0227 (2023-01-12T01:15:00)
