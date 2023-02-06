@@ -2081,6 +2081,11 @@
 - [Live-Hack-CVE/CVE-2021-4125](https://github.com/Live-Hack-CVE/CVE-2021-4125)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4125">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4125">
 
 ---
+## CVE-2021-41231 (2023-01-27T19:15:00)
+> OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, an administrator with the permissions to upload files via DataFlow and to create products was able to execute arbitrary code via the convert profile. Versions 19.4.22 and 20.0.19 contain a patch for this issue.
+- [Live-Hack-CVE/CVE-2021-41231](https://github.com/Live-Hack-CVE/CVE-2021-41231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41231">
+
+---
 ## CVE-2021-41228 (2021-11-05T23:15:00)
 > TensorFlow is an open source platform for machine learning. In affected versions TensorFlow's `saved_model_cli` tool is vulnerable to a code injection as it calls `eval` on user supplied strings. This can be used by attackers to run arbitrary code on the plaform where the CLI tool runs. However, given that the tool is always run manually, the impact of this is not severe. We have patched this by adding a `safe` flag which defaults to `True` and an explicit warning for users. The fix will be included in TensorFlow 2.7.0. We will also cherrypick this commit on TensorFlow 2.6.1, TensorFlow 2.5.2, and TensorFlow 2.4.4, as these are also affected and still in supported range.
 - [Live-Hack-CVE/CVE-2021-41228](https://github.com/Live-Hack-CVE/CVE-2021-41228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41228">
@@ -2129,6 +2134,16 @@
 ## CVE-2021-41158 (2021-10-26T14:15:00)
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to version 1.10.7, an attacker can perform a SIP digest leak attack against FreeSWITCH and receive the challenge response of a gateway configured on the FreeSWITCH server. This is done by challenging FreeSWITCH's SIP requests with the realm set to that of the gateway, thus forcing FreeSWITCH to respond with the challenge response which is based on the password of that targeted gateway. Abuse of this vulnerability allows attackers to potentially recover gateway passwords by performing a fast offline password cracking attack on the challenge response. The attacker does not require special network privileges, such as the ability to sniff the FreeSWITCH's network traffic, to exploit this issue. Instead, what is required for this attack to work is the ability to cause the victim server to send SIP request messages to the malicious party. Additionally, to exploit this issue, the attacker needs to specify the correct realm which might in some cases be considered secret. However, because many gateways are actually public, this information can easily be retrieved. The vulnerability appears to be due to the code which handles challenges in `sofia_reg.c`, `sofia_reg_handle_sip_r_challenge()` which does not check if the challenge is originating from the actual gateway. The lack of these checks allows arbitrary UACs (and gateways) to challenge any request sent by FreeSWITCH with the realm of the gateway being targeted. This issue is patched in version 10.10.7. Maintainers recommend that one should create an association between a SIP session for each gateway and its realm to make a check be put into place for this association when responding to challenges.
 - [Live-Hack-CVE/CVE-2021-41158](https://github.com/Live-Hack-CVE/CVE-2021-41158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41158">
+
+---
+## CVE-2021-41144 (2023-01-27T19:15:00)
+> OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, a layout block was able to bypass the block blacklist to execute remote code. Versions 19.4.22 and 20.0.19 contain a patch for this issue.
+- [Live-Hack-CVE/CVE-2021-41144](https://github.com/Live-Hack-CVE/CVE-2021-41144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41144">
+
+---
+## CVE-2021-41143 (2023-01-27T19:15:00)
+> OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, Magento admin users with access to the customer media could execute code on the server. Versions 19.4.22 and 20.0.19 contain a patch for this issue.
+- [Live-Hack-CVE/CVE-2021-41143](https://github.com/Live-Hack-CVE/CVE-2021-41143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41143">
 
 ---
 ## CVE-2021-41141 (2022-01-04T19:15:00)

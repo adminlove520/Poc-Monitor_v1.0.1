@@ -76,6 +76,11 @@
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 
 ---
+## CVE-2023-24495 (2023-01-26T21:18:00)
+> A Server Side Request Forgery (SSRF) vulnerability exists in Tenable.sc due to improper validation of session & user-accessible input data. A privileged, authenticated remote attacker could interact with external and internal services covertly.
+- [Live-Hack-CVE/CVE-2023-24495](https://github.com/Live-Hack-CVE/CVE-2023-24495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24495">
+
+---
 ## CVE-2023-24494 (2023-01-26T21:18:00)
 > A stored cross-site scripting (XSS) vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated, remote attacker can exploit this by convincing a user to click a specially crafted URL, to execute arbitrary script code in a user's browser session.
 - [Live-Hack-CVE/CVE-2023-24494](https://github.com/Live-Hack-CVE/CVE-2023-24494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24494">
@@ -471,6 +476,11 @@
 ## CVE-2023-23615 (2023-02-03T22:15:00)
 > Discourse is an open source discussion platform. The embeddable comments can be exploited to create new topics as any user but without any clear title or content. This issue is patched in the latest stable, beta and tests-passed versions of Discourse. As a workaround, disable embeddable comments by deleting all embeddable hosts.
 - [Live-Hack-CVE/CVE-2023-23615](https://github.com/Live-Hack-CVE/CVE-2023-23615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23615">
+
+---
+## CVE-2023-23614 (2023-01-26T21:18:00)
+> Pi-hole®'s Web interface (based off of AdminLTE) provides a central location to manage your Pi-hole. Versions 4.0 and above, prior to 5.18.3 are vulnerable to Insufficient Session Expiration. Improper use of admin WEBPASSWORD hash as "Remember me for 7 days" cookie value makes it possible for an attacker to "pass the hash" to login or reuse a theoretically expired "remember me" cookie. It also exposes the hash over the network and stores it unnecessarily in the browser. The cookie itself is set to expire after 7 days but its value will remain valid as long as the admin password doesn't change. If a cookie is leaked or compromised it could be used forever as long as the admin password is not changed. An attacker that obtained the password hash via an other attack vector (for example a path traversal vulnerability) could use it to login as the admin by setting the hash as the cookie value without the need to crack it to obtain the admin password (pass the hash). The hash is exposed over the network and in the browser where the cookie is transmitted and stored. This issue is patched in version 5.18.3.
+- [Live-Hack-CVE/CVE-2023-23614](https://github.com/Live-Hack-CVE/CVE-2023-23614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23614">
 
 ---
 ## CVE-2023-23607 (2023-01-20T21:15:00)
@@ -1304,6 +1314,21 @@
 ## CVE-2023-22278 (2023-01-17T10:15:00)
 > m-FILTER prior to Ver.5.70R01 (Ver.5 Series) and m-FILTER prior to Ver.4.87R04 (Ver.4 Series) allows a remote unauthenticated attacker to bypass authentication and send users' unintended email when email is being sent under the certain conditions. The attacks exploiting this vulnerability have been observed.
 - [Live-Hack-CVE/CVE-2023-22278](https://github.com/Live-Hack-CVE/CVE-2023-22278)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22278">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22278">
+
+---
+## CVE-2023-22242 (2023-01-27T18:15:00)
+> Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-22242](https://github.com/Live-Hack-CVE/CVE-2023-22242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22242">
+
+---
+## CVE-2023-22241 (2023-01-27T18:15:00)
+> Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-22241](https://github.com/Live-Hack-CVE/CVE-2023-22241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22241">
+
+---
+## CVE-2023-22240 (2023-01-27T18:15:00)
+> Adobe Acrobat Reader versions 22.003.20282 (and earlier), 22.003.20281 (and earlier) and 20.005.30418 (and earlier) are affected by an out-of-bounds write vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
+- [Live-Hack-CVE/CVE-2023-22240](https://github.com/Live-Hack-CVE/CVE-2023-22240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22240">
 
 ---
 ## CVE-2023-21900 (2023-01-18T00:15:00)
@@ -2945,6 +2970,11 @@
 ## CVE-2023-0358 (2023-01-18T02:15:00)
 > Use After Free in GitHub repository gpac/gpac prior to 2.3.0-DEV.
 - [Live-Hack-CVE/CVE-2023-0358](https://github.com/Live-Hack-CVE/CVE-2023-0358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0358">
+
+---
+## CVE-2023-0356 (2023-01-26T21:18:00)
+> SOCOMEC MODULYS GP Netvision versions 7.20 and prior lack strong encryption for credentials on HTTP connections, which could result in threat actors obtaining sensitive information.
+- [Live-Hack-CVE/CVE-2023-0356](https://github.com/Live-Hack-CVE/CVE-2023-0356)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0356">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0356">
 
 ---
 ## CVE-2023-0341 (2023-02-01T00:15:00)
