@@ -2672,6 +2672,11 @@
 - [Live-Hack-CVE/CVE-2023-0587](https://github.com/Live-Hack-CVE/CVE-2023-0587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0587">
 
 ---
+## CVE-2023-0581 (2023-01-30T15:15:00)
+> The PrivateContent plugin for WordPress is vulnerable to protection mechanism bypass due to the use of client side validation in versions up to, and including, 8.4.3. This is due to the plugin checking if an IP had been blocklist via client-side scripts rather than server-side. This makes it possible for unauthenticated attackers to bypass any login restrictions that may prevent a brute force attack.
+- [Live-Hack-CVE/CVE-2023-0581](https://github.com/Live-Hack-CVE/CVE-2023-0581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0581">
+
+---
 ## CVE-2023-0572 (2023-01-29T23:15:00)
 > Unchecked Error Condition in GitHub repository froxlor/froxlor prior to 2.0.10.
 - [Live-Hack-CVE/CVE-2023-0572](https://github.com/Live-Hack-CVE/CVE-2023-0572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0572">
@@ -3193,6 +3198,11 @@
 - [Live-Hack-CVE/CVE-2023-0254](https://github.com/Live-Hack-CVE/CVE-2023-0254)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0254">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0254">
 
 ---
+## CVE-2023-0252 (2023-02-06T20:15:00)
+> The Contextual Related Posts WordPress plugin before 3.3.1 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
+- [Live-Hack-CVE/CVE-2023-0252](https://github.com/Live-Hack-CVE/CVE-2023-0252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0252">
+
+---
 ## CVE-2023-0247 (2023-01-12T17:15:00)
 > Uncontrolled Search Path Element in GitHub repository bits-and-blooms/bloom prior to 3.3.1.
 - [Live-Hack-CVE/CVE-2023-0247](https://github.com/Live-Hack-CVE/CVE-2023-0247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0247">
@@ -3233,6 +3243,11 @@
 - [Live-Hack-CVE/CVE-2023-0235](https://github.com/Live-Hack-CVE/CVE-2023-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0235">
 
 ---
+## CVE-2023-0234 (2023-02-06T20:15:00)
+> The SiteGround Security WordPress plugin before 1.3.1 does not properly sanitize user input before using it in an SQL query, leading to an authenticated SQL injection issue.
+- [Live-Hack-CVE/CVE-2023-0234](https://github.com/Live-Hack-CVE/CVE-2023-0234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0234">
+
+---
 ## CVE-2023-0229 (2023-01-26T21:18:00)
 > A flaw was found in github.com/openshift/apiserver-library-go, used in OpenShift 4.12 and 4.11, that contains an issue that can allow low-privileged users to set the seccomp profile for pods they control to "unconfined." By default, the seccomp profile used in the restricted-v2 Security Context Constraint (SCC) is "runtime/default," allowing users to disable seccomp for pods they can create and modify.
 - [Live-Hack-CVE/CVE-2023-0229](https://github.com/Live-Hack-CVE/CVE-2023-0229)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0229">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0229">
@@ -3258,6 +3273,11 @@
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
 
 ---
+## CVE-2023-0170 (2023-02-06T20:15:00)
+> The Html5 Audio Player WordPress plugin before 2.1.12 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0170](https://github.com/Live-Hack-CVE/CVE-2023-0170)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0170">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0170">
+
+---
 ## CVE-2023-0164 (2023-01-18T22:15:00)
 > OrangeScrum version 2.0.11 allows an authenticated external attacker to execute arbitrary commands on the server. This is possible because the application injects an attacker-controlled parameter into a system function.
 - [Live-Hack-CVE/CVE-2023-0164](https://github.com/Live-Hack-CVE/CVE-2023-0164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0164">
@@ -3276,6 +3296,16 @@
 ## CVE-2023-0158 (2023-01-17T17:15:00)
 > NLnet Labs Krill supports direct access to the RRDP repository content through its built-in web server at the "/rrdp" endpoint. Prior to 0.12.1 a direct query for any existing directory under "/rrdp/", rather than an RRDP file such as "/rrdp/notification.xml" as would be expected, causes Krill to crash. If the built-in "/rrdp" endpoint is exposed directly to the internet, then malicious remote parties can cause the publication server to crash. The repository content is not affected by this, but the availability of the server and repository can cause issues if this attack is persistent and is not mitigated.
 - [Live-Hack-CVE/CVE-2023-0158](https://github.com/Live-Hack-CVE/CVE-2023-0158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0158">
+
+---
+## CVE-2023-0149 (2023-02-06T20:15:00)
+> The WordPrezi WordPress plugin through 0.8.2 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
+- [Live-Hack-CVE/CVE-2023-0149](https://github.com/Live-Hack-CVE/CVE-2023-0149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0149">
+
+---
+## CVE-2023-0148 (2023-02-06T20:15:00)
+> The Gallery Factory Lite WordPress plugin through 2.0.0 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0148](https://github.com/Live-Hack-CVE/CVE-2023-0148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0148">
 
 ---
 ## CVE-2023-0141 (2023-01-10T20:15:00)
@@ -3451,6 +3481,11 @@
 ## CVE-2023-0077 (2023-01-05T10:15:00)
 > Integer overflow or wraparound vulnerability in CGI component in Synology Router Manager (SRM) before 1.2.5-8227-6 and 1.3.1-9346-3 allows remote attackers to overflow buffers via unspecified vectors.
 - [Live-Hack-CVE/CVE-2023-0077](https://github.com/Live-Hack-CVE/CVE-2023-0077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0077">
+
+---
+## CVE-2023-0072 (2023-02-06T20:15:00)
+> The WC Vendors Marketplace WordPress plugin before 2.4.5 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0072](https://github.com/Live-Hack-CVE/CVE-2023-0072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0072">
 
 ---
 ## CVE-2023-0057 (2023-01-05T01:15:00)
