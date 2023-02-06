@@ -3911,6 +3911,21 @@
 - [Live-Hack-CVE/CVE-2021-3623](https://github.com/Live-Hack-CVE/CVE-2021-3623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3623">
 
 ---
+## CVE-2021-36226 (2023-02-06T14:15:00)
+> Western Digital My Cloud devices before OS5 do not use cryptographically signed Firmware upgrade files.
+- [Live-Hack-CVE/CVE-2021-36226](https://github.com/Live-Hack-CVE/CVE-2021-36226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36226">
+
+---
+## CVE-2021-36225 (2023-02-06T14:15:00)
+> Western Digital My Cloud devices before OS5 allow REST API access by low-privileged accounts, as demonstrated by API commands for firmware uploads and installation.
+- [Live-Hack-CVE/CVE-2021-36225](https://github.com/Live-Hack-CVE/CVE-2021-36225)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36225">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36225">
+
+---
+## CVE-2021-36224 (2023-02-06T14:15:00)
+> Western Digital My Cloud devices before OS5 have a nobody account with a blank password.
+- [Live-Hack-CVE/CVE-2021-36224](https://github.com/Live-Hack-CVE/CVE-2021-36224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36224">
+
+---
 ## CVE-2021-36221 (2021-08-08T06:15:00)
 > Go before 1.15.15 and 1.16.x before 1.16.7 has a race condition that can lead to a net/http/httputil ReverseProxy panic upon an ErrAbortHandler abort.
 - [Live-Hack-CVE/CVE-2021-36221](https://github.com/Live-Hack-CVE/CVE-2021-36221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36221">
@@ -4907,6 +4922,11 @@
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
 
 ---
+## CVE-2021-3322 (2021-10-12T22:15:00)
+> Unexpected Pointer Aliasing in IEEE 802154 Fragment Reassembly in Zephyr. Zephyr versions >= >=2.4.0 contain NULL Pointer Dereference (CWE-476). For more information, see https://github.com/zephyrproject-rtos/zephyr/security/advisories/GHSA-p86r-gc4r-4mq3
+- [Live-Hack-CVE/CVE-2021-3322](https://github.com/Live-Hack-CVE/CVE-2021-3322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3322">
+
+---
 ## CVE-2021-33198 (2021-08-02T19:15:00)
 > In Go before 1.15.13 and 1.16.x before 1.16.5, there can be a panic for a large exponent to the math/big.Rat SetString or UnmarshalText method.
 - [Live-Hack-CVE/CVE-2021-33198](https://github.com/Live-Hack-CVE/CVE-2021-33198)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33198">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33198">
@@ -5733,6 +5753,11 @@
 ## CVE-2021-29421 (2021-04-01T20:15:00)
 > models/metadata.py in the pikepdf package 1.3.0 through 2.9.2 for Python allows XXE when parsing XMP metadata entries.
 - [Live-Hack-CVE/CVE-2021-29421](https://github.com/Live-Hack-CVE/CVE-2021-29421)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29421">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29421">
+
+---
+## CVE-2021-29368 (2023-01-20T19:15:00)
+> Session fixation vulnerability in CuppaCMS thru commit 4c9b742b23b924cf4c1f943f48b278e06a17e297 on November 12, 2019 allows attackers to gain access to arbitrary user sessions.
+- [Live-Hack-CVE/CVE-2021-29368](https://github.com/Live-Hack-CVE/CVE-2021-29368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29368">
 
 ---
 ## CVE-2021-29338 (2021-04-14T14:15:00)

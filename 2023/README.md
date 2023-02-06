@@ -266,6 +266,11 @@
 - [Live-Hack-CVE/CVE-2023-24058](https://github.com/Live-Hack-CVE/CVE-2023-24058)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24058">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24058">
 
 ---
+## CVE-2023-24057 (2023-01-26T21:18:00)
+> HL7 (Health Level 7) FHIR Core Libraries before 5.6.92 allow attackers to extract files into arbitrary directories via directory traversal from a crafted ZIP or TGZ archive (for a prepackaged terminology cache, NPM package, or comparison archive).
+- [Live-Hack-CVE/CVE-2023-24057](https://github.com/Live-Hack-CVE/CVE-2023-24057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24057">
+
+---
 ## CVE-2023-24056 (2023-01-22T04:15:00)
 > In pkgconf through 1.9.3, variable duplication can cause unbounded string expansion due to incorrect checks in libpkgconf/tuple.c:pkgconf_tuple_parse. For example, a .pc file containing a few hundred bytes can expand to one billion bytes.
 - [Live-Hack-CVE/CVE-2023-24056](https://github.com/Live-Hack-CVE/CVE-2023-24056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24056">
@@ -2412,6 +2417,11 @@
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0679 (2023-02-06T13:15:00)
+> A vulnerability was found in SourceCodester Canteen Management System 1.0. It has been rated as critical. Affected by this issue is some unknown functionality of the file removeUser.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-220220.
+- [Live-Hack-CVE/CVE-2023-0679](https://github.com/Live-Hack-CVE/CVE-2023-0679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0679">
+
+---
 ## CVE-2023-0678 (2023-02-04T13:15:00)
 > Improper Authorization in GitHub repository phpipam/phpipam prior to v1.5.1.
 - [Live-Hack-CVE/CVE-2023-0678](https://github.com/Live-Hack-CVE/CVE-2023-0678)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0678">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0678">
@@ -2745,6 +2755,11 @@
 ## CVE-2023-0454 (2023-02-01T03:15:00)
 > OrangeScrum version 2.0.11 allows an authenticated external attacker to delete arbitrary local files from the server. This is possible because the application uses an unsanitized attacker-controlled parameter to construct an internal path.
 - [Live-Hack-CVE/CVE-2023-0454](https://github.com/Live-Hack-CVE/CVE-2023-0454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0454">
+
+---
+## CVE-2023-0444 (2023-01-26T21:18:00)
+> A privilege escalation vulnerability exists in Delta Electronics InfraSuite Device Master 00.00.02a. A default user 'User', which is in the 'Read Only User' group, can view the password of another default user 'Administrator', which is in the 'Administrator' group. This allows any lower privileged user to log in as an administrator.
+- [Live-Hack-CVE/CVE-2023-0444](https://github.com/Live-Hack-CVE/CVE-2023-0444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0444">
 
 ---
 ## CVE-2023-0440 (2023-01-23T14:15:00)
