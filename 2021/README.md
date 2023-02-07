@@ -5332,6 +5332,36 @@
 - [Live-Hack-CVE/CVE-2021-31583](https://github.com/Live-Hack-CVE/CVE-2021-31583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31583">
 
 ---
+## CVE-2021-31578 (2023-02-06T22:15:00)
+> In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241.
+- [Live-Hack-CVE/CVE-2021-31578](https://github.com/Live-Hack-CVE/CVE-2021-31578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31578">
+
+---
+## CVE-2021-31577 (2023-02-06T22:15:00)
+> In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241.
+- [Live-Hack-CVE/CVE-2021-31577](https://github.com/Live-Hack-CVE/CVE-2021-31577)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31577">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31577">
+
+---
+## CVE-2021-31576 (2023-02-06T22:15:00)
+> In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241.
+- [Live-Hack-CVE/CVE-2021-31576](https://github.com/Live-Hack-CVE/CVE-2021-31576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31576">
+
+---
+## CVE-2021-31575 (2023-02-06T22:15:00)
+> In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234.
+- [Live-Hack-CVE/CVE-2021-31575](https://github.com/Live-Hack-CVE/CVE-2021-31575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31575">
+
+---
+## CVE-2021-31574 (2023-02-06T22:15:00)
+> In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234.
+- [Live-Hack-CVE/CVE-2021-31574](https://github.com/Live-Hack-CVE/CVE-2021-31574)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31574">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31574">
+
+---
+## CVE-2021-31573 (2023-02-06T22:15:00)
+> In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234.
+- [Live-Hack-CVE/CVE-2021-31573](https://github.com/Live-Hack-CVE/CVE-2021-31573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31573">
+
+---
 ## CVE-2021-31566 (2022-08-23T16:15:00)
 > An improper link resolution flaw can occur while extracting an archive leading to changing modes, times, access control lists, and flags of a file outside of the archive. An attacker may provide a malicious archive to a victim user, who would trigger this flaw when trying to extract the archive. A local attacker may use this flaw to gain more privileges in a system.
 - [Live-Hack-CVE/CVE-2021-31566](https://github.com/Live-Hack-CVE/CVE-2021-31566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31566">
