@@ -3603,6 +3603,8 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0045 ()
 > 
 - [es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/es0j/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/es0j/CVE-2023-0045">
+- [es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/es0j/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/es0j/CVE-2023-0045">
+- [missyes/CVE-2023-0045](https://github.com/missyes/CVE-2023-0045)	<img alt="forks" src="https://img.shields.io/github/forks/missyes/CVE-2023-0045">	<img alt="stars" src="https://img.shields.io/github/stars/missyes/CVE-2023-0045">
 
 ---
 ## CVE-2023-0042 (2023-01-12T04:15:00)
