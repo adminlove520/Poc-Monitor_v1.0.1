@@ -2266,6 +2266,7 @@
 > Skyworth GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session.
 - [swzhouu/CVE-2020-26732-2](https://github.com/swzhouu/CVE-2020-26732-2)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732-2">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732-2">
 - [Live-Hack-CVE/CVE-2020-26732](https://github.com/Live-Hack-CVE/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26732">
+- [swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)	<img alt="forks" src="https://img.shields.io/github/forks/swzhouu/CVE-2020-26732">	<img alt="stars" src="https://img.shields.io/github/stars/swzhouu/CVE-2020-26732">
 
 ---
 ## CVE-2020-26664 (2021-01-08T18:15:00)
