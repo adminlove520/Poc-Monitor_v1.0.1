@@ -348,6 +348,11 @@
 - [poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/poxicity/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/poxicity/CVE-2015-1328">
 
 ---
+## CVE-2015-10074 (2023-02-07T10:15:00)
+> A vulnerability was found in OpenSeaMap online_chart 1.2. It has been classified as problematic. Affected is the function init of the file index.php. The manipulation of the argument mtext leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version staging is able to address this issue. The name of the patch is 8649157158f921590d650e2d2f4bdf0df1017e9d. It is recommended to upgrade the affected component. VDB-220218 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2015-10074](https://github.com/Live-Hack-CVE/CVE-2015-10074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10074">
+
+---
 ## CVE-2015-10072 (2023-02-04T04:15:00)
 > A vulnerability classified as problematic was found in NREL api-umbrella-web 0.7.1. This vulnerability affects unknown code of the component Flash Message Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 0.8.0 is able to address this issue. The name of the patch is bcc0e922c61d30367678c8f17a435950969315cd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-220060.
 - [Live-Hack-CVE/CVE-2015-10072](https://github.com/Live-Hack-CVE/CVE-2015-10072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10072">

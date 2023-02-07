@@ -7085,6 +7085,11 @@
 - [Live-Hack-CVE/CVE-2021-23017](https://github.com/Live-Hack-CVE/CVE-2021-23017)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23017">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23017">
 
 ---
+## CVE-2021-22986 (2021-03-31T15:15:00)
+> On BIG-IP versions 16.0.x before 16.0.1.1, 15.1.x before 15.1.2.1, 14.1.x before 14.1.4, 13.1.x before 13.1.3.6, and 12.1.x before 12.1.5.3 amd BIG-IQ 7.1.0.x before 7.1.0.3 and 7.0.0.x before 7.0.0.2, the iControl REST interface has an unauthenticated remote command execution vulnerability. Note: Software versions which have reached End of Software Development (EoSD) are not evaluated.
+- [amitlttwo/CVE-2021-22986](https://github.com/amitlttwo/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2021-22986">
+
+---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
 > Node.js before 16.6.1, 14.17.5, and 12.22.5 is vulnerable to a use after free attack where an attacker might be able to exploit the memory corruption, to change process behavior.
 - [Live-Hack-CVE/CVE-2021-22940](https://github.com/Live-Hack-CVE/CVE-2021-22940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22940">

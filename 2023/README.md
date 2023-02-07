@@ -448,6 +448,11 @@
 - [Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23749">
 
 ---
+## CVE-2023-23696 (2023-02-07T10:15:00)
+> Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system.
+- [Live-Hack-CVE/CVE-2023-23696](https://github.com/Live-Hack-CVE/CVE-2023-23696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23696">
+
+---
 ## CVE-2023-23691 (2023-01-20T08:15:00)
 > Dell EMC PV ME5, versions ME5.1.0.0.0 and ME5.1.0.1.0, contains a Client-side desync Vulnerability. An unauthenticated attacker could potentially exploit this vulnerability to force a victim's browser to desynchronize its connection with the website, typically leading to XSS and DoS.
 - [Live-Hack-CVE/CVE-2023-23691](https://github.com/Live-Hack-CVE/CVE-2023-23691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23691">
@@ -870,6 +875,16 @@
 ## CVE-2023-22657 (2023-02-01T18:15:00)
 > On F5OS-A beginning in version 1.2.0 to before 1.3.0 and F5OS-C beginning in version 1.3.0 to before 1.5.0, processing F5OS tenant file names may allow for command injection. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
 - [Live-Hack-CVE/CVE-2023-22657](https://github.com/Live-Hack-CVE/CVE-2023-22657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22657">
+
+---
+## CVE-2023-22643 (2023-02-07T10:15:00)
+> An Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability in libzypp-plugin-appdata of SUSE Linux Enterprise Server for SAP 15-SP3; openSUSE Leap 15.4 allows attackers that can trick users to use specially crafted REPO_ALIAS, REPO_TYPE or REPO_METADATA_PATH settings to execute code as root.
+This issue affects:
+SUSE Linux Enterprise Server for SAP 15-SP3
+libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
+openSUSE Leap 15.4
+libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
+- [Live-Hack-CVE/CVE-2023-22643](https://github.com/Live-Hack-CVE/CVE-2023-22643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22643">
 
 ---
 ## CVE-2023-22630 (2023-01-23T22:15:00)
@@ -2526,6 +2541,11 @@
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0706 (2023-02-07T10:15:00)
+> A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-220340.
+- [Live-Hack-CVE/CVE-2023-0706](https://github.com/Live-Hack-CVE/CVE-2023-0706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0706">
 
 ---
 ## CVE-2023-0679 (2023-02-06T13:15:00)
