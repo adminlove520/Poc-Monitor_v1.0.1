@@ -3535,6 +3535,11 @@
 - [Live-Hack-CVE/CVE-2021-37498](https://github.com/Live-Hack-CVE/CVE-2021-37498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37498">
 
 ---
+## CVE-2021-37491 (2023-02-07T14:15:00)
+> An issue discovered in src/wallet/wallet.cpp in Dogecoin Project Dogecoin Core 1.14.3 and earlier allows attackers to view sensitive information via CWallet::CreateTransaction() function.
+- [Live-Hack-CVE/CVE-2021-37491](https://github.com/Live-Hack-CVE/CVE-2021-37491)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37491">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37491">
+
+---
 ## CVE-2021-3749 (2021-08-31T11:15:00)
 > axios is vulnerable to Inefficient Regular Expression Complexity
 - [Live-Hack-CVE/CVE-2021-3749](https://github.com/Live-Hack-CVE/CVE-2021-3749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3749">
