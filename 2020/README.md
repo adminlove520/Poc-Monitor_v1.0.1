@@ -792,6 +792,11 @@
 - [Live-Hack-CVE/CVE-2020-6099](https://github.com/Live-Hack-CVE/CVE-2020-6099)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6099">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6099">
 
 ---
+## CVE-2020-6090 (2020-06-11T14:15:00)
+> An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2020-6090](https://github.com/Live-Hack-CVE/CVE-2020-6090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6090">
+
+---
 ## CVE-2020-6088 (2021-02-04T07:15:00)
 > An exploitable denial of service vulnerability exists in the ENIP Request Path Network Segment functionality of Allen-Bradley Flex IO 1794-AENT/B 4.003. A specially crafted network request can cause a loss of communications with the device resulting in denial-of-service. An attacker can send a malicious packet to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2020-6088](https://github.com/Live-Hack-CVE/CVE-2020-6088)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6088">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6088">
