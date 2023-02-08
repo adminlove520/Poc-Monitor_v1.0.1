@@ -42,6 +42,11 @@
 - [Live-Hack-CVE/CVE-2023-25012](https://github.com/Live-Hack-CVE/CVE-2023-25012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25012">
 
 ---
+## CVE-2023-24997 (2023-02-01T15:15:00)
+> Deserialization of Untrusted Data vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong's latest version or cherry-pick https://github.com/apache/inlong/pull/7223 https://github.com/apache/inlong/pull/7223 to solve it.
+- [Live-Hack-CVE/CVE-2023-24997](https://github.com/Live-Hack-CVE/CVE-2023-24997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24997">
+
+---
 ## CVE-2023-24977 (2023-02-01T10:15:00)
 > Out-of-bounds Read vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong's latest version or cherry-pick https://github.com/apache/inlong/pull/7214 https://github.com/apache/inlong/pull/7214 to solve it.
 - [Live-Hack-CVE/CVE-2023-24977](https://github.com/Live-Hack-CVE/CVE-2023-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24977">
@@ -95,6 +100,7 @@
 ## CVE-2023-24610 (2023-02-01T14:15:00)
 > NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
+- [Live-Hack-CVE/CVE-2023-24610](https://github.com/Live-Hack-CVE/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24610">
 
 ---
 ## CVE-2023-24495 (2023-01-26T21:18:00)
@@ -634,6 +640,7 @@
 ## CVE-2023-23132 (2023-02-01T14:15:00)
 > Selfwealth iOS mobile App 3.3.1 is vulnerable to Sensitive key disclosure. The application reveals hardcoded API keys.
 - [l00neyhacker/CVE-2023-23132](https://github.com/l00neyhacker/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-23132">
+- [Live-Hack-CVE/CVE-2023-23132](https://github.com/Live-Hack-CVE/CVE-2023-23132)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23132">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23132">
 
 ---
 ## CVE-2023-23131 (2023-02-01T14:15:00)
