@@ -634,6 +634,16 @@
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
 
 ---
+## CVE-2017-18540 (2019-08-21T12:15:00)
+> The weblibrarian plugin before 3.4.8.7 for WordPress has XSS via front-end short codes.
+- [Live-Hack-CVE/CVE-2017-18540](https://github.com/Live-Hack-CVE/CVE-2017-18540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18540">
+
+---
+## CVE-2017-18538 (2019-08-21T12:15:00)
+> The weblibrarian plugin before 3.4.8.5 for WordPress has XSS via front-end short codes.
+- [Live-Hack-CVE/CVE-2017-18538](https://github.com/Live-Hack-CVE/CVE-2017-18538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18538">
+
+---
 ## CVE-2017-18079 (2018-01-29T05:29:00)
 > drivers/input/serio/i8042.c in the Linux kernel before 4.12.4 allows attackers to cause a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact because the port->exists value can change after it is validated.
 - [Live-Hack-CVE/CVE-2017-18079](https://github.com/Live-Hack-CVE/CVE-2017-18079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18079">

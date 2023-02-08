@@ -2454,6 +2454,11 @@
 - [Live-Hack-CVE/CVE-2019-15235](https://github.com/Live-Hack-CVE/CVE-2019-15235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15235">
 
 ---
+## CVE-2019-15112 (2019-08-21T13:15:00)
+> The wp-slimstat plugin before 4.8.1 for WordPress has XSS.
+- [Live-Hack-CVE/CVE-2019-15112](https://github.com/Live-Hack-CVE/CVE-2019-15112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15112">
+
+---
 ## CVE-2019-15107 (2019-08-16T03:15:00)
 > An issue was discovered in Webmin <=1.920. The parameter old in password_change.cgi contains a command injection vulnerability.
 - [psw01/CVE-2019-15107_webminRCE](https://github.com/psw01/CVE-2019-15107_webminRCE)	<img alt="forks" src="https://img.shields.io/github/forks/psw01/CVE-2019-15107_webminRCE">	<img alt="stars" src="https://img.shields.io/github/stars/psw01/CVE-2019-15107_webminRCE">
