@@ -2584,6 +2584,31 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0744 (2023-02-08T08:15:00)
+> Improper Access Control in GitHub repository answerdev/answer prior to 1.0.4.
+- [Live-Hack-CVE/CVE-2023-0744](https://github.com/Live-Hack-CVE/CVE-2023-0744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0744">
+
+---
+## CVE-2023-0743 (2023-02-08T08:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository answerdev/answer prior to 1.0.4.
+- [Live-Hack-CVE/CVE-2023-0743](https://github.com/Live-Hack-CVE/CVE-2023-0743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0743">
+
+---
+## CVE-2023-0742 (2023-02-08T08:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4.
+- [Live-Hack-CVE/CVE-2023-0742](https://github.com/Live-Hack-CVE/CVE-2023-0742)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0742">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0742">
+
+---
+## CVE-2023-0741 (2023-02-08T08:15:00)
+> Cross-site Scripting (XSS) - DOM in GitHub repository answerdev/answer prior to 1.0.4.
+- [Live-Hack-CVE/CVE-2023-0741](https://github.com/Live-Hack-CVE/CVE-2023-0741)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0741">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0741">
+
+---
+## CVE-2023-0740 (2023-02-08T08:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4.
+- [Live-Hack-CVE/CVE-2023-0740](https://github.com/Live-Hack-CVE/CVE-2023-0740)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0740">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0740">
+
+---
 ## CVE-2023-0739 (2023-02-08T05:15:00)
 > Race Condition in Switch in GitHub repository answerdev/answer prior to 1.0.4.
 - [Live-Hack-CVE/CVE-2023-0739](https://github.com/Live-Hack-CVE/CVE-2023-0739)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0739">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0739">
