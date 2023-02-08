@@ -727,6 +727,7 @@
 - [TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)	<img alt="forks" src="https://img.shields.io/github/forks/TPower2112/Writing-Sample-1">	<img alt="stars" src="https://img.shields.io/github/stars/TPower2112/Writing-Sample-1">
 - [Nexolanta/log4j2-CVE-2021-44228-](https://github.com/Nexolanta/log4j2-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/Nexolanta/log4j2-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/Nexolanta/log4j2-CVE-2021-44228-">
 - [Nexolanta/log4j2_CVE-2021-44228](https://github.com/Nexolanta/log4j2_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Nexolanta/log4j2_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Nexolanta/log4j2_CVE-2021-44228">
+- [pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC](https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
