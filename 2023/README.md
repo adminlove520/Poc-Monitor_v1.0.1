@@ -108,6 +108,21 @@
 - [Live-Hack-CVE/CVE-2023-24806](https://github.com/Live-Hack-CVE/CVE-2023-24806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24806">
 
 ---
+## CVE-2023-24689 (2023-02-09T20:15:00)
+> An issue in Mojoportal v2.7.0.0 and below allows an authenticated attacker to list all css files inside the root path of the webserver via manipulation of the "s" parameter in /DesignTools/ManageSkin.aspx
+- [Live-Hack-CVE/CVE-2023-24689](https://github.com/Live-Hack-CVE/CVE-2023-24689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24689">
+
+---
+## CVE-2023-24688 (2023-02-09T20:15:00)
+> An issue in Mojoportal v2.7.0.0 allows an unauthenticated attacker to register a new user even if the Allow User Registrations feature is disabled.
+- [Live-Hack-CVE/CVE-2023-24688](https://github.com/Live-Hack-CVE/CVE-2023-24688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24688">
+
+---
+## CVE-2023-24687 (2023-02-09T20:15:00)
+> Mojoportal v2.7.0.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Company Info Settings component. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtCompanyName parameter.
+- [Live-Hack-CVE/CVE-2023-24687](https://github.com/Live-Hack-CVE/CVE-2023-24687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24687">
+
+---
 ## CVE-2023-24623 (2023-01-30T05:15:00)
 > Paranoidhttp before 0.3.0 allows SSRF because [::] is equivalent to the 127.0.0.1 address, but does not match the filter for private addresses.
 - [Live-Hack-CVE/CVE-2023-24623](https://github.com/Live-Hack-CVE/CVE-2023-24623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24623">
@@ -242,6 +257,16 @@
 ## CVE-2023-24422 (2023-01-26T21:18:00)
 > A sandbox bypass vulnerability involving map constructors in Jenkins Script Security Plugin 1228.vd93135a_2fb_25 and earlier allows attackers with permission to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
 - [Live-Hack-CVE/CVE-2023-24422](https://github.com/Live-Hack-CVE/CVE-2023-24422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24422">
+
+---
+## CVE-2023-24323 (2023-02-09T20:15:00)
+> Mojoportal v2.7 was discovered to contain an authenticated XML external entity (XXE) injection vulnerability.
+- [Live-Hack-CVE/CVE-2023-24323](https://github.com/Live-Hack-CVE/CVE-2023-24323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24323">
+
+---
+## CVE-2023-24322 (2023-02-09T20:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in the FileDialog.aspx component of mojoPortal v2.7.0.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the ed and tbi parameters.
+- [Live-Hack-CVE/CVE-2023-24322](https://github.com/Live-Hack-CVE/CVE-2023-24322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24322">
 
 ---
 ## CVE-2023-24276 (2023-02-06T15:15:00)
@@ -474,6 +499,11 @@
 > Dompdf is an HTML to PDF converter. The URI validation on dompdf 2.0.1 can be bypassed on SVG parsing by passing `<image>` tags with uppercase letters. This may lead to arbitrary object unserialize on PHP < 8, through the `phar` URL wrapper. An attacker can exploit the vulnerability to call arbitrary URL with arbitrary protocols, if they can provide a SVG file to dompdf. In PHP versions before 8.0.0, it leads to arbitrary unserialize, that will lead to the very least to an arbitrary file deletion and even remote code execution, depending on classes that are available.
 - [Live-Hack-CVE/CVE-2023-23924](https://github.com/Live-Hack-CVE/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23924">
 - [motikan2010/CVE-2023-23924](https://github.com/motikan2010/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-23924">
+
+---
+## CVE-2023-23912 (2023-02-09T20:15:00)
+> A vulnerability, found in EdgeRouters Version 2.0.9-hotfix.5 and earlier and UniFi Security Gateways (USG) Version 4.4.56 and earlier with their DHCPv6 prefix delegation set to dhcpv6-stateless or dhcpv6-stateful, allows a malicious actor directly connected to the WAN interface of an affected device to create a remote code execution vulnerability.
+- [Live-Hack-CVE/CVE-2023-23912](https://github.com/Live-Hack-CVE/CVE-2023-23912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23912">
 
 ---
 ## CVE-2023-23849 (2023-02-06T23:15:00)
@@ -895,6 +925,41 @@
 > In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a "--" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.
 - [Live-Hack-CVE/CVE-2023-22809](https://github.com/Live-Hack-CVE/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22809">
 - [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
+
+---
+## CVE-2023-22799 (2023-02-09T20:15:00)
+> A ReDoS based DoS vulnerability in the GlobalID <1.0.1 which could allow an attacker supplying a carefully crafted input can cause the regular expression engine to take an unexpected amount of time. All users running an affected release should either upgrade or use one of the workarounds immediately.
+- [Live-Hack-CVE/CVE-2023-22799](https://github.com/Live-Hack-CVE/CVE-2023-22799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22799">
+
+---
+## CVE-2023-22798 (2023-02-09T20:15:00)
+> Prior to commit 51867e0d15a6d7f80d5b714fd0e9976b9c160bb0, https://github.com/brave/adblock-lists removed redirect interceptors on some websites like Facebook in which the redirect interceptor may have been there for security purposes. This could potentially cause open redirects on these websites. Brave's redirect interceptor removal feature is known as "debouncing" and is intended to remove unnecessary redirects that track users across the web.
+- [Live-Hack-CVE/CVE-2023-22798](https://github.com/Live-Hack-CVE/CVE-2023-22798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22798">
+
+---
+## CVE-2023-22797 (2023-02-09T20:15:00)
+> An open redirect vulnerability is fixed in Rails 7.0.4.1 with the new protection against open redirects from calling redirect_to with untrusted user input. In prior versions the developer was fully responsible for only providing trusted input. However the check introduced could allow an attacker to bypass with a carefully crafted URL resulting in an open redirect vulnerability.
+- [Live-Hack-CVE/CVE-2023-22797](https://github.com/Live-Hack-CVE/CVE-2023-22797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22797">
+
+---
+## CVE-2023-22796 (2023-02-09T20:15:00)
+> A regular expression based DoS vulnerability in Active Support <6.1.7.1 and <7.0.4.1. A specially crafted string passed to the underscore method can cause the regular expression engine to enter a state of catastrophic backtracking. This can cause the process to use large amounts of CPU and memory, leading to a possible DoS vulnerability.
+- [Live-Hack-CVE/CVE-2023-22796](https://github.com/Live-Hack-CVE/CVE-2023-22796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22796">
+
+---
+## CVE-2023-22795 (2023-02-09T20:15:00)
+> A regular expression based DoS vulnerability in Action Dispatch <6.1.7.1 and <7.0.4.1 related to the If-None-Match header. A specially crafted HTTP If-None-Match header can cause the regular expression engine to enter a state of catastrophic backtracking, when on a version of Ruby below 3.2.0. This can cause the process to use large amounts of CPU and memory, leading to a possible DoS vulnerability All users running an affected release should either upgrade or use one of the workarounds immediately.
+- [Live-Hack-CVE/CVE-2023-22795](https://github.com/Live-Hack-CVE/CVE-2023-22795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22795">
+
+---
+## CVE-2023-22794 (2023-02-09T20:15:00)
+> A vulnerability in ActiveRecord <6.0.6.1, v6.1.7.1 and v7.0.4.1 related to the sanitization of comments. If malicious user input is passed to either the `annotate` query method, the `optimizer_hints` query method, or through the QueryLogs interface which automatically adds annotations, it may be sent to the database withinsufficient sanitization and be able to inject SQL outside of the comment.
+- [Live-Hack-CVE/CVE-2023-22794](https://github.com/Live-Hack-CVE/CVE-2023-22794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22794">
+
+---
+## CVE-2023-22792 (2023-02-09T20:15:00)
+> A regular expression based DoS vulnerability in Action Dispatch <6.0.6.1,< 6.1.7.1, and <7.0.4.1. Specially crafted cookies, in combination with a specially crafted X_FORWARDED_HOST header can cause the regular expression engine to enter a state of catastrophic backtracking. This can cause the process to use large amounts of CPU and memory, leading to a possible DoS vulnerability All users running an affected release should either upgrade or use one of the workarounds immediately.
+- [Live-Hack-CVE/CVE-2023-22792](https://github.com/Live-Hack-CVE/CVE-2023-22792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22792">
 
 ---
 ## CVE-2023-22746 (2023-02-03T22:15:00)
