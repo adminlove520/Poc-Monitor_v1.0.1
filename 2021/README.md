@@ -4866,6 +4866,11 @@
 - [Live-Hack-CVE/CVE-2021-33663](https://github.com/Live-Hack-CVE/CVE-2021-33663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33663">
 
 ---
+## CVE-2021-33657 (2022-04-01T23:15:00)
+> There is a heap overflow problem in video/SDL_pixels.c in SDL (Simple DirectMedia Layer) 2.x to 2.0.18 versions. By crafting a malicious .BMP file, an attacker can cause the application using this library to crash, denial of service or Code execution.
+- [Live-Hack-CVE/CVE-2021-33657](https://github.com/Live-Hack-CVE/CVE-2021-33657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33657">
+
+---
 ## CVE-2021-33656 (2022-07-18T15:15:00)
 > When setting font with malicous data by ioctl cmd PIO_FONT,kernel will write memory out of bounds.
 - [Live-Hack-CVE/CVE-2021-33656](https://github.com/Live-Hack-CVE/CVE-2021-33656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33656">

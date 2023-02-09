@@ -356,6 +356,11 @@
 - [Exploitables/CVE-2018-3990-TALOS-2018-0658](https://github.com/Exploitables/CVE-2018-3990-TALOS-2018-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2018-3990-TALOS-2018-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2018-3990-TALOS-2018-0658">
 
 ---
+## CVE-2018-3982 (2018-10-01T20:29:00)
+> An exploitable arbitrary write vulnerability exists in the Word document parser of the Atlantis Word Processor 3.0.2.3 and 3.0.2.5. A specially crafted document can prevent Atlas from adding elements to an array that is indexed by a loop. When reading from this array, the application will use an out-of-bounds index which can result in arbitrary data being read as a pointer. Later, when the application attempts to write to said pointer, an arbitrary write will occur. This can allow an attacker to further corrupt memory, which leads to code execution under the context of the application. An attacker must convince a victim to open a document in order to trigger this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3982](https://github.com/Live-Hack-CVE/CVE-2018-3982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3982">
+
+---
 ## CVE-2018-3981 (2018-10-01T20:29:00)
 > An exploitable out-of-bounds write exists in the TIFF-parsing functionality of Canvas Draw version 5.0.0. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution.
 - [Live-Hack-CVE/CVE-2018-3981](https://github.com/Live-Hack-CVE/CVE-2018-3981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3981">
@@ -880,6 +885,21 @@
 > Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
 - [afine-com/CVE-2018-25031](https://github.com/afine-com/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2018-25031">
 - [kriso4os/CVE-2018-25031](https://github.com/kriso4os/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/kriso4os/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/kriso4os/CVE-2018-25031">
+
+---
+## CVE-2018-25014 (2021-05-21T17:15:00)
+> A use of uninitialized value was found in libwebp in versions before 1.0.1 in ReadSymbol().
+- [Live-Hack-CVE/CVE-2018-25014](https://github.com/Live-Hack-CVE/CVE-2018-25014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25014">
+
+---
+## CVE-2018-25013 (2021-05-21T17:15:00)
+> A heap-based buffer overflow was found in libwebp in versions before 1.0.1 in ShiftBytes().
+- [Live-Hack-CVE/CVE-2018-25013](https://github.com/Live-Hack-CVE/CVE-2018-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25013">
+
+---
+## CVE-2018-25012 (2021-05-21T17:15:00)
+> A heap-based buffer overflow was found in libwebp in versions before 1.0.1 in GetLE24().
+- [Live-Hack-CVE/CVE-2018-25012](https://github.com/Live-Hack-CVE/CVE-2018-25012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25012">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)

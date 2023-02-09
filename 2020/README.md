@@ -2195,6 +2195,11 @@
 - [9lyph/CVE-2020-27199](https://github.com/9lyph/CVE-2020-27199)	<img alt="forks" src="https://img.shields.io/github/forks/9lyph/CVE-2020-27199">	<img alt="stars" src="https://img.shields.io/github/stars/9lyph/CVE-2020-27199">
 
 ---
+## CVE-2020-27068 (2020-12-15T17:15:00)
+> Product: AndroidVersions: Android kernelAndroid ID: A-127973231References: Upstream kernel
+- [Live-Hack-CVE/CVE-2020-27068](https://github.com/Live-Hack-CVE/CVE-2020-27068)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27068">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27068">
+
+---
 ## CVE-2020-26991 (2021-01-12T21:15:00)
 > A vulnerability has been identified in JT2Go (All versions < V13.1.0.2), Teamcenter Visualization (All versions < V13.1.0.2). Affected applications lack proper validation of user-supplied data when parsing ASM files. This could lead to pointer dereferences of a value obtained from untrusted source. An attacker could leverage this vulnerability to execute code in the context of the current process. (ZDI-CAN-11899)
 - [Live-Hack-CVE/CVE-2020-26991](https://github.com/Live-Hack-CVE/CVE-2020-26991)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-26991">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-26991">
@@ -2490,6 +2495,11 @@
 ## CVE-2020-25662 (2020-11-05T21:15:00)
 > A Red Hat only CVE-2020-12352 regression issue was found in the way the Linux kernel's Bluetooth stack implementation handled the initialization of stack memory when handling certain AMP packets. This flaw allows a remote attacker in an adjacent range to leak small portions of stack memory on the system by sending specially crafted AMP packets. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2020-25662](https://github.com/Live-Hack-CVE/CVE-2020-25662)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25662">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25662">
+
+---
+## CVE-2020-25659 (2021-01-11T16:15:00)
+> python-cryptography 3.2 is vulnerable to Bleichenbacher timing attacks in the RSA decryption API, via timed processing of valid PKCS#1 v1.5 ciphertext.
+- [Live-Hack-CVE/CVE-2020-25659](https://github.com/Live-Hack-CVE/CVE-2020-25659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25659">
 
 ---
 ## CVE-2020-25654 (2020-11-24T20:15:00)
@@ -4085,6 +4095,11 @@
 ## CVE-2020-14461 (2020-06-22T13:15:00)
 > Zyxel Armor X1 WAP6806 1.00(ABAL.6)C0 devices allow Directory Traversal via the images/eaZy/ URI.
 - [Live-Hack-CVE/CVE-2020-14461](https://github.com/Live-Hack-CVE/CVE-2020-14461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14461">
+
+---
+## CVE-2020-14410 (2021-01-19T20:15:00)
+> SDL (Simple DirectMedia Layer) through 2.0.12 has a heap-based buffer over-read in Blit_3or4_to_3or4__inversed_rgb in video/SDL_blit_N.c via a crafted .BMP file.
+- [Live-Hack-CVE/CVE-2020-14410](https://github.com/Live-Hack-CVE/CVE-2020-14410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14410">
 
 ---
 ## CVE-2020-14395 (2023-02-01T07:15:00)
