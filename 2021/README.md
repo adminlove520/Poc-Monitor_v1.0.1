@@ -3595,6 +3595,21 @@
 - [Live-Hack-CVE/CVE-2021-3732](https://github.com/Live-Hack-CVE/CVE-2021-3732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3732">
 
 ---
+## CVE-2021-37306 (2023-02-03T18:15:00)
+> An Insecure Permissions issue in jeecg-boot 2.4.5 and earlier allows remote attackers to gain escalated privilege and view sensitive information via api uri: api uri:/sys/user/checkOnlyUser?username=admin.
+- [Live-Hack-CVE/CVE-2021-37306](https://github.com/Live-Hack-CVE/CVE-2021-37306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37306">
+
+---
+## CVE-2021-37305 (2023-02-03T18:15:00)
+> An Insecure Permissions issue in jeecg-boot 2.4.5 and earlier allows remote attackers to gain escalated privilege and view sensitive information via api uri: /sys/user/querySysUser?username=admin.
+- [Live-Hack-CVE/CVE-2021-37305](https://github.com/Live-Hack-CVE/CVE-2021-37305)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37305">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37305">
+
+---
+## CVE-2021-37304 (2023-02-03T18:15:00)
+> An Insecure Permissions issue in jeecg-boot 2.4.5 allows unauthenticated remote attackers to gain escalated privilege and view sensitive information via the httptrace interface.
+- [Live-Hack-CVE/CVE-2021-37304](https://github.com/Live-Hack-CVE/CVE-2021-37304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37304">
+
+---
 ## CVE-2021-3717 (2022-05-24T19:15:00)
 > A flaw was found in Wildfly. An incorrect JBOSS_LOCAL_USER challenge location when using the elytron configuration may lead to JBOSS_LOCAL_USER access to all users on the machine. The highest threat from this vulnerability is to confidentiality, integrity, and availability. This flaw affects wildfly-core versions prior to 17.0.
 - [Live-Hack-CVE/CVE-2021-3717](https://github.com/Live-Hack-CVE/CVE-2021-3717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3717">
@@ -3762,6 +3777,11 @@
 - [Live-Hack-CVE/CVE-2021-3672](https://github.com/Live-Hack-CVE/CVE-2021-3672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3672">
 
 ---
+## CVE-2021-36712 (2023-02-03T18:15:00)
+> Cross Site Scripting (XSS) vulnerability in yzmcms 6.1 allows attackers to steal user cookies via image clipping function.
+- [Live-Hack-CVE/CVE-2021-36712](https://github.com/Live-Hack-CVE/CVE-2021-36712)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36712">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36712">
+
+---
 ## CVE-2021-3671 (2021-10-12T18:15:00)
 > A null pointer de-reference was found in the way samba kerberos server handled missing sname in TGS-REQ (Ticket Granting Server - Request). An authenticated user could use this flaw to crash the samba server.
 - [Live-Hack-CVE/CVE-2021-3671](https://github.com/Live-Hack-CVE/CVE-2021-3671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3671">
@@ -3823,9 +3843,19 @@
 - [Live-Hack-CVE/CVE-2021-3655](https://github.com/Live-Hack-CVE/CVE-2021-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3655">
 
 ---
+## CVE-2021-36545 (2023-02-03T18:15:00)
+> Cross Site Scripting (XSS) vulnerability in tpcms 3.2 allows remote attackers to run arbitrary code via the cfg_copyright or cfg_tel field in Site Configuration page.
+- [Live-Hack-CVE/CVE-2021-36545](https://github.com/Live-Hack-CVE/CVE-2021-36545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36545">
+
+---
 ## CVE-2021-36539 (2023-01-26T21:15:00)
 > Instructure Canvas LMS didn't properly deny access to locked/unpublished files when the unprivileged user access the DocViewer based file preview URL (canvadoc_session_url).
 - [Live-Hack-CVE/CVE-2021-36539](https://github.com/Live-Hack-CVE/CVE-2021-36539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36539">
+
+---
+## CVE-2021-36538 (2023-02-03T18:15:00)
+> Cross Site Scripting (XSS) vulnerability in Gurock TestRail before 7.1.2 allows remote authenticated attackers to run arbitrary code via the reference field in milestones or description fields in reports.
+- [Live-Hack-CVE/CVE-2021-36538](https://github.com/Live-Hack-CVE/CVE-2021-36538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36538">
 
 ---
 ## CVE-2021-36471 (2023-02-07T23:15:00)
