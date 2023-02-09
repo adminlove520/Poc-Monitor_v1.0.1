@@ -187,6 +187,9 @@
 ## CVE-2015-3864 (2015-10-01T00:59:00)
 > Integer underflow in the MPEG4Extractor::parseChunk function in MPEG4Extractor.cpp in libstagefright in mediaserver in Android before 5.1.1 LMY48M allows remote attackers to execute arbitrary code via crafted MPEG-4 data, aka internal bug 23034759.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2015-3824.
 - [Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864](https://github.com/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/Bhathiya404/Exploiting-Stagefright-Vulnerability-CVE-2015-3864">
+- [HenryVHuang/CVE-2015-3864](https://github.com/HenryVHuang/CVE-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/HenryVHuang/CVE-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/HenryVHuang/CVE-2015-3864">
+- [eudemonics/scaredycat](https://github.com/eudemonics/scaredycat)	<img alt="forks" src="https://img.shields.io/github/forks/eudemonics/scaredycat">	<img alt="stars" src="https://img.shields.io/github/stars/eudemonics/scaredycat">
+- [pwnaccelerator/stagefright-cve-2015-3864](https://github.com/pwnaccelerator/stagefright-cve-2015-3864)	<img alt="forks" src="https://img.shields.io/github/forks/pwnaccelerator/stagefright-cve-2015-3864">	<img alt="stars" src="https://img.shields.io/github/stars/pwnaccelerator/stagefright-cve-2015-3864">
 
 ---
 ## CVE-2015-3416 (2015-04-24T17:59:00)
