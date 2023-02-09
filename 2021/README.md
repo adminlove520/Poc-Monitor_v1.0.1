@@ -3348,6 +3348,11 @@
 - [Live-Hack-CVE/CVE-2021-38294](https://github.com/Live-Hack-CVE/CVE-2021-38294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38294">
 
 ---
+## CVE-2021-38291 (2021-08-12T16:15:00)
+> FFmpeg version (git commit de8e6e67e7523e48bb27ac224a0b446df05e1640) suffers from a an assertion failure at src/libavutil/mathematics.c.
+- [Live-Hack-CVE/CVE-2021-38291](https://github.com/Live-Hack-CVE/CVE-2021-38291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38291">
+
+---
 ## CVE-2021-3827 (2022-08-23T16:15:00)
 > A flaw was found in keycloak, where the default ECP binding flow allows other authentication flows to be bypassed. By exploiting this behavior, an attacker can bypass the MFA authentication by sending a SOAP request with an AuthnRequest and Authorization header with the user's credentials. The highest threat from this vulnerability is to confidentiality and integrity.
 - [Live-Hack-CVE/CVE-2021-3827](https://github.com/Live-Hack-CVE/CVE-2021-3827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3827">

@@ -4526,6 +4526,11 @@
 - [Live-Hack-CVE/CVE-2020-12744](https://github.com/Live-Hack-CVE/CVE-2020-12744)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12744">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12744">
 
 ---
+## CVE-2020-12675 (2020-05-29T16:15:00)
+> The mappress-google-maps-for-wordpress plugin before 2.54.6 for WordPress does not correctly implement capability checks for AJAX functions related to creation/retrieval/deletion of PHP template files, leading to Remote Code Execution. NOTE: this issue exists because of an incomplete fix for CVE-2020-12077.
+- [Live-Hack-CVE/CVE-2020-12675](https://github.com/Live-Hack-CVE/CVE-2020-12675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12675">
+
+---
 ## CVE-2020-12674 (2020-08-12T16:15:00)
 > In Dovecot before 2.3.11.3, sending a specially formatted RPA request will crash the auth service because a length of zero is mishandled.
 - [Live-Hack-CVE/CVE-2020-12674](https://github.com/Live-Hack-CVE/CVE-2020-12674)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12674">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12674">
@@ -4614,6 +4619,11 @@
 ## CVE-2020-12079 (2020-04-23T04:15:00)
 > Beaker before 0.8.9 allows a sandbox escape, enabling system access and code execution. This occurs because Electron context isolation is not used, and therefore an attacker can conduct a prototype-pollution attack against the Electron internal messaging API.
 - [Live-Hack-CVE/CVE-2020-12079](https://github.com/Live-Hack-CVE/CVE-2020-12079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12079">
+
+---
+## CVE-2020-12077 (2020-04-23T03:15:00)
+> The mappress-google-maps-for-wordpress plugin before 2.53.9 for WordPress does not correctly implement AJAX functions with nonces (or capability checks), leading to remote code execution.
+- [Live-Hack-CVE/CVE-2020-12077](https://github.com/Live-Hack-CVE/CVE-2020-12077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12077">
 
 ---
 ## CVE-2020-12061 (2021-05-21T12:15:00)

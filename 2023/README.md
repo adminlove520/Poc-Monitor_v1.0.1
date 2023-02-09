@@ -450,6 +450,11 @@
 - [Live-Hack-CVE/CVE-2023-24022](https://github.com/Live-Hack-CVE/CVE-2023-24022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24022">
 
 ---
+## CVE-2023-24021 (2023-01-20T19:15:00)
+> Incorrect handling of '\0' bytes in file uploads in ModSecurity before 2.9.7 may allow for Web Application Firewall bypasses and buffer over-reads on the Web Application Firewall when executing rules that read the FILES_TMP_CONTENT collection.
+- [Live-Hack-CVE/CVE-2023-24021](https://github.com/Live-Hack-CVE/CVE-2023-24021)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24021">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24021">
+
+---
 ## CVE-2023-24020 (2023-01-30T22:15:00)
 > Snap One Wattbox WB-300-IP-3 versions WB10.9a17 and prior could bypass the brute force protection, allowing multiple attempts to force a login.
 - [Live-Hack-CVE/CVE-2023-24020](https://github.com/Live-Hack-CVE/CVE-2023-24020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24020">
@@ -615,6 +620,11 @@
 ## CVE-2023-23475 (2023-02-08T19:15:00)
 > IBM Infosphere Information Server 11.7 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 245423.
 - [Live-Hack-CVE/CVE-2023-23475](https://github.com/Live-Hack-CVE/CVE-2023-23475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23475">
+
+---
+## CVE-2023-23469 (2023-02-01T19:15:00)
+> IBM ICP4A - Automation Decision Services 18.0.0, 18.0.1, 18.0.2, 19.0.1, 19.0.2, 19.0.3, 20.0.1, 20.0.2, 20.0.3, 21.0.1, 21.0.2, 21.0.3, 22.0.1, and 22.0.2 allows web pages to be stored locally which can be read by another user on the system. IBM X-Force ID: 244504.
+- [Live-Hack-CVE/CVE-2023-23469](https://github.com/Live-Hack-CVE/CVE-2023-23469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23469">
 
 ---
 ## CVE-2023-23457 (2023-01-12T19:15:00)
@@ -2941,6 +2951,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0634 (2023-02-02T23:15:00)
 > An uncontrolled process operation was found in the newgrp command provided by the shadow-utils package. This issue could cause the execution of arbitrary code provided by a user when running the newgrp command.
 - [Live-Hack-CVE/CVE-2023-0634](https://github.com/Live-Hack-CVE/CVE-2023-0634)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0634">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0634">
+
+---
+## CVE-2023-0624 (2023-02-09T16:15:00)
+> OrangeScrum version 2.0.11 allows an external attacker to obtain arbitrary user accounts from the application. This is possible because the application returns malicious user input in the response with the content-type set to text/html.
+- [Live-Hack-CVE/CVE-2023-0624](https://github.com/Live-Hack-CVE/CVE-2023-0624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0624">
 
 ---
 ## CVE-2023-0619 (2023-02-01T20:15:00)

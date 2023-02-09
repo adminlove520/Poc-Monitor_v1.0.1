@@ -269,6 +269,11 @@
 - [andrewkroh/auditbeat-apache-struts-demo](https://github.com/andrewkroh/auditbeat-apache-struts-demo)	<img alt="forks" src="https://img.shields.io/github/forks/andrewkroh/auditbeat-apache-struts-demo">	<img alt="stars" src="https://img.shields.io/github/stars/andrewkroh/auditbeat-apache-struts-demo">
 
 ---
+## CVE-2017-5546 (2017-02-06T06:59:00)
+> The freelist-randomization feature in mm/slab.c in the Linux kernel 4.8.x and 4.9.x before 4.9.5 allows local users to cause a denial of service (duplicate freelist entries and system crash) or possibly have unspecified other impact in opportunistic circumstances by leveraging the selection of a large value for a random number.
+- [Live-Hack-CVE/CVE-2017-5546](https://github.com/Live-Hack-CVE/CVE-2017-5546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-5546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-5546">
+
+---
 ## CVE-2017-5487 (2017-01-15T02:59:00)
 > wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.
 - [kr4dd/CVE-2017-5487](https://github.com/kr4dd/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/kr4dd/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/kr4dd/CVE-2017-5487">
@@ -1078,6 +1083,11 @@
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
 
 ---
+## CVE-2017-15699 (2018-02-13T22:29:00)
+> A Denial of Service vulnerability was found in Apache Qpid Dispatch Router versions 0.7.0 and 0.8.0. To exploit this vulnerability, a remote user must be able to establish an AMQP connection to the Qpid Dispatch Router and send a specifically crafted AMQP frame which will cause it to segfault and shut down.
+- [Live-Hack-CVE/CVE-2017-15699](https://github.com/Live-Hack-CVE/CVE-2017-15699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15699">
+
+---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
 > spice-vdagent up to and including 0.17.0 does not properly escape save directory before passing to shell, allowing local attacker with access to the session the agent runs in to inject arbitrary commands to be executed.
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
@@ -1171,6 +1181,11 @@
 ## CVE-2017-14432 (2018-05-14T20:29:00)
 > An exploitable command injection vulnerability exists in the web server functionality of Moxa EDR-810 V4.1 build 17030317. A specially crafted HTTP POST can cause a privilege escalation resulting in root shell. An attacker can inject OS commands into the openvpnServer0_tmp= parameter in the "/goform/net\_Web\_get_value" uri to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
+
+---
+## CVE-2017-12621 (2017-09-28T01:29:00)
+> During Jelly (xml) file parsing with Apache Xerces, if a custom doctype entity is declared with a "SYSTEM" entity with a URL and that entity is used in the body of the Jelly file, during parser instantiation the parser will attempt to connect to said URL. This could lead to XML External Entity (XXE) attacks in Apache Commons Jelly before 1.0.1.
+- [Live-Hack-CVE/CVE-2017-12621](https://github.com/Live-Hack-CVE/CVE-2017-12621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12621">
 
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
