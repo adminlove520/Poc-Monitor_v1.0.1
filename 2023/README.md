@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2023-25193](https://github.com/Live-Hack-CVE/CVE-2023-25193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25193">
 
 ---
+## CVE-2023-25168 (2023-02-09T00:16:00)
+> Wings is Pterodactyl's server control plane. This vulnerability can be used to delete files and directories recursively on the host system. This vulnerability can be combined with `GHSA-p8r3-83r8-jwj5` to overwrite files on the host system. In order to use this exploit, an attacker must have an existing "server" allocated and controlled by Wings. This vulnerability has been resolved in version `v1.11.4` of Wings, and has been back-ported to the 1.7 release series in `v1.7.4`. Anyone running `v1.11.x` should upgrade to `v1.11.4` and anyone running `v1.7.x` should upgrade to `v1.7.4`. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2023-25168](https://github.com/Live-Hack-CVE/CVE-2023-25168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25168">
+
+---
 ## CVE-2023-25163 (2023-02-08T21:15:00)
 > Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a user attempts to create or update an Application via the Argo CD API (and therefor the UI or CLI). The user must have `applications, create` or `applications, update` RBAC access to reach the code which may produce the error. The user is not guaranteed to be able to trigger the error message. They may attempt to spam the API with requests to trigger a rate limit error from the upstream repository. If the user has `repositories, update` access, they may edit an existing repository to introduce a URL typo or otherwise force an error message. But if they have that level of access, they are probably intended to have access to the credentials anyway. A patch for this vulnerability has been released in version 2.6.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2023-25163](https://github.com/Live-Hack-CVE/CVE-2023-25163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25163">
@@ -2837,6 +2842,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0671](https://github.com/Live-Hack-CVE/CVE-2023-0671)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0671">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0671">
 
 ---
+## CVE-2023-0669 (2023-02-06T20:15:00)
+> Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.
+- [Live-Hack-CVE/CVE-2023-0669](https://github.com/Live-Hack-CVE/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0669">
+
+---
 ## CVE-2023-0663 (2023-02-03T21:15:00)
 > A vulnerability was found in Calendar Event Management System 2.3.0. It has been rated as critical. This issue affects some unknown processing of the component Login Page. The manipulation of the argument name/pwd leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-220175.
 - [Live-Hack-CVE/CVE-2023-0663](https://github.com/Live-Hack-CVE/CVE-2023-0663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0663">
@@ -3506,6 +3516,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0252 (2023-02-06T20:15:00)
 > The Contextual Related Posts WordPress plugin before 3.3.1 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
 - [Live-Hack-CVE/CVE-2023-0252](https://github.com/Live-Hack-CVE/CVE-2023-0252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0252">
+
+---
+## CVE-2023-0251 (2023-02-08T23:15:00)
+> Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to a buffer overflow through improper restrictions of operations within memory, which could allow an attacker to remotely execute arbitrary code.
+- [Live-Hack-CVE/CVE-2023-0251](https://github.com/Live-Hack-CVE/CVE-2023-0251)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0251">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0251">
+
+---
+## CVE-2023-0250 (2023-02-08T23:15:00)
+> Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to a stack-based buffer overflow, which could allow an attacker to remotely execute arbitrary code.
+- [Live-Hack-CVE/CVE-2023-0250](https://github.com/Live-Hack-CVE/CVE-2023-0250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0250">
+
+---
+## CVE-2023-0249 (2023-02-08T23:15:00)
+> Delta Electronics DIAScreen versions 1.2.1.23 and prior are vulnerable to out-of-bounds write, which may allow an attacker to remotely execute arbitrary code.
+- [Live-Hack-CVE/CVE-2023-0249](https://github.com/Live-Hack-CVE/CVE-2023-0249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0249">
 
 ---
 ## CVE-2023-0247 (2023-01-12T17:15:00)

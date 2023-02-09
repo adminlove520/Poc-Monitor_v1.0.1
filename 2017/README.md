@@ -639,6 +639,11 @@
 - [Live-Hack-CVE/CVE-2017-18540](https://github.com/Live-Hack-CVE/CVE-2017-18540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18540">
 
 ---
+## CVE-2017-18539 (2019-08-21T12:15:00)
+> The weblibrarian plugin before 3.4.8.6 for WordPress has XSS via front-end short codes.
+- [Live-Hack-CVE/CVE-2017-18539](https://github.com/Live-Hack-CVE/CVE-2017-18539)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18539">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18539">
+
+---
 ## CVE-2017-18538 (2019-08-21T12:15:00)
 > The weblibrarian plugin before 3.4.8.5 for WordPress has XSS via front-end short codes.
 - [Live-Hack-CVE/CVE-2017-18538](https://github.com/Live-Hack-CVE/CVE-2017-18538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18538">
