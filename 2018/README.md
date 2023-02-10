@@ -1458,6 +1458,11 @@
 - [Live-Hack-CVE/CVE-2018-12116](https://github.com/Live-Hack-CVE/CVE-2018-12116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-12116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-12116">
 
 ---
+## CVE-2018-1207 (2018-03-23T14:29:00)
+> Dell EMC iDRAC7/iDRAC8, versions prior to 2.52.52.52, contain CGI injection vulnerability which could be used to execute remote code. A remote unauthenticated attacker may potentially be able to use CGI variables to execute remote code.
+- [un4gi/CVE-2018-1207](https://github.com/un4gi/CVE-2018-1207)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2018-1207">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2018-1207">
+
+---
 ## CVE-2018-11563 (2019-07-08T13:15:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 6.0.x through 6.0.7. A carefully constructed email could be used to inject and execute arbitrary stylesheet or JavaScript code in a logged in customer's browser in the context of the OTRS customer panel application.
 - [Live-Hack-CVE/CVE-2018-11563](https://github.com/Live-Hack-CVE/CVE-2018-11563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-11563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-11563">
