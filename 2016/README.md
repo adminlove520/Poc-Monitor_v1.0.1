@@ -26,6 +26,11 @@
 - [Live-Hack-CVE/CVE-2016-9840](https://github.com/Live-Hack-CVE/CVE-2016-9840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9840">
 
 ---
+## CVE-2016-9675 (2016-12-22T21:59:00)
+> openjpeg: A heap-based buffer overflow flaw was found in the patch for CVE-2013-6045. A crafted j2k image could cause the application to crash, or potentially execute arbitrary code.
+- [Live-Hack-CVE/CVE-2016-9675](https://github.com/Live-Hack-CVE/CVE-2016-9675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9675">
+
+---
 ## CVE-2016-9299 (2017-01-12T23:59:00)
 > The remoting module in Jenkins before 2.32 and LTS before 2.19.3 allows remote attackers to execute arbitrary code via a crafted serialized Java object, which triggers an LDAP query to a third-party server.
 - [r00t4dm/Jenkins-CVE-2016-9299](https://github.com/r00t4dm/Jenkins-CVE-2016-9299)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2016-9299">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2016-9299">

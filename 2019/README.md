@@ -550,6 +550,26 @@
 - [Live-Hack-CVE/CVE-2019-6643](https://github.com/Live-Hack-CVE/CVE-2019-6643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6643">
 
 ---
+## CVE-2019-6614 (2019-05-03T20:29:00)
+> On BIG-IP 14.0.0-14.1.0.1, 13.0.0-13.1.1.4, and 12.1.0-12.1.4, internal methods used to prevent arbitrary file overwrites in Appliance Mode were not fully effective. An authenticated attacker with a high privilege level may be able to bypass protections implemented in appliance mode to overwrite arbitrary system files.
+- [Live-Hack-CVE/CVE-2019-6614](https://github.com/Live-Hack-CVE/CVE-2019-6614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6614">
+
+---
+## CVE-2019-6613 (2019-05-03T18:29:00)
+> On BIG-IP 13.0.0-13.1.1.4, 12.1.0-12.1.4, 11.6.1-11.6.3.4, and 11.5.2-11.5.8, SNMP may expose sensitive configuration objects over insecure transmission channels. This issue is exposed when a passphrase is used with various profile types and is accessed using SNMPv2.
+- [Live-Hack-CVE/CVE-2019-6613](https://github.com/Live-Hack-CVE/CVE-2019-6613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6613">
+
+---
+## CVE-2019-6612 (2019-05-03T18:29:00)
+> On BIG-IP 14.0.0-14.1.0.1, 13.0.0-13.1.1.4, 12.1.0-12.1.4, 11.6.1-11.6.3.4, and 11.5.2-11.5.8, DNS query TCP connections that are aborted before receiving a response from a DNS cache may cause TMM to restart.
+- [Live-Hack-CVE/CVE-2019-6612](https://github.com/Live-Hack-CVE/CVE-2019-6612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6612">
+
+---
+## CVE-2019-6601 (2019-03-13T22:29:00)
+> In BIG-IP 13.0.0, 12.1.0-12.1.3.7, 11.6.1-11.6.3.2, or 11.5.1-11.5.8, the Application Acceleration Manager (AAM) wamd process used in processing of images and PDFs fails to drop group permissions when executing helper scripts.
+- [Live-Hack-CVE/CVE-2019-6601](https://github.com/Live-Hack-CVE/CVE-2019-6601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6601">
+
+---
 ## CVE-2019-6575 (2019-04-17T14:29:00)
 > A vulnerability has been identified in SIMATIC CP 443-1 OPC UA (All versions), SIMATIC ET 200SP Open Controller CPU 1515SP PC2 (incl. SIPLUS variants) (All versions < V2.7), SIMATIC HMI Comfort Outdoor Panels 7" & 15" (incl. SIPLUS variants) (All versions < V15.1 Upd 4), SIMATIC HMI Comfort Panels 4" - 22" (incl. SIPLUS variants) (All versions < V15.1 Upd 4), SIMATIC HMI KTP Mobile Panels KTP400F, KTP700, KTP700F, KTP900 and KTP900F (All versions < V15.1 Upd 4), SIMATIC IPC DiagMonitor (All versions < V5.1.3), SIMATIC NET PC Software V13 (All versions), SIMATIC NET PC Software V14 (All versions < V14 SP1 Update 14), SIMATIC NET PC Software V15 (All versions), SIMATIC RF188C (All versions < V1.1.0), SIMATIC RF600R family (All versions < V3.2.1), SIMATIC S7-1500 CPU family (incl. related ET200 CPUs and SIPLUS variants) (All versions >= V2.5 < V2.6.1), SIMATIC S7-1500 Software Controller (All versions between V2.5 (including) and V2.7 (excluding)), SIMATIC WinCC OA (All versions < V3.15 P018), SIMATIC WinCC Runtime Advanced (All versions < V15.1 Upd 4), SINEC NMS (All versions < V1.0 SP1), SINEMA Server (All versions < V14 SP2), SINUMERIK OPC UA Server (All versions < V2.1), TeleControl Server Basic (All versions < V3.1.1). Specially crafted network packets sent to affected devices on port 4840/tcp could allow an unauthenticated remote attacker to cause a denial of service condition of the OPC communication or crash the device. The security vulnerability could be exploited by an attacker with network access to the affected systems. Successful exploitation requires no system privileges and no user interaction. An attacker could use the vulnerability to compromise availability of the OPC communication.
 - [Live-Hack-CVE/CVE-2019-6575](https://github.com/Live-Hack-CVE/CVE-2019-6575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6575">
@@ -2756,9 +2776,44 @@
 - [Live-Hack-CVE/CVE-2019-13767](https://github.com/Live-Hack-CVE/CVE-2019-13767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13767">
 
 ---
+## CVE-2019-13759 (2019-12-10T22:15:00)
+> Incorrect security UI in interstitials in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to perform domain spoofing via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13759](https://github.com/Live-Hack-CVE/CVE-2019-13759)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13759">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13759">
+
+---
+## CVE-2019-13757 (2019-12-10T22:15:00)
+> Incorrect security UI in Omnibox in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to perform domain spoofing via IDN homographs via a crafted domain name.
+- [Live-Hack-CVE/CVE-2019-13757](https://github.com/Live-Hack-CVE/CVE-2019-13757)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13757">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13757">
+
+---
+## CVE-2019-13756 (2019-12-10T22:15:00)
+> Incorrect security UI in printing in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to perform domain spoofing via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13756](https://github.com/Live-Hack-CVE/CVE-2019-13756)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13756">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13756">
+
+---
+## CVE-2019-13755 (2019-12-10T22:15:00)
+> Insufficient policy enforcement in extensions in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to disable extensions via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13755](https://github.com/Live-Hack-CVE/CVE-2019-13755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13755">
+
+---
 ## CVE-2019-13754 (2019-12-10T22:15:00)
 > Insufficient policy enforcement in extensions in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to bypass navigation restrictions via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2019-13754](https://github.com/Live-Hack-CVE/CVE-2019-13754)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13754">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13754">
+
+---
+## CVE-2019-13753 (2019-12-10T22:15:00)
+> Out of bounds read in SQLite in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13753](https://github.com/Live-Hack-CVE/CVE-2019-13753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13753">
+
+---
+## CVE-2019-13752 (2019-12-10T22:15:00)
+> Out of bounds read in SQLite in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13752](https://github.com/Live-Hack-CVE/CVE-2019-13752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13752">
+
+---
+## CVE-2019-13751 (2019-12-10T22:15:00)
+> Uninitialized data in SQLite in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to obtain potentially sensitive information from process memory via a crafted HTML page.
+- [Live-Hack-CVE/CVE-2019-13751](https://github.com/Live-Hack-CVE/CVE-2019-13751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13751">
 
 ---
 ## CVE-2019-13750 (2019-12-10T22:15:00)
