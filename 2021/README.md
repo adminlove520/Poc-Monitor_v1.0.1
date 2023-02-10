@@ -2627,6 +2627,8 @@
 ## CVE-2021-4028 (2022-08-24T16:15:00)
 > A flaw in the Linux kernel's implementation of RDMA communications manager listener code allowed an attacker with local access to setup a socket to listen on a high port allowing for a list element to be used after free. Given the ability to execute code, a local attacker could leverage this use-after-free to crash the system or possibly escalate privileges on the system.
 - [Live-Hack-CVE/CVE-2021-4028](https://github.com/Live-Hack-CVE/CVE-2021-4028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4028">
+- [Live-Hack-CVE/CVE-2021-40285](https://github.com/Live-Hack-CVE/CVE-2021-40285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40285">
+- [Live-Hack-CVE/CVE-2021-40289](https://github.com/Live-Hack-CVE/CVE-2021-40289)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40289">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40289">
 
 ---
 ## CVE-2021-40272 (2022-11-14T16:15:00)
