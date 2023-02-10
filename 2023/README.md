@@ -2833,6 +2833,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0748 (2023-02-08T15:15:00)
 > Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.
 - [Live-Hack-CVE/CVE-2023-0748](https://github.com/Live-Hack-CVE/CVE-2023-0748)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0748">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0748">
+- [gonzxph/CVE-2023-0748](https://github.com/gonzxph/CVE-2023-0748)	<img alt="forks" src="https://img.shields.io/github/forks/gonzxph/CVE-2023-0748">	<img alt="stars" src="https://img.shields.io/github/stars/gonzxph/CVE-2023-0748">
 
 ---
 ## CVE-2023-0747 (2023-02-08T14:15:00)

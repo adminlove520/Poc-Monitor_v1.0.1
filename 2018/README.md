@@ -44,6 +44,7 @@
 ## CVE-2018-7935 (2023-02-10T12:15:00)
 > There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote attackers could exploit this vulnerability to make the network where the E5573Cs-322 is running temporarily unavailable.
 - [Live-Hack-CVE/CVE-2018-7935](https://github.com/Live-Hack-CVE/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7935">
+- [lawrenceamer/CVE-2018-7935](https://github.com/lawrenceamer/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/lawrenceamer/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/lawrenceamer/CVE-2018-7935">
 
 ---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
