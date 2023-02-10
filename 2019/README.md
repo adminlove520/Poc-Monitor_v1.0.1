@@ -2026,6 +2026,11 @@
 - [Live-Hack-CVE/CVE-2019-19509](https://github.com/Live-Hack-CVE/CVE-2019-19509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19509">
 
 ---
+## CVE-2019-19363 (2020-01-24T18:15:00)
+> An issue was discovered in Ricoh (including Savin and Lanier) Windows printer drivers prior to 2020 that allows attackers local privilege escalation. Affected drivers and versions are: PCL6 Driver for Universal Print - Version 4.0 or later PS Driver for Universal Print - Version 4.0 or later PC FAX Generic Driver - All versions Generic PCL5 Driver - All versions RPCS Driver - All versions PostScript3 Driver - All versions PCL6 (PCL XL) Driver - All versions RPCS Raster Driver - All version
+- [Live-Hack-CVE/CVE-2019-19363](https://github.com/Live-Hack-CVE/CVE-2019-19363)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19363">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19363">
+
+---
 ## CVE-2019-19221 (2019-11-21T23:15:00)
 > In Libarchive 3.4.0, archive_wstring_append_from_mbs in archive_string.c has an out-of-bounds read because of an incorrect mbrtowc or mbtowc call. For example, bsdtar crashes via a crafted archive.
 - [Live-Hack-CVE/CVE-2019-19221](https://github.com/Live-Hack-CVE/CVE-2019-19221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19221">

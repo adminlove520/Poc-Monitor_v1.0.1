@@ -2624,6 +2624,11 @@
 - [Live-Hack-CVE/CVE-2021-40285](https://github.com/Live-Hack-CVE/CVE-2021-40285)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40285">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40285">
 
 ---
+## CVE-2021-4028 (2022-08-24T16:15:00)
+> A flaw in the Linux kernel's implementation of RDMA communications manager listener code allowed an attacker with local access to setup a socket to listen on a high port allowing for a list element to be used after free. Given the ability to execute code, a local attacker could leverage this use-after-free to crash the system or possibly escalate privileges on the system.
+- [Live-Hack-CVE/CVE-2021-4028](https://github.com/Live-Hack-CVE/CVE-2021-4028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4028">
+
+---
 ## CVE-2021-40272 (2022-11-14T16:15:00)
 > OP5 Monitor 8.3.1, 8.3.2, and OP5 8.3.3 are vulnerable to Cross Site Scripting (XSS).
 - [Live-Hack-CVE/CVE-2021-40272](https://github.com/Live-Hack-CVE/CVE-2021-40272)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40272">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40272">
@@ -6631,6 +6636,11 @@
 ## CVE-2021-25296 (2021-02-15T13:15:00)
 > Nagios XI version xi-5.7.5 is affected by OS command injection. The vulnerability exists in the file /usr/local/nagiosxi/html/includes/configwizards/windowswmi/windowswmi.inc.php due to improper sanitization of authenticated user-controlled input by a single HTTP request, which can lead to OS command injection on the Nagios XI server.
 - [Live-Hack-CVE/CVE-2021-25296](https://github.com/Live-Hack-CVE/CVE-2021-25296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25296">
+
+---
+## CVE-2021-25263 (2021-08-17T19:15:00)
+> Local privilege vulnerability in Yandex Browser for Windows prior to 21.9.0.390 allows a local, low privileged, attacker to execute arbitary code with the SYSTEM privileges through manipulating files in directory with insecure permissions during Yandex Browser update process.
+- [Live-Hack-CVE/CVE-2021-25263](https://github.com/Live-Hack-CVE/CVE-2021-25263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25263">
 
 ---
 ## CVE-2021-25223 (2023-01-05T07:15:00)

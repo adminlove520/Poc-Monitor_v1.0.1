@@ -143,6 +143,11 @@
 - [Live-Hack-CVE/CVE-2023-24622](https://github.com/Live-Hack-CVE/CVE-2023-24622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24622">
 
 ---
+## CVE-2023-24613 (2023-02-03T02:15:00)
+> The user interface of Array Networks AG Series and vxAG through 9.4.0.470 could allow a remote attacker to use the gdb tool to overwrite the backend function call stack after accessing the system with administrator privileges. A successful exploit could leverage this vulnerability in the backend binary file that handles the user interface to a cause denial of service attack. This is fixed in AG 9.4.0.481.
+- [Live-Hack-CVE/CVE-2023-24613](https://github.com/Live-Hack-CVE/CVE-2023-24613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24613">
+
+---
 ## CVE-2023-24612 (2023-01-30T03:15:00)
 > The PdfBook extension through 2.0.5 before b07b6a64 for MediaWiki allows command injection via an option.
 - [Live-Hack-CVE/CVE-2023-24612](https://github.com/Live-Hack-CVE/CVE-2023-24612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24612">
@@ -297,6 +302,31 @@
 ## CVE-2023-24241 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /admin/loginpost.php.
 - [Live-Hack-CVE/CVE-2023-24241](https://github.com/Live-Hack-CVE/CVE-2023-24241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24241">
+
+---
+## CVE-2023-24234 (2023-02-10T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the component php-inventory-management-system/brand.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Brand Name parameter.
+- [Live-Hack-CVE/CVE-2023-24234](https://github.com/Live-Hack-CVE/CVE-2023-24234)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24234">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24234">
+
+---
+## CVE-2023-24233 (2023-02-10T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/orders.php?o=add of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Client Name parameter.
+- [Live-Hack-CVE/CVE-2023-24233](https://github.com/Live-Hack-CVE/CVE-2023-24233)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24233">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24233">
+
+---
+## CVE-2023-24232 (2023-02-10T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/product.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Product Name parameter.
+- [Live-Hack-CVE/CVE-2023-24232](https://github.com/Live-Hack-CVE/CVE-2023-24232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24232">
+
+---
+## CVE-2023-24231 (2023-02-10T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the component /php-inventory-management-system/categories.php of Inventory Management System v1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Categories Name parameter.
+- [Live-Hack-CVE/CVE-2023-24231](https://github.com/Live-Hack-CVE/CVE-2023-24231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24231">
+
+---
+## CVE-2023-24230 (2023-02-10T16:15:00)
+> A stored cross-site scripting (XSS) vulnerability in the component /formwork/panel/dashboard of Formwork v1.12.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Page title parameter.
+- [Live-Hack-CVE/CVE-2023-24230](https://github.com/Live-Hack-CVE/CVE-2023-24230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24230">
 
 ---
 ## CVE-2023-24202 (2023-02-06T15:15:00)
