@@ -41,6 +41,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-7935 (2023-02-10T12:15:00)
+> There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote attackers could exploit this vulnerability to make the network where the E5573Cs-322 is running temporarily unavailable.
+- [Live-Hack-CVE/CVE-2018-7935](https://github.com/Live-Hack-CVE/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7935">
+
+---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
 > A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
 - [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2018-7602">

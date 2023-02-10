@@ -58,6 +58,16 @@
 - [Live-Hack-CVE/CVE-2023-25015](https://github.com/Live-Hack-CVE/CVE-2023-25015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25015">
 
 ---
+## CVE-2023-25014 (2023-02-02T01:15:00)
+> An issue was discovered in the femanager extension before 5.5.3, 6.x before 6.3.4, and 7.x before 7.1.0 for TYPO3. Missing access checks in the InvitationController allow an unauthenticated user to delete all frontend users.
+- [Live-Hack-CVE/CVE-2023-25014](https://github.com/Live-Hack-CVE/CVE-2023-25014)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25014">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25014">
+
+---
+## CVE-2023-25013 (2023-02-02T01:15:00)
+> An issue was discovered in the femanager extension before 5.5.3, 6.x before 6.3.4, and 7.x before 7.1.0 for TYPO3. Missing access checks in the InvitationController allow an unauthenticated user to set the password of all frontend users.
+- [Live-Hack-CVE/CVE-2023-25013](https://github.com/Live-Hack-CVE/CVE-2023-25013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25013">
+
+---
 ## CVE-2023-25012 (2023-02-02T00:15:00)
 > The Linux kernel through 6.1.9 has a Use-After-Free in bigben_remove in drivers/hid/hid-bigbenff.c via a crafted USB device because the LED controllers remain registered for too long.
 - [Live-Hack-CVE/CVE-2023-25012](https://github.com/Live-Hack-CVE/CVE-2023-25012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25012">
@@ -142,6 +152,16 @@
 > NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the "practice logo" upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting.
 - [abbisQQ/CVE-2023-24610](https://github.com/abbisQQ/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/abbisQQ/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/abbisQQ/CVE-2023-24610">
 - [Live-Hack-CVE/CVE-2023-24610](https://github.com/Live-Hack-CVE/CVE-2023-24610)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24610">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24610">
+
+---
+## CVE-2023-24573 (2023-02-10T13:15:00)
+> Dell Command | Monitor versions prior to 10.9 contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion.
+- [Live-Hack-CVE/CVE-2023-24573](https://github.com/Live-Hack-CVE/CVE-2023-24573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24573">
+
+---
+## CVE-2023-24569 (2023-02-10T13:15:00)
+> Dell Alienware Command Center versions 5.5.37.0 and prior contain an Improper Input validation vulnerability. A local authenticated malicious user could potentially send malicious input to a named pipe in order to elevate privileges on the system.
+- [Live-Hack-CVE/CVE-2023-24569](https://github.com/Live-Hack-CVE/CVE-2023-24569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24569">
 
 ---
 ## CVE-2023-24508 (2023-01-26T21:18:00)
@@ -369,6 +389,41 @@
 - [Live-Hack-CVE/CVE-2023-24162](https://github.com/Live-Hack-CVE/CVE-2023-24162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24162">
 
 ---
+## CVE-2023-24153 (2023-02-03T16:15:00)
+> A command injection vulnerability in the version parameter in the function recvSlaveCloudCheckStatus of TOTOLINK T8 V4.1.5cu allows attackers to execute arbitrary commands via a crafted MQTT packet.
+- [Live-Hack-CVE/CVE-2023-24153](https://github.com/Live-Hack-CVE/CVE-2023-24153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24153">
+
+---
+## CVE-2023-24144 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the hour parameter in the setRebootScheCfg function.
+- [Live-Hack-CVE/CVE-2023-24144](https://github.com/Live-Hack-CVE/CVE-2023-24144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24144">
+
+---
+## CVE-2023-24143 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the NetDiagTracertHop parameter in the setNetworkDiag function.
+- [Live-Hack-CVE/CVE-2023-24143](https://github.com/Live-Hack-CVE/CVE-2023-24143)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24143">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24143">
+
+---
+## CVE-2023-24142 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the NetDiagPingSize parameter in the setNetworkDiag function.
+- [Live-Hack-CVE/CVE-2023-24142](https://github.com/Live-Hack-CVE/CVE-2023-24142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24142">
+
+---
+## CVE-2023-24141 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the NetDiagPingTimeOut parameter in the setNetworkDiag function.
+- [Live-Hack-CVE/CVE-2023-24141](https://github.com/Live-Hack-CVE/CVE-2023-24141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24141">
+
+---
+## CVE-2023-24140 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the NetDiagPingNum parameter in the setNetworkDiag function.
+- [Live-Hack-CVE/CVE-2023-24140](https://github.com/Live-Hack-CVE/CVE-2023-24140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24140">
+
+---
+## CVE-2023-24139 (2023-02-03T16:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the NetDiagHost parameter in the setNetworkDiag function.
+- [Live-Hack-CVE/CVE-2023-24139](https://github.com/Live-Hack-CVE/CVE-2023-24139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24139">
+
+---
 ## CVE-2023-24138 (2023-02-03T16:15:00)
 > TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the host_time parameter in the NTPSyncWithHost function.
 - [Live-Hack-CVE/CVE-2023-24138](https://github.com/Live-Hack-CVE/CVE-2023-24138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24138">
@@ -531,6 +586,11 @@
 ## CVE-2023-23749 (2023-01-17T20:15:00)
 > The 'LDAP Integration with Active Directory and OpenLDAP - NTLM & Kerberos Login' extension is vulnerable to LDAP Injection since is not properly sanitizing the 'username' POST parameter. An attacker can manipulate this paramter to dump arbitrary contents form the LDAP Database.
 - [Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23749">
+
+---
+## CVE-2023-23698 (2023-02-10T13:15:00)
+> Dell Command | Update, Dell Update, and Alienware Update versions before 4.6.0 and 4.7.1 contain Insecure Operation on Windows Junction in the installer component. A local malicious user may potentially exploit this vulnerability leading to arbitrary file delete.
+- [Live-Hack-CVE/CVE-2023-23698](https://github.com/Live-Hack-CVE/CVE-2023-23698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23698">
 
 ---
 ## CVE-2023-23696 (2023-02-07T10:15:00)
@@ -921,6 +981,11 @@
 ## CVE-2023-22849 (2023-02-04T21:15:00)
 > An improper neutralization of input during web page generation ('Cross-site Scripting') [CWE-79] vulnerability in Sling App CMS version 1.1.4 and prior may allow an authenticated remote attacker to perform a reflected cross-site scripting (XSS) attack in multiple features. Upgrade to Apache Sling App CMS >= 1.1.6
 - [Live-Hack-CVE/CVE-2023-22849](https://github.com/Live-Hack-CVE/CVE-2023-22849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22849">
+
+---
+## CVE-2023-22832 (2023-02-10T08:15:00)
+> The ExtractCCDAAttributes Processor in Apache NiFi 1.2.0 through 1.19.1 does not restrict XML External Entity references. Flow configurations that include the ExtractCCDAAttributes Processor are vulnerable to malicious XML documents that contain Document Type Declarations with XML External Entity references. The resolution disables Document Type Declarations and disallows XML External Entity resolution in the ExtractCCDAAttributes Processor.
+- [Live-Hack-CVE/CVE-2023-22832](https://github.com/Live-Hack-CVE/CVE-2023-22832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22832">
 
 ---
 ## CVE-2023-22809 (2023-01-18T17:15:00)
@@ -1407,6 +1472,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22373 (2023-01-20T03:15:00)
 > Cross-site scripting vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote authenticated attacker to inject an arbitrary script and obtain the sensitive information.
 - [Live-Hack-CVE/CVE-2023-22373](https://github.com/Live-Hack-CVE/CVE-2023-22373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22373">
+
+---
+## CVE-2023-22369 (2023-02-10T07:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2023-25011. Reason: This candidate is a duplicate of CVE-2023-25011. Notes: All CVE users should reference CVE-2023-25011 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2023-22369](https://github.com/Live-Hack-CVE/CVE-2023-22369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22369">
 
 ---
 ## CVE-2023-22366 (2023-01-17T10:15:00)
@@ -2738,6 +2808,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0774 (2023-02-10T12:15:00)
+> A vulnerability has been found in SourceCodester Medical Certificate Generator App 1.0 and classified as critical. This vulnerability affects unknown code of the file action.php. The manipulation of the argument lastname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220558 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0774](https://github.com/Live-Hack-CVE/CVE-2023-0774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0774">
 
 ---
 ## CVE-2023-0760 (2023-02-09T14:15:00)
