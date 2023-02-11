@@ -3074,6 +3074,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0669 (2023-02-06T20:15:00)
 > Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.
 - [Live-Hack-CVE/CVE-2023-0669](https://github.com/Live-Hack-CVE/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0669">
+- [0xf4n9x/CVE-2023-0669](https://github.com/0xf4n9x/CVE-2023-0669)	<img alt="forks" src="https://img.shields.io/github/forks/0xf4n9x/CVE-2023-0669">	<img alt="stars" src="https://img.shields.io/github/stars/0xf4n9x/CVE-2023-0669">
 
 ---
 ## CVE-2023-0663 (2023-02-03T21:15:00)
