@@ -795,18 +795,18 @@
 - [Live-Hack-CVE/CVE-2023-23314](https://github.com/Live-Hack-CVE/CVE-2023-23314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23314">
 
 ---
-## CVE-2023-23163 ()
-> 
+## CVE-2023-23163 (2023-02-10T20:15:00)
+> Art Gallery Management System Project v1.0 was discovered to contain a SQL injection vulnerability via the editid parameter.
 - [rahulpatwari/CVE-2023-23163](https://github.com/rahulpatwari/CVE-2023-23163)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23163">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23163">
 
 ---
-## CVE-2023-23162 ()
-> 
+## CVE-2023-23162 (2023-02-10T20:15:00)
+> Art Gallery Management System Project v1.0 was discovered to contain a SQL injection vulnerability via the cid parameter at product.php.
 - [rahulpatwari/CVE-2023-23162](https://github.com/rahulpatwari/CVE-2023-23162)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23162">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23162">
 
 ---
-## CVE-2023-23161 ()
-> 
+## CVE-2023-23161 (2023-02-10T20:15:00)
+> A reflected cross-site scripting (XSS) vulnerability in Art Gallery Management System Project v1.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the artname parameter under ART TYPE option in the navigation bar.
 - [rahulpatwari/CVE-2023-23161](https://github.com/rahulpatwari/CVE-2023-23161)	<img alt="forks" src="https://img.shields.io/github/forks/rahulpatwari/CVE-2023-23161">	<img alt="stars" src="https://img.shields.io/github/stars/rahulpatwari/CVE-2023-23161">
 
 ---
@@ -2838,6 +2838,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0780 (2023-02-11T02:20:00)
+> Improper Restriction of Rendered UI Layers or Frames in GitHub repository cockpit-hq/cockpit prior to 2.3.9-dev.
+- [Live-Hack-CVE/CVE-2023-0780](https://github.com/Live-Hack-CVE/CVE-2023-0780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0780">
 
 ---
 ## CVE-2023-0774 (2023-02-10T12:15:00)

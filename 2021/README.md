@@ -2682,6 +2682,11 @@
 - [Live-Hack-CVE/CVE-2021-40162](https://github.com/Live-Hack-CVE/CVE-2021-40162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40162">
 
 ---
+## CVE-2021-40114 (2021-10-27T19:15:00)
+> Multiple Cisco products are affected by a vulnerability in the way the Snort detection engine processes ICMP traffic that could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. The vulnerability is due to improper memory resource management while the Snort detection engine is processing ICMP packets. An attacker could exploit this vulnerability by sending a series of ICMP packets through an affected device. A successful exploit could allow the attacker to exhaust resources on the affected device, causing the device to reload.
+- [Live-Hack-CVE/CVE-2021-40114](https://github.com/Live-Hack-CVE/CVE-2021-40114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40114">
+
+---
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
@@ -4548,6 +4553,11 @@
 ## CVE-2021-3475 (2021-03-30T18:15:00)
 > There is a flaw in OpenEXR in versions before 3.0.0-beta. An attacker who can submit a crafted file to be processed by OpenEXR could cause an integer overflow, potentially leading to problems with application availability.
 - [Live-Hack-CVE/CVE-2021-3475](https://github.com/Live-Hack-CVE/CVE-2021-3475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3475">
+
+---
+## CVE-2021-34749 (2021-08-18T20:15:00)
+> A vulnerability in Server Name Identification (SNI) request filtering of Cisco Web Security Appliance (WSA), Cisco Firepower Threat Defense (FTD), and the Snort detection engine could allow an unauthenticated, remote attacker to bypass filtering technology on an affected device and exfiltrate data from a compromised host. This vulnerability is due to inadequate filtering of the SSL handshake. An attacker could exploit this vulnerability by using data from the SSL client hello packet to communicate with an external server. A successful exploit could allow the attacker to execute a command-and-control attack on a compromised host and perform additional data exfiltration attacks.
+- [Live-Hack-CVE/CVE-2021-34749](https://github.com/Live-Hack-CVE/CVE-2021-34749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34749">
 
 ---
 ## CVE-2021-34744 (2021-10-06T20:15:00)
@@ -8217,6 +8227,11 @@
 - [Live-Hack-CVE/CVE-2021-1243](https://github.com/Live-Hack-CVE/CVE-2021-1243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1243">
 
 ---
+## CVE-2021-1236 (2021-01-13T22:15:00)
+> Multiple Cisco products are affected by a vulnerability in the Snort application detection engine that could allow an unauthenticated, remote attacker to bypass the configured policies on an affected system. The vulnerability is due to a flaw in the detection algorithm. An attacker could exploit this vulnerability by sending crafted packets that would flow through an affected system. A successful exploit could allow the attacker to bypass the configured policies and deliver a malicious payload to the protected network.
+- [Live-Hack-CVE/CVE-2021-1236](https://github.com/Live-Hack-CVE/CVE-2021-1236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1236">
+
+---
 ## CVE-2021-1231 (2021-02-24T20:15:00)
 > A vulnerability in the Link Layer Discovery Protocol (LLDP) for Nexus 9000 Series Fabric Switches in Application Centric Infrastructure (ACI) mode could allow an unauthenticated, adjacent attacker to disable switching on a small form-factor pluggable (SFP) interface. This vulnerability is due to incomplete validation of the source of a received LLDP packet. An attacker could exploit this vulnerability by sending a crafted LLDP packet on an SFP interface to an affected device. A successful exploit could allow the attacker to disable switching on the SFP interface, which could disrupt network traffic.
 - [Live-Hack-CVE/CVE-2021-1231](https://github.com/Live-Hack-CVE/CVE-2021-1231)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1231">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1231">
@@ -8225,6 +8240,16 @@
 ## CVE-2021-1228 (2021-02-24T20:15:00)
 > A vulnerability in the fabric infrastructure VLAN connection establishment of Cisco Nexus 9000 Series Fabric Switches in Application Centric Infrastructure (ACI) Mode could allow an unauthenticated, adjacent attacker to bypass security validations and connect an unauthorized server to the infrastructure VLAN. This vulnerability is due to insufficient security requirements during the Link Layer Discovery Protocol (LLDP) setup phase of the infrastructure VLAN. An attacker could exploit this vulnerability by sending a crafted LLDP packet on the adjacent subnet to an affected device. A successful exploit could allow the attacker to connect an unauthorized server to the infrastructure VLAN, which is highly privileged. With a connection to the infrastructure VLAN, the attacker can make unauthorized connections to Cisco Application Policy Infrastructure Controller (APIC) services or join other host endpoints.
 - [Live-Hack-CVE/CVE-2021-1228](https://github.com/Live-Hack-CVE/CVE-2021-1228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1228">
+
+---
+## CVE-2021-1224 (2021-01-13T22:15:00)
+> Multiple Cisco products are affected by a vulnerability with TCP Fast Open (TFO) when used in conjunction with the Snort detection engine that could allow an unauthenticated, remote attacker to bypass a configured file policy for HTTP. The vulnerability is due to incorrect detection of the HTTP payload if it is contained at least partially within the TFO connection handshake. An attacker could exploit this vulnerability by sending crafted TFO packets with an HTTP payload through an affected device. A successful exploit could allow the attacker to bypass configured file policy for HTTP packets and deliver a malicious payload.
+- [Live-Hack-CVE/CVE-2021-1224](https://github.com/Live-Hack-CVE/CVE-2021-1224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1224">
+
+---
+## CVE-2021-1223 (2021-01-13T22:15:00)
+> Multiple Cisco products are affected by a vulnerability in the Snort detection engine that could allow an unauthenticated, remote attacker to bypass a configured file policy for HTTP. The vulnerability is due to incorrect handling of an HTTP range header. An attacker could exploit this vulnerability by sending crafted HTTP packets through an affected device. A successful exploit could allow the attacker to bypass configured file policy for HTTP packets and deliver a malicious payload.
+- [Live-Hack-CVE/CVE-2021-1223](https://github.com/Live-Hack-CVE/CVE-2021-1223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1223">
 
 ---
 ## CVE-2021-1221 (2021-02-04T17:15:00)
