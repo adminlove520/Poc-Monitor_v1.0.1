@@ -3328,6 +3328,11 @@
 - [Live-Hack-CVE/CVE-2019-10433](https://github.com/Live-Hack-CVE/CVE-2019-10433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10433">
 
 ---
+## CVE-2019-10430 (2019-09-25T16:15:00)
+> Jenkins NeuVector Vulnerability Scanner Plugin 1.5 and earlier stored credentials unencrypted in its global configuration file on the Jenkins master where they could be viewed by users with access to the master file system.
+- [Live-Hack-CVE/CVE-2019-10430](https://github.com/Live-Hack-CVE/CVE-2019-10430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10430">
+
+---
 ## CVE-2019-10349 (2019-07-11T14:15:00)
 > A stored cross site scripting vulnerability in Jenkins Dependency Graph Viewer Plugin 0.13 and earlier allowed attackers able to configure jobs in Jenkins to inject arbitrary HTML and JavaScript in the plugin-provided web pages in Jenkins.
 - [Live-Hack-CVE/CVE-2019-10349](https://github.com/Live-Hack-CVE/CVE-2019-10349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10349">
