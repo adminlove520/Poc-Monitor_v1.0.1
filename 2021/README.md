@@ -3721,6 +3721,16 @@
 - [Live-Hack-CVE/CVE-2021-36833](https://github.com/Live-Hack-CVE/CVE-2021-36833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36833">
 
 ---
+## CVE-2021-36826 (2022-04-04T20:15:00)
+> Authenticated (subscriber or higher user role if allowed to access projects) Stored Cross-Site Scripting (XSS) vulnerability in weDevs WP Project Manager plugin <= 2.4.13 versions.
+- [Live-Hack-CVE/CVE-2021-36826](https://github.com/Live-Hack-CVE/CVE-2021-36826)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36826">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36826">
+
+---
+## CVE-2021-36823 (2021-09-23T17:15:00)
+> Auth. Stored Cross-Site Scripting (XSS) vulnerability in WordPress Absolutely Glamorous Custom Admin plugin <= 6.8 versions.
+- [Live-Hack-CVE/CVE-2021-36823](https://github.com/Live-Hack-CVE/CVE-2021-36823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36823">
+
+---
 ## CVE-2021-3680 (2021-08-04T13:15:00)
 > showdoc is vulnerable to Missing Cryptographic Step
 - [Live-Hack-CVE/CVE-2021-3680](https://github.com/Live-Hack-CVE/CVE-2021-3680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3680">
@@ -7145,6 +7155,11 @@
 ## CVE-2021-23159 (2022-08-25T20:15:00)
 > A vulnerability was found in SoX, where a heap-buffer-overflow occurs in function lsx_read_w_buf() in formats_i.c file. The vulnerability is exploitable with a crafted file, that could cause an application to crash.
 - [Live-Hack-CVE/CVE-2021-23159](https://github.com/Live-Hack-CVE/CVE-2021-23159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23159">
+
+---
+## CVE-2021-23150 (2022-03-18T18:15:00)
+> Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability discovered in AMP for WP – Accelerated Mobile Pages plugin <= 1.0.77.31 versions.
+- [Live-Hack-CVE/CVE-2021-23150](https://github.com/Live-Hack-CVE/CVE-2021-23150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23150">
 
 ---
 ## CVE-2021-23146 (2021-11-18T18:15:00)
