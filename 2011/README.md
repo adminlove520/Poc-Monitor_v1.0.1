@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2011-4084](https://github.com/Live-Hack-CVE/CVE-2011-4084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4084">
 
 ---
+## CVE-2011-3640 (2011-10-28T02:49:00)
+> ** DISPUTED ** Untrusted search path vulnerability in Mozilla Network Security Services (NSS), as used in Google Chrome before 17 on Windows and Mac OS X, might allow local users to gain privileges via a Trojan horse pkcs11.txt file in a top-level directory. NOTE: the vendor's response was "Strange behavior, but we're not treating this as a security bug."
+- [Live-Hack-CVE/CVE-2011-3640](https://github.com/Live-Hack-CVE/CVE-2011-3640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3640">
+
+---
 ## CVE-2011-3609 (2019-11-26T03:15:00)
 > CVE-2011-3609 JBoss AS: CSRF in the administration console & HTTP management API
 - [Live-Hack-CVE/CVE-2011-3609](https://github.com/Live-Hack-CVE/CVE-2011-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3609">
@@ -48,6 +53,11 @@
 ## CVE-2011-2920 (2014-02-05T18:55:00)
 > CVE-2011-2920 Satellite: XSS flaw(s) in filter handling
 - [Live-Hack-CVE/CVE-2011-2920](https://github.com/Live-Hack-CVE/CVE-2011-2920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2920">
+
+---
+## CVE-2011-2906 (2012-05-24T23:55:00)
+> ** DISPUTED ** Integer signedness error in the pmcraid_ioctl_passthrough function in drivers/scsi/pmcraid.c in the Linux kernel before 3.1 might allow local users to cause a denial of service (memory consumption or memory corruption) via a negative size value in an ioctl call. NOTE: this may be a vulnerability only in unusual environments that provide a privileged program for obtaining the required file descriptor.
+- [Live-Hack-CVE/CVE-2011-2906](https://github.com/Live-Hack-CVE/CVE-2011-2906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2906">
 
 ---
 ## CVE-2011-2523 (2019-11-27T21:15:00)

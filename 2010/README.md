@@ -64,6 +64,11 @@
 - [Sunqiz/cve-2010-2553-reproduction](https://github.com/Sunqiz/cve-2010-2553-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/cve-2010-2553-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/cve-2010-2553-reproduction">
 
 ---
+## CVE-2010-2532 (2010-09-03T20:00:00)
+> ** DISPUTED ** lxsession-logout in lxsession in LXDE, as used on SUSE openSUSE 11.3 and other platforms, does not lock the screen when the Suspend or Hibernate button is pressed, which might make it easier for physically proximate attackers to access an unattended laptop via a resume action. NOTE: there is no general agreement that this is a vulnerability, because separate control over locking can be an equally secure, or more secure, behavior in some threat environments.
+- [Live-Hack-CVE/CVE-2010-2532](https://github.com/Live-Hack-CVE/CVE-2010-2532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2532">
+
+---
 ## CVE-2010-2531 (2010-08-20T22:00:00)
 > The var_export function in PHP 5.2 before 5.2.14 and 5.3 before 5.3.3 flushes the output buffer to the user when certain fatal errors occur, even if display_errors is off, which allows remote attackers to obtain sensitive information by causing the application to exceed limits for memory, execution time, or recursion.
 - [Live-Hack-CVE/CVE-2010-2531](https://github.com/Live-Hack-CVE/CVE-2010-2531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2531">

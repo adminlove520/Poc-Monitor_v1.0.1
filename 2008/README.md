@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2008-4609](https://github.com/Live-Hack-CVE/CVE-2008-4609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-4609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-4609">
 
 ---
+## CVE-2008-2956 (2008-07-01T22:41:00)
+> ** DISPUTED ** Memory leak in Pidgin 2.0.0, and possibly other versions, allows remote attackers to cause a denial of service (memory consumption) via malformed XML documents. NOTE: this issue has been disputed by the upstream vendor, who states: "I was never able to identify a scenario under which a problem occurred and the original reporter wasn't able to supply any sort of reproduction details."
+- [Live-Hack-CVE/CVE-2008-2956](https://github.com/Live-Hack-CVE/CVE-2008-2956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-2956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-2956">
+
+---
 ## CVE-2008-2364 (2008-06-13T18:41:00)
 > The ap_proxy_http_process_response function in mod_proxy_http.c in the mod_proxy module in the Apache HTTP Server 2.0.63 and 2.2.8 does not limit the number of forwarded interim responses, which allows remote HTTP servers to cause a denial of service (memory consumption) via a large number of interim responses.
 - [Live-Hack-CVE/CVE-2008-2364](https://github.com/Live-Hack-CVE/CVE-2008-2364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-2364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-2364">

@@ -32,6 +32,11 @@
 - [phusion/rails-cve-2012-5664-test](https://github.com/phusion/rails-cve-2012-5664-test)	<img alt="forks" src="https://img.shields.io/github/forks/phusion/rails-cve-2012-5664-test">	<img alt="stars" src="https://img.shields.io/github/stars/phusion/rails-cve-2012-5664-test">
 
 ---
+## CVE-2012-5613 (2012-12-03T12:49:00)
+> ** DISPUTED ** MySQL 5.5.19 and possibly other versions, and MariaDB 5.5.28a and possibly other versions, when configured to assign the FILE privilege to users who should not have administrative privileges, allows remote authenticated users to gain privileges by leveraging the FILE privilege to create files as the MySQL administrator. NOTE: the vendor disputes this issue, stating that this is only a vulnerability when the administrator does not follow recommendations in the product's installation documentation. NOTE: it could be argued that this should not be included in CVE because it is a configuration issue.
+- [Live-Hack-CVE/CVE-2012-5613](https://github.com/Live-Hack-CVE/CVE-2012-5613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5613">
+
+---
 ## CVE-2012-5601 (2012-12-05T11:57:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6055. Reason: This candidate is a reservation duplicate of CVE-2012-6055. Notes: All CVE users should reference CVE-2012-6055 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2012-5601](https://github.com/Live-Hack-CVE/CVE-2012-5601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5601">
@@ -140,9 +145,24 @@
 - [Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-](https://github.com/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-)	<img alt="forks" src="https://img.shields.io/github/forks/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-">	<img alt="stars" src="https://img.shields.io/github/stars/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-">
 
 ---
+## CVE-2012-2658 (2012-08-31T18:55:00)
+> ** DISPUTED ** Buffer overflow in the SQLDriverConnect function in unixODBC 2.3.1 allows local users to cause a denial of service (crash) via a long string in the DRIVER option. NOTE: this issue might not be a vulnerability, since the ability to set this option typically implies that the attacker already has legitimate access to cause a DoS or execute code, and therefore the issue would not cross privilege boundaries. There may be limited attack scenarios if isql command-line options are exposed to an attacker, although it seems likely that other, more serious issues would also be exposed, and this issue might not cross privilege boundaries in that context.
+- [Live-Hack-CVE/CVE-2012-2658](https://github.com/Live-Hack-CVE/CVE-2012-2658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2658">
+
+---
+## CVE-2012-2657 (2012-08-31T18:55:00)
+> ** DISPUTED ** Buffer overflow in the SQLDriverConnect function in unixODBC 2.0.10, 2.3.1, and earlier allows local users to cause a denial of service (crash) via a long string in the FILEDSN option. NOTE: this issue might not be a vulnerability, since the ability to set this option typically implies that the attacker already has legitimate access to cause a DoS or execute code, and therefore the issue would not cross privilege boundaries. There may be limited attack scenarios if isql command-line options are exposed to an attacker, although it seems likely that other, more serious issues would also be exposed, and this issue might not cross privilege boundaries in that context.
+- [Live-Hack-CVE/CVE-2012-2657](https://github.com/Live-Hack-CVE/CVE-2012-2657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2657">
+
+---
 ## CVE-2012-2386 (2012-07-07T10:21:00)
 > CVE-2012-2386 php: Integer overflow leading to heap-buffer overflow in the Phar extension
 - [Live-Hack-CVE/CVE-2012-2386](https://github.com/Live-Hack-CVE/CVE-2012-2386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2386">
+
+---
+## CVE-2012-2128 (2012-08-27T21:55:00)
+> ** DISPUTED ** Cross-site request forgery (CSRF) vulnerability in doku.php in DokuWiki 2012-01-25 Angua allows remote attackers to hijack the authentication of administrators for requests that add arbitrary users. NOTE: this issue has been disputed by the vendor, who states that it is resultant from CVE-2012-2129: "the exploit code simply uses the XSS hole to extract a valid CSRF token."
+- [Live-Hack-CVE/CVE-2012-2128](https://github.com/Live-Hack-CVE/CVE-2012-2128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2128">
 
 ---
 ## CVE-2012-1823 (2012-05-11T10:15:00)
@@ -251,6 +271,11 @@
 ## CVE-2012-0053 (2012-01-28T04:05:00)
 > protocol.c in the Apache HTTP Server 2.2.x through 2.2.21 does not properly restrict header information during construction of Bad Request (aka 400) error documents, which allows remote attackers to obtain the values of HTTPOnly cookies via vectors involving a (1) long or (2) malformed header in conjunction with crafted web script.
 - [Live-Hack-CVE/CVE-2012-0053](https://github.com/Live-Hack-CVE/CVE-2012-0053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0053">
+
+---
+## CVE-2012-0039 (2012-01-14T17:55:00)
+> ** DISPUTED ** GLib 2.31.8 and earlier, when the g_str_hash function is used, computes hash values without restricting the ability to trigger hash collisions predictably, which allows context-dependent attackers to cause a denial of service (CPU consumption) via crafted input to an application that maintains a hash table. NOTE: this issue may be disputed by the vendor; the existence of the g_str_hash function is not a vulnerability in the library, because callers of g_hash_table_new and g_hash_table_new_full can specify an arbitrary hash function that is appropriate for the application.
+- [Live-Hack-CVE/CVE-2012-0039](https://github.com/Live-Hack-CVE/CVE-2012-0039)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0039">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0039">
 
 ---
 ## CVE-2012-0003 (2012-01-10T21:55:00)

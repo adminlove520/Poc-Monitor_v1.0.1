@@ -18,6 +18,11 @@
 - [Live-Hack-CVE/CVE-2009-3732](https://github.com/Live-Hack-CVE/CVE-2009-3732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3732">
 
 ---
+## CVE-2009-3559 (2009-11-23T17:30:00)
+> ** DISPUTED ** main/streams/plain_wrapper.c in PHP 5.3.x before 5.3.1 does not recognize the safe_mode_include_dir directive, which allows context-dependent attackers to have an unknown impact by triggering the failure of PHP scripts that perform include or require operations, as demonstrated by a script that attempts to perform a require_once on a file in a standard library directory. NOTE: a reliable third party reports that this is not a vulnerability, because it results in a more restrictive security policy.
+- [Live-Hack-CVE/CVE-2009-3559](https://github.com/Live-Hack-CVE/CVE-2009-3559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3559">
+
+---
 ## CVE-2009-3095 (2009-09-08T18:30:00)
 > The mod_proxy_ftp module in the Apache HTTP Server allows remote attackers to bypass intended access restrictions and send arbitrary commands to an FTP server via vectors related to the embedding of these commands in the Authorization HTTP header, as demonstrated by a certain module in VulnDisco Pack Professional 8.11.
 - [Live-Hack-CVE/CVE-2009-3095](https://github.com/Live-Hack-CVE/CVE-2009-3095)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3095">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3095">
