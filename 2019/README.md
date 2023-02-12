@@ -1655,6 +1655,11 @@
 - [Live-Hack-CVE/CVE-2019-2587](https://github.com/Live-Hack-CVE/CVE-2019-2587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2587">
 
 ---
+## CVE-2019-25102 (2023-02-12T14:15:00)
+> A vulnerability, which was classified as problematic, was found in simple-markdown 0.6.0. Affected is an unknown function of the file simple-markdown.js. The manipulation with the input <<<<<<<<<<:/:/:/:/:/:/:/:/:/:/ leads to inefficient regular expression complexity. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 0.6.1 is able to address this issue. The name of the patch is 015a719bf5cdc561feea05500ecb3274ef609cd2. It is recommended to upgrade the affected component. VDB-220638 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2019-25102](https://github.com/Live-Hack-CVE/CVE-2019-25102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25102">
+
+---
 ## CVE-2019-25101 (2023-02-04T08:15:00)
 > A vulnerability classified as critical has been found in OnShift TurboGears 1.0.11.10. This affects an unknown part of the file turbogears/controllers.py of the component HTTP Header Handler. The manipulation leads to http response splitting. It is possible to initiate the attack remotely. Upgrading to version 1.0.11.11 is able to address this issue. The name of the patch is f68bbaba47f4474e1da553aa51564a73e1d92a84. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220059.
 - [Live-Hack-CVE/CVE-2019-25101](https://github.com/Live-Hack-CVE/CVE-2019-25101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25101">

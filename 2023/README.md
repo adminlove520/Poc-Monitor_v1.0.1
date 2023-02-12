@@ -2845,6 +2845,51 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0794 (2023-02-12T14:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0794](https://github.com/Live-Hack-CVE/CVE-2023-0794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0794">
+
+---
+## CVE-2023-0793 (2023-02-12T14:15:00)
+> Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0793](https://github.com/Live-Hack-CVE/CVE-2023-0793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0793">
+
+---
+## CVE-2023-0792 (2023-02-12T14:15:00)
+> Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0792](https://github.com/Live-Hack-CVE/CVE-2023-0792)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0792">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0792">
+
+---
+## CVE-2023-0791 (2023-02-12T14:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0791](https://github.com/Live-Hack-CVE/CVE-2023-0791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0791">
+
+---
+## CVE-2023-0790 (2023-02-12T14:15:00)
+> Uncaught Exception in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0790](https://github.com/Live-Hack-CVE/CVE-2023-0790)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0790">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0790">
+
+---
+## CVE-2023-0789 (2023-02-12T14:15:00)
+> Command Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0789](https://github.com/Live-Hack-CVE/CVE-2023-0789)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0789">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0789">
+
+---
+## CVE-2023-0788 (2023-02-12T14:15:00)
+> Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0788](https://github.com/Live-Hack-CVE/CVE-2023-0788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0788">
+
+---
+## CVE-2023-0787 (2023-02-12T14:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0787](https://github.com/Live-Hack-CVE/CVE-2023-0787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0787">
+
+---
+## CVE-2023-0786 (2023-02-12T14:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0786](https://github.com/Live-Hack-CVE/CVE-2023-0786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0786">
+
+---
 ## CVE-2023-0785 (2023-02-12T08:15:00)
 > A vulnerability classified as problematic was found in SourceCodester Best Online News Portal 1.0. Affected by this vulnerability is an unknown functionality of the file check_availability.php. The manipulation of the argument username leads to exposure of sensitive information through data queries. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-220645 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0785](https://github.com/Live-Hack-CVE/CVE-2023-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0785">
