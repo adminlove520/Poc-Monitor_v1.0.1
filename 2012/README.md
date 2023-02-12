@@ -26,9 +26,70 @@
 - [Live-Hack-CVE/CVE-2012-6638](https://github.com/Live-Hack-CVE/CVE-2012-6638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6638">
 
 ---
+## CVE-2012-5664 (2012-12-26T20:55:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6496, CVE-2012-6497. Reason: this candidate was intended for one issue, but the candidate was publicly used to label concerns about multiple products. Notes: All CVE users should consult CVE-2012-6496 and CVE-2012-6497 to determine which ID is appropriate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5664](https://github.com/Live-Hack-CVE/CVE-2012-5664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5664">
+- [phusion/rails-cve-2012-5664-test](https://github.com/phusion/rails-cve-2012-5664-test)	<img alt="forks" src="https://img.shields.io/github/forks/phusion/rails-cve-2012-5664-test">	<img alt="stars" src="https://img.shields.io/github/stars/phusion/rails-cve-2012-5664-test">
+
+---
+## CVE-2012-5601 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6055. Reason: This candidate is a reservation duplicate of CVE-2012-6055. Notes: All CVE users should reference CVE-2012-6055 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5601](https://github.com/Live-Hack-CVE/CVE-2012-5601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5601">
+
+---
+## CVE-2012-5600 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6062. Reason: This candidate is a reservation duplicate of CVE-2012-6062. Notes: All CVE users should reference CVE-2012-6062 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5600](https://github.com/Live-Hack-CVE/CVE-2012-5600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5600">
+
+---
+## CVE-2012-5599 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6061. Reason: This candidate is a reservation duplicate of CVE-2012-6061. Notes: All CVE users should reference CVE-2012-6061 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5599](https://github.com/Live-Hack-CVE/CVE-2012-5599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5599">
+
+---
+## CVE-2012-5598 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6060. Reason: This candidate is a reservation duplicate of CVE-2012-6060. Notes: All CVE users should reference CVE-2012-6060 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5598](https://github.com/Live-Hack-CVE/CVE-2012-5598)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5598">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5598">
+
+---
+## CVE-2012-5597 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6059. Reason: This candidate is a reservation duplicate of CVE-2012-6059. Notes: All CVE users should reference CVE-2012-6059 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5597](https://github.com/Live-Hack-CVE/CVE-2012-5597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5597">
+
+---
+## CVE-2012-5596 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6057. Reason: This candidate is a reservation duplicate of CVE-2012-6057. Notes: All CVE users should reference CVE-2012-6057 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5596](https://github.com/Live-Hack-CVE/CVE-2012-5596)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5596">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5596">
+
+---
+## CVE-2012-5595 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6056. Reason: This candidate is a reservation duplicate of CVE-2012-6056. Notes: All CVE users should reference CVE-2012-6056 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5595](https://github.com/Live-Hack-CVE/CVE-2012-5595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5595">
+
+---
+## CVE-2012-5594 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6054. Reason: This candidate is a reservation duplicate of CVE-2012-6054. Notes: All CVE users should reference CVE-2012-6054 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5594](https://github.com/Live-Hack-CVE/CVE-2012-5594)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5594">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5594">
+
+---
+## CVE-2012-5593 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6053. Reason: This candidate is a reservation duplicate of CVE-2012-6053. Notes: All CVE users should reference CVE-2012-6053 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5593](https://github.com/Live-Hack-CVE/CVE-2012-5593)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5593">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5593">
+
+---
+## CVE-2012-5592 (2012-12-05T11:57:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6052. Reason: This candidate is a reservation duplicate of CVE-2012-6052. Notes: All CVE users should reference CVE-2012-6052 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5592](https://github.com/Live-Hack-CVE/CVE-2012-5592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5592">
+
+---
 ## CVE-2012-5519 (2012-11-20T00:55:00)
 > CUPS 1.4.4, when running in certain Linux distributions such as Debian GNU/Linux, stores the web interface administrator key in /var/run/cups/certs/0 using certain permissions, which allows local users in the lpadmin group to read or write arbitrary files as root by leveraging the web interface.
 - [p1ckzi/CVE-2012-5519](https://github.com/p1ckzi/CVE-2012-5519)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2012-5519">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2012-5519">
+
+---
+## CVE-2012-5475 (2012-11-16T12:24:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-5881, CVE-2012-5882, CVE-2012-5883. Reason: This candidate is a duplicate of CVE-2012-5881, CVE-2012-5882, and CVE-2012-5883. Notes: All CVE users should reference one or more of CVE-2012-5881, CVE-2012-5882, and CVE-2012-5883 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2012-5475](https://github.com/Live-Hack-CVE/CVE-2012-5475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5475">
 
 ---
 ## CVE-2012-4681 (2012-08-28T00:55:00)

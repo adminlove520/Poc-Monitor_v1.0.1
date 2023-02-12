@@ -180,6 +180,11 @@
 - [liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/liusec/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/liusec/CVE-2017-7529">
 
 ---
+## CVE-2017-7516 (2018-01-29T19:29:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2015-1197. Reason: This candidate is a duplicate of CVE-2015-1197. Notes: All CVE users should reference CVE-2015-1197 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2017-7516](https://github.com/Live-Hack-CVE/CVE-2017-7516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7516">
+
+---
 ## CVE-2017-7494 (2017-05-30T18:29:00)
 > Samba since version 3.5.0 and before 4.6.4, 4.5.10 and 4.4.14 is vulnerable to remote code execution vulnerability, allowing a malicious client to upload a shared library to a writable share, and then cause the server to load and execute it.
 - [elellacode/exploit-CVE-2017-7494](https://github.com/elellacode/exploit-CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/elellacode/exploit-CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/elellacode/exploit-CVE-2017-7494">
@@ -204,9 +209,19 @@
 - [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
 
 ---
+## CVE-2017-7492 (2017-05-22T15:29:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2017-7503. Reason: This candidate is a reservation duplicate of CVE-2017-7503. Notes: All CVE users should reference CVE-2017-7503 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2017-7492](https://github.com/Live-Hack-CVE/CVE-2017-7492)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7492">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7492">
+
+---
 ## CVE-2017-7488 (2017-05-16T18:29:00)
 > A flaw was found where authconfig could configure sssd in a way that treats existing and non-existing logins differently, leaking information on existence of a user. An attacker with physical or network access to the machine could enumerate users via a timing attack.
 - [Live-Hack-CVE/CVE-2017-7488](https://github.com/Live-Hack-CVE/CVE-2017-7488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7488">
+
+---
+## CVE-2017-7473 (2017-07-21T22:29:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA based off of CNT 3. Further investigation determined that there was a secure method for using the directive. Notes: none.
+- [Live-Hack-CVE/CVE-2017-7473](https://github.com/Live-Hack-CVE/CVE-2017-7473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7473">
 
 ---
 ## CVE-2017-7308 (2017-03-29T20:59:00)

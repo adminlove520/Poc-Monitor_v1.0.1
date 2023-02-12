@@ -31,14 +31,29 @@
 - [Live-Hack-CVE/CVE-2013-6641](https://github.com/Live-Hack-CVE/CVE-2013-6641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6641">
 
 ---
+## CVE-2013-6500 (2015-02-20T02:59:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
+- [Live-Hack-CVE/CVE-2013-6500](https://github.com/Live-Hack-CVE/CVE-2013-6500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6500">
+
+---
 ## CVE-2013-6490 (2014-02-06T17:00:00)
 > The SIMPLE protocol functionality in Pidgin before 2.10.8 allows remote attackers to have an unspecified impact via a negative Content-Length header, which triggers a buffer overflow.
 - [Everdoh/CVE-2013-6490](https://github.com/Everdoh/CVE-2013-6490)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2013-6490">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2013-6490">
 
 ---
+## CVE-2013-6488 (2014-01-20T04:58:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2013-0328. Reason: This candidate is a reservation duplicate of CVE-2013-0328. Notes: All CVE users should reference CVE-2013-0328 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2013-6488](https://github.com/Live-Hack-CVE/CVE-2013-6488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6488">
+
+---
 ## CVE-2013-6438 (2014-03-18T05:18:00)
 > The dav_xml_get_cdata function in main/util.c in the mod_dav module in the Apache HTTP Server before 2.4.8 does not properly remove whitespace characters from CDATA sections, which allows remote attackers to cause a denial of service (daemon crash) via a crafted DAV WRITE request.
 - [Live-Hack-CVE/CVE-2013-6438](https://github.com/Live-Hack-CVE/CVE-2013-6438)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6438">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6438">
+
+---
+## CVE-2013-6406 (2013-12-08T06:07:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2013-6858. Reason: This candidate is a reservation duplicate of CVE-2013-6858. Notes: All CVE users should reference CVE-2013-6858 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2013-6406](https://github.com/Live-Hack-CVE/CVE-2013-6406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6406">
 
 ---
 ## CVE-2013-5843 (2013-10-16T17:55:00)
