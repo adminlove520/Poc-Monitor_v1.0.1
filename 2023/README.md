@@ -542,6 +542,11 @@
 - [Live-Hack-CVE/CVE-2023-24038](https://github.com/Live-Hack-CVE/CVE-2023-24038)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24038">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24038">
 
 ---
+## CVE-2023-24029 (2023-02-03T21:15:00)
+> In Progress WS_FTP Server before 8.8, it is possible for a host administrator to elevate their privileges via the administrative interface due to insufficient authorization controls applied on user modification workflows.
+- [Live-Hack-CVE/CVE-2023-24029](https://github.com/Live-Hack-CVE/CVE-2023-24029)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24029">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24029">
+
+---
 ## CVE-2023-24028 (2023-01-20T22:15:00)
 > In MISP 2.4.167, app/Controller/Component/ACLComponent.php has incorrect access control for the decaying import function.
 - [Live-Hack-CVE/CVE-2023-24028](https://github.com/Live-Hack-CVE/CVE-2023-24028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24028">
