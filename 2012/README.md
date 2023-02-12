@@ -35,6 +35,8 @@
 ## CVE-2012-5613 (2012-12-03T12:49:00)
 > ** DISPUTED ** MySQL 5.5.19 and possibly other versions, and MariaDB 5.5.28a and possibly other versions, when configured to assign the FILE privilege to users who should not have administrative privileges, allows remote authenticated users to gain privileges by leveraging the FILE privilege to create files as the MySQL administrator. NOTE: the vendor disputes this issue, stating that this is only a vulnerability when the administrator does not follow recommendations in the product's installation documentation. NOTE: it could be argued that this should not be included in CVE because it is a configuration issue.
 - [Live-Hack-CVE/CVE-2012-5613](https://github.com/Live-Hack-CVE/CVE-2012-5613)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5613">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5613">
+- [w4fz5uck5/UDFPwn-CVE-2012-5613](https://github.com/w4fz5uck5/UDFPwn-CVE-2012-5613)	<img alt="forks" src="https://img.shields.io/github/forks/w4fz5uck5/UDFPwn-CVE-2012-5613">	<img alt="stars" src="https://img.shields.io/github/stars/w4fz5uck5/UDFPwn-CVE-2012-5613">
+- [Hood3dRob1n/MySQL-Fu.rb](https://github.com/Hood3dRob1n/MySQL-Fu.rb)	<img alt="forks" src="https://img.shields.io/github/forks/Hood3dRob1n/MySQL-Fu.rb">	<img alt="stars" src="https://img.shields.io/github/stars/Hood3dRob1n/MySQL-Fu.rb">
 
 ---
 ## CVE-2012-5601 (2012-12-05T11:57:00)
