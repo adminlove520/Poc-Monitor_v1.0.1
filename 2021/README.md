@@ -3607,6 +3607,16 @@
 - [Live-Hack-CVE/CVE-2021-3732](https://github.com/Live-Hack-CVE/CVE-2021-3732)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3732">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3732">
 
 ---
+## CVE-2021-37317 (2023-02-03T18:15:00)
+> Directory Traversal vulnerability in Cloud Disk in ASUS RT-AC68U router firmware version before 3.0.0.4.386.41634 allows remote attackers to write arbitrary files via improper sanitation on the target for COPY and MOVE operations.
+- [Live-Hack-CVE/CVE-2021-37317](https://github.com/Live-Hack-CVE/CVE-2021-37317)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37317">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37317">
+
+---
+## CVE-2021-37315 (2023-02-03T18:15:00)
+> Incorrect Access Control issue discoverd in Cloud Disk in ASUS RT-AC68U router firmware version before 3.0.0.4.386.41634 allows remote attackers to write arbitrary files via improper sanitation on the source for COPY and MOVE operations.
+- [Live-Hack-CVE/CVE-2021-37315](https://github.com/Live-Hack-CVE/CVE-2021-37315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37315">
+
+---
 ## CVE-2021-37306 (2023-02-03T18:15:00)
 > An Insecure Permissions issue in jeecg-boot 2.4.5 and earlier allows remote attackers to gain escalated privilege and view sensitive information via api uri: api uri:/sys/user/checkOnlyUser?username=admin.
 - [Live-Hack-CVE/CVE-2021-37306](https://github.com/Live-Hack-CVE/CVE-2021-37306)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37306">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37306">
