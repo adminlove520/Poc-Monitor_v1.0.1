@@ -26,9 +26,24 @@
 - [Live-Hack-CVE/CVE-2023-25717](https://github.com/Live-Hack-CVE/CVE-2023-25717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25717">
 
 ---
+## CVE-2023-25572 (2023-02-13T21:15:00)
+> react-admin is a frontend framework for building browser applications on top of REST/GraphQL APIs. react-admin prior to versions 3.19.12 and 4.7.6, along with ra-ui-materialui prior to 3.19.12 and 4.7.6, are vulnerable to cross-site scripting. All React applications built with react-admin and using the `<RichTextField>` are affected. `<RichTextField>` outputs the field value using `dangerouslySetInnerHTML` without client-side sanitization. If the data isn't sanitized server-side, this opens a possible cross-site scripting (XSS) attack. Versions 3.19.12 and 4.7.6 now use `DOMPurify` to escape the HTML before outputting it with React and `dangerouslySetInnerHTML`. Users who already sanitize HTML data server-side do not need to upgrade. As a workaround, users may replace the `<RichTextField>` by a custom field doing sanitization by hand.
+- [Live-Hack-CVE/CVE-2023-25572](https://github.com/Live-Hack-CVE/CVE-2023-25572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25572">
+
+---
 ## CVE-2023-25396 (2023-02-08T19:15:00)
 > Privilege escalation in the MSI repair functionality in Caphyon Advanced Installer 20.0 and below allows attackers to access and manipulate system files.
 - [Live-Hack-CVE/CVE-2023-25396](https://github.com/Live-Hack-CVE/CVE-2023-25396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25396">
+
+---
+## CVE-2023-25241 (2023-02-13T21:15:00)
+> bgERP v22.31 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Search parameter.
+- [Live-Hack-CVE/CVE-2023-25241](https://github.com/Live-Hack-CVE/CVE-2023-25241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25241">
+
+---
+## CVE-2023-25240 (2023-02-13T21:15:00)
+> An improper SameSite Attribute vulnerability in pimCore v10.5.15 allows attackers to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2023-25240](https://github.com/Live-Hack-CVE/CVE-2023-25240)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25240">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25240">
 
 ---
 ## CVE-2023-25194 (2023-02-07T20:15:00)
@@ -50,6 +65,21 @@
 ## CVE-2023-25163 (2023-02-08T21:15:00)
 > Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a user attempts to create or update an Application via the Argo CD API (and therefor the UI or CLI). The user must have `applications, create` or `applications, update` RBAC access to reach the code which may produce the error. The user is not guaranteed to be able to trigger the error message. They may attempt to spam the API with requests to trigger a rate limit error from the upstream repository. If the user has `repositories, update` access, they may edit an existing repository to introduce a URL typo or otherwise force an error message. But if they have that level of access, they are probably intended to have access to the credentials anyway. A patch for this vulnerability has been released in version 2.6.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2023-25163](https://github.com/Live-Hack-CVE/CVE-2023-25163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25163">
+
+---
+## CVE-2023-25162 (2023-02-13T21:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform. Nextcloud Server prior to 24.0.8 and 23.0.12 and Nextcloud Enterprise server prior to 24.0.8 and 23.0.12 are vulnerable to server-side request forgery (SSRF). Attackers can leverage enclosed alphanumeric payloads to bypass IP filters and gain SSRF, which would allow an attacker to read crucial metadata if the server is hosted on the AWS platform. Nextcloud Server 24.0.8 and 23.0.2 and Nextcloud Enterprise Server 24.0.8 and 23.0.12 contain a patch for this issue. No known workarounds are available.
+- [Live-Hack-CVE/CVE-2023-25162](https://github.com/Live-Hack-CVE/CVE-2023-25162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25162">
+
+---
+## CVE-2023-25161 (2023-02-13T21:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform. Nextcloud Server and Nextcloud Enterprise Server prior to versions 25.0.1 24.0.8, and 23.0.12 missing rate limiting on password reset functionality. This could result in service slowdown, storage overflow, or cost impact when using external email services. Users should upgrade to Nextcloud Server 25.0.1, 24.0.8, or 23.0.12 or Nextcloud Enterprise Server 25.0.1, 24.0.8, or 23.0.12 to receive a patch. No known workarounds are available.
+- [Live-Hack-CVE/CVE-2023-25161](https://github.com/Live-Hack-CVE/CVE-2023-25161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25161">
+
+---
+## CVE-2023-25160 (2023-02-13T21:15:00)
+> Nextcloud Mail is an email app for the Nextcloud home server platform. Prior to versions 2.2.1, 1.14.5, 1.12.9, and 1.11.8, an attacker can access the mail box by ID getting the subjects and the first characters of the emails. Users should upgrade to Mail 2.2.1 for Nextcloud 25, Mail 1.14.5 for Nextcloud 22-24, Mail 1.12.9 for Nextcloud 21, or Mail 1.11.8 for Nextcloud 20 to receive a patch. No known workarounds are available.
+- [Live-Hack-CVE/CVE-2023-25160](https://github.com/Live-Hack-CVE/CVE-2023-25160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25160">
 
 ---
 ## CVE-2023-25159 (2023-02-13T17:15:00)
@@ -161,6 +191,21 @@
 ## CVE-2023-24687 (2023-02-09T20:15:00)
 > Mojoportal v2.7.0.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability in the Company Info Settings component. This vulnerability allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the txtCompanyName parameter.
 - [Live-Hack-CVE/CVE-2023-24687](https://github.com/Live-Hack-CVE/CVE-2023-24687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24687">
+
+---
+## CVE-2023-24648 (2023-02-13T21:15:00)
+> Zstore v6.6.0 was discovered to contain a cross-site scripting (XSS) vulnerability via the component /index.php.
+- [Live-Hack-CVE/CVE-2023-24648](https://github.com/Live-Hack-CVE/CVE-2023-24648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24648">
+
+---
+## CVE-2023-24647 (2023-02-13T21:15:00)
+> Food Ordering System v2.0 was discovered to contain a SQL injection vulnerability via the email parameter.
+- [Live-Hack-CVE/CVE-2023-24647](https://github.com/Live-Hack-CVE/CVE-2023-24647)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24647">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24647">
+
+---
+## CVE-2023-24646 (2023-02-13T21:15:00)
+> An arbitrary file upload vulnerability in the component /fos/admin/ajax.php of Food Ordering System v2.0 allows attackers to execute arbitrary code via a crafted PHP file.
+- [Live-Hack-CVE/CVE-2023-24646](https://github.com/Live-Hack-CVE/CVE-2023-24646)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24646">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24646">
 
 ---
 ## CVE-2023-24623 (2023-01-30T05:15:00)
@@ -502,6 +547,16 @@
 ## CVE-2023-24138 (2023-02-03T16:15:00)
 > TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the host_time parameter in the NTPSyncWithHost function.
 - [Live-Hack-CVE/CVE-2023-24138](https://github.com/Live-Hack-CVE/CVE-2023-24138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24138">
+
+---
+## CVE-2023-24086 (2023-02-13T21:15:00)
+> SLIMS v9.5.2 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the component /customs/loan_by_class.php?reportView.
+- [Live-Hack-CVE/CVE-2023-24086](https://github.com/Live-Hack-CVE/CVE-2023-24086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24086">
+
+---
+## CVE-2023-24084 (2023-02-13T21:15:00)
+> ChiKoi v1.0 was discovered to contain a SQL injection vulnerability via the load_file function.
+- [Live-Hack-CVE/CVE-2023-24084](https://github.com/Live-Hack-CVE/CVE-2023-24084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24084">
 
 ---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
@@ -2966,6 +3021,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0819 (2023-02-13T22:15:00)
+> Heap-based Buffer Overflow in GitHub repository gpac/gpac prior to v2.3.0-DEV.
+- [Live-Hack-CVE/CVE-2023-0819](https://github.com/Live-Hack-CVE/CVE-2023-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0819">
+
+---
+## CVE-2023-0818 (2023-02-13T22:15:00)
+> Off-by-one Error in GitHub repository gpac/gpac prior to v2.3.0-DEV.
+- [Live-Hack-CVE/CVE-2023-0818](https://github.com/Live-Hack-CVE/CVE-2023-0818)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0818">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0818">
+
+---
+## CVE-2023-0817 (2023-02-13T22:15:00)
+> Buffer Over-read in GitHub repository gpac/gpac prior to v2.3.0-DEV.
+- [Live-Hack-CVE/CVE-2023-0817](https://github.com/Live-Hack-CVE/CVE-2023-0817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0817">
+
+---
 ## CVE-2023-0810 (2023-02-13T17:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.11.
 - [Live-Hack-CVE/CVE-2023-0810](https://github.com/Live-Hack-CVE/CVE-2023-0810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0810">
@@ -3049,6 +3119,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0780 (2023-02-11T02:20:00)
 > Improper Restriction of Rendered UI Layers or Frames in GitHub repository cockpit-hq/cockpit prior to 2.3.9-dev.
 - [Live-Hack-CVE/CVE-2023-0780](https://github.com/Live-Hack-CVE/CVE-2023-0780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0780">
+
+---
+## CVE-2023-0776 (2023-02-11T01:23:00)
+> Baicells Nova 436Q, Nova 430E, Nova 430I, and Neutrino 430 LTE TDD eNodeB devices with firmware through QRTB 2.12.7 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validated by a 3rd party analyst and has been confirmed exploitable special thanks to Rustam Amin for providing the steps to reproduce.
+- [Live-Hack-CVE/CVE-2023-0776](https://github.com/Live-Hack-CVE/CVE-2023-0776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0776">
 
 ---
 ## CVE-2023-0774 (2023-02-10T12:15:00)
