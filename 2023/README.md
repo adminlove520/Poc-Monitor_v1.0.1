@@ -11,6 +11,21 @@
 - [Live-Hack-CVE/CVE-2023-25727](https://github.com/Live-Hack-CVE/CVE-2023-25727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25727">
 
 ---
+## CVE-2023-25719 (2023-02-13T20:15:00)
+> ConnectWise Control before 22.9.10032 (formerly known as ScreenConnect) fails to validate user-supplied parameters such as the Bin/ConnectWiseControl.Client.exe h parameter. This results in reflected data and injection of malicious code into a downloaded executable. The executable can be used to execute malicious queries or as a denial-of-service vector.
+- [Live-Hack-CVE/CVE-2023-25719](https://github.com/Live-Hack-CVE/CVE-2023-25719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25719">
+
+---
+## CVE-2023-25718 (2023-02-13T20:15:00)
+> The cryptographic code signing process and controls on ConnectWise Control through 22.9.10032 (formerly known as ScreenConnect) are cryptographically flawed. An attacker can remotely generate or locally alter file contents and bypass code-signing controls. This can be used to execute code as a trusted application provider, escalate privileges, or execute arbitrary commands in the context of the user. The attacker tampers with a trusted, signed executable in transit.
+- [Live-Hack-CVE/CVE-2023-25718](https://github.com/Live-Hack-CVE/CVE-2023-25718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25718">
+
+---
+## CVE-2023-25717 (2023-02-13T20:15:00)
+> Ruckus Wireless Admin through 10.4 allows Remote Code Execution via an unauthenticated HTTP GET Request, as demonstrated by a /forms/doLogin?login_username=admin&password=password$(curl substring.
+- [Live-Hack-CVE/CVE-2023-25717](https://github.com/Live-Hack-CVE/CVE-2023-25717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25717">
+
+---
 ## CVE-2023-25396 (2023-02-08T19:15:00)
 > Privilege escalation in the MSI repair functionality in Caphyon Advanced Installer 20.0 and below allows attackers to access and manipulate system files.
 - [Live-Hack-CVE/CVE-2023-25396](https://github.com/Live-Hack-CVE/CVE-2023-25396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25396">
@@ -156,6 +171,11 @@
 ## CVE-2023-24622 (2023-01-30T05:15:00)
 > isInList in the safeurl-python package before 1.2 for Python has an insufficiently restrictive regular expression for external domains, leading to SSRF.
 - [Live-Hack-CVE/CVE-2023-24622](https://github.com/Live-Hack-CVE/CVE-2023-24622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24622">
+
+---
+## CVE-2023-24619 (2023-02-13T19:15:00)
+> Redpanda before 22.3.12 discloses cleartext AWS credentials. The import functionality in the rpk binary logs an AWS Access Key ID and Secret in cleartext to standard output, allowing a local user to view the key in the console, or in Kubernetes logs if stdout output is collected. The fixed versions are 22.3.12, 22.2.10, and 22.1.12.
+- [Live-Hack-CVE/CVE-2023-24619](https://github.com/Live-Hack-CVE/CVE-2023-24619)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24619">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24619">
 
 ---
 ## CVE-2023-24613 (2023-02-03T02:15:00)
@@ -397,6 +417,11 @@
 ## CVE-2023-24191 (2023-02-06T15:15:00)
 > Online Food Ordering System v2 was discovered to contain a cross-site scripting (XSS) vulnerability via the redirect parameter in signup.php.
 - [Live-Hack-CVE/CVE-2023-24191](https://github.com/Live-Hack-CVE/CVE-2023-24191)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24191">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24191">
+
+---
+## CVE-2023-24188 (2023-02-13T20:15:00)
+> ureport v2.2.9 was discovered to contain an arbitrary file deletion vulnerability.
+- [Live-Hack-CVE/CVE-2023-24188](https://github.com/Live-Hack-CVE/CVE-2023-24188)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24188">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24188">
 
 ---
 ## CVE-2023-24170 (2023-01-26T21:18:00)
