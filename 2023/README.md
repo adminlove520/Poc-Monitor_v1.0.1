@@ -1529,9 +1529,24 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-22369](https://github.com/Live-Hack-CVE/CVE-2023-22369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22369">
 
 ---
+## CVE-2023-22367 (2023-02-13T02:21:00)
+> Ichiran App for iOS versions prior to 3.1.0 and Ichiran App for Android versions prior to 3.1.0 improperly verify server certificates, which may allow a remote unauthenticated attacker to eavesdrop on an encrypted communication via a man-in-the-middle attack.
+- [Live-Hack-CVE/CVE-2023-22367](https://github.com/Live-Hack-CVE/CVE-2023-22367)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22367">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22367">
+
+---
 ## CVE-2023-22366 (2023-01-17T10:15:00)
 > CX-Motion-MCH v2.32 and earlier contains an access of uninitialized pointer vulnerability. Having a user to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2023-22366](https://github.com/Live-Hack-CVE/CVE-2023-22366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22366">
+
+---
+## CVE-2023-22362 (2023-02-13T02:21:00)
+> SUSHIRO App for Android outputs sensitive information to the log file, which may result in an attacker obtaining a credential information from the log file. Affected products/versions are as follows: SUSHIRO Ver.4.0.31, Thailand SUSHIRO Ver.1.0.0, Hong Kong SUSHIRO Ver.3.0.2, Singapore SUSHIRO Ver.2.0.0, and Taiwan SUSHIRO Ver.2.0.1
+- [Live-Hack-CVE/CVE-2023-22362](https://github.com/Live-Hack-CVE/CVE-2023-22362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22362">
+
+---
+## CVE-2023-22360 (2023-02-13T02:21:00)
+> Use-after free vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process even when an error was detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22360](https://github.com/Live-Hack-CVE/CVE-2023-22360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22360">
 
 ---
 ## CVE-2023-22358 (2023-02-01T18:15:00)
@@ -1542,6 +1557,36 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22357 (2023-01-17T10:15:00)
 > Active debug code exists in OMRON CP1L-EL20DR-D all versions, which may lead to a command that is not specified in FINS protocol being executed without authentication. A remote unauthenticated attacker may read/write in arbitrary area of the device memory, which may lead to overwriting the firmware, causing a denial-of-service (DoS) condition, and/or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2023-22357](https://github.com/Live-Hack-CVE/CVE-2023-22357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22357">
+
+---
+## CVE-2023-22353 (2023-02-13T02:21:00)
+> Out-of-bound read vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier because the end of data cannot be verified when processing control management information. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22353](https://github.com/Live-Hack-CVE/CVE-2023-22353)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22353">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22353">
+
+---
+## CVE-2023-22350 (2023-02-13T02:21:00)
+> Out-of-bound read vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier because the end of data cannot be verified when processing parts management information. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22350](https://github.com/Live-Hack-CVE/CVE-2023-22350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22350">
+
+---
+## CVE-2023-22349 (2023-02-13T02:21:00)
+> Out-of-bound read vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier because the end of data cannot be verified when processing screen management information. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22349](https://github.com/Live-Hack-CVE/CVE-2023-22349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22349">
+
+---
+## CVE-2023-22347 (2023-02-13T02:21:00)
+> Out-of-bound read vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier because the end of data cannot be verified when processing file structure information. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22347](https://github.com/Live-Hack-CVE/CVE-2023-22347)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22347">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22347">
+
+---
+## CVE-2023-22346 (2023-02-13T02:21:00)
+> Out-of-bound read vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier because the end of data cannot be verified when processing template information. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22346](https://github.com/Live-Hack-CVE/CVE-2023-22346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22346">
+
+---
+## CVE-2023-22345 (2023-02-13T02:21:00)
+> Out-of-bound write vulnerability exists in Screen Creator Advance 2 Ver.0.1.1.4 Build01 and earlier due to lack of error handling process when out of specification errors are detected. Having a user of Screen Creator Advance 2 to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-22345](https://github.com/Live-Hack-CVE/CVE-2023-22345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22345">
 
 ---
 ## CVE-2023-22341 (2023-02-01T18:15:00)
@@ -2859,6 +2904,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0808 (2023-02-13T12:15:00)
+> A vulnerability was found in Deye/Revolt/Bosswerk Inverter MW3_15U_5406_1.47/MW3_15U_5406_1.471. It has been rated as problematic. This issue affects some unknown processing of the component Access Point Setting Handler. The manipulation with the input 12345678 leads to use of hard-coded password. It is possible to launch the attack on the physical device. The exploit has been disclosed to the public and may be used. Upgrading to version MW3_16U_5406_1.53 is able to address this issue. It is recommended to upgrade the affected component. The identifier VDB-220769 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0808](https://github.com/Live-Hack-CVE/CVE-2023-0808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0808">
 
 ---
 ## CVE-2023-0794 (2023-02-12T14:15:00)

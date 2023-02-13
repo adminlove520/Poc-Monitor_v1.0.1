@@ -1026,6 +1026,11 @@
 - [Live-Hack-CVE/CVE-2020-3963](https://github.com/Live-Hack-CVE/CVE-2020-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3963">
 
 ---
+## CVE-2020-36661 (2023-02-12T21:15:00)
+> A vulnerability was found in Kong lua-multipart 0.5.8-1. It has been declared as problematic. This vulnerability affects the function is_header of the file src/multipart.lua. The manipulation leads to inefficient regular expression complexity. Upgrading to version 0.5.9-1 is able to address this issue. The name of the patch is d632e5df43a2928fd537784a99a79dec288bf01b. It is recommended to upgrade the affected component. VDB-220642 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2020-36661](https://github.com/Live-Hack-CVE/CVE-2020-36661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36661">
+
+---
 ## CVE-2020-36659 (2023-01-27T05:15:00)
 > In Apache::Session::Browseable before 1.3.6, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used. NOTE: this can, for example, be fixed in conjunction with the CVE-2020-16093 fix.
 - [Live-Hack-CVE/CVE-2020-36659](https://github.com/Live-Hack-CVE/CVE-2020-36659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36659">
