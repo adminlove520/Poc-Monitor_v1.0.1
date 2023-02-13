@@ -2622,6 +2622,7 @@
 - [5l1v3r1/CVE-2020-2553](https://github.com/5l1v3r1/CVE-2020-2553)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-2553">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-2553">
 - [jas502n/CVE-2020-2551](https://github.com/jas502n/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-2551">
 - [w3security/CVE-2020-2551](https://github.com/w3security/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/w3security/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/w3security/CVE-2020-2551">
+- [Live-Hack-CVE/CVE-2020-2551](https://github.com/Live-Hack-CVE/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2551">
 
 ---
 ## CVE-2020-25502 (2023-01-20T21:15:00)
