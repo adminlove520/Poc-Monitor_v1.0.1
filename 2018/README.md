@@ -1585,6 +1585,7 @@
 ## CVE-2018-1094 (2018-04-02T03:29:00)
 > The ext4_fill_super function in fs/ext4/super.c in the Linux kernel through 4.15.15 does not always initialize the crc32c checksum driver, which allows attackers to cause a denial of service (ext4_xattr_inode_hash NULL pointer dereference and system crash) via a crafted ext4 image.
 - [Live-Hack-CVE/CVE-2018-1094](https://github.com/Live-Hack-CVE/CVE-2018-1094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1094">
+- [0x00-0x00/CVE-2018-10949](https://github.com/0x00-0x00/CVE-2018-10949)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2018-10949">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2018-10949">
 
 ---
 ## CVE-2018-10933 (2018-10-17T12:29:00)
