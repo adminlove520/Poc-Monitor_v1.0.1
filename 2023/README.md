@@ -37,6 +37,11 @@
 - [Live-Hack-CVE/CVE-2023-25163](https://github.com/Live-Hack-CVE/CVE-2023-25163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25163">
 
 ---
+## CVE-2023-25159 (2023-02-13T17:15:00)
+> Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform, and Nextcloud Office is a document collaboration app for the same platform. Nextcloud Server 24.0.x prior to 24.0.8 and 25.0.x prior to 25.0.1, Nextcloud Enterprise Server 24.0.x prior to 24.0.8 and 25.0.x prior to 25.0.1, and Nextcloud Office (Richdocuments) App 6.x prior to 6.3.1 and 7.x prior to 7.0.1 have previews accessible without a watermark. The download should be hidden and the watermark should get applied. This issue is fixed in Nextcloud Server 25.0.1 and 24.0.8, Nextcloud Enterprise Server 25.0.1 and 24.0.8, and Nextcloud Office (Richdocuments) App 7.0.1 (for 25) and 6.3.1 (for 24). No known workarounds are available.
+- [Live-Hack-CVE/CVE-2023-25159](https://github.com/Live-Hack-CVE/CVE-2023-25159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25159">
+
+---
 ## CVE-2023-25152 (2023-02-08T19:15:00)
 > Wings is Pterodactyl's server control plane. Affected versions are subject to a vulnerability which can be used to create new files and directory structures on the host system that previously did not exist, potentially allowing attackers to change their resource allocations, promote their containers to privileged mode, or potentially add ssh authorized keys to allow the attacker access to a remote shell on the target machine. In order to use this exploit, an attacker must have an existing "server" allocated and controlled by the Wings Daemon. This vulnerability has been resolved in version `v1.11.3` of the Wings Daemon, and has been back-ported to the 1.7 release series in `v1.7.3`. Anyone running `v1.11.x` should upgrade to `v1.11.3` and anyone running `v1.7.x` should upgrade to `v1.7.3`. There are no known workarounds for this vulnerability. ### Workarounds None at this time.
 - [Live-Hack-CVE/CVE-2023-25152](https://github.com/Live-Hack-CVE/CVE-2023-25152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25152">
@@ -121,6 +126,11 @@
 ## CVE-2023-24806 (2023-02-04T00:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This CVE has been rejected as it was incorrectly assigned. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2023-24806](https://github.com/Live-Hack-CVE/CVE-2023-24806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24806">
+
+---
+## CVE-2023-24804 (2023-02-13T17:15:00)
+> The ownCloud Android app allows ownCloud users to access, share, and edit files and folders. Prior to version 3.0, the app has an incomplete fix for a path traversal issue and is vulnerable to two bypass methods. The bypasses may lead to information disclosure when uploading the app’s internal files, and to arbitrary file write when uploading plain text files (although limited by the .txt extension). Version 3.0 fixes the reported bypasses.
+- [Live-Hack-CVE/CVE-2023-24804](https://github.com/Live-Hack-CVE/CVE-2023-24804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24804">
 
 ---
 ## CVE-2023-24689 (2023-02-09T20:15:00)
@@ -597,6 +607,11 @@
 - [Live-Hack-CVE/CVE-2023-23969](https://github.com/Live-Hack-CVE/CVE-2023-23969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23969">
 
 ---
+## CVE-2023-23948 (2023-02-13T17:15:00)
+> The ownCloud Android app allows ownCloud users to access, share, and edit files and folders. Version 2.21.1 of the ownCloud Android app is vulnerable to SQL injection in `FileContentProvider.kt`. This issue can lead to information disclosure. Two databases, `filelist` and `owncloud_database`, are affected. In version 3.0, the `filelist` database was deprecated. However, injections affecting `owncloud_database` remain relevant as of version 3.0.
+- [Live-Hack-CVE/CVE-2023-23948](https://github.com/Live-Hack-CVE/CVE-2023-23948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23948">
+
+---
 ## CVE-2023-23937 (2023-02-03T20:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. The upload functionality for updating user profile does not properly validate the file content-type, allowing any authenticated user to bypass this security check by adding a valid signature (p.e. GIF89) and sending any invalid content-type. This could allow an authenticated attacker to upload HTML files with JS content that will be executed in the context of the domain. This issue has been patched in version 10.5.16.
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
@@ -756,6 +771,16 @@
 ## CVE-2023-23559 (2023-01-13T01:15:00)
 > In rndis_query_oid in drivers/net/wireless/rndis_wlan.c in the Linux kernel through 6.1.5, there is an integer overflow in an addition.
 - [Live-Hack-CVE/CVE-2023-23559](https://github.com/Live-Hack-CVE/CVE-2023-23559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23559">
+
+---
+## CVE-2023-23553 (2023-02-13T18:15:00)
+> Control By Web X-400 devices are vulnerable to a cross-site scripting attack, which could result in private and session information being transferred to the attacker.
+- [Live-Hack-CVE/CVE-2023-23553](https://github.com/Live-Hack-CVE/CVE-2023-23553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23553">
+
+---
+## CVE-2023-23551 (2023-02-13T18:15:00)
+> Control By Web X-600M devices run Lua scripts and are vulnerable to code injection, which could allow an attacker to remotely execute arbitrary code.
+- [Live-Hack-CVE/CVE-2023-23551](https://github.com/Live-Hack-CVE/CVE-2023-23551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23551">
 
 ---
 ## CVE-2023-23492 (2023-01-20T19:15:00)
@@ -1016,6 +1041,11 @@
 ## CVE-2023-22855 ()
 > 
 - [patrickhener/CVE-2023-22855](https://github.com/patrickhener/CVE-2023-22855)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhener/CVE-2023-22855">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhener/CVE-2023-22855">
+
+---
+## CVE-2023-22854 (2023-02-13T18:15:00)
+> The ccmweb component of Mitel MiContact Center Business server 9.2.2.0 through 9.4.1.0 could allow an unauthenticated attacker to download arbitrary files, due to insufficient restriction of URL parameters. A successful exploit could allow access to sensitive information.
+- [Live-Hack-CVE/CVE-2023-22854](https://github.com/Live-Hack-CVE/CVE-2023-22854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22854">
 
 ---
 ## CVE-2023-22853 (2023-01-14T01:15:00)
@@ -2909,6 +2939,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0810 (2023-02-13T17:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.11.
+- [Live-Hack-CVE/CVE-2023-0810](https://github.com/Live-Hack-CVE/CVE-2023-0810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0810">
 
 ---
 ## CVE-2023-0808 (2023-02-13T12:15:00)

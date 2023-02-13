@@ -190,6 +190,16 @@
 - [Live-Hack-CVE/CVE-2015-6764](https://github.com/Live-Hack-CVE/CVE-2015-6764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6764">
 
 ---
+## CVE-2015-6051 (2015-10-14T01:59:00)
+> Microsoft Internet Explorer 10 and 11 allows remote attackers to gain privileges via a crafted web site, as demonstrated by a transition from Low Integrity to Medium Integrity, aka "Internet Explorer Elevation of Privilege Vulnerability."
+- [Live-Hack-CVE/CVE-2015-6051](https://github.com/Live-Hack-CVE/CVE-2015-6051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6051">
+
+---
+## CVE-2015-6048 (2015-10-14T01:59:00)
+> Microsoft Internet Explorer 7 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka "Internet Explorer Memory Corruption Vulnerability," a different vulnerability than CVE-2015-6049.
+- [Live-Hack-CVE/CVE-2015-6048](https://github.com/Live-Hack-CVE/CVE-2015-6048)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6048">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6048">
+
+---
 ## CVE-2015-6042 (2015-10-14T01:59:00)
 > Use-after-free vulnerability in the CWindow object implementation in Microsoft Internet Explorer 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka "Internet Explorer Memory Corruption Vulnerability."
 - [Live-Hack-CVE/CVE-2015-6042](https://github.com/Live-Hack-CVE/CVE-2015-6042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6042">

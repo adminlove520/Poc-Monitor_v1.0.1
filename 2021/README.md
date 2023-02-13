@@ -3598,6 +3598,31 @@
 - [Live-Hack-CVE/CVE-2021-37404](https://github.com/Live-Hack-CVE/CVE-2021-37404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37404">
 
 ---
+## CVE-2021-37379 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Sphere all firmware versions allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37379](https://github.com/Live-Hack-CVE/CVE-2021-37379)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37379">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37379">
+
+---
+## CVE-2021-37378 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Cube and Cube Pro firmware version 7.3.x and earlier allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37378](https://github.com/Live-Hack-CVE/CVE-2021-37378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37378">
+
+---
+## CVE-2021-37377 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Brik firmware version 7.2.x and earlier allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37377](https://github.com/Live-Hack-CVE/CVE-2021-37377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37377">
+
+---
+## CVE-2021-37376 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Bond, Bond 2 and Bond Pro firmware version 7.3.x and earlier allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37376](https://github.com/Live-Hack-CVE/CVE-2021-37376)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37376">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37376">
+
+---
+## CVE-2021-37375 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek VidiU / VidiU Mini firmware version 3.0.8 and earlier allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37375](https://github.com/Live-Hack-CVE/CVE-2021-37375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37375">
+
+---
 ## CVE-2021-37374 (2023-02-03T18:15:00)
 > ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Clip all firmware versions allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
 - [Live-Hack-CVE/CVE-2021-37374](https://github.com/Live-Hack-CVE/CVE-2021-37374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37374">
