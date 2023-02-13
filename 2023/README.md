@@ -6,6 +6,11 @@
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
+## CVE-2023-25727 (2023-02-13T06:15:00)
+> In phpMyAdmin before 4.9.11 and 5.x before 5.2.1, an authenticated user can trigger XSS by uploading a crafted .sql file through the drag-and-drop interface.
+- [Live-Hack-CVE/CVE-2023-25727](https://github.com/Live-Hack-CVE/CVE-2023-25727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25727">
+
+---
 ## CVE-2023-25396 (2023-02-08T19:15:00)
 > Privilege escalation in the MSI repair functionality in Caphyon Advanced Installer 20.0 and below allows attackers to access and manipulate system files.
 - [Live-Hack-CVE/CVE-2023-25396](https://github.com/Live-Hack-CVE/CVE-2023-25396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25396">
@@ -162,6 +167,11 @@
 ## CVE-2023-24573 (2023-02-10T13:15:00)
 > Dell Command | Monitor versions prior to 10.9 contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion.
 - [Live-Hack-CVE/CVE-2023-24573](https://github.com/Live-Hack-CVE/CVE-2023-24573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24573">
+
+---
+## CVE-2023-24572 (2023-02-13T08:15:00)
+> Dell Command | Integration Suite for System Center, versions before 6.4.0 contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion.
+- [Live-Hack-CVE/CVE-2023-24572](https://github.com/Live-Hack-CVE/CVE-2023-24572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24572">
 
 ---
 ## CVE-2023-24569 (2023-02-10T13:15:00)
@@ -626,6 +636,11 @@
 ## CVE-2023-23698 (2023-02-10T13:15:00)
 > Dell Command | Update, Dell Update, and Alienware Update versions before 4.6.0 and 4.7.1 contain Insecure Operation on Windows Junction in the installer component. A local malicious user may potentially exploit this vulnerability leading to arbitrary file delete.
 - [Live-Hack-CVE/CVE-2023-23698](https://github.com/Live-Hack-CVE/CVE-2023-23698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23698">
+
+---
+## CVE-2023-23697 (2023-02-13T08:15:00)
+> Dell Command | Intel vPro Out of Band, versions before 4.4.0, contain an arbitrary folder delete vulnerability during uninstallation. A locally authenticated malicious user may potentially exploit this vulnerability leading to arbitrary folder deletion.
+- [Live-Hack-CVE/CVE-2023-23697](https://github.com/Live-Hack-CVE/CVE-2023-23697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23697">
 
 ---
 ## CVE-2023-23696 (2023-02-07T10:15:00)
