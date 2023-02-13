@@ -7117,6 +7117,11 @@
 - [Live-Hack-CVE/CVE-2021-23210](https://github.com/Live-Hack-CVE/CVE-2021-23210)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23210">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23210">
 
 ---
+## CVE-2021-23209 (2022-03-18T18:15:00)
+> Multiple Authenticated (admin user role) Persistent Cross-Site Scripting (XSS) vulnerabilities discovered in AMP for WP – Accelerated Mobile Pages WordPress plugin (versions <= 1.0.77.32).
+- [Live-Hack-CVE/CVE-2021-23209](https://github.com/Live-Hack-CVE/CVE-2021-23209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23209">
+
+---
 ## CVE-2021-23207 (2022-01-21T19:15:00)
 > An attacker with physical access to the host can extract the secrets from the registry and create valid JWT tokens for the Fresenius Kabi Vigilant MasterMed version 2.0.1.3 application and impersonate arbitrary users. An attacker could manipulate RabbitMQ queues and messages by impersonating users.
 - [Live-Hack-CVE/CVE-2021-23207](https://github.com/Live-Hack-CVE/CVE-2021-23207)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23207">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23207">
@@ -7145,6 +7150,11 @@
 ## CVE-2021-23177 (2022-08-23T16:15:00)
 > An improper link resolution flaw while extracting an archive can lead to changing the access control list (ACL) of the target of the link. An attacker may provide a malicious archive to a victim user, who would trigger this flaw when trying to extract the archive. A local attacker may use this flaw to change the ACL of a file on the system and gain more privileges.
 - [Live-Hack-CVE/CVE-2021-23177](https://github.com/Live-Hack-CVE/CVE-2021-23177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23177">
+
+---
+## CVE-2021-23174 (2022-01-28T20:15:00)
+> Authenticated (admin+) Persistent Cross-Site Scripting (XSS) vulnerability discovered in Download Monitor WordPress plugin (versions <= 4.4.6) Vulnerable parameters: &post_title, &downloadable_file_version[0].
+- [Live-Hack-CVE/CVE-2021-23174](https://github.com/Live-Hack-CVE/CVE-2021-23174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23174">
 
 ---
 ## CVE-2021-23172 (2022-08-25T20:15:00)
