@@ -3597,6 +3597,11 @@
 - [Live-Hack-CVE/CVE-2021-37404](https://github.com/Live-Hack-CVE/CVE-2021-37404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37404">
 
 ---
+## CVE-2021-37374 (2023-02-03T18:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross Site Scripting (XSS) vulnerability in Teradek Clip all firmware versions allows remote attackers to run arbitrary code via the Friendly Name field in System Information Settings. NOTE: Vedor states the product has reached End of Life and will not be receiving any firmware updates to address this issue.
+- [Live-Hack-CVE/CVE-2021-37374](https://github.com/Live-Hack-CVE/CVE-2021-37374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37374">
+
+---
 ## CVE-2021-3733 (2022-03-10T17:42:00)
 > There's a flaw in urllib's AbstractBasicAuthHandler class. An attacker who controls a malicious HTTP server that an HTTP client (such as web browser) connects to, could trigger a Regular Expression Denial of Service (ReDOS) during an authentication request with a specially crafted payload that is sent by the server to the client. The greatest threat that this flaw poses is to application availability.
 - [Live-Hack-CVE/CVE-2021-3733](https://github.com/Live-Hack-CVE/CVE-2021-3733)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3733">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3733">
