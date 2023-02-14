@@ -102,6 +102,16 @@
 - [Live-Hack-CVE/CVE-2023-25152](https://github.com/Live-Hack-CVE/CVE-2023-25152)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25152">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25152">
 
 ---
+## CVE-2023-25149 (2023-02-14T14:15:00)
+> TimescaleDB, an open-source time-series SQL database, has a privilege escalation vulnerability in versions 2.8.0 through 2.9.2. During installation, TimescaleDB creates a telemetry job that is runs as the installation user. The queries run as part of the telemetry data collection were not run with a locked down `search_path`, allowing malicious users to create functions that would be executed by the telemetry job, leading to privilege escalation. In order to be able to take advantage of this vulnerability, a user would need to be able to create objects in a database and then get a superuser to install TimescaleDB into their database. When TimescaleDB is installed as trusted extension, non-superusers can install the extension without help from a superuser. Version 2.9.3 fixes this issue. As a mitigation, the `search_path` of the user running the telemetry job can be locked down to not include schemas writable by other users. The vulnerability is not exploitable on instances in Timescale Cloud and Managed Service for TimescaleDB due to additional security provisions in place on those platforms.
+- [Live-Hack-CVE/CVE-2023-25149](https://github.com/Live-Hack-CVE/CVE-2023-25149)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25149">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25149">
+
+---
+## CVE-2023-25141 (2023-02-14T13:15:00)
+> Apache Sling JCR Base < 3.1.12 has a critical injection vulnerability when running on old JDK versions (JDK 1.8.191 or earlier) through utility functions in RepositoryAccessor. The functions getRepository and getRepositoryFromURL allow an application to access data stored in a remote location via JDNI and RMI. Users of Apache Sling JCR Base are recommended to upgrade to Apache Sling JCR Base 3.1.12 or later, or to run on a more recent JDK.
+- [Live-Hack-CVE/CVE-2023-25141](https://github.com/Live-Hack-CVE/CVE-2023-25141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25141">
+
+---
 ## CVE-2023-25139 (2023-02-03T06:15:00)
 > sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buffer is allocated the exact size required to represent that number as a string. For example, 1,234,567 (with padding to 13) overflows by two bytes.
 - [Live-Hack-CVE/CVE-2023-25139](https://github.com/Live-Hack-CVE/CVE-2023-25139)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25139">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25139">
@@ -274,6 +284,51 @@
 - [Live-Hack-CVE/CVE-2023-24569](https://github.com/Live-Hack-CVE/CVE-2023-24569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24569">
 
 ---
+## CVE-2023-24557 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24557](https://github.com/Live-Hack-CVE/CVE-2023-24557)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24557">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24557">
+
+---
+## CVE-2023-24556 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24556](https://github.com/Live-Hack-CVE/CVE-2023-24556)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24556">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24556">
+
+---
+## CVE-2023-24555 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24555](https://github.com/Live-Hack-CVE/CVE-2023-24555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24555">
+
+---
+## CVE-2023-24554 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24554](https://github.com/Live-Hack-CVE/CVE-2023-24554)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24554">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24554">
+
+---
+## CVE-2023-24553 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24553](https://github.com/Live-Hack-CVE/CVE-2023-24553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24553">
+
+---
+## CVE-2023-24552 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected application contains an out of bounds read past the end of an allocated buffer while parsing a specially crafted PAR file. This could allow an attacker to to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24552](https://github.com/Live-Hack-CVE/CVE-2023-24552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24552">
+
+---
+## CVE-2023-24551 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected application is vulnerable to heap-based buffer underflow while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24551](https://github.com/Live-Hack-CVE/CVE-2023-24551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24551">
+
+---
+## CVE-2023-24550 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected application is vulnerable to heap-based buffer while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24550](https://github.com/Live-Hack-CVE/CVE-2023-24550)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24550">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24550">
+
+---
+## CVE-2023-24549 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Solid Edge SE2022 (All versions < V2210Update12), Solid Edge SE2023 (All versions < V2023Update2). The affected application is vulnerable to stack-based buffer while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2023-24549](https://github.com/Live-Hack-CVE/CVE-2023-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24549">
+
+---
 ## CVE-2023-24530 (2023-02-14T04:15:00)
 > SAP BusinessObjects Business Intelligence Platform (CMC) - versions 420, 430, allows an authenticated admin user to upload malicious code that can be executed by the application over the network. On successful exploitation, attacker can perform operations that may completely compromise the application causing high impact on confidentiality, integrity and availability of the application.
 - [Live-Hack-CVE/CVE-2023-24530](https://github.com/Live-Hack-CVE/CVE-2023-24530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24530">
@@ -332,6 +387,11 @@
 ## CVE-2023-24493 (2023-01-26T21:18:00)
 > A formula injection vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated attacker could leverage the reporting system to export reports containing formulas, which would then require a victim to approve and execute on a host.
 - [Live-Hack-CVE/CVE-2023-24493](https://github.com/Live-Hack-CVE/CVE-2023-24493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24493">
+
+---
+## CVE-2023-24482 (2023-02-14T11:15:00)
+> A vulnerability has been identified in COMOS V10.2 (All versions), COMOS V10.3.3.1 (All versions < V10.3.3.1.45), COMOS V10.3.3.2 (All versions < V10.3.3.2.33), COMOS V10.3.3.3 (All versions < V10.3.3.3.9), COMOS V10.3.3.4 (All versions < V10.3.3.4.6), COMOS V10.4.0.0 (All versions < V10.4.0.0.31), COMOS V10.4.1.0 (All versions < V10.4.1.0.32), COMOS V10.4.2.0 (All versions < V10.4.2.0.25). Cache validation service in COMOS is vulnerable to Structured Exception Handler (SEH) based buffer overflow. This could allow an attacker to execute arbitrary code on the target system or cause denial of service condition.
+- [Live-Hack-CVE/CVE-2023-24482](https://github.com/Live-Hack-CVE/CVE-2023-24482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24482">
 
 ---
 ## CVE-2023-24459 (2023-01-26T21:18:00)
@@ -833,6 +893,11 @@
 ## CVE-2023-23846 (2023-02-01T03:15:00)
 > Due to insufficient length validation in the Open5GS GTP library versions prior to versions 2.4.13 and 2.5.7, when parsing extension headers in GPRS tunneling protocol (GPTv1-U) messages, a protocol payload with any extension header length set to zero causes an infinite loop. The affected process becomes immediately unresponsive, resulting in denial of service and excessive resource consumption. CVSS3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P/RL:O/RC:C
 - [Live-Hack-CVE/CVE-2023-23846](https://github.com/Live-Hack-CVE/CVE-2023-23846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23846">
+
+---
+## CVE-2023-23835 (2023-02-14T11:15:00)
+> A vulnerability has been identified in Mendix Applications using Mendix 7 (All versions < V7.23.34), Mendix Applications using Mendix 8 (All versions < V8.18.23), Mendix Applications using Mendix 9 (All versions < V9.22.0), Mendix Applications using Mendix 9 (V9.12) (All versions < V9.12.10), Mendix Applications using Mendix 9 (V9.18) (All versions < V9.18.4), Mendix Applications using Mendix 9 (V9.6) (All versions < V9.6.15). Some of the Mendix runtime API’s allow attackers to bypass XPath constraints and retrieve information using XPath queries that trigger errors.
+- [Live-Hack-CVE/CVE-2023-23835](https://github.com/Live-Hack-CVE/CVE-2023-23835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23835">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
@@ -3148,6 +3213,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0827 (2023-02-14T13:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 1.5.17.
+- [Live-Hack-CVE/CVE-2023-0827](https://github.com/Live-Hack-CVE/CVE-2023-0827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0827">
+
+---
 ## CVE-2023-0819 (2023-02-13T22:15:00)
 > Heap-based Buffer Overflow in GitHub repository gpac/gpac prior to v2.3.0-DEV.
 - [Live-Hack-CVE/CVE-2023-0819](https://github.com/Live-Hack-CVE/CVE-2023-0819)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0819">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0819">
@@ -4276,6 +4346,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0237](https://github.com/Live-Hack-CVE/CVE-2023-0237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0237">
 
 ---
+## CVE-2023-0236 (2023-02-06T20:15:00)
+> The Tutor LMS WordPress plugin before 2.0.10 does not sanitise and escape the reset_key and user_id parameters before outputting then back in attributes, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin
+- [Live-Hack-CVE/CVE-2023-0236](https://github.com/Live-Hack-CVE/CVE-2023-0236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0236">
+
+---
 ## CVE-2023-0235 (2023-01-13T05:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
 - [Live-Hack-CVE/CVE-2023-0235](https://github.com/Live-Hack-CVE/CVE-2023-0235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0235">
@@ -4309,6 +4384,31 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0179 ()
 > 
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
+
+---
+## CVE-2023-0178 (2023-02-06T20:15:00)
+> The Annual Archive WordPress plugin before 1.6.0 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0178](https://github.com/Live-Hack-CVE/CVE-2023-0178)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0178">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0178">
+
+---
+## CVE-2023-0176 (2023-02-06T20:15:00)
+> The Giveaways and Contests by RafflePress WordPress plugin before 1.11.3 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0176](https://github.com/Live-Hack-CVE/CVE-2023-0176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0176">
+
+---
+## CVE-2023-0174 (2023-02-06T20:15:00)
+> The WP VR WordPress plugin before 8.2.7 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0174](https://github.com/Live-Hack-CVE/CVE-2023-0174)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0174">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0174">
+
+---
+## CVE-2023-0173 (2023-02-06T20:15:00)
+> The Drag & Drop Sales Funnel Builder for WordPress plugin before 2.6.9 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0173](https://github.com/Live-Hack-CVE/CVE-2023-0173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0173">
+
+---
+## CVE-2023-0171 (2023-02-06T20:15:00)
+> The jQuery T(-) Countdown Widget WordPress plugin before 2.3.24 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0171](https://github.com/Live-Hack-CVE/CVE-2023-0171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0171">
 
 ---
 ## CVE-2023-0170 (2023-02-06T20:15:00)
