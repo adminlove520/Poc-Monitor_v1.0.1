@@ -123,6 +123,11 @@
 - [Live-Hack-CVE/CVE-2023-25066](https://github.com/Live-Hack-CVE/CVE-2023-25066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25066">
 
 ---
+## CVE-2023-25065 (2023-02-14T12:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in ShapedPlugin WP Tabs – Responsive Tabs Plugin for WordPress plugin <= 2.1.14 versions.
+- [Live-Hack-CVE/CVE-2023-25065](https://github.com/Live-Hack-CVE/CVE-2023-25065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25065">
+
+---
 ## CVE-2023-25015 (2023-02-02T04:15:00)
 > Clockwork Web before 0.1.2, when Rails before 5.2 is used, allows CSRF.
 - [Live-Hack-CVE/CVE-2023-25015](https://github.com/Live-Hack-CVE/CVE-2023-25015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25015">
@@ -422,6 +427,16 @@
 ## CVE-2023-24422 (2023-01-26T21:18:00)
 > A sandbox bypass vulnerability involving map constructors in Jenkins Script Security Plugin 1228.vd93135a_2fb_25 and earlier allows attackers with permission to define and run sandboxed scripts, including Pipelines, to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
 - [Live-Hack-CVE/CVE-2023-24422](https://github.com/Live-Hack-CVE/CVE-2023-24422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24422">
+
+---
+## CVE-2023-24382 (2023-02-14T12:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Photon WP Material Design Icons for Page Builders plugin <= 1.4.2 versions.
+- [Live-Hack-CVE/CVE-2023-24382](https://github.com/Live-Hack-CVE/CVE-2023-24382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24382">
+
+---
+## CVE-2023-24377 (2023-02-14T12:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in Ecwid Ecommerce Ecwid Ecommerce Shopping Cart plugin <= 6.11.3 versions.
+- [Live-Hack-CVE/CVE-2023-24377](https://github.com/Live-Hack-CVE/CVE-2023-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24377">
 
 ---
 ## CVE-2023-24323 (2023-02-09T20:15:00)
