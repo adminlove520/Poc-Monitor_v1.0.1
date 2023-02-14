@@ -26,6 +26,11 @@
 - [Live-Hack-CVE/CVE-2023-25717](https://github.com/Live-Hack-CVE/CVE-2023-25717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25717">
 
 ---
+## CVE-2023-25614 (2023-02-14T04:15:00)
+> SAP NetWeaver AS ABAP (BSP Framework) application - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allow an unauthenticated attacker to inject the code that can be executed by the application over the network. On successful exploitation it can gain access to the sensitive information which leads to a limited impact on the confidentiality and the integrity of the application.
+- [Live-Hack-CVE/CVE-2023-25614](https://github.com/Live-Hack-CVE/CVE-2023-25614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25614">
+
+---
 ## CVE-2023-25572 (2023-02-13T21:15:00)
 > react-admin is a frontend framework for building browser applications on top of REST/GraphQL APIs. react-admin prior to versions 3.19.12 and 4.7.6, along with ra-ui-materialui prior to 3.19.12 and 4.7.6, are vulnerable to cross-site scripting. All React applications built with react-admin and using the `<RichTextField>` are affected. `<RichTextField>` outputs the field value using `dangerouslySetInnerHTML` without client-side sanitization. If the data isn't sanitized server-side, this opens a possible cross-site scripting (XSS) attack. Versions 3.19.12 and 4.7.6 now use `DOMPurify` to escape the HTML before outputting it with React and `dangerouslySetInnerHTML`. Users who already sanitize HTML data server-side do not need to upgrade. As a workaround, users may replace the `<RichTextField>` by a custom field doing sanitization by hand.
 - [Live-Hack-CVE/CVE-2023-25572](https://github.com/Live-Hack-CVE/CVE-2023-25572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25572">
@@ -252,6 +257,46 @@
 ## CVE-2023-24569 (2023-02-10T13:15:00)
 > Dell Alienware Command Center versions 5.5.37.0 and prior contain an Improper Input validation vulnerability. A local authenticated malicious user could potentially send malicious input to a named pipe in order to elevate privileges on the system.
 - [Live-Hack-CVE/CVE-2023-24569](https://github.com/Live-Hack-CVE/CVE-2023-24569)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24569">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24569">
+
+---
+## CVE-2023-24530 (2023-02-14T04:15:00)
+> SAP BusinessObjects Business Intelligence Platform (CMC) - versions 420, 430, allows an authenticated admin user to upload malicious code that can be executed by the application over the network. On successful exploitation, attacker can perform operations that may completely compromise the application causing high impact on confidentiality, integrity and availability of the application.
+- [Live-Hack-CVE/CVE-2023-24530](https://github.com/Live-Hack-CVE/CVE-2023-24530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24530">
+
+---
+## CVE-2023-24529 (2023-02-14T04:15:00)
+> Due to lack of proper input validation, BSP application (CRM_BSP_FRAME) - versions 700, 701, 702, 731, 740, 750, 751, 752, 75C, 75D, 75E, 75F, 75G, 75H, allow malicious inputs from untrusted sources, which can be leveraged by an attacker to execute a Reflected Cross-Site Scripting (XSS) attack. As a result, an attacker may be able to hijack a user session, read and modify some sensitive information.
+- [Live-Hack-CVE/CVE-2023-24529](https://github.com/Live-Hack-CVE/CVE-2023-24529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24529">
+
+---
+## CVE-2023-24528 (2023-02-14T04:15:00)
+> SAP Fiori apps for Travel Management in SAP ERP (My Travel Requests) - version 600, allows an authenticated attacker to exploit a certain misconfigured application endpoint to view sensitive data. This endpoint is normally exposed over the network and successful exploitation can lead to exposure of data like travel documents.
+- [Live-Hack-CVE/CVE-2023-24528](https://github.com/Live-Hack-CVE/CVE-2023-24528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24528">
+
+---
+## CVE-2023-24525 (2023-02-14T04:15:00)
+> SAP CRM WebClient UI - versions WEBCUIF 748, 800, 801, S4FND 102, 103, does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability. On successful exploitation an authenticated attacker can cause limited impact on confidentiality of the application.
+- [Live-Hack-CVE/CVE-2023-24525](https://github.com/Live-Hack-CVE/CVE-2023-24525)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24525">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24525">
+
+---
+## CVE-2023-24524 (2023-02-14T04:15:00)
+> SAP S/4 HANA Map Treasury Correspondence Format Data does not perform necessary authorization check for an authenticated user, resulting in escalation of privileges. This could allow an attacker to delete the data with a high impact to availability.
+- [Live-Hack-CVE/CVE-2023-24524](https://github.com/Live-Hack-CVE/CVE-2023-24524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24524">
+
+---
+## CVE-2023-24523 (2023-02-14T04:15:00)
+> An attacker authenticated as a non-admin user with local access to a server port assigned to the SAP Host Agent (Start Service) - versions 7.21, 7.22, can submit a crafted ConfigureOutsideDiscovery request with an operating system command which will be executed with administrator privileges. The OS command can read or modify any user or system data and can make the system unavailable.
+- [Live-Hack-CVE/CVE-2023-24523](https://github.com/Live-Hack-CVE/CVE-2023-24523)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24523">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24523">
+
+---
+## CVE-2023-24522 (2023-02-14T04:15:00)
+> Due to insufficient input sanitization, SAP NetWeaver AS ABAP (Business Server Pages) - versions 700, 701, 702, 731, 740, allows an unauthenticated user to alter the current session of the user by injecting the malicious code over the network and gain access to the unintended data. This may lead to a limited impact on the confidentiality and the integrity of the application.
+- [Live-Hack-CVE/CVE-2023-24522](https://github.com/Live-Hack-CVE/CVE-2023-24522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24522">
+
+---
+## CVE-2023-24521 (2023-02-14T04:15:00)
+> Due to insufficient input sanitization, SAP NetWeaver AS ABAP (BSP Framework) - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allows an unauthenticated user to alter the current session of the user by injecting the malicious code over the network and gain access to the unintended data. This may lead to a limited impact on the confidentiality and the integrity of the application.
+- [Live-Hack-CVE/CVE-2023-24521](https://github.com/Live-Hack-CVE/CVE-2023-24521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24521">
 
 ---
 ## CVE-2023-24508 (2023-01-26T21:18:00)
@@ -708,6 +753,51 @@
 ## CVE-2023-23912 (2023-02-09T20:15:00)
 > A vulnerability, found in EdgeRouters Version 2.0.9-hotfix.5 and earlier and UniFi Security Gateways (USG) Version 4.4.56 and earlier with their DHCPv6 prefix delegation set to dhcpv6-stateless or dhcpv6-stateful, allows a malicious actor directly connected to the WAN interface of an affected device to create a remote code execution vulnerability.
 - [Live-Hack-CVE/CVE-2023-23912](https://github.com/Live-Hack-CVE/CVE-2023-23912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23912">
+
+---
+## CVE-2023-23860 (2023-02-14T04:15:00)
+> SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to craft a link, which when clicked by an unsuspecting user can be used to redirect a user to a malicious site which could read or modify some sensitive information or expose the victim to a phishing attack.
+- [Live-Hack-CVE/CVE-2023-23860](https://github.com/Live-Hack-CVE/CVE-2023-23860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23860">
+
+---
+## CVE-2023-23859 (2023-02-14T04:15:00)
+> SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to craft a malicious link, which when clicked by an unsuspecting user, can be used to read or modify some sensitive information.
+- [Live-Hack-CVE/CVE-2023-23859](https://github.com/Live-Hack-CVE/CVE-2023-23859)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23859">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23859">
+
+---
+## CVE-2023-23858 (2023-02-14T04:15:00)
+> Due to insufficient input validation, SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to send a crafted URL to a user, and by clicking the URL, the tricked user accesses SAP and might be directed with the response to somewhere out-side SAP and enter sensitive data. This could cause a limited impact on confidentiality and integrity of the application.
+- [Live-Hack-CVE/CVE-2023-23858](https://github.com/Live-Hack-CVE/CVE-2023-23858)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23858">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23858">
+
+---
+## CVE-2023-23856 (2023-02-14T04:15:00)
+> In SAP BusinessObjects Business Intelligence (Web Intelligence user interface) - version 430, some calls return json with wrong content type in the header of the response. As a result, a custom application that calls directly the jsp of Web Intelligence DHTML may be vulnerable to XSS attacks. On successful exploitation an attacker can cause a low impact on integrity of the application.
+- [Live-Hack-CVE/CVE-2023-23856](https://github.com/Live-Hack-CVE/CVE-2023-23856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23856">
+
+---
+## CVE-2023-23855 (2023-02-14T04:15:00)
+> SAP Solution Manager - version 720, allows an authenticated attacker to redirect users to a malicious site due to insufficient URL validation. A successful attack could lead an attacker to read or modify the information or expose the user to a phishing attack. As a result, it has a low impact to confidentiality, integrity and availability.
+- [Live-Hack-CVE/CVE-2023-23855](https://github.com/Live-Hack-CVE/CVE-2023-23855)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23855">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23855">
+
+---
+## CVE-2023-23854 (2023-02-14T04:15:00)
+> SAP NetWeaver Application Server for ABAP and ABAP Platform - versions 700, 701, 702, 731, 740, 750, 751, 752, does not perform necessary authorization checks for an authenticated user, resulting in escalation of privileges.
+- [Live-Hack-CVE/CVE-2023-23854](https://github.com/Live-Hack-CVE/CVE-2023-23854)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23854">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23854">
+
+---
+## CVE-2023-23853 (2023-02-14T04:15:00)
+> An unauthenticated attacker in AP NetWeaver Application Server for ABAP and ABAP Platform - versions 700, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, can craft a link which when clicked by an unsuspecting user can be used to redirect a user to a malicious site which could read or modify some sensitive information or expose the victim to a phishing attack. Vulnerability has no direct impact on availability.
+- [Live-Hack-CVE/CVE-2023-23853](https://github.com/Live-Hack-CVE/CVE-2023-23853)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23853">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23853">
+
+---
+## CVE-2023-23852 (2023-02-14T04:15:00)
+> SAP Solution Manager (System Monitoring) - version 720, does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability.
+- [Live-Hack-CVE/CVE-2023-23852](https://github.com/Live-Hack-CVE/CVE-2023-23852)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23852">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23852">
+
+---
+## CVE-2023-23851 (2023-02-14T04:15:00)
+> SAP Business Planning and Consolidation - versions 200, 300, allows an attacker with business authorization to upload any files (including web pages) without the proper file format validation. If other users visit the uploaded malicious web page, the attacker may perform actions on behalf of the users without their consent impacting the confidentiality and integrity of the system.
+- [Live-Hack-CVE/CVE-2023-23851](https://github.com/Live-Hack-CVE/CVE-2023-23851)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23851">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23851">
 
 ---
 ## CVE-2023-23849 (2023-02-06T23:15:00)
@@ -1631,6 +1721,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-22389](https://github.com/Live-Hack-CVE/CVE-2023-22389)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22389">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22389">
 
 ---
+## CVE-2023-22375 (2023-02-14T03:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Cross-site request forgery (CSRF) vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a remote unauthenticated attacker to hijack the authentication and conduct arbitrary operations by having a logged-in user to view a malicious page. NOTE: This vulnerability only affects products that are no longer supported by the developer.
+- [Live-Hack-CVE/CVE-2023-22375](https://github.com/Live-Hack-CVE/CVE-2023-22375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22375">
+
+---
 ## CVE-2023-22374 (2023-02-01T18:15:00)
 > In BIG-IP starting in versions 17.0.0, 16.1.2.2, 15.1.5.1, 14.1.4.6, and 13.1.5 on their respective branches, a format string vulnerability exists in iControl SOAP that allows an authenticated attacker to crash the iControl SOAP CGI process or, potentially execute arbitrary code. In appliance mode BIG-IP, a successful exploit of this vulnerability can allow the attacker to cross a security boundary. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
 - [Live-Hack-CVE/CVE-2023-22374](https://github.com/Live-Hack-CVE/CVE-2023-22374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22374">
@@ -1639,6 +1734,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22373 (2023-01-20T03:15:00)
 > Cross-site scripting vulnerability in CONPROSYS HMI System (CHS) Ver.3.4.5 and earlier allows a remote authenticated attacker to inject an arbitrary script and obtain the sensitive information.
 - [Live-Hack-CVE/CVE-2023-22373](https://github.com/Live-Hack-CVE/CVE-2023-22373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22373">
+
+---
+## CVE-2023-22370 (2023-02-14T03:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED ** Stored cross-site scripting vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a network-adjacent authenticated attacker to inject an arbitrary script. NOTE: This vulnerability only affects products that are no longer supported by the developer.
+- [Live-Hack-CVE/CVE-2023-22370](https://github.com/Live-Hack-CVE/CVE-2023-22370)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22370">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22370">
 
 ---
 ## CVE-2023-22369 (2023-02-10T07:15:00)
@@ -3425,6 +3525,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0658](https://github.com/Live-Hack-CVE/CVE-2023-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0658">
 
 ---
+## CVE-2023-0655 (2023-02-14T03:15:00)
+> SonicWall Email Security contains a vulnerability that could permit a remote unauthenticated attacker access to an error page that includes sensitive information about users email addresses.
+- [Live-Hack-CVE/CVE-2023-0655](https://github.com/Live-Hack-CVE/CVE-2023-0655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0655">
+
+---
 ## CVE-2023-0651 (2023-02-02T16:19:00)
 > A vulnerability was found in FastCMS 0.1.0. It has been classified as critical. Affected is an unknown function of the component Template Management. The manipulation leads to unrestricted upload. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-220038 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0651](https://github.com/Live-Hack-CVE/CVE-2023-0651)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0651">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0651">
@@ -4508,6 +4613,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0028](https://github.com/Live-Hack-CVE/CVE-2023-0028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0028">
 
 ---
+## CVE-2023-0025 (2023-02-14T04:15:00)
+> SAP Solution Manager (BSP Application) - version 720, allows an authenticated attacker to craft a malicious link, which when clicked by an unsuspecting user, can be used to read or modify some sensitive information or craft a payload which may restrict access to the desired resources.
+- [Live-Hack-CVE/CVE-2023-0025](https://github.com/Live-Hack-CVE/CVE-2023-0025)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0025">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0025">
+
+---
+## CVE-2023-0024 (2023-02-14T04:15:00)
+> SAP Solution Manager (BSP Application) - version 720, allows an authenticated attacker to craft a malicious link, which when clicked by an unsuspecting user, can be used to read or modify some sensitive information or craft a payload which may restrict access to the desired resources, resulting in Cross-Site Scripting vulnerability.
+- [Live-Hack-CVE/CVE-2023-0024](https://github.com/Live-Hack-CVE/CVE-2023-0024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0024">
+
+---
 ## CVE-2023-0023 (2023-01-10T04:15:00)
 > In SAP Bank Account Management (Manage Banks) application, when a user clicks a smart link to navigate to another app, personal data is shown directly in the URL. They might get captured in log files, bookmarks, and so on disclosing sensitive data of the application.
 - [Live-Hack-CVE/CVE-2023-0023](https://github.com/Live-Hack-CVE/CVE-2023-0023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0023">
@@ -4516,6 +4631,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0022 (2023-01-10T04:15:00)
 > SAP BusinessObjects Business Intelligence Analysis edition for OLAP allows an authenticated attacker to inject malicious code that can be executed by the application over the network. On successful exploitation, an attacker can perform operations that may completely compromise the application causing a high impact on the confidentiality, integrity, and availability of the application.
 - [Live-Hack-CVE/CVE-2023-0022](https://github.com/Live-Hack-CVE/CVE-2023-0022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0022">
+
+---
+## CVE-2023-0020 (2023-02-14T04:15:00)
+> SAP BusinessObjects Business Intelligence platform - versions 420, 430, allows an authenticated attacker to access sensitive information which is otherwise restricted. On successful exploitation, there could be a high impact on confidentiality and limited impact on integrity of the application.
+- [Live-Hack-CVE/CVE-2023-0020](https://github.com/Live-Hack-CVE/CVE-2023-0020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0020">
+
+---
+## CVE-2023-0019 (2023-02-14T04:15:00)
+> In SAP GRC (Process Control) - versions GRCFND_A V1200, GRCFND_A V8100, GRCPINW V1100_700, GRCPINW V1100_731, GRCPINW V1200_750, remote-enabled function module in the proprietary SAP solution enables an authenticated attacker with minimal privileges to access all the confidential data stored in the database. Successful exploitation of this vulnerability can expose user credentials from client-specific tables of the database, leading to high impact on confidentiality.
+- [Live-Hack-CVE/CVE-2023-0019](https://github.com/Live-Hack-CVE/CVE-2023-0019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0019">
 
 ---
 ## CVE-2023-0018 (2023-01-10T04:15:00)
