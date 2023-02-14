@@ -1011,9 +1011,19 @@
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
 
 ---
+## CVE-2021-43391 (2021-11-14T21:15:00)
+> An Out-of-Bounds Read vulnerability exists when reading a DXF file using Open Design Alliance Drawings SDK before 2022.11. The specific issue exists within the parsing of DXF files. Crafted data in a DXF file (an invalid dash counter in line types) can trigger a read past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2021-43391](https://github.com/Live-Hack-CVE/CVE-2021-43391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43391">
+
+---
 ## CVE-2021-43362 (2021-11-16T16:15:00)
 > Due to improper sanitization MedData HBYS software suffers from a remote SQL injection vulnerability. An unauthenticated attacker with the web access is able to extract critical information from the system.
 - [Live-Hack-CVE/CVE-2021-43362](https://github.com/Live-Hack-CVE/CVE-2021-43362)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43362">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43362">
+
+---
+## CVE-2021-43336 (2021-11-14T21:15:00)
+> An Out-of-Bounds Write vulnerability exists when reading a DXF or DWG file using Open Design Alliance Drawings SDK before 2022.11. The specific issue exists within the parsing of DXF and DWG files. Crafted data in a DXF or DWG file (an invalid number of properties) can trigger a write operation past the end of an allocated buffer. An attacker can leverage this vulnerability to execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2021-43336](https://github.com/Live-Hack-CVE/CVE-2021-43336)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43336">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43336">
 
 ---
 ## CVE-2021-43329 (2022-08-25T22:15:00)
@@ -5163,6 +5173,11 @@
 ## CVE-2021-33013 (2022-05-13T16:15:00)
 > mySCADA myPRO versions prior to 8.20.0 does not restrict unauthorized read access to sensitive system information.
 - [Live-Hack-CVE/CVE-2021-33013](https://github.com/Live-Hack-CVE/CVE-2021-33013)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33013">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33013">
+
+---
+## CVE-2021-32936 (2021-06-17T13:15:00)
+> An out-of-bounds write issue exists in the DXF file-recovering procedure in the Drawings SDK (All versions prior to 2022.4) resulting from the lack of proper validation of user-supplied data. This can result in a write past the end of an allocated buffer and allow attackers to cause a denial-of-service condition or execute code in the context of the current process.
+- [Live-Hack-CVE/CVE-2021-32936](https://github.com/Live-Hack-CVE/CVE-2021-32936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32936">
 
 ---
 ## CVE-2021-32923 (2021-06-03T11:15:00)
