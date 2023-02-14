@@ -16,6 +16,11 @@
 - [Live-Hack-CVE/CVE-2023-25727](https://github.com/Live-Hack-CVE/CVE-2023-25727)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25727">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25727">
 
 ---
+## CVE-2023-25725 (2023-02-14T19:15:00)
+> HAProxy before 2.7.3 may allow a bypass of access control because HTTP/1 headers are inadvertently lost in some situations, aka "request smuggling." The HTTP header parsers in HAProxy may accept empty header field names, which could be used to truncate the list of HTTP headers and thus make some headers disappear after being parsed and processed for HTTP/1.0 and HTTP/1.1. For HTTP/2 and HTTP/3, the impact is limited because the headers disappear before being parsed and processed, as if they had not been sent by the client. The fixed versions are 2.7.3, 2.6.9, 2.5.12, 2.4.22, 2.2.29, and 2.0.31.
+- [Live-Hack-CVE/CVE-2023-25725](https://github.com/Live-Hack-CVE/CVE-2023-25725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25725">
+
+---
 ## CVE-2023-25719 (2023-02-13T20:15:00)
 > ConnectWise Control before 22.9.10032 (formerly known as ScreenConnect) fails to validate user-supplied parameters such as the Bin/ConnectWiseControl.Client.exe h parameter. This results in reflected data and injection of malicious code into a downloaded executable. The executable can be used to execute malicious queries or as a denial-of-service vector.
 - [Live-Hack-CVE/CVE-2023-25719](https://github.com/Live-Hack-CVE/CVE-2023-25719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25719">
@@ -2915,6 +2920,76 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21719](https://github.com/Live-Hack-CVE/CVE-2023-21719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21719">
 
 ---
+## CVE-2023-21699 (2023-02-14T20:15:00)
+> Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability
+- [Live-Hack-CVE/CVE-2023-21699](https://github.com/Live-Hack-CVE/CVE-2023-21699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21699">
+
+---
+## CVE-2023-21697 (2023-02-14T20:15:00)
+> Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability
+- [Live-Hack-CVE/CVE-2023-21697](https://github.com/Live-Hack-CVE/CVE-2023-21697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21697">
+
+---
+## CVE-2023-21695 (2023-02-14T20:15:00)
+> Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21695](https://github.com/Live-Hack-CVE/CVE-2023-21695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21695">
+
+---
+## CVE-2023-21694 (2023-02-14T20:15:00)
+> Windows Fax Service Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21694](https://github.com/Live-Hack-CVE/CVE-2023-21694)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21694">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21694">
+
+---
+## CVE-2023-21693 (2023-02-14T20:15:00)
+> Microsoft PostScript Printer Driver Information Disclosure Vulnerability
+- [Live-Hack-CVE/CVE-2023-21693](https://github.com/Live-Hack-CVE/CVE-2023-21693)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21693">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21693">
+
+---
+## CVE-2023-21692 (2023-02-14T20:15:00)
+> Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21692](https://github.com/Live-Hack-CVE/CVE-2023-21692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21692">
+
+---
+## CVE-2023-21691 (2023-02-14T20:15:00)
+> Microsoft Protected Extensible Authentication Protocol (PEAP) Information Disclosure Vulnerability
+- [Live-Hack-CVE/CVE-2023-21691](https://github.com/Live-Hack-CVE/CVE-2023-21691)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21691">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21691">
+
+---
+## CVE-2023-21690 (2023-02-14T20:15:00)
+> Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21690](https://github.com/Live-Hack-CVE/CVE-2023-21690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21690">
+
+---
+## CVE-2023-21689 (2023-02-14T20:15:00)
+> Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21689](https://github.com/Live-Hack-CVE/CVE-2023-21689)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21689">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21689">
+
+---
+## CVE-2023-21688 (2023-02-14T20:15:00)
+> NT OS Kernel Elevation of Privilege Vulnerability
+- [Live-Hack-CVE/CVE-2023-21688](https://github.com/Live-Hack-CVE/CVE-2023-21688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21688">
+
+---
+## CVE-2023-21687 (2023-02-14T20:15:00)
+> HTTP.sys Information Disclosure Vulnerability
+- [Live-Hack-CVE/CVE-2023-21687](https://github.com/Live-Hack-CVE/CVE-2023-21687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21687">
+
+---
+## CVE-2023-21686 (2023-02-14T20:15:00)
+> Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21686](https://github.com/Live-Hack-CVE/CVE-2023-21686)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21686">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21686">
+
+---
+## CVE-2023-21685 (2023-02-14T20:15:00)
+> Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21685](https://github.com/Live-Hack-CVE/CVE-2023-21685)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21685">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21685">
+
+---
+## CVE-2023-21684 (2023-02-14T20:15:00)
+> Microsoft PostScript Printer Driver Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21684](https://github.com/Live-Hack-CVE/CVE-2023-21684)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21684">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21684">
+
+---
 ## CVE-2023-21683 (2023-01-10T22:15:00)
 > Windows Internet Key Exchange (IKE) Extension Denial of Service Vulnerability. This CVE ID is unique from CVE-2023-21677, CVE-2023-21758.
 - [Live-Hack-CVE/CVE-2023-21683](https://github.com/Live-Hack-CVE/CVE-2023-21683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21683">
@@ -3058,6 +3133,36 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21587](https://github.com/Live-Hack-CVE/CVE-2023-21587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21587">
 
 ---
+## CVE-2023-21573 (2023-02-14T20:15:00)
+> Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+- [Live-Hack-CVE/CVE-2023-21573](https://github.com/Live-Hack-CVE/CVE-2023-21573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21573">
+
+---
+## CVE-2023-21572 (2023-02-14T20:15:00)
+> Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+- [Live-Hack-CVE/CVE-2023-21572](https://github.com/Live-Hack-CVE/CVE-2023-21572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21572">
+
+---
+## CVE-2023-21571 (2023-02-14T20:15:00)
+> Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+- [Live-Hack-CVE/CVE-2023-21571](https://github.com/Live-Hack-CVE/CVE-2023-21571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21571">
+
+---
+## CVE-2023-21570 (2023-02-14T20:15:00)
+> Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability
+- [Live-Hack-CVE/CVE-2023-21570](https://github.com/Live-Hack-CVE/CVE-2023-21570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21570">
+
+---
+## CVE-2023-21568 (2023-02-14T20:15:00)
+> Microsoft SQL Server Integration Service (VS extension) Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21568](https://github.com/Live-Hack-CVE/CVE-2023-21568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21568">
+
+---
+## CVE-2023-21564 (2023-02-14T20:15:00)
+> Azure DevOps Server Cross-Site Scripting Vulnerability
+- [Live-Hack-CVE/CVE-2023-21564](https://github.com/Live-Hack-CVE/CVE-2023-21564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21564">
+
+---
 ## CVE-2023-21563 (2023-01-10T22:15:00)
 > BitLocker Security Feature Bypass Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21563](https://github.com/Live-Hack-CVE/CVE-2023-21563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21563">
@@ -3182,6 +3287,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21531 (2023-01-10T22:15:00)
 > Azure Service Fabric Container Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21531](https://github.com/Live-Hack-CVE/CVE-2023-21531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21531">
+
+---
+## CVE-2023-21529 (2023-02-14T20:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21529](https://github.com/Live-Hack-CVE/CVE-2023-21529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21529">
+
+---
+## CVE-2023-21528 (2023-02-14T20:15:00)
+> Microsoft SQL Server Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21528](https://github.com/Live-Hack-CVE/CVE-2023-21528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21528">
 
 ---
 ## CVE-2023-21527 (2023-01-10T22:15:00)
