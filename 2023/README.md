@@ -36,6 +36,11 @@
 - [Live-Hack-CVE/CVE-2023-25614](https://github.com/Live-Hack-CVE/CVE-2023-25614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25614">
 
 ---
+## CVE-2023-25576 (2023-02-14T16:15:00)
+> @fastify/multipart is a Fastify plugin to parse the multipart content-type. Prior to versions 7.4.1 and 6.0.1, @fastify/multipart may experience denial of service due to a number of situations in which an unlimited number of parts are accepted. This includes the multipart body parser accepting an unlimited number of file parts, the multipart body parser accepting an unlimited number of field parts, and the multipart body parser accepting an unlimited number of empty parts as field parts. This is fixed in v7.4.1 (for Fastify v4.x) and v6.0.1 (for Fastify v3.x). There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-25576](https://github.com/Live-Hack-CVE/CVE-2023-25576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25576">
+
+---
 ## CVE-2023-25572 (2023-02-13T21:15:00)
 > react-admin is a frontend framework for building browser applications on top of REST/GraphQL APIs. react-admin prior to versions 3.19.12 and 4.7.6, along with ra-ui-materialui prior to 3.19.12 and 4.7.6, are vulnerable to cross-site scripting. All React applications built with react-admin and using the `<RichTextField>` are affected. `<RichTextField>` outputs the field value using `dangerouslySetInnerHTML` without client-side sanitization. If the data isn't sanitized server-side, this opens a possible cross-site scripting (XSS) attack. Versions 3.19.12 and 4.7.6 now use `DOMPurify` to escape the HTML before outputting it with React and `dangerouslySetInnerHTML`. Users who already sanitize HTML data server-side do not need to upgrade. As a workaround, users may replace the `<RichTextField>` by a custom field doing sanitization by hand.
 - [Live-Hack-CVE/CVE-2023-25572](https://github.com/Live-Hack-CVE/CVE-2023-25572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25572">
@@ -637,6 +642,21 @@
 ## CVE-2023-24162 (2023-01-31T16:15:00)
 > Deserialization vulnerability in Dromara Hutool v5.8.11 allows attacker to execute arbitrary code via the XmlUtil.readObjectFromXml parameter.
 - [Live-Hack-CVE/CVE-2023-24162](https://github.com/Live-Hack-CVE/CVE-2023-24162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24162">
+
+---
+## CVE-2023-24161 (2023-02-14T15:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the webWlanIdx parameter in the setWebWlanIdx function.
+- [Live-Hack-CVE/CVE-2023-24161](https://github.com/Live-Hack-CVE/CVE-2023-24161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24161">
+
+---
+## CVE-2023-24160 (2023-02-14T15:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the admuser parameter in the setPasswordCfg function.
+- [Live-Hack-CVE/CVE-2023-24160](https://github.com/Live-Hack-CVE/CVE-2023-24160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24160">
+
+---
+## CVE-2023-24159 (2023-02-14T15:15:00)
+> TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the admpass parameter in the setPasswordCfg function.
+- [Live-Hack-CVE/CVE-2023-24159](https://github.com/Live-Hack-CVE/CVE-2023-24159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24159">
 
 ---
 ## CVE-2023-24153 (2023-02-03T16:15:00)

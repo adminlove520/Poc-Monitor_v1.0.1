@@ -86,6 +86,11 @@
 - [Live-Hack-CVE/CVE-2014-6230](https://github.com/Live-Hack-CVE/CVE-2014-6230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6230">
 
 ---
+## CVE-2014-6195 (2015-02-14T02:59:00)
+> The (1) Java GUI and (2) Web GUI components in the IBM Tivoli Storage Manager (TSM) Backup-Archive client 5.4 and 5.5 before 5.5.4.4 on AIX, Linux, and Solaris; 5.4.x and 5.5.x on Windows and z/OS; 6.1 before 6.1.5.7 on z/OS; 6.1 and 6.2 before 6.2.5.2 on Windows, before 6.2.5.3 on AIX and Linux x86, and before 6.2.5.4 on Linux Z and Solaris; 6.3 before 6.3.2.1 on AIX, before 6.3.2.2 on Windows, and before 6.3.2.3 on Linux; 6.4 before 6.4.2.1; and 7.1 before 7.1.1 in IBM TSM for Mail, when the Data Protection for Lotus Domino component is used, allow local users to bypass authentication and restore a Domino database or transaction-log backup via unspecified vectors.
+- [Live-Hack-CVE/CVE-2014-6195](https://github.com/Live-Hack-CVE/CVE-2014-6195)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6195">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6195">
+
+---
 ## CVE-2014-5460 (2014-09-11T15:55:00)
 > Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.
 - [brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)	<img alt="forks" src="https://img.shields.io/github/forks/brookeses69/CVE-2014-5460">	<img alt="stars" src="https://img.shields.io/github/stars/brookeses69/CVE-2014-5460">

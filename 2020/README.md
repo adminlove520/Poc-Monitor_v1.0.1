@@ -973,9 +973,19 @@
 - [Live-Hack-CVE/CVE-2020-5135](https://github.com/Live-Hack-CVE/CVE-2020-5135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5135">
 
 ---
+## CVE-2020-4870 (2020-12-21T18:15:00)
+> IBM MQ 9.2 CD and LTS are vulnerable to a denial of service attack caused by an error processing connecting applications. IBM X-Force ID: 190833.
+- [Live-Hack-CVE/CVE-2020-4870](https://github.com/Live-Hack-CVE/CVE-2020-4870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4870">
+
+---
 ## CVE-2020-4788 (2020-11-20T04:15:00)
 > IBM Power9 (AIX 7.1, 7.2, and VIOS 3.1) processors could allow a local user to obtain sensitive information from the data in the L1 cache under extenuating circumstances. IBM X-Force ID: 189296.
 - [Live-Hack-CVE/CVE-2020-4788](https://github.com/Live-Hack-CVE/CVE-2020-4788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4788">
+
+---
+## CVE-2020-4675 (2021-07-16T17:15:00)
+> IBM InfoSphere Master Data Management Server 11.6 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 186324.
+- [Live-Hack-CVE/CVE-2020-4675](https://github.com/Live-Hack-CVE/CVE-2020-4675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4675">
 
 ---
 ## CVE-2020-4464 (2020-07-17T14:15:00)

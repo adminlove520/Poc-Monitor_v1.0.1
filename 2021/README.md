@@ -168,6 +168,11 @@
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-46143](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">
 
 ---
+## CVE-2021-46023 (2023-02-14T16:15:00)
+> An Untrusted Pointer Dereference was discovered in function mrb_vm_exec in mruby before 3.1.0-rc. The vulnerability causes a segmentation fault and application crash.
+- [Live-Hack-CVE/CVE-2021-46023](https://github.com/Live-Hack-CVE/CVE-2021-46023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46023">
+
+---
 ## CVE-2021-46022 (2022-01-14T20:15:00)
 > An Use-After-Free vulnerability in rec_mset_elem_destroy() at rec-mset.c of GNU Recutils v1.8.90 can lead to a segmentation fault or application crash.
 - [Live-Hack-CVE/CVE-2021-46022](https://github.com/Live-Hack-CVE/CVE-2021-46022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46022">
@@ -5873,6 +5878,11 @@
 - [Live-Hack-CVE/CVE-2021-29864](https://github.com/Live-Hack-CVE/CVE-2021-29864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29864">
 
 ---
+## CVE-2021-29841 (2021-09-14T14:15:00)
+> IBM Financial Transaction Manager 3.2.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 205045.
+- [Live-Hack-CVE/CVE-2021-29841](https://github.com/Live-Hack-CVE/CVE-2021-29841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29841">
+
+---
 ## CVE-2021-29768 (2022-06-24T16:15:00)
 > IBM Cognos Analytics 11.1.7, 11.2.0, and 11.2.1 could allow a low level user to obtain sensitive information from the details of the 'Cloud Storage' page for which they should not have access. IBM X-Force ID: 202682.
 - [Live-Hack-CVE/CVE-2021-29768](https://github.com/Live-Hack-CVE/CVE-2021-29768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29768">
@@ -5881,6 +5891,21 @@
 ## CVE-2021-29752 (2021-09-16T16:15:00)
 > IBM Db2 11.2 and 11.5 contains an information disclosure vulnerability, exposing remote storage credentials to privileged users under specific conditions. IBM X-Fporce ID: 201780.
 - [Live-Hack-CVE/CVE-2021-29752](https://github.com/Live-Hack-CVE/CVE-2021-29752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29752">
+
+---
+## CVE-2021-29728 (2021-08-30T17:15:00)
+> IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 201160.
+- [Live-Hack-CVE/CVE-2021-29728](https://github.com/Live-Hack-CVE/CVE-2021-29728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29728">
+
+---
+## CVE-2021-29723 (2021-08-30T17:15:00)
+> IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-ForceID: 201100.
+- [Live-Hack-CVE/CVE-2021-29723](https://github.com/Live-Hack-CVE/CVE-2021-29723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29723">
+
+---
+## CVE-2021-29722 (2021-08-30T17:15:00)
+> IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 201095.
+- [Live-Hack-CVE/CVE-2021-29722](https://github.com/Live-Hack-CVE/CVE-2021-29722)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29722">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29722">
 
 ---
 ## CVE-2021-29672 (2021-04-26T17:15:00)
