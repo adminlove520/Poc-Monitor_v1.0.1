@@ -128,6 +128,11 @@
 - [Live-Hack-CVE/CVE-2012-3386](https://github.com/Live-Hack-CVE/CVE-2012-3386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-3386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-3386">
 
 ---
+## CVE-2012-3287 (2012-06-13T19:55:00)
+> Poul-Henning Kamp md5crypt has insufficient algorithmic complexity and a consequently short runtime, which makes it easier for context-dependent attackers to discover cleartext passwords via a brute-force attack, as demonstrated by an attack using GPU hardware.
+- [Live-Hack-CVE/CVE-2012-3287](https://github.com/Live-Hack-CVE/CVE-2012-3287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-3287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-3287">
+
+---
 ## CVE-2012-2982 (2012-09-11T18:55:00)
 > file/show.cgi in Webmin 1.590 and earlier allows remote authenticated users to execute arbitrary commands via an invalid character in a pathname, as demonstrated by a | (pipe) character.
 - [0xF331-D3AD/CVE-2012-2982](https://github.com/0xF331-D3AD/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/0xF331-D3AD/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/0xF331-D3AD/CVE-2012-2982">
