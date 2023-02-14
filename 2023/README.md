@@ -3046,6 +3046,56 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0808](https://github.com/Live-Hack-CVE/CVE-2023-0808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0808">
 
 ---
+## CVE-2023-0804 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3609, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127.
+- [Live-Hack-CVE/CVE-2023-0804](https://github.com/Live-Hack-CVE/CVE-2023-0804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0804">
+
+---
+## CVE-2023-0803 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3516, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127.
+- [Live-Hack-CVE/CVE-2023-0803](https://github.com/Live-Hack-CVE/CVE-2023-0803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0803">
+
+---
+## CVE-2023-0802 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3724, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127.
+- [Live-Hack-CVE/CVE-2023-0802](https://github.com/Live-Hack-CVE/CVE-2023-0802)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0802">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0802">
+
+---
+## CVE-2023-0801 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6778, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127.
+- [Live-Hack-CVE/CVE-2023-0801](https://github.com/Live-Hack-CVE/CVE-2023-0801)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0801">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0801">
+
+---
+## CVE-2023-0800 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3502, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127.
+- [Live-Hack-CVE/CVE-2023-0800](https://github.com/Live-Hack-CVE/CVE-2023-0800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0800">
+
+---
+## CVE-2023-0799 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3701, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
+- [Live-Hack-CVE/CVE-2023-0799](https://github.com/Live-Hack-CVE/CVE-2023-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0799">
+
+---
+## CVE-2023-0798 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3400, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
+- [Live-Hack-CVE/CVE-2023-0798](https://github.com/Live-Hack-CVE/CVE-2023-0798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0798">
+
+---
+## CVE-2023-0797 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6921, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
+- [Live-Hack-CVE/CVE-2023-0797](https://github.com/Live-Hack-CVE/CVE-2023-0797)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0797">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0797">
+
+---
+## CVE-2023-0796 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3592, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
+- [Live-Hack-CVE/CVE-2023-0796](https://github.com/Live-Hack-CVE/CVE-2023-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0796">
+
+---
+## CVE-2023-0795 (2023-02-13T23:15:00)
+> LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3488, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
+- [Live-Hack-CVE/CVE-2023-0795](https://github.com/Live-Hack-CVE/CVE-2023-0795)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0795">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0795">
+
+---
 ## CVE-2023-0794 (2023-02-12T14:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
 - [Live-Hack-CVE/CVE-2023-0794](https://github.com/Live-Hack-CVE/CVE-2023-0794)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0794">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0794">
@@ -3656,6 +3706,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0519 (2023-01-26T23:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository modoboa/modoboa prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0519](https://github.com/Live-Hack-CVE/CVE-2023-0519)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0519">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0519">
+
+---
+## CVE-2023-0518 (2023-02-13T23:15:00)
+> An issue has been discovered in GitLab CE/EE affecting all versions starting from 14.0 before 15.6.7, all versions starting from 15.7 before 15.7.6, all versions starting from 15.8 before 15.8.1. It was possible to trigger a DoS attack by uploading a malicious Helm chart.
+- [Live-Hack-CVE/CVE-2023-0518](https://github.com/Live-Hack-CVE/CVE-2023-0518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0518">
 
 ---
 ## CVE-2023-0493 (2023-01-26T23:15:00)
