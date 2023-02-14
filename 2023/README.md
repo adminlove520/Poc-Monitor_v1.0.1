@@ -844,6 +844,11 @@
 - [Live-Hack-CVE/CVE-2023-23948](https://github.com/Live-Hack-CVE/CVE-2023-23948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23948">
 
 ---
+## CVE-2023-23944 (2023-02-06T20:15:00)
+> Nextcloud mail is an email app for the nextcloud home server platform. In versions prior to 2.2.2 user's passwords were stored in cleartext in the database during the duration of OAuth2 setup procedure. Any attacker or malicious user with access to the database would have access to these user passwords until the OAuth setup has been completed. It is recommended that the Nextcloud Mail app is upgraded to 2.2.2. There are no known workarounds for this issue.
+- [Live-Hack-CVE/CVE-2023-23944](https://github.com/Live-Hack-CVE/CVE-2023-23944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23944">
+
+---
 ## CVE-2023-23937 (2023-02-03T20:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. The upload functionality for updating user profile does not properly validate the file content-type, allowing any authenticated user to bypass this security check by adding a valid signature (p.e. GIF89) and sending any invalid content-type. This could allow an authenticated attacker to upload HTML files with JS content that will be executed in the context of the domain. This issue has been patched in version 10.5.16.
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
@@ -1273,6 +1278,66 @@
 ## CVE-2023-22945 (2023-01-11T01:15:00)
 > In the GrowthExperiments extension for MediaWiki through 1.39, the growthmanagementorlist API allows blocked users (blocked in ApiManageMentorList) to enroll as mentors or edit any of their mentorship-related properties.
 - [Live-Hack-CVE/CVE-2023-22945](https://github.com/Live-Hack-CVE/CVE-2023-22945)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22945">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22945">
+
+---
+## CVE-2023-22942 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, a cross-site request forgery in the Splunk Secure Gateway (SSG) app in the ‘kvstore_client’ REST endpoint lets a potential attacker update SSG [App Key Value Store (KV store)](https://docs.splunk.com/Documentation/Splunk/latest/Admin/AboutKVstore) collections using an HTTP GET request. SSG is a Splunk-built app that comes with Splunk Enterprise. The vulnerability affects instances with SSG and Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22942](https://github.com/Live-Hack-CVE/CVE-2023-22942)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22942">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22942">
+
+---
+## CVE-2023-22941 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, an improperly-formatted ‘INGEST_EVAL’ parameter in a [Field Transformation](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Managefieldtransforms) crashes the Splunk daemon (splunkd).
+- [Live-Hack-CVE/CVE-2023-22941](https://github.com/Live-Hack-CVE/CVE-2023-22941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22941">
+
+---
+## CVE-2023-22940 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, aliases of the ‘collect’ search processing language (SPL) command, including ‘summaryindex’, ‘sumindex’, ‘stash’,’ mcollect’, and ‘meventcollect’, were not designated as safeguarded commands. The commands could potentially allow for the exposing of data to a summary index that unprivileged users could access. The vulnerability requires a higher privileged user to initiate a request within their browser, and only affects instances with Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22940](https://github.com/Live-Hack-CVE/CVE-2023-22940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22940">
+
+---
+## CVE-2023-22939 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘map’ search processing language (SPL) command lets a search [bypass SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards). The vulnerability requires a higher privileged user to initiate a request within their browser and only affects instances with Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22939](https://github.com/Live-Hack-CVE/CVE-2023-22939)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22939">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22939">
+
+---
+## CVE-2023-22938 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘sendemail’ REST API endpoint lets any authenticated user send an email as the Splunk instance. The endpoint is now restricted to the ‘splunk-system-user’ account on the local instance.
+- [Live-Hack-CVE/CVE-2023-22938](https://github.com/Live-Hack-CVE/CVE-2023-22938)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22938">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22938">
+
+---
+## CVE-2023-22937 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the lookup table upload feature let a user upload lookup tables with unnecessary filename extensions. Lookup table file extensions may now be one of the following only: .csv, .csv.gz, .kmz, .kml, .mmdb, or .mmdb.gzl. For more information on lookup table files, see [About lookups](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Aboutlookupsandfieldactions).
+- [Live-Hack-CVE/CVE-2023-22937](https://github.com/Live-Hack-CVE/CVE-2023-22937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22937">
+
+---
+## CVE-2023-22936 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘search_listener’ parameter in a search allows for a blind server-side request forgery (SSRF) by an authenticated user. The initiator of the request cannot see the response without the presence of an additional vulnerability within the environment.
+- [Live-Hack-CVE/CVE-2023-22936](https://github.com/Live-Hack-CVE/CVE-2023-22936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22936">
+
+---
+## CVE-2023-22935 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘display.page.search.patterns.sensitivity’ search parameter lets a search bypass [SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards). The vulnerability requires a higher privileged user to initiate a request within their browser and only affects instances with Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22935](https://github.com/Live-Hack-CVE/CVE-2023-22935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22935">
+
+---
+## CVE-2023-22934 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘pivot’ search processing language (SPL) command lets a search bypass [SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards) using a saved search job. The vulnerability requires an authenticated user to craft the saved job and a higher privileged user to initiate a request within their browser. The vulnerability affects instances with Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22934](https://github.com/Live-Hack-CVE/CVE-2023-22934)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22934">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22934">
+
+---
+## CVE-2023-22933 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, a View allows for Cross-Site Scripting (XSS) in an extensible mark-up language (XML) View through the ‘layoutPanel’ attribute in the ‘module’ tag’. The vulnerability affects instances with Splunk Web enabled.
+- [Live-Hack-CVE/CVE-2023-22933](https://github.com/Live-Hack-CVE/CVE-2023-22933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22933">
+
+---
+## CVE-2023-22932 (2023-02-14T18:15:00)
+> In Splunk Enterprise 9.0 versions before 9.0.4, a View allows for Cross-Site Scripting (XSS) through the error message in a Base64-encoded image. The vulnerability affects instances with Splunk Web enabled. It does not affect Splunk Enterprise versions below 9.0.
+- [Live-Hack-CVE/CVE-2023-22932](https://github.com/Live-Hack-CVE/CVE-2023-22932)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22932">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22932">
+
+---
+## CVE-2023-22931 (2023-02-14T18:15:00)
+> In Splunk Enterprise versions below 8.1.13 and 8.2.10, the ‘createrss’ external search command overwrites existing Resource Description Format Site Summary (RSS) feeds without verifying permissions. This feature has been deprecated and disabled by default.
+- [Live-Hack-CVE/CVE-2023-22931](https://github.com/Live-Hack-CVE/CVE-2023-22931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22931">
 
 ---
 ## CVE-2023-22912 (2023-01-20T18:15:00)
@@ -3572,6 +3637,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0690 (2023-02-08T19:15:00)
 > HashiCorp Boundary from 0.10.0 through 0.11.2 contain an issue where when using a PKI-based worker with a Key Management Service (KMS) defined in the configuration file, new credentials created after an automatic rotation may not have been encrypted via the intended KMS. This would result in the credentials being stored in plaintext on the Boundary PKI worker’s disk. This issue is fixed in version 0.12.0.
 - [Live-Hack-CVE/CVE-2023-0690](https://github.com/Live-Hack-CVE/CVE-2023-0690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0690">
+
+---
+## CVE-2023-0687 (2023-02-06T19:15:00)
+> A vulnerability was found in GNU C Library 2.38. It has been declared as critical. This vulnerability affects the function __monstartup of the file gmon.c of the component Call Graph Monitor. The manipulation leads to buffer overflow. It is recommended to apply a patch to fix this issue. VDB-220246 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0687](https://github.com/Live-Hack-CVE/CVE-2023-0687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0687">
 
 ---
 ## CVE-2023-0685 (2023-02-08T02:15:00)
