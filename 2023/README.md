@@ -1513,6 +1513,31 @@
 - [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
 
 ---
+## CVE-2023-22807 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 does not properly control access to the PLC over its internal XGT protocol. An attacker could control and tamper with the PLC by sending the packets to the PLC over its XGT protocol.
+- [Live-Hack-CVE/CVE-2023-22807](https://github.com/Live-Hack-CVE/CVE-2023-22807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22807">
+
+---
+## CVE-2023-22806 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 transmits sensitive information in cleartext when communicating over its XGT protocol. This could allow an attacker to gain sensitive information such as user credentials.
+- [Live-Hack-CVE/CVE-2023-22806](https://github.com/Live-Hack-CVE/CVE-2023-22806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22806">
+
+---
+## CVE-2023-22805 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 has improper access control to its read prohibition feature. This could allow a remote attacker to remotely set the feature to lock users out of reading data from the device.
+- [Live-Hack-CVE/CVE-2023-22805](https://github.com/Live-Hack-CVE/CVE-2023-22805)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22805">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22805">
+
+---
+## CVE-2023-22804 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 is missing authentication to create users on the PLC. This could allow an attacker to create and use an account with elevated privileges and take control of the device.
+- [Live-Hack-CVE/CVE-2023-22804](https://github.com/Live-Hack-CVE/CVE-2023-22804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22804">
+
+---
+## CVE-2023-22803 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 is missing authentication to perform critical functions to the PLC. This could allow an attacker to change the PLC's mode arbitrarily.
+- [Live-Hack-CVE/CVE-2023-22803](https://github.com/Live-Hack-CVE/CVE-2023-22803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22803">
+
+---
 ## CVE-2023-22799 (2023-02-09T20:15:00)
 > A ReDoS based DoS vulnerability in the GlobalID <1.0.1 which could allow an attacker supplying a carefully crafted input can cause the regular expression engine to take an unexpected amount of time. All users running an affected release should either upgrade or use one of the workarounds immediately.
 - [Live-Hack-CVE/CVE-2023-22799](https://github.com/Live-Hack-CVE/CVE-2023-22799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22799">
@@ -4417,6 +4442,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0373](https://github.com/Live-Hack-CVE/CVE-2023-0373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0373">
 
 ---
+## CVE-2023-0361 (2023-02-15T18:15:00)
+> A timing side-channel in the handling of RSA ClientKeyExchange messages was discovered in GnuTLS. This side-channel can be sufficient to recover the key encrypted in the RSA ciphertext across a network in a Bleichenbacher style attack. To achieve a successful decryption the attacker would need to send a large amount of specially crafted messages to the vulnerable server. By recovering the secret from the ClientKeyExchange message, the attacker would be able to decrypt the application data exchanged over that connection.
+- [Live-Hack-CVE/CVE-2023-0361](https://github.com/Live-Hack-CVE/CVE-2023-0361)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0361">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0361">
+
+---
 ## CVE-2023-0360 (2023-02-13T15:15:00)
 > The Location Weather WordPress plugin before 1.3.4 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2023-0360](https://github.com/Live-Hack-CVE/CVE-2023-0360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0360">
@@ -4967,6 +4997,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0105 (2023-01-13T06:15:00)
 > A flaw was found in Keycloak. This flaw allows impersonation and lockout due to the email trust not being handled correctly in Keycloak. An attacker can shadow other users with the same email and lockout or impersonate them.
 - [Live-Hack-CVE/CVE-2023-0105](https://github.com/Live-Hack-CVE/CVE-2023-0105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0105">
+
+---
+## CVE-2023-0103 (2023-02-15T18:15:00)
+> If an attacker were to access memory locations of LS ELECTRIC XBC-DN32U with operating system version 01.80 that are outside of the communication buffer, the device stops operating. This could allow an attacker to cause a denial-of-service condition.
+- [Live-Hack-CVE/CVE-2023-0103](https://github.com/Live-Hack-CVE/CVE-2023-0103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0103">
+
+---
+## CVE-2023-0102 (2023-02-15T18:15:00)
+> LS ELECTRIC XBC-DN32U with operating system version 01.80 is missing authentication for its deletion command. This could allow an attacker to delete arbitrary files.
+- [Live-Hack-CVE/CVE-2023-0102](https://github.com/Live-Hack-CVE/CVE-2023-0102)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0102">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0102">
 
 ---
 ## CVE-2023-0101 (2023-01-20T19:15:00)
