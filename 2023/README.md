@@ -6,6 +6,46 @@
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
+## CVE-2023-25768 (2023-02-15T14:15:00)
+> A missing permission check in Jenkins Azure Credentials Plugin 253.v887e0f9e898b and earlier allows attackers with Overall/Read permission to connect to an attacker-specified web server.
+- [Live-Hack-CVE/CVE-2023-25768](https://github.com/Live-Hack-CVE/CVE-2023-25768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25768">
+
+---
+## CVE-2023-25767 (2023-02-15T14:15:00)
+> A cross-site request forgery (CSRF) vulnerability in Jenkins Azure Credentials Plugin 253.v887e0f9e898b and earlier allows attackers to connect to an attacker-specified web server.
+- [Live-Hack-CVE/CVE-2023-25767](https://github.com/Live-Hack-CVE/CVE-2023-25767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25767">
+
+---
+## CVE-2023-25766 (2023-02-15T14:15:00)
+> A missing permission check in Jenkins Azure Credentials Plugin 253.v887e0f9e898b and earlier allows attackers with Overall/Read permission to enumerate credentials IDs of credentials stored in Jenkins.
+- [Live-Hack-CVE/CVE-2023-25766](https://github.com/Live-Hack-CVE/CVE-2023-25766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25766">
+
+---
+## CVE-2023-25765 (2023-02-15T14:15:00)
+> In Jenkins Email Extension Plugin 2.93 and earlier, templates defined inside a folder were not subject to Script Security protection, allowing attackers able to define email templates in folders to bypass the sandbox protection and execute arbitrary code in the context of the Jenkins controller JVM.
+- [Live-Hack-CVE/CVE-2023-25765](https://github.com/Live-Hack-CVE/CVE-2023-25765)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25765">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25765">
+
+---
+## CVE-2023-25764 (2023-02-15T14:15:00)
+> Jenkins Email Extension Plugin 2.93 and earlier does not escape, sanitize, or sandbox rendered email template output or log output generated during template rendering, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to create or change custom email templates.
+- [Live-Hack-CVE/CVE-2023-25764](https://github.com/Live-Hack-CVE/CVE-2023-25764)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25764">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25764">
+
+---
+## CVE-2023-25763 (2023-02-15T14:15:00)
+> Jenkins Email Extension Plugin 2.93 and earlier does not escape various fields included in bundled email templates, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control affected fields.
+- [Live-Hack-CVE/CVE-2023-25763](https://github.com/Live-Hack-CVE/CVE-2023-25763)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25763">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25763">
+
+---
+## CVE-2023-25762 (2023-02-15T14:15:00)
+> Jenkins Pipeline: Build Step Plugin 2.18 and earlier does not escape job names in a JavaScript expression used in the Pipeline Snippet Generator, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control job names.
+- [Live-Hack-CVE/CVE-2023-25762](https://github.com/Live-Hack-CVE/CVE-2023-25762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25762">
+
+---
+## CVE-2023-25761 (2023-02-15T14:15:00)
+> Jenkins JUnit Plugin 1166.va_436e268e972 and earlier does not escape test case class names in JavaScript expressions, resulting in a stored cross-site scripting (XSS) vulnerability exploitable by attackers able to control test case class names in the JUnit resources processed by the plugin.
+- [Live-Hack-CVE/CVE-2023-25761](https://github.com/Live-Hack-CVE/CVE-2023-25761)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25761">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25761">
+
+---
 ## CVE-2023-25758 (2023-02-14T07:15:00)
 > Onekey Touch devices through 4.0.0 and Onekey Mini devices through 2.10.0 allow man-in-the-middle attackers to obtain the seed phase. The man-in-the-middle access can only be obtained after disassembling a device (i.e., here, "man-in-the-middle" does not refer to the attacker's position on an IP network). NOTE: the vendor states that "our hardware team has updated the security patch without anyone being affected."
 - [Live-Hack-CVE/CVE-2023-25758](https://github.com/Live-Hack-CVE/CVE-2023-25758)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25758">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25758">
@@ -874,6 +914,11 @@
 ## CVE-2023-23937 (2023-02-03T20:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. The upload functionality for updating user profile does not properly validate the file content-type, allowing any authenticated user to bypass this security check by adding a valid signature (p.e. GIF89) and sending any invalid content-type. This could allow an authenticated attacker to upload HTML files with JS content that will be executed in the context of the domain. This issue has been patched in version 10.5.16.
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
+
+---
+## CVE-2023-23925 (2023-02-03T20:15:00)
+> Switcher Client is a JavaScript SDK to work with Switcher API which is cloud-based Feature Flag. Unsanitized input flows into Strategy match operation (EXIST), where it is used to build a regular expression. This may result in a Regular expression Denial of Service attack (reDOS). This issue has been patched in version 3.1.4. As a workaround, avoid using Strategy settings that use REGEX in conjunction with EXIST and NOT_EXIST operations.
+- [Live-Hack-CVE/CVE-2023-23925](https://github.com/Live-Hack-CVE/CVE-2023-23925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23925">
 
 ---
 ## CVE-2023-23924 (2023-02-01T00:15:00)
@@ -3493,6 +3538,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0841 (2023-02-15T14:15:00)
+> A vulnerability, which was classified as critical, has been found in GPAC 2.3-DEV-rev40-g3602a5ded. This issue affects the function mp3_dmx_process of the file filters/reframe_mp3.c. The manipulation leads to heap-based buffer overflow. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-221087.
+- [Live-Hack-CVE/CVE-2023-0841](https://github.com/Live-Hack-CVE/CVE-2023-0841)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0841">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0841">
+
+---
+## CVE-2023-0840 (2023-02-15T14:15:00)
+> A vulnerability classified as problematic was found in PHPCrazy 1.1.1. This vulnerability affects unknown code of the file admin/admin.php?action=users&mode=info&user=2. The manipulation of the argument username leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-221086 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0840](https://github.com/Live-Hack-CVE/CVE-2023-0840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0840">
 
 ---
 ## CVE-2023-0827 (2023-02-14T13:15:00)
