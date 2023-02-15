@@ -2501,6 +2501,8 @@
 ## CVE-2019-1584 (2019-10-09T21:15:00)
 > A security vulnerability exists in Zingbox Inspector version 1.293 and earlier, that allows for remote code execution if the Inspector were sent a malicious command from the Zingbox cloud, or if the Zingbox Inspector were tampered with to connect to an attacker's cloud endpoint.
 - [Live-Hack-CVE/CVE-2019-1584](https://github.com/Live-Hack-CVE/CVE-2019-1584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1584">
+- [synacktiv/Exim-CVE-2019-15846](https://github.com/synacktiv/Exim-CVE-2019-15846)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Exim-CVE-2019-15846">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Exim-CVE-2019-15846">
+- [d3k4z/nmap-cve2019-15846](https://github.com/d3k4z/nmap-cve2019-15846)	<img alt="forks" src="https://img.shields.io/github/forks/d3k4z/nmap-cve2019-15846">	<img alt="stars" src="https://img.shields.io/github/stars/d3k4z/nmap-cve2019-15846">
 
 ---
 ## CVE-2019-15715 (2019-10-09T20:15:00)
