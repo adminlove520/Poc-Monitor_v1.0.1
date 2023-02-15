@@ -2005,6 +2005,11 @@
 - [Live-Hack-CVE/CVE-2019-19781](https://github.com/Live-Hack-CVE/CVE-2019-19781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19781">
 
 ---
+## CVE-2019-19774 (2019-12-13T18:15:00)
+> An issue was discovered in Zoho ManageEngine EventLog Analyzer 10.0 SP1 before Build 12110. By running "select hostdetails from hostdetails" at the /event/runquery.do endpoint, it is possible to bypass the security restrictions that prevent even administrative users from viewing credential data stored in the database, and recover the MD5 hashes of the accounts used to authenticate the ManageEngine platform to the managed machines on the network (most often administrative accounts). Specifically, this bypasses these restrictions: a query cannot mention password, and a query result cannot have a password column.
+- [Live-Hack-CVE/CVE-2019-19774](https://github.com/Live-Hack-CVE/CVE-2019-19774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19774">
+
+---
 ## CVE-2019-19746 (2019-12-12T03:15:00)
 > make_arrow in arrow.c in Xfig fig2dev 3.2.7b allows a segmentation fault and out-of-bounds write because of an integer overflow via a large arrow type.
 - [Live-Hack-CVE/CVE-2019-19746](https://github.com/Live-Hack-CVE/CVE-2019-19746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19746">
@@ -3238,6 +3243,11 @@
 ## CVE-2019-11498 (2019-04-24T05:29:00)
 > WavpackSetConfiguration64 in pack_utils.c in libwavpack.a in WavPack through 5.1.0 has a "Conditional jump or move depends on uninitialised value" condition, which might allow attackers to cause a denial of service (application crash) via a DFF file that lacks valid sample-rate data.
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
+
+---
+## CVE-2019-11281 (2019-10-16T16:15:00)
+> Pivotal RabbitMQ, versions prior to v3.7.18, and RabbitMQ for PCF, versions 1.15.x prior to 1.15.13, versions 1.16.x prior to 1.16.6, and versions 1.17.x prior to 1.17.3, contain two components, the virtual host limits page, and the federation management UI, which do not properly sanitize user input. A remote authenticated malicious user with administrative access could craft a cross site scripting attack that would gain access to virtual hosts and policy management information.
+- [Live-Hack-CVE/CVE-2019-11281](https://github.com/Live-Hack-CVE/CVE-2019-11281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11281">
 
 ---
 ## CVE-2019-11206 (2019-05-14T20:29:00)
