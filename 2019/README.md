@@ -2493,6 +2493,11 @@
 - [Live-Hack-CVE/CVE-2019-15961](https://github.com/Live-Hack-CVE/CVE-2019-15961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15961">
 
 ---
+## CVE-2019-1584 (2019-10-09T21:15:00)
+> A security vulnerability exists in Zingbox Inspector version 1.293 and earlier, that allows for remote code execution if the Inspector were sent a malicious command from the Zingbox cloud, or if the Zingbox Inspector were tampered with to connect to an attacker's cloud endpoint.
+- [Live-Hack-CVE/CVE-2019-1584](https://github.com/Live-Hack-CVE/CVE-2019-1584)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1584">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1584">
+
+---
 ## CVE-2019-15715 (2019-10-09T20:15:00)
 > MantisBT before 1.3.20 and 2.22.1 allows Post Authentication Command Injection, leading to Remote Code Execution.
 - [Live-Hack-CVE/CVE-2019-15715](https://github.com/Live-Hack-CVE/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15715">
@@ -2584,6 +2589,31 @@
 - [d3b0o/WebMin-1.890-exploit](https://github.com/d3b0o/WebMin-1.890-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/d3b0o/WebMin-1.890-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/d3b0o/WebMin-1.890-exploit">
 - [hadrian3689/webmin_1.920](https://github.com/hadrian3689/webmin_1.920)	<img alt="forks" src="https://img.shields.io/github/forks/hadrian3689/webmin_1.920">	<img alt="stars" src="https://img.shields.io/github/stars/hadrian3689/webmin_1.920">
 - [lolminerxmrig/CVE-2019-15107](https://github.com/lolminerxmrig/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/CVE-2019-15107">
+
+---
+## CVE-2019-15023 (2019-10-09T21:15:00)
+> A security vulnerability exists in Zingbox Inspector versions 1.294 and earlier, that results in passwords for 3rd party integrations being stored in cleartext in device configuration.
+- [Live-Hack-CVE/CVE-2019-15023](https://github.com/Live-Hack-CVE/CVE-2019-15023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15023">
+
+---
+## CVE-2019-15022 (2019-10-09T21:15:00)
+> A security vulnerability exists in Zingbox Inspector versions 1.294 and earlier, that allows for the Inspector to be susceptible to ARP spoofing.
+- [Live-Hack-CVE/CVE-2019-15022](https://github.com/Live-Hack-CVE/CVE-2019-15022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15022">
+
+---
+## CVE-2019-15020 (2019-10-09T21:15:00)
+> A security vulnerability exists in the Zingbox Inspector versions 1.293 and earlier, that could allow an attacker to supply an invalid software update image to the Zingbox Inspector that could result in command injection.
+- [Live-Hack-CVE/CVE-2019-15020](https://github.com/Live-Hack-CVE/CVE-2019-15020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15020">
+
+---
+## CVE-2019-15019 (2019-10-09T21:15:00)
+> A security vulnerability exists in the Zingbox Inspector versions 1.294 and earlier, that could allow an attacker to supply an invalid software update image to the Zingbox Inspector.
+- [Live-Hack-CVE/CVE-2019-15019](https://github.com/Live-Hack-CVE/CVE-2019-15019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15019">
+
+---
+## CVE-2019-15018 (2019-10-09T21:15:00)
+> A security vulnerability exists in the Zingbox Inspector versions 1.280 and earlier, where authentication is not required when binding the Inspector instance to a different customer tenant.
+- [Live-Hack-CVE/CVE-2019-15018](https://github.com/Live-Hack-CVE/CVE-2019-15018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15018">
 
 ---
 ## CVE-2019-15017 (2019-10-09T21:15:00)
