@@ -4480,6 +4480,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 > Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
 - [bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad](https://github.com/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad)	<img alt="forks" src="https://img.shields.io/github/forks/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">	<img alt="stars" src="https://img.shields.io/github/stars/bAuh0lz/CVE-2023-0297_Pre-auth_RCE_in_pyLoad">
 - [Live-Hack-CVE/CVE-2023-0297](https://github.com/Live-Hack-CVE/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0297">
+- [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
 
 ---
 ## CVE-2023-0296 (2023-01-17T21:15:00)
