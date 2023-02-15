@@ -182,6 +182,7 @@
 ## CVE-2023-25011 (2023-02-15T04:15:00)
 > PC settings tool Ver10.1.26.0 and earlier, PC settings tool Ver11.0.22.0 and earlier allows a attacker to write to the registry as administrator privileges with standard user privileges.
 - [Live-Hack-CVE/CVE-2023-25011](https://github.com/Live-Hack-CVE/CVE-2023-25011)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25011">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25011">
+- [Live-Hack-CVE/CVE-2023-22369](https://github.com/Live-Hack-CVE/CVE-2023-22369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22369">
 
 ---
 ## CVE-2023-24997 (2023-02-01T15:15:00)
