@@ -48,7 +48,7 @@
 ---
 ## CVE-2020-9484 (2020-05-20T19:15:00)
 > When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter="null" (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserialized; and d) the attacker knows the relative file path from the storage location used by FileStore to the file the attacker has control over; then, using a specifically crafted request, the attacker will be able to trigger remote code execution via deserialization of the file under their control. Note that all of conditions a) to d) must be true for the attack to succeed.
-- [caique-garbim/CVE-2020-9484_Exploit](https://github.com/caique-garbim/CVE-2020-9484_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/caique-garbim/CVE-2020-9484_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/caique-garbim/CVE-2020-9484_Exploit">
+- [d3fudd/CVE-2020-9484_Exploit](https://github.com/d3fudd/CVE-2020-9484_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/d3fudd/CVE-2020-9484_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/d3fudd/CVE-2020-9484_Exploit">
 - [HxDDD/CVE-PoC](https://github.com/HxDDD/CVE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HxDDD/CVE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HxDDD/CVE-PoC">
 - [PenTestical/CVE-2020-9484](https://github.com/PenTestical/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/PenTestical/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/PenTestical/CVE-2020-9484">
 - [ColdFusionX/CVE-2020-9484](https://github.com/ColdFusionX/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2020-9484">
@@ -64,6 +64,8 @@
 - [IdealDreamLast/CVE-2020-9484](https://github.com/IdealDreamLast/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/IdealDreamLast/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/IdealDreamLast/CVE-2020-9484">
 - [seanachao/CVE-2020-9484](https://github.com/seanachao/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/seanachao/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/seanachao/CVE-2020-9484">
 - [threedr3am/tomcat-cluster-session-sync-exp](https://github.com/threedr3am/tomcat-cluster-session-sync-exp)	<img alt="forks" src="https://img.shields.io/github/forks/threedr3am/tomcat-cluster-session-sync-exp">	<img alt="stars" src="https://img.shields.io/github/stars/threedr3am/tomcat-cluster-session-sync-exp">
+- [Live-Hack-CVE/CVE-2021-25329](https://github.com/Live-Hack-CVE/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25329">
+- [Live-Hack-CVE/CVE-2022-23181](https://github.com/Live-Hack-CVE/CVE-2022-23181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23181">
 
 ---
 ## CVE-2020-9420 (2022-12-14T01:15:00)
