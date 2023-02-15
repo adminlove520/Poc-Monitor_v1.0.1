@@ -992,6 +992,11 @@
 - [Live-Hack-CVE/CVE-2023-23846](https://github.com/Live-Hack-CVE/CVE-2023-23846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23846">
 
 ---
+## CVE-2023-23836 (2023-02-15T19:15:00)
+> SolarWinds Platform version 2022.4.1 was found to be susceptible to the Deserialization of Untrusted Data. This vulnerability allows a remote adversary with Orion admin-level account access to the SolarWinds Web Console to execute arbitrary commands.
+- [Live-Hack-CVE/CVE-2023-23836](https://github.com/Live-Hack-CVE/CVE-2023-23836)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23836">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23836">
+
+---
 ## CVE-2023-23835 (2023-02-14T11:15:00)
 > A vulnerability has been identified in Mendix Applications using Mendix 7 (All versions < V7.23.34), Mendix Applications using Mendix 8 (All versions < V8.18.23), Mendix Applications using Mendix 9 (All versions < V9.22.0), Mendix Applications using Mendix 9 (V9.12) (All versions < V9.12.10), Mendix Applications using Mendix 9 (V9.18) (All versions < V9.18.4), Mendix Applications using Mendix 9 (V9.6) (All versions < V9.6.15). Some of the Mendix runtime API’s allow attackers to bypass XPath constraints and retrieve information using XPath queries that trigger errors.
 - [Live-Hack-CVE/CVE-2023-23835](https://github.com/Live-Hack-CVE/CVE-2023-23835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23835">
@@ -1171,6 +1176,21 @@
 ## CVE-2023-23469 (2023-02-01T19:15:00)
 > IBM ICP4A - Automation Decision Services 18.0.0, 18.0.1, 18.0.2, 19.0.1, 19.0.2, 19.0.3, 20.0.1, 20.0.2, 20.0.3, 21.0.1, 21.0.2, 21.0.3, 22.0.1, and 22.0.2 allows web pages to be stored locally which can be read by another user on the system. IBM X-Force ID: 244504.
 - [Live-Hack-CVE/CVE-2023-23469](https://github.com/Live-Hack-CVE/CVE-2023-23469)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23469">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23469">
+
+---
+## CVE-2023-23462 (2023-02-15T19:15:00)
+> Libpeconv – integer overflow, before commit 75b1565 (30/11/2022).
+- [Live-Hack-CVE/CVE-2023-23462](https://github.com/Live-Hack-CVE/CVE-2023-23462)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23462">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23462">
+
+---
+## CVE-2023-23461 (2023-02-15T19:15:00)
+> Libpeconv – access violation, before commit b076013 (30/11/2022).
+- [Live-Hack-CVE/CVE-2023-23461](https://github.com/Live-Hack-CVE/CVE-2023-23461)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23461">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23461">
+
+---
+## CVE-2023-23459 (2023-02-15T19:15:00)
+> Priority Windows may allow Command Execution via SQL Injection using an unspecified method.
+- [Live-Hack-CVE/CVE-2023-23459](https://github.com/Live-Hack-CVE/CVE-2023-23459)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23459">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23459">
 
 ---
 ## CVE-2023-23457 (2023-01-12T19:15:00)
@@ -3914,6 +3934,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0706 (2023-02-07T10:15:00)
 > A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier of this vulnerability is VDB-220340.
 - [Live-Hack-CVE/CVE-2023-0706](https://github.com/Live-Hack-CVE/CVE-2023-0706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0706">
+
+---
+## CVE-2023-0698 (2023-02-07T21:15:00)
+> Out of bounds read in WebRTC in Google Chrome prior to 110.0.5481.77 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2023-0698](https://github.com/Live-Hack-CVE/CVE-2023-0698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0698">
+
+---
+## CVE-2023-0697 (2023-02-07T21:15:00)
+> Inappropriate implementation in Full screen mode in Google Chrome on Android prior to 110.0.5481.77 allowed a remote attacker to spoof the contents of the security UI via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2023-0697](https://github.com/Live-Hack-CVE/CVE-2023-0697)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0697">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0697">
+
+---
+## CVE-2023-0696 (2023-02-07T21:15:00)
+> Type confusion in V8 in Google Chrome prior to 110.0.5481.77 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [Live-Hack-CVE/CVE-2023-0696](https://github.com/Live-Hack-CVE/CVE-2023-0696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0696">
 
 ---
 ## CVE-2023-0690 (2023-02-08T19:15:00)
