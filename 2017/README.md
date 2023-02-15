@@ -242,6 +242,7 @@
 ## CVE-2017-7374 (2017-03-31T20:59:00)
 > Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely.
 - [Live-Hack-CVE/CVE-2017-7374](https://github.com/Live-Hack-CVE/CVE-2017-7374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7374">
+- [ww9210/cve-2017-7374](https://github.com/ww9210/cve-2017-7374)	<img alt="forks" src="https://img.shields.io/github/forks/ww9210/cve-2017-7374">	<img alt="stars" src="https://img.shields.io/github/stars/ww9210/cve-2017-7374">
 
 ---
 ## CVE-2017-7308 (2017-03-29T20:59:00)

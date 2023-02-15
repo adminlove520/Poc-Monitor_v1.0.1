@@ -1011,6 +1011,11 @@
 - [Live-Hack-CVE/CVE-2023-23620](https://github.com/Live-Hack-CVE/CVE-2023-23620)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23620">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23620">
 
 ---
+## CVE-2023-23618 (2023-02-14T21:15:00)
+> Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, when `gitk` is run on Windows, it potentially runs executables from the current directory inadvertently, which can be exploited with some social engineering to trick users into running untrusted code. A patch is available in version 2.39.2. As a workaround, avoid using `gitk` (or Git GUI's "Visualize History" functionality) in clones of untrusted repositories.
+- [Live-Hack-CVE/CVE-2023-23618](https://github.com/Live-Hack-CVE/CVE-2023-23618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23618">
+
+---
 ## CVE-2023-23617 (2023-01-28T00:15:00)
 > OpenMage LTS is an e-commerce platform. Versions prior to 19.4.22 and 20.0.19 contain an infinite loop in malicious code filter in certain conditions. Versions 19.4.22 and 20.0.19 have a fix for this issue. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2023-23617](https://github.com/Live-Hack-CVE/CVE-2023-23617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23617">
@@ -1130,6 +1135,11 @@
 ## CVE-2023-23454 (2023-01-12T07:15:00)
 > cbq_classify in net/sched/sch_cbq.c in the Linux kernel through 6.1.4 allows attackers to cause a denial of service (slab-out-of-bounds read) because of type confusion (non-negative numbers can sometimes indicate a TC_ACT_SHOT condition rather than valid classification results).
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
+
+---
+## CVE-2023-23381 (2023-02-14T21:15:00)
+> Visual Studio Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-23381](https://github.com/Live-Hack-CVE/CVE-2023-23381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23381">
 
 ---
 ## CVE-2023-23333 (2023-02-06T22:15:00)
@@ -1490,6 +1500,11 @@
 ## CVE-2023-22745 (2023-01-19T23:15:00)
 > tpm2-tss is an open source software implementation of the Trusted Computing Group (TCG) Trusted Platform Module (TPM) 2 Software Stack (TSS2). In affected versions `Tss2_RC_SetHandler` and `Tss2_RC_Decode` both index into `layer_handler` with an 8 bit layer number, but the array only has `TPM2_ERROR_TSS2_RC_LAYER_COUNT` entries, so trying to add a handler for higher-numbered layers or decode a response code with such a layer number reads/writes past the end of the buffer. This Buffer overrun, could result in arbitrary code execution. An example attack would be a MiTM bus attack that returns 0xFFFFFFFF for the RC. Given the common use case of TPM modules an attacker must have local access to the target machine with local system privileges which allows access to the TPM system. Usually TPM access requires administrative privilege.
 - [Live-Hack-CVE/CVE-2023-22745](https://github.com/Live-Hack-CVE/CVE-2023-22745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22745">
+
+---
+## CVE-2023-22743 (2023-02-14T21:15:00)
+> Git for Windows is the Windows port of the revision control system Git. Prior to Git for Windows version 2.39.2, by carefully crafting DLL and putting into a subdirectory of a specific name living next to the Git for Windows installer, Windows can be tricked into side-loading said DLL. This potentially allows users with local write access to place malicious payloads in a location where automated upgrades might run the Git for Windows installer with elevation. Version 2.39.2 contains a patch for this issue. Some workarounds are available. Never leave untrusted files in the Downloads folder or its sub-folders before executing the Git for Windows installer, or move the installer into a different directory before executing it.
+- [Live-Hack-CVE/CVE-2023-22743](https://github.com/Live-Hack-CVE/CVE-2023-22743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22743">
 
 ---
 ## CVE-2023-22742 (2023-01-20T23:15:00)
