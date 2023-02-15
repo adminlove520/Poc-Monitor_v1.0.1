@@ -21,6 +21,16 @@
 - [Live-Hack-CVE/CVE-2023-25725](https://github.com/Live-Hack-CVE/CVE-2023-25725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25725">
 
 ---
+## CVE-2023-25724 (2023-02-14T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
+- [Live-Hack-CVE/CVE-2023-25724](https://github.com/Live-Hack-CVE/CVE-2023-25724)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25724">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25724">
+
+---
+## CVE-2023-25723 (2023-02-14T22:15:00)
+> ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
+- [Live-Hack-CVE/CVE-2023-25723](https://github.com/Live-Hack-CVE/CVE-2023-25723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25723">
+
+---
 ## CVE-2023-25719 (2023-02-13T20:15:00)
 > ConnectWise Control before 22.9.10032 (formerly known as ScreenConnect) fails to validate user-supplied parameters such as the Bin/ConnectWiseControl.Client.exe h parameter. This results in reflected data and injection of malicious code into a downloaded executable. The executable can be used to execute malicious queries or as a denial-of-service vector.
 - [Live-Hack-CVE/CVE-2023-25719](https://github.com/Live-Hack-CVE/CVE-2023-25719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25719">
@@ -1219,6 +1229,11 @@
 - [Live-Hack-CVE/CVE-2023-23082](https://github.com/Live-Hack-CVE/CVE-2023-23082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23082">
 
 ---
+## CVE-2023-23074 (2023-02-01T20:15:00)
+> Cross site scripting (XSS) vulnerability in Zoho ManageEngine ServiceDesk Plus 14 via embedding videos in the language component.
+- [Live-Hack-CVE/CVE-2023-23074](https://github.com/Live-Hack-CVE/CVE-2023-23074)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23074">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23074">
+
+---
 ## CVE-2023-23073 (2023-02-01T20:15:00)
 > Cross site scripting (XSS) vulnerability in Zoho ManageEngine ServiceDesk Plus 14 via PO in the purchase component.
 - [Live-Hack-CVE/CVE-2023-23073](https://github.com/Live-Hack-CVE/CVE-2023-23073)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23073">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23073">
@@ -2373,6 +2388,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21825](https://github.com/Live-Hack-CVE/CVE-2023-21825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21825">
 
 ---
+## CVE-2023-21823 (2023-02-14T21:15:00)
+> Windows Graphics Component Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21823](https://github.com/Live-Hack-CVE/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21823">
+
+---
+## CVE-2023-21815 (2023-02-14T21:15:00)
+> Visual Studio Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21815](https://github.com/Live-Hack-CVE/CVE-2023-21815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21815">
+
+---
+## CVE-2023-21808 (2023-02-14T21:15:00)
+> .NET and Visual Studio Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21808](https://github.com/Live-Hack-CVE/CVE-2023-21808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21808">
+
+---
 ## CVE-2023-21796 (2023-01-24T00:15:00)
 > Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795.
 - [Live-Hack-CVE/CVE-2023-21796](https://github.com/Live-Hack-CVE/CVE-2023-21796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21796">
@@ -2635,6 +2665,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21785](https://github.com/Live-Hack-CVE/CVE-2023-21785)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21785">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21785">
 - [Live-Hack-CVE/CVE-2023-21782](https://github.com/Live-Hack-CVE/CVE-2023-21782)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21782">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21782">
 - [Live-Hack-CVE/CVE-2023-21781](https://github.com/Live-Hack-CVE/CVE-2023-21781)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21781">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21781">
+
+---
+## CVE-2023-21778 (2023-02-14T21:15:00)
+> Microsoft Dynamics Unified Service Desk Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21778](https://github.com/Live-Hack-CVE/CVE-2023-21778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21778">
 
 ---
 ## CVE-2023-21776 (2023-01-10T22:15:00)
@@ -3158,6 +3193,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21568](https://github.com/Live-Hack-CVE/CVE-2023-21568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21568">
 
 ---
+## CVE-2023-21567 (2023-02-14T21:15:00)
+> Visual Studio Denial of Service Vulnerability
+- [Live-Hack-CVE/CVE-2023-21567](https://github.com/Live-Hack-CVE/CVE-2023-21567)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21567">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21567">
+
+---
+## CVE-2023-21566 (2023-02-14T21:15:00)
+> Visual Studio Elevation of Privilege Vulnerability
+- [Live-Hack-CVE/CVE-2023-21566](https://github.com/Live-Hack-CVE/CVE-2023-21566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21566">
+
+---
 ## CVE-2023-21564 (2023-02-14T20:15:00)
 > Azure DevOps Server Cross-Site Scripting Vulnerability
 - [Live-Hack-CVE/CVE-2023-21564](https://github.com/Live-Hack-CVE/CVE-2023-21564)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21564">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21564">
@@ -3195,6 +3240,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21555](https://github.com/Live-Hack-CVE/CVE-2023-21555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21555">
 - [Live-Hack-CVE/CVE-2023-21546](https://github.com/Live-Hack-CVE/CVE-2023-21546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21546">
 - [Live-Hack-CVE/CVE-2023-21543](https://github.com/Live-Hack-CVE/CVE-2023-21543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21543">
+
+---
+## CVE-2023-21553 (2023-02-14T21:15:00)
+> Azure DevOps Server Remote Code Execution Vulnerability
+- [Live-Hack-CVE/CVE-2023-21553](https://github.com/Live-Hack-CVE/CVE-2023-21553)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21553">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21553">
 
 ---
 ## CVE-2023-21551 (2023-01-10T22:15:00)

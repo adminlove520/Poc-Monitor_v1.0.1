@@ -163,6 +163,11 @@
 - [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
 
 ---
+## CVE-2017-7541 (2017-07-25T04:29:00)
+> The brcmf_cfg80211_mgmt_tx function in drivers/net/wireless/broadcom/brcm80211/brcmfmac/cfg80211.c in the Linux kernel before 4.12.3 allows local users to cause a denial of service (buffer overflow and system crash) or possibly gain privileges via a crafted NL80211_CMD_FRAME Netlink packet.
+- [Live-Hack-CVE/CVE-2017-7541](https://github.com/Live-Hack-CVE/CVE-2017-7541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7541">
+
+---
 ## CVE-2017-7529 (2017-07-13T13:29:00)
 > Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.
 - [Shehzadcyber/CVE-2017-7529](https://github.com/Shehzadcyber/CVE-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/Shehzadcyber/CVE-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/Shehzadcyber/CVE-2017-7529">
@@ -219,9 +224,24 @@
 - [Live-Hack-CVE/CVE-2017-7488](https://github.com/Live-Hack-CVE/CVE-2017-7488)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7488">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7488">
 
 ---
+## CVE-2017-7487 (2017-05-14T22:29:00)
+> The ipxitf_ioctl function in net/ipx/af_ipx.c in the Linux kernel through 4.11.1 mishandles reference counts, which allows local users to cause a denial of service (use-after-free) or possibly have unspecified other impact via a failed SIOCGIFADDR ioctl call for an IPX interface.
+- [Live-Hack-CVE/CVE-2017-7487](https://github.com/Live-Hack-CVE/CVE-2017-7487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7487">
+
+---
+## CVE-2017-7482 (2018-07-30T14:29:00)
+> In the Linux kernel before version 4.12, Kerberos 5 tickets decoded when using the RXRPC keys incorrectly assumes the size of a field. This could lead to the size-remaining variable wrapping and the data pointer going over the end of the buffer. This could possibly lead to memory corruption and possible privilege escalation.
+- [Live-Hack-CVE/CVE-2017-7482](https://github.com/Live-Hack-CVE/CVE-2017-7482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7482">
+
+---
 ## CVE-2017-7473 (2017-07-21T22:29:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA based off of CNT 3. Further investigation determined that there was a secure method for using the directive. Notes: none.
 - [Live-Hack-CVE/CVE-2017-7473](https://github.com/Live-Hack-CVE/CVE-2017-7473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7473">
+
+---
+## CVE-2017-7374 (2017-03-31T20:59:00)
+> Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely.
+- [Live-Hack-CVE/CVE-2017-7374](https://github.com/Live-Hack-CVE/CVE-2017-7374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7374">
 
 ---
 ## CVE-2017-7308 (2017-03-29T20:59:00)

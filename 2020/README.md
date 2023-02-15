@@ -1041,6 +1041,11 @@
 - [Live-Hack-CVE/CVE-2020-36661](https://github.com/Live-Hack-CVE/CVE-2020-36661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36661">
 
 ---
+## CVE-2020-36660 (2023-02-06T17:15:00)
+> A vulnerability was found in paxswill EVE Ship Replacement Program 0.12.11. It has been rated as problematic. This issue affects some unknown processing of the file src/evesrp/views/api.py of the component User Information Handler. The manipulation leads to information disclosure. The attack may be initiated remotely. Upgrading to version 0.12.12 is able to address this issue. The name of the patch is 9e03f68e46e85ca9c9694a6971859b3ee66f0240. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220211.
+- [Live-Hack-CVE/CVE-2020-36660](https://github.com/Live-Hack-CVE/CVE-2020-36660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36660">
+
+---
 ## CVE-2020-36659 (2023-01-27T05:15:00)
 > In Apache::Session::Browseable before 1.3.6, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used. NOTE: this can, for example, be fixed in conjunction with the CVE-2020-16093 fix.
 - [Live-Hack-CVE/CVE-2020-36659](https://github.com/Live-Hack-CVE/CVE-2020-36659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36659">
