@@ -911,6 +911,11 @@
 - [Live-Hack-CVE/CVE-2023-23944](https://github.com/Live-Hack-CVE/CVE-2023-23944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23944">
 
 ---
+## CVE-2023-23943 (2023-02-06T21:15:00)
+> Nextcloud mail is an email app for the nextcloud home server platform. In affected versions the SMTP, IMAP and Sieve host fields allowed to scan for internal services and servers reachable from within the local network of the Nextcloud Server. It is recommended that the Nextcloud Maill app is upgraded to 1.15.0 or 2.2.2. The only known workaround for this issue is to completely disable the nextcloud mail app.
+- [Live-Hack-CVE/CVE-2023-23943](https://github.com/Live-Hack-CVE/CVE-2023-23943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23943">
+
+---
 ## CVE-2023-23937 (2023-02-03T20:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. The upload functionality for updating user profile does not properly validate the file content-type, allowing any authenticated user to bypass this security check by adding a valid signature (p.e. GIF89) and sending any invalid content-type. This could allow an authenticated attacker to upload HTML files with JS content that will be executed in the context of the domain. This issue has been patched in version 10.5.16.
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
@@ -4407,6 +4412,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0385](https://github.com/Live-Hack-CVE/CVE-2023-0385)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0385">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0385">
 
 ---
+## CVE-2023-0373 (2023-02-13T15:15:00)
+> The Lightweight Accordion WordPress plugin before 1.5.15 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
+- [Live-Hack-CVE/CVE-2023-0373](https://github.com/Live-Hack-CVE/CVE-2023-0373)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0373">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0373">
+
+---
+## CVE-2023-0360 (2023-02-13T15:15:00)
+> The Location Weather WordPress plugin before 1.3.4 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0360](https://github.com/Live-Hack-CVE/CVE-2023-0360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0360">
+
+---
 ## CVE-2023-0358 (2023-01-18T02:15:00)
 > Use After Free in GitHub repository gpac/gpac prior to 2.3.0-DEV.
 - [Live-Hack-CVE/CVE-2023-0358](https://github.com/Live-Hack-CVE/CVE-2023-0358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0358">
@@ -4430,6 +4445,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0337 (2023-01-17T16:15:00)
 > Cross-site Scripting (XSS) - Reflected in GitHub repository lirantal/daloradius prior to master-branch.
 - [Live-Hack-CVE/CVE-2023-0337](https://github.com/Live-Hack-CVE/CVE-2023-0337)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0337">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0337">
+
+---
+## CVE-2023-0333 (2023-02-13T15:15:00)
+> The TemplatesNext ToolKit WordPress plugin before 3.2.9 does not validate some of its shortcode attributes before using them to generate an HTML tag, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks
+- [Live-Hack-CVE/CVE-2023-0333](https://github.com/Live-Hack-CVE/CVE-2023-0333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0333">
 
 ---
 ## CVE-2023-0332 (2023-01-17T08:15:00)
@@ -4609,9 +4629,19 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0281](https://github.com/Live-Hack-CVE/CVE-2023-0281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0281">
 
 ---
+## CVE-2023-0275 (2023-02-13T15:15:00)
+> The Easy Accept Payments for PayPal WordPress plugin before 4.9.10 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
+- [Live-Hack-CVE/CVE-2023-0275](https://github.com/Live-Hack-CVE/CVE-2023-0275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0275">
+
+---
 ## CVE-2023-0266 (2023-01-30T14:15:00)
 > A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c83927b7ebb055e
 - [Live-Hack-CVE/CVE-2023-0266](https://github.com/Live-Hack-CVE/CVE-2023-0266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0266">
+
+---
+## CVE-2023-0263 (2023-02-13T15:15:00)
+> The WP Yelp Review Slider WordPress plugin before 7.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber.
+- [Live-Hack-CVE/CVE-2023-0263](https://github.com/Live-Hack-CVE/CVE-2023-0263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0263">
 
 ---
 ## CVE-2023-0258 (2023-01-12T22:15:00)
