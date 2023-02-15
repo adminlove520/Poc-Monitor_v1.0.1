@@ -3141,6 +3141,16 @@
 - [Live-Hack-CVE/CVE-2020-21219](https://github.com/Live-Hack-CVE/CVE-2020-21219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21219">
 
 ---
+## CVE-2020-21120 (2023-02-15T22:15:00)
+> SQL Injection vulnerability in file home\controls\cart.class.php in UQCMS 2.1.3, allows attackers execute arbitrary commands via the cookie_cart parameter to /index.php/cart/num.
+- [Live-Hack-CVE/CVE-2020-21120](https://github.com/Live-Hack-CVE/CVE-2020-21120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21120">
+
+---
+## CVE-2020-21119 (2023-02-15T22:15:00)
+> SQL Injection vulnerability in Kliqqi-CMS 2.0.2 in admin/admin_update_module_widgets.php in recordIDValue parameter, allows attackers to gain escalated privileges and execute arbitrary code.
+- [Live-Hack-CVE/CVE-2020-21119](https://github.com/Live-Hack-CVE/CVE-2020-21119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21119">
+
+---
 ## CVE-2020-21016 (2022-10-31T13:15:00)
 > D-Link DIR-846 devices with firmware 100A35 allow remote attackers to execute arbitrary code as root via HNAP1/control/SetGuestWLanSettings.php.
 - [Live-Hack-CVE/CVE-2020-21016](https://github.com/Live-Hack-CVE/CVE-2020-21016)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-21016">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-21016">
@@ -3266,6 +3276,11 @@
 ## CVE-2020-1983 (2020-04-22T20:15:00)
 > A use after free vulnerability in ip_reass() in ip_input.c of libslirp 4.2.0 and prior releases allows crafted packets to cause a denial of service.
 - [Live-Hack-CVE/CVE-2020-1983](https://github.com/Live-Hack-CVE/CVE-2020-1983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1983">
+
+---
+## CVE-2020-19825 (2023-02-15T22:15:00)
+> Cross Site Scripting (XSS) vulnerability in kevinpapst kimai2 1.30.0 in /src/Twig/Runtime/MarkdownExtension.php, allows attackers to gain escalated privileges.
+- [Live-Hack-CVE/CVE-2020-19825](https://github.com/Live-Hack-CVE/CVE-2020-19825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19825">
 
 ---
 ## CVE-2020-19778 (2021-04-14T14:15:00)

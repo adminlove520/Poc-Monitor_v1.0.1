@@ -3392,6 +3392,11 @@
 - [Live-Hack-CVE/CVE-2021-38241](https://github.com/Live-Hack-CVE/CVE-2021-38241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38241">
 
 ---
+## CVE-2021-38239 (2023-02-15T22:15:00)
+> SQL Injection vulnerability in dataease before 1.2.0, allows attackers to gain sensitive information via the orders parameter to /api/sys_msg/list/1/10.
+- [Live-Hack-CVE/CVE-2021-38239](https://github.com/Live-Hack-CVE/CVE-2021-38239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38239">
+
+---
 ## CVE-2021-38181 (2021-10-12T15:15:00)
 > SAP NetWeaver AS ABAP and ABAP Platform - versions 700, 701, 702, 730, 731, 740, 750, 751, 752, 753, 754, 755, 756, allows an attacker to prevent legitimate users from accessing a service, either by crashing or flooding the service.
 - [Live-Hack-CVE/CVE-2021-38181](https://github.com/Live-Hack-CVE/CVE-2021-38181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38181">
@@ -4912,6 +4917,11 @@
 - [Live-Hack-CVE/CVE-2021-34181](https://github.com/Live-Hack-CVE/CVE-2021-34181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34181">
 
 ---
+## CVE-2021-34117 (2023-02-15T22:15:00)
+> SQL Injection vulnerability in SEO Panel 4.9.0 in api/user.api.php in function getUserName in the username parameter, allows attackers to gain sensitive information.
+- [Live-Hack-CVE/CVE-2021-34117](https://github.com/Live-Hack-CVE/CVE-2021-34117)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34117">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34117">
+
+---
 ## CVE-2021-3410 (2021-02-23T23:15:00)
 > A flaw was found in libcaca v0.99.beta19. A buffer overflow issue in caca_resize function in libcaca/caca/canvas.c may lead to local execution of arbitrary code in the user context.
 - [Live-Hack-CVE/CVE-2021-3410](https://github.com/Live-Hack-CVE/CVE-2021-3410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3410">
@@ -4923,6 +4933,11 @@
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [Live-Hack-CVE/CVE-2021-33959](https://github.com/Live-Hack-CVE/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33959">
+
+---
+## CVE-2021-33925 (2023-02-15T22:15:00)
+> SQL Injection vulnerability in nitinparashar30 cms-corephp through commit bdabe52ef282846823bda102728a35506d0ec8f9 (May 19, 2021) allows unauthenticated attackers to gain escilated privledges via a crafted login.
+- [Live-Hack-CVE/CVE-2021-33925](https://github.com/Live-Hack-CVE/CVE-2021-33925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33925">
 
 ---
 ## CVE-2021-33909 (2021-07-20T19:15:00)
@@ -5069,6 +5084,16 @@
 ## CVE-2021-33473 (2022-06-02T20:15:00)
 > An argument injection vulnerability in Dragonfly Ruby Gem v1.3.0 allows attackers to read and write arbitrary files when the verify_url option is disabled. This vulnerability is exploited via a crafted URL.
 - [Live-Hack-CVE/CVE-2021-33473](https://github.com/Live-Hack-CVE/CVE-2021-33473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33473">
+
+---
+## CVE-2021-33396 (2023-02-15T22:15:00)
+> Cross Site Request Forgery (CSRF) vulnerability in baijiacms 4.1.4, allows attackers to change the password or other information of an arbitrary account via index.php.
+- [Live-Hack-CVE/CVE-2021-33396](https://github.com/Live-Hack-CVE/CVE-2021-33396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33396">
+
+---
+## CVE-2021-33304 (2023-02-15T22:15:00)
+> Double Free vulnerability in virtualsquare picoTCP v1.7.0 and picoTCP-NG v2.1 in modules/pico_fragments.c in function pico_fragments_reassemble, allows attackers to execute arbitrary code.
+- [Live-Hack-CVE/CVE-2021-33304](https://github.com/Live-Hack-CVE/CVE-2021-33304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33304">
 
 ---
 ## CVE-2021-3326 (2021-01-27T20:15:00)

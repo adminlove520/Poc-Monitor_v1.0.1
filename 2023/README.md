@@ -1492,8 +1492,8 @@
 - [Live-Hack-CVE/CVE-2023-22875](https://github.com/Live-Hack-CVE/CVE-2023-22875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22875">
 
 ---
-## CVE-2023-22855 ()
-> 
+## CVE-2023-22855 (2023-02-15T21:15:00)
+> Kardex Mlog MCC 5.7.12+0-a203c2a213-master allows remote code execution. It spawns a web interface listening on port 8088. A user-controllable path is handed to a path-concatenation method (Path.Combine from .NET) without proper sanitisation. This yields the possibility of including local files, as well as remote files on SMB shares. If one provides a file with the extension .t4, it is rendered with the .NET templating engine mono/t4, which can execute code.
 - [patrickhener/CVE-2023-22855](https://github.com/patrickhener/CVE-2023-22855)	<img alt="forks" src="https://img.shields.io/github/forks/patrickhener/CVE-2023-22855">	<img alt="stars" src="https://img.shields.io/github/stars/patrickhener/CVE-2023-22855">
 
 ---
@@ -3588,6 +3588,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0850 (2023-02-15T22:15:00)
+> A vulnerability was found in Netgear WNDR3700v2 1.0.1.14 and classified as problematic. This issue affects some unknown processing of the component Web Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-221153 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0850](https://github.com/Live-Hack-CVE/CVE-2023-0850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0850">
+
+---
+## CVE-2023-0849 (2023-02-15T22:15:00)
+> A vulnerability has been found in Netgear WNDR3700v2 1.0.1.14 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-221152.
+- [Live-Hack-CVE/CVE-2023-0849](https://github.com/Live-Hack-CVE/CVE-2023-0849)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0849">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0849">
+
+---
+## CVE-2023-0848 (2023-02-15T22:15:00)
+> A vulnerability was found in Netgear WNDR3700v2 1.0.1.14. It has been rated as problematic. This issue affects some unknown processing of the component Web Management Interface. The manipulation leads to denial of service. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-221147.
+- [Live-Hack-CVE/CVE-2023-0848](https://github.com/Live-Hack-CVE/CVE-2023-0848)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0848">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0848">
 
 ---
 ## CVE-2023-0841 (2023-02-15T14:15:00)
