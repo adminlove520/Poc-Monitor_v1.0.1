@@ -3604,6 +3604,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0860 (2023-02-16T10:15:00)
 > Improper Restriction of Excessive Authentication Attempts in GitHub repository modoboa/modoboa-installer prior to 2.0.4.
 - [Live-Hack-CVE/CVE-2023-0860](https://github.com/Live-Hack-CVE/CVE-2023-0860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0860">
+- [0xsu3ks/CVE-2023-0860](https://github.com/0xsu3ks/CVE-2023-0860)	<img alt="forks" src="https://img.shields.io/github/forks/0xsu3ks/CVE-2023-0860">	<img alt="stars" src="https://img.shields.io/github/stars/0xsu3ks/CVE-2023-0860">
 
 ---
 ## CVE-2023-0850 (2023-02-15T22:15:00)
