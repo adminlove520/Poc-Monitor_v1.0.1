@@ -285,6 +285,11 @@
 - [Live-Hack-CVE/CVE-2023-24808](https://github.com/Live-Hack-CVE/CVE-2023-24808)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24808">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24808">
 
 ---
+## CVE-2023-24807 (2023-02-16T18:15:00)
+> Undici is an HTTP/1.1 client for Node.js. Prior to version 5.19.1, the `Headers.set()` and `Headers.append()` methods are vulnerable to Regular Expression Denial of Service (ReDoS) attacks when untrusted values are passed into the functions. This is due to the inefficient regular expression used to normalize the values in the `headerValueNormalize()` utility function. This vulnerability was patched in v5.19.1. No known workarounds are available.
+- [Live-Hack-CVE/CVE-2023-24807](https://github.com/Live-Hack-CVE/CVE-2023-24807)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24807">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24807">
+
+---
 ## CVE-2023-24806 (2023-02-04T00:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. Reason: This CVE has been rejected as it was incorrectly assigned. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2023-24806](https://github.com/Live-Hack-CVE/CVE-2023-24806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24806">
@@ -293,6 +298,11 @@
 ## CVE-2023-24804 (2023-02-13T17:15:00)
 > The ownCloud Android app allows ownCloud users to access, share, and edit files and folders. Prior to version 3.0, the app has an incomplete fix for a path traversal issue and is vulnerable to two bypass methods. The bypasses may lead to information disclosure when uploading the app’s internal files, and to arbitrary file write when uploading plain text files (although limited by the .txt extension). Version 3.0 fixes the reported bypasses.
 - [Live-Hack-CVE/CVE-2023-24804](https://github.com/Live-Hack-CVE/CVE-2023-24804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24804">
+
+---
+## CVE-2023-24690 (2023-02-09T22:15:00)
+> ChurchCRM 4.5.3 and below was discovered to contain a stored cross-site scripting (XSS) vulnerability at /api/public/register/family.
+- [Live-Hack-CVE/CVE-2023-24690](https://github.com/Live-Hack-CVE/CVE-2023-24690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24690">
 
 ---
 ## CVE-2023-24689 (2023-02-09T20:15:00)
@@ -474,6 +484,21 @@
 ## CVE-2023-24493 (2023-01-26T21:18:00)
 > A formula injection vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated attacker could leverage the reporting system to export reports containing formulas, which would then require a victim to approve and execute on a host.
 - [Live-Hack-CVE/CVE-2023-24493](https://github.com/Live-Hack-CVE/CVE-2023-24493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24493">
+
+---
+## CVE-2023-24485 (2023-02-16T18:15:00)
+> Vulnerabilities have been identified that, collectively, allow a standard Windows user to perform operations as SYSTEM on the computer running Citrix Workspace app.
+- [Live-Hack-CVE/CVE-2023-24485](https://github.com/Live-Hack-CVE/CVE-2023-24485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24485">
+
+---
+## CVE-2023-24484 (2023-02-16T18:15:00)
+> A malicious user can cause log files to be written to a directory that they do not have permission to write to.
+- [Live-Hack-CVE/CVE-2023-24484](https://github.com/Live-Hack-CVE/CVE-2023-24484)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24484">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24484">
+
+---
+## CVE-2023-24483 (2023-02-16T18:15:00)
+> A vulnerability has been identified that, if exploited, could result in a local user elevating their privilege level to NT AUTHORITY\SYSTEM on a Citrix Virtual Apps and Desktops Windows VDA.
+- [Live-Hack-CVE/CVE-2023-24483](https://github.com/Live-Hack-CVE/CVE-2023-24483)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24483">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24483">
 
 ---
 ## CVE-2023-24482 (2023-02-14T11:15:00)
@@ -936,6 +961,11 @@
 - [Live-Hack-CVE/CVE-2023-23948](https://github.com/Live-Hack-CVE/CVE-2023-23948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23948">
 
 ---
+## CVE-2023-23947 (2023-02-16T18:15:00)
+> Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All Argo CD versions starting with 2.3.0-rc1 and prior to 2.3.17, 2.4.23 2.5.11, and 2.6.2 are vulnerable to an improper authorization bug which allows users who have the ability to update at least one cluster secret to update any cluster secret. The attacker could use this access to escalate privileges (potentially controlling Kubernetes resources) or to break Argo CD functionality (by preventing connections to external clusters). A patch for this vulnerability has been released in Argo CD versions 2.6.2, 2.5.11, 2.4.23, and 2.3.17. Two workarounds are available. Either modify the RBAC configuration to completely revoke all `clusters, update` access, or use the `destinations` and `clusterResourceWhitelist` fields to apply similar restrictions as the `namespaces` and `clusterResources` fields.
+- [Live-Hack-CVE/CVE-2023-23947](https://github.com/Live-Hack-CVE/CVE-2023-23947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23947">
+
+---
 ## CVE-2023-23944 (2023-02-06T20:15:00)
 > Nextcloud mail is an email app for the nextcloud home server platform. In versions prior to 2.2.2 user's passwords were stored in cleartext in the database during the duration of OAuth2 setup procedure. Any attacker or malicious user with access to the database would have access to these user passwords until the OAuth setup has been completed. It is recommended that the Nextcloud Mail app is upgraded to 2.2.2. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2023-23944](https://github.com/Live-Hack-CVE/CVE-2023-23944)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23944">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23944">
@@ -949,6 +979,11 @@
 ## CVE-2023-23937 (2023-02-03T20:15:00)
 > Pimcore is an Open Source Data & Experience Management Platform: PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce. The upload functionality for updating user profile does not properly validate the file content-type, allowing any authenticated user to bypass this security check by adding a valid signature (p.e. GIF89) and sending any invalid content-type. This could allow an authenticated attacker to upload HTML files with JS content that will be executed in the context of the domain. This issue has been patched in version 10.5.16.
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
+
+---
+## CVE-2023-23936 (2023-02-16T18:15:00)
+> Undici is an HTTP/1.1 client for Node.js. Starting with version 2.0.0 and prior to version 5.19.1, the undici library does not protect `host` HTTP header from CRLF injection vulnerabilities. This issue is patched in Undici v5.19.1. As a workaround, sanitize the `headers.host` string before passing to undici.
+- [Live-Hack-CVE/CVE-2023-23936](https://github.com/Live-Hack-CVE/CVE-2023-23936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23936">
 
 ---
 ## CVE-2023-23931 (2023-02-07T21:15:00)
@@ -3865,6 +3900,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0774 (2023-02-10T12:15:00)
 > A vulnerability has been found in SourceCodester Medical Certificate Generator App 1.0 and classified as critical. This vulnerability affects unknown code of the file action.php. The manipulation of the argument lastname leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220558 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0774](https://github.com/Live-Hack-CVE/CVE-2023-0774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0774">
+
+---
+## CVE-2023-0771 (2023-02-10T01:15:00)
+> SQL Injection in GitHub repository ampache/ampache prior to 5.5.7,develop.
+- [Live-Hack-CVE/CVE-2023-0771](https://github.com/Live-Hack-CVE/CVE-2023-0771)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0771">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0771">
 
 ---
 ## CVE-2023-0760 (2023-02-09T14:15:00)

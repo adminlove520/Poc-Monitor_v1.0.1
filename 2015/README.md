@@ -517,6 +517,11 @@
 - [Live-Hack-CVE/CVE-2015-10078](https://github.com/Live-Hack-CVE/CVE-2015-10078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10078">
 
 ---
+## CVE-2015-10076 (2023-02-09T23:15:00)
+> A vulnerability was found in dimtion Shaarlier up to 1.2.2. It has been declared as critical. Affected by this vulnerability is the function createTag of the file app/src/main/java/com/dimtion/shaarlier/TagsSource.java of the component Tag Handler. The manipulation leads to sql injection. Upgrading to version 1.2.3 is able to address this issue. The name of the patch is 3d1d9b239d9b3cd87e8bed45a0f02da583ad371e. It is recommended to upgrade the affected component. The identifier VDB-220453 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2015-10076](https://github.com/Live-Hack-CVE/CVE-2015-10076)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10076">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10076">
+
+---
 ## CVE-2015-10075 (2023-02-07T12:15:00)
 > A vulnerability was found in Custom-Content-Width 1.0. It has been declared as problematic. Affected by this vulnerability is the function override_content_width/register_settings of the file custom-content-width.php. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.0.1 is able to address this issue. The name of the patch is e05e0104fc42ad13b57e2b2cb2d1857432624d39. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220219. NOTE: This attack is not very likely.
 - [Live-Hack-CVE/CVE-2015-10075](https://github.com/Live-Hack-CVE/CVE-2015-10075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-10075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-10075">
