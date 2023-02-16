@@ -555,6 +555,36 @@
 - [Live-Hack-CVE/CVE-2019-6643](https://github.com/Live-Hack-CVE/CVE-2019-6643)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6643">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6643">
 
 ---
+## CVE-2019-6639 (2019-07-03T19:15:00)
+> On BIG-IP (AFM, PEM) 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.1.4, 12.1.0-12.1.4, 11.6.1-11.6.3.4, and 11.5.1-11.5.8, an undisclosed TMUI pages for AFM and PEM Subscriber management are vulnerable to a stored cross-site scripting (XSS) issue. This is a control plane issue only and is not accessible from the data plane. The attack requires a malicious resource administrator to store the XSS.
+- [Live-Hack-CVE/CVE-2019-6639](https://github.com/Live-Hack-CVE/CVE-2019-6639)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6639">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6639">
+
+---
+## CVE-2019-6635 (2019-07-03T19:15:00)
+> On BIG-IP 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.1.4, 12.1.0-12.1.4, 11.6.1-11.6.3.4, and 11.5.1-11.5.8, when the BIG-IP system is licensed for Appliance mode, a user with either the Administrator or the Resource Administrator role can bypass Appliance mode restrictions.
+- [Live-Hack-CVE/CVE-2019-6635](https://github.com/Live-Hack-CVE/CVE-2019-6635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6635">
+
+---
+## CVE-2019-6633 (2019-07-03T18:15:00)
+> On BIG-IP 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.1.4, 12.1.0-12.1.4.1, and 11.5.1-11.6.4, when the BIG-IP system is licensed with Appliance mode, user accounts with Administrator and Resource Administrator roles can bypass Appliance mode restrictions.
+- [Live-Hack-CVE/CVE-2019-6633](https://github.com/Live-Hack-CVE/CVE-2019-6633)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6633">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6633">
+
+---
+## CVE-2019-6631 (2019-07-03T18:15:00)
+> On BIG-IP 11.5.1-11.6.4, iRules performing HTTP header manipulation may cause an interruption to service when processing traffic handled by a Virtual Server with an associated HTTP profile, in specific circumstances, when the requests do not strictly conform to RFCs.
+- [Live-Hack-CVE/CVE-2019-6631](https://github.com/Live-Hack-CVE/CVE-2019-6631)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6631">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6631">
+
+---
+## CVE-2019-6629 (2019-07-03T18:15:00)
+> On BIG-IP 14.1.0-14.1.0.5, undisclosed SSL traffic to a virtual server configured with a Client SSL profile may cause TMM to fail and restart. The Client SSL profile must have session tickets enabled and use DHE cipher suites to be affected. This only impacts the data plane, there is no impact to the control plane.
+- [Live-Hack-CVE/CVE-2019-6629](https://github.com/Live-Hack-CVE/CVE-2019-6629)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6629">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6629">
+
+---
+## CVE-2019-6623 (2019-07-02T22:15:00)
+> On BIG-IP 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.1.4, and 12.1.0-12.1.4, undisclosed traffic sent to BIG-IP iSession virtual server may cause the Traffic Management Microkernel (TMM) to restart, resulting in a Denial-of-Service (DoS).
+- [Live-Hack-CVE/CVE-2019-6623](https://github.com/Live-Hack-CVE/CVE-2019-6623)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6623">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6623">
+
+---
 ## CVE-2019-6614 (2019-05-03T20:29:00)
 > On BIG-IP 14.0.0-14.1.0.1, 13.0.0-13.1.1.4, and 12.1.0-12.1.4, internal methods used to prevent arbitrary file overwrites in Appliance Mode were not fully effective. An authenticated attacker with a high privilege level may be able to bypass protections implemented in appliance mode to overwrite arbitrary system files.
 - [Live-Hack-CVE/CVE-2019-6614](https://github.com/Live-Hack-CVE/CVE-2019-6614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6614">
