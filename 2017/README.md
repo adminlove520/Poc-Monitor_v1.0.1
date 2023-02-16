@@ -331,6 +331,7 @@
 ## CVE-2017-5124 (2018-02-07T23:29:00)
 > Incorrect application of sandboxing in Blink in Google Chrome prior to 62.0.3202.62 allowed a remote attacker to inject arbitrary scripts or HTML (UXSS) via a crafted MHTML page.
 - [grandDancer/CVE-2017-5124-RCE-0-Day](https://github.com/grandDancer/CVE-2017-5124-RCE-0-Day)	<img alt="forks" src="https://img.shields.io/github/forks/grandDancer/CVE-2017-5124-RCE-0-Day">	<img alt="stars" src="https://img.shields.io/github/stars/grandDancer/CVE-2017-5124-RCE-0-Day">
+- [Bo0oM/CVE-2017-5124](https://github.com/Bo0oM/CVE-2017-5124)	<img alt="forks" src="https://img.shields.io/github/forks/Bo0oM/CVE-2017-5124">	<img alt="stars" src="https://img.shields.io/github/stars/Bo0oM/CVE-2017-5124">
 
 ---
 ## CVE-2017-3738 (2017-12-07T16:29:00)
