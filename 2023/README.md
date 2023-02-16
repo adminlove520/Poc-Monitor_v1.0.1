@@ -1077,6 +1077,11 @@
 - [Live-Hack-CVE/CVE-2023-23835](https://github.com/Live-Hack-CVE/CVE-2023-23835)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23835">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23835">
 
 ---
+## CVE-2023-23752 (2023-02-16T17:15:00)
+> An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
+- [DanielRuf/CVE-2023-23752](https://github.com/DanielRuf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/CVE-2023-23752">
+
+---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
 > An issue was discovered in Joomla! 4.0.0 through 4.2.4. A missing ACL check allows non super-admin users to access com_actionlogs.
 - [Live-Hack-CVE/CVE-2023-23751](https://github.com/Live-Hack-CVE/CVE-2023-23751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23751">
