@@ -127,6 +127,11 @@
 - [Live-Hack-CVE/CVE-2023-25193](https://github.com/Live-Hack-CVE/CVE-2023-25193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25193">
 
 ---
+## CVE-2023-25173 (2023-02-16T15:15:00)
+> containerd is an open source container runtime. A bug was found in containerd prior to versions 1.6.18 and 1.5.18 where supplementary groups are not set up properly inside a container. If an attacker has direct access to a container and manipulates their supplementary group access, they may be able to use supplementary group access to bypass primary group restrictions in some cases, potentially gaining access to sensitive information or gaining the ability to execute code in that container. Downstream applications that use the containerd client library may be affected as well. This bug has been fixed in containerd v1.6.18 and v.1.5.18. Users should update to these versions and recreate containers to resolve this issue. Users who rely on a downstream application that uses containerd's client library should check that application for a separate advisory and instructions. As a workaround, ensure that the `"USER $USERNAME"` Dockerfile instruction is not used. Instead, set the container entrypoint to a value similar to `ENTRYPOINT ["su", "-", "user"]` to allow `su` to properly set up supplementary groups.
+- [Live-Hack-CVE/CVE-2023-25173](https://github.com/Live-Hack-CVE/CVE-2023-25173)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25173">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25173">
+
+---
 ## CVE-2023-25168 (2023-02-09T00:16:00)
 > Wings is Pterodactyl's server control plane. This vulnerability can be used to delete files and directories recursively on the host system. This vulnerability can be combined with `GHSA-p8r3-83r8-jwj5` to overwrite files on the host system. In order to use this exploit, an attacker must have an existing "server" allocated and controlled by Wings. This vulnerability has been resolved in version `v1.11.4` of Wings, and has been back-ported to the 1.7 release series in `v1.7.4`. Anyone running `v1.11.x` should upgrade to `v1.11.4` and anyone running `v1.7.x` should upgrade to `v1.7.4`. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2023-25168](https://github.com/Live-Hack-CVE/CVE-2023-25168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25168">
@@ -155,6 +160,11 @@
 ## CVE-2023-25159 (2023-02-13T17:15:00)
 > Nextcloud Server is the file server software for Nextcloud, a self-hosted productivity platform, and Nextcloud Office is a document collaboration app for the same platform. Nextcloud Server 24.0.x prior to 24.0.8 and 25.0.x prior to 25.0.1, Nextcloud Enterprise Server 24.0.x prior to 24.0.8 and 25.0.x prior to 25.0.1, and Nextcloud Office (Richdocuments) App 6.x prior to 6.3.1 and 7.x prior to 7.0.1 have previews accessible without a watermark. The download should be hidden and the watermark should get applied. This issue is fixed in Nextcloud Server 25.0.1 and 24.0.8, Nextcloud Enterprise Server 25.0.1 and 24.0.8, and Nextcloud Office (Richdocuments) App 7.0.1 (for 25) and 6.3.1 (for 24). No known workarounds are available.
 - [Live-Hack-CVE/CVE-2023-25159](https://github.com/Live-Hack-CVE/CVE-2023-25159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25159">
+
+---
+## CVE-2023-25153 (2023-02-16T15:15:00)
+> containerd is an open source container runtime. Before versions 1.6.18 and 1.5.18, when importing an OCI image, there was no limit on the number of bytes read for certain files. A maliciously crafted image with a large file where a limit was not applied could cause a denial of service. This bug has been fixed in containerd 1.6.18 and 1.5.18. Users should update to these versions to resolve the issue. As a workaround, ensure that only trusted images are used and that only trusted users have permissions to import images.
+- [Live-Hack-CVE/CVE-2023-25153](https://github.com/Live-Hack-CVE/CVE-2023-25153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25153">
 
 ---
 ## CVE-2023-25152 (2023-02-08T19:15:00)
@@ -258,6 +268,11 @@
 ## CVE-2023-24815 (2023-02-09T18:15:00)
 > Vert.x-Web is a set of building blocks for building web applications in the java programming language. When running vertx web applications that serve files using `StaticHandler` on Windows Operating Systems and Windows File Systems, if the mount point is a wildcard (`*`) then an attacker can exfiltrate any class path resource. When computing the relative path to locate the resource, in case of wildcards, the code: `return "/" + rest;` from `Utils.java` returns the user input (without validation) as the segment to lookup. Even though checks are performed to avoid escaping the sandbox, given that the input was not sanitized `\` are not properly handled and an attacker can build a path that is valid within the classpath. This issue only affects users deploying in windows environments and upgrading is the advised remediation path. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2023-24815](https://github.com/Live-Hack-CVE/CVE-2023-24815)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24815">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24815">
+
+---
+## CVE-2023-24814 (2023-02-07T19:15:00)
+> TYPO3 is a free and open source Content Management Framework released under the GNU General Public License. In affected versions the TYPO3 core component `GeneralUtility::getIndpEnv()` uses the unfiltered server environment variable `PATH_INFO`, which allows attackers to inject malicious content. In combination with the TypoScript setting `config.absRefPrefix=auto`, attackers can inject malicious HTML code to pages that have not been rendered and cached, yet. As a result, injected values would be cached and delivered to other website visitors (persisted cross-site scripting). Individual code which relies on the resolved value of `GeneralUtility::getIndpEnv('SCRIPT_NAME')` and corresponding usages (as shown below) are vulnerable as well. Additional investigations confirmed that at least Apache web server deployments using CGI (FPM, FCGI/FastCGI, and similar) are affected. However, there still might be the risk that other scenarios like nginx, IIS, or Apache/mod_php are vulnerable. The usage of server environment variable `PATH_INFO` has been removed from corresponding processings in `GeneralUtility::getIndpEnv()`. Besides that, the public property `TypoScriptFrontendController::$absRefPrefix` is encoded for both being used as a URI component and for being used as a prefix in an HTML context. This mitigates the cross-site scripting vulnerability. Users are advised to update to TYPO3 versions 8.7.51 ELTS, 9.5.40 ELTS, 10.4.35 LTS, 11.5.23 LTS and 12.2.0 which fix this problem. For users who are unable to patch in a timely manner the TypoScript setting `config.absRefPrefix` should at least be set to a static path value, instead of using auto - e.g. `config.absRefPrefix=/`. This workaround **does not fix all aspects of the vulnerability**, and is just considered to be an intermediate mitigation to the most prominent manifestation.
+- [Live-Hack-CVE/CVE-2023-24814](https://github.com/Live-Hack-CVE/CVE-2023-24814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24814">
 
 ---
 ## CVE-2023-24813 (2023-02-07T19:15:00)
@@ -589,6 +604,16 @@
 ## CVE-2023-24241 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /admin/loginpost.php.
 - [Live-Hack-CVE/CVE-2023-24241](https://github.com/Live-Hack-CVE/CVE-2023-24241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24241">
+
+---
+## CVE-2023-24238 (2023-02-16T15:15:00)
+> TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the city parameter at setting/delStaticDhcpRules.
+- [Live-Hack-CVE/CVE-2023-24238](https://github.com/Live-Hack-CVE/CVE-2023-24238)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24238">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24238">
+
+---
+## CVE-2023-24236 (2023-02-16T15:15:00)
+> TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the province parameter at setting/delStaticDhcpRules.
+- [Live-Hack-CVE/CVE-2023-24236](https://github.com/Live-Hack-CVE/CVE-2023-24236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24236">
 
 ---
 ## CVE-2023-24234 (2023-02-10T16:15:00)
@@ -926,6 +951,16 @@
 - [Live-Hack-CVE/CVE-2023-23937](https://github.com/Live-Hack-CVE/CVE-2023-23937)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23937">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23937">
 
 ---
+## CVE-2023-23931 (2023-02-07T21:15:00)
+> cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. In affected versions `Cipher.update_into` would accept Python objects which implement the buffer protocol, but provide only immutable buffers. This would allow immutable objects (such as `bytes`) to be mutated, thus violating fundamental rules of Python and resulting in corrupted output. This now correctly raises an exception. This issue has been present since `update_into` was originally introduced in cryptography 1.8.
+- [Live-Hack-CVE/CVE-2023-23931](https://github.com/Live-Hack-CVE/CVE-2023-23931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23931">
+
+---
+## CVE-2023-23926 (2023-02-16T16:15:00)
+> APOC (Awesome Procedures on Cypher) is an add-on library for Neo4j. An XML External Entity (XXE) vulnerability found in the apoc.import.graphml procedure of APOC core plugin prior to version 5.5.0 in Neo4j graph database. XML External Entity (XXE) injection occurs when the XML parser allows external entities to be resolved. The XML parser used by the apoc.import.graphml procedure was not configured in a secure way and therefore allowed this. External entities can be used to read local files, send HTTP requests, and perform denial-of-service attacks on the application. Abusing the XXE vulnerability enabled assessors to read local files remotely. Although with the level of privileges assessors had this was limited to one-line files. With the ability to write to the database, any file could have been read. Additionally, assessors noted, with local testing, the server could be crashed by passing in improperly formatted XML. The minimum version containing a patch for this vulnerability is 5.5.0. Those who cannot upgrade the library can control the allowlist of the procedures that can be used in your system.
+- [Live-Hack-CVE/CVE-2023-23926](https://github.com/Live-Hack-CVE/CVE-2023-23926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23926">
+
+---
 ## CVE-2023-23925 (2023-02-03T20:15:00)
 > Switcher Client is a JavaScript SDK to work with Switcher API which is cloud-based Feature Flag. Unsanitized input flows into Strategy match operation (EXIST), where it is used to build a regular expression. This may result in a Regular expression Denial of Service attack (reDOS). This issue has been patched in version 3.1.4. As a workaround, avoid using Strategy settings that use REGEX in conjunction with EXIST and NOT_EXIST operations.
 - [Live-Hack-CVE/CVE-2023-23925](https://github.com/Live-Hack-CVE/CVE-2023-23925)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23925">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23925">
@@ -1145,6 +1180,11 @@
 ## CVE-2023-23559 (2023-01-13T01:15:00)
 > In rndis_query_oid in drivers/net/wireless/rndis_wlan.c in the Linux kernel through 6.1.5, there is an integer overflow in an addition.
 - [Live-Hack-CVE/CVE-2023-23559](https://github.com/Live-Hack-CVE/CVE-2023-23559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23559">
+
+---
+## CVE-2023-23558 (2023-02-16T16:15:00)
+> In Eternal Terminal 6.2.1, TelemetryService uses fixed paths in /tmp. For example, a local attacker can create /tmp/.sentry-native-etserver with mode 0777 before the etserver process is started. The attacker can choose to read sensitive information from that file, or modify the information in that file.
+- [Live-Hack-CVE/CVE-2023-23558](https://github.com/Live-Hack-CVE/CVE-2023-23558)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23558">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23558">
 
 ---
 ## CVE-2023-23553 (2023-02-13T18:15:00)
@@ -1644,6 +1684,11 @@
 - [Live-Hack-CVE/CVE-2023-22736](https://github.com/Live-Hack-CVE/CVE-2023-22736)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22736">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22736">
 
 ---
+## CVE-2023-22735 (2023-02-07T19:15:00)
+> Zulip is an open-source team collaboration tool. In versions of zulip prior to commit `2f6c5a8` but after commit `04cf68b` users could upload files with arbitrary `Content-Type` which would be served from the Zulip hostname with `Content-Disposition: inline` and no `Content-Security-Policy` header, allowing them to trick other users into executing arbitrary Javascript in the context of the Zulip application. Among other things, this enables session theft. Only deployments which use the S3 storage (not the local-disk storage) are affected, and only deployments which deployed commit 04cf68b45ebb5c03247a0d6453e35ffc175d55da, which has only been in `main`, not any numbered release. Users affected should upgrade from main again to deploy this fix. Switching from S3 storage to the local-disk storage would nominally mitigate this, but is likely more involved than upgrading to the latest `main` which addresses the issue.
+- [Live-Hack-CVE/CVE-2023-22735](https://github.com/Live-Hack-CVE/CVE-2023-22735)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22735">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22735">
+
+---
 ## CVE-2023-22734 (2023-01-17T22:15:00)
 > Shopware is an open source commerce platform based on Symfony Framework and Vue js. The newsletter double opt-in validation was not checked properly, and it was possible to skip the complete double opt in process. As a result operators may have inconsistencies in their newsletter systems. This problem has been fixed with version 6.4.18.1. Users are advised to upgrade. Users unable to upgrade may find security measures are available via a plugin for major versions 6.1, 6.2, and 6.3. Users may also disable newsletter registration completely.
 - [Live-Hack-CVE/CVE-2023-22734](https://github.com/Live-Hack-CVE/CVE-2023-22734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22734">
@@ -1752,6 +1797,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22597 (2023-01-12T23:15:00)
 > InHand Networks InRouter 302, prior to version IR302 V3.5.56, and InRouter 615, prior to version InRouter6XX-S-V2.3.0.r5542, contain vulnerability CWE-319: Cleartext Transmission of Sensitive Information. They use an unsecured channel to communicate with the cloud platform by default. An unauthorized user could intercept this communication and steal sensitive information such as configuration information and MQTT credentials; this could allow MQTT command injection.
 - [Live-Hack-CVE/CVE-2023-22597](https://github.com/Live-Hack-CVE/CVE-2023-22597)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22597">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22597">
+
+---
+## CVE-2023-22580 (2023-02-16T15:15:00)
+> Due to improper input filtering in the sequalize js library, can malicious queries lead to sensitive information disclosure.
+- [Live-Hack-CVE/CVE-2023-22580](https://github.com/Live-Hack-CVE/CVE-2023-22580)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22580">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22580">
+
+---
+## CVE-2023-22579 (2023-02-16T15:15:00)
+> Due to improper parameter filtering in the sequalize js library, can a attacker peform injection.
+- [Live-Hack-CVE/CVE-2023-22579](https://github.com/Live-Hack-CVE/CVE-2023-22579)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22579">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22579">
+
+---
+## CVE-2023-22578 (2023-02-16T15:15:00)
+> Due to improper artibute filtering in the sequalize js library, can a attacker peform SQL injections.
+- [Live-Hack-CVE/CVE-2023-22578](https://github.com/Live-Hack-CVE/CVE-2023-22578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22578">
 
 ---
 ## CVE-2023-22575 (2023-02-01T14:15:00)

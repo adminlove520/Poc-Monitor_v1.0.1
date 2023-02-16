@@ -2367,6 +2367,11 @@
 - [Live-Hack-CVE/CVE-2021-4063](https://github.com/Live-Hack-CVE/CVE-2021-4063)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4063">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4063">
 
 ---
+## CVE-2021-40555 (2023-02-16T16:15:00)
+> Cross site scripting (XSS) vulnerability in flatCore-CMS 2.2.15 allows attackers to execute arbitrary code via description field on the new page creation form.
+- [Live-Hack-CVE/CVE-2021-40555](https://github.com/Live-Hack-CVE/CVE-2021-40555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40555">
+
+---
 ## CVE-2021-40529 (2021-09-06T19:15:00)
 > The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
