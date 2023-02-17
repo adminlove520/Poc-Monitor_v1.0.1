@@ -701,6 +701,21 @@
 - [Live-Hack-CVE/CVE-2023-24230](https://github.com/Live-Hack-CVE/CVE-2023-24230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24230">
 
 ---
+## CVE-2023-24221 (2023-02-17T07:15:00)
+> LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/DeptMapper.xml.
+- [Live-Hack-CVE/CVE-2023-24221](https://github.com/Live-Hack-CVE/CVE-2023-24221)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24221">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24221">
+
+---
+## CVE-2023-24220 (2023-02-17T07:15:00)
+> LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/RoleMapper.xml.
+- [Live-Hack-CVE/CVE-2023-24220](https://github.com/Live-Hack-CVE/CVE-2023-24220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24220">
+
+---
+## CVE-2023-24219 (2023-02-17T07:15:00)
+> LuckyframeWEB v3.5 was discovered to contain a SQL injection vulnerability via the dataScope parameter at /system/UserMapper.xml.
+- [Live-Hack-CVE/CVE-2023-24219](https://github.com/Live-Hack-CVE/CVE-2023-24219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24219">
+
+---
 ## CVE-2023-24202 (2023-02-06T15:15:00)
 > Raffle Draw System v1.0 was discovered to contain a local file inclusion vulnerability via the page parameter in index.php.
 - [Live-Hack-CVE/CVE-2023-24202](https://github.com/Live-Hack-CVE/CVE-2023-24202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24202">
@@ -859,6 +874,11 @@
 ## CVE-2023-24084 (2023-02-13T21:15:00)
 > ChiKoi v1.0 was discovered to contain a SQL injection vulnerability via the load_file function.
 - [Live-Hack-CVE/CVE-2023-24084](https://github.com/Live-Hack-CVE/CVE-2023-24084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24084">
+
+---
+## CVE-2023-24078 (2023-02-17T07:15:00)
+> Real Time Logic FuguHub v8.1 and earlier was discovered to contain a remote code execution (RCE) vulnerability via the component /FuguHub/cmsdocs/.
+- [Live-Hack-CVE/CVE-2023-24078](https://github.com/Live-Hack-CVE/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24078">
 
 ---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
@@ -1145,6 +1165,11 @@
 ## CVE-2023-23696 (2023-02-07T10:15:00)
 > Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system.
 - [Live-Hack-CVE/CVE-2023-23696](https://github.com/Live-Hack-CVE/CVE-2023-23696)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23696">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23696">
+
+---
+## CVE-2023-23695 (2023-02-17T07:15:00)
+> Dell Secure Connect Gateway (SCG) version 5.14.00.12 contains a broken cryptographic algorithm vulnerability. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information.
+- [Live-Hack-CVE/CVE-2023-23695](https://github.com/Live-Hack-CVE/CVE-2023-23695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23695">
 
 ---
 ## CVE-2023-23692 (2023-02-01T13:15:00)
@@ -3736,6 +3761,21 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-20007 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers could allow an authenticated, remote attacker to execute arbitrary code or cause the web-based management process on the device to restart unexpectedly, resulting in a denial of service (DoS) condition. The attacker must have valid administrator credentials. This vulnerability is due to insufficient validation of user-supplied input to the web-based management interface. An attacker could exploit this vulnerability by sending crafted HTTP input to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the web-based management process to restart, resulting in a DoS condition.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
+
+---
+## CVE-2023-0887 (2023-02-17T09:15:00)
+> A vulnerability was found in phjounin TFTPD64-SE 4.64 and classified as critical. This issue affects some unknown processing of the file tftpd64_svc.exe. The manipulation leads to unquoted search path. An attack has to be approached locally. The associated identifier of this vulnerability is VDB-221351.
+- [Live-Hack-CVE/CVE-2023-0887](https://github.com/Live-Hack-CVE/CVE-2023-0887)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0887">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0887">
+
+---
+## CVE-2023-0883 (2023-02-17T09:15:00)
+> A vulnerability has been found in SourceCodester Online Pizza Ordering System 1.0 and classified as critical. This vulnerability affects unknown code of the file /php-opos/index.php. The manipulation of the argument ID leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-221350 is the identifier assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2023-0883](https://github.com/Live-Hack-CVE/CVE-2023-0883)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0883">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0883">
+
+---
+## CVE-2023-0882 (2023-02-17T10:15:00)
+> Improper Input Validation, Authorization Bypass Through User-Controlled Key vulnerability in Kron Tech Single Connect on Windows allows Privilege Abuse.This issue affects Single Connect: 2.16.
+- [Live-Hack-CVE/CVE-2023-0882](https://github.com/Live-Hack-CVE/CVE-2023-0882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0882">
 
 ---
 ## CVE-2023-0880 (2023-02-17T03:15:00)
