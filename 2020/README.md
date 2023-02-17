@@ -625,6 +625,11 @@
 - [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
 
 ---
+## CVE-2020-6817 (2023-02-16T22:15:00)
+> bleach.clean behavior parsing style attributes could result in a regular expression denial of service (ReDoS). Calls to bleach.clean with an allowed tag with an allowed style attribute are vulnerable to ReDoS. For example, bleach.clean(..., attributes={'a': ['style']}).
+- [Live-Hack-CVE/CVE-2020-6817](https://github.com/Live-Hack-CVE/CVE-2020-6817)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6817">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6817">
+
+---
 ## CVE-2020-6806 (2020-03-25T22:15:00)
 > By carefully crafting promise resolutions, it was possible to cause an out-of-bounds read off the end of an array resized during script execution. This could have led to memory corruption and a potentially exploitable crash. This vulnerability affects Thunderbird < 68.6, Firefox < 74, Firefox < ESR68.6, and Firefox ESR < 68.6.
 - [Live-Hack-CVE/CVE-2020-6806](https://github.com/Live-Hack-CVE/CVE-2020-6806)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6806">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6806">
@@ -4623,6 +4628,11 @@
 ## CVE-2020-12415 (2020-07-09T15:15:00)
 > When "%2F" was present in a manifest URL, Firefox's AppCache behavior may have become confused and allowed a manifest to be served from a subdirectory. This could cause the appcache to be used to service requests for the top level directory. This vulnerability affects Firefox < 78.
 - [Live-Hack-CVE/CVE-2020-12415](https://github.com/Live-Hack-CVE/CVE-2020-12415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12415">
+
+---
+## CVE-2020-12413 (2023-02-16T22:15:00)
+> The Raccoon attack is a timing attack on DHE ciphersuites inherit in the TLS specification. To mitigate this vulnerability, Firefox disabled support for DHE ciphersuites.
+- [Live-Hack-CVE/CVE-2020-12413](https://github.com/Live-Hack-CVE/CVE-2020-12413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12413">
 
 ---
 ## CVE-2020-12406 (2020-07-09T15:15:00)
