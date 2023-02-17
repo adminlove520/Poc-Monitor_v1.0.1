@@ -6599,6 +6599,11 @@
 - [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
 
 ---
+## CVE-2021-26277 (2023-02-17T22:15:00)
+> The framework service handles pendingIntent incorrectly, allowing a malicious application with certain privileges to perform privileged actions.
+- [Live-Hack-CVE/CVE-2021-26277](https://github.com/Live-Hack-CVE/CVE-2021-26277)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26277">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26277">
+
+---
 ## CVE-2021-26260 (2021-06-08T12:15:00)
 > An integer overflow leading to a heap-buffer overflow was found in the DwaCompressor of OpenEXR in versions before 3.0.1. An attacker could use this flaw to crash an application compiled with OpenEXR. This is a different flaw from CVE-2021-23215.
 - [Live-Hack-CVE/CVE-2021-26260](https://github.com/Live-Hack-CVE/CVE-2021-26260)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26260">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26260">
