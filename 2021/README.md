@@ -4927,6 +4927,11 @@
 - [Live-Hack-CVE/CVE-2021-3426](https://github.com/Live-Hack-CVE/CVE-2021-3426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3426">
 
 ---
+## CVE-2021-34250 (2022-04-11T15:15:00)
+> ** REJECT ** DO NOT USE THIS CVE RECORD. ConsultIDs: CVE-2021-33396. Reason: This record is a duplicate of CVE-2021-33396. Notes: All CVE users should reference CVE-2021-33396 instead of this record. All references and descriptions in this record have been removed to prevent accidental usage.
+- [Live-Hack-CVE/CVE-2021-34250](https://github.com/Live-Hack-CVE/CVE-2021-34250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34250">
+
+---
 ## CVE-2021-34182 (2023-02-17T18:15:00)
 > An issue in ttyd v.1.6.3 allows attacker to execute arbitrary code via default configuration permissions.
 - [Live-Hack-CVE/CVE-2021-34182](https://github.com/Live-Hack-CVE/CVE-2021-34182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34182">

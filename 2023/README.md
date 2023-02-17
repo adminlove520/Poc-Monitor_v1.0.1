@@ -255,6 +255,11 @@
 - [Live-Hack-CVE/CVE-2023-24977](https://github.com/Live-Hack-CVE/CVE-2023-24977)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24977">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24977">
 
 ---
+## CVE-2023-24960 (2023-02-17T19:15:00)
+> IBM InfoSphere Information Server 11.7 could allow a remote attacker to traverse directories on the system. An attacker could send a specially crafted URL request containing "dot dot" sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 246333
+- [Live-Hack-CVE/CVE-2023-24960](https://github.com/Live-Hack-CVE/CVE-2023-24960)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24960">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24960">
+
+---
 ## CVE-2023-24956 (2023-02-01T00:15:00)
 > Forget Heart Message Box v1.1 was discovered to contain a SQL injection vulnerability via the name parameter at /cha.php.
 - [Live-Hack-CVE/CVE-2023-24956](https://github.com/Live-Hack-CVE/CVE-2023-24956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24956">
@@ -288,6 +293,11 @@
 ## CVE-2023-24813 (2023-02-07T19:15:00)
 > Dompdf is an HTML to PDF converter written in php. Due to the difference in the attribute parser of Dompdf and php-svg-lib, an attacker can still call arbitrary URLs with arbitrary protocols. Dompdf parses the href attribute of `image` tags and respects `xlink:href` even if `href` is specified. However, php-svg-lib, which is later used to parse the svg file, parses the href attribute. Since `href` is respected if both `xlink:href` and `href` is specified, it's possible to bypass the protection on the Dompdf side by providing an empty `xlink:href` attribute. An attacker can exploit the vulnerability to call arbitrary URLs with arbitrary protocols if they provide an SVG file to the Dompdf. In PHP versions before 8.0.0, it leads to arbitrary unserialize, which will lead, at the very least, to arbitrary file deletion and might lead to remote code execution, depending on available classes. This vulnerability has been addressed in commit `95009ea98` which has been included in release version 2.0.3. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [Live-Hack-CVE/CVE-2023-24813](https://github.com/Live-Hack-CVE/CVE-2023-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24813">
+
+---
+## CVE-2023-24809 (2023-02-17T20:15:00)
+> NetHack is a single player dungeon exploration game. Starting with version 3.6.2 and prior to version 3.6.7, illegal input to the "C" (call) command can cause a buffer overflow and crash the NetHack process. This vulnerability may be a security issue for systems that have NetHack installed suid/sgid and for shared systems. For all systems, it may result in a process crash. This issue is resolved in NetHack 3.6.7. There are no known workarounds.
+- [Live-Hack-CVE/CVE-2023-24809](https://github.com/Live-Hack-CVE/CVE-2023-24809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24809">
 
 ---
 ## CVE-2023-24808 (2023-02-07T01:15:00)
@@ -624,6 +634,26 @@
 ## CVE-2023-24377 (2023-02-14T12:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Ecwid Ecommerce Ecwid Ecommerce Shopping Cart plugin <= 6.11.3 versions.
 - [Live-Hack-CVE/CVE-2023-24377](https://github.com/Live-Hack-CVE/CVE-2023-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24377">
+
+---
+## CVE-2023-24352 (2023-02-10T15:15:00)
+> D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formWPS.
+- [Live-Hack-CVE/CVE-2023-24352](https://github.com/Live-Hack-CVE/CVE-2023-24352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24352">
+
+---
+## CVE-2023-24350 (2023-02-10T15:15:00)
+> D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the config.smtp_email_subject parameter at /goform/formSetEmail.
+- [Live-Hack-CVE/CVE-2023-24350](https://github.com/Live-Hack-CVE/CVE-2023-24350)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24350">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24350">
+
+---
+## CVE-2023-24349 (2023-02-10T15:15:00)
+> D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSetRoute.
+- [Live-Hack-CVE/CVE-2023-24349](https://github.com/Live-Hack-CVE/CVE-2023-24349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24349">
+
+---
+## CVE-2023-24348 (2023-02-10T15:15:00)
+> D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSetACLFilter.
+- [Live-Hack-CVE/CVE-2023-24348](https://github.com/Live-Hack-CVE/CVE-2023-24348)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24348">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24348">
 
 ---
 ## CVE-2023-24347 (2023-02-10T15:15:00)
@@ -1072,6 +1102,21 @@
 - [motikan2010/CVE-2023-23924](https://github.com/motikan2010/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-23924">
 
 ---
+## CVE-2023-23923 (2023-02-17T20:15:00)
+> The vulnerability was found Moodle which exists due to insufficient limitations on the "start page" preference. A remote attacker can set that preference for another user. The vulnerability allows a remote attacker to gain unauthorized access to otherwise restricted functionality.
+- [Live-Hack-CVE/CVE-2023-23923](https://github.com/Live-Hack-CVE/CVE-2023-23923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23923">
+
+---
+## CVE-2023-23922 (2023-02-17T20:15:00)
+> The vulnerability was found Moodle which exists due to insufficient sanitization of user-supplied data in blog search. A remote attacker can trick the victim to follow a specially crafted link and execute arbitrary HTML and script code in user's browser in context of vulnerable website. This flaw allows a remote attacker to perform cross-site scripting (XSS) attacks.
+- [Live-Hack-CVE/CVE-2023-23922](https://github.com/Live-Hack-CVE/CVE-2023-23922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23922">
+
+---
+## CVE-2023-23921 (2023-02-17T20:15:00)
+> The vulnerability was found Moodle which exists due to insufficient sanitization of user-supplied data in some returnurl parameters. A remote attacker can trick the victim to follow a specially crafted link and execute arbitrary HTML and script code in user's browser in context of vulnerable website. This flaw allows a remote attacker to perform cross-site scripting (XSS) attacks.
+- [Live-Hack-CVE/CVE-2023-23921](https://github.com/Live-Hack-CVE/CVE-2023-23921)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23921">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23921">
+
+---
 ## CVE-2023-23912 (2023-02-09T20:15:00)
 > A vulnerability, found in EdgeRouters Version 2.0.9-hotfix.5 and earlier and UniFi Security Gateways (USG) Version 4.4.56 and earlier with their DHCPv6 prefix delegation set to dhcpv6-stateless or dhcpv6-stateful, allows a malicious actor directly connected to the WAN interface of an affected device to create a remote code execution vulnerability.
 - [Live-Hack-CVE/CVE-2023-23912](https://github.com/Live-Hack-CVE/CVE-2023-23912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23912">
@@ -1402,6 +1447,11 @@
 ## CVE-2023-23314 (2023-01-23T05:15:00)
 > An arbitrary file upload vulnerability in the /api/upload component of zdir v3.2.0 allows attackers to execute arbitrary code via a crafted .ssh file.
 - [Live-Hack-CVE/CVE-2023-23314](https://github.com/Live-Hack-CVE/CVE-2023-23314)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23314">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23314">
+
+---
+## CVE-2023-23279 (2023-02-17T19:15:00)
+> Canteen Management System 1.0 is vulnerable to SQL Injection via /php_action/getOrderReport.php.
+- [Live-Hack-CVE/CVE-2023-23279](https://github.com/Live-Hack-CVE/CVE-2023-23279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23279">
 
 ---
 ## CVE-2023-23163 (2023-02-10T20:15:00)
@@ -3683,6 +3733,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
 
 ---
+## CVE-2023-21451 (2023-02-09T19:15:00)
+> A Stack-based overflow vulnerability in IpcRxEmbmsSessionList in SECRIL prior to Android S(12) allows attacker to cause memory corruptions.
+- [Live-Hack-CVE/CVE-2023-21451](https://github.com/Live-Hack-CVE/CVE-2023-21451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21451">
+
+---
 ## CVE-2023-21450 (2023-02-09T19:15:00)
 > Missing Authorization vulnerability in One Hand Operation + prior to version 6.1.21 allows multi-users to access owner&#39;s widget without authorization via gesture setting.
 - [Live-Hack-CVE/CVE-2023-21450](https://github.com/Live-Hack-CVE/CVE-2023-21450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21450">
@@ -3696,6 +3751,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21447 (2023-02-09T19:15:00)
 > Improper access control vulnerabilities in Samsung Cloud prior to version 5.3.0.32 allows local attackers to access information with Samsung Cloud&#39;s privilege via implicit intent.
 - [Live-Hack-CVE/CVE-2023-21447](https://github.com/Live-Hack-CVE/CVE-2023-21447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21447">
+
+---
+## CVE-2023-21446 (2023-02-09T19:15:00)
+> Improper input validation in MyFiles prior to version 12.2.09 in Android R(11), 13.1.03.501 in Android S( 12) and 14.1.00.422 in Android T(13) allows local attacker to access data of MyFiles.
+- [Live-Hack-CVE/CVE-2023-21446](https://github.com/Live-Hack-CVE/CVE-2023-21446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21446">
+
+---
+## CVE-2023-21445 (2023-02-09T19:15:00)
+> Improper access control vulnerability in MyFiles prior to versions 12.2.09 in Android R(11), 13.1.03.501 in Android S(12) and 14.1.00.422 in Android T(13) allows local attacker to write file with MyFiles privilege via implicit intent.
+- [Live-Hack-CVE/CVE-2023-21445](https://github.com/Live-Hack-CVE/CVE-2023-21445)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21445">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21445">
 
 ---
 ## CVE-2023-21444 (2023-02-09T19:15:00)
@@ -3721,6 +3786,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21431 (2023-02-09T19:15:00)
 > Improper input validation in Bixby Vision prior to version 3.7.70.17 allows attacker to access data of Bixby Vision.
 - [Live-Hack-CVE/CVE-2023-21431](https://github.com/Live-Hack-CVE/CVE-2023-21431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21431">
+
+---
+## CVE-2023-21420 (2023-02-09T19:15:00)
+> Use of Externally-Controlled Format String vulnerabilities in STST TA prior to SMR Jan-2023 Release 1 allows arbitrary code execution.
+- [Live-Hack-CVE/CVE-2023-21420](https://github.com/Live-Hack-CVE/CVE-2023-21420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21420">
 
 ---
 ## CVE-2023-21419 (2023-02-09T19:15:00)
