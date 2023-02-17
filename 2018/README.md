@@ -462,6 +462,11 @@
 - [Live-Hack-CVE/CVE-2018-3914](https://github.com/Live-Hack-CVE/CVE-2018-3914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3914">
 
 ---
+## CVE-2018-3912 (2018-08-23T18:29:00)
+> On Samsung SmartThings Hub STH-ETH-250 devices with firmware version 0.20.17, the video-core process insecurely extracts the fields from the "shard" table of its SQLite database, leading to a buffer overflow on the stack. The strcpy call overflows the destination buffer, which has a size of 128 bytes. An attacker can send an arbitrarily long "secretKey" value in order to exploit this vulnerability.
+- [Live-Hack-CVE/CVE-2018-3912](https://github.com/Live-Hack-CVE/CVE-2018-3912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3912">
+
+---
 ## CVE-2018-3910 (2018-11-01T15:29:00)
 > An exploitable code execution vulnerability exists in the cloud OTA setup functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted SSID can cause a command injection, resulting in code execution. An attacker can cause a camera to connect to this SSID to trigger this vulnerability. Alternatively, an attacker can convince a user to connect their camera to this SSID.
 - [Live-Hack-CVE/CVE-2018-3910](https://github.com/Live-Hack-CVE/CVE-2018-3910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3910">
@@ -906,6 +911,11 @@
 ## CVE-2018-25012 (2021-05-21T17:15:00)
 > A heap-based buffer overflow was found in libwebp in versions before 1.0.1 in GetLE24().
 - [Live-Hack-CVE/CVE-2018-25012](https://github.com/Live-Hack-CVE/CVE-2018-25012)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25012">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25012">
+
+---
+## CVE-2018-25009 (2021-05-21T17:15:00)
+> A heap-based buffer overflow was found in libwebp in versions before 1.0.1 in GetLE16().
+- [Live-Hack-CVE/CVE-2018-25009](https://github.com/Live-Hack-CVE/CVE-2018-25009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-25009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-25009">
 
 ---
 ## CVE-2018-21010 (2019-09-05T13:15:00)

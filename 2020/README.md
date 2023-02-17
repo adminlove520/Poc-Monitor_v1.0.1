@@ -68,6 +68,11 @@
 - [Live-Hack-CVE/CVE-2022-23181](https://github.com/Live-Hack-CVE/CVE-2022-23181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23181">
 
 ---
+## CVE-2020-9453 (2021-02-05T20:15:00)
+> In Epson iProjection v2.30, the driver file EMP_MPAU.sys allows local users to cause a denial of service (BSOD) or possibly have unspecified other impact because of not validating input values from IOCtl 0x9C402406 and IOCtl 0x9C40240A. (0x9C402402 has only a NULL pointer dereference.) This affects \Device\EMPMPAUIO and \DosDevices\EMPMPAU.
+- [Live-Hack-CVE/CVE-2020-9453](https://github.com/Live-Hack-CVE/CVE-2020-9453)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9453">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9453">
+
+---
 ## CVE-2020-9420 (2022-12-14T01:15:00)
 > The login password of the web administrative dashboard in Arcadyan Wifi routers VRV9506JAC23 is sent in cleartext, allowing an attacker to sniff and intercept traffic to learn the administrative credentials to the router.
 - [Live-Hack-CVE/CVE-2020-9420](https://github.com/Live-Hack-CVE/CVE-2020-9420)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9420">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9420">

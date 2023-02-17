@@ -3738,6 +3738,26 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-0880 (2023-02-17T03:15:00)
+> Misinterpretation of Input in GitHub repository thorsten/phpmyfaq prior to 3.1.11.
+- [Live-Hack-CVE/CVE-2023-0880](https://github.com/Live-Hack-CVE/CVE-2023-0880)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0880">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0880">
+
+---
+## CVE-2023-0879 (2023-02-17T02:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.12.
+- [Live-Hack-CVE/CVE-2023-0879](https://github.com/Live-Hack-CVE/CVE-2023-0879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0879">
+
+---
+## CVE-2023-0878 (2023-02-17T01:15:00)
+> Cross-site Scripting (XSS) - Generic in GitHub repository nuxt/framework prior to 3.2.1.
+- [Live-Hack-CVE/CVE-2023-0878](https://github.com/Live-Hack-CVE/CVE-2023-0878)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0878">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0878">
+
+---
+## CVE-2023-0877 (2023-02-17T01:15:00)
+> Code Injection in GitHub repository froxlor/froxlor prior to 2.0.11.
+- [Live-Hack-CVE/CVE-2023-0877](https://github.com/Live-Hack-CVE/CVE-2023-0877)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0877">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0877">
+
+---
 ## CVE-2023-0862 (2023-02-16T10:15:00)
 > The NetModule NSRW web administration interface is vulnerable to path traversals, which could lead to arbitrary file uploads and deletion. By uploading malicious files to the web root directory, authenticated users could gain remote command execution with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 before 4.6.0.105, from 4.7.0.0 before 4.7.0.103. The issue affects NSRW packaged by Phoenix Contact routers: from 4.6.72.0 before 4.6.72.101, from 4.6.73.0 before 4.6.73.101.
 - [Live-Hack-CVE/CVE-2023-0862](https://github.com/Live-Hack-CVE/CVE-2023-0862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0862">
