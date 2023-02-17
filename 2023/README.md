@@ -4074,6 +4074,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0780](https://github.com/Live-Hack-CVE/CVE-2023-0780)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0780">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0780">
 
 ---
+## CVE-2023-0777 (2023-02-10T19:15:00)
+> Authentication Bypass by Primary Weakness in GitHub repository modoboa/modoboa prior to 2.0.4.
+- [Live-Hack-CVE/CVE-2023-0777](https://github.com/Live-Hack-CVE/CVE-2023-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0777">
+
+---
 ## CVE-2023-0776 (2023-02-11T01:23:00)
 > Baicells Nova 436Q, Nova 430E, Nova 430I, and Neutrino 430 LTE TDD eNodeB devices with firmware through QRTB 2.12.7 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validated by a 3rd party analyst and has been confirmed exploitable special thanks to Rustam Amin for providing the steps to reproduce.
 - [Live-Hack-CVE/CVE-2023-0776](https://github.com/Live-Hack-CVE/CVE-2023-0776)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0776">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0776">

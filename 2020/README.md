@@ -3303,6 +3303,11 @@
 - [Live-Hack-CVE/CVE-2020-19825](https://github.com/Live-Hack-CVE/CVE-2020-19825)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19825">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19825">
 
 ---
+## CVE-2020-19824 (2023-02-17T18:15:00)
+> An issue in MPV v.0.29.1 fixed in v0.30 allows attackers to execute arbitrary code and crash program via the ao_c parameter.
+- [Live-Hack-CVE/CVE-2020-19824](https://github.com/Live-Hack-CVE/CVE-2020-19824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19824">
+
+---
 ## CVE-2020-19778 (2021-04-14T14:15:00)
 > Incorrect Access Control in Shopxo v1.4.0 and v1.5.0 allows remote attackers to gain privileges in "/index.php" by manipulating the parameter "user_id" in the HTML request.
 - [Live-Hack-CVE/CVE-2020-19778](https://github.com/Live-Hack-CVE/CVE-2020-19778)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-19778">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-19778">

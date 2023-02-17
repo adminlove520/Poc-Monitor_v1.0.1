@@ -4431,6 +4431,11 @@
 - [Live-Hack-CVE/CVE-2021-35284](https://github.com/Live-Hack-CVE/CVE-2021-35284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35284">
 
 ---
+## CVE-2021-35261 (2023-02-17T18:15:00)
+> File Upload Vulnerability in Yupoxion BearAdmin before commit 10176153528b0a914eb4d726e200fd506b73b075 allows attacker to execute arbitrary remote code via the Upfile function of the extend/tools/Ueditor endpoint.
+- [Live-Hack-CVE/CVE-2021-35261](https://github.com/Live-Hack-CVE/CVE-2021-35261)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35261">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35261">
+
+---
 ## CVE-2021-35252 (2022-12-16T16:15:00)
 > Common encryption key appears to be used across all deployed instances of Serv-U FTP Server. Because of this an encrypted value that is exposed to an attacker can be simply recovered to plaintext.
 - [Live-Hack-CVE/CVE-2021-35252](https://github.com/Live-Hack-CVE/CVE-2021-35252)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35252">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35252">
@@ -4922,9 +4927,19 @@
 - [Live-Hack-CVE/CVE-2021-3426](https://github.com/Live-Hack-CVE/CVE-2021-3426)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3426">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3426">
 
 ---
+## CVE-2021-34182 (2023-02-17T18:15:00)
+> An issue in ttyd v.1.6.3 allows attacker to execute arbitrary code via default configuration permissions.
+- [Live-Hack-CVE/CVE-2021-34182](https://github.com/Live-Hack-CVE/CVE-2021-34182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34182">
+
+---
 ## CVE-2021-34181 (2022-12-05T21:15:00)
 > Cross Site Scripting (XSS) vulnerability in TomExam 3.0 via p_name parameter to list.thtml.
 - [Live-Hack-CVE/CVE-2021-34181](https://github.com/Live-Hack-CVE/CVE-2021-34181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34181">
+
+---
+## CVE-2021-34164 (2023-02-17T18:15:00)
+> Permissions vulnerability in LIZHIFAKA v.2.2.0 allows authenticated attacker to execute arbitrary commands via the set password function in the admin/index/email location.
+- [Live-Hack-CVE/CVE-2021-34164](https://github.com/Live-Hack-CVE/CVE-2021-34164)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34164">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34164">
 
 ---
 ## CVE-2021-34117 (2023-02-15T22:15:00)
@@ -4937,12 +4952,32 @@
 - [Live-Hack-CVE/CVE-2021-3410](https://github.com/Live-Hack-CVE/CVE-2021-3410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3410">
 
 ---
+## CVE-2021-33983 (2023-02-17T18:15:00)
+> Buffer Overflow vulnerability in Dvidelabs flatcc v.0.6.0 allows local attacker to execute arbitrary code via the fltacc execution of the error_ref_sym function.
+- [Live-Hack-CVE/CVE-2021-33983](https://github.com/Live-Hack-CVE/CVE-2021-33983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33983">
+
+---
 ## CVE-2021-33959 (2023-01-18T14:15:00)
 > Plex media server 1.21 and before is vulnerable to ddos reflection attack via plex service.
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [Live-Hack-CVE/CVE-2021-33959](https://github.com/Live-Hack-CVE/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33959">
+
+---
+## CVE-2021-33949 (2023-02-17T18:15:00)
+> An issue in FeMiner WMS v1.1 allows attackers to execute arbitrary code via the filename parameter and the exec function.
+- [Live-Hack-CVE/CVE-2021-33949](https://github.com/Live-Hack-CVE/CVE-2021-33949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33949">
+
+---
+## CVE-2021-33948 (2023-02-17T18:15:00)
+> SQL injection vulnerability in FantasticLBP Hotels Server v1.0 allows attacker to execute arbitrary code via the username parameter.
+- [Live-Hack-CVE/CVE-2021-33948](https://github.com/Live-Hack-CVE/CVE-2021-33948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33948">
+
+---
+## CVE-2021-33926 (2023-02-17T18:15:00)
+> An issue in Plone CMS v. 5.2.4, 5.2.3, 5.2.2, 5.2.1, 5.2.0, 5.1rc2, 5.1rc1, 5.1b4, 5.1b3, 5.1b2, 5.1a2, 5.1a1, 5.1.7, 5.1.6, 5.1.5, 5.1.4, 5.1.2, 5.1.1 5.1, 5.0rc3, 5.0rc2, 5.0rc1, 5.0.9, 5.0.8, 5.0.7, 5.0.6, 5.0.5, 5.0.4, 5.0.3, 5.0.2, 5.0.10, 5.0.1, 5.0, 4.3.9, 4.3.8, 4.3.7, 4.3.6, 4.3.5, 4.3.4, 4.3.3, 4.3.20, 4 allows attacker to access sensitive information via the RSS feed protlet.
+- [Live-Hack-CVE/CVE-2021-33926](https://github.com/Live-Hack-CVE/CVE-2021-33926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33926">
 
 ---
 ## CVE-2021-33925 (2023-02-15T22:15:00)
@@ -5101,6 +5136,11 @@
 - [Live-Hack-CVE/CVE-2021-33396](https://github.com/Live-Hack-CVE/CVE-2021-33396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33396">
 
 ---
+## CVE-2021-33391 (2023-02-17T18:15:00)
+> An issue in HTACG HTML Tidy v5.7.28 allows attacker to execute arbitrary code via the -g option of the CleanNode() function in gdoc.c.
+- [Live-Hack-CVE/CVE-2021-33391](https://github.com/Live-Hack-CVE/CVE-2021-33391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33391">
+
+---
 ## CVE-2021-33304 (2023-02-15T22:15:00)
 > Double Free vulnerability in virtualsquare picoTCP v1.7.0 and picoTCP-NG v2.1 in modules/pico_fragments.c in function pico_fragments_reassemble, allows attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-33304](https://github.com/Live-Hack-CVE/CVE-2021-33304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33304">
@@ -5111,6 +5151,11 @@
 - [Live-Hack-CVE/CVE-2021-3326](https://github.com/Live-Hack-CVE/CVE-2021-3326)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3326">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3326">
 
 ---
+## CVE-2021-33237 (2023-02-17T18:15:00)
+> Cross Site Scripting vulnerability in YMFE yapo v1.9.1 allows attacker to execute arbitrary code via the remark parameter of the interface edit page.
+- [Live-Hack-CVE/CVE-2021-33237](https://github.com/Live-Hack-CVE/CVE-2021-33237)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33237">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33237">
+
+---
 ## CVE-2021-33236 (2022-08-15T20:15:00)
 > Buffer Overflow vulnerability in write_header in htmldoc through 1.9.11 allows attackers to casue a denial of service via /htmldoc/htmldoc/html.cxx:273.
 - [Live-Hack-CVE/CVE-2021-33236](https://github.com/Live-Hack-CVE/CVE-2021-33236)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33236">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33236">
@@ -5119,6 +5164,11 @@
 ## CVE-2021-33235 (2022-08-15T20:15:00)
 > Buffer overflow vulnerability in write_node in htmldoc through 1.9.11 allows attackers to cause a denial of service via htmldoc/htmldoc/html.cxx:588.
 - [Live-Hack-CVE/CVE-2021-33235](https://github.com/Live-Hack-CVE/CVE-2021-33235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33235">
+
+---
+## CVE-2021-33226 (2023-02-17T18:15:00)
+> Buffer Overflow vulnerability in Saltstack v.3003 and before allows attacker to execute arbitrary code via the func variable in salt/salt/modules/status.py file.
+- [Live-Hack-CVE/CVE-2021-33226](https://github.com/Live-Hack-CVE/CVE-2021-33226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33226">
 
 ---
 ## CVE-2021-3322 (2021-10-12T22:15:00)
@@ -5271,6 +5321,11 @@
 > mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In mod_auth_openidc before version 2.4.9, the AES GCM encryption in mod_auth_openidc uses a static IV and AAD. It is important to fix because this creates a static nonce and since aes-gcm is a stream cipher, this can lead to known cryptographic issues, since the same key is being reused. From 2.4.9 onwards this has been patched to use dynamic values through usage of cjose AES encryption routines.
 - [Live-Hack-CVE/CVE-2021-32791](https://github.com/Live-Hack-CVE/CVE-2021-32791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32791">
 - [Live-Hack-CVE/CVE-2021-32791](https://github.com/Live-Hack-CVE/CVE-2021-32791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32791">
+
+---
+## CVE-2021-32789 (2021-07-26T16:15:00)
+> woocommerce-gutenberg-products-block is a feature plugin for WooCommerce Gutenberg Blocks. An SQL injection vulnerability impacts all WooCommerce sites running the WooCommerce Blocks feature plugin between version 2.5.0 and prior to version 2.5.16. Via a carefully crafted URL, an exploit can be executed against the `wc/store/products/collection-data?calculate_attribute_counts[][taxonomy]` endpoint that allows the execution of a read only sql query. There are patches for many versions of this package, starting with version 2.5.16. There are no known workarounds aside from upgrading.
+- [and0x00/CVE-2021-32789](https://github.com/and0x00/CVE-2021-32789)	<img alt="forks" src="https://img.shields.io/github/forks/and0x00/CVE-2021-32789">	<img alt="stars" src="https://img.shields.io/github/stars/and0x00/CVE-2021-32789">
 
 ---
 ## CVE-2021-32779 (2021-08-24T21:15:00)
@@ -5437,6 +5492,16 @@
 - [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
 
 ---
+## CVE-2021-32441 (2023-02-17T18:15:00)
+> SQL Injection vulnerability in Exponent-CMS v.2.6.0 fixed in 2.7.0 allows attackers to gain access to sensitive information via the selectValue function in the expConfig class.
+- [Live-Hack-CVE/CVE-2021-32441](https://github.com/Live-Hack-CVE/CVE-2021-32441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32441">
+
+---
+## CVE-2021-32419 (2023-02-17T18:15:00)
+> An issue in Schism Tracker v20200412 fixed in v.20200412 allows attacker to obtain sensitive information via the fmt_mtm_load_song function in fmt/mtm.c.
+- [Live-Hack-CVE/CVE-2021-32419](https://github.com/Live-Hack-CVE/CVE-2021-32419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32419">
+
+---
 ## CVE-2021-32415 (2022-12-13T15:15:00)
 > EXEMSI MSI Wrapper Versions prior to 10.0.50 and at least since version 6.0.91 will introduce a local privilege escalation vulnerability in installers it creates.
 - [Live-Hack-CVE/CVE-2021-32415](https://github.com/Live-Hack-CVE/CVE-2021-32415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32415">
@@ -5445,6 +5510,16 @@
 ## CVE-2021-32280 (2021-09-20T16:15:00)
 > An issue was discovered in fig2dev before 3.2.8.. A NULL pointer dereference exists in the function compute_closed_spline() located in trans_spline.c. It allows an attacker to cause Denial of Service. The fixed version of fig2dev is 3.2.8.
 - [Live-Hack-CVE/CVE-2021-32280](https://github.com/Live-Hack-CVE/CVE-2021-32280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32280">
+
+---
+## CVE-2021-32163 (2023-02-17T18:15:00)
+> Authentication vulnerability in MOSN v.0.23.0 allows attacker to escalate privileges via case-sensitive JWT authorization.
+- [Live-Hack-CVE/CVE-2021-32163](https://github.com/Live-Hack-CVE/CVE-2021-32163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32163">
+
+---
+## CVE-2021-32142 (2023-02-17T18:15:00)
+> Buffer Overflow vulnerability in LibRaw linux/unix v0.20.0 allows attacker to escalate privileges via the LibRaw_buffer_datastream::gets(char*, int) in /src/libraw/src/libraw_datastream.cpp.
+- [Live-Hack-CVE/CVE-2021-32142](https://github.com/Live-Hack-CVE/CVE-2021-32142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32142">
 
 ---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
