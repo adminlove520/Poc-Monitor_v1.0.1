@@ -611,6 +611,11 @@
 - [Live-Hack-CVE/CVE-2023-24422](https://github.com/Live-Hack-CVE/CVE-2023-24422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24422">
 
 ---
+## CVE-2023-24388 (2023-02-17T15:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in WpDevArt Booking calendar, Appointment Booking System plugin <= 3.2.3 versions affects plugin forms actions (create, duplicate, edit, delete).
+- [Live-Hack-CVE/CVE-2023-24388](https://github.com/Live-Hack-CVE/CVE-2023-24388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24388">
+
+---
 ## CVE-2023-24382 (2023-02-14T12:15:00)
 > Cross-Site Request Forgery (CSRF) vulnerability in Photon WP Material Design Icons for Page Builders plugin <= 1.4.2 versions.
 - [Live-Hack-CVE/CVE-2023-24382](https://github.com/Live-Hack-CVE/CVE-2023-24382)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24382">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24382">
@@ -644,6 +649,11 @@
 ## CVE-2023-24343 (2023-02-10T15:15:00)
 > D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the curTime parameter at /goform/formSchedule.
 - [Live-Hack-CVE/CVE-2023-24343](https://github.com/Live-Hack-CVE/CVE-2023-24343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24343">
+
+---
+## CVE-2023-24329 (2023-02-17T15:15:00)
+> An issue in the urllib.parse component of Python before v3.11 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.
+- [Live-Hack-CVE/CVE-2023-24329](https://github.com/Live-Hack-CVE/CVE-2023-24329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24329">
 
 ---
 ## CVE-2023-24323 (2023-02-09T20:15:00)
@@ -1067,6 +1077,11 @@
 - [Live-Hack-CVE/CVE-2023-23912](https://github.com/Live-Hack-CVE/CVE-2023-23912)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23912">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23912">
 
 ---
+## CVE-2023-23899 (2023-02-17T15:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in HasThemes Extensions For CF7 plugin <= 2.0.8 versions leads to arbitrary plugin activation.
+- [Live-Hack-CVE/CVE-2023-23899](https://github.com/Live-Hack-CVE/CVE-2023-23899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23899">
+
+---
 ## CVE-2023-23860 (2023-02-14T04:15:00)
 > SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to craft a link, which when clicked by an unsuspecting user can be used to redirect a user to a malicious site which could read or modify some sensitive information or expose the victim to a phishing attack.
 - [Live-Hack-CVE/CVE-2023-23860](https://github.com/Live-Hack-CVE/CVE-2023-23860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23860">
@@ -1255,6 +1270,11 @@
 ## CVE-2023-23595 (2023-01-15T07:15:00)
 > BlueCat Device Registration Portal 2.2 allows XXE attacks that exfiltrate single-line files. A single-line file might contain credentials, such as "machine example.com login daniel password qwerty" in the documentation example for the .netrc file format. NOTE; 2.x versions are no longer supported. There is no available information about whether any later version is affected.
 - [Live-Hack-CVE/CVE-2023-23595](https://github.com/Live-Hack-CVE/CVE-2023-23595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23595">
+
+---
+## CVE-2023-23592 (2023-02-09T22:15:00)
+> WALLIX Access Manager 3.x through 4.0.x allows a remote attacker to access sensitive information.
+- [Live-Hack-CVE/CVE-2023-23592](https://github.com/Live-Hack-CVE/CVE-2023-23592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23592">
 
 ---
 ## CVE-2023-23590 (2023-01-15T05:15:00)
@@ -1498,6 +1518,11 @@
 ## CVE-2023-23010 (2023-01-20T19:15:00)
 > Cross Site Scripting (XSS) vulnerability in Ecommerce-CodeIgniter-Bootstrap thru commit d5904379ca55014c5df34c67deda982c73dc7fe5 (on Dec 27, 2022), allows attackers to execute arbitrary code via the languages and trans_load parameters in file add_product.php.
 - [Live-Hack-CVE/CVE-2023-23010](https://github.com/Live-Hack-CVE/CVE-2023-23010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23010">
+
+---
+## CVE-2023-23007 (2023-02-17T16:15:00)
+> An issue was discovered in ESPCMS P8.21120101 after logging in to the background, there is a SQL injection vulnerability in the function node where members are added.
+- [Live-Hack-CVE/CVE-2023-23007](https://github.com/Live-Hack-CVE/CVE-2023-23007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23007">
 
 ---
 ## CVE-2023-22963 (2023-01-11T06:15:00)
@@ -3658,9 +3683,44 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
 
 ---
+## CVE-2023-21450 (2023-02-09T19:15:00)
+> Missing Authorization vulnerability in One Hand Operation + prior to version 6.1.21 allows multi-users to access owner&#39;s widget without authorization via gesture setting.
+- [Live-Hack-CVE/CVE-2023-21450](https://github.com/Live-Hack-CVE/CVE-2023-21450)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21450">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21450">
+
+---
+## CVE-2023-21448 (2023-02-09T19:15:00)
+> Path traversal vulnerability in Samsung Cloud prior to version 5.3.0.32 allows attacker to access specific png file.
+- [Live-Hack-CVE/CVE-2023-21448](https://github.com/Live-Hack-CVE/CVE-2023-21448)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21448">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21448">
+
+---
+## CVE-2023-21447 (2023-02-09T19:15:00)
+> Improper access control vulnerabilities in Samsung Cloud prior to version 5.3.0.32 allows local attackers to access information with Samsung Cloud&#39;s privilege via implicit intent.
+- [Live-Hack-CVE/CVE-2023-21447](https://github.com/Live-Hack-CVE/CVE-2023-21447)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21447">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21447">
+
+---
+## CVE-2023-21444 (2023-02-09T19:15:00)
+> Improper cryptographic implementation in Samsung Flow for PC 4.9.14.0 allows adjacent attackers to decrypt encrypted messages or inject commands.
+- [Live-Hack-CVE/CVE-2023-21444](https://github.com/Live-Hack-CVE/CVE-2023-21444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21444">
+
+---
+## CVE-2023-21443 (2023-02-09T19:15:00)
+> Improper cryptographic implementation in Samsung Flow for Android prior to version 4.9.04 allows adjacent attackers to decrypt encrypted messages or inject commands.
+- [Live-Hack-CVE/CVE-2023-21443](https://github.com/Live-Hack-CVE/CVE-2023-21443)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21443">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21443">
+
+---
 ## CVE-2023-21434 (2023-02-09T19:15:00)
 > Improper input validation vulnerability in Galaxy Store prior to version 4.5.49.8 allows local attackers to execute JavaScript by launching a web page.
 - [Live-Hack-CVE/CVE-2023-21434](https://github.com/Live-Hack-CVE/CVE-2023-21434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21434">
+
+---
+## CVE-2023-21433 (2023-02-09T19:15:00)
+> Improper access control vulnerability in Galaxy Store prior to version 4.5.49.8 allows local attackers to install applications from Galaxy Store.
+- [Live-Hack-CVE/CVE-2023-21433](https://github.com/Live-Hack-CVE/CVE-2023-21433)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21433">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21433">
+
+---
+## CVE-2023-21431 (2023-02-09T19:15:00)
+> Improper input validation in Bixby Vision prior to version 3.7.70.17 allows attacker to access data of Bixby Vision.
+- [Live-Hack-CVE/CVE-2023-21431](https://github.com/Live-Hack-CVE/CVE-2023-21431)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21431">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21431">
 
 ---
 ## CVE-2023-21419 (2023-02-09T19:15:00)
