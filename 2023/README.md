@@ -1267,6 +1267,11 @@
 - [Live-Hack-CVE/CVE-2023-23589](https://github.com/Live-Hack-CVE/CVE-2023-23589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23589">
 
 ---
+## CVE-2023-23586 (2023-02-17T13:15:00)
+> Due to a vulnerability in the io_uring subsystem, it is possible to leak kernel memory information to the user process. timens_install calls current_is_single_threaded to determine if the current process is single-threaded, but this call does not consider io_uring's io_worker threads, thus it is possible to insert a time namespace's vvar page to process's memory space via a page fault. When this time namespace is destroyed, the vvar page is also freed, but not removed from the process' memory, and a next page allocated by the kernel will be still available from the user-space process and can leak memory contents via this (read-only) use-after-free vulnerability. We recommend upgrading past version 5.10.161 or commit 788d0824269bef539fe31a785b1517882eafed93 https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/io_uring
+- [Live-Hack-CVE/CVE-2023-23586](https://github.com/Live-Hack-CVE/CVE-2023-23586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23586">
+
+---
 ## CVE-2023-23582 (2023-01-30T23:15:00)
 > Snap One Wattbox WB-300-IP-3 versions WB10.9a17 and prior are vulnerable to a heap-based buffer overflow, which could allow an attacker to execute arbitrary code or crash the device remotely.
 - [Live-Hack-CVE/CVE-2023-23582](https://github.com/Live-Hack-CVE/CVE-2023-23582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23582">
@@ -3653,6 +3658,16 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21524">
 
 ---
+## CVE-2023-21434 (2023-02-09T19:15:00)
+> Improper input validation vulnerability in Galaxy Store prior to version 4.5.49.8 allows local attackers to execute JavaScript by launching a web page.
+- [Live-Hack-CVE/CVE-2023-21434](https://github.com/Live-Hack-CVE/CVE-2023-21434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21434">
+
+---
+## CVE-2023-21419 (2023-02-09T19:15:00)
+> An improper implementation logic in Secure Folder prior to SMR Jan-2023 Release 1 allows the Secure Folder container remain unlocked under certain condition.
+- [Live-Hack-CVE/CVE-2023-21419](https://github.com/Live-Hack-CVE/CVE-2023-21419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21419">
+
+---
 ## CVE-2023-20949 (2023-02-15T03:15:00)
 > In s2mpg11_pmic_probe of s2mpg11-regulator.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-259323133References: N/A
 - [Live-Hack-CVE/CVE-2023-20949](https://github.com/Live-Hack-CVE/CVE-2023-20949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20949">
@@ -4440,6 +4455,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0581 (2023-01-30T15:15:00)
 > The PrivateContent plugin for WordPress is vulnerable to protection mechanism bypass due to the use of client side validation in versions up to, and including, 8.4.3. This is due to the plugin checking if an IP had been blocklist via client-side scripts rather than server-side. This makes it possible for unauthenticated attackers to bypass any login restrictions that may prevent a brute force attack.
 - [Live-Hack-CVE/CVE-2023-0581](https://github.com/Live-Hack-CVE/CVE-2023-0581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0581">
+
+---
+## CVE-2023-0575 (2023-02-09T17:15:00)
+> External Control of Critical State Data, Improper Control of Generation of Code ('Code Injection') vulnerability in YugaByte, Inc. Yugabyte DB on Windows, Linux, MacOS, iOS (DevopsBase.Java:execCommand, TableManager.Java:runCommand modules) allows API Manipulation, Privilege Abuse. This vulnerability is associated with program files backup.Py. This issue affects Yugabyte DB: Lesser then 2.2.
+- [Live-Hack-CVE/CVE-2023-0575](https://github.com/Live-Hack-CVE/CVE-2023-0575)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0575">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0575">
 
 ---
 ## CVE-2023-0574 (2023-02-09T15:15:00)
