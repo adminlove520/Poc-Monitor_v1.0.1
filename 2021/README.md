@@ -5286,6 +5286,26 @@
 - [Live-Hack-CVE/CVE-2021-32862](https://github.com/Live-Hack-CVE/CVE-2021-32862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32862">
 
 ---
+## CVE-2021-32846 (2023-02-17T23:15:00)
+> HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107, function `pci_vtsock_proc_tx` in `virtio-sock` can lead to to uninitialized memory use. In this situation, there is a check for the return value to be less or equal to `VTSOCK_MAXSEGS`, but that check is not sufficient because the function can return `-1` if it finds an error it cannot recover from. Moreover, the negative return value will be used by `iovec_pull` in a while condition that can further lead to more corruption because the function is not designed to handle a negative `iov_len`. This issue may lead to a guest crashing the host causing a denial of service and, under certain circumstance, memory corruption. This issue is fixed in commit af5eba2360a7351c08dfd9767d9be863a50ebaba.
+- [Live-Hack-CVE/CVE-2021-32846](https://github.com/Live-Hack-CVE/CVE-2021-32846)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32846">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32846">
+
+---
+## CVE-2021-32845 (2023-02-17T23:15:00)
+> HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, the implementation of `qnotify` at `pci_vtrnd_notify` fails to check the return value of `vq_getchain`. This leads to `struct iovec iov;` being uninitialized and used to read memory in `len = (int) read(sc->vrsc_fd, iov.iov_base, iov.iov_len);` when an attacker is able to make `vq_getchain` fail. This issue may lead to a guest crashing the host causing a denial of service and, under certain circumstance, memory corruption. This issue is fixed in commit 41272a980197917df8e58ff90642d14dec8fe948.
+- [Live-Hack-CVE/CVE-2021-32845](https://github.com/Live-Hack-CVE/CVE-2021-32845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32845">
+
+---
+## CVE-2021-32844 (2023-02-17T23:15:00)
+> HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, ` vi_pci_write` has is a call to `vc_cfgwrite` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. This issue is fixed in commit 451558fe8aaa8b24e02e34106e3bb9fe41d7ad13.
+- [Live-Hack-CVE/CVE-2021-32844](https://github.com/Live-Hack-CVE/CVE-2021-32844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32844">
+
+---
+## CVE-2021-32843 (2023-02-17T23:15:00)
+> HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, `virtio.c` has is a call to `vc_cfgread` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. This issue is fixed in commit df0e46c7dbfd81a957d85e449ba41b52f6f7beb4.
+- [Live-Hack-CVE/CVE-2021-32843](https://github.com/Live-Hack-CVE/CVE-2021-32843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32843">
+
+---
 ## CVE-2021-32837 (2023-01-17T22:15:00)
 > mechanize, a library for automatically interacting with HTTP web servers, contains a regular expression that is vulnerable to regular expression denial of service (ReDoS) prior to version 0.4.6. If a web server responds in a malicious way, then mechanize could crash. Version 0.4.6 has a patch for the issue.
 - [Live-Hack-CVE/CVE-2021-32837](https://github.com/Live-Hack-CVE/CVE-2021-32837)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32837">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32837">
