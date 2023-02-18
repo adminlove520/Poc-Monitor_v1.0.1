@@ -4114,6 +4114,7 @@
 - [Rvn0xsy/ZeroLogon](https://github.com/Rvn0xsy/ZeroLogon)	<img alt="forks" src="https://img.shields.io/github/forks/Rvn0xsy/ZeroLogon">	<img alt="stars" src="https://img.shields.io/github/stars/Rvn0xsy/ZeroLogon">
 - [sv3nbeast/CVE-2020-1472](https://github.com/sv3nbeast/CVE-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/sv3nbeast/CVE-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/sv3nbeast/CVE-2020-1472">
 - [RicYaben/CVE-2020-1472-LAB](https://github.com/RicYaben/CVE-2020-1472-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/RicYaben/CVE-2020-1472-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/RicYaben/CVE-2020-1472-LAB">
+- [Live-Hack-CVE/CVE-2020-14723](https://github.com/Live-Hack-CVE/CVE-2020-14723)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14723">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14723">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
