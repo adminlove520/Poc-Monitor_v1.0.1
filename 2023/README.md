@@ -2422,6 +2422,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-22324](https://github.com/Live-Hack-CVE/CVE-2023-22324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22324">
 
 ---
+## CVE-2023-2232323 ()
+> 
+- [Shmily-ing/CVE-2023-2232323](https://github.com/Shmily-ing/CVE-2023-2232323)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2232323">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2232323">
+
+---
 ## CVE-2023-22323 (2023-02-01T18:15:00)
 > In BIP-IP versions 17.0.x before 17.0.0.2, 16.1.x before 16.1.3.3, 15.1.x before 15.1.8.1, 14.1.x before 14.1.5.3, and all versions of 13.1.x, when OCSP authentication profile is configured on a virtual server, undisclosed requests can cause an increase in CPU resource utilization. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
 - [Live-Hack-CVE/CVE-2023-22323](https://github.com/Live-Hack-CVE/CVE-2023-22323)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22323">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22323">
