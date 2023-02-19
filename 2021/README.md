@@ -2709,6 +2709,11 @@
 - [Live-Hack-CVE/CVE-2021-40162](https://github.com/Live-Hack-CVE/CVE-2021-40162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40162">
 
 ---
+## CVE-2021-40154 (2021-12-01T15:15:00)
+> NXP LPC55S69 devices before A3 have a buffer over-read via a crafted wlength value in a GET Descriptor Configuration request during use of USB In-System Programming (ISP) mode. This discloses protected flash memory.
+- [Jeromeyoung/CVE-2021-40154](https://github.com/Jeromeyoung/CVE-2021-40154)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-40154">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-40154">
+
+---
 ## CVE-2021-40114 (2021-10-27T19:15:00)
 > Multiple Cisco products are affected by a vulnerability in the way the Snort detection engine processes ICMP traffic that could allow an unauthenticated, remote attacker to cause a denial of service (DoS) condition on an affected device. The vulnerability is due to improper memory resource management while the Snort detection engine is processing ICMP packets. An attacker could exploit this vulnerability by sending a series of ICMP packets through an affected device. A successful exploit could allow the attacker to exhaust resources on the affected device, causing the device to reload.
 - [Live-Hack-CVE/CVE-2021-40114](https://github.com/Live-Hack-CVE/CVE-2021-40114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40114">
