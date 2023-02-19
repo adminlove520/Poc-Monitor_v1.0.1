@@ -2577,6 +2577,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-22228](https://github.com/Live-Hack-CVE/CVE-2023-22228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22228">
 
 ---
+## CVE-2023-2222111 ()
+> 
+- [Shmily-ing/CVE-2023-2222111](https://github.com/Shmily-ing/CVE-2023-2222111)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-2222111">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-2222111">
+
+---
 ## CVE-2023-21900 (2023-01-18T00:15:00)
 > Vulnerability in the Oracle Solaris product of Oracle Systems (component: NSSwitch).  Supported versions that are affected are 10 and  11. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise Oracle Solaris.  Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Oracle Solaris, attacks may significantly impact additional products (scope change). Successful attacks of this vulnerability can result in  unauthorized update, insert or delete access to some of Oracle Solaris accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Oracle Solaris. CVSS 3.1 Base Score 4.0 (Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:C/C:N/I:L/A:L).
 - [Live-Hack-CVE/CVE-2023-21900](https://github.com/Live-Hack-CVE/CVE-2023-21900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21900">
