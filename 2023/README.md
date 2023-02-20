@@ -1639,6 +1639,7 @@
 ## CVE-2023-22941 (2023-02-14T18:15:00)
 > In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, an improperly-formatted ‘INGEST_EVAL’ parameter in a [Field Transformation](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Managefieldtransforms) crashes the Splunk daemon (splunkd).
 - [Live-Hack-CVE/CVE-2023-22941](https://github.com/Live-Hack-CVE/CVE-2023-22941)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22941">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22941">
+- [eduardosantos1989/CVE-2023-22941](https://github.com/eduardosantos1989/CVE-2023-22941)	<img alt="forks" src="https://img.shields.io/github/forks/eduardosantos1989/CVE-2023-22941">	<img alt="stars" src="https://img.shields.io/github/stars/eduardosantos1989/CVE-2023-22941">
 
 ---
 ## CVE-2023-22940 (2023-02-14T18:15:00)
