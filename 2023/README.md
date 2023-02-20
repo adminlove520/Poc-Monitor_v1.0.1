@@ -1198,6 +1198,7 @@
 - [YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/YusinoMy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/YusinoMy/CVE-2023-23752">
 - [Saboor-Hakimi/CVE-2023-23752](https://github.com/Saboor-Hakimi/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-23752">
 - [WhiteOwl-Pub/CVE-2023-23752](https://github.com/WhiteOwl-Pub/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/CVE-2023-23752">
+- [Vulnmachines/joomla_CVE-2023-23752](https://github.com/Vulnmachines/joomla_CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/joomla_CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/joomla_CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
