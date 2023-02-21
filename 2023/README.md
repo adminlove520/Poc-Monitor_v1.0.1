@@ -2804,6 +2804,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21839](https://github.com/Live-Hack-CVE/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21839">
 - [fakenews2025/CVE-2023-21839](https://github.com/fakenews2025/CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/fakenews2025/CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/fakenews2025/CVE-2023-21839">
 - [Scarehehe/Weblogic-CVE-2023-21839](https://github.com/Scarehehe/Weblogic-CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/Scarehehe/Weblogic-CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/Scarehehe/Weblogic-CVE-2023-21839">
+- [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
