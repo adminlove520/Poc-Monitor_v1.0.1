@@ -3915,6 +3915,7 @@
 ## CVE-2020-15568 (2021-01-30T05:15:00)
 > TerraMaster TOS before 4.1.29 has Invalid Parameter Checking that leads to code injection as root. This is a dynamic class method invocation vulnerability in include/exportUser.php, in which an attacker can trigger a call to the exec method with (for example) OS commands in the opt parameter.
 - [n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/n0bugz/CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/n0bugz/CVE-2020-15568">
+- [divinepwner/TerraMaster-TOS-CVE-2020-15568](https://github.com/divinepwner/TerraMaster-TOS-CVE-2020-15568)	<img alt="forks" src="https://img.shields.io/github/forks/divinepwner/TerraMaster-TOS-CVE-2020-15568">	<img alt="stars" src="https://img.shields.io/github/stars/divinepwner/TerraMaster-TOS-CVE-2020-15568">
 
 ---
 ## CVE-2020-15562 (2020-07-06T12:15:00)
