@@ -1778,6 +1778,7 @@
 - [Live-Hack-CVE/CVE-2023-22809](https://github.com/Live-Hack-CVE/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22809">
 - [n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/n3m1dotsys/CVE-2023-22809-sudoedit-privesc">
 - [kurniawandata/CVE-2023-22809-privilege-escalation](https://github.com/kurniawandata/CVE-2023-22809-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/kurniawandata/CVE-2023-22809-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/kurniawandata/CVE-2023-22809-privilege-escalation">
+- [M4fiaB0y/CVE-2023-22809](https://github.com/M4fiaB0y/CVE-2023-22809)	<img alt="forks" src="https://img.shields.io/github/forks/M4fiaB0y/CVE-2023-22809">	<img alt="stars" src="https://img.shields.io/github/stars/M4fiaB0y/CVE-2023-22809">
 
 ---
 ## CVE-2023-22807 (2023-02-15T18:15:00)
