@@ -742,6 +742,10 @@
 - [Live-Hack-CVE/CVE-2021-3100](https://github.com/Live-Hack-CVE/CVE-2021-3100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3100">
 - [Live-Hack-CVE/CVE-2021-44228](https://github.com/Live-Hack-CVE/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44228">
 - [fox-it/log4j-finder](https://github.com/fox-it/log4j-finder)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/log4j-finder">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/log4j-finder">
+- [Sumitpathania03/Cve-2021-44228](https://github.com/Sumitpathania03/Cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Sumitpathania03/Cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Sumitpathania03/Cve-2021-44228">
+- [grandDancer/Chrome-CVE-PoC](https://github.com/grandDancer/Chrome-CVE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/grandDancer/Chrome-CVE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/grandDancer/Chrome-CVE-PoC">
+- [kuckibf/Popular-CVEs](https://github.com/kuckibf/Popular-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/kuckibf/Popular-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/kuckibf/Popular-CVEs">
+- [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
