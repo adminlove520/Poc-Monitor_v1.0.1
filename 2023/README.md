@@ -1598,6 +1598,11 @@
 - [Live-Hack-CVE/CVE-2023-23007](https://github.com/Live-Hack-CVE/CVE-2023-23007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23007">
 
 ---
+## CVE-2023-22974 (2023-02-22T21:15:00)
+> A Path Traversal in setup.php in OpenEMR < 7.0.0 allows remote unauthenticated users to read arbitrary files by controlling a connection to an attacker-controlled MySQL server.
+- [gbrsh/CVE-2023-22974](https://github.com/gbrsh/CVE-2023-22974)	<img alt="forks" src="https://img.shields.io/github/forks/gbrsh/CVE-2023-22974">	<img alt="stars" src="https://img.shields.io/github/stars/gbrsh/CVE-2023-22974">
+
+---
 ## CVE-2023-22963 (2023-01-11T06:15:00)
 > The personnummer implementation before 3.0.3 for Dart mishandles numbers in which the last four digits match the ^000[0-9]$ regular expression.
 - [Live-Hack-CVE/CVE-2023-22963](https://github.com/Live-Hack-CVE/CVE-2023-22963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22963">
