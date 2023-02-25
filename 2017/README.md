@@ -245,6 +245,11 @@
 - [ww9210/cve-2017-7374](https://github.com/ww9210/cve-2017-7374)	<img alt="forks" src="https://img.shields.io/github/forks/ww9210/cve-2017-7374">	<img alt="stars" src="https://img.shields.io/github/stars/ww9210/cve-2017-7374">
 
 ---
+## CVE-2017-7358 (2017-04-05T06:59:00)
+> In LightDM through 1.22.0, a directory traversal issue in debian/guest-account.sh allows local attackers to own arbitrary directory path locations and escalate privileges to root when the guest user logs out.
+- [JonPichel/CVE-2017-7358](https://github.com/JonPichel/CVE-2017-7358)	<img alt="forks" src="https://img.shields.io/github/forks/JonPichel/CVE-2017-7358">	<img alt="stars" src="https://img.shields.io/github/stars/JonPichel/CVE-2017-7358">
+
+---
 ## CVE-2017-7308 (2017-03-29T20:59:00)
 > The packet_set_ring function in net/packet/af_packet.c in the Linux kernel through 4.10.6 does not properly validate certain block-size data, which allows local users to cause a denial of service (integer signedness error and out-of-bounds write), or gain privileges (if the CAP_NET_RAW capability is held), via crafted system calls.
 - [anldori/CVE-2017-7308](https://github.com/anldori/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-7308">
