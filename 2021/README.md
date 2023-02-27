@@ -5559,6 +5559,11 @@
 - [Live-Hack-CVE/CVE-2021-32415](https://github.com/Live-Hack-CVE/CVE-2021-32415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32415">
 
 ---
+## CVE-2021-32305 (2021-05-18T17:15:00)
+> WebSVN before 2.6.1 allows remote attackers to execute arbitrary commands via shell metacharacters in the search parameter.
+- [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305)	<img alt="forks" src="https://img.shields.io/github/forks/sz-guanx/CVE-2021-32305">	<img alt="stars" src="https://img.shields.io/github/stars/sz-guanx/CVE-2021-32305">
+
+---
 ## CVE-2021-32280 (2021-09-20T16:15:00)
 > An issue was discovered in fig2dev before 3.2.8.. A NULL pointer dereference exists in the function compute_closed_spline() located in trans_spline.c. It allows an attacker to cause Denial of Service. The fixed version of fig2dev is 3.2.8.
 - [Live-Hack-CVE/CVE-2021-32280](https://github.com/Live-Hack-CVE/CVE-2021-32280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32280">
