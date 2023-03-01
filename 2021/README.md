@@ -5163,6 +5163,11 @@
 - [Live-Hack-CVE/CVE-2021-33473](https://github.com/Live-Hack-CVE/CVE-2021-33473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33473">
 
 ---
+## CVE-2021-3347 (2021-01-29T17:15:00)
+> An issue was discovered in the Linux kernel through 5.10.11. PI futexes have a kernel stack use-after-free during fault handling, allowing local users to execute code in the kernel, aka CID-34b1a1ce1458.
+- [nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2021-3347">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2021-3347">
+
+---
 ## CVE-2021-33396 (2023-02-15T22:15:00)
 > Cross Site Request Forgery (CSRF) vulnerability in baijiacms 4.1.4, allows attackers to change the password or other information of an arbitrary account via index.php.
 - [Live-Hack-CVE/CVE-2021-33396](https://github.com/Live-Hack-CVE/CVE-2021-33396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33396">
