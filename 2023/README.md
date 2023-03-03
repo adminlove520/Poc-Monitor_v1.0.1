@@ -21,6 +21,11 @@
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
+## CVE-2023-26604 (2023-03-03T16:15:00)
+> systemd before 247 does not adequately block local privilege escalation for some Sudo configurations, e.g., plausible sudoers files in which the "systemctl status" command may be executed. Specifically, systemd does not set LESSSECURE to 1, and thus other programs may be launched from the less program. This presents a substantial security risk when running systemctl from Sudo, because less executes as root when the terminal size is too small to show the complete systemctl output.
+- [Zenmovie/CVE-2023-26604](https://github.com/Zenmovie/CVE-2023-26604)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-26604">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-26604">
+
+---
 ## CVE-2023-25768 (2023-02-15T14:15:00)
 > A missing permission check in Jenkins Azure Credentials Plugin 253.v887e0f9e898b and earlier allows attackers with Overall/Read permission to connect to an attacker-specified web server.
 - [Live-Hack-CVE/CVE-2023-25768](https://github.com/Live-Hack-CVE/CVE-2023-25768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25768">
