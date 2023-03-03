@@ -5727,6 +5727,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0052](https://github.com/Live-Hack-CVE/CVE-2023-0052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0052">
 
 ---
+## CVE-2023-0050 ()
+> 
+- [wh-gov/CVE-2023-0050](https://github.com/wh-gov/CVE-2023-0050)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-0050">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-0050">
+
+---
 ## CVE-2023-0049 (2023-01-04T16:15:00)
 > Out-of-bounds Read in GitHub repository vim/vim prior to 9.0.1143.
 - [Live-Hack-CVE/CVE-2023-0049](https://github.com/Live-Hack-CVE/CVE-2023-0049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0049">
