@@ -2214,6 +2214,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-22451](https://github.com/Live-Hack-CVE/CVE-2023-22451)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22451">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22451">
 
 ---
+## CVE-2023-22432 (2023-03-06T00:15:00)
+> Open redirect vulnerability exists in web2py versions prior to 2.23.1. When using the tool, a web2py user may be redirected to an arbitrary website by accessing a specially crafted URL. As a result, the user may become a victim of a phishing attack.
+- [aeyesec/CVE-2023-22432](https://github.com/aeyesec/CVE-2023-22432)	<img alt="forks" src="https://img.shields.io/github/forks/aeyesec/CVE-2023-22432">	<img alt="stars" src="https://img.shields.io/github/stars/aeyesec/CVE-2023-22432">
+
+---
 ## CVE-2023-22422 (2023-02-01T18:15:00)
 > On BIG-IP versions 17.0.x before 17.0.0.2 and 16.1.x before 16.1.3.3, when a HTTP profile with the non-default Enforcement options of Enforce HTTP Compliance and Unknown Methods: Reject are configured on a virtual server, undisclosed requests can cause the Traffic Management Microkernel (TMM) to terminate. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
 - [Live-Hack-CVE/CVE-2023-22422](https://github.com/Live-Hack-CVE/CVE-2023-22422)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22422">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22422">
