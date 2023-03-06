@@ -5332,6 +5332,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0266](https://github.com/Live-Hack-CVE/CVE-2023-0266)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0266">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0266">
 
 ---
+## CVE-2023-0264 ()
+> 
+- [twwd/CVE-2023-0264](https://github.com/twwd/CVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/twwd/CVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/twwd/CVE-2023-0264">
+
+---
 ## CVE-2023-0263 (2023-02-13T15:15:00)
 > The WP Yelp Review Slider WordPress plugin before 7.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber.
 - [Live-Hack-CVE/CVE-2023-0263](https://github.com/Live-Hack-CVE/CVE-2023-0263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0263">
