@@ -1228,6 +1228,7 @@
 - [keyuan15/CVE-2023-23752](https://github.com/keyuan15/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2023-23752">
 - [adriyansyah-mf/CVE-2023-23752](https://github.com/adriyansyah-mf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-23752">
 - [HaxorSec1945/CVE2023-23752](https://github.com/HaxorSec1945/CVE2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/HaxorSec1945/CVE2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/HaxorSec1945/CVE2023-23752">
+- [haxor1337x/Mass-Checker-CVE-2023-23752](https://github.com/haxor1337x/Mass-Checker-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/haxor1337x/Mass-Checker-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/haxor1337x/Mass-Checker-CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
