@@ -1226,6 +1226,7 @@
 - [z3n70/CVE-2023-23752](https://github.com/z3n70/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/z3n70/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/z3n70/CVE-2023-23752">
 - [keyuan15/CVE-2023-23752](https://github.com/keyuan15/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2023-23752">
 - [keyuan15/CVE-2023-23752](https://github.com/keyuan15/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2023-23752">
+- [adriyansyah-mf/CVE-2023-23752](https://github.com/adriyansyah-mf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
