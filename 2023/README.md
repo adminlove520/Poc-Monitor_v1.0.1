@@ -3464,6 +3464,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21719](https://github.com/Live-Hack-CVE/CVE-2023-21719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21719">
 
 ---
+## CVE-2023-21716 (2023-02-14T20:15:00)
+> Microsoft Word Remote Code Execution Vulnerability
+- [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
+
+---
 ## CVE-2023-21699 (2023-02-14T20:15:00)
 > Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability
 - [Live-Hack-CVE/CVE-2023-21699](https://github.com/Live-Hack-CVE/CVE-2023-21699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21699">
