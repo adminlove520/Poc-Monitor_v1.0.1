@@ -3469,6 +3469,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21716 (2023-02-14T20:15:00)
 > Microsoft Word Remote Code Execution Vulnerability
 - [FeatherStark/CVE-2023-21716](https://github.com/FeatherStark/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/FeatherStark/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/FeatherStark/CVE-2023-21716">
+- [Xnuvers007/CVE-2023-21716](https://github.com/Xnuvers007/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Xnuvers007/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Xnuvers007/CVE-2023-21716">
 
 ---
 ## CVE-2023-21699 (2023-02-14T20:15:00)
