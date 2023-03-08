@@ -722,6 +722,11 @@
 - [Live-Hack-CVE/CVE-2023-24322](https://github.com/Live-Hack-CVE/CVE-2023-24322)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24322">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24322">
 
 ---
+## CVE-2023-24317 (2023-02-23T20:15:00)
+> Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php.
+- [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
+
+---
 ## CVE-2023-24276 (2023-02-06T15:15:00)
 > TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the country parameter at setting/delStaticDhcpRules.
 - [Live-Hack-CVE/CVE-2023-24276](https://github.com/Live-Hack-CVE/CVE-2023-24276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24276">
