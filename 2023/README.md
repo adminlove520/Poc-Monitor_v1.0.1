@@ -3236,6 +3236,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21768 (2023-01-10T22:15:00)
 > Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21768](https://github.com/Live-Hack-CVE/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21768">
+- [chompie1337/Windows_LPE_AFD_CVE-2023-21768](https://github.com/chompie1337/Windows_LPE_AFD_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/chompie1337/Windows_LPE_AFD_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/chompie1337/Windows_LPE_AFD_CVE-2023-21768">
 
 ---
 ## CVE-2023-21767 (2023-01-10T22:15:00)
