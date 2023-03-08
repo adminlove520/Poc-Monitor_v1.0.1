@@ -1,6 +1,11 @@
 # 2023 List
 
 ---
+## CVE-2023-999995 ()
+> 
+- [yrtsec/CVE-2023-999995](https://github.com/yrtsec/CVE-2023-999995)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999995">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999995">
+
+---
 ## CVE-2023-999993 ()
 > 
 - [yrtsec/CVE-2023-999993](https://github.com/yrtsec/CVE-2023-999993)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999993">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999993">
