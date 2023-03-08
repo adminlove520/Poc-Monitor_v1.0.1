@@ -4102,6 +4102,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-123456 ()
+> 
+- [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
+
+---
 ## CVE-2023-0901 (2023-02-18T01:15:00)
 > Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4.
 - [Live-Hack-CVE/CVE-2023-0901](https://github.com/Live-Hack-CVE/CVE-2023-0901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0901">
