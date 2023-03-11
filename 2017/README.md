@@ -348,6 +348,12 @@
 ## CVE-2017-5123 (2021-11-02T22:15:00)
 > Insufficient data validation in waitid allowed an user to escape sandboxes on Linux.
 - [h1bAna/CVE-2017-5123](https://github.com/h1bAna/CVE-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/h1bAna/CVE-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/h1bAna/CVE-2017-5123">
+- [echo-devim/exploit_linux_kernel4.13](https://github.com/echo-devim/exploit_linux_kernel4.13)	<img alt="forks" src="https://img.shields.io/github/forks/echo-devim/exploit_linux_kernel4.13">	<img alt="stars" src="https://img.shields.io/github/stars/echo-devim/exploit_linux_kernel4.13">
+- [c3r34lk1ll3r/CVE-2017-5123](https://github.com/c3r34lk1ll3r/CVE-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/c3r34lk1ll3r/CVE-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/c3r34lk1ll3r/CVE-2017-5123">
+- [teawater/CVE-2017-5123](https://github.com/teawater/CVE-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/teawater/CVE-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/teawater/CVE-2017-5123">
+- [Synacktiv-contrib/exploiting-cve-2017-5123](https://github.com/Synacktiv-contrib/exploiting-cve-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/Synacktiv-contrib/exploiting-cve-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/Synacktiv-contrib/exploiting-cve-2017-5123">
+- [0x5068656e6f6c/CVE-2017-5123](https://github.com/0x5068656e6f6c/CVE-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/0x5068656e6f6c/CVE-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/0x5068656e6f6c/CVE-2017-5123">
+- [FloatingGuy/CVE-2017-5123](https://github.com/FloatingGuy/CVE-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/FloatingGuy/CVE-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/FloatingGuy/CVE-2017-5123">
 
 ---
 ## CVE-2017-3738 (2017-12-07T16:29:00)
