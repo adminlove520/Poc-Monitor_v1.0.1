@@ -4194,6 +4194,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0861 (2023-02-16T09:15:00)
 > NetModule NSRW web administration interface executes an OS command constructed with unsanitized user input. A successful exploit could allow an authenticated user to execute arbitrary commands with elevated privileges. This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.0.118, from 4.6.0.0 before 4.6.0.105, from 4.7.0.0 before 4.7.0.103. The issue affects NSRW packaged by Phoenix Contact routers: from 4.6.72.0 before 4.6.72.101, from 4.6.73.0 before 4.6.73.101.
 - [Live-Hack-CVE/CVE-2023-0861](https://github.com/Live-Hack-CVE/CVE-2023-0861)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0861">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0861">
+- [seifallahhomrani1/CVE-2023-0861-POC](https://github.com/seifallahhomrani1/CVE-2023-0861-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seifallahhomrani1/CVE-2023-0861-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seifallahhomrani1/CVE-2023-0861-POC">
 
 ---
 ## CVE-2023-0860 (2023-02-16T10:15:00)
