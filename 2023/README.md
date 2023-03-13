@@ -1517,6 +1517,7 @@
 ## CVE-2023-23279 (2023-02-17T19:15:00)
 > Canteen Management System 1.0 is vulnerable to SQL Injection via /php_action/getOrderReport.php.
 - [Live-Hack-CVE/CVE-2023-23279](https://github.com/Live-Hack-CVE/CVE-2023-23279)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23279">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23279">
+- [tuannq2299/CVE-2023-23279](https://github.com/tuannq2299/CVE-2023-23279)	<img alt="forks" src="https://img.shields.io/github/forks/tuannq2299/CVE-2023-23279">	<img alt="stars" src="https://img.shields.io/github/stars/tuannq2299/CVE-2023-23279">
 
 ---
 ## CVE-2023-232323 ()
