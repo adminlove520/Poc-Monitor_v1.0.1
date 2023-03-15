@@ -1499,6 +1499,11 @@
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
 
 ---
+## CVE-2023-23397 (2023-03-14T17:15:00)
+> Microsoft Outlook Elevation of Privilege Vulnerability
+- [sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY](https://github.com/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY)	<img alt="forks" src="https://img.shields.io/github/forks/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">	<img alt="stars" src="https://img.shields.io/github/stars/sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY">
+
+---
 ## CVE-2023-23381 (2023-02-14T21:15:00)
 > Visual Studio Remote Code Execution Vulnerability
 - [Live-Hack-CVE/CVE-2023-23381](https://github.com/Live-Hack-CVE/CVE-2023-23381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23381">
