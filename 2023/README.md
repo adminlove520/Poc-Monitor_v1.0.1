@@ -1148,6 +1148,7 @@
 > Dompdf is an HTML to PDF converter. The URI validation on dompdf 2.0.1 can be bypassed on SVG parsing by passing `<image>` tags with uppercase letters. This may lead to arbitrary object unserialize on PHP < 8, through the `phar` URL wrapper. An attacker can exploit the vulnerability to call arbitrary URL with arbitrary protocols, if they can provide a SVG file to dompdf. In PHP versions before 8.0.0, it leads to arbitrary unserialize, that will lead to the very least to an arbitrary file deletion and even remote code execution, depending on classes that are available.
 - [Live-Hack-CVE/CVE-2023-23924](https://github.com/Live-Hack-CVE/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23924">
 - [motikan2010/CVE-2023-23924](https://github.com/motikan2010/CVE-2023-23924)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2023-23924">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2023-23924">
+- [zeverse/CVE-2023-23924-sample](https://github.com/zeverse/CVE-2023-23924-sample)	<img alt="forks" src="https://img.shields.io/github/forks/zeverse/CVE-2023-23924-sample">	<img alt="stars" src="https://img.shields.io/github/stars/zeverse/CVE-2023-23924-sample">
 
 ---
 ## CVE-2023-23923 (2023-02-17T20:15:00)
