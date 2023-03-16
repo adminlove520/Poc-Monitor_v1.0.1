@@ -5536,6 +5536,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-0179 ()
 > 
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-0179-PoC">
+- [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4K6/CVE-2023-0179-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4K6/CVE-2023-0179-PoC">
 
 ---
 ## CVE-2023-0178 (2023-02-06T20:15:00)
