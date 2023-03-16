@@ -6553,6 +6553,7 @@
 ## CVE-2021-26700 (2021-02-25T23:15:00)
 > Visual Studio Code npm-script Extension Remote Code Execution Vulnerability
 - [jason-ntu/CVE-2021-26700](https://github.com/jason-ntu/CVE-2021-26700)	<img alt="forks" src="https://img.shields.io/github/forks/jason-ntu/CVE-2021-26700">	<img alt="stars" src="https://img.shields.io/github/stars/jason-ntu/CVE-2021-26700">
+- [jackadamson/CVE-2021-26700](https://github.com/jackadamson/CVE-2021-26700)	<img alt="forks" src="https://img.shields.io/github/forks/jackadamson/CVE-2021-26700">	<img alt="stars" src="https://img.shields.io/github/stars/jackadamson/CVE-2021-26700">
 
 ---
 ## CVE-2021-26639 (2022-08-17T21:15:00)
