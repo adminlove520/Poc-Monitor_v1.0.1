@@ -1514,6 +1514,11 @@
 - [grn-bogo/CVE-2023-23397](https://github.com/grn-bogo/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/grn-bogo/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/grn-bogo/CVE-2023-23397">
 
 ---
+## CVE-2023-23396 (2023-03-14T17:15:00)
+> Microsoft Excel Denial of Service Vulnerability
+- [LucaBarile/CVE-2023-23396](https://github.com/LucaBarile/CVE-2023-23396)	<img alt="forks" src="https://img.shields.io/github/forks/LucaBarile/CVE-2023-23396">	<img alt="stars" src="https://img.shields.io/github/stars/LucaBarile/CVE-2023-23396">
+
+---
 ## CVE-2023-23381 (2023-02-14T21:15:00)
 > Visual Studio Remote Code Execution Vulnerability
 - [Live-Hack-CVE/CVE-2023-23381](https://github.com/Live-Hack-CVE/CVE-2023-23381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23381">
