@@ -7844,6 +7844,11 @@
 - [1ZRR4H/CVE-2021-22005](https://github.com/1ZRR4H/CVE-2021-22005)	<img alt="forks" src="https://img.shields.io/github/forks/1ZRR4H/CVE-2021-22005">	<img alt="stars" src="https://img.shields.io/github/stars/1ZRR4H/CVE-2021-22005">
 
 ---
+## CVE-2021-22 ()
+> 
+- [LingerANR/CVE-2021-22-555](https://github.com/LingerANR/CVE-2021-22-555)	<img alt="forks" src="https://img.shields.io/github/forks/LingerANR/CVE-2021-22-555">	<img alt="stars" src="https://img.shields.io/github/stars/LingerANR/CVE-2021-22-555">
+
+---
 ## CVE-2021-21974 (2021-02-24T17:15:00)
 > OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.
 - [n2x4/Feb2023-CVE-2021-21974-OSINT](https://github.com/n2x4/Feb2023-CVE-2021-21974-OSINT)	<img alt="forks" src="https://img.shields.io/github/forks/n2x4/Feb2023-CVE-2021-21974-OSINT">	<img alt="stars" src="https://img.shields.io/github/stars/n2x4/Feb2023-CVE-2021-21974-OSINT">
