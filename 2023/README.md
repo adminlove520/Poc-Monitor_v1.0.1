@@ -1512,6 +1512,11 @@
 - [Live-Hack-CVE/CVE-2023-23454](https://github.com/Live-Hack-CVE/CVE-2023-23454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23454">
 
 ---
+## CVE-2023-23416 (2023-03-14T17:15:00)
+> Windows Cryptographic Services Remote Code Execution Vulnerability
+- [amitdubey1921/CVE-2023-23416](https://github.com/amitdubey1921/CVE-2023-23416)	<img alt="forks" src="https://img.shields.io/github/forks/amitdubey1921/CVE-2023-23416">	<img alt="stars" src="https://img.shields.io/github/stars/amitdubey1921/CVE-2023-23416">
+
+---
 ## CVE-2023-23415 (2023-03-14T17:15:00)
 > Internet Control Message Protocol (ICMP) Remote Code Execution Vulnerability
 - [wh-gov/CVE-2023-23415](https://github.com/wh-gov/CVE-2023-23415)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-23415">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-23415">
