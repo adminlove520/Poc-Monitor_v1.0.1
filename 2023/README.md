@@ -1522,6 +1522,7 @@
 - [wh-gov/CVE-2023-23415](https://github.com/wh-gov/CVE-2023-23415)	<img alt="forks" src="https://img.shields.io/github/forks/wh-gov/CVE-2023-23415">	<img alt="stars" src="https://img.shields.io/github/stars/wh-gov/CVE-2023-23415">
 - [amitdubey1921/CVE-2023-23415](https://github.com/amitdubey1921/CVE-2023-23415)	<img alt="forks" src="https://img.shields.io/github/forks/amitdubey1921/CVE-2023-23415">	<img alt="stars" src="https://img.shields.io/github/stars/amitdubey1921/CVE-2023-23415">
 - [amitdubey1921/CVE-2023-23415](https://github.com/amitdubey1921/CVE-2023-23415)	<img alt="forks" src="https://img.shields.io/github/forks/amitdubey1921/CVE-2023-23415">	<img alt="stars" src="https://img.shields.io/github/stars/amitdubey1921/CVE-2023-23415">
+- [amitdubey1921/CVE-2023-23416](https://github.com/amitdubey1921/CVE-2023-23416)	<img alt="forks" src="https://img.shields.io/github/forks/amitdubey1921/CVE-2023-23416">	<img alt="stars" src="https://img.shields.io/github/stars/amitdubey1921/CVE-2023-23416">
 
 ---
 ## CVE-2023-23397 (2023-03-14T17:15:00)
