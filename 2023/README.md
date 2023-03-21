@@ -5449,6 +5449,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0287](https://github.com/Live-Hack-CVE/CVE-2023-0287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0287">
 
 ---
+## CVE-2023-0286 (2023-02-08T20:15:00)
+> There is a type confusion vulnerability relating to X.400 address processing inside an X.509 GeneralName. X.400 addresses were parsed as an ASN1_STRING but the public structure definition for GENERAL_NAME incorrectly specified the type of the x400Address field as ASN1_TYPE. This field is subsequently interpreted by the OpenSSL function GENERAL_NAME_cmp as an ASN1_TYPE rather than an ASN1_STRING. When CRL checking is enabled (i.e. the application sets the X509_V_FLAG_CRL_CHECK flag), this vulnerability may allow an attacker to pass arbitrary pointers to a memcmp call, enabling them to read memory contents or enact a denial of service. In most cases, the attack requires the attacker to provide both the certificate chain and CRL, neither of which need to have a valid signature. If the attacker only controls one of these inputs, the other input must already contain an X.400 address as a CRL distribution point, which is uncommon. As such, this vulnerability is most likely to only affect applications which have implemented their own functionality for retrieving CRLs over a network.
+- [nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286](https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286">
+
+---
 ## CVE-2023-0284 (2023-01-26T21:18:00)
 > Improper Input Validation of LDAP user IDs in Tribe29 Checkmk allows attackers that can control LDAP user IDs to manipulate files on the server. Checkmk <= 2.1.0p19, Checkmk <= 2.0.0p32, and all versions of Checkmk 1.6.0 (EOL) are affected.
 - [Live-Hack-CVE/CVE-2023-0284](https://github.com/Live-Hack-CVE/CVE-2023-0284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0284">
