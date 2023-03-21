@@ -4837,6 +4837,11 @@
 - [Live-Hack-CVE/CVE-2020-11738](https://github.com/Live-Hack-CVE/CVE-2020-11738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11738">
 
 ---
+## CVE-2020-11651 (2020-04-30T17:15:00)
+> An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.
+- [heikanet/CVE-2020-11651-CVE-2020-11652-EXP](https://github.com/heikanet/CVE-2020-11651-CVE-2020-11652-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/heikanet/CVE-2020-11651-CVE-2020-11652-EXP">
+
+---
 ## CVE-2020-11081 (2020-07-10T19:15:00)
 > osquery before version 4.4.0 enables a privilege escalation vulnerability. If a Window system is configured with a PATH that contains a user-writable directory then a local user may write a zlib1.dll DLL, which osquery will attempt to load. Since osquery runs with elevated privileges this enables local escalation. This is fixed in version 4.4.0.
 - [Live-Hack-CVE/CVE-2020-11081](https://github.com/Live-Hack-CVE/CVE-2020-11081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11081">
