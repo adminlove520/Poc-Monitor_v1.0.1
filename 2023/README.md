@@ -1336,6 +1336,11 @@
 - [Live-Hack-CVE/CVE-2023-23690](https://github.com/Live-Hack-CVE/CVE-2023-23690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23690">
 
 ---
+## CVE-2023-23638 (2023-03-08T11:15:00)
+> A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache Dubbo 3.0.x version 3.0.13 and prior versions; Apache Dubbo 3.1.x version 3.1.5 and prior versions.
+- [X1r0z/CVE-2023-23638](https://github.com/X1r0z/CVE-2023-23638)	<img alt="forks" src="https://img.shields.io/github/forks/X1r0z/CVE-2023-23638">	<img alt="stars" src="https://img.shields.io/github/stars/X1r0z/CVE-2023-23638">
+
+---
 ## CVE-2023-23636 (2023-02-03T01:15:00)
 > In Jellyfin 10.8.x through 10.8.3, the name of a playlist is vulnerable to stored XSS. This allows an attacker to steal access tokens from the localStorage of the victim.
 - [Live-Hack-CVE/CVE-2023-23636](https://github.com/Live-Hack-CVE/CVE-2023-23636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23636">
