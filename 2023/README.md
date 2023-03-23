@@ -1598,8 +1598,8 @@
 - [Shmily-ing/CVE-2023-232323](https://github.com/Shmily-ing/CVE-2023-232323)	<img alt="forks" src="https://img.shields.io/github/forks/Shmily-ing/CVE-2023-232323">	<img alt="stars" src="https://img.shields.io/github/stars/Shmily-ing/CVE-2023-232323">
 
 ---
-## CVE-2023-23192 ()
-> 
+## CVE-2023-23192 (2023-03-23T02:15:00)
+> IS Decisions UserLock MFA 11.01 is vulnerable to authentication bypass using scheduled task.
 - [pinarsadioglu/CVE-2023-23192](https://github.com/pinarsadioglu/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/pinarsadioglu/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/pinarsadioglu/CVE-2023-23192">
 - [Penkyzduyi/CVE-2023-23192](https://github.com/Penkyzduyi/CVE-2023-23192)	<img alt="forks" src="https://img.shields.io/github/forks/Penkyzduyi/CVE-2023-23192">	<img alt="stars" src="https://img.shields.io/github/stars/Penkyzduyi/CVE-2023-23192">
 
