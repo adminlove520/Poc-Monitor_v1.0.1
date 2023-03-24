@@ -1305,6 +1305,7 @@
 - [Jenderal92/Joomla-CVE-2023-23752](https://github.com/Jenderal92/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/Joomla-CVE-2023-23752">
 - [lyuumei/CVE-2023-23752](https://github.com/lyuumei/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/lyuumei/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/lyuumei/CVE-2023-23752">
 - [aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner](https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner">
+- [Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Acceis/exploit-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Acceis/exploit-CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
