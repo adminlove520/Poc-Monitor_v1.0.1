@@ -4141,8 +4141,8 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21419](https://github.com/Live-Hack-CVE/CVE-2023-21419)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21419">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21419">
 
 ---
-## CVE-2023-21036 ()
-> 
+## CVE-2023-21036 (2023-03-24T20:15:00)
+> In BitmapExport.java, there is a possible failure to truncate images due to a logic error in the code.Product: AndroidVersions: Android kernelAndroid ID: A-264261868References: N/A
 - [infobyte/CVE-2023-21036](https://github.com/infobyte/CVE-2023-21036)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/CVE-2023-21036">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/CVE-2023-21036">
 - [qixils/anticropalypse](https://github.com/qixils/anticropalypse)	<img alt="forks" src="https://img.shields.io/github/forks/qixils/anticropalypse">	<img alt="stars" src="https://img.shields.io/github/stars/qixils/anticropalypse">
 - [maddiethecafebabe/discord-acropolypse-bot](https://github.com/maddiethecafebabe/discord-acropolypse-bot)	<img alt="forks" src="https://img.shields.io/github/forks/maddiethecafebabe/discord-acropolypse-bot">	<img alt="stars" src="https://img.shields.io/github/stars/maddiethecafebabe/discord-acropolypse-bot">
