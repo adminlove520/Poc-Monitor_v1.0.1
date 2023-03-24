@@ -171,6 +171,7 @@
 > 
 - [uicres/CVE-2023-25610-PoC](https://github.com/uicres/CVE-2023-25610-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uicres/CVE-2023-25610-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uicres/CVE-2023-25610-PoC">
 - [l1ced/CVE-2023-25610-mass](https://github.com/l1ced/CVE-2023-25610-mass)	<img alt="forks" src="https://img.shields.io/github/forks/l1ced/CVE-2023-25610-mass">	<img alt="stars" src="https://img.shields.io/github/stars/l1ced/CVE-2023-25610-mass">
+- [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
 
 ---
 ## CVE-2023-25576 (2023-02-14T16:15:00)
