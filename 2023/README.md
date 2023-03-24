@@ -4250,6 +4250,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20007](https://github.com/Live-Hack-CVE/CVE-2023-20007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20007">
 
 ---
+## CVE-2023-1454 (2023-03-17T07:15:00)
+> A vulnerability classified as critical has been found in jeecg-boot 3.5.0. This affects an unknown part of the file jmreport/qurestSql. The manipulation of the argument apiSelectId leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-223299.
+- [gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/CVE-2023-1454">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/CVE-2023-1454">
+
+---
 ## CVE-2023-1415 (2023-03-15T16:15:00)
 > A vulnerability was found in Simple Art Gallery 1.0. It has been declared as critical. This vulnerability affects the function sliderPicSubmit of the file adminHome.php. The manipulation leads to unrestricted upload. The attack can be initiated remotely. VDB-223126 is the identifier assigned to this vulnerability.
 - [0xxtoby/CVE-2023-1415](https://github.com/0xxtoby/CVE-2023-1415)	<img alt="forks" src="https://img.shields.io/github/forks/0xxtoby/CVE-2023-1415">	<img alt="stars" src="https://img.shields.io/github/stars/0xxtoby/CVE-2023-1415">
