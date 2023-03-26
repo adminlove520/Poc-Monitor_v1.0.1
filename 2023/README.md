@@ -4149,6 +4149,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [qixils/AntiCropalypse](https://github.com/qixils/AntiCropalypse)	<img alt="forks" src="https://img.shields.io/github/forks/qixils/AntiCropalypse">	<img alt="stars" src="https://img.shields.io/github/stars/qixils/AntiCropalypse">
 - [maddiethecafebabe/discord-acropolypse-bot](https://github.com/maddiethecafebabe/discord-acropolypse-bot)	<img alt="forks" src="https://img.shields.io/github/forks/maddiethecafebabe/discord-acropolypse-bot">	<img alt="stars" src="https://img.shields.io/github/stars/maddiethecafebabe/discord-acropolypse-bot">
 - [notaSWE/gocropalypse](https://github.com/notaSWE/gocropalypse)	<img alt="forks" src="https://img.shields.io/github/forks/notaSWE/gocropalypse">	<img alt="stars" src="https://img.shields.io/github/stars/notaSWE/gocropalypse">
+- [schdork/acropolypse-bot](https://github.com/schdork/acropolypse-bot)	<img alt="forks" src="https://img.shields.io/github/forks/schdork/acropolypse-bot">	<img alt="stars" src="https://img.shields.io/github/stars/schdork/acropolypse-bot">
 
 ---
 ## CVE-2023-20949 (2023-02-15T03:15:00)
