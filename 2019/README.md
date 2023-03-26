@@ -3532,6 +3532,7 @@
 ## CVE-2019-1006 (2019-07-15T19:15:00)
 > An authentication bypass vulnerability exists in Windows Communication Foundation (WCF) and Windows Identity Foundation (WIF), allowing signing of SAML tokens with arbitrary symmetric keys, aka 'WCF/WIF SAML Token Authentication Bypass Vulnerability'.
 - [521526/CVE-2019-1006](https://github.com/521526/CVE-2019-1006)	<img alt="forks" src="https://img.shields.io/github/forks/521526/CVE-2019-1006">	<img alt="stars" src="https://img.shields.io/github/stars/521526/CVE-2019-1006">
+- [ossf-cve-benchmark/CVE-2019-10061](https://github.com/ossf-cve-benchmark/CVE-2019-10061)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10061">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10061">
 
 ---
 ## CVE-2019-0988 (2019-06-12T14:29:00)
