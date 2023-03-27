@@ -3870,6 +3870,12 @@
 - [Live-Hack-CVE/CVE-2020-15798](https://github.com/Live-Hack-CVE/CVE-2020-15798)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15798">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15798">
 
 ---
+## CVE-2020-15778 (2020-07-24T14:15:00)
+> ** DISPUTED ** scp in OpenSSH through 8.3p1 allows command injection in the scp.c toremote function, as demonstrated by backtick characters in the destination argument. NOTE: the vendor reportedly has stated that they intentionally omit validation of "anomalous argument transfers" because that could "stand a great chance of breaking existing workflows."
+- [cpandya2909/CVE-2020-15778](https://github.com/cpandya2909/CVE-2020-15778)	<img alt="forks" src="https://img.shields.io/github/forks/cpandya2909/CVE-2020-15778">	<img alt="stars" src="https://img.shields.io/github/stars/cpandya2909/CVE-2020-15778">
+- [Neko-chanQwQ/CVE-2020-15778-Exploit](https://github.com/Neko-chanQwQ/CVE-2020-15778-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Neko-chanQwQ/CVE-2020-15778-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Neko-chanQwQ/CVE-2020-15778-Exploit">
+
+---
 ## CVE-2020-15701 (2020-08-06T23:15:00)
 > An unhandled exception in check_ignored() in apport/report.py can be exploited by a local attacker to cause a denial of service. If the mtime attribute is a string value in apport-ignore.xml, it will trigger an unhandled exception, resulting in a crash. Fixed in 2.20.1-0ubuntu2.24, 2.20.9-0ubuntu7.16, 2.20.11-0ubuntu27.6.
 - [Live-Hack-CVE/CVE-2020-15701](https://github.com/Live-Hack-CVE/CVE-2020-15701)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15701">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15701">
