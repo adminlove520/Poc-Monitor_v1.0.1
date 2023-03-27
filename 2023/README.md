@@ -193,6 +193,26 @@
 - [Live-Hack-CVE/CVE-2023-25396](https://github.com/Live-Hack-CVE/CVE-2023-25396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25396">
 
 ---
+## CVE-2023-25263 ()
+> 
+- [trustcves/CVE-2023-25263](https://github.com/trustcves/CVE-2023-25263)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25263">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25263">
+
+---
+## CVE-2023-25262 ()
+> 
+- [trustcves/CVE-2023-25262](https://github.com/trustcves/CVE-2023-25262)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25262">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25262">
+
+---
+## CVE-2023-25261 ()
+> 
+- [trustcves/CVE-2023-25261](https://github.com/trustcves/CVE-2023-25261)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25261">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25261">
+
+---
+## CVE-2023-25260 ()
+> 
+- [trustcves/CVE-2023-25260](https://github.com/trustcves/CVE-2023-25260)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-25260">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-25260">
+
+---
 ## CVE-2023-25241 (2023-02-13T21:15:00)
 > bgERP v22.31 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the Search parameter.
 - [Live-Hack-CVE/CVE-2023-25241](https://github.com/Live-Hack-CVE/CVE-2023-25241)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25241">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25241">
