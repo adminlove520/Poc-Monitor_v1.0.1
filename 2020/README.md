@@ -4503,6 +4503,28 @@
 - [Live-Hack-CVE/CVE-2020-13528](https://github.com/Live-Hack-CVE/CVE-2020-13528)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13528">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13528">
 
 ---
+## CVE-2020-1350 (2020-07-14T23:15:00)
+> A remote code execution vulnerability exists in Windows Domain Name System servers when they fail to properly handle requests, aka 'Windows DNS Server Remote Code Execution Vulnerability'.
+- [T13nn3s/CVE-2020-1350](https://github.com/T13nn3s/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2020-1350">
+- [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
+- [ejlevin99/CVE---2020---1350](https://github.com/ejlevin99/CVE---2020---1350)	<img alt="forks" src="https://img.shields.io/github/forks/ejlevin99/CVE---2020---1350">	<img alt="stars" src="https://img.shields.io/github/stars/ejlevin99/CVE---2020---1350">
+- [ZephrFish/CVE-2020-1350_HoneyPoC](https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2020-1350_HoneyPoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2020-1350_HoneyPoC">
+- [connormcgarr/CVE-2020-1350](https://github.com/connormcgarr/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/connormcgarr/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/connormcgarr/CVE-2020-1350">
+- [simeononsecurity/CVE-2020-1350-Fix](https://github.com/simeononsecurity/CVE-2020-1350-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/simeononsecurity/CVE-2020-1350-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/simeononsecurity/CVE-2020-1350-Fix">
+- [gdwnet/cve-2020-1350](https://github.com/gdwnet/cve-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/gdwnet/cve-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/gdwnet/cve-2020-1350">
+- [CVEmaster/CVE-2020-1350](https://github.com/CVEmaster/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/CVEmaster/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/CVEmaster/CVE-2020-1350">
+- [5l1v3r1/CVE-2020-1350-checker.ps1](https://github.com/5l1v3r1/CVE-2020-1350-checker.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2020-1350-checker.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2020-1350-checker.ps1">
+- [mr-r3b00t/CVE-2020-1350](https://github.com/mr-r3b00t/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2020-1350">
+- [Plazmaz/CVE-2020-1350-poc](https://github.com/Plazmaz/CVE-2020-1350-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Plazmaz/CVE-2020-1350-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Plazmaz/CVE-2020-1350-poc">
+- [corelight/SIGRed](https://github.com/corelight/SIGRed)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/SIGRed">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/SIGRed">
+- [zoomerxsec/Fake_CVE-2020-1350](https://github.com/zoomerxsec/Fake_CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/zoomerxsec/Fake_CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/zoomerxsec/Fake_CVE-2020-1350">
+- [graph-inc/CVE-2020-1350](https://github.com/graph-inc/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/graph-inc/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/graph-inc/CVE-2020-1350">
+- [maxpl0it/CVE-2020-1350-DoS](https://github.com/maxpl0it/CVE-2020-1350-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/maxpl0it/CVE-2020-1350-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/maxpl0it/CVE-2020-1350-DoS">
+- [captainGeech42/CVE-2020-1350](https://github.com/captainGeech42/CVE-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/captainGeech42/CVE-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/captainGeech42/CVE-2020-1350">
+- [jmaddington/dRMM-CVE-2020-1350-response](https://github.com/jmaddington/dRMM-CVE-2020-1350-response)	<img alt="forks" src="https://img.shields.io/github/forks/jmaddington/dRMM-CVE-2020-1350-response">	<img alt="stars" src="https://img.shields.io/github/stars/jmaddington/dRMM-CVE-2020-1350-response">
+- [tinkersec/cve-2020-1350](https://github.com/tinkersec/cve-2020-1350)	<img alt="forks" src="https://img.shields.io/github/forks/tinkersec/cve-2020-1350">	<img alt="stars" src="https://img.shields.io/github/stars/tinkersec/cve-2020-1350">
+
+---
 ## CVE-2020-13497 (2020-12-02T18:15:00)
 > An exploitable vulnerability exists in the way Pixar OpenUSD 20.05 handles parses certain encoded types. A specially crafted malformed file can trigger an arbitrary out of bounds memory access in String Type Index. This vulnerability could be used to bypass mitigations and aid further exploitation. To trigger this vulnerability, the victim needs to access an attacker-provided malformed file.
 - [Live-Hack-CVE/CVE-2020-13497](https://github.com/Live-Hack-CVE/CVE-2020-13497)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13497">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13497">
@@ -5497,6 +5519,7 @@
 - [poppylarrry/firefox-rce-poc](https://github.com/poppylarrry/firefox-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/poppylarrry/firefox-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/poppylarrry/firefox-rce-poc">
 - [OldDream666/cve-2020-0796](https://github.com/OldDream666/cve-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/OldDream666/cve-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/OldDream666/cve-2020-0796">
 - [heeloo123/CVE-2020-0796](https://github.com/heeloo123/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/heeloo123/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/heeloo123/CVE-2020-0796">
+- [T13nn3s/CVE-2020-0796](https://github.com/T13nn3s/CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/T13nn3s/CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/T13nn3s/CVE-2020-0796">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
