@@ -3517,6 +3517,23 @@
 - [Live-Hack-CVE/CVE-2020-17541](https://github.com/Live-Hack-CVE/CVE-2020-17541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17541">
 
 ---
+## CVE-2020-17530 (2020-12-11T02:15:00)
+> Forced OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution. Affected software : Apache Struts 2.0.0 - Struts 2.5.25.
+- [keyuan15/CVE-2020-17530](https://github.com/keyuan15/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/keyuan15/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/keyuan15/CVE-2020-17530">
+- [gh0st27/Struts2Scanner](https://github.com/gh0st27/Struts2Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gh0st27/Struts2Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gh0st27/Struts2Scanner">
+- [killmonday/CVE-2020-17530-s2-061](https://github.com/killmonday/CVE-2020-17530-s2-061)	<img alt="forks" src="https://img.shields.io/github/forks/killmonday/CVE-2020-17530-s2-061">	<img alt="stars" src="https://img.shields.io/github/stars/killmonday/CVE-2020-17530-s2-061">
+- [uzzzval/CVE-2020-17530](https://github.com/uzzzval/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/uzzzval/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/uzzzval/CVE-2020-17530">
+- [CyborgSecurity/CVE-2020-17530](https://github.com/CyborgSecurity/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/CyborgSecurity/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/CyborgSecurity/CVE-2020-17530">
+- [Al1ex/CVE-2020-17530](https://github.com/Al1ex/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2020-17530">
+- [ludy-dev/freemarker_RCE_struts2_s2-061](https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/freemarker_RCE_struts2_s2-061">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/freemarker_RCE_struts2_s2-061">
+- [wuzuowei/CVE-2020-17530](https://github.com/wuzuowei/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/wuzuowei/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/wuzuowei/CVE-2020-17530">
+- [fengziHK/CVE-2020-17530-strust2-061](https://github.com/fengziHK/CVE-2020-17530-strust2-061)	<img alt="forks" src="https://img.shields.io/github/forks/fengziHK/CVE-2020-17530-strust2-061">	<img alt="stars" src="https://img.shields.io/github/stars/fengziHK/CVE-2020-17530-strust2-061">
+- [ka1n4t/CVE-2020-17530](https://github.com/ka1n4t/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/ka1n4t/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/ka1n4t/CVE-2020-17530">
+- [phil-fly/CVE-2020-17530](https://github.com/phil-fly/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/phil-fly/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/phil-fly/CVE-2020-17530">
+- [154802388/CVE-2020-17531](https://github.com/154802388/CVE-2020-17531)	<img alt="forks" src="https://img.shields.io/github/forks/154802388/CVE-2020-17531">	<img alt="stars" src="https://img.shields.io/github/stars/154802388/CVE-2020-17531">
+- [pangyu360es/CVE-2020-17530](https://github.com/pangyu360es/CVE-2020-17530)	<img alt="forks" src="https://img.shields.io/github/forks/pangyu360es/CVE-2020-17530">	<img alt="stars" src="https://img.shields.io/github/stars/pangyu360es/CVE-2020-17530">
+
+---
 ## CVE-2020-1753 (2020-03-16T15:15:00)
 > A security flaw was found in Ansible Engine, all Ansible 2.7.x versions prior to 2.7.17, all Ansible 2.8.x versions prior to 2.8.11 and all Ansible 2.9.x versions prior to 2.9.7, when managing kubernetes using the k8s module. Sensitive parameters such as passwords and tokens are passed to kubectl from the command line, not using an environment variable or an input configuration file. This will disclose passwords and tokens from process list and no_log directive from debug module would not have any effect making these secrets being disclosed on stdout and log files.
 - [Live-Hack-CVE/CVE-2020-1753](https://github.com/Live-Hack-CVE/CVE-2020-1753)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1753">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1753">
