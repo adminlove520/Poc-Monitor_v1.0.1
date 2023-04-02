@@ -262,6 +262,11 @@
 - [Live-Hack-CVE/CVE-2019-7635](https://github.com/Live-Hack-CVE/CVE-2019-7635)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7635">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7635">
 
 ---
+## CVE-2019-7609 (2019-03-25T19:29:00)
+> Kibana versions before 5.6.15 and 6.6.1 contain an arbitrary code execution flaw in the Timelion visualizer. An attacker with access to the Timelion application could send a request that will attempt to execute javascript code. This could possibly lead to an attacker executing arbitrary commands with permissions of the Kibana process on the host system.
+- [LandGrey/CVE-2019-7609](https://github.com/LandGrey/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/LandGrey/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/LandGrey/CVE-2019-7609">
+
+---
 ## CVE-2019-7578 (2019-02-07T07:29:00)
 > SDL (Simple DirectMedia Layer) through 1.2.15 and 2.x through 2.0.9 has a heap-based buffer over-read in InitIMA_ADPCM in audio/SDL_wave.c.
 - [Live-Hack-CVE/CVE-2019-7578](https://github.com/Live-Hack-CVE/CVE-2019-7578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7578">
