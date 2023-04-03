@@ -4219,6 +4219,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20949](https://github.com/Live-Hack-CVE/CVE-2023-20949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20949">
 
 ---
+## CVE-2023-20944 (2023-02-28T17:15:00)
+> In run of ChooseTypeAndAccountActivity.java, there is a possible escalation of privilege due to unsafe deserialization. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-244154558
+- [Trinadh465/frameworks_base_CVE-2023-20944](https://github.com/Trinadh465/frameworks_base_CVE-2023-20944)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_CVE-2023-20944">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_CVE-2023-20944">
+
+---
 ## CVE-2023-20933 (2023-02-28T17:15:00)
 > In several functions of MediaCodec.cpp, there is a possible way to corrupt memory due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-245860753
 - [Trinadh465/frameworks_av_CVE-2023-20933](https://github.com/Trinadh465/frameworks_av_CVE-2023-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_av_CVE-2023-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_av_CVE-2023-20933">
