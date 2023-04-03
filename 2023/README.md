@@ -462,6 +462,11 @@
 - [Live-Hack-CVE/CVE-2023-24804](https://github.com/Live-Hack-CVE/CVE-2023-24804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24804">
 
 ---
+## CVE-2023-24775 (2023-03-07T18:15:00)
+> Funadmin v3.2.0 was discovered to contain a SQL injection vulnerability via the selectFields parameter at \member\Member.php.
+- [csffs/CVE-2023-24775-and-CVE-2023-24780](https://github.com/csffs/CVE-2023-24775-and-CVE-2023-24780)	<img alt="forks" src="https://img.shields.io/github/forks/csffs/CVE-2023-24775-and-CVE-2023-24780">	<img alt="stars" src="https://img.shields.io/github/stars/csffs/CVE-2023-24775-and-CVE-2023-24780">
+
+---
 ## CVE-2023-24690 (2023-02-09T22:15:00)
 > ChurchCRM 4.5.3 and below was discovered to contain a stored cross-site scripting (XSS) vulnerability at /api/public/register/family.
 - [Live-Hack-CVE/CVE-2023-24690](https://github.com/Live-Hack-CVE/CVE-2023-24690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24690">
