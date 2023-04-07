@@ -1244,6 +1244,15 @@
 - [FachrulRH/jckeditor](https://github.com/FachrulRH/jckeditor)	<img alt="forks" src="https://img.shields.io/github/forks/FachrulRH/jckeditor">	<img alt="stars" src="https://img.shields.io/github/stars/FachrulRH/jckeditor">
 
 ---
+## CVE-2018-17182 (2018-09-19T09:29:00)
+> An issue was discovered in the Linux kernel through 4.18.8. The vmacache_flush_all function in mm/vmacache.c mishandles sequence number overflows. An attacker can trigger a use-after-free (and possibly gain privileges) via certain thread creation, map, unmap, invalidation, and dereference operations.
+- [jedai47/cve-2018-17182](https://github.com/jedai47/cve-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/cve-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/cve-2018-17182">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
+- [jas502n/CVE-2018-17182](https://github.com/jas502n/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-17182">
+- [likescam/vmacache_CVE-2018-17182](https://github.com/likescam/vmacache_CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/vmacache_CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/vmacache_CVE-2018-17182">
+- [likescam/CVE-2018-17182](https://github.com/likescam/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-17182">
+
+---
 ## CVE-2018-16981 (2018-09-12T23:29:00)
 > stb stb_image.h 2.19, as used in catimg, Emscripten, and other products, has a heap-based buffer overflow in the stbi__out_gif_code function.
 - [Live-Hack-CVE/CVE-2018-16981](https://github.com/Live-Hack-CVE/CVE-2018-16981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16981">
