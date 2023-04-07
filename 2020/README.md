@@ -811,6 +811,11 @@
 - [Live-Hack-CVE/CVE-2020-6296](https://github.com/Live-Hack-CVE/CVE-2020-6296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6296">
 
 ---
+## CVE-2020-6287 (2020-07-14T13:15:00)
+> SAP NetWeaver AS JAVA (LM Configuration Wizard), versions - 7.30, 7.31, 7.40, 7.50, does not perform an authentication check which allows an attacker without prior authentication to execute configuration tasks to perform critical actions against the SAP Java system, including the ability to create an administrative user, and therefore compromising Confidentiality, Integrity and Availability of the system, leading to Missing Authentication Check.
+- [qmakake/SAP_CVE-2020-6287_find_mandat](https://github.com/qmakake/SAP_CVE-2020-6287_find_mandat)	<img alt="forks" src="https://img.shields.io/github/forks/qmakake/SAP_CVE-2020-6287_find_mandat">	<img alt="stars" src="https://img.shields.io/github/stars/qmakake/SAP_CVE-2020-6287_find_mandat">
+
+---
 ## CVE-2020-6280 (2020-07-14T13:15:00)
 > SAP NetWeaver (ABAP Server) and ABAP Platform, versions 731, 740, 750, allows an attacker with admin privileges to access certain files which should otherwise be restricted, leading to Information Disclosure.
 - [Live-Hack-CVE/CVE-2020-6280](https://github.com/Live-Hack-CVE/CVE-2020-6280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-6280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-6280">
