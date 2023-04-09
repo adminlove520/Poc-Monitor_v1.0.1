@@ -763,6 +763,8 @@
 - [github-kyruuu/log4shell-vulnweb](https://github.com/github-kyruuu/log4shell-vulnweb)	<img alt="forks" src="https://img.shields.io/github/forks/github-kyruuu/log4shell-vulnweb">	<img alt="stars" src="https://img.shields.io/github/stars/github-kyruuu/log4shell-vulnweb">
 - [rejupillai/log4j2-hack-springboot](https://github.com/rejupillai/log4j2-hack-springboot)	<img alt="forks" src="https://img.shields.io/github/forks/rejupillai/log4j2-hack-springboot">	<img alt="stars" src="https://img.shields.io/github/stars/rejupillai/log4j2-hack-springboot">
 - [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
+- [YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/YuanRuQian/CVE-2021-44228-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/YuanRuQian/CVE-2021-44228-attack-demo">
+- [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
