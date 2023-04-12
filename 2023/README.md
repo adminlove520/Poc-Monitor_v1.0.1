@@ -92,13 +92,13 @@
 - [0xFTW/CVE-2023-27842](https://github.com/0xFTW/CVE-2023-27842)	<img alt="forks" src="https://img.shields.io/github/forks/0xFTW/CVE-2023-27842">	<img alt="stars" src="https://img.shields.io/github/stars/0xFTW/CVE-2023-27842">
 
 ---
-## CVE-2023-27704 ()
-> 
+## CVE-2023-27704 (2023-04-12T14:15:00)
+> Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS).
 - [happy0717/CVE-2023-27704](https://github.com/happy0717/CVE-2023-27704)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27704">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27704">
 
 ---
-## CVE-2023-27703 ()
-> 
+## CVE-2023-27703 (2023-04-12T16:15:00)
+> The Android version of pikpak v1.29.2 was discovered to contain an information leak via the debug interface.
 - [happy0717/CVE-2023-27703](https://github.com/happy0717/CVE-2023-27703)	<img alt="forks" src="https://img.shields.io/github/forks/happy0717/CVE-2023-27703">	<img alt="stars" src="https://img.shields.io/github/stars/happy0717/CVE-2023-27703">
 
 ---
@@ -144,8 +144,8 @@
 - [lionelmusonza/CVE-2023-26866](https://github.com/lionelmusonza/CVE-2023-26866)	<img alt="forks" src="https://img.shields.io/github/forks/lionelmusonza/CVE-2023-26866">	<img alt="stars" src="https://img.shields.io/github/stars/lionelmusonza/CVE-2023-26866">
 
 ---
-## CVE-2023-26852 ()
-> 
+## CVE-2023-26852 (2023-04-12T17:15:00)
+> An arbitrary file upload vulnerability in the upload plugin of Textpattern v4.8.8 and below allows attackers to execute arbitrary code by uploading a crafted PHP file.
 - [leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-](https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-)	<img alt="forks" src="https://img.shields.io/github/forks/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">	<img alt="stars" src="https://img.shields.io/github/stars/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-">
 
 ---
@@ -4083,6 +4083,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-21555](https://github.com/Live-Hack-CVE/CVE-2023-21555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21555">
 - [Live-Hack-CVE/CVE-2023-21546](https://github.com/Live-Hack-CVE/CVE-2023-21546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21546">
 - [Live-Hack-CVE/CVE-2023-21543](https://github.com/Live-Hack-CVE/CVE-2023-21543)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21543">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21543">
+
+---
+## CVE-2023-21554 (2023-04-11T21:15:00)
+> Microsoft Message Queuing Remote Code Execution Vulnerability
+- [00hashmaker/CVE-2023-21554-0day](https://github.com/00hashmaker/CVE-2023-21554-0day)	<img alt="forks" src="https://img.shields.io/github/forks/00hashmaker/CVE-2023-21554-0day">	<img alt="stars" src="https://img.shields.io/github/stars/00hashmaker/CVE-2023-21554-0day">
 
 ---
 ## CVE-2023-21553 (2023-02-14T21:15:00)
