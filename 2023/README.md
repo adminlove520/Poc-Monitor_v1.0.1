@@ -255,6 +255,7 @@
 - [uicres/CVE-2023-25610-PoC](https://github.com/uicres/CVE-2023-25610-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/uicres/CVE-2023-25610-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/uicres/CVE-2023-25610-PoC">
 - [l1ced/CVE-2023-25610-mass](https://github.com/l1ced/CVE-2023-25610-mass)	<img alt="forks" src="https://img.shields.io/github/forks/l1ced/CVE-2023-25610-mass">	<img alt="stars" src="https://img.shields.io/github/stars/l1ced/CVE-2023-25610-mass">
 - [PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/PSIRT-REPO/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/PSIRT-REPO/CVE-2023-25610">
+- [FortiSecurity/CVE-2023-25610](https://github.com/FortiSecurity/CVE-2023-25610)	<img alt="forks" src="https://img.shields.io/github/forks/FortiSecurity/CVE-2023-25610">	<img alt="stars" src="https://img.shields.io/github/stars/FortiSecurity/CVE-2023-25610">
 
 ---
 ## CVE-2023-25576 (2023-02-14T16:15:00)
@@ -4092,6 +4093,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [hash0x1/CVE-2023-21554](https://github.com/hash0x1/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/hash0x1/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/hash0x1/CVE-2023-21554">
 - [0xasm/CVE-2023-21554](https://github.com/0xasm/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/0xasm/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/0xasm/CVE-2023-21554">
 - [select275/CVE-2023-21554-PoC](https://github.com/select275/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/select275/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/select275/CVE-2023-21554-PoC">
+- [HshMkr/CVE-2023-21554](https://github.com/HshMkr/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/HshMkr/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/HshMkr/CVE-2023-21554">
 
 ---
 ## CVE-2023-21553 (2023-02-14T21:15:00)
