@@ -4457,6 +4457,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-1177 (2023-03-24T15:15:00)
 > Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.
 - [hh-hunter/CVE-2023-1177-Docker](https://github.com/hh-hunter/CVE-2023-1177-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/CVE-2023-1177-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/CVE-2023-1177-Docker">
+- [hh-hunter/ml-CVE-2023-1177](https://github.com/hh-hunter/ml-CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/ml-CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/ml-CVE-2023-1177">
 
 ---
 ## CVE-2023-0901 (2023-02-18T01:15:00)
