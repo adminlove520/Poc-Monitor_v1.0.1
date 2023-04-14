@@ -4094,6 +4094,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [0xasm/CVE-2023-21554](https://github.com/0xasm/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/0xasm/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/0xasm/CVE-2023-21554">
 - [select275/CVE-2023-21554-PoC](https://github.com/select275/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/select275/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/select275/CVE-2023-21554-PoC">
 - [HshMkr/CVE-2023-21554](https://github.com/HshMkr/CVE-2023-21554)	<img alt="forks" src="https://img.shields.io/github/forks/HshMkr/CVE-2023-21554">	<img alt="stars" src="https://img.shields.io/github/stars/HshMkr/CVE-2023-21554">
+- [checksec0xint/CVE-2023-21554-PoC](https://github.com/checksec0xint/CVE-2023-21554-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/checksec0xint/CVE-2023-21554-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/checksec0xint/CVE-2023-21554-PoC">
 
 ---
 ## CVE-2023-21553 (2023-02-14T21:15:00)
