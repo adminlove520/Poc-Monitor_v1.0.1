@@ -24,6 +24,7 @@
 ## CVE-2023-999991 ()
 > 
 - [yrtsec/CVE-2023-999991](https://github.com/yrtsec/CVE-2023-999991)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991">
+- [yrtsec/CVE-2023-999991_2](https://github.com/yrtsec/CVE-2023-999991_2)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991_2">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991_2">
 
 ---
 ## CVE-2023-8888 ()
