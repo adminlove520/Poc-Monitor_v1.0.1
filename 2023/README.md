@@ -4470,6 +4470,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-123456 ()
 > 
 - [emotest1/CVE-2023-123456](https://github.com/emotest1/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/emotest1/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/emotest1/CVE-2023-123456">
+- [yrtsec/CVE-2023-123456](https://github.com/yrtsec/CVE-2023-123456)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-123456">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-123456">
 
 ---
 ## CVE-2023-1177 (2023-03-24T15:15:00)
