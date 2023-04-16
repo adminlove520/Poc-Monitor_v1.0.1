@@ -765,6 +765,7 @@
 - [Qualys/log4jscanwin](https://github.com/Qualys/log4jscanwin)	<img alt="forks" src="https://img.shields.io/github/forks/Qualys/log4jscanwin">	<img alt="stars" src="https://img.shields.io/github/stars/Qualys/log4jscanwin">
 - [YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/YuanRuQian/CVE-2021-44228-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/YuanRuQian/CVE-2021-44228-attack-demo">
 - [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
+- [funcid/log4j-exploit-with-fork-bomb](https://github.com/funcid/log4j-exploit-with-fork-bomb)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/log4j-exploit-with-fork-bomb">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/log4j-exploit-with-fork-bomb">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
