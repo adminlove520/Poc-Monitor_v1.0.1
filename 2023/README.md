@@ -4422,6 +4422,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20522](https://github.com/Live-Hack-CVE/CVE-2023-20522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20522">
 
 ---
+## CVE-2023-2033 (2023-04-14T19:15:00)
+> Type confusion in V8 in Google Chrome prior to 112.0.5615.121 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [insoxin/CVE-2023-2033](https://github.com/insoxin/CVE-2023-2033)	<img alt="forks" src="https://img.shields.io/github/forks/insoxin/CVE-2023-2033">	<img alt="stars" src="https://img.shields.io/github/stars/insoxin/CVE-2023-2033">
+
+---
 ## CVE-2023-20057 (2023-01-20T07:15:00)
 > A vulnerability in the URL filtering mechanism of Cisco AsyncOS Software for Cisco Email Security Appliance (ESA) could allow an unauthenticated, remote attacker to bypass the URL reputation filters on an affected device. This vulnerability is due to improper processing of URLs. An attacker could exploit this vulnerability by crafting a URL in a particular way. A successful exploit could allow the attacker to bypass the URL reputation filters that are configured for an affected device, which could allow malicious URLs to pass through the device.
 - [Live-Hack-CVE/CVE-2023-20057](https://github.com/Live-Hack-CVE/CVE-2023-20057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20057">
