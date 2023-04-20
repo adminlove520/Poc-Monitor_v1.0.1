@@ -3199,6 +3199,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 > Windows Graphics Component Remote Code Execution Vulnerability
 - [Live-Hack-CVE/CVE-2023-21823](https://github.com/Live-Hack-CVE/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21823">
 - [b11y/CVE-2023-21823](https://github.com/b11y/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-21823">
+- [Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Elizarfish/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Elizarfish/CVE-2023-21823">
 
 ---
 ## CVE-2023-21815 (2023-02-14T21:15:00)
