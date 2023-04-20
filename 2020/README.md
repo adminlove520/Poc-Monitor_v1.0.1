@@ -3620,6 +3620,11 @@
 - [Live-Hack-CVE/CVE-2020-17463](https://github.com/Live-Hack-CVE/CVE-2020-17463)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17463">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17463">
 
 ---
+## CVE-2020-17453 (2021-04-05T22:15:00)
+> WSO2 Management Console through 5.10 allows XSS via the carbon/admin/login.jsp msgId parameter.
+- [karthi-the-hacker/CVE-2020-17453](https://github.com/karthi-the-hacker/CVE-2020-17453)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2020-17453">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2020-17453">
+
+---
 ## CVE-2020-17446 (2020-08-12T16:15:00)
 > asyncpg before 0.21.0 allows a malicious PostgreSQL server to trigger a crash or execute arbitrary code (on a database client) via a crafted server response, because of access to an uninitialized pointer in the array data decoder.
 - [Live-Hack-CVE/CVE-2020-17446](https://github.com/Live-Hack-CVE/CVE-2020-17446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-17446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-17446">
