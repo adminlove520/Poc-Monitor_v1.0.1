@@ -3175,6 +3175,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
 - [houqe/POC_CVE-2023-21839](https://github.com/houqe/POC_CVE-2023-21839)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2023-21839">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2023-21839">
 - [gobysec/Weblogic](https://github.com/gobysec/Weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Weblogic">
+- [octosec45/ms-word-rce-0day-poc-2023](https://github.com/octosec45/ms-word-rce-0day-poc-2023)	<img alt="forks" src="https://img.shields.io/github/forks/octosec45/ms-word-rce-0day-poc-2023">	<img alt="stars" src="https://img.shields.io/github/stars/octosec45/ms-word-rce-0day-poc-2023">
 
 ---
 ## CVE-2023-21837 (2023-01-18T00:15:00)
