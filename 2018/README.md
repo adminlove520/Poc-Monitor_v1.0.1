@@ -1501,6 +1501,11 @@
 - [nidhi7598/linux-3.0.35_CVE-2018-13405](https://github.com/nidhi7598/linux-3.0.35_CVE-2018-13405)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-3.0.35_CVE-2018-13405">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-3.0.35_CVE-2018-13405">
 
 ---
+## CVE-2018-1335 (2018-04-25T21:29:00)
+> From Apache Tika versions 1.7 to 1.17, clients could send carefully crafted headers to tika-server that could be used to inject commands into the command line of the server running tika-server. This vulnerability only affects those running tika-server on a server that is open to untrusted clients. The mitigation is to upgrade to Tika 1.18.
+- [Zebra64/CVE-2018-1335](https://github.com/Zebra64/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/Zebra64/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/Zebra64/CVE-2018-1335">
+
+---
 ## CVE-2018-1311 (2019-12-18T20:15:00)
 > The Apache Xerces-C 3.0.0 to 3.2.3 XML parser contains a use-after-free error triggered during the scanning of external DTDs. This flaw has not been addressed in the maintained version of the library and has no current mitigation other than to disable DTD processing. This can be accomplished via the DOM using a standard parser feature, or via SAX using the XERCES_DISABLE_DTD environment variable.
 - [Live-Hack-CVE/CVE-2018-1311](https://github.com/Live-Hack-CVE/CVE-2018-1311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1311">
