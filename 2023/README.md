@@ -2069,6 +2069,11 @@
 - [Live-Hack-CVE/CVE-2023-22900](https://github.com/Live-Hack-CVE/CVE-2023-22900)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22900">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22900">
 
 ---
+## CVE-2023-22894 (2023-04-19T16:15:00)
+> Strapi through 4.5.5 allows attackers (with access to the admin panel) to discover sensitive user details by exploiting the query filter. The attacker can filter users by columns that contain sensitive information and infer a value from API responses. If the attacker has super admin access, then this can be exploited to discover the password hash and password reset token of all users. If the attacker has admin panel access to an account with permission to access the username and email of API users with a lower privileged role (e.g., Editor or Author), then this can be exploited to discover sensitive information for all API users but not other admin accounts.
+- [Saboor-Hakimi/CVE-2023-22894](https://github.com/Saboor-Hakimi/CVE-2023-22894)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-22894">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-22894">
+
+---
 ## CVE-2023-22885 (2023-01-11T08:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none.
 - [Live-Hack-CVE/CVE-2023-22885](https://github.com/Live-Hack-CVE/CVE-2023-22885)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22885">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22885">
