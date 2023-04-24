@@ -5436,6 +5436,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0471](https://github.com/Live-Hack-CVE/CVE-2023-0471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0471">
 
 ---
+## CVE-2023-0464 (2023-03-22T17:15:00)
+> A security vulnerability has been identified in all supported versions of OpenSSL related to the verification of X.509 certificate chains that include policy constraints. Attackers may be able to exploit this vulnerability by creating a malicious certificate chain that triggers exponential use of computational resources, leading to a denial-of-service (DoS) attack on affected systems. Policy processing is disabled by default but can be enabled by passing the `-policy' argument to the command line utilities or by calling the `X509_VERIFY_PARAM_set1_policies()' function.
+- [Trinadh465/Openssl_1.1.1g_CVE-2023-0464](https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">
+
+---
 ## CVE-2023-0454 (2023-02-01T03:15:00)
 > OrangeScrum version 2.0.11 allows an authenticated external attacker to delete arbitrary local files from the server. This is possible because the application uses an unsanitized attacker-controlled parameter to construct an internal path.
 - [Live-Hack-CVE/CVE-2023-0454](https://github.com/Live-Hack-CVE/CVE-2023-0454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0454">
