@@ -48,8 +48,8 @@
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
 
 ---
-## CVE-2023-30458 ()
-> 
+## CVE-2023-30458 (2023-04-24T08:15:00)
+> A username enumeration issue was discovered in Medicine Tracker System 1.0. The login functionality allows a malicious user to guess a valid username due to a different response time from invalid usernames. When one enters a valid username, the response time increases depending on the length of the supplied password.
 - [d34dun1c02n/CVE-2023-30458](https://github.com/d34dun1c02n/CVE-2023-30458)	<img alt="forks" src="https://img.shields.io/github/forks/d34dun1c02n/CVE-2023-30458">	<img alt="stars" src="https://img.shields.io/github/stars/d34dun1c02n/CVE-2023-30458">
 
 ---
@@ -139,6 +139,7 @@
 > This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SetupCompleted class. The issue results from improper access control. An attacker can leverage this vulnerability to bypass authentication and execute arbitrary code in the context of SYSTEM. Was ZDI-CAN-18987.
 - [MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MaanVader/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MaanVader/CVE-2023-27350-POC">
 - [TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TamingSariMY/CVE-2023-27350-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TamingSariMY/CVE-2023-27350-POC">
+- [horizon3ai/CVE-2023-27350](https://github.com/horizon3ai/CVE-2023-27350)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-27350">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-27350">
 
 ---
 ## CVE-2023-27326 ()
