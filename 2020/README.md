@@ -3905,6 +3905,11 @@
 - [Live-Hack-CVE/CVE-2020-15860](https://github.com/Live-Hack-CVE/CVE-2020-15860)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15860">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15860">
 
 ---
+## CVE-2020-15848 ()
+> 
+- [faklad/CVE-2020-15848](https://github.com/faklad/CVE-2020-15848)	<img alt="forks" src="https://img.shields.io/github/forks/faklad/CVE-2020-15848">	<img alt="stars" src="https://img.shields.io/github/stars/faklad/CVE-2020-15848">
+
+---
 ## CVE-2020-15803 (2020-07-17T03:15:00)
 > Zabbix before 3.0.32rc1, 4.x before 4.0.22rc1, 4.1.x through 4.4.x before 4.4.10rc1, and 5.x before 5.0.2rc1 allows stored XSS in the URL Widget.
 - [Live-Hack-CVE/CVE-2020-15803](https://github.com/Live-Hack-CVE/CVE-2020-15803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15803">
