@@ -5696,6 +5696,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 > A flaw was found in the Linux kernel, where unauthorized access to the execution of the setuid file with capabilities was found in the Linux kernel’s OverlayFS subsystem in how a user copies a capable file from a nosuid mount into another mount. This uid mapping bug allows a local user to escalate their privileges on the system.
 - [Satheesh575555/linux-4.19.72_CVE-2023-0386](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-0386">
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">
+- [JlSakuya/CVE-2023-0386](https://github.com/JlSakuya/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/JlSakuya/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/JlSakuya/CVE-2023-0386">
 
 ---
 ## CVE-2023-0385 (2023-01-18T15:15:00)
