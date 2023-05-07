@@ -302,6 +302,7 @@
 - [baonq-me/cve2017-5689](https://github.com/baonq-me/cve2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/baonq-me/cve2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/baonq-me/cve2017-5689">
 - [Bijaye/intel_amt_bypass](https://github.com/Bijaye/intel_amt_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bijaye/intel_amt_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bijaye/intel_amt_bypass">
 - [CerberusSecurity/CVE-2017-5689](https://github.com/CerberusSecurity/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusSecurity/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusSecurity/CVE-2017-5689">
+- [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
 
 ---
 ## CVE-2017-5638 (2017-03-11T02:59:00)
