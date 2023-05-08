@@ -5709,6 +5709,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [xkaneiki/CVE-2023-0386](https://github.com/xkaneiki/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/xkaneiki/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/xkaneiki/CVE-2023-0386">
 - [JlSakuya/CVE-2023-0386](https://github.com/JlSakuya/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/JlSakuya/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/JlSakuya/CVE-2023-0386">
 - [chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/chenaotian/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/chenaotian/CVE-2023-0386">
+- [CKevens/CVE-2023-0386](https://github.com/CKevens/CVE-2023-0386)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-0386">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-0386">
 
 ---
 ## CVE-2023-0385 (2023-01-18T15:15:00)
