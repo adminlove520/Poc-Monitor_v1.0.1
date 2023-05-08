@@ -99,6 +99,12 @@
 - [Live-Hack-CVE/CVE-2015-8383](https://github.com/Live-Hack-CVE/CVE-2015-8383)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8383">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8383">
 
 ---
+## CVE-2015-8351 (2017-09-11T20:29:00)
+> PHP remote file inclusion vulnerability in the Gwolle Guestbook plugin before 1.5.4 for WordPress, when allow_url_include is enabled, allows remote authenticated users to execute arbitrary PHP code via a URL in the abspath parameter to frontend/captcha/ajaxresponse.php.  NOTE: this can also be leveraged to include and execute arbitrary local files via directory traversal sequences regardless of whether allow_url_include is enabled.
+- [igruntplay/exploit-CVE-2015-8351](https://github.com/igruntplay/exploit-CVE-2015-8351)	<img alt="forks" src="https://img.shields.io/github/forks/igruntplay/exploit-CVE-2015-8351">	<img alt="stars" src="https://img.shields.io/github/stars/igruntplay/exploit-CVE-2015-8351">
+- [Ki11i0n4ir3/CVE-2015-8351](https://github.com/Ki11i0n4ir3/CVE-2015-8351)	<img alt="forks" src="https://img.shields.io/github/forks/Ki11i0n4ir3/CVE-2015-8351">	<img alt="stars" src="https://img.shields.io/github/stars/Ki11i0n4ir3/CVE-2015-8351">
+
+---
 ## CVE-2015-8324 (2016-05-02T10:59:00)
 > The ext4 implementation in the Linux kernel before 2.6.34 does not properly track the initialization of certain data structures, which allows physically proximate attackers to cause a denial of service (NULL pointer dereference and panic) via a crafted USB device, related to the ext4_fill_super function.
 - [Live-Hack-CVE/CVE-2015-8324](https://github.com/Live-Hack-CVE/CVE-2015-8324)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8324">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8324">
