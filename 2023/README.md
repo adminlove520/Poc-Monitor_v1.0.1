@@ -5595,6 +5595,19 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Trinadh465/Openssl_1.1.1g_CVE-2023-0464](https://github.com/Trinadh465/Openssl_1.1.1g_CVE-2023-0464)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/Openssl_1.1.1g_CVE-2023-0464">
 
 ---
+## CVE-2023-0461 (2023-02-28T15:15:00)
+> There is a use-after-free vulnerability in the Linux Kernel which can be exploited to achieve local privilege escalation. To reach the vulnerability kernel configuration flag CONFIG_TLS or CONFIG_XFRM_ESPINTCP has to be configured, but the operation does not require any privilege.
+
+There is a use-after-free bug of icsk_ulp_data of a struct inet_connection_sock.
+
+When CONFIG_TLS is enabled, user can install a tls context (struct tls_context) on a connected tcp socket. The context is not cleared if this socket is disconnected and reused as a listener. If a new socket is created from the listener, the context is inherited and vulnerable.
+
+The setsockopt TCP_ULP operation does not require any privilege.
+
+We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
+- [hshivhare67/kernel_v4.19.72_CVE-2023-0461](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0461)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/kernel_v4.19.72_CVE-2023-0461">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/kernel_v4.19.72_CVE-2023-0461">
+
+---
 ## CVE-2023-0454 (2023-02-01T03:15:00)
 > OrangeScrum version 2.0.11 allows an authenticated external attacker to delete arbitrary local files from the server. This is possible because the application uses an unsanitized attacker-controlled parameter to construct an internal path.
 - [Live-Hack-CVE/CVE-2023-0454](https://github.com/Live-Hack-CVE/CVE-2023-0454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0454">
