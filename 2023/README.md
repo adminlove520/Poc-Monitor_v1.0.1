@@ -326,6 +326,11 @@
 - [sploitfx/CVE-2023-26602](https://github.com/sploitfx/CVE-2023-26602)	<img alt="forks" src="https://img.shields.io/github/forks/sploitfx/CVE-2023-26602">	<img alt="stars" src="https://img.shields.io/github/stars/sploitfx/CVE-2023-26602">
 
 ---
+## CVE-2023-2594 (2023-05-09T13:15:00)
+> A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
+- [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
+
+---
 ## CVE-2023-25768 (2023-02-15T14:15:00)
 > A missing permission check in Jenkins Azure Credentials Plugin 253.v887e0f9e898b and earlier allows attackers with Overall/Read permission to connect to an attacker-specified web server.
 - [Live-Hack-CVE/CVE-2023-25768](https://github.com/Live-Hack-CVE/CVE-2023-25768)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25768">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25768">
