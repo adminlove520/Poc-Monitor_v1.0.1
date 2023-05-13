@@ -3706,6 +3706,10 @@
 ## CVE-2020-17087 (2020-11-11T07:15:00)
 > Windows Kernel Local Elevation of Privilege Vulnerability
 - [raiden757/CVE-2020-17087](https://github.com/raiden757/CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/raiden757/CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/raiden757/CVE-2020-17087">
+- [vp777/Windows-Non-Paged-Pool-Overflow-Exploitation](https://github.com/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/vp777/Windows-Non-Paged-Pool-Overflow-Exploitation">
+- [ykg88/OHTS_IE6052-CVE-2020-17087](https://github.com/ykg88/OHTS_IE6052-CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/ykg88/OHTS_IE6052-CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/ykg88/OHTS_IE6052-CVE-2020-17087">
+- [revengsh/CVE-2020-17087](https://github.com/revengsh/CVE-2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/revengsh/CVE-2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/revengsh/CVE-2020-17087">
+- [TinToSer/CVE2020-17087](https://github.com/TinToSer/CVE2020-17087)	<img alt="forks" src="https://img.shields.io/github/forks/TinToSer/CVE2020-17087">	<img alt="stars" src="https://img.shields.io/github/stars/TinToSer/CVE2020-17087">
 
 ---
 ## CVE-2020-1707 (2020-03-20T15:15:00)
