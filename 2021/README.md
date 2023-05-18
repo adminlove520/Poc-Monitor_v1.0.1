@@ -4598,6 +4598,11 @@
 - [Live-Hack-CVE/CVE-2021-3507](https://github.com/Live-Hack-CVE/CVE-2021-3507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3507">
 
 ---
+## CVE-2021-35042 (2021-07-02T10:15:00)
+> Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.
+- [LUUANHDUC/CVE-2021-35042](https://github.com/LUUANHDUC/CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/LUUANHDUC/CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/LUUANHDUC/CVE-2021-35042">
+
+---
 ## CVE-2021-35036 (2022-03-01T07:15:00)
 > A cleartext storage of information vulnerability in the Zyxel VMG3625-T50B firmware version V5.50(ABTL.0)b2k could allow an authenticated attacker to obtain sensitive information from the configuration file.
 - [Live-Hack-CVE/CVE-2021-35036](https://github.com/Live-Hack-CVE/CVE-2021-35036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35036">
