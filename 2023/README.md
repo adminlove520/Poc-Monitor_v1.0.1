@@ -76,6 +76,16 @@
 - [sahiloj/CVE-2023-31702](https://github.com/sahiloj/CVE-2023-31702)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-31702">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-31702">
 
 ---
+## CVE-2023-31664 ()
+> 
+- [adilkhan7/CVE-2023-31664](https://github.com/adilkhan7/CVE-2023-31664)	<img alt="forks" src="https://img.shields.io/github/forks/adilkhan7/CVE-2023-31664">	<img alt="stars" src="https://img.shields.io/github/stars/adilkhan7/CVE-2023-31664">
+
+---
+## CVE-2023-31634 ()
+> 
+- [XC9409/CVE-2023-31634](https://github.com/XC9409/CVE-2023-31634)	<img alt="forks" src="https://img.shields.io/github/forks/XC9409/CVE-2023-31634">	<img alt="stars" src="https://img.shields.io/github/stars/XC9409/CVE-2023-31634">
+
+---
 ## CVE-2023-31584 ()
 > 
 - [rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-31584">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-31584">
@@ -159,7 +169,7 @@
 ---
 ## CVE-2023-29919 ()
 > 
-- [13183161295zdn2325/CVE-2023-29919](https://github.com/13183161295zdn2325/CVE-2023-29919)	<img alt="forks" src="https://img.shields.io/github/forks/13183161295zdn2325/CVE-2023-29919">	<img alt="stars" src="https://img.shields.io/github/stars/13183161295zdn2325/CVE-2023-29919">
+- [xiaosed/CVE-2023-29919](https://github.com/xiaosed/CVE-2023-29919)	<img alt="forks" src="https://img.shields.io/github/forks/xiaosed/CVE-2023-29919">	<img alt="stars" src="https://img.shields.io/github/stars/xiaosed/CVE-2023-29919">
 
 ---
 ## CVE-2023-29839 (2023-05-03T03:15:00)
