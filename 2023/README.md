@@ -6014,6 +6014,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [Live-Hack-CVE/CVE-2023-0297](https://github.com/Live-Hack-CVE/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0297">
 - [Small-ears/CVE-2023-0297](https://github.com/Small-ears/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/Small-ears/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/Small-ears/CVE-2023-0297">
 - [b11y/CVE-2023-0297](https://github.com/b11y/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-0297">
+- [JacobEbben/CVE-2023-0297](https://github.com/JacobEbben/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2023-0297">
 
 ---
 ## CVE-2023-0296 (2023-01-17T21:15:00)
