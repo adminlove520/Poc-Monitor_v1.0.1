@@ -1747,6 +1747,11 @@
 - [Live-Hack-CVE/CVE-2019-2587](https://github.com/Live-Hack-CVE/CVE-2019-2587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-2587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-2587">
 
 ---
+## CVE-2019-25137 (2023-05-18T07:15:00)
+> Umbraco CMS 7.12.4 allows Remote Code Execution by authenticated administrators via msxsl:script in an xsltSelection to developer/Xslt/xsltVisualize.aspx.
+- [Ickarah/CVE-2019-25137-Version-Research](https://github.com/Ickarah/CVE-2019-25137-Version-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Ickarah/CVE-2019-25137-Version-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Ickarah/CVE-2019-25137-Version-Research">
+
+---
 ## CVE-2019-25103 (2023-02-12T15:15:00)
 > A vulnerability has been found in simple-markdown 0.5.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file simple-markdown.js. The manipulation leads to inefficient regular expression complexity. The attack can be launched remotely. Upgrading to version 0.5.2 is able to address this issue. The name of the patch is 89797fef9abb4cab2fb76a335968266a92588816. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220639.
 - [Live-Hack-CVE/CVE-2019-25103](https://github.com/Live-Hack-CVE/CVE-2019-25103)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25103">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25103">
