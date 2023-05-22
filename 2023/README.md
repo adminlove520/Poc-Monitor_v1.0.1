@@ -47,6 +47,7 @@
 - [CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)	<img alt="forks" src="https://img.shields.io/github/forks/CTM1/CVE-2023-32784-keepass-linux">	<img alt="stars" src="https://img.shields.io/github/stars/CTM1/CVE-2023-32784-keepass-linux">
 - [vdohney/keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper)	<img alt="forks" src="https://img.shields.io/github/forks/vdohney/keepass-password-dumper">	<img alt="stars" src="https://img.shields.io/github/stars/vdohney/keepass-password-dumper">
 - [und3sc0n0c1d0/BruteForce-to-KeePass](https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/BruteForce-to-KeePass">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/BruteForce-to-KeePass">
+- [z-jxy/keepass_dump](https://github.com/z-jxy/keepass_dump)	<img alt="forks" src="https://img.shields.io/github/forks/z-jxy/keepass_dump">	<img alt="stars" src="https://img.shields.io/github/stars/z-jxy/keepass_dump">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -491,6 +492,33 @@
 ## CVE-2023-25717 (2023-02-13T20:15:00)
 > Ruckus Wireless Admin through 10.4 allows Remote Code Execution via an unauthenticated HTTP GET Request, as demonstrated by a /forms/doLogin?login_username=admin&password=password$(curl substring.
 - [Live-Hack-CVE/CVE-2023-25717](https://github.com/Live-Hack-CVE/CVE-2023-25717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25717">
+
+---
+## CVE-2023-25690 (2023-03-07T16:15:00)
+> Some mod_proxy configurations on Apache HTTP Server versions 2.4.0 through 2.4.55 allow a HTTP Request Smuggling attack.
+
+
+
+
+Configurations are affected when mod_proxy is enabled along with some form of RewriteRule
+ or ProxyPassMatch in which a non-specific pattern matches
+ some portion of the user-supplied request-target (URL) data and is then
+ re-inserted into the proxied request-target using variable 
+substitution. For example, something like:
+
+
+
+
+RewriteEngine on
+RewriteRule "^/here/(.*)" "http://example.com:8080/elsewhere?$1"; [P]
+ProxyPassReverse /here/ http://example.com:8080/
+
+
+Request splitting/smuggling could result in bypass of access controls in the proxy server, proxying unintended URLs to existing origin servers, and cache poisoning. Users are recommended to update to at least version 2.4.56 of Apache HTTP Server.
+
+
+
+- [dhmosfunk/CVE-2023-25690-POC](https://github.com/dhmosfunk/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dhmosfunk/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dhmosfunk/CVE-2023-25690-POC">
 
 ---
 ## CVE-2023-25614 (2023-02-14T04:15:00)
