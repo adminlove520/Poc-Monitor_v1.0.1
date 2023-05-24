@@ -278,6 +278,11 @@
 - [YSaxon/CVE-2023-28615](https://github.com/YSaxon/CVE-2023-28615)	<img alt="forks" src="https://img.shields.io/github/forks/YSaxon/CVE-2023-28615">	<img alt="stars" src="https://img.shields.io/github/stars/YSaxon/CVE-2023-28615">
 
 ---
+## CVE-2023-2859 (2023-05-24T08:15:00)
+> Code Injection in GitHub repository nilsteampassnet/teampass prior to 3.0.9.
+- [mnqazi/CVE-2023-2859](https://github.com/mnqazi/CVE-2023-2859)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2859">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2859">
+
+---
 ## CVE-2023-28450 (2023-03-15T21:15:00)
 > An issue was discovered in Dnsmasq before 2.90. The default maximum EDNS.0 UDP packet size was set to 4096 but should be 1232 because of DNS Flag Day 2020.
 - [Satheesh575555/linux-4.19.72_CVE-2023-28450](https://github.com/Satheesh575555/linux-4.19.72_CVE-2023-28450)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2023-28450">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2023-28450">
@@ -447,6 +452,11 @@
 ## CVE-2023-2594 (2023-05-09T13:15:00)
 > A vulnerability, which was classified as critical, was found in SourceCodester Food Ordering Management System 1.0. Affected is an unknown function of the component Registration. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The identifier of this vulnerability is VDB-228396.
 - [thehackingverse/CVE-2023-2594](https://github.com/thehackingverse/CVE-2023-2594)	<img alt="forks" src="https://img.shields.io/github/forks/thehackingverse/CVE-2023-2594">	<img alt="stars" src="https://img.shields.io/github/stars/thehackingverse/CVE-2023-2594">
+
+---
+## CVE-2023-2591 (2023-05-09T10:15:00)
+> Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting') in GitHub repository nilsteampassnet/teampass prior to 3.0.7.
+- [mnqazi/CVE-2023-2591](https://github.com/mnqazi/CVE-2023-2591)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2591">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2591">
 
 ---
 ## CVE-2023-25768 (2023-02-15T14:15:00)
@@ -664,6 +674,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-25160 (2023-02-13T21:15:00)
 > Nextcloud Mail is an email app for the Nextcloud home server platform. Prior to versions 2.2.1, 1.14.5, 1.12.9, and 1.11.8, an attacker can access the mail box by ID getting the subjects and the first characters of the emails. Users should upgrade to Mail 2.2.1 for Nextcloud 25, Mail 1.14.5 for Nextcloud 22-24, Mail 1.12.9 for Nextcloud 21, or Mail 1.11.8 for Nextcloud 20 to receive a patch. No known workarounds are available.
 - [Live-Hack-CVE/CVE-2023-25160](https://github.com/Live-Hack-CVE/CVE-2023-25160)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25160">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25160">
+
+---
+## CVE-2023-2516 (2023-05-05T19:15:00)
+> Cross-site Scripting (XSS) - Stored in GitHub repository nilsteampassnet/teampass prior to 3.0.7.
+- [mnqazi/CVE-2023-2516](https://github.com/mnqazi/CVE-2023-2516)	<img alt="forks" src="https://img.shields.io/github/forks/mnqazi/CVE-2023-2516">	<img alt="stars" src="https://img.shields.io/github/stars/mnqazi/CVE-2023-2516">
 
 ---
 ## CVE-2023-25159 (2023-02-13T17:15:00)
