@@ -4857,8 +4857,8 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20020](https://github.com/Live-Hack-CVE/CVE-2023-20020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20020">
 
 ---
-## CVE-2023-2002 ()
-> 
+## CVE-2023-2002 (2023-05-26T17:15:00)
+> A vulnerability was found in the HCI sockets implementation due to a missing capability check in net/bluetooth/hci_sock.c in the Linux Kernel. This flaw allows an attacker to unauthorized execution of management commands, compromising the confidentiality, integrity, and availability of Bluetooth communication.
 - [lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)	<img alt="forks" src="https://img.shields.io/github/forks/lrh2000/CVE-2023-2002">	<img alt="stars" src="https://img.shields.io/github/stars/lrh2000/CVE-2023-2002">
 
 ---
