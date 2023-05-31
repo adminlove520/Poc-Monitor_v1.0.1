@@ -4475,6 +4475,11 @@
 - [Live-Hack-CVE/CVE-2020-13999](https://github.com/Live-Hack-CVE/CVE-2020-13999)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13999">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13999">
 
 ---
+## CVE-2020-13995 (2020-09-25T13:15:00)
+> U.S. Air Force Sensor Data Management System extract75 has a buffer overflow that leads to code execution. An overflow in a global variable (sBuffer) leads to a Write-What-Where outcome. Writing beyond sBuffer will clobber most global variables until reaching a pointer such as DES_info or image_info. By controlling that pointer, one achieves an arbitrary write when its fields are assigned. The data written is from a potentially untrusted NITF file in the form of an integer. The attacker can gain control of the instruction pointer.
+- [dbrumley/extract75-cve-2020-13995](https://github.com/dbrumley/extract75-cve-2020-13995)	<img alt="forks" src="https://img.shields.io/github/forks/dbrumley/extract75-cve-2020-13995">	<img alt="stars" src="https://img.shields.io/github/stars/dbrumley/extract75-cve-2020-13995">
+
+---
 ## CVE-2020-13963 (2021-03-21T21:15:00)
 > SOPlanning before 1.47 has Incorrect Access Control because certain secret key information, and the related authentication algorithm, is public. The key for admin is hardcoded in the installation code, and there is no key for publicsp (which is a guest account).
 - [Live-Hack-CVE/CVE-2020-13963](https://github.com/Live-Hack-CVE/CVE-2020-13963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13963">
