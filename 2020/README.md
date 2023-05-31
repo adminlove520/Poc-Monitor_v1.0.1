@@ -1607,6 +1607,7 @@
 - [bod4k/CVE-2020-35489](https://github.com/bod4k/CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/bod4k/CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/bod4k/CVE-2020-35489">
 - [X0UCYB3R/Check-WP-CVE-2020-35489](https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/X0UCYB3R/Check-WP-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/X0UCYB3R/Check-WP-CVE-2020-35489">
 - [dn9uy3n/Check-WP-CVE-2020-35489](https://github.com/dn9uy3n/Check-WP-CVE-2020-35489)	<img alt="forks" src="https://img.shields.io/github/forks/dn9uy3n/Check-WP-CVE-2020-35489">	<img alt="stars" src="https://img.shields.io/github/stars/dn9uy3n/Check-WP-CVE-2020-35489">
+- [reneoliveirajr/wp_CVE-2020-35489_checker](https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker)	<img alt="forks" src="https://img.shields.io/github/forks/reneoliveirajr/wp_CVE-2020-35489_checker">	<img alt="stars" src="https://img.shields.io/github/stars/reneoliveirajr/wp_CVE-2020-35489_checker">
 
 ---
 ## CVE-2020-35479 (2020-12-18T08:15:00)
