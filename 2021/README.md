@@ -8058,6 +8058,8 @@
 - [renini/CVE-2021-21972](https://github.com/renini/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/renini/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/renini/CVE-2021-21972">
 - [B1anda0/CVE-2021-21972](https://github.com/B1anda0/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2021-21972">
 - [conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972](https://github.com/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/conjojo/VMware_vCenter_UNAuthorized_RCE_CVE-2021-21972">
+- [alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-21972">
+- [Udyz/CVE-2021-21972](https://github.com/Udyz/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-21972">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
