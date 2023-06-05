@@ -84,6 +84,11 @@
 - [Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-33617">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-33617">
 
 ---
+## CVE-2023-33477 ()
+> 
+- [Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477)	<img alt="forks" src="https://img.shields.io/github/forks/Skr11lex/CVE-2023-33477">	<img alt="stars" src="https://img.shields.io/github/stars/Skr11lex/CVE-2023-33477">
+
+---
 ## CVE-2023-33410 ()
 > 
 - [Thirukrishnan/CVE-2023-33410](https://github.com/Thirukrishnan/CVE-2023-33410)	<img alt="forks" src="https://img.shields.io/github/forks/Thirukrishnan/CVE-2023-33410">	<img alt="stars" src="https://img.shields.io/github/stars/Thirukrishnan/CVE-2023-33410">
@@ -4854,6 +4859,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 > 
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
 - [sxsuperxuan/Weblogic_CVE-2023-21389](https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389)	<img alt="forks" src="https://img.shields.io/github/forks/sxsuperxuan/Weblogic_CVE-2023-21389">	<img alt="stars" src="https://img.shields.io/github/stars/sxsuperxuan/Weblogic_CVE-2023-21389">
+
+---
+## CVE-2023-2114 (2023-05-08T14:15:00)
+> The NEX-Forms WordPress plugin before 8.4 does not properly escape the `table` parameter, which is populated with user input, before concatenating it to an SQL query.
+- [SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)	<img alt="forks" src="https://img.shields.io/github/forks/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">	<img alt="stars" src="https://img.shields.io/github/stars/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114">
 
 ---
 ## CVE-2023-21036 (2023-03-24T20:15:00)
