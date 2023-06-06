@@ -931,6 +931,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-25159](https://github.com/Live-Hack-CVE/CVE-2023-25159)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25159">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25159">
 
 ---
+## CVE-2023-25157 (2023-02-21T22:15:00)
+> GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. GeoServer includes support for the OGC Filter expression language and the OGC Common Query Language (CQL) as part of the Web Feature Service (WFS) and Web Map Service (WMS) protocols. CQL is also supported through the Web Coverage Service (WCS) protocol for ImageMosaic coverages. Users are advised to upgrade to either version 2.21.4, or version 2.22.2 to resolve this issue. Users unable to upgrade should disable the PostGIS Datastore *encode functions* setting to mitigate ``strEndsWith``, ``strStartsWith`` and ``PropertyIsLike `` misuse and enable the PostGIS DataStore *preparedStatements* setting to mitigate the ``FeatureId`` misuse.
+- [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/win3zz/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/win3zz/CVE-2023-25157">
+
+---
 ## CVE-2023-25153 (2023-02-16T15:15:00)
 > containerd is an open source container runtime. Before versions 1.6.18 and 1.5.18, when importing an OCI image, there was no limit on the number of bytes read for certain files. A maliciously crafted image with a large file where a limit was not applied could cause a denial of service. This bug has been fixed in containerd 1.6.18 and 1.5.18. Users should update to these versions to resolve the issue. As a workaround, ensure that only trusted images are used and that only trusted users have permissions to import images.
 - [Live-Hack-CVE/CVE-2023-25153](https://github.com/Live-Hack-CVE/CVE-2023-25153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25153">
