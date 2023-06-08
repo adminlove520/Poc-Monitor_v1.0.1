@@ -238,6 +238,11 @@
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 
 ---
+## CVE-2012-1495 (2020-01-27T15:15:00)
+> install/index.php in WebCalendar before 1.2.5 allows remote attackers to execute arbitrary code via the form_single_user_login parameter.
+- [axelbankole/CVE-2012-1495-Webcalendar-](https://github.com/axelbankole/CVE-2012-1495-Webcalendar-)	<img alt="forks" src="https://img.shields.io/github/forks/axelbankole/CVE-2012-1495-Webcalendar-">	<img alt="stars" src="https://img.shields.io/github/stars/axelbankole/CVE-2012-1495-Webcalendar-">
+
+---
 ## CVE-2012-10006 (2023-01-18T16:15:00)
 > A vulnerability classified as critical has been found in ale7714 sigeprosi. This affects an unknown part. The manipulation leads to sql injection. The name of the patch is 5291886f6c992316407c376145d331169c55f25b. It is recommended to apply a patch to fix this issue. The identifier VDB-218493 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2012-10006](https://github.com/Live-Hack-CVE/CVE-2012-10006)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-10006">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-10006">
