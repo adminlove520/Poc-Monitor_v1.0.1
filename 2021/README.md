@@ -8415,6 +8415,12 @@
 - [Live-Hack-CVE/CVE-2021-21313](https://github.com/Live-Hack-CVE/CVE-2021-21313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21313">
 
 ---
+## CVE-2021-21311 ()
+> 
+- [omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/omoknooni/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/omoknooni/CVE-2021-21311">
+- [llhala/CVE-2021-21311](https://github.com/llhala/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/llhala/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/llhala/CVE-2021-21311">
+
+---
 ## CVE-2021-21304 (2021-02-08T18:15:00)
 > Dynamoose is an open-source modeling tool for Amazon's DynamoDB. In Dynamoose from version 2.0.0 and before version 2.7.0 there was a prototype pollution vulnerability in the internal utility method "lib/utils/object/set.ts". This method is used throughout the codebase for various operations throughout Dynamoose. We have not seen any evidence of this vulnerability being exploited. There is no evidence this vulnerability impacts versions 1.x.x since the vulnerable method was added as part of the v2 rewrite. This vulnerability also impacts v2.x.x beta/alpha versions. Version 2.7.0 includes a patch for this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21304](https://github.com/Live-Hack-CVE/CVE-2021-21304)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21304">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21304">
