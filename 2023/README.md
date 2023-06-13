@@ -5115,6 +5115,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20916](https://github.com/Live-Hack-CVE/CVE-2023-20916)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20916">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20916">
 
 ---
+## CVE-2023-20887 (2023-06-07T15:15:00)
+> Aria Operations for Networks contains a command injection vulnerability. A malicious actor with network access to VMware Aria Operations for Networks may be able to perform a command injection attack resulting in remote code execution.
+- [sinsinology/CVE-2023-20887](https://github.com/sinsinology/CVE-2023-20887)	<img alt="forks" src="https://img.shields.io/github/forks/sinsinology/CVE-2023-20887">	<img alt="stars" src="https://img.shields.io/github/stars/sinsinology/CVE-2023-20887">
+
+---
 ## CVE-2023-20860 (2023-03-27T22:15:00)
 > Spring Framework running version 6.0.0 - 6.0.6 or 5.3.0 - 5.3.25 using "**" as a pattern in Spring Security configuration with the mvcRequestMatcher creates a mismatch in pattern matching between Spring Security and Spring MVC, and the potential for a security bypass.
 - [limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)	<img alt="forks" src="https://img.shields.io/github/forks/limo520/CVE-2023-20860">	<img alt="stars" src="https://img.shields.io/github/stars/limo520/CVE-2023-20860">
