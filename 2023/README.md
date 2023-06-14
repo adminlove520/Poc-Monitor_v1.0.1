@@ -3141,6 +3141,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-2249 (2023-06-09T06:16:00)
 > The wpForo Forum plugin for WordPress is vulnerable to Local File Include, Server-Side Request Forgery, and PHAR Deserialization in versions up to, and including, 2.1.7. This is due to the insecure use of file_get_contents without appropriate verification of the data being supplied to the function. This makes it possible for authenticated attackers, with minimal permissions such as a subscriber, to retrieve the contents of files like wp-config.php hosted on the system, perform a deserialization attack and possibly achieve remote code execution, and make requests to internal services.
 - [ixiacom/CVE-2023-2249](https://github.com/ixiacom/CVE-2023-2249)	<img alt="forks" src="https://img.shields.io/github/forks/ixiacom/CVE-2023-2249">	<img alt="stars" src="https://img.shields.io/github/stars/ixiacom/CVE-2023-2249">
+- [smash8tap/CVE-2023-22490_PoC](https://github.com/smash8tap/CVE-2023-22490_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/smash8tap/CVE-2023-22490_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/smash8tap/CVE-2023-22490_PoC">
 
 ---
 ## CVE-2023-22489 (2023-01-13T19:15:00)
