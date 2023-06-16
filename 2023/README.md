@@ -2489,6 +2489,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 > There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php.
 - [Timorlover/CVE-2023-23333](https://github.com/Timorlover/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Timorlover/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Timorlover/CVE-2023-23333">
 - [Live-Hack-CVE/CVE-2023-23333](https://github.com/Live-Hack-CVE/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23333">
+- [Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2023-23333">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2023-23333">
 
 ---
 ## CVE-2023-23331 (2023-01-24T01:15:00)
