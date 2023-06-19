@@ -671,6 +671,11 @@
 - [KaviDk/CVE-2019-6447-in-Mobile-Application](https://github.com/KaviDk/CVE-2019-6447-in-Mobile-Application)	<img alt="forks" src="https://img.shields.io/github/forks/KaviDk/CVE-2019-6447-in-Mobile-Application">	<img alt="stars" src="https://img.shields.io/github/stars/KaviDk/CVE-2019-6447-in-Mobile-Application">
 
 ---
+## CVE-2019-6340 (2019-02-21T21:29:00)
+> Some field types do not properly sanitize data from non-form sources in Drupal 8.5.x before 8.5.11 and Drupal 8.6.x before 8.6.10. This can lead to arbitrary PHP code execution in some cases. A site is only affected by this if one of the following conditions is met: The site has the Drupal 8 core RESTful Web Services (rest) module enabled and allows PATCH or POST requests, or the site has another web services module enabled, like JSON:API in Drupal 8, or Services or RESTful Web Services in Drupal 7. (Note: The Drupal 7 Services module itself does not require an update at this time, but you should apply other contributed updates associated with this advisory if Services is in use.)
+- [knqyf263/CVE-2019-6340](https://github.com/knqyf263/CVE-2019-6340)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2019-6340">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2019-6340">
+
+---
 ## CVE-2019-6182 (2019-09-03T19:15:00)
 > A stored CSV Injection vulnerability was reported in Lenovo XClarity Administrator (LXCA) versions prior to 2.5.0 that could allow an administrative user to store malformed data in LXCA Jobs and Event Log data, that could result in crafted formulas stored in an exported CSV file. The crafted formula is not executed on LXCA itself.
 - [Live-Hack-CVE/CVE-2019-6182](https://github.com/Live-Hack-CVE/CVE-2019-6182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6182">
