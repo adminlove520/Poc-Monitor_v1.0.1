@@ -320,6 +320,13 @@
 - [Live-Hack-CVE/CVE-2018-5961](https://github.com/Live-Hack-CVE/CVE-2018-5961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5961">
 
 ---
+## CVE-2018-5955 (2018-01-21T22:29:00)
+> An issue was discovered in GitStack through 2.3.10. User controlled input is not sufficiently filtered, allowing an unauthenticated attacker to add a user to the server via the username and password fields to the rest/user/ URI.
+- [MikeTheHash/CVE-2018-5955](https://github.com/MikeTheHash/CVE-2018-5955)	<img alt="forks" src="https://img.shields.io/github/forks/MikeTheHash/CVE-2018-5955">	<img alt="stars" src="https://img.shields.io/github/stars/MikeTheHash/CVE-2018-5955">
+- [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus)	<img alt="forks" src="https://img.shields.io/github/forks/YagamiiLight/Cerberus">	<img alt="stars" src="https://img.shields.io/github/stars/YagamiiLight/Cerberus">
+- [b0bac/GitStackRCE](https://github.com/b0bac/GitStackRCE)	<img alt="forks" src="https://img.shields.io/github/forks/b0bac/GitStackRCE">	<img alt="stars" src="https://img.shields.io/github/stars/b0bac/GitStackRCE">
+
+---
 ## CVE-2018-5747 (2018-01-17T19:29:00)
 > In Long Range Zip (aka lrzip) 0.631, there is a use-after-free in the ucompthread function (stream.c). Remote attackers could leverage this vulnerability to cause a denial of service via a crafted lrz file.
 - [Live-Hack-CVE/CVE-2018-5747](https://github.com/Live-Hack-CVE/CVE-2018-5747)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-5747">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-5747">
