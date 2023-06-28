@@ -1351,8 +1351,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-22369](https://github.com/Live-Hack-CVE/CVE-2023-22369)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22369">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22369">
 
 ---
-## CVE-2023-25002 ()
-> 
+## CVE-2023-25002 (2023-06-27T23:15:00)
+> A maliciously crafted SKP file in Autodesk products is used to trigger use-after-free vulnerability. Exploitation of this vulnerability may lead to code execution.
 - [nokn0wthing/CVE-2023-25002](https://github.com/nokn0wthing/CVE-2023-25002)	<img alt="forks" src="https://img.shields.io/github/forks/nokn0wthing/CVE-2023-25002">	<img alt="stars" src="https://img.shields.io/github/stars/nokn0wthing/CVE-2023-25002">
 
 ---
