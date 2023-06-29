@@ -5629,6 +5629,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-0840](https://github.com/Live-Hack-CVE/CVE-2023-0840)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0840">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0840">
 
 ---
+## CVE-2023-0830 (2023-02-14T17:15:00)
+> A vulnerability classified as critical has been found in EasyNAS 1.1.0. Affected is the function system of the file /backup.pl. The manipulation leads to os command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. It is recommended to upgrade the affected component. VDB-220950 is the identifier assigned to this vulnerability.
+- [xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2023-0830">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2023-0830">
+
+---
 ## CVE-2023-0827 (2023-02-14T13:15:00)
 > Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 1.5.17.
 - [Live-Hack-CVE/CVE-2023-0827](https://github.com/Live-Hack-CVE/CVE-2023-0827)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0827">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0827">
