@@ -987,6 +987,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [sploitfx/CVE-2023-26602](https://github.com/sploitfx/CVE-2023-26602)	<img alt="forks" src="https://img.shields.io/github/forks/sploitfx/CVE-2023-26602">	<img alt="stars" src="https://img.shields.io/github/stars/sploitfx/CVE-2023-26602">
 
 ---
+## CVE-2023-26563 ()
+> 
+- [RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565)	<img alt="forks" src="https://img.shields.io/github/forks/RupturaInfoSec/CVE-2023-26563-26564-26565">	<img alt="stars" src="https://img.shields.io/github/stars/RupturaInfoSec/CVE-2023-26563-26564-26565">
+
+---
 ## CVE-2023-2650 (2023-05-30T14:15:00)
 > Issue summary: Processing some specially crafted ASN.1 object identifiers or
 data containing them may be very slow.
