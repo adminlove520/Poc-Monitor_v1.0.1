@@ -4526,6 +4526,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21766 (2023-01-10T22:15:00)
 > Windows Overlay Filter Information Disclosure Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21766](https://github.com/Live-Hack-CVE/CVE-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21766">
+- [Y3A/cve-2023-21766](https://github.com/Y3A/cve-2023-21766)	<img alt="forks" src="https://img.shields.io/github/forks/Y3A/cve-2023-21766">	<img alt="stars" src="https://img.shields.io/github/stars/Y3A/cve-2023-21766">
 
 ---
 ## CVE-2023-21765 (2023-01-10T22:15:00)
