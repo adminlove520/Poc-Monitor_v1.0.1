@@ -4771,6 +4771,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Lord-of-the-IoT/CVE-2023-21716](https://github.com/Lord-of-the-IoT/CVE-2023-21716)	<img alt="forks" src="https://img.shields.io/github/forks/Lord-of-the-IoT/CVE-2023-21716">	<img alt="stars" src="https://img.shields.io/github/stars/Lord-of-the-IoT/CVE-2023-21716">
 
 ---
+## CVE-2023-21707 (2023-02-14T20:15:00)
+> Microsoft Exchange Server Remote Code Execution Vulnerability
+- [N1k0la-T/CVE-2023-21707](https://github.com/N1k0la-T/CVE-2023-21707)	<img alt="forks" src="https://img.shields.io/github/forks/N1k0la-T/CVE-2023-21707">	<img alt="stars" src="https://img.shields.io/github/stars/N1k0la-T/CVE-2023-21707">
+
+---
 ## CVE-2023-21699 (2023-02-14T20:15:00)
 > Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability
 - [Live-Hack-CVE/CVE-2023-21699](https://github.com/Live-Hack-CVE/CVE-2023-21699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21699">
