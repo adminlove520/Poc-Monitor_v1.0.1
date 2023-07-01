@@ -1672,6 +1672,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-24493](https://github.com/Live-Hack-CVE/CVE-2023-24493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24493">
 
 ---
+## CVE-2023-24488 ()
+> 
+- [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SirBugs/CVE-2023-24488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SirBugs/CVE-2023-24488-PoC">
+
+---
 ## CVE-2023-24485 (2023-02-16T18:15:00)
 > Vulnerabilities have been identified that, collectively, allow a standard Windows user to perform operations as SYSTEM on the computer running Citrix Workspace app.
 - [Live-Hack-CVE/CVE-2023-24485](https://github.com/Live-Hack-CVE/CVE-2023-24485)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24485">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24485">
