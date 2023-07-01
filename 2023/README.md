@@ -62,8 +62,8 @@
 - [leonardobg/CVE-2023-36146](https://github.com/leonardobg/CVE-2023-36146)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36146">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36146">
 
 ---
-## CVE-2023-36144 ()
-> 
+## CVE-2023-36144 (2023-06-30T23:15:00)
+> An authentication bypass in Intelbras Switch SG 2404 MR in firmware 1.00.54 allows an unauthenticated attacker to download the backup file of the device, exposing critical information about the device configuration.
 - [leonardobg/CVE-2023-36144](https://github.com/leonardobg/CVE-2023-36144)	<img alt="forks" src="https://img.shields.io/github/forks/leonardobg/CVE-2023-36144">	<img alt="stars" src="https://img.shields.io/github/stars/leonardobg/CVE-2023-36144">
 
 ---
@@ -115,6 +115,7 @@
 ## CVE-2023-34843 (2023-06-29T00:15:00)
 > Traggo Server 0.3.0 is vulnerable to directory traversal via a crafted GET request.
 - [rootd4ddy/CVE-2023-34843](https://github.com/rootd4ddy/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-34843">
+- [Imahian/CVE-2023-34843](https://github.com/Imahian/CVE-2023-34843)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-34843">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-34843">
 
 ---
 ## CVE-2023-34840 (2023-06-30T16:15:00)
@@ -307,8 +308,8 @@
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
 ---
-## CVE-2023-3338 ()
-> 
+## CVE-2023-3338 (2023-06-30T22:15:00)
+> A flaw null pointer dereference in the Linux kernel DECnet networking protocol was found. A remote user could use this flaw to crash the system.
 - [TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2023-3338">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2023-3338">
 - [duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)	<img alt="forks" src="https://img.shields.io/github/forks/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">	<img alt="stars" src="https://img.shields.io/github/stars/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC">
 
@@ -1049,6 +1050,7 @@ and the severity is therefore considered low.
 ## CVE-2023-26258 ()
 > 
 - [mdsecactivebreach/CVE-2023-26258-ArcServe](https://github.com/mdsecactivebreach/CVE-2023-26258-ArcServe)	<img alt="forks" src="https://img.shields.io/github/forks/mdsecactivebreach/CVE-2023-26258-ArcServe">	<img alt="stars" src="https://img.shields.io/github/stars/mdsecactivebreach/CVE-2023-26258-ArcServe">
+- [Imahian/CVE-2023-26258](https://github.com/Imahian/CVE-2023-26258)	<img alt="forks" src="https://img.shields.io/github/forks/Imahian/CVE-2023-26258">	<img alt="stars" src="https://img.shields.io/github/stars/Imahian/CVE-2023-26258">
 
 ---
 ## CVE-2023-2594 (2023-05-09T13:15:00)
