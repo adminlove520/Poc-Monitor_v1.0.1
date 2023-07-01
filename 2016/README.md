@@ -517,6 +517,10 @@
 ## CVE-2016-4655 (2016-08-25T21:59:00)
 > The kernel in Apple iOS before 9.3.5 allows attackers to obtain sensitive information from memory via a crafted app.
 - [0xyf77/CVE-2016-4655](https://github.com/0xyf77/CVE-2016-4655)	<img alt="forks" src="https://img.shields.io/github/forks/0xyf77/CVE-2016-4655">	<img alt="stars" src="https://img.shields.io/github/stars/0xyf77/CVE-2016-4655">
+- [liangle1986126z/jndok](https://github.com/liangle1986126z/jndok)	<img alt="forks" src="https://img.shields.io/github/forks/liangle1986126z/jndok">	<img alt="stars" src="https://img.shields.io/github/stars/liangle1986126z/jndok">
+- [tomitokics/br0ke](https://github.com/tomitokics/br0ke)	<img alt="forks" src="https://img.shields.io/github/forks/tomitokics/br0ke">	<img alt="stars" src="https://img.shields.io/github/stars/tomitokics/br0ke">
+- [Cryptiiiic/skybreak](https://github.com/Cryptiiiic/skybreak)	<img alt="forks" src="https://img.shields.io/github/forks/Cryptiiiic/skybreak">	<img alt="stars" src="https://img.shields.io/github/stars/Cryptiiiic/skybreak">
+- [jndok/PegasusX](https://github.com/jndok/PegasusX)	<img alt="forks" src="https://img.shields.io/github/forks/jndok/PegasusX">	<img alt="stars" src="https://img.shields.io/github/stars/jndok/PegasusX">
 
 ---
 ## CVE-2016-4565 (2016-05-23T10:59:00)
