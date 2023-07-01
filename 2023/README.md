@@ -1675,6 +1675,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-24488 ()
 > 
 - [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SirBugs/CVE-2023-24488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SirBugs/CVE-2023-24488-PoC">
+- [k00kx/CVE-2023-24488](https://github.com/k00kx/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/k00kx/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/k00kx/CVE-2023-24488">
 
 ---
 ## CVE-2023-24485 (2023-02-16T18:15:00)
