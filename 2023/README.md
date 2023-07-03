@@ -3019,6 +3019,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-22909](https://github.com/Live-Hack-CVE/CVE-2023-22909)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22909">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22909">
 
 ---
+## CVE-2023-22906 ()
+> 
+- [nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)	<img alt="forks" src="https://img.shields.io/github/forks/nonamecoder/CVE-2023-22906">	<img alt="stars" src="https://img.shields.io/github/stars/nonamecoder/CVE-2023-22906">
+
+---
 ## CVE-2023-22903 (2023-01-10T06:15:00)
 > api/views/user.py in LibrePhotos before e19e539 has incorrect access control.
 - [Live-Hack-CVE/CVE-2023-22903](https://github.com/Live-Hack-CVE/CVE-2023-22903)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22903">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22903">
