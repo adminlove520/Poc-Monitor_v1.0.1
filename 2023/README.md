@@ -1712,6 +1712,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [k00kx/CVE-2023-24488](https://github.com/k00kx/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/k00kx/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/k00kx/CVE-2023-24488">
 - [Abo5/CVE-2023-24488](https://github.com/Abo5/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/Abo5/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/Abo5/CVE-2023-24488">
 - [securitycipher/CVE-2023-24488](https://github.com/securitycipher/CVE-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/securitycipher/CVE-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/securitycipher/CVE-2023-24488">
+- [codeb0ss/cve-2023-24488](https://github.com/codeb0ss/cve-2023-24488)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/cve-2023-24488">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/cve-2023-24488">
 
 ---
 ## CVE-2023-24485 (2023-02-16T18:15:00)
