@@ -3480,6 +3480,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-2255 (2023-05-25T20:15:00)
 > Improper access control in editor components of The Document Foundation LibreOffice allowed an attacker to craft a document that would cause external links to be loaded without prompt. In the affected versions of LibreOffice documents that used "floating frames" linked to external files, would load the contents of those frames without prompting the user for permission to do so. This was inconsistent with the treatment of other linked content in LibreOffice. This issue affects: The Document Foundation LibreOffice 7.4 versions prior to 7.4.7; 7.5 versions prior to 7.5.3.
 - [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/elweth-sec/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/elweth-sec/CVE-2023-2255">
+- [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
