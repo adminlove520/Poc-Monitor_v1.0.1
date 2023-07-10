@@ -3477,6 +3477,11 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-2255 (2023-05-25T20:15:00)
+> Improper access control in editor components of The Document Foundation LibreOffice allowed an attacker to craft a document that would cause external links to be loaded without prompt. In the affected versions of LibreOffice documents that used "floating frames" linked to external files, would load the contents of those frames without prompting the user for permission to do so. This was inconsistent with the treatment of other linked content in LibreOffice. This issue affects: The Document Foundation LibreOffice 7.4 versions prior to 7.4.7; 7.5 versions prior to 7.5.3.
+- [elweth-sec/CVE-2023-2255](https://github.com/elweth-sec/CVE-2023-2255)	<img alt="forks" src="https://img.shields.io/github/forks/elweth-sec/CVE-2023-2255">	<img alt="stars" src="https://img.shields.io/github/stars/elweth-sec/CVE-2023-2255">
+
+---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
 > An authentication vulnerability was discovered in Jira Service Management Server and Data Center which allows an attacker to impersonate another user and gain access to a Jira Service Management instance under certain circumstances_._ With write access to a User Directory and outgoing email enabled on a Jira Service Management instance, an attacker could gain access to signup tokens sent to users with accounts that have never been logged into. Access to these tokens can be obtained in two cases: * If the attacker is included on Jira issues or requests with these users, or * If the attacker is forwarded or otherwise gains access to emails containing a “View Request” link from these users. Bot accounts are particularly susceptible to this scenario. On instances with single sign-on, external customer accounts can be affected in projects where anyone can create their own account.
 - [Live-Hack-CVE/CVE-2023-22501](https://github.com/Live-Hack-CVE/CVE-2023-22501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22501">
