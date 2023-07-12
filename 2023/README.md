@@ -1820,6 +1820,12 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-24493](https://github.com/Live-Hack-CVE/CVE-2023-24493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24493">
 
 ---
+## CVE-2023-24489 (2023-07-10T22:15:00)
+> 
+A vulnerability has been discovered in the customer-managed ShareFile storage zones controller which, if exploited, could allow an unauthenticated attacker to remotely compromise the customer-managed ShareFile storage zones controller.
+- [adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2023-24489-ShareFile">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2023-24489-ShareFile">
+
+---
 ## CVE-2023-24488 (2023-07-10T21:15:00)
 > Cross site scripting vulnerability in Citrix ADC and Citrix Gateway? in allows and attacker to perform cross site scripting
 - [SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SirBugs/CVE-2023-24488-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SirBugs/CVE-2023-24488-PoC">
