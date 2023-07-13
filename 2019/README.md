@@ -3267,6 +3267,11 @@
 - [Live-Hack-CVE/CVE-2019-13359](https://github.com/Live-Hack-CVE/CVE-2019-13359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13359">
 
 ---
+## CVE-2019-13292 (2019-07-04T22:15:00)
+> A SQL Injection issue was discovered in webERP 4.15. Payments.php accepts payment data in base64 format. After this is decoded, it is deserialized. Then, this deserialized data goes directly into a SQL query, with no sanitizing checks.
+- [gustanini/CVE-2019-13292-WebERP_4.15](https://github.com/gustanini/CVE-2019-13292-WebERP_4.15)	<img alt="forks" src="https://img.shields.io/github/forks/gustanini/CVE-2019-13292-WebERP_4.15">	<img alt="stars" src="https://img.shields.io/github/stars/gustanini/CVE-2019-13292-WebERP_4.15">
+
+---
 ## CVE-2019-13223 (2019-08-15T17:15:00)
 > A reachable assertion in the lookup1_values function in stb_vorbis through 2019-03-04 allows an attacker to cause a denial of service by opening a crafted Ogg Vorbis file.
 - [Live-Hack-CVE/CVE-2019-13223](https://github.com/Live-Hack-CVE/CVE-2019-13223)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-13223">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-13223">
