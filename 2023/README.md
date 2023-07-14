@@ -385,7 +385,7 @@ This CVE will be updated with new information and links to security updates when
 ---
 ## CVE-2023-33592 (2023-06-28T20:15:00)
 > Lost and Found Information System v1.0 was discovered to contain a SQL injection vulnerability via the component /php-lfis/admin/?page=system_info/contact_information.
-- [blackspid3r/CVE-2023-33592](https://github.com/blackspid3r/CVE-2023-33592)	<img alt="forks" src="https://img.shields.io/github/forks/blackspid3r/CVE-2023-33592">	<img alt="stars" src="https://img.shields.io/github/stars/blackspid3r/CVE-2023-33592">
+- [Acous7icwav3/CVE-2023-33592](https://github.com/Acous7icwav3/CVE-2023-33592)	<img alt="forks" src="https://img.shields.io/github/forks/Acous7icwav3/CVE-2023-33592">	<img alt="stars" src="https://img.shields.io/github/stars/Acous7icwav3/CVE-2023-33592">
 
 ---
 ## CVE-2023-33567 (2023-06-27T18:15:00)
