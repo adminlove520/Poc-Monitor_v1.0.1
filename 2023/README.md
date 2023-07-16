@@ -4921,6 +4921,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-21746 (2023-01-10T22:15:00)
 > Windows NTLM Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21746](https://github.com/Live-Hack-CVE/CVE-2023-21746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21746">
+- [Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/LocalPotato_CVE-2023-21746">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/LocalPotato_CVE-2023-21746">
 
 ---
 ## CVE-2023-21745 (2023-01-10T22:15:00)
