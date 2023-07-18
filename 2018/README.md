@@ -1260,6 +1260,11 @@
 - [Live-Hack-CVE/CVE-2018-17581](https://github.com/Live-Hack-CVE/CVE-2018-17581)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-17581">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-17581">
 
 ---
+## CVE-2018-17456 (2018-10-06T14:29:00)
+> Git before 2.14.5, 2.15.x before 2.15.3, 2.16.x before 2.16.5, 2.17.x before 2.17.2, 2.18.x before 2.18.1, and 2.19.x before 2.19.1 allows remote code execution during processing of a recursive "git clone" of a superproject if a .gitmodules file has a URL field beginning with a '-' character.
+- [nkwejj/CVE-2018-17456](https://github.com/nkwejj/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/nkwejj/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/nkwejj/CVE-2018-17456">
+
+---
 ## CVE-2018-1734 (2019-06-27T14:15:00)
 > IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 discloses sensitive information in error messages that may be used by a malicious user to orchestrate further attacks. IBM X-Force ID: 147838.
 - [Live-Hack-CVE/CVE-2018-1734](https://github.com/Live-Hack-CVE/CVE-2018-1734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1734">
