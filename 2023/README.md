@@ -727,6 +727,14 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)	<img alt="forks" src="https://img.shields.io/github/forks/Alucard0x1/CVE-2023-30777">	<img alt="stars" src="https://img.shields.io/github/stars/Alucard0x1/CVE-2023-30777">
 
 ---
+## CVE-2023-30765 (2023-07-10T20:15:00)
+> 
+?Delta Electronics InfraSuite Device Master versions prior to 1.0.7 contain improper access controls that could allow an attacker to alter privilege management configurations, resulting in privilege escalation.
+
+
+- [0xfml/CVE-2023-30765](https://github.com/0xfml/CVE-2023-30765)	<img alt="forks" src="https://img.shields.io/github/forks/0xfml/CVE-2023-30765">	<img alt="stars" src="https://img.shields.io/github/stars/0xfml/CVE-2023-30765">
+
+---
 ## CVE-2023-30459 (2023-04-14T15:15:00)
 > SmartPTT SCADA 1.1.0.0 allows remote code execution (when the attacker has administrator privileges) by writing a malicious C# script and executing it on the server (via server settings in the administrator control panel on port 8101, by default).
 - [Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)	<img alt="forks" src="https://img.shields.io/github/forks/Toxich4/CVE-2023-30459">	<img alt="stars" src="https://img.shields.io/github/stars/Toxich4/CVE-2023-30459">
