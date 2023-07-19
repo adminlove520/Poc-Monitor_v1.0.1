@@ -1,6 +1,11 @@
 # 2021 List
 
 ---
+## CVE-2021-521 ()
+> 
+- [NagendraPittu/CVE-2021-521](https://github.com/NagendraPittu/CVE-2021-521)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521">
+
+---
 ## CVE-2021-46873 (2023-01-29T23:15:00)
 > WireGuard, such as WireGuard 0.5.3 on Windows, does not fully account for the possibility that an adversary might be able to set a victim's system time to a future value, e.g., because unauthenticated NTP is used. This can lead to an outcome in which one static private key becomes permanently useless.
 - [Live-Hack-CVE/CVE-2021-46873](https://github.com/Live-Hack-CVE/CVE-2021-46873)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-46873">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-46873">
