@@ -57,6 +57,11 @@
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
 
 ---
+## CVE-2023-37771 ()
+> 
+- [anky-123/CVE-2023-37771](https://github.com/anky-123/CVE-2023-37771)	<img alt="forks" src="https://img.shields.io/github/forks/anky-123/CVE-2023-37771">	<img alt="stars" src="https://img.shields.io/github/stars/anky-123/CVE-2023-37771">
+
+---
 ## CVE-2023-37599 (2023-07-13T22:15:00)
 > An issue in issabel-pbx v.4.0.0-6 allows a remote attacker to obtain sensitive information via the modules directory
 - [sahiloj/CVE-2023-37599](https://github.com/sahiloj/CVE-2023-37599)	<img alt="forks" src="https://img.shields.io/github/forks/sahiloj/CVE-2023-37599">	<img alt="stars" src="https://img.shields.io/github/stars/sahiloj/CVE-2023-37599">
