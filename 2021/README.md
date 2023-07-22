@@ -479,7 +479,7 @@
 ---
 ## CVE-2021-44910 ()
 > 
-- [Securify-Pro/CVE-2021-44910-](https://github.com/Securify-Pro/CVE-2021-44910-)	<img alt="forks" src="https://img.shields.io/github/forks/Securify-Pro/CVE-2021-44910-">	<img alt="stars" src="https://img.shields.io/github/stars/Securify-Pro/CVE-2021-44910-">
+- [Securify-Pro/CVE-2021-44910_SpringBlade](https://github.com/Securify-Pro/CVE-2021-44910_SpringBlade)	<img alt="forks" src="https://img.shields.io/github/forks/Securify-Pro/CVE-2021-44910_SpringBlade">	<img alt="stars" src="https://img.shields.io/github/stars/Securify-Pro/CVE-2021-44910_SpringBlade">
 
 ---
 ## CVE-2021-44852 (2022-01-01T06:15:00)
