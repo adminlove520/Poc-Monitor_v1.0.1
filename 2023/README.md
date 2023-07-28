@@ -5052,6 +5052,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 > Windows Backup Service Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21752](https://github.com/Live-Hack-CVE/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21752">
 - [Wh04m1001/CVE-2023-21752](https://github.com/Wh04m1001/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-21752">
+- [yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-21752">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-21752">
 
 ---
 ## CVE-2023-21750 (2023-01-10T22:15:00)
