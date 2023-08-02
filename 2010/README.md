@@ -125,6 +125,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
 
 ---
+## CVE-2010-1240 (2010-04-05T15:30:00)
+> Adobe Reader and Acrobat 9.x before 9.3.3, and 8.x before 8.2.3 on Windows and Mac OS X, do not restrict the contents of one text field in the Launch File warning dialog, which makes it easier for remote attackers to trick users into executing an arbitrary local program that was specified in a PDF document, as demonstrated by a text field that claims that the Open button will enable the user to read an encrypted message.
+- [asepsaepdin/CVE-2010-1240](https://github.com/asepsaepdin/CVE-2010-1240)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2010-1240">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2010-1240">
+
+---
 ## CVE-2010-10009 (2023-01-18T21:15:00)
 > A vulnerability was found in frioux ptome. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. The name of the patch is 26829bba67858ca0bd4ce49ad50e7ce653914276. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-218519.
 - [Live-Hack-CVE/CVE-2010-10009](https://github.com/Live-Hack-CVE/CVE-2010-10009)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10009">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10009">
