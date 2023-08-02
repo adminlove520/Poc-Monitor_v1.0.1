@@ -2094,6 +2094,7 @@
 - [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/Apache-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/Apache-CVEs">
 - [NoneDev-git/VM-CVE-2021-41773](https://github.com/NoneDev-git/VM-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/NoneDev-git/VM-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/NoneDev-git/VM-CVE-2021-41773">
 - [khulnasoft-labs/awesome-security](https://github.com/khulnasoft-labs/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-labs/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-labs/awesome-security">
+- [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
