@@ -3522,6 +3522,11 @@
 - [Live-Hack-CVE/CVE-2019-11498](https://github.com/Live-Hack-CVE/CVE-2019-11498)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11498">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11498">
 
 ---
+## CVE-2019-11358 (2019-04-20T00:29:00)
+> jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.
+- [isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/isacaya/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/isacaya/CVE-2019-11358">
+
+---
 ## CVE-2019-11281 (2019-10-16T16:15:00)
 > Pivotal RabbitMQ, versions prior to v3.7.18, and RabbitMQ for PCF, versions 1.15.x prior to 1.15.13, versions 1.16.x prior to 1.16.6, and versions 1.17.x prior to 1.17.3, contain two components, the virtual host limits page, and the federation management UI, which do not properly sanitize user input. A remote authenticated malicious user with administrative access could craft a cross site scripting attack that would gain access to virtual hosts and policy management information.
 - [Live-Hack-CVE/CVE-2019-11281](https://github.com/Live-Hack-CVE/CVE-2019-11281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11281">
