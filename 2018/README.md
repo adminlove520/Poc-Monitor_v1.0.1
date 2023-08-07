@@ -372,6 +372,11 @@
 - [Live-Hack-CVE/CVE-2018-4832](https://github.com/Live-Hack-CVE/CVE-2018-4832)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-4832">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-4832">
 
 ---
+## CVE-2018-4416 (2019-04-03T18:29:00)
+> Multiple memory corruption issues were addressed with improved memory handling. This issue affected versions prior to iOS 12.1, tvOS 12.1, watchOS 5.1, Safari 12.0.1, iTunes 12.9.1, iCloud for Windows 7.8.
+- [erupmi/CVE-2018-4416](https://github.com/erupmi/CVE-2018-4416)	<img alt="forks" src="https://img.shields.io/github/forks/erupmi/CVE-2018-4416">	<img alt="stars" src="https://img.shields.io/github/stars/erupmi/CVE-2018-4416">
+
+---
 ## CVE-2018-3996 (2018-10-08T16:29:00)
 > An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
 - [Live-Hack-CVE/CVE-2018-3996](https://github.com/Live-Hack-CVE/CVE-2018-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3996">
