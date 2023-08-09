@@ -235,6 +235,11 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 - [ilqarli27/CVE-2023-37164](https://github.com/ilqarli27/CVE-2023-37164)	<img alt="forks" src="https://img.shields.io/github/forks/ilqarli27/CVE-2023-37164">	<img alt="stars" src="https://img.shields.io/github/stars/ilqarli27/CVE-2023-37164">
 
 ---
+## CVE-2023-37068 ()
+> 
+- [Mr-Secure-Code/CVE-2023-37068-Exploit](https://github.com/Mr-Secure-Code/CVE-2023-37068-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Secure-Code/CVE-2023-37068-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Secure-Code/CVE-2023-37068-Exploit">
+
+---
 ## CVE-2023-36884 (2023-07-11T19:15:00)
 > Microsoft is investigating reports of a series of remote code execution vulnerabilities impacting Windows and Office products. Microsoft is aware of targeted attacks that attempt to exploit these vulnerabilities by using specially-crafted Microsoft Office documents.
 
