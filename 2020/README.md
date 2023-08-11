@@ -5543,6 +5543,11 @@
 - [Live-Hack-CVE/CVE-2020-10148](https://github.com/Live-Hack-CVE/CVE-2020-10148)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10148">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10148">
 
 ---
+## CVE-2020-10128 ()
+> 
+- [InfoSec4Fun/CVE-2020-10128](https://github.com/InfoSec4Fun/CVE-2020-10128)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec4Fun/CVE-2020-10128">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec4Fun/CVE-2020-10128">
+
+---
 ## CVE-2020-10056 (2020-09-09T19:15:00)
 > A vulnerability has been identified in License Management Utility (LMU) (All versions < V2.4). The lmgrd service of the affected application is executed with local SYSTEM privileges on the server while its configuration can be modified by local users. The vulnerability could allow a local authenticated attacker to execute arbitrary commands on the server with local SYSTEM privileges.
 - [Live-Hack-CVE/CVE-2020-10056](https://github.com/Live-Hack-CVE/CVE-2020-10056)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10056">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10056">
