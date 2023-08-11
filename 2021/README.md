@@ -2093,8 +2093,9 @@
 - [sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50](https://github.com/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/LFI-RCE-Unauthenticated-Apache-2.4.49-2.4.50">
 - [0xGabe/Apache-CVEs](https://github.com/0xGabe/Apache-CVEs)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/Apache-CVEs">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/Apache-CVEs">
 - [NoneDev-git/VM-CVE-2021-41773](https://github.com/NoneDev-git/VM-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/NoneDev-git/VM-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/NoneDev-git/VM-CVE-2021-41773">
-- [khulnasoft-labs/awesome-security](https://github.com/khulnasoft-labs/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-labs/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-labs/awesome-security">
+- [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits](https://github.com/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/OfriOuzan/CVE-2021-41773_CVE-2021-42013_Exploits">
+- [belajarqywok/cve-2021-41773-msf](https://github.com/belajarqywok/cve-2021-41773-msf)	<img alt="forks" src="https://img.shields.io/github/forks/belajarqywok/cve-2021-41773-msf">	<img alt="stars" src="https://img.shields.io/github/stars/belajarqywok/cve-2021-41773-msf">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
