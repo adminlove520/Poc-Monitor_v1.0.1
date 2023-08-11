@@ -52,6 +52,11 @@
 - [Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux_4.19.72_CVE-2023-42896">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux_4.19.72_CVE-2023-42896">
 
 ---
+## CVE-2023-4174 (2023-08-06T01:15:00)
+> A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
+- [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
+
+---
 ## CVE-2023-39144 (2023-08-03T03:15:00)
 > Element55 KnowMore appliances version 21 and older was discovered to store passwords in plaintext.
 - [cduram/CVE-2023-39144](https://github.com/cduram/CVE-2023-39144)	<img alt="forks" src="https://img.shields.io/github/forks/cduram/CVE-2023-39144">	<img alt="stars" src="https://img.shields.io/github/stars/cduram/CVE-2023-39144">
@@ -765,6 +770,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
 - [hheeyywweellccoommee/CVE-2023-33246-dgjfd](https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-dgjfd">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-dgjfd">
 - [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
+- [d0rb/CVE-2023-33246](https://github.com/d0rb/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33246">
 
 ---
 ## CVE-2023-33243 (2023-06-15T20:15:00)
