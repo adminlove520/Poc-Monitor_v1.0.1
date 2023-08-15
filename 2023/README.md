@@ -446,6 +446,7 @@ This CVE will be updated with new information and links to security updates when
 - [rwincey/cve-2023-3519](https://github.com/rwincey/cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/cve-2023-3519">
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 - [mandiant/citrix-ioc-scanner-cve-2023-3519](https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519)	<img alt="forks" src="https://img.shields.io/github/forks/mandiant/citrix-ioc-scanner-cve-2023-3519">	<img alt="stars" src="https://img.shields.io/github/stars/mandiant/citrix-ioc-scanner-cve-2023-3519">
+- [fox-it/citrix-netscaler-triage](https://github.com/fox-it/citrix-netscaler-triage)	<img alt="forks" src="https://img.shields.io/github/forks/fox-it/citrix-netscaler-triage">	<img alt="stars" src="https://img.shields.io/github/stars/fox-it/citrix-netscaler-triage">
 
 ---
 ## CVE-2023-35086 (2023-07-21T07:15:00)
@@ -802,6 +803,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-33243 (2023-06-15T20:15:00)
 > RedTeam Pentesting discovered that the web interface of STARFACE as well as its REST API allows authentication using the SHA512 hash of the password instead of the cleartext password. While storing password hashes instead of cleartext passwords in an application's database generally has become best practice to protect users' passwords in case of a database compromise, this is rendered ineffective when allowing to authenticate using the password hash.
 - [RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/CVE-2023-33243">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/CVE-2023-33243">
+
+---
+## CVE-2023-33242 (2023-08-09T22:15:00)
+> Crypto wallets implementing the Lindell17 TSS protocol might allow an attacker to extract the full ECDSA private key by exfiltrating a single bit in every signature attempt (256 in total) because of not adhering to the paper's security proof's assumption regarding handling aborts after a failed signature.
+- [d0rb/CVE-2023-33242](https://github.com/d0rb/CVE-2023-33242)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-33242">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-33242">
 
 ---
 ## CVE-2023-32961 (2023-06-12T15:15:00)
