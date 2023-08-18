@@ -2532,6 +2532,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 > An issue in the urllib.parse component of Python before v3.11 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.
 - [Live-Hack-CVE/CVE-2023-24329](https://github.com/Live-Hack-CVE/CVE-2023-24329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24329">
 - [H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/CVE-2023-24329-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/CVE-2023-24329-PoC">
+- [Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test)	<img alt="forks" src="https://img.shields.io/github/forks/Pandante-Central/CVE-2023-24329-codeql-test">	<img alt="stars" src="https://img.shields.io/github/stars/Pandante-Central/CVE-2023-24329-codeql-test">
 
 ---
 ## CVE-2023-24323 (2023-02-09T20:15:00)
