@@ -6185,6 +6185,32 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [Live-Hack-CVE/CVE-2023-20856](https://github.com/Live-Hack-CVE/CVE-2023-20856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20856">
 
 ---
+## CVE-2023-20562 (2023-08-08T18:15:00)
+> 
+
+
+Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD uProf may allow an authenticated user to load an unsigned driver potentially leading to arbitrary kernel execution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562)	<img alt="forks" src="https://img.shields.io/github/forks/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">	<img alt="stars" src="https://img.shields.io/github/stars/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562">
+
+---
 ## CVE-2023-20532 (2023-01-11T08:15:00)
 > Insufficient input validation in the SMU may allow an attacker to improperly lock resources, potentially resulting in a denial of service.
 - [Live-Hack-CVE/CVE-2023-20532](https://github.com/Live-Hack-CVE/CVE-2023-20532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20532">
