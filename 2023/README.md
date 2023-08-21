@@ -27,6 +27,17 @@
 - [yrtsec/CVE-2023-999991_2](https://github.com/yrtsec/CVE-2023-999991_2)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991_2">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991_2">
 
 ---
+## CVE-2023-9999 ()
+> 
+- [obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-9999">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-9999">
+- [yrtsec/CVE-2023-999991_2](https://github.com/yrtsec/CVE-2023-999991_2)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991_2">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991_2">
+- [zeroc00I/CVE-2023-999999](https://github.com/zeroc00I/CVE-2023-999999)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2023-999999">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2023-999999">
+- [yrtsec/CVE-2023-999995](https://github.com/yrtsec/CVE-2023-999995)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999995">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999995">
+- [yrtsec/CVE-2023-999992](https://github.com/yrtsec/CVE-2023-999992)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999992">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999992">
+- [yrtsec/CVE-2023-999993](https://github.com/yrtsec/CVE-2023-999993)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999993">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999993">
+- [yrtsec/CVE-2023-999991](https://github.com/yrtsec/CVE-2023-999991)	<img alt="forks" src="https://img.shields.io/github/forks/yrtsec/CVE-2023-999991">	<img alt="stars" src="https://img.shields.io/github/stars/yrtsec/CVE-2023-999991">
+
+---
 ## CVE-2023-8888 ()
 > 
 - [xiahao90/CVE-2023-8888.test](https://github.com/xiahao90/CVE-2023-8888.test)	<img alt="forks" src="https://img.shields.io/github/forks/xiahao90/CVE-2023-8888.test">	<img alt="stars" src="https://img.shields.io/github/stars/xiahao90/CVE-2023-8888.test">
@@ -35,6 +46,11 @@
 ## CVE-2023-66975 ()
 > 
 - [Idoies/cve-2023-66975](https://github.com/Idoies/cve-2023-66975)	<img alt="forks" src="https://img.shields.io/github/forks/Idoies/cve-2023-66975">	<img alt="stars" src="https://img.shields.io/github/stars/Idoies/cve-2023-66975">
+
+---
+## CVE-2023-5546 ()
+> 
+- [obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)	<img alt="forks" src="https://img.shields.io/github/forks/obelia01/CVE-2023-5546">	<img alt="stars" src="https://img.shields.io/github/stars/obelia01/CVE-2023-5546">
 
 ---
 ## CVE-2023-51504 ()
