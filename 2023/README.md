@@ -1865,6 +1865,7 @@ and the severity is therefore considered low.
 ## CVE-2023-25725 (2023-02-14T19:15:00)
 > HAProxy before 2.7.3 may allow a bypass of access control because HTTP/1 headers are inadvertently lost in some situations, aka "request smuggling." The HTTP header parsers in HAProxy may accept empty header field names, which could be used to truncate the list of HTTP headers and thus make some headers disappear after being parsed and processed for HTTP/1.0 and HTTP/1.1. For HTTP/2 and HTTP/3, the impact is limited because the headers disappear before being parsed and processed, as if they had not been sent by the client. The fixed versions are 2.7.3, 2.6.9, 2.5.12, 2.4.22, 2.2.29, and 2.0.31.
 - [Live-Hack-CVE/CVE-2023-25725](https://github.com/Live-Hack-CVE/CVE-2023-25725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25725">
+- [sgwgsw/LAB-CVE-2023-25725](https://github.com/sgwgsw/LAB-CVE-2023-25725)	<img alt="forks" src="https://img.shields.io/github/forks/sgwgsw/LAB-CVE-2023-25725">	<img alt="stars" src="https://img.shields.io/github/stars/sgwgsw/LAB-CVE-2023-25725">
 
 ---
 ## CVE-2023-25724 (2023-02-14T22:15:00)
