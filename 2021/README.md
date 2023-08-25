@@ -6461,6 +6461,11 @@
 - [Live-Hack-CVE/CVE-2021-29024](https://github.com/Live-Hack-CVE/CVE-2021-29024)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29024">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29024">
 
 ---
+## CVE-2021-29003 (2021-04-13T06:15:00)
+> Genexis PLATINUM 4410 2.1 P4410-V2-1.28 devices allow remote attackers to execute arbitrary code via shell metacharacters to sys_config_valid.xgi, as demonstrated by the sys_config_valid.xgi?exeshell=%60telnetd%20%26%60 URI.
+- [jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003)	<img alt="forks" src="https://img.shields.io/github/forks/jaysharma786/CVE-2021-29003">	<img alt="stars" src="https://img.shields.io/github/stars/jaysharma786/CVE-2021-29003">
+
+---
 ## CVE-2021-28879 (2021-04-11T20:15:00)
 > In the standard library in Rust before 1.52.0, the Zip implementation can report an incorrect size due to an integer overflow. This bug can lead to a buffer overflow when a consumed Zip iterator is used again.
 - [Live-Hack-CVE/CVE-2021-28879](https://github.com/Live-Hack-CVE/CVE-2021-28879)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28879">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28879">
