@@ -85,6 +85,7 @@ The vulnerability is limited to the ROOT (default) web application.
 > 
 - [whalersplonk/CVE-2023-40477](https://github.com/whalersplonk/CVE-2023-40477)	<img alt="forks" src="https://img.shields.io/github/forks/whalersplonk/CVE-2023-40477">	<img alt="stars" src="https://img.shields.io/github/stars/whalersplonk/CVE-2023-40477">
 - [wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wildptr-io/Winrar-CVE-2023-40477-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wildptr-io/Winrar-CVE-2023-40477-POC">
+- [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
 
 ---
 ## CVE-2023-40297 ()
