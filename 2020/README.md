@@ -5049,6 +5049,11 @@
 - [Live-Hack-CVE/CVE-2020-11066](https://github.com/Live-Hack-CVE/CVE-2020-11066)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11066">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11066">
 
 ---
+## CVE-2020-11060 (2020-05-12T20:15:00)
+> In GLPI before 9.4.6, an attacker can execute system commands by abusing the backup functionality. Theoretically, this vulnerability can be exploited by an attacker without a valid account by using a CSRF. Due to the difficulty of the exploitation, the attack is only conceivable by an account having Maintenance privileges and the right to add WIFI networks. This is fixed in version 9.4.6.
+- [0xdreadnaught/cve-2020-11060-poc](https://github.com/0xdreadnaught/cve-2020-11060-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xdreadnaught/cve-2020-11060-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xdreadnaught/cve-2020-11060-poc">
+
+---
 ## CVE-2020-1106 (2020-05-21T23:15:00)
 > A cross-site-scripting (XSS) vulnerability exists when Microsoft SharePoint Server does not properly sanitize a specially crafted web request to an affected SharePoint server, aka 'Microsoft Office SharePoint XSS Vulnerability'. This CVE ID is unique from CVE-2020-1099, CVE-2020-1100, CVE-2020-1101.
 - [Live-Hack-CVE/CVE-2020-1106](https://github.com/Live-Hack-CVE/CVE-2020-1106)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-1106">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-1106">
