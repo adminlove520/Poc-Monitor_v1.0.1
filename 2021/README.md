@@ -5086,6 +5086,10 @@
 ## CVE-2021-34523 (2021-07-14T18:15:00)
 > Microsoft Exchange Server Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-33768, CVE-2021-34470.
 - [SUPRAAA-1337/CVE-2021-34523](https://github.com/SUPRAAA-1337/CVE-2021-34523)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2021-34523">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2021-34523">
+- [horizon3ai/proxyshell](https://github.com/horizon3ai/proxyshell)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/proxyshell">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/proxyshell">
+- [hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns)	<img alt="forks" src="https://img.shields.io/github/forks/hosch3n/ProxyVulns">	<img alt="stars" src="https://img.shields.io/github/stars/hosch3n/ProxyVulns">
+- [mithridates1313/ProxyShell_POC](https://github.com/mithridates1313/ProxyShell_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mithridates1313/ProxyShell_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mithridates1313/ProxyShell_POC">
+- [Udyz/proxyshell-auto](https://github.com/Udyz/proxyshell-auto)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/proxyshell-auto">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/proxyshell-auto">
 
 ---
 ## CVE-2021-3449 (2021-03-25T15:15:00)
