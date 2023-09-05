@@ -831,6 +831,7 @@ Ivanti Endpoint Manager Mobile (EPMM), formerly MobileIron Core, through 11.10 a
 - [Mantodkaz/CVE-2023-34960](https://github.com/Mantodkaz/CVE-2023-34960)	<img alt="forks" src="https://img.shields.io/github/forks/Mantodkaz/CVE-2023-34960">	<img alt="stars" src="https://img.shields.io/github/stars/Mantodkaz/CVE-2023-34960">
 - [hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu](https://github.com/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/Chamilo__CVE-2023-34960_RCE-ouvuu">
 - [tucommenceapousser/CVE-2023-34960-ex](https://github.com/tucommenceapousser/CVE-2023-34960-ex)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-34960-ex">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-34960-ex">
+- [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
 ## CVE-2023-34924 (2023-06-26T21:15:00)
@@ -1438,6 +1439,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-31433 (2023-05-02T20:15:00)
 > A SQL injection issue in Logbuch in evasys before 8.2 Build 2286 and 9.x before 9.0 Build 2401 allows authenticated attackers to execute SQL statements via the welche parameter.
 - [trustcves/CVE-2023-31433](https://github.com/trustcves/CVE-2023-31433)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2023-31433">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2023-31433">
+
+---
+## CVE-2023-3124 (2023-06-07T02:15:00)
+> The Elementor Pro plugin for WordPress is vulnerable to unauthorized data modification due to a missing capability check on the update_page_option function in versions up to, and including, 3.11.6. This makes it possible for authenticated attackers with subscriber-level capabilities to update arbitrary site options, which can lead to privilege escalation.
+- [AmirWhiteHat/CVE-2023-3124](https://github.com/AmirWhiteHat/CVE-2023-3124)	<img alt="forks" src="https://img.shields.io/github/forks/AmirWhiteHat/CVE-2023-3124">	<img alt="stars" src="https://img.shields.io/github/stars/AmirWhiteHat/CVE-2023-3124">
 
 ---
 ## CVE-2023-31070 ()
