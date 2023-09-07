@@ -130,6 +130,21 @@
 - [codeb0ss/CVE-2023-41538-PoC](https://github.com/codeb0ss/CVE-2023-41538-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-41538-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-41538-PoC">
 
 ---
+## CVE-2023-41535 ()
+> 
+- [Sh33talUmath/CVE-2023-41535](https://github.com/Sh33talUmath/CVE-2023-41535)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41535">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41535">
+
+---
+## CVE-2023-41534 ()
+> 
+- [Sh33talUmath/CVE-2023-41534](https://github.com/Sh33talUmath/CVE-2023-41534)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41534">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41534">
+
+---
+## CVE-2023-41533 ()
+> 
+- [Sh33talUmath/CVE-2023-41533](https://github.com/Sh33talUmath/CVE-2023-41533)	<img alt="forks" src="https://img.shields.io/github/forks/Sh33talUmath/CVE-2023-41533">	<img alt="stars" src="https://img.shields.io/github/stars/Sh33talUmath/CVE-2023-41533">
+
+---
 ## CVE-2023-41508 (2023-09-05T21:15:00)
 > A hard coded password in Super Store Finder v3.6 allows attackers to access the administration panel.
 - [redblueteam/CVE-2023-41508](https://github.com/redblueteam/CVE-2023-41508)	<img alt="forks" src="https://img.shields.io/github/forks/redblueteam/CVE-2023-41508">	<img alt="stars" src="https://img.shields.io/github/stars/redblueteam/CVE-2023-41508">
@@ -602,6 +617,7 @@ prior to
 ## CVE-2023-36664 (2023-06-25T22:15:00)
 > Artifex Ghostscript through 10.01.2 mishandles permission validation for pipe devices (with the %pipe% prefix or the | pipe character prefix).
 - [jakabakos/CVE-2023-36664-Ghostscript-command-injection](https://github.com/jakabakos/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-36664-Ghostscript-command-injection">
+- [winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_GhostScript">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_GhostScript">
 
 ---
 ## CVE-2023-36544 ()
