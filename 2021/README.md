@@ -178,6 +178,7 @@
 ## CVE-2021-46398 (2022-02-04T16:15:00)
 > A Cross-Site Request Forgery vulnerability exists in Filebrowser < 2.18.0 that allows attackers to create a backdoor user with admin privilege and get access to the filesystem via a malicious HTML webpage that is sent to the victim. An admin can run commands using the FileBrowser and hence it leads to RCE.
 - [LalieA/CVE-2021-46398](https://github.com/LalieA/CVE-2021-46398)	<img alt="forks" src="https://img.shields.io/github/forks/LalieA/CVE-2021-46398">	<img alt="stars" src="https://img.shields.io/github/stars/LalieA/CVE-2021-46398">
+- [febinrev/CVE-2021-46398_Chamilo-LMS-RCE](https://github.com/febinrev/CVE-2021-46398_Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">
 
 ---
 ## CVE-2021-46167 (2022-04-13T15:15:00)
