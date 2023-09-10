@@ -24,6 +24,8 @@
 ## CVE-2007-4559 (2007-08-28T01:17:00)
 > Directory traversal vulnerability in the (1) extract and (2) extractall functions in the tarfile module in Python allows user-assisted remote attackers to overwrite arbitrary files via a .. (dot dot) sequence in filenames in a TAR archive, a related issue to CVE-2001-1267.
 - [davidholiday/CVE-2007-4559](https://github.com/davidholiday/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/davidholiday/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/davidholiday/CVE-2007-4559">
+- [Ooscaar/MALW](https://github.com/Ooscaar/MALW)	<img alt="forks" src="https://img.shields.io/github/forks/Ooscaar/MALW">	<img alt="stars" src="https://img.shields.io/github/stars/Ooscaar/MALW">
+- [advanced-threat-research/Creosote](https://github.com/advanced-threat-research/Creosote)	<img alt="forks" src="https://img.shields.io/github/forks/advanced-threat-research/Creosote">	<img alt="stars" src="https://img.shields.io/github/stars/advanced-threat-research/Creosote">
 
 ---
 ## CVE-2007-3847 (2007-08-23T22:17:00)
