@@ -270,6 +270,7 @@
 - [Zeeshan12340/CVE-2018-6574](https://github.com/Zeeshan12340/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Zeeshan12340/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Zeeshan12340/CVE-2018-6574">
 - [antoniolch/cve-2018-6574](https://github.com/antoniolch/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/antoniolch/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/antoniolch/cve-2018-6574">
 - [alirezac0/CVE-2018-6574](https://github.com/alirezac0/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/alirezac0/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/alirezac0/CVE-2018-6574">
+- [Cr4ckC4t/CVE-2018-6574](https://github.com/Cr4ckC4t/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Cr4ckC4t/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Cr4ckC4t/CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
