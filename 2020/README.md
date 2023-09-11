@@ -4934,6 +4934,7 @@
 > The mappress-google-maps-for-wordpress plugin before 2.53.9 for WordPress does not correctly implement AJAX functions with nonces (or capability checks), leading to remote code execution.
 - [Live-Hack-CVE/CVE-2020-12077](https://github.com/Live-Hack-CVE/CVE-2020-12077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12077">
 - [Live-Hack-CVE/CVE-2020-12675](https://github.com/Live-Hack-CVE/CVE-2020-12675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12675">
+- [RandomRobbieBF/CVE-2020-12077](https://github.com/RandomRobbieBF/CVE-2020-12077)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2020-12077">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2020-12077">
 
 ---
 ## CVE-2020-12061 (2021-05-21T12:15:00)
