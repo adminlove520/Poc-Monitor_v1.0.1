@@ -109,6 +109,11 @@
 - [codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-4238-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-4238-PoC">
 
 ---
+## CVE-2023-42362 ()
+> 
+- [Mr-n0b3dy/CVE-2023-42362](https://github.com/Mr-n0b3dy/CVE-2023-42362)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-n0b3dy/CVE-2023-42362">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-n0b3dy/CVE-2023-42362">
+
+---
 ## CVE-2023-4174 (2023-08-06T01:15:00)
 > A vulnerability has been found in mooSocial mooStore 3.1.6 and classified as problematic. Affected by this vulnerability is an unknown functionality. The manipulation leads to cross site scripting. The attack can be launched remotely. The identifier VDB-236209 was assigned to this vulnerability.
 - [d0rb/CVE-2023-4174](https://github.com/d0rb/CVE-2023-4174)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2023-4174">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2023-4174">
@@ -1337,6 +1342,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [kaotickj/Check-for-CVE-2023-32629-GameOver-lay](https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay)	<img alt="forks" src="https://img.shields.io/github/forks/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">	<img alt="stars" src="https://img.shields.io/github/stars/kaotickj/Check-for-CVE-2023-32629-GameOver-lay">
 - [johnlettman/juju-patch-gameoverlay](https://github.com/johnlettman/juju-patch-gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-patch-gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-patch-gameoverlay">
 - [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
+
+---
+## CVE-2023-3244 (2023-08-17T07:15:00)
+> The Comments Like Dislike plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the restore_settings function called via an AJAX action in versions up to, and including, 1.1.9. This makes it possible for authenticated attackers with minimal permissions, such as a subscriber, to reset the plugin's settings. NOTE: After attempting to contact the developer with no response, and reporting this to the WordPress plugin's team 30 days ago we are disclosing this issue as it still is not updated.
+- [drnull03/POC-CVE-2023-3244](https://github.com/drnull03/POC-CVE-2023-3244)	<img alt="forks" src="https://img.shields.io/github/forks/drnull03/POC-CVE-2023-3244">	<img alt="stars" src="https://img.shields.io/github/stars/drnull03/POC-CVE-2023-3244">
 
 ---
 ## CVE-2023-32434 (2023-06-23T18:15:00)
