@@ -7067,6 +7067,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Live-Hack-CVE/CVE-2023-0800](https://github.com/Live-Hack-CVE/CVE-2023-0800)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0800">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0800">
 
 ---
+## CVE-2023-08 ()
+> 
+- [amirzargham/CVE-2023-08-21-exploit](https://github.com/amirzargham/CVE-2023-08-21-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-08-21-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-08-21-exploit">
+
+---
 ## CVE-2023-0799 (2023-02-13T23:15:00)
 > LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3701, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e.
 - [Live-Hack-CVE/CVE-2023-0799](https://github.com/Live-Hack-CVE/CVE-2023-0799)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0799">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0799">
