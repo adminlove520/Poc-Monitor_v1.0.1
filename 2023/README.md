@@ -8625,6 +8625,11 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [Live-Hack-CVE/CVE-2023-0101](https://github.com/Live-Hack-CVE/CVE-2023-0101)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0101">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0101">
 
 ---
+## CVE-2023-0099 (2023-02-13T15:15:00)
+> The Simple URLs WordPress plugin before 115 does not sanitise and escape some parameters before outputting them back in some pages, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin.
+- [amirzargham/CVE-2023-0099-exploit](https://github.com/amirzargham/CVE-2023-0099-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/amirzargham/CVE-2023-0099-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/amirzargham/CVE-2023-0099-exploit">
+
+---
 ## CVE-2023-0097 (2023-01-30T21:15:00)
 > The Post Grid, Post Carousel, & List Category Posts WordPress plugin before 2.4.19 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2023-0097](https://github.com/Live-Hack-CVE/CVE-2023-0097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0097">
