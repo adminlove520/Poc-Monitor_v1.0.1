@@ -7011,6 +7011,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal](https://github.com/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Drag-and-Drop-Multiple-File-Uploader-PRO-Path-Traversal">
 
 ---
+## CVE-2023-11 ()
+> 
+- [XXXE88/cve-2023-11](https://github.com/XXXE88/cve-2023-11)	<img alt="forks" src="https://img.shields.io/github/forks/XXXE88/cve-2023-11">	<img alt="stars" src="https://img.shields.io/github/stars/XXXE88/cve-2023-11">
+
+---
 ## CVE-2023-10608 ()
 > 
 - [b35363/cve-2023-10608-PoC](https://github.com/b35363/cve-2023-10608-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b35363/cve-2023-10608-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b35363/cve-2023-10608-PoC">
