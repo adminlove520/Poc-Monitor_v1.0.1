@@ -108,6 +108,11 @@
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
 
 ---
+## CVE-2023-43326 ()
+> 
+- [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
+
+---
 ## CVE-2023-43325 ()
 > 
 - [ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43325">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43325">
