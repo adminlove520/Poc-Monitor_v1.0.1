@@ -133,6 +133,11 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
+## CVE-2023-42426 ()
+> 
+- [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-42426">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-42426">
+
+---
 ## CVE-2023-42413 ()
 > 
 - [chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413)	<img alt="forks" src="https://img.shields.io/github/forks/chenghao-hao/cve-2023-42413">	<img alt="stars" src="https://img.shields.io/github/stars/chenghao-hao/cve-2023-42413">
@@ -8664,6 +8669,11 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 ## CVE-2023-0158 (2023-01-17T17:15:00)
 > NLnet Labs Krill supports direct access to the RRDP repository content through its built-in web server at the "/rrdp" endpoint. Prior to 0.12.1 a direct query for any existing directory under "/rrdp/", rather than an RRDP file such as "/rrdp/notification.xml" as would be expected, causes Krill to crash. If the built-in "/rrdp" endpoint is exposed directly to the internet, then malicious remote parties can cause the publication server to crash. The repository content is not affected by this, but the availability of the server and repository can cause issues if this attack is persistent and is not mitigated.
 - [Live-Hack-CVE/CVE-2023-0158](https://github.com/Live-Hack-CVE/CVE-2023-0158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0158">
+
+---
+## CVE-2023-0156 (2023-04-10T14:15:00)
+> The All-In-One Security (AIOS) WordPress plugin before 5.1.5 does not limit what log files to display in it's settings pages, allowing an authorized user (admin+) to view the contents of arbitrary files and list directories anywhere on the server (to which the web server has access). The plugin only displays the last 50 lines of the file.
+- [b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-0156">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-0156">
 
 ---
 ## CVE-2023-0149 (2023-02-06T20:15:00)
