@@ -165,8 +165,8 @@
 - [revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)	<img alt="forks" src="https://img.shields.io/github/forks/revan-ar/CVE-2023-4278">	<img alt="stars" src="https://img.shields.io/github/stars/revan-ar/CVE-2023-4278">
 
 ---
-## CVE-2023-42426 ()
-> 
+## CVE-2023-42426 (2023-09-25T21:15:00)
+> Cross-site scripting (XSS) vulnerability in Froala Froala Editor v.4.1.1 allows remote attackers to execute arbitrary code via the 'Insert link' parameter in the 'Insert Image' component.
 - [b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-42426">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-42426">
 
 ---
