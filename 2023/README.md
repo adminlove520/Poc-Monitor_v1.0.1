@@ -125,8 +125,8 @@
 - [0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)	<img alt="forks" src="https://img.shields.io/github/forks/0nyx-hkr/cve-2023-4350">	<img alt="stars" src="https://img.shields.io/github/stars/0nyx-hkr/cve-2023-4350">
 
 ---
-## CVE-2023-43326 ()
-> 
+## CVE-2023-43326 (2023-09-25T22:15:00)
+> mooSocial v3.1.8 was discovered to contain a cross-site scripting (XSS) vulnerability via the change email function.
 - [ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-43326">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-43326">
 
 ---
