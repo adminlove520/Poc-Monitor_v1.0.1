@@ -528,6 +528,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [Halcy0nic/CVE-2023-38632](https://github.com/Halcy0nic/CVE-2023-38632)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38632">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38632">
 
 ---
+## CVE-2023-38571 (2023-07-28T05:15:00)
+> This issue was addressed with improved validation of symlinks. This issue is fixed in macOS Big Sur 11.7.9, macOS Monterey 12.6.8, macOS Ventura 13.5. An app may be able to bypass Privacy preferences.
+- [gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV](https://github.com/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV)	<img alt="forks" src="https://img.shields.io/github/forks/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">	<img alt="stars" src="https://img.shields.io/github/stars/gergelykalman/CVE-2023-38571-a-macOS-TCC-bypass-in-Music-and-TV">
+
+---
 ## CVE-2023-38434 (2023-07-18T03:15:00)
 > xHTTP 72f812d has a double free in close_connection in xhttp.c via a malformed HTTP request method.
 - [Halcy0nic/CVE-2023-38434](https://github.com/Halcy0nic/CVE-2023-38434)	<img alt="forks" src="https://img.shields.io/github/forks/Halcy0nic/CVE-2023-38434">	<img alt="stars" src="https://img.shields.io/github/stars/Halcy0nic/CVE-2023-38434">
