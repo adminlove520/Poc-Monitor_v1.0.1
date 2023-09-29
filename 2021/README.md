@@ -7608,6 +7608,11 @@
 - [Live-Hack-CVE/CVE-2021-24500](https://github.com/Live-Hack-CVE/CVE-2021-24500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24500">
 
 ---
+## CVE-2021-24499 (2021-08-09T10:15:00)
+> The Workreap WordPress theme before 2.2.2 AJAX actions workreap_award_temp_file_uploader and workreap_temp_file_uploader did not perform nonce checks, or validate that the request is from a valid user in any other way. The endpoints allowed for uploading arbitrary files to the uploads/workreap-temp directory. Uploaded files were neither sanitized nor validated, allowing an unauthenticated visitor to upload executable code such as php scripts.
+- [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/jytmX/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/jytmX/CVE-2021-24499">
+
+---
 ## CVE-2021-24487 (2021-10-25T14:15:00)
 > The St-Daily-Tip WordPress plugin through 4.7 does not have any CSRF check in place when saving its 'Default Text to Display if no tips' setting, and was also lacking sanitisation as well as escaping before outputting it the page. This could allow attacker to make logged in administrators set a malicious payload in it, leading to a Stored Cross-Site Scripting issue
 - [Live-Hack-CVE/CVE-2021-24487](https://github.com/Live-Hack-CVE/CVE-2021-24487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24487">
