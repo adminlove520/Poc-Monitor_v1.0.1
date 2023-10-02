@@ -141,6 +141,11 @@
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
+## CVE-2023-43838 ()
+> 
+- [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-43838">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-43838">
+
+---
 ## CVE-2023-43770 (2023-09-22T06:15:00)
 > Roundcube before 1.4.14, 1.5.x before 1.5.4, and 1.6.x before 1.6.3 allows XSS via text/plain e-mail messages with crafted links because of program/lib/Roundcube/rcube_string_replacer.php behavior.
 - [s3cb0y/CVE-2023-43770-POC](https://github.com/s3cb0y/CVE-2023-43770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/s3cb0y/CVE-2023-43770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/s3cb0y/CVE-2023-43770-POC">
