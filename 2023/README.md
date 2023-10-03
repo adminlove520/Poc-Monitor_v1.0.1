@@ -7128,6 +7128,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">
 - [pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918](https://github.com/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/platform_frameworks_base_AOSP_10_r33_CVE-2023-20918">
+- [Trinadh465/platform_frameworks_base_CVE-2023-20918](https://github.com/Trinadh465/platform_frameworks_base_CVE-2023-20918)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_frameworks_base_CVE-2023-20918">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_frameworks_base_CVE-2023-20918">
 
 ---
 ## CVE-2023-20916 (2023-01-26T21:18:00)
