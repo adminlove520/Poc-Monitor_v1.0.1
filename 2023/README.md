@@ -7053,6 +7053,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 
 
 - [nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/external_aac_AOSP04-r1_CVE-2023-21282">
+- [Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282](https://github.com/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_aac_AOSP10_r33_CVE-2023-21282">
 
 ---
 ## CVE-2023-21281 (2023-08-14T22:15:00)
