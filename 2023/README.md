@@ -1466,6 +1466,7 @@ An application is not vulnerable if any of the following is true:
 ## CVE-2023-33831 (2023-09-18T20:15:00)
 > A remote command execution (RCE) vulnerability in the /api/runscript endpoint of FUXA 1.1.13 allows attackers to execute arbitrary commands via a crafted POST request.
 - [rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831](https://github.com/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/Unauthenticated-RCE-FUXA-CVE-2023-33831">
+- [codeb0ss/CVE-2023-33831-PoC](https://github.com/codeb0ss/CVE-2023-33831-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-33831-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-33831-PoC">
 
 ---
 ## CVE-2023-33829 (2023-05-24T21:15:00)
@@ -2813,6 +2814,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-25576 (2023-02-14T16:15:00)
 > @fastify/multipart is a Fastify plugin to parse the multipart content-type. Prior to versions 7.4.1 and 6.0.1, @fastify/multipart may experience denial of service due to a number of situations in which an unlimited number of parts are accepted. This includes the multipart body parser accepting an unlimited number of file parts, the multipart body parser accepting an unlimited number of field parts, and the multipart body parser accepting an unlimited number of empty parts as field parts. This is fixed in v7.4.1 (for Fastify v4.x) and v6.0.1 (for Fastify v3.x). There are no known workarounds.
 - [Live-Hack-CVE/CVE-2023-25576](https://github.com/Live-Hack-CVE/CVE-2023-25576)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-25576">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-25576">
+
+---
+## CVE-2023-25573 (2023-03-09T17:15:00)
+> metersphere is an open source continuous testing platform. In affected versions an improper access control vulnerability exists in `/api/jmeter/download/files`, which allows any user to download any file without authentication. This issue may expose all files available to the running process. This issue has been addressed in version 1.20.20 lts and 2.7.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.
+- [codeb0ss/CVE-2023-25573-PoC](https://github.com/codeb0ss/CVE-2023-25573-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-25573-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-25573-PoC">
 
 ---
 ## CVE-2023-25572 (2023-02-13T21:15:00)
