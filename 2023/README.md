@@ -5083,6 +5083,15 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 - [viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)	<img alt="forks" src="https://img.shields.io/github/forks/viswagb/CVE-2023-22551">	<img alt="stars" src="https://img.shields.io/github/stars/viswagb/CVE-2023-22551">
 
 ---
+## CVE-2023-22515 (2023-10-04T14:15:00)
+> Atlassian has been made aware of an issue reported by a handful of customers where external attackers may have exploited a previously unknown vulnerability in publicly accessible Confluence Data Center and Server instances to create unauthorized Confluence administrator accounts and access Confluence instances.
+
+Atlassian Cloud sites are not affected by this vulnerability. If your Confluence site is accessed via an atlassian.net domain, it is hosted by Atlassian and is not vulnerable to this issue. 
+
+For more details, please review the linked advisory on this CVE.
+- [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/ErikWynter/CVE-2023-22515-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/ErikWynter/CVE-2023-22515-Scan">
+
+---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
 > An authentication vulnerability was discovered in Jira Service Management Server and Data Center which allows an attacker to impersonate another user and gain access to a Jira Service Management instance under certain circumstances_._ With write access to a User Directory and outgoing email enabled on a Jira Service Management instance, an attacker could gain access to signup tokens sent to users with accounts that have never been logged into. Access to these tokens can be obtained in two cases: * If the attacker is included on Jira issues or requests with these users, or * If the attacker is forwarded or otherwise gains access to emails containing a “View Request” link from these users. Bot accounts are particularly susceptible to this scenario. On instances with single sign-on, external customer accounts can be affected in projects where anyone can create their own account.
 - [Live-Hack-CVE/CVE-2023-22501](https://github.com/Live-Hack-CVE/CVE-2023-22501)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22501">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22501">
