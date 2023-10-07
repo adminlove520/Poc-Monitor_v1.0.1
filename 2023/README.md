@@ -162,6 +162,21 @@
 - [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44961">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44961">
 
 ---
+## CVE-2023-44813 ()
+> 
+- [ahrixia/CVE-2023-44813](https://github.com/ahrixia/CVE-2023-44813)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44813">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44813">
+
+---
+## CVE-2023-44812 ()
+> 
+- [ahrixia/CVE-2023-44812](https://github.com/ahrixia/CVE-2023-44812)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44812">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44812">
+
+---
+## CVE-2023-44811 ()
+> 
+- [ahrixia/CVE-2023-44811](https://github.com/ahrixia/CVE-2023-44811)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2023-44811">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2023-44811">
+
+---
 ## CVE-2023-44268 ()
 > 
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
