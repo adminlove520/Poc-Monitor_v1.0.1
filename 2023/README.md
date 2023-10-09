@@ -439,6 +439,11 @@ The vulnerability is limited to the ROOT (default) web application.
 - [winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_WinRAR">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_WinRAR">
 
 ---
+## CVE-2023-40429 (2023-09-27T15:19:00)
+> A permissions issue was addressed with improved validation. This issue is fixed in tvOS 17, iOS 17 and iPadOS 17, watchOS 10, macOS Sonoma 14. An app may be able to access sensitive user data.
+- [biscuitehh/cve-2023-40429-ez-device-name](https://github.com/biscuitehh/cve-2023-40429-ez-device-name)	<img alt="forks" src="https://img.shields.io/github/forks/biscuitehh/cve-2023-40429-ez-device-name">	<img alt="stars" src="https://img.shields.io/github/stars/biscuitehh/cve-2023-40429-ez-device-name">
+
+---
 ## CVE-2023-40297 ()
 > 
 - [sahar042/CVE-2023-40297](https://github.com/sahar042/CVE-2023-40297)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2023-40297">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2023-40297">
@@ -2722,6 +2727,9 @@ and the severity is therefore considered low.
 ## CVE-2023-2640 (2023-07-26T02:15:00)
 > On Ubuntu kernels carrying both c914c0e27eb0 and "UBUNTU: SAUCE: overlayfs: Skip permission checking for trusted.overlayfs.* xattrs", an unprivileged user may set privileged extended attributes on the mounted files, leading them to be set on the upper files without the appropriate security checks.
 - [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2023-2640-CVE-2023-32629">
+- [luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS)	<img alt="forks" src="https://img.shields.io/github/forks/luanoliveira350/GameOverlayFS">	<img alt="stars" src="https://img.shields.io/github/stars/luanoliveira350/GameOverlayFS">
+- [johnlettman/juju-scripts](https://github.com/johnlettman/juju-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/johnlettman/juju-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/johnlettman/juju-scripts">
+- [OllaPapito/gameoverlay](https://github.com/OllaPapito/gameoverlay)	<img alt="forks" src="https://img.shields.io/github/forks/OllaPapito/gameoverlay">	<img alt="stars" src="https://img.shields.io/github/stars/OllaPapito/gameoverlay">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
