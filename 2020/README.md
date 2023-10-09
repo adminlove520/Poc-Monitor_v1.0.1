@@ -4936,6 +4936,11 @@
 - [Live-Hack-CVE/CVE-2020-12137](https://github.com/Live-Hack-CVE/CVE-2020-12137)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12137">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12137">
 
 ---
+## CVE-2020-12124 (2020-10-02T09:15:00)
+> A remote command-line injection vulnerability in the /cgi-bin/live_api.cgi endpoint of the WAVLINK WN530H4 M30H4.V5030.190403 allows an attacker to execute arbitrary Linux commands as root without authentication.
+- [db44k/CVE-2020-12124](https://github.com/db44k/CVE-2020-12124)	<img alt="forks" src="https://img.shields.io/github/forks/db44k/CVE-2020-12124">	<img alt="stars" src="https://img.shields.io/github/stars/db44k/CVE-2020-12124">
+
+---
 ## CVE-2020-12109 (2020-05-04T16:15:00)
 > Certain TP-Link devices allow Command Injection. This affects NC200 2.1.9 build 200225, NC210 1.0.9 build 200304, NC220 1.3.0 build 200304, NC230 1.3.0 build 200304, NC250 1.3.0 build 200304, NC260 1.5.2 build 200304, and NC450 1.5.3 build 200304.
 - [Live-Hack-CVE/CVE-2020-12109](https://github.com/Live-Hack-CVE/CVE-2020-12109)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12109">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12109">
