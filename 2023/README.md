@@ -2719,6 +2719,11 @@ and the severity is therefore considered low.
 - [getdrive/PoC](https://github.com/getdrive/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/getdrive/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/getdrive/PoC">
 
 ---
+## CVE-2023-2640 (2023-07-26T02:15:00)
+> On Ubuntu kernels carrying both c914c0e27eb0 and "UBUNTU: SAUCE: overlayfs: Skip permission checking for trusted.overlayfs.* xattrs", an unprivileged user may set privileged extended attributes on the mounted files, leading them to be set on the upper files without the appropriate security checks.
+- [g1vi/CVE-2023-2640-CVE-2023-32629](https://github.com/g1vi/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/g1vi/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/g1vi/CVE-2023-2640-CVE-2023-32629">
+
+---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
 > The AN_GradeBook WordPress plugin through 5.0.1 does not properly sanitise and escape a parameter before using it in a SQL statement, leading to a SQL injection exploitable by users with a role as low as subscriber
 - [lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636)	<img alt="forks" src="https://img.shields.io/github/forks/lukinneberg/CVE-2023-2636">	<img alt="stars" src="https://img.shields.io/github/stars/lukinneberg/CVE-2023-2636">
