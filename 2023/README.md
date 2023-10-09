@@ -5115,6 +5115,7 @@ Atlassian Cloud sites are not affected by this vulnerability. If your Confluence
 
 For more details, please review the linked advisory on this CVE.
 - [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/ErikWynter/CVE-2023-22515-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/ErikWynter/CVE-2023-22515-Scan">
+- [w33ys/CVE-2023-22515-RCE](https://github.com/w33ys/CVE-2023-22515-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/w33ys/CVE-2023-22515-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/w33ys/CVE-2023-22515-RCE">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
