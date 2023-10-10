@@ -5068,6 +5068,14 @@
 - [dozernz/cve-2020-11651](https://github.com/dozernz/cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/dozernz/cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/dozernz/cve-2020-11651">
 
 ---
+## CVE-2020-11444 (2020-04-02T18:15:00)
+> Sonatype Nexus Repository Manager 3.x up to and including 3.21.2 has Incorrect Access Control.
+- [CN016/Nexus-Repository-Manager-3-CVE-2020-11444-](https://github.com/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Nexus-Repository-Manager-3-CVE-2020-11444-">
+- [zhzyker/exphub](https://github.com/zhzyker/exphub)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/exphub">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/exphub">
+- [zhzyker/CVE-2020-11444](https://github.com/zhzyker/CVE-2020-11444)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/CVE-2020-11444">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/CVE-2020-11444">
+- [jas502n/CVE-2020-10199](https://github.com/jas502n/CVE-2020-10199)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-10199">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-10199">
+
+---
 ## CVE-2020-11081 (2020-07-10T19:15:00)
 > osquery before version 4.4.0 enables a privilege escalation vulnerability. If a Window system is configured with a PATH that contains a user-writable directory then a local user may write a zlib1.dll DLL, which osquery will attempt to load. Since osquery runs with elevated privileges this enables local escalation. This is fixed in version 4.4.0.
 - [Live-Hack-CVE/CVE-2020-11081](https://github.com/Live-Hack-CVE/CVE-2020-11081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11081">

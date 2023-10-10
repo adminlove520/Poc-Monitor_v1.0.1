@@ -648,6 +648,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-38646">
 - [yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/yxl2001/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/yxl2001/CVE-2023-38646">
 - [alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-pecorilla/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-pecorilla/CVE-2023-38646">
+- [CN016/Metabase-H2-CVE-2023-38646-](https://github.com/CN016/Metabase-H2-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Metabase-H2-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Metabase-H2-CVE-2023-38646-">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -1808,6 +1809,7 @@ Fixed in version 6.4.1.
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
+- [CN016/Openfire-RCE-CVE-2023-32315-](https://github.com/CN016/Openfire-RCE-CVE-2023-32315-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Openfire-RCE-CVE-2023-32315-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Openfire-RCE-CVE-2023-32315-">
 
 ---
 ## CVE-2023-32243 (2023-05-12T08:15:00)
@@ -2273,6 +2275,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-29324 (2023-05-09T18:15:00)
 > Windows MSHTML Platform Security Feature Bypass Vulnerability
 - [OLeDouxEt/CVE-2023-29324_Patch_Deploy](https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy)	<img alt="forks" src="https://img.shields.io/github/forks/OLeDouxEt/CVE-2023-29324_Patch_Deploy">	<img alt="stars" src="https://img.shields.io/github/stars/OLeDouxEt/CVE-2023-29324_Patch_Deploy">
+
+---
+## CVE-2023-2928 (2023-05-27T10:15:00)
+> A vulnerability was found in DedeCMS up to 5.7.106. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file uploads/dede/article_allowurl_edit.php. The manipulation of the argument allurls leads to code injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-230083.
+- [CN016/DedeCMS-getshell-CVE-2023-2928-](https://github.com/CN016/DedeCMS-getshell-CVE-2023-2928-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/DedeCMS-getshell-CVE-2023-2928-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/DedeCMS-getshell-CVE-2023-2928-">
 
 ---
 ## CVE-2023-2916 (2023-08-15T09:15:00)
