@@ -5154,6 +5154,7 @@ For more details, please review the linked advisory on this CVE.
 - [ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/ErikWynter/CVE-2023-22515-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/ErikWynter/CVE-2023-22515-Scan">
 - [w33ys/CVE-2023-22515-RCE](https://github.com/w33ys/CVE-2023-22515-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/w33ys/CVE-2023-22515-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/w33ys/CVE-2023-22515-RCE">
 - [r4p70rs/CVE-2023-22515-PoC](https://github.com/r4p70rs/CVE-2023-22515-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/r4p70rs/CVE-2023-22515-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/r4p70rs/CVE-2023-22515-PoC">
+- [op-hxc0/CVE-2023-22515](https://github.com/op-hxc0/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/op-hxc0/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/op-hxc0/CVE-2023-22515">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
