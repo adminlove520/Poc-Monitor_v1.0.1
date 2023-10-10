@@ -2176,6 +2176,13 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Le1a/CVE-2023-29923](https://github.com/Le1a/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-29923">
 
 ---
+## CVE-2023-29922 (2023-04-19T19:15:00)
+> PowerJob V4.3.1 is vulnerable to Incorrect Access Control via the create user/save interface.
+- [CN016/Powerjob-CVE-2023-29922-](https://github.com/CN016/Powerjob-CVE-2023-29922-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/Powerjob-CVE-2023-29922-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/Powerjob-CVE-2023-29922-">
+- [CKevens/CVE-2023-29923-Scan](https://github.com/CKevens/CVE-2023-29923-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/CKevens/CVE-2023-29923-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/CKevens/CVE-2023-29923-Scan">
+- [1820112015/CVE-2023-29923](https://github.com/1820112015/CVE-2023-29923)	<img alt="forks" src="https://img.shields.io/github/forks/1820112015/CVE-2023-29923">	<img alt="stars" src="https://img.shields.io/github/stars/1820112015/CVE-2023-29923">
+
+---
 ## CVE-2023-29919 (2023-05-23T01:15:00)
 > SolarView Compact <= 6.0 is vulnerable to Insecure Permissions. Any file on the server can be read or modified because texteditor.php is not restricted.
 - [xiaosed/CVE-2023-29919](https://github.com/xiaosed/CVE-2023-29919)	<img alt="forks" src="https://img.shields.io/github/forks/xiaosed/CVE-2023-29919">	<img alt="stars" src="https://img.shields.io/github/stars/xiaosed/CVE-2023-29919">
