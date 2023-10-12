@@ -289,6 +289,7 @@
 - [Ariurn/CVE-2023-42793](https://github.com/Ariurn/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Ariurn/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Ariurn/CVE-2023-42793">
 - [H454NSec/CVE-2023-42793](https://github.com/H454NSec/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/H454NSec/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/H454NSec/CVE-2023-42793">
 - [Zenmovie/CVE-2023-42793](https://github.com/Zenmovie/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/Zenmovie/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/Zenmovie/CVE-2023-42793">
+- [WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793](https://github.com/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/PoC-JetBrains-TeamCity-CVE-2023-42793">
 
 ---
 ## CVE-2023-4279 (2023-09-04T12:15:00)
