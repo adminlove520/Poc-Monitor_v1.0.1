@@ -25,8 +25,8 @@ jobs:
           # barkToken: ${{secrets.BARK_TOKEN}}
           feishuToken: ${{secrets.FEISHU_TOKEN}}
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Github Action"
+          git config --local user.email "791751568@qq.com"
+          git config --local user.name "adminlove520"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           go build search.go utils.go
