@@ -4324,6 +4324,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/wibuheker/Joomla-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/wibuheker/Joomla-CVE-2023-23752">
 - [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">
 - [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/MrP4nda1337/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/MrP4nda1337/CVE-2023-23752">
+- [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/k0valskia/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/k0valskia/CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
