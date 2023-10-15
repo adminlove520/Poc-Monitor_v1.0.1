@@ -3542,6 +3542,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-24521](https://github.com/Live-Hack-CVE/CVE-2023-24521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24521">
 
 ---
+## CVE-2023-24517 (2023-08-22T19:16:00)
+> Unrestricted Upload of File with Dangerous Type vulnerability in the Pandora FMS File Manager component, allows an attacker to make make use of this issue ( unrestricted file upload ) to execute arbitrary system commands. This issue affects Pandora FMS v767 version and prior versions on all platforms.
+- [Argonx21/CVE-2023-24517](https://github.com/Argonx21/CVE-2023-24517)	<img alt="forks" src="https://img.shields.io/github/forks/Argonx21/CVE-2023-24517">	<img alt="stars" src="https://img.shields.io/github/stars/Argonx21/CVE-2023-24517">
+
+---
 ## CVE-2023-24508 (2023-01-26T21:18:00)
 > Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validated by a 3rd party analyst and has been confirmed exploitable special thanks to Rustam Amin for providing the steps to reproduce.
 - [Live-Hack-CVE/CVE-2023-24508](https://github.com/Live-Hack-CVE/CVE-2023-24508)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24508">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24508">
