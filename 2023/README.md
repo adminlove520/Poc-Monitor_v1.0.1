@@ -219,6 +219,11 @@
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
+## CVE-2023-4415 (2023-08-18T16:15:00)
+> A vulnerability was found in Ruijie RG-EW1200G 07161417 r483. It has been rated as critical. Affected by this issue is some unknown functionality of the file /api/sys/login. The manipulation leads to improper authentication. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-237518 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
+- [thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415](https://github.com/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/Ruijie_RG-EW1200G_login_bypass-CVE-2023-4415">
+
+---
 ## CVE-2023-43838 (2023-10-04T16:15:00)
 > An arbitrary file upload vulnerability in Personal Management System v1.4.64 allows attackers to execute arbitrary code via uploading a crafted SVG file into a user profile's avatar.
 - [rootd4ddy/CVE-2023-43838](https://github.com/rootd4ddy/CVE-2023-43838)	<img alt="forks" src="https://img.shields.io/github/forks/rootd4ddy/CVE-2023-43838">	<img alt="stars" src="https://img.shields.io/github/stars/rootd4ddy/CVE-2023-43838">
