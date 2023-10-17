@@ -745,7 +745,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 - [threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/threatHNTR/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/threatHNTR/CVE-2023-38646">
 - [asepsaepdin/CVE-2023-38646](https://github.com/asepsaepdin/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2023-38646">
 - [Pyr0sec/CVE-2023-38646](https://github.com/Pyr0sec/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/Pyr0sec/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/Pyr0sec/CVE-2023-38646">
-- [davidf-arch/CVE-2023-38646](https://github.com/davidf-arch/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/davidf-arch/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/davidf-arch/CVE-2023-38646">
+- [birdm4nw/CVE-2023-38646](https://github.com/birdm4nw/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/birdm4nw/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/birdm4nw/CVE-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -7614,6 +7614,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
  For steps to close the attack vector for this vulnerability, see the Recommendations section of this advisory 
  Cisco will provide updates on the status of this investigation and when a software patch is available.
 - [raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/raystr-atearedteam/CVE-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/raystr-atearedteam/CVE-2023-20198-checker">
+- [Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Atea-Redteam/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Atea-Redteam/CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
