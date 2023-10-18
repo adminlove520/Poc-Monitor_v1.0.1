@@ -52,6 +52,11 @@
 - [lawrenceamer/CVE-2018-7935](https://github.com/lawrenceamer/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/lawrenceamer/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/lawrenceamer/CVE-2018-7935">
 
 ---
+## CVE-2018-7843 (2019-05-22T20:29:00)
+> A CWE-248: Uncaught Exception vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause denial of service when reading memory blocks with an invalid data size or with an invalid data offset in the controller over Modbus.
+- [yanissec/CVE-2018-7843](https://github.com/yanissec/CVE-2018-7843)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7843">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7843">
+
+---
 ## CVE-2018-7842 (2019-05-22T20:29:00)
 > A CWE-290: Authentication Bypass by Spoofing vulnerability exists in all versions of the Modicon M580, Modicon M340, Modicon Quantum, and Modicon Premium which could cause an elevation of privilege by conducting a brute force attack on Modbus parameters sent to the controller.
 - [yanissec/CVE-2018-7842](https://github.com/yanissec/CVE-2018-7842)	<img alt="forks" src="https://img.shields.io/github/forks/yanissec/CVE-2018-7842">	<img alt="stars" src="https://img.shields.io/github/stars/yanissec/CVE-2018-7842">
