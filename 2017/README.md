@@ -278,6 +278,11 @@
 - [Live-Hack-CVE/CVE-2017-7473](https://github.com/Live-Hack-CVE/CVE-2017-7473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7473">
 
 ---
+## CVE-2017-7410 (2017-04-03T22:59:00)
+> Multiple SQL injection vulnerabilities in account/signup.php and account/signup2.php in WebsiteBaker 2.10.0 and earlier allow remote attackers to execute arbitrary SQL commands via the (1) username, (2) display_name parameter.
+- [ashangp923/CVE-2017-7410](https://github.com/ashangp923/CVE-2017-7410)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2017-7410">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2017-7410">
+
+---
 ## CVE-2017-7374 (2017-03-31T20:59:00)
 > Use-after-free vulnerability in fs/crypto/ in the Linux kernel before 4.10.7 allows local users to cause a denial of service (NULL pointer dereference) or possibly gain privileges by revoking keyring keys being used for ext4, f2fs, or ubifs encryption, causing cryptographic transform objects to be freed prematurely.
 - [Live-Hack-CVE/CVE-2017-7374](https://github.com/Live-Hack-CVE/CVE-2017-7374)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7374">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7374">
