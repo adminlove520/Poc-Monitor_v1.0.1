@@ -4447,6 +4447,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Sweelg/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Sweelg/CVE-2023-23752">
 - [MrP4nda1337/CVE-2023-23752](https://github.com/MrP4nda1337/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/MrP4nda1337/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/MrP4nda1337/CVE-2023-23752">
 - [k0valskia/CVE-2023-23752](https://github.com/k0valskia/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/k0valskia/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/k0valskia/CVE-2023-23752">
+- [yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/yTxZx/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/yTxZx/CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
@@ -5432,6 +5433,7 @@ For more details, please review the linked advisory on this CVE.
 - [Le1a/CVE-2023-22515](https://github.com/Le1a/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-22515">
 - [Vulnmachines/confluence-cve-2023-22515](https://github.com/Vulnmachines/confluence-cve-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/confluence-cve-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/confluence-cve-2023-22515">
 - [iveresk/CVE-2023-22515](https://github.com/iveresk/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/iveresk/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/iveresk/CVE-2023-22515">
+- [youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/youcannotseemeagain/CVE-2023-22515_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/youcannotseemeagain/CVE-2023-22515_RCE">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
