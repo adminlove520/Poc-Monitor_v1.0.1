@@ -205,6 +205,11 @@
 - [RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45828">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45828">
 
 ---
+## CVE-2023-45657 ()
+> 
+- [RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-45657">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-45657">
+
+---
 ## CVE-2023-45603 ()
 > 
 - [codeb0ss/CVE-2023-45603-PoC](https://github.com/codeb0ss/CVE-2023-45603-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-45603-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-45603-PoC">
@@ -7824,6 +7829,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Chocapikk/CVE-2023-1698](https://github.com/Chocapikk/CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-1698">
 - [tucommenceapousser/CVE-2023-1698](https://github.com/tucommenceapousser/CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-1698">
 - [deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/deIndra/CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/deIndra/CVE-2023-1698">
+- [thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698)	<img alt="forks" src="https://img.shields.io/github/forks/thedarknessdied/WAGO-CVE-2023-1698">	<img alt="stars" src="https://img.shields.io/github/stars/thedarknessdied/WAGO-CVE-2023-1698">
 
 ---
 ## CVE-2023-1671 (2023-04-04T10:15:00)
