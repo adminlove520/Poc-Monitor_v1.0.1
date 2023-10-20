@@ -7548,6 +7548,11 @@ For more details, please review the linked advisory on this CVE.
 - [lordofpipes/acropadetect](https://github.com/lordofpipes/acropadetect)	<img alt="forks" src="https://img.shields.io/github/forks/lordofpipes/acropadetect">	<img alt="stars" src="https://img.shields.io/github/stars/lordofpipes/acropadetect">
 
 ---
+## CVE-2023-20963 (2023-03-24T20:15:00)
+> In WorkSource, there is a possible parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-220302519
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">
+
+---
 ## CVE-2023-20949 (2023-02-15T03:15:00)
 > In s2mpg11_pmic_probe of s2mpg11-regulator.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-259323133References: N/A
 - [Live-Hack-CVE/CVE-2023-20949](https://github.com/Live-Hack-CVE/CVE-2023-20949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20949">
@@ -7744,6 +7749,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/ditekshen/ansible-cve-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/ditekshen/ansible-cve-2023-20198">
 - [exp166/CVE-2023-20198](https://github.com/exp166/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/exp166/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/exp166/CVE-2023-20198">
 - [alekos3/CVE_2023_20198_Remediator](https://github.com/alekos3/CVE_2023_20198_Remediator)	<img alt="forks" src="https://img.shields.io/github/forks/alekos3/CVE_2023_20198_Remediator">	<img alt="stars" src="https://img.shields.io/github/stars/alekos3/CVE_2023_20198_Remediator">
+- [reket99/Cisco_CVE-2023-20198](https://github.com/reket99/Cisco_CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/reket99/Cisco_CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/reket99/Cisco_CVE-2023-20198">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
