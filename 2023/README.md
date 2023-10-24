@@ -1916,8 +1916,8 @@ An application is not vulnerable if any of the following is true:
 - [16yashpatel/CVE-2023-33565](https://github.com/16yashpatel/CVE-2023-33565)	<img alt="forks" src="https://img.shields.io/github/forks/16yashpatel/CVE-2023-33565">	<img alt="stars" src="https://img.shields.io/github/stars/16yashpatel/CVE-2023-33565">
 
 ---
-## CVE-2023-33517 ()
-> 
+## CVE-2023-33517 (2023-10-23T23:15:00)
+> carRental 1.0 is vulnerable to Incorrect Access Control (Arbitrary File Read on the Back-end System).
 - [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
 
 ---
