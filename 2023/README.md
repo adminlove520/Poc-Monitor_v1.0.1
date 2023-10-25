@@ -114,6 +114,7 @@
 
 - [Chocapikk/CVE-2023-4966](https://github.com/Chocapikk/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-4966">
 - [dinosn/citrix_cve-2023-4966](https://github.com/dinosn/citrix_cve-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/citrix_cve-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/citrix_cve-2023-4966">
+- [senpaisamp/CVE-2023-4966-POC](https://github.com/senpaisamp/CVE-2023-4966-POC)	<img alt="forks" src="https://img.shields.io/github/forks/senpaisamp/CVE-2023-4966-POC">	<img alt="stars" src="https://img.shields.io/github/stars/senpaisamp/CVE-2023-4966-POC">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
@@ -7853,6 +7854,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Pushkarup/CVE-2023-20198](https://github.com/Pushkarup/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-20198">
 - [Shadow0ps/CVE-2023-20198-Scanner](https://github.com/Shadow0ps/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2023-20198-Scanner">
 - [kacem-expereo/CVE-2023-20198](https://github.com/kacem-expereo/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/kacem-expereo/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/kacem-expereo/CVE-2023-20198">
+- [mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner](https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
