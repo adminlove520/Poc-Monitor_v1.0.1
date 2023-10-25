@@ -7629,6 +7629,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-21097 (2023-04-19T20:15:00)
 > In toUriInner of Intent.java, there is a possible way to launch an arbitrary activity due to a confused deputy. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-261858325
 - [Trinadh465/-frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/-frameworks_base_AOSP10_r33_CVE-2023-21097)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/-frameworks_base_AOSP10_r33_CVE-2023-21097">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/-frameworks_base_AOSP10_r33_CVE-2023-21097">
+- [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21097">
 
 ---
 ## CVE-2023-21036 (2023-03-24T20:15:00)
