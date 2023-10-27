@@ -323,8 +323,10 @@
 - [ReToCode/golang-CVE-2023-44487](https://github.com/ReToCode/golang-CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/ReToCode/golang-CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/ReToCode/golang-CVE-2023-44487">
 
 ---
-## CVE-2023-44268 ()
-> 
+## CVE-2023-44268 (2023-10-26T23:15:00)
+> Online Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'gender' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.
+
+
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
