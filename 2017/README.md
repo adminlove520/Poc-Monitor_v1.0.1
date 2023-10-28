@@ -1513,6 +1513,7 @@
 - [0x09AL/CVE-2017-11882-metasploit](https://github.com/0x09AL/CVE-2017-11882-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/0x09AL/CVE-2017-11882-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/0x09AL/CVE-2017-11882-metasploit">
 - [n18dcat053-luuvannga/DetectPacket-CVE-2017-11882](https://github.com/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/n18dcat053-luuvannga/DetectPacket-CVE-2017-11882">
 - [Abdibimantara/Maldoc-Analysis](https://github.com/Abdibimantara/Maldoc-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Abdibimantara/Maldoc-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Abdibimantara/Maldoc-Analysis">
+- [nhuynhuy/cve-2017-11882](https://github.com/nhuynhuy/cve-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/nhuynhuy/cve-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/nhuynhuy/cve-2017-11882">
 
 ---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
