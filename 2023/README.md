@@ -233,6 +233,11 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AliBrTab/CVE-2023-46747-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AliBrTab/CVE-2023-46747-POC">
 
 ---
+## CVE-2023-46501 ()
+> 
+- [Cyber-Wo0dy/CVE-2023-46501](https://github.com/Cyber-Wo0dy/CVE-2023-46501)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Wo0dy/CVE-2023-46501">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Wo0dy/CVE-2023-46501">
+
+---
 ## CVE-2023-46478 (2023-10-30T23:15:00)
 > An issue in minCal v.1.0.0 allows a remote attacker to execute arbitrary code via a crafted script to the customer_data parameter.
 - [mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)	<img alt="forks" src="https://img.shields.io/github/forks/mr-xmen786/CVE-2023-46478">	<img alt="stars" src="https://img.shields.io/github/stars/mr-xmen786/CVE-2023-46478">
@@ -5617,6 +5622,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22518 ()
 > 
 - [ForceFledgling/CVE-2023-22518](https://github.com/ForceFledgling/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2023-22518">
+- [tonghuaroot/CVE-2023-22518](https://github.com/tonghuaroot/CVE-2023-22518)	<img alt="forks" src="https://img.shields.io/github/forks/tonghuaroot/CVE-2023-22518">	<img alt="stars" src="https://img.shields.io/github/stars/tonghuaroot/CVE-2023-22518">
 
 ---
 ## CVE-2023-22515 (2023-10-04T14:15:00)
