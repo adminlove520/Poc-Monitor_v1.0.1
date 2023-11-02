@@ -166,6 +166,11 @@
 - [Live-Hack-CVE/CVE-2014-3538](https://github.com/Live-Hack-CVE/CVE-2014-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3538">
 
 ---
+## CVE-2014-3470 (2014-06-05T21:55:00)
+> The ssl3_send_client_key_exchange function in s3_clnt.c in OpenSSL before 0.9.8za, 1.0.0 before 1.0.0m, and 1.0.1 before 1.0.1h, when an anonymous ECDH cipher suite is used, allows remote attackers to cause a denial of service (NULL pointer dereference and client crash) by triggering a NULL certificate value.
+- [Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470](https://github.com/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/OpensSSL_1.0.1g_CVE-2014-3470">
+
+---
 ## CVE-2014-3394 (2014-10-10T10:55:00)
 > The Smart Call Home (SCH) implementation in Cisco ASA Software 8.2 before 8.2(5.50), 8.4 before 8.4(7.15), 8.6 before 8.6(1.14), 8.7 before 8.7(1.13), 9.0 before 9.0(4.8), and 9.1 before 9.1(5.1) allows remote attackers to bypass certificate validation via an arbitrary VeriSign certificate, aka Bug ID CSCun10916.
 - [Live-Hack-CVE/CVE-2014-3394](https://github.com/Live-Hack-CVE/CVE-2014-3394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3394">
@@ -589,6 +594,7 @@
 - [secretnonempty/CVE-2014-0224](https://github.com/secretnonempty/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/secretnonempty/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/secretnonempty/CVE-2014-0224">
 - [droptables/ccs-eval](https://github.com/droptables/ccs-eval)	<img alt="forks" src="https://img.shields.io/github/forks/droptables/ccs-eval">	<img alt="stars" src="https://img.shields.io/github/stars/droptables/ccs-eval">
 - [iph0n3/CVE-2014-0224](https://github.com/iph0n3/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/iph0n3/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/iph0n3/CVE-2014-0224">
+- [nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">
 
 ---
 ## CVE-2014-0207 (2014-07-09T11:07:00)
