@@ -1852,6 +1852,11 @@
 - [Live-Hack-CVE/CVE-2018-1100](https://github.com/Live-Hack-CVE/CVE-2018-1100)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1100">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1100">
 
 ---
+## CVE-2018-10993 ()
+> 
+- [nicolastsk/cve-2018-10993](https://github.com/nicolastsk/cve-2018-10993)	<img alt="forks" src="https://img.shields.io/github/forks/nicolastsk/cve-2018-10993">	<img alt="stars" src="https://img.shields.io/github/stars/nicolastsk/cve-2018-10993">
+
+---
 ## CVE-2018-1098 (2018-04-03T16:29:00)
 > A cross-site request forgery flaw was found in etcd 3.3.1 and earlier. An attacker can set up a website that tries to send a POST request to the etcd server and modify a key. Adding a key is done with PUT so it is theoretically safe (can't PUT from an HTML form or such) but POST allows creating in-order keys that an attacker can send.
 - [Live-Hack-CVE/CVE-2018-1098](https://github.com/Live-Hack-CVE/CVE-2018-1098)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1098">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1098">
