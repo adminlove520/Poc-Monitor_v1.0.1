@@ -167,6 +167,16 @@
 - [Live-Hack-CVE/CVE-2014-3710](https://github.com/Live-Hack-CVE/CVE-2014-3710)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3710">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3710">
 
 ---
+## CVE-2014-3566 (2014-10-15T00:55:00)
+> The SSL protocol 3.0, as used in OpenSSL through 1.0.1i and other products, uses nondeterministic CBC padding, which makes it easier for man-in-the-middle attackers to obtain cleartext data via a padding-oracle attack, aka the "POODLE" issue.
+- [uthrasri/openssl_g2.5_CVE-2014-3566](https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/openssl_g2.5_CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/openssl_g2.5_CVE-2014-3566">
+- [mpgn/poodle-PoC](https://github.com/mpgn/poodle-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/poodle-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/poodle-PoC">
+- [clino-mania/A2SV--SSL-VUL-Scan](https://github.com/clino-mania/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/clino-mania/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/clino-mania/A2SV--SSL-VUL-Scan">
+- [cloudpassage/mangy-beast](https://github.com/cloudpassage/mangy-beast)	<img alt="forks" src="https://img.shields.io/github/forks/cloudpassage/mangy-beast">	<img alt="stars" src="https://img.shields.io/github/stars/cloudpassage/mangy-beast">
+- [stdevel/poodle_protector](https://github.com/stdevel/poodle_protector)	<img alt="forks" src="https://img.shields.io/github/forks/stdevel/poodle_protector">	<img alt="stars" src="https://img.shields.io/github/stars/stdevel/poodle_protector">
+- [mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/mikesplain/CVE-2014-3566-poodle-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/mikesplain/CVE-2014-3566-poodle-cookbook">
+
+---
 ## CVE-2014-3538 (2014-07-03T14:55:00)
 > file before 5.19 does not properly restrict the amount of data read during a regex search, which allows remote attackers to cause a denial of service (CPU consumption) via a crafted file that triggers backtracking during processing of an awk rule.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2013-7345.
 - [Live-Hack-CVE/CVE-2014-3538](https://github.com/Live-Hack-CVE/CVE-2014-3538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3538">
