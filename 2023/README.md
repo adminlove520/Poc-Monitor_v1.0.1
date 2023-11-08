@@ -5751,6 +5751,7 @@ For more details, please review the linked advisory on this CVE.
 - [joaoviictorti/CVE-2023-22515](https://github.com/joaoviictorti/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/joaoviictorti/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/joaoviictorti/CVE-2023-22515">
 - [spark1security/n0s1](https://github.com/spark1security/n0s1)	<img alt="forks" src="https://img.shields.io/github/forks/spark1security/n0s1">	<img alt="stars" src="https://img.shields.io/github/stars/spark1security/n0s1">
 - [C1ph3rX13/CVE-2023-22515](https://github.com/C1ph3rX13/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-22515">
+- [LucasPDiniz/CVE-2023-22515](https://github.com/LucasPDiniz/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2023-22515">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
