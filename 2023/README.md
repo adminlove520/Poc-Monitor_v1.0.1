@@ -3812,6 +3812,11 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">
 
 ---
+## CVE-2023-24706 ()
+> 
+- [hatjwe/CVE-2023-24706](https://github.com/hatjwe/CVE-2023-24706)	<img alt="forks" src="https://img.shields.io/github/forks/hatjwe/CVE-2023-24706">	<img alt="stars" src="https://img.shields.io/github/stars/hatjwe/CVE-2023-24706">
+
+---
 ## CVE-2023-24690 (2023-02-09T22:15:00)
 > ChurchCRM 4.5.3 and below was discovered to contain a stored cross-site scripting (XSS) vulnerability at /api/public/register/family.
 - [Live-Hack-CVE/CVE-2023-24690](https://github.com/Live-Hack-CVE/CVE-2023-24690)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24690">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24690">
