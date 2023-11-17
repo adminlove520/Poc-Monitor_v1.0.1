@@ -8176,6 +8176,11 @@ For more details, please review the linked advisory on this CVE.
 - [hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933](https://github.com/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933">
 
 ---
+## CVE-2023-20932 (2023-02-28T17:15:00)
+> In onCreatePreferences of EditInfoFragment.java, there is a possible way to read contacts belonging to other users due to improper input validation. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12L Android-13Android ID: A-248251018
+- [nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932](https://github.com/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/packages_apps_EmergencyInfo_AOSP_10_r33_CVE-2023-20932">
+
+---
 ## CVE-2023-20927 (2023-02-15T03:15:00)
 > In permissions of AndroidManifest.xml, there is a possible way to grant signature permissions due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-13Android ID: A-244216503
 - [Live-Hack-CVE/CVE-2023-20927](https://github.com/Live-Hack-CVE/CVE-2023-20927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20927">
