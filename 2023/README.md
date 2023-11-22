@@ -5189,6 +5189,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-23586](https://github.com/Live-Hack-CVE/CVE-2023-23586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23586">
 
 ---
+## CVE-2023-23583 ()
+> 
+- [Mav3r1ck0x1/CVE-2023-23583-Reptar-](https://github.com/Mav3r1ck0x1/CVE-2023-23583-Reptar-)	<img alt="forks" src="https://img.shields.io/github/forks/Mav3r1ck0x1/CVE-2023-23583-Reptar-">	<img alt="stars" src="https://img.shields.io/github/stars/Mav3r1ck0x1/CVE-2023-23583-Reptar-">
+
+---
 ## CVE-2023-23582 (2023-01-30T23:15:00)
 > Snap One Wattbox WB-300-IP-3 versions WB10.9a17 and prior are vulnerable to a heap-based buffer overflow, which could allow an attacker to execute arbitrary code or crash the device remotely.
 - [Live-Hack-CVE/CVE-2023-23582](https://github.com/Live-Hack-CVE/CVE-2023-23582)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23582">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23582">
