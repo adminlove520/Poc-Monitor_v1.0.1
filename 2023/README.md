@@ -637,6 +637,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [nxenon/cve-2023-44487](https://github.com/nxenon/cve-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/nxenon/cve-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/nxenon/cve-2023-44487">
 
 ---
+## CVE-2023-44353 ()
+> 
+- [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2023-44353-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2023-44353-Nuclei-Template">
+
+---
 ## CVE-2023-44268 (2023-10-26T23:15:00)
 > Online Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'gender' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.
 
