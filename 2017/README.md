@@ -1682,6 +1682,7 @@
 - [cjjduck/weblogic_wls_wsat_rce](https://github.com/cjjduck/weblogic_wls_wsat_rce)	<img alt="forks" src="https://img.shields.io/github/forks/cjjduck/weblogic_wls_wsat_rce">	<img alt="stars" src="https://img.shields.io/github/stars/cjjduck/weblogic_wls_wsat_rce">
 - [Min-yeon/CVE-2017-10271](https://github.com/Min-yeon/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/Min-yeon/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/Min-yeon/CVE-2017-10271">
 - [5l1v3r1/CVE-2017-10274](https://github.com/5l1v3r1/CVE-2017-10274)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/CVE-2017-10274">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/CVE-2017-10274">
+- [zhangkaibin0921/CVE-2017-10271](https://github.com/zhangkaibin0921/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/CVE-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)
