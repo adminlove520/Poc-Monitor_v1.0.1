@@ -4019,6 +4019,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2023-25157-and-CVE-2023-25158">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2023-25157-and-CVE-2023-25158">
 - [7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker)	<img alt="forks" src="https://img.shields.io/github/forks/7imbitz/CVE-2023-25157-checker">	<img alt="stars" src="https://img.shields.io/github/stars/7imbitz/CVE-2023-25157-checker">
 - [EmmanuelCruzL/CVE-2023-25157](https://github.com/EmmanuelCruzL/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/EmmanuelCruzL/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/EmmanuelCruzL/CVE-2023-25157">
+- [dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/dr-cable-tv/Geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/dr-cable-tv/Geoserver-CVE-2023-25157">
 
 ---
 ## CVE-2023-25153 (2023-02-16T15:15:00)
