@@ -4902,6 +4902,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24138](https://github.com/Live-Hack-CVE/CVE-2023-24138)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24138">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24138">
 
 ---
+## CVE-2023-24100 ()
+> 
+- [badboycxcc/CVE-2023-24100](https://github.com/badboycxcc/CVE-2023-24100)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2023-24100">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2023-24100">
+
+---
 ## CVE-2023-24086 (2023-02-13T21:15:00)
 > SLIMS v9.5.2 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the component /customs/loan_by_class.php?reportView.
 - [Live-Hack-CVE/CVE-2023-24086](https://github.com/Live-Hack-CVE/CVE-2023-24086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24086">
