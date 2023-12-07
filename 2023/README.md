@@ -4929,6 +4929,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24078](https://github.com/Live-Hack-CVE/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24078">
 - [overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-24078">
 - [rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/rio128128/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/rio128128/CVE-2023-24078">
+- [ag-rodriguez/CVE-2023-24078](https://github.com/ag-rodriguez/CVE-2023-24078)	<img alt="forks" src="https://img.shields.io/github/forks/ag-rodriguez/CVE-2023-24078">	<img alt="stars" src="https://img.shields.io/github/stars/ag-rodriguez/CVE-2023-24078">
 
 ---
 ## CVE-2023-24070 (2023-01-23T05:15:00)
