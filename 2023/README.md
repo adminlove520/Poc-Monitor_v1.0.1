@@ -3385,6 +3385,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
 - [Fw-fW-fw/CVE-2023-28432-minio_update_rce](https://github.com/Fw-fW-fw/CVE-2023-28432-minio_update_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Fw-fW-fw/CVE-2023-28432-minio_update_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Fw-fW-fw/CVE-2023-28432-minio_update_rce">
 - [Chocapikk/CVE-2023-28432](https://github.com/Chocapikk/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-28432">
+- [C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/C1ph3rX13/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/C1ph3rX13/CVE-2023-28432">
+- [Romanc9/Gui-poc-test](https://github.com/Romanc9/Gui-poc-test)	<img alt="forks" src="https://img.shields.io/github/forks/Romanc9/Gui-poc-test">	<img alt="stars" src="https://img.shields.io/github/stars/Romanc9/Gui-poc-test">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
