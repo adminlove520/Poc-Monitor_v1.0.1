@@ -592,6 +592,8 @@
 ## CVE-2019-6693 (2019-11-21T16:15:00)
 > Use of a hard-coded cryptographic key to cipher sensitive data in FortiOS configuration backup file may allow an attacker with access to the backup file to decipher the sensitive data, via knowledge of the hard-coded key. The aforementioned sensitive data includes users' passwords (except the administrator's password), private keys' passphrases and High Availability password (when set).
 - [saladandonionrings/cve-2019-6693](https://github.com/saladandonionrings/cve-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/saladandonionrings/cve-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/saladandonionrings/cve-2019-6693">
+- [synacktiv/CVE-2020-9289](https://github.com/synacktiv/CVE-2020-9289)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2020-9289">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2020-9289">
+- [gquere/CVE-2019-6693](https://github.com/gquere/CVE-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2019-6693">
 
 ---
 ## CVE-2019-6648 (2019-09-04T16:15:00)
