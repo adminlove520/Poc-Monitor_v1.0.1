@@ -589,6 +589,11 @@
 - [Live-Hack-CVE/CVE-2019-6706](https://github.com/Live-Hack-CVE/CVE-2019-6706)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6706">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6706">
 
 ---
+## CVE-2019-6693 (2019-11-21T16:15:00)
+> Use of a hard-coded cryptographic key to cipher sensitive data in FortiOS configuration backup file may allow an attacker with access to the backup file to decipher the sensitive data, via knowledge of the hard-coded key. The aforementioned sensitive data includes users' passwords (except the administrator's password), private keys' passphrases and High Availability password (when set).
+- [saladandonionrings/cve-2019-6693](https://github.com/saladandonionrings/cve-2019-6693)	<img alt="forks" src="https://img.shields.io/github/forks/saladandonionrings/cve-2019-6693">	<img alt="stars" src="https://img.shields.io/github/stars/saladandonionrings/cve-2019-6693">
+
+---
 ## CVE-2019-6648 (2019-09-04T16:15:00)
 > On version 1.9.0, If DEBUG logging is enable, F5 Container Ingress Service (CIS) for Kubernetes and Red Hat OpenShift (k8s-bigip-ctlr) log files may contain BIG-IP secrets such as SSL Private Keys and Private key Passphrases as provided as inputs by an AS3 Declaration.
 - [Live-Hack-CVE/CVE-2019-6648](https://github.com/Live-Hack-CVE/CVE-2019-6648)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6648">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6648">
