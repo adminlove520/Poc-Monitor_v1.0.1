@@ -861,6 +861,12 @@
 - [RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)	<img alt="forks" src="https://img.shields.io/github/forks/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">	<img alt="stars" src="https://img.shields.io/github/stars/RcsJJ9/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022">
 - [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Tai-e/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Tai-e/CVE-2021-44228">
 - [LucasPDiniz/CVE-2021-44228](https://github.com/LucasPDiniz/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2021-44228">
+- [dcm2406/CVE-2021-44228](https://github.com/dcm2406/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVE-2021-44228">
+- [dcm2406/CVELab](https://github.com/dcm2406/CVELab)	<img alt="forks" src="https://img.shields.io/github/forks/dcm2406/CVELab">	<img alt="stars" src="https://img.shields.io/github/stars/dcm2406/CVELab">
+- [WinupdatesEvice/Slient-PDF-FUD-Malware](https://github.com/WinupdatesEvice/Slient-PDF-FUD-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/WinupdatesEvice/Slient-PDF-FUD-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/WinupdatesEvice/Slient-PDF-FUD-Malware">
+- [WinupdatesEvice/Slient-URL-Exploit-Hidden-Downloader1](https://github.com/WinupdatesEvice/Slient-URL-Exploit-Hidden-Downloader1)	<img alt="forks" src="https://img.shields.io/github/forks/WinupdatesEvice/Slient-URL-Exploit-Hidden-Downloader1">	<img alt="stars" src="https://img.shields.io/github/stars/WinupdatesEvice/Slient-URL-Exploit-Hidden-Downloader1">
+- [felixslama/log4shell-minecraft-demo](https://github.com/felixslama/log4shell-minecraft-demo)	<img alt="forks" src="https://img.shields.io/github/forks/felixslama/log4shell-minecraft-demo">	<img alt="stars" src="https://img.shields.io/github/stars/felixslama/log4shell-minecraft-demo">
+- [s-retlaw/l4s_poc](https://github.com/s-retlaw/l4s_poc)	<img alt="forks" src="https://img.shields.io/github/forks/s-retlaw/l4s_poc">	<img alt="stars" src="https://img.shields.io/github/stars/s-retlaw/l4s_poc">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
