@@ -85,6 +85,11 @@
 - [codeb0ss/CVE-2023-5815-PoC](https://github.com/codeb0ss/CVE-2023-5815-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5815-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5815-PoC">
 
 ---
+## CVE-2023-5808 ()
+> 
+- [Arszilla/CVE-2023-5808](https://github.com/Arszilla/CVE-2023-5808)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-5808">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-5808">
+
+---
 ## CVE-2023-5601 ()
 > 
 - [codeb0ss/CVE-2023-5601-PoC](https://github.com/codeb0ss/CVE-2023-5601-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-5601-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-5601-PoC">
