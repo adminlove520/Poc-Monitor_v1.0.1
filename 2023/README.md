@@ -224,6 +224,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [geraldoalcantara/CVE-2023-50070](https://github.com/geraldoalcantara/CVE-2023-50070)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-50070">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-50070">
 
 ---
+## CVE-2023-49968 ()
+> 
+- [geraldoalcantara/CVE-2023-49968](https://github.com/geraldoalcantara/CVE-2023-49968)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49968">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49968">
+
+---
 ## CVE-2023-49964 (2023-12-11T08:15:00)
 > An issue was discovered in Hyland Alfresco Community Edition through 7.2.0. By inserting malicious content in the folder.get.html.ftl file, an attacker may perform SSTI (Server-Side Template Injection) attacks, which can leverage FreeMarker exposed objects to bypass restrictions and achieve RCE (Remote Code Execution). NOTE: this issue exists because of an incomplete fix for CVE-2020-12873.
 - [mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964">
@@ -260,6 +265,46 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [s-bt/CVE-2023-4966](https://github.com/s-bt/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/s-bt/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/s-bt/CVE-2023-4966">
 - [byte4RR4Y/CVE-2023-4966](https://github.com/byte4RR4Y/CVE-2023-4966)	<img alt="forks" src="https://img.shields.io/github/forks/byte4RR4Y/CVE-2023-4966">	<img alt="stars" src="https://img.shields.io/github/stars/byte4RR4Y/CVE-2023-4966">
 - [jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/jmussmann/cve-2023-4966-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/jmussmann/cve-2023-4966-iocs">
+
+---
+## CVE-2023-49548 ()
+> 
+- [geraldoalcantara/CVE-2023-49548](https://github.com/geraldoalcantara/CVE-2023-49548)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49548">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49548">
+
+---
+## CVE-2023-49547 ()
+> 
+- [geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49547">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49547">
+
+---
+## CVE-2023-49546 ()
+> 
+- [geraldoalcantara/CVE-2023-49546](https://github.com/geraldoalcantara/CVE-2023-49546)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49546">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49546">
+
+---
+## CVE-2023-49545 ()
+> 
+- [geraldoalcantara/CVE-2023-49545](https://github.com/geraldoalcantara/CVE-2023-49545)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49545">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49545">
+
+---
+## CVE-2023-49544 ()
+> 
+- [geraldoalcantara/CVE-2023-49544](https://github.com/geraldoalcantara/CVE-2023-49544)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49544">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49544">
+
+---
+## CVE-2023-49543 ()
+> 
+- [geraldoalcantara/CVE-2023-49543](https://github.com/geraldoalcantara/CVE-2023-49543)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49543">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49543">
+
+---
+## CVE-2023-49540 ()
+> 
+- [geraldoalcantara/CVE-2023-49540](https://github.com/geraldoalcantara/CVE-2023-49540)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49540">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49540">
+
+---
+## CVE-2023-49539 ()
+> 
+- [geraldoalcantara/CVE-2023-49539](https://github.com/geraldoalcantara/CVE-2023-49539)	<img alt="forks" src="https://img.shields.io/github/forks/geraldoalcantara/CVE-2023-49539">	<img alt="stars" src="https://img.shields.io/github/stars/geraldoalcantara/CVE-2023-49539">
 
 ---
 ## CVE-2023-4951 (2023-09-14T17:15:00)
