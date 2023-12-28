@@ -23,6 +23,11 @@
 - [Live-Hack-CVE/CVE-2006-3360](https://github.com/Live-Hack-CVE/CVE-2006-3360)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-3360">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-3360">
 
 ---
+## CVE-2006-2842 (2006-06-06T20:06:00)
+> ** DISPUTED **  PHP remote file inclusion vulnerability in functions/plugin.php in SquirrelMail 1.4.6 and earlier, if register_globals is enabled and magic_quotes_gpc is disabled, allows remote attackers to execute arbitrary PHP code via a URL in the plugins array parameter.  NOTE: this issue has been disputed by third parties, who state that Squirrelmail provides prominent warnings to the administrator when register_globals is enabled.  Since the varieties of administrator negligence are uncountable, perhaps this type of issue should not be included in CVE.  However, the original developer has posted a security advisory, so there might be relevant real-world environments under which this vulnerability is applicable. Successful exploitation requires that "register_globals" is enabled and "magic_quotes_gpc" is disabled.
+- [karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2006-2842">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2006-2842">
+
+---
 ## CVE-2006-20001 (2023-01-17T20:15:00)
 > A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier.
 - [Live-Hack-CVE/CVE-2006-20001](https://github.com/Live-Hack-CVE/CVE-2006-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-20001">
