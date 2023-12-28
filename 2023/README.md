@@ -4619,6 +4619,12 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Live-Hack-CVE/CVE-2023-24956](https://github.com/Live-Hack-CVE/CVE-2023-24956)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24956">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24956">
 
 ---
+## CVE-2023-24955 (2023-05-09T18:15:00)
+> Microsoft SharePoint Server Remote Code Execution Vulnerability
+- [former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/former-farmer/CVE-2023-24955-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/former-farmer/CVE-2023-24955-PoC">
+- [Chocapikk/CVE-2023-29357](https://github.com/Chocapikk/CVE-2023-29357)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-29357">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-29357">
+
+---
 ## CVE-2023-24829 (2023-01-31T10:15:00)
 > Incorrect Authorization vulnerability in Apache Software Foundation Apache IoTDB.This issue affects the iotdb-web-workbench component from 0.13.0 before 0.13.3. iotdb-web-workbench is an optional component of IoTDB, providing a web console of the database. This problem is fixed from version 0.13.3 of iotdb-web-workbench onwards.
 - [Live-Hack-CVE/CVE-2023-24829](https://github.com/Live-Hack-CVE/CVE-2023-24829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24829">
