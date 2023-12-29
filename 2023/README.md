@@ -638,8 +638,10 @@ Users are recommended to upgrade to version 18.12.10
 - [b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)	<img alt="forks" src="https://img.shields.io/github/forks/b0marek/CVE-2023-4800">	<img alt="stars" src="https://img.shields.io/github/stars/b0marek/CVE-2023-4800">
 
 ---
-## CVE-2023-47840 ()
-> 
+## CVE-2023-47840 (2023-12-29T09:15:00)
+> Improper Control of Generation of Code ('Code Injection') vulnerability in Qode Interactive Qode Essential Addons.This issue affects Qode Essential Addons: from n/a through 1.5.2.
+
+
 - [RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-47840">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-47840">
 
 ---
@@ -1506,6 +1508,7 @@ The vulnerability is limited to the ROOT (default) web application.
 > In appendEscapedSQLString of DatabaseUtils.java, there is a possible SQL injection due to unsafe deserialization. This could lead to local information disclosure with User execution privileges needed. User interaction is not needed for exploitation.
 - [nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/frameworks_base_AOSP10_r33_core_CVE-2023-40121">
 - [hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_framework_base_AOSP6_r22_CVE-2023-40121">
+- [hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121](https://github.com/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/platform_framework_base_android-4.2.2_r1_CVE-2023-40121">
 
 ---
 ## CVE-2023-40044 (2023-09-27T15:18:00)
