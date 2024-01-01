@@ -561,6 +561,16 @@ Users are recommended to upgrade to version 18.12.10
 - [l00neyhacker/CVE-2023-48984](https://github.com/l00neyhacker/CVE-2023-48984)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2023-48984">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2023-48984">
 
 ---
+## CVE-2023-48983 ()
+> 
+- [tristao-marinho/CVE-2023-48983](https://github.com/tristao-marinho/CVE-2023-48983)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-48983">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-48983">
+
+---
+## CVE-2023-48982 ()
+> 
+- [tristao-marinho/CVE-2023-48982](https://github.com/tristao-marinho/CVE-2023-48982)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-48982">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-48982">
+
+---
 ## CVE-2023-48981 ()
 > 
 - [tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-48981">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-48981">
