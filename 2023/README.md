@@ -204,7 +204,7 @@
 - [Chocapikk/CVE-2023-51467](https://github.com/Chocapikk/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2023-51467">
 - [K3ysTr0K3R/CVE-2023-51467-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-51467-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2023-51467-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2023-51467-EXPLOIT">
 - [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/Apache-OFBiz-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/Apache-OFBiz-Authentication-Bypass">
-- [Subha-BOO7/CVE-2023-51467](https://github.com/Subha-BOO7/CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-BOO7/CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-BOO7/CVE-2023-51467">
+- [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-BOO7/Exploit_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-BOO7/Exploit_CVE-2023-51467">
 - [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/D0g3-8Bit/OFBiz-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/D0g3-8Bit/OFBiz-Attack">
 
 ---
@@ -4107,6 +4107,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [MasterCode112/CVE-2023-27163](https://github.com/MasterCode112/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/MasterCode112/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/MasterCode112/CVE-2023-27163">
 - [KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft)	<img alt="forks" src="https://img.shields.io/github/forks/KharimMchatta/basketcraft">	<img alt="stars" src="https://img.shields.io/github/stars/KharimMchatta/basketcraft">
 - [mathias-mrsn/CVE-2023-27163](https://github.com/mathias-mrsn/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/mathias-mrsn/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/mathias-mrsn/CVE-2023-27163">
+- [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
