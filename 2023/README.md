@@ -4110,6 +4110,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [mathias-mrsn/CVE-2023-27163](https://github.com/mathias-mrsn/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/mathias-mrsn/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/mathias-mrsn/CVE-2023-27163">
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 - [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
+- [Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/Rubioo02/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/Rubioo02/CVE-2023-27163">
 
 ---
 ## CVE-2023-27100 (2023-03-22T23:15:00)
