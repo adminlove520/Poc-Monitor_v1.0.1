@@ -583,6 +583,8 @@ Users are recommended to upgrade to version 18.12.10
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">
+- [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/D0g3-8Bit/OFBiz-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/D0g3-8Bit/OFBiz-Attack">
+- [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/Apache-OFBiz-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/Apache-OFBiz-Authentication-Bypass">
 
 ---
 ## CVE-2023-49052 ()
