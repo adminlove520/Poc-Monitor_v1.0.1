@@ -582,6 +582,7 @@ Users are recommended to upgrade to version 18.12.10
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">
+- [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">
 
 ---
 ## CVE-2023-49052 ()
