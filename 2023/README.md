@@ -209,6 +209,7 @@
 - [Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/Subha-BOO7/Exploit_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/Subha-BOO7/Exploit_CVE-2023-51467">
 - [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/D0g3-8Bit/OFBiz-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/D0g3-8Bit/OFBiz-Attack">
 - [JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JaneMandy/CVE-2023-51467-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JaneMandy/CVE-2023-51467-Exploit">
+- [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
@@ -580,6 +581,7 @@ Users are recommended to upgrade to version 18.12.10
 - [nightowl642/Apache_OFBiz-CVE-2023-49070-exploit](https://github.com/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nightowl642/Apache_OFBiz-CVE-2023-49070-exploit">
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
 - [0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2023-49070">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2023-49070">
+- [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">
 
 ---
 ## CVE-2023-49052 ()
