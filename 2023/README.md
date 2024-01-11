@@ -242,6 +242,7 @@
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-Ofbiz">
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">
 - [vulncheck-oss/cve-2023-51467](https://github.com/vulncheck-oss/cve-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2023-51467">
+- [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 
 ---
 ## CVE-2023-51385 (2023-12-18T19:15:00)
@@ -660,6 +661,7 @@ Users are recommended to upgrade to version 18.12.10
 - [UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz](https://github.com/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-49070-and-CVE-2023-51467-Apache-OFBiz">
 - [D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/D0g3-8Bit/OFBiz-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/D0g3-8Bit/OFBiz-Attack">
 - [jakabakos/Apache-OFBiz-Authentication-Bypass](https://github.com/jakabakos/Apache-OFBiz-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/Apache-OFBiz-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/Apache-OFBiz-Authentication-Bypass">
+- [yukselberkay/CVE-2023-49070_CVE-2023-51467](https://github.com/yukselberkay/CVE-2023-49070_CVE-2023-51467)	<img alt="forks" src="https://img.shields.io/github/forks/yukselberkay/CVE-2023-49070_CVE-2023-51467">	<img alt="stars" src="https://img.shields.io/github/stars/yukselberkay/CVE-2023-49070_CVE-2023-51467">
 
 ---
 ## CVE-2023-49052 ()
