@@ -1,6 +1,16 @@
 # 2024 List
 
 ---
+## CVE-2024-23200 ()
+> 
+- [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-23200">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-23200">
+
+---
+## CVE-2024-23199 ()
+> 
+- [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-23199">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-23199">
+
+---
 ## CVE-2024-21887 ()
 > 
 - [oways/ivanti-CVE-2024-21887](https://github.com/oways/ivanti-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/oways/ivanti-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/oways/ivanti-CVE-2024-21887">
