@@ -6304,6 +6304,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">
 - [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23397">
 - [ducnorth2712/CVE-2023-23397](https://github.com/ducnorth2712/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/ducnorth2712/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/ducnorth2712/CVE-2023-23397">
+- [yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397](https://github.com/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
