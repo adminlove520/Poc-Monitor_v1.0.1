@@ -987,6 +987,7 @@ Users are recommended to upgrade to version 18.12.10
 - [duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/duy-31/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/duy-31/CVE-2023-46805_CVE-2024-21887">
 - [TheRedDevil1/Check-Vulns-Script](https://github.com/TheRedDevil1/Check-Vulns-Script)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/Check-Vulns-Script">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/Check-Vulns-Script">
 - [raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887](https://github.com/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/raminkarimkhani1996/CVE-2023-46805_CVE-2024-21887">
+- [seajaysec/Ivanti-Connect-Around-Scan](https://github.com/seajaysec/Ivanti-Connect-Around-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/seajaysec/Ivanti-Connect-Around-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/seajaysec/Ivanti-Connect-Around-Scan">
 
 ---
 ## CVE-2023-46747 (2023-10-26T21:15:00)
