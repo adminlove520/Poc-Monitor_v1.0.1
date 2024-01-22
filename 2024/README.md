@@ -1,6 +1,11 @@
 # 2024 List
 
 ---
+## CVE-2024-33333 ()
+> 
+- [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
+
+---
 ## CVE-2024-23200 ()
 > 
 - [l00neyhacker/CVE-2024-23200](https://github.com/l00neyhacker/CVE-2024-23200)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-23200">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-23200">
