@@ -426,6 +426,7 @@
 ## CVE-2018-5158 (2018-06-11T21:29:00)
 > The PDF viewer does not sufficiently sanitize PostScript calculator functions, allowing malicious JavaScript to be injected through a crafted PDF file. This JavaScript can then be run with the permissions of the PDF viewer by its worker. This vulnerability affects Firefox ESR < 52.8 and Firefox < 60.
 - [puzzle-tools/-CVE-2018-5158.pdf](https://github.com/puzzle-tools/-CVE-2018-5158.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/puzzle-tools/-CVE-2018-5158.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/puzzle-tools/-CVE-2018-5158.pdf">
+- [ppcrab/CVE-2018-5158](https://github.com/ppcrab/CVE-2018-5158)	<img alt="forks" src="https://img.shields.io/github/forks/ppcrab/CVE-2018-5158">	<img alt="stars" src="https://img.shields.io/github/stars/ppcrab/CVE-2018-5158">
 
 ---
 ## CVE-2018-4937 (2018-05-19T17:29:00)
