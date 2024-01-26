@@ -27,6 +27,16 @@
 - [jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3314-3315">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3314-3315">
 
 ---
+## CVE-2024-23747 ()
+> 
+- [louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23747">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23747">
+
+---
+## CVE-2024-23746 ()
+> 
+- [louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23746">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23746">
+
+---
 ## CVE-2024-23745 ()
 > 
 - [louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745)	<img alt="forks" src="https://img.shields.io/github/forks/louiselalanne/CVE-2024-23745">	<img alt="stars" src="https://img.shields.io/github/stars/louiselalanne/CVE-2024-23745">
