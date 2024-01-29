@@ -21,6 +21,21 @@
 - [xiaoqiao147/CVE-2024-33333](https://github.com/xiaoqiao147/CVE-2024-33333)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-33333">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-33333">
 
 ---
+## CVE-2024-24206 ()
+> 
+- [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24206">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24206">
+
+---
+## CVE-2024-24204 ()
+> 
+- [l00neyhacker/CVE-2024-24204](https://github.com/l00neyhacker/CVE-2024-24204)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24204">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24204">
+
+---
+## CVE-2024-24203 ()
+> 
+- [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24203">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24203">
+
+---
 ## CVE-2024-23897 (2024-01-24T18:15:00)
 > Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.
 - [forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0127/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0127/CVE-2024-23897">
@@ -118,6 +133,21 @@
 ## CVE-2024-22889 ()
 > 
 - [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-22889-Plone-v6.0.9">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-22889-Plone-v6.0.9">
+
+---
+## CVE-2024-22678 ()
+> 
+- [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22678">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22678">
+
+---
+## CVE-2024-22676 ()
+> 
+- [l00neyhacker/CVE-2024-22676](https://github.com/l00neyhacker/CVE-2024-22676)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22676">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22676">
+
+---
+## CVE-2024-22675 ()
+> 
+- [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22675">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22675">
 
 ---
 ## CVE-2024-22534 ()
