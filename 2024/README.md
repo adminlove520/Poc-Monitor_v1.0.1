@@ -36,6 +36,16 @@
 - [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24203">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24203">
 
 ---
+## CVE-2024-24137 ()
+> 
+- [BurakSevben/CVE-2024-24137](https://github.com/BurakSevben/CVE-2024-24137)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24137">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24137">
+
+---
+## CVE-2024-24136 (2024-01-29T20:15:00)
+> The 'Your Name' field in the Submit Score section of Sourcecodester Math Game with Leaderboard v1.0 is vulnerable to Cross-Site Scripting (XSS) attacks.
+- [BurakSevben/CVE-2024-24136](https://github.com/BurakSevben/CVE-2024-24136)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24136">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24136">
+
+---
 ## CVE-2024-24135 (2024-01-29T19:15:00)
 > Product Name and Product Code in the 'Add Product' section of Sourcecodester Product Inventory with Export to Excel 1.0 are vulnerable to XSS attacks.
 - [BurakSevben/CVE-2024-24135](https://github.com/BurakSevben/CVE-2024-24135)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24135">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24135">
