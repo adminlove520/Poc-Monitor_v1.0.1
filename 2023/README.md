@@ -1388,6 +1388,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [JC175/CVE-2023-44353-Nuclei-Template](https://github.com/JC175/CVE-2023-44353-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/JC175/CVE-2023-44353-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/JC175/CVE-2023-44353-Nuclei-Template">
 
 ---
+## CVE-2023-4427 (2023-08-23T00:15:00)
+> Out of bounds memory access in V8 in Google Chrome prior to 116.0.5845.110 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chromium security severity: High)
+- [tianstcht/CVE-2023-4427](https://github.com/tianstcht/CVE-2023-4427)	<img alt="forks" src="https://img.shields.io/github/forks/tianstcht/CVE-2023-4427">	<img alt="stars" src="https://img.shields.io/github/stars/tianstcht/CVE-2023-4427">
+
+---
 ## CVE-2023-44268 (2023-10-26T23:15:00)
 > Online Art Gallery v1.0 is vulnerable to multiple Unauthenticated SQL Injection vulnerabilities. The 'gender' parameter of the header.php resource does not validate the characters received and they are sent unfiltered to the database.
 
