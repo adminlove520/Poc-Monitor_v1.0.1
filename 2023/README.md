@@ -842,6 +842,7 @@ Users are recommended to upgrade to version 18.12.10
 - [caoweiquan322/NotEnough](https://github.com/caoweiquan322/NotEnough)	<img alt="forks" src="https://img.shields.io/github/forks/caoweiquan322/NotEnough">	<img alt="stars" src="https://img.shields.io/github/stars/caoweiquan322/NotEnough">
 - [LiveOverflow/webp-CVE-2023-4863](https://github.com/LiveOverflow/webp-CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/LiveOverflow/webp-CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/LiveOverflow/webp-CVE-2023-4863">
 - [Microsvuln/CVE-2023-4863](https://github.com/Microsvuln/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/Microsvuln/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/Microsvuln/CVE-2023-4863">
+- [alsaeroth/CVE-2023-4863-POC](https://github.com/alsaeroth/CVE-2023-4863-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alsaeroth/CVE-2023-4863-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alsaeroth/CVE-2023-4863-POC">
 
 ---
 ## CVE-2023-48200 ()
@@ -6481,6 +6482,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Pushkarup/CVE-2023-23397](https://github.com/Pushkarup/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Pushkarup/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Pushkarup/CVE-2023-23397">
 - [ducnorth2712/CVE-2023-23397](https://github.com/ducnorth2712/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/ducnorth2712/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/ducnorth2712/CVE-2023-23397">
 - [yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397](https://github.com/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/yanfernandess/Outlook-NTLM-Leak-CVE-2023-23397">
+- [alsaeroth/CVE-2023-23397-POC](https://github.com/alsaeroth/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/alsaeroth/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/alsaeroth/CVE-2023-23397-POC">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
