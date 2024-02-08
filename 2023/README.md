@@ -800,8 +800,8 @@ Users are recommended to upgrade to version 18.12.10
 - [tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981)	<img alt="forks" src="https://img.shields.io/github/forks/tristao-marinho/CVE-2023-48981">	<img alt="stars" src="https://img.shields.io/github/stars/tristao-marinho/CVE-2023-48981">
 
 ---
-## CVE-2023-48974 ()
-> 
+## CVE-2023-48974 (2024-02-08T01:15:00)
+> Cross Site Scripting vulnerability in Axigen WebMail v.10.5.7 and before allows a remote attacker to escalate privileges via a crafted script to the serverName_input parameter.
 - [vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974)	<img alt="forks" src="https://img.shields.io/github/forks/vinnie1717/CVE-2023-48974">	<img alt="stars" src="https://img.shields.io/github/stars/vinnie1717/CVE-2023-48974">
 
 ---
@@ -3886,6 +3886,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-30547 (2023-04-17T22:15:00)
 > vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. There exists a vulnerability in exception sanitization of vm2 for versions up to 3.9.16, allowing attackers to raise an unsanitized host exception inside `handleException()` which can be used to escape the sandbox and run arbitrary code in host context. This vulnerability was patched in the release of version `3.9.17` of `vm2`. There are no known workarounds for this vulnerability. Users are advised to upgrade.
 - [rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-30547">
+- [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/user0x1337/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/user0x1337/CVE-2023-30547">
 
 ---
 ## CVE-2023-30533 (2023-04-24T08:15:00)
