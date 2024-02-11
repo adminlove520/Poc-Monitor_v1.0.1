@@ -269,6 +269,11 @@
 - [shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-22889-Plone-v6.0.9">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-22889-Plone-v6.0.9">
 
 ---
+## CVE-2024-22867 ()
+> 
+- [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
+
+---
 ## CVE-2024-22678 ()
 > 
 - [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22678">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22678">
