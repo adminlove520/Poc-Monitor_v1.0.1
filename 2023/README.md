@@ -420,6 +420,7 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 ## CVE-2023-51000 ()
 > 
 - [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000)	<img alt="forks" src="https://img.shields.io/github/forks/Team-Byerus/CVE-2023-51000">	<img alt="stars" src="https://img.shields.io/github/stars/Team-Byerus/CVE-2023-51000">
+- [Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000)	<img alt="forks" src="https://img.shields.io/github/forks/Team-Byerus/CVE-2023-51000">	<img alt="stars" src="https://img.shields.io/github/stars/Team-Byerus/CVE-2023-51000">
 
 ---
 ## CVE-2023-50917 (2023-12-15T17:15:00)
@@ -1099,8 +1100,10 @@ Undisclosed requests may bypass configuration utility authentication, allowing a
 - [vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/cve-2023-46747">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/cve-2023-46747">
 
 ---
-## CVE-2023-46615 ()
-> 
+## CVE-2023-46615 (2024-02-12T09:15:00)
+> Deserialization of Untrusted Data vulnerability in Kalli Dan. KD Coming Soon.This issue affects KD Coming Soon: from n/a through 1.7.
+
+
 - [RandomRobbieBF/CVE-2023-46615](https://github.com/RandomRobbieBF/CVE-2023-46615)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-46615">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-46615">
 
 ---
