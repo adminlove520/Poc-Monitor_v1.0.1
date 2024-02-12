@@ -289,6 +289,11 @@
 - [l00neyhacker/CVE-2024-22675](https://github.com/l00neyhacker/CVE-2024-22675)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22675">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22675">
 
 ---
+## CVE-2024-22567 (2024-02-05T20:15:00)
+> File Upload vulnerability in MCMS 5.3.5 allows attackers to upload arbitrary files via crafted POST request to /ms/file/upload.do.
+- [labesterOct/CVE-2024-22567](https://github.com/labesterOct/CVE-2024-22567)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22567">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22567">
+
+---
 ## CVE-2024-22534 ()
 > 
 - [austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)	<img alt="forks" src="https://img.shields.io/github/forks/austino2000/CVE-2024-22534">	<img alt="stars" src="https://img.shields.io/github/stars/austino2000/CVE-2024-22534">
