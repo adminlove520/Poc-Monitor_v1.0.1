@@ -71,8 +71,8 @@
 - [l00neyhacker/CVE-2024-24203](https://github.com/l00neyhacker/CVE-2024-24203)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24203">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24203">
 
 ---
-## CVE-2024-24142 ()
-> 
+## CVE-2024-24142 (2024-02-13T21:15:00)
+> Sourcecodester School Task Manager 1.0 allows SQL Injection via the 'subject' parameter.
 - [BurakSevben/CVE-2024-24142](https://github.com/BurakSevben/CVE-2024-24142)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-24142">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-24142">
 
 ---
