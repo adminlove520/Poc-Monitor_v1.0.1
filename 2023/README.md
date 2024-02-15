@@ -9715,6 +9715,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/pulse-meter">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/pulse-meter">
 
 ---
+## CVE-2023-2023 (2023-05-30T08:15:00)
+> The Custom 404 Pro WordPress plugin before 3.7.3 does not escape some URLs before outputting them in attributes, leading to Reflected Cross-Site Scripting.
+- [druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation](https://github.com/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation">
+
+---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
 > A vulnerability in the web-based management interface of Cisco Expressway Series and Cisco TelePresence Video Communication Server (VCS) could allow an authenticated, remote attacker with read-write privileges on the application to perform a command injection attack that could result in remote code execution on an affected device.
  This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to the web-based management interface of an affected device. A successful exploit could allow the attacker to establish a remote shell with root privileges.
