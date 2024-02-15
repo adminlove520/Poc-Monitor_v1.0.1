@@ -56,8 +56,8 @@
 - [trustcves/CVE-2024-24396](https://github.com/trustcves/CVE-2024-24396)	<img alt="forks" src="https://img.shields.io/github/forks/trustcves/CVE-2024-24396">	<img alt="stars" src="https://img.shields.io/github/stars/trustcves/CVE-2024-24396">
 
 ---
-## CVE-2024-24386 ()
-> 
+## CVE-2024-24386 (2024-02-15T08:15:00)
+> An issue in VitalPBX v.3.2.4-5 allows an attacker to execute arbitrary code via a crafted payload to the /var/lib/vitalpbx/scripts folder.
 - [erick-duarte/CVE-2024-24386](https://github.com/erick-duarte/CVE-2024-24386)	<img alt="forks" src="https://img.shields.io/github/forks/erick-duarte/CVE-2024-24386">	<img alt="stars" src="https://img.shields.io/github/stars/erick-duarte/CVE-2024-24386">
 
 ---
@@ -166,6 +166,7 @@
 - [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/kaanatmacaa/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/kaanatmacaa/CVE-2024-23897">
 - [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
 - [B4CK4TT4CK/CVE-2024-23897](https://github.com/B4CK4TT4CK/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/B4CK4TT4CK/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/B4CK4TT4CK/CVE-2024-23897">
+- [abdomagdy0/CVE-2024-23897-htb](https://github.com/abdomagdy0/CVE-2024-23897-htb)	<img alt="forks" src="https://img.shields.io/github/forks/abdomagdy0/CVE-2024-23897-htb">	<img alt="stars" src="https://img.shields.io/github/stars/abdomagdy0/CVE-2024-23897-htb">
 
 ---
 ## CVE-2024-23774 ()
