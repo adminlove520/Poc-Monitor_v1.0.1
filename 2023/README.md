@@ -9759,6 +9759,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [abrahim7112/hackers_CVE_2023_poc](https://github.com/abrahim7112/hackers_CVE_2023_poc)	<img alt="forks" src="https://img.shields.io/github/forks/abrahim7112/hackers_CVE_2023_poc">	<img alt="stars" src="https://img.shields.io/github/stars/abrahim7112/hackers_CVE_2023_poc">
 - [Microsvuln/CVE-2023-4863](https://github.com/Microsvuln/CVE-2023-4863)	<img alt="forks" src="https://img.shields.io/github/forks/Microsvuln/CVE-2023-4863">	<img alt="stars" src="https://img.shields.io/github/stars/Microsvuln/CVE-2023-4863">
 - [imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2023-36845">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2023-36845">
+- [Trackflaw/CVE-2023-25203](https://github.com/Trackflaw/CVE-2023-25203)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-25203">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-25203">
+- [Trackflaw/CVE-2023-25202](https://github.com/Trackflaw/CVE-2023-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Trackflaw/CVE-2023-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Trackflaw/CVE-2023-25202">
 
 ---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
