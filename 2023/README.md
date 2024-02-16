@@ -2218,6 +2218,7 @@ URL that curl has been told to operate with.
 - [snowcra5h/CVE-2023-38408](https://github.com/snowcra5h/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/snowcra5h/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/snowcra5h/CVE-2023-38408">
 - [kali-mx/CVE-2023-38408](https://github.com/kali-mx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/kali-mx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/kali-mx/CVE-2023-38408">
 - [LucasPDiniz/CVE-2023-38408](https://github.com/LucasPDiniz/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2023-38408">
+- [wxrdnx/CVE-2023-38408](https://github.com/wxrdnx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/wxrdnx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/wxrdnx/CVE-2023-38408">
 
 ---
 ## CVE-2023-38389 ()
@@ -9765,6 +9766,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/M54S/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
+- [wxrdnx/CVE-2023-38408](https://github.com/wxrdnx/CVE-2023-38408)	<img alt="forks" src="https://img.shields.io/github/forks/wxrdnx/CVE-2023-38408">	<img alt="stars" src="https://img.shields.io/github/stars/wxrdnx/CVE-2023-38408">
 
 ---
 ## CVE-2023-20209 (2023-08-16T21:15:00)
