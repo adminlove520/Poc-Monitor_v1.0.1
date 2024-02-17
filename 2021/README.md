@@ -909,6 +909,7 @@
 - [Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/Checkdos/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [scabench/l4j-fp1](https://github.com/scabench/l4j-fp1)	<img alt="forks" src="https://img.shields.io/github/forks/scabench/l4j-fp1">	<img alt="stars" src="https://img.shields.io/github/stars/scabench/l4j-fp1">
 - [scabench/l4j-tp1](https://github.com/scabench/l4j-tp1)	<img alt="forks" src="https://img.shields.io/github/forks/scabench/l4j-tp1">	<img alt="stars" src="https://img.shields.io/github/stars/scabench/l4j-tp1">
+- [ItsCbass/CVE-2021-44228](https://github.com/ItsCbass/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/ItsCbass/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/ItsCbass/CVE-2021-44228">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
