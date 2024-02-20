@@ -1397,6 +1397,18 @@
 - [UmVfX1BvaW50/CVE-2017-13286](https://github.com/UmVfX1BvaW50/CVE-2017-13286)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2017-13286">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2017-13286">
 
 ---
+## CVE-2017-13156 (2017-12-06T14:29:00)
+> An elevation of privilege vulnerability in the Android system (art). Product: Android. Versions: 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID A-64211847.
+- [nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit](https://github.com/nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit">
+- [entediado97/rosa_dex_injetor](https://github.com/entediado97/rosa_dex_injetor)	<img alt="forks" src="https://img.shields.io/github/forks/entediado97/rosa_dex_injetor">	<img alt="stars" src="https://img.shields.io/github/stars/entediado97/rosa_dex_injetor">
+- [ppapadatis/python-janus-vulnerability-scan](https://github.com/ppapadatis/python-janus-vulnerability-scan)	<img alt="forks" src="https://img.shields.io/github/forks/ppapadatis/python-janus-vulnerability-scan">	<img alt="stars" src="https://img.shields.io/github/stars/ppapadatis/python-janus-vulnerability-scan">
+- [M507/CVE-2017-13156](https://github.com/M507/CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2017-13156">
+- [tea9/CVE-2017-13156-Janus](https://github.com/tea9/CVE-2017-13156-Janus)	<img alt="forks" src="https://img.shields.io/github/forks/tea9/CVE-2017-13156-Janus">	<img alt="stars" src="https://img.shields.io/github/stars/tea9/CVE-2017-13156-Janus">
+- [giacomoferretti/janus-toolkit](https://github.com/giacomoferretti/janus-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/giacomoferretti/janus-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/giacomoferretti/janus-toolkit">
+- [caxmd/CVE-2017-13156](https://github.com/caxmd/CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/caxmd/CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/caxmd/CVE-2017-13156">
+- [xyzAsian/Janus-CVE-2017-13156](https://github.com/xyzAsian/Janus-CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/xyzAsian/Janus-CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/xyzAsian/Janus-CVE-2017-13156">
+
+---
 ## CVE-2017-12621 (2017-09-28T01:29:00)
 > During Jelly (xml) file parsing with Apache Xerces, if a custom doctype entity is declared with a "SYSTEM" entity with a URL and that entity is used in the body of the Jelly file, during parser instantiation the parser will attempt to connect to said URL. This could lead to XML External Entity (XXE) attacks in Apache Commons Jelly before 1.0.1.
 - [Live-Hack-CVE/CVE-2017-12621](https://github.com/Live-Hack-CVE/CVE-2017-12621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12621">
