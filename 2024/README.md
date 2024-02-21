@@ -457,6 +457,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
 
 ---
+## CVE-2024-22243 ()
+> 
+- [SeanPesce/CVE-2024-22243](https://github.com/SeanPesce/CVE-2024-22243)	<img alt="forks" src="https://img.shields.io/github/forks/SeanPesce/CVE-2024-22243">	<img alt="stars" src="https://img.shields.io/github/stars/SeanPesce/CVE-2024-22243">
+
+---
 ## CVE-2024-22222 (2024-02-12T19:15:00)
 > 
 Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerability within its svc_udoctor utility. An authenticated malicious user with local access could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application's underlying OS, with the privileges of the vulnerable application.
