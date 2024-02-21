@@ -585,6 +585,15 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [xiaoqiao147/CVE-2024-20654](https://github.com/xiaoqiao147/CVE-2024-20654)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-20654">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-20654">
 
 ---
+## CVE-2024-1708 (2024-02-21T16:15:00)
+> ConnectWise ScreenConnect 23.9.7 and prior are affected by path-traversal vulnerability, which may allow an attacker 
+
+the ability to execute remote code or directly impact confidential data or critical systems.
+
+
+- [W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE](https://github.com/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE">
+
+---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
