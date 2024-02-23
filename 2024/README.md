@@ -610,6 +610,18 @@ the ability to execute remote code or directly impact confidential data or criti
 - [W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE](https://github.com/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/ScreenConnect-CVE-2024-1708-1709-RCE">
 
 ---
+## CVE-2024-1651 (2024-02-20T00:15:00)
+> Torrentpier version 2.4.1 allows executing arbitrary commands on the server.
+
+This is possible because the application is vulnerable to insecure deserialization.
+
+
+
+
+
+- [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sharpicx/CVE-2024-1651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sharpicx/CVE-2024-1651-PoC">
+
+---
 ## CVE-2024-1269 (2024-02-07T02:15:00)
 > A vulnerability has been found in SourceCodester Product Management System 1.0 and classified as problematic. This vulnerability affects unknown code of the file /supplier.php. The manipulation of the argument supplier_name/supplier_contact leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-253012.
 - [sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)	<img alt="forks" src="https://img.shields.io/github/forks/sajaljat/CVE-2024-1269">	<img alt="stars" src="https://img.shields.io/github/stars/sajaljat/CVE-2024-1269">
