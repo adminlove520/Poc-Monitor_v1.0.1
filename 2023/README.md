@@ -2078,6 +2078,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 ## CVE-2023-39320 (2023-09-08T17:15:00)
 > The go.mod toolchain directive, introduced in Go 1.21, can be leveraged to execute scripts and binaries relative to the root of the module when the "go" command was executed within the module. This applies to modules downloaded using the "go" command from the module proxy, as well as modules downloaded directly using VCS software.
 - [stogaru/cve-2023-39320-exploit](https://github.com/stogaru/cve-2023-39320-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/stogaru/cve-2023-39320-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/stogaru/cve-2023-39320-exploit">
+- [ayrustogaru/cve-2023-39320](https://github.com/ayrustogaru/cve-2023-39320)	<img alt="forks" src="https://img.shields.io/github/forks/ayrustogaru/cve-2023-39320">	<img alt="stars" src="https://img.shields.io/github/stars/ayrustogaru/cve-2023-39320">
 
 ---
 ## CVE-2023-39144 (2023-08-03T03:15:00)
