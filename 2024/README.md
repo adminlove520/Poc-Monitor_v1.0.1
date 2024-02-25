@@ -219,6 +219,16 @@
 - [ASR511-OO7/CVE-2024-24101](https://github.com/ASR511-OO7/CVE-2024-24101)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24101">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24101">
 
 ---
+## CVE-2024-24100 ()
+> 
+- [ASR511-OO7/CVE-2024-24100](https://github.com/ASR511-OO7/CVE-2024-24100)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24100">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24100">
+
+---
+## CVE-2024-24099 ()
+> 
+- [ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24099">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24099">
+
+---
 ## CVE-2024-24098 ()
 > 
 - [ASR511-OO7/CVE-2024-24098](https://github.com/ASR511-OO7/CVE-2024-24098)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24098">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24098">
@@ -227,6 +237,16 @@
 ## CVE-2024-24097 ()
 > 
 - [ASR511-OO7/CVE-2024-24097](https://github.com/ASR511-OO7/CVE-2024-24097)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24097">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24097">
+
+---
+## CVE-2024-24096 ()
+> 
+- [ASR511-OO7/CVE-2024-24096](https://github.com/ASR511-OO7/CVE-2024-24096)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24096">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24096">
+
+---
+## CVE-2024-24095 ()
+> 
+- [ASR511-OO7/CVE-2024-24095](https://github.com/ASR511-OO7/CVE-2024-24095)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24095">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24095">
 
 ---
 ## CVE-2024-24094 ()
