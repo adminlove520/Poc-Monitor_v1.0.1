@@ -404,6 +404,11 @@
 - [keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22922">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22922">
 
 ---
+## CVE-2024-22917 ()
+> 
+- [ASR511-OO7/CVE-2024-22917](https://github.com/ASR511-OO7/CVE-2024-22917)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-22917">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-22917">
+
+---
 ## CVE-2024-22909 ()
 > 
 - [BurakSevben/CVE-2024-22909](https://github.com/BurakSevben/CVE-2024-22909)	<img alt="forks" src="https://img.shields.io/github/forks/BurakSevben/CVE-2024-22909">	<img alt="stars" src="https://img.shields.io/github/stars/BurakSevben/CVE-2024-22909">
