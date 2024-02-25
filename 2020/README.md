@@ -1751,6 +1751,11 @@
 - [Live-Hack-CVE/CVE-2020-3499](https://github.com/Live-Hack-CVE/CVE-2020-3499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3499">
 
 ---
+## CVE-2020-3452 ()
+> 
+- [imhunterand/CVE-2020-3452](https://github.com/imhunterand/CVE-2020-3452)	<img alt="forks" src="https://img.shields.io/github/forks/imhunterand/CVE-2020-3452">	<img alt="stars" src="https://img.shields.io/github/stars/imhunterand/CVE-2020-3452">
+
+---
 ## CVE-2020-3299 (2020-10-21T19:15:00)
 > Multiple Cisco products are affected by a vulnerability in the Snort detection engine that could allow an unauthenticated, remote attacker to bypass a configured File Policy for HTTP. The vulnerability is due to incorrect detection of modified HTTP packets used in chunked responses. An attacker could exploit this vulnerability by sending crafted HTTP packets through an affected device. A successful exploit could allow the attacker to bypass a configured File Policy for HTTP packets and deliver a malicious payload.
 - [Live-Hack-CVE/CVE-2020-3299](https://github.com/Live-Hack-CVE/CVE-2020-3299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3299">
