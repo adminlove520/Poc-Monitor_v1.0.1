@@ -616,6 +616,11 @@
 - [Live-Hack-CVE/CVE-2017-2926](https://github.com/Live-Hack-CVE/CVE-2017-2926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2926">
 
 ---
+## CVE-2017-2903 (2018-04-24T19:29:00)
+> An exploitable integer overflow exists in the DPX loading functionality of the Blender open-source 3d creation suite version 2.78c. A specially crafted '.cin' file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can convince a user to use the file as an asset via the sequencer in order to trigger this vulnerability.
+- [SpiralBL0CK/dpx_work_CVE-2017-2903](https://github.com/SpiralBL0CK/dpx_work_CVE-2017-2903)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/dpx_work_CVE-2017-2903">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/dpx_work_CVE-2017-2903">
+
+---
 ## CVE-2017-2820 (2017-07-12T17:29:00)
 > An exploitable integer overflow vulnerability exists in the JPEG 2000 image parsing functionality of freedesktop.org Poppler 0.53.0. A specially crafted PDF file can lead to an integer overflow causing out of bounds memory overwrite on the heap resulting in potential arbitrary code execution. To trigger this vulnerability, a victim must open the malicious PDF in an application using this library.
 - [Live-Hack-CVE/CVE-2017-2820](https://github.com/Live-Hack-CVE/CVE-2017-2820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2820">
