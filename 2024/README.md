@@ -114,18 +114,18 @@
 - [intbjw/CVE-2024-25249](https://github.com/intbjw/CVE-2024-25249)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2024-25249">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2024-25249">
 
 ---
-## CVE-2024-25202 ()
-> 
+## CVE-2024-25202 (2024-02-28T20:15:00)
+> Cross Site Scripting vulnerability in Phpgurukul User Registration & Login and User Management System 1.0 allows attackers to run arbitrary code via the search bar.
 - [Agampreet-Singh/CVE-2024-25202](https://github.com/Agampreet-Singh/CVE-2024-25202)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-25202">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-25202">
 
 ---
-## CVE-2024-25170 ()
-> 
+## CVE-2024-25170 (2024-02-28T20:15:00)
+> An issue in Mezzanine v6.0.0 allows attackers to bypass access controls via manipulating the Host header.
 - [shenhav12/CVE-2024-25170-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0">
 
 ---
-## CVE-2024-25169 ()
-> 
+## CVE-2024-25169 (2024-02-28T20:15:00)
+> An issue in Mezzanine v6.0.0 allows attackers to bypass access control mechanisms in the admin panel via a crafted request.
 - [shenhav12/CVE-2024-25169-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0)	<img alt="forks" src="https://img.shields.io/github/forks/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0">	<img alt="stars" src="https://img.shields.io/github/stars/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0">
 
 ---
@@ -402,6 +402,11 @@
 ## CVE-2024-23738 (2024-01-28T01:15:00)
 > An issue in Postman version 10.22 and before on macOS allows a remote attacker to execute arbitrary code via the RunAsNode and enableNodeClilnspectArguments settings.
 - [V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)	<img alt="forks" src="https://img.shields.io/github/forks/V3x0r/CVE-2024-23738">	<img alt="stars" src="https://img.shields.io/github/stars/V3x0r/CVE-2024-23738">
+
+---
+## CVE-2024-23334 (2024-01-29T23:15:00)
+> aiohttp is an asynchronous HTTP client/server framework for asyncio and Python. When using aiohttp as a web server and configuring static routes, it is necessary to specify the root path for static files. Additionally, the option 'follow_symlinks' can be used to determine whether to follow symbolic links outside the static root directory. When 'follow_symlinks' is set to True, there is no validation to check if reading a file is within the root directory. This can lead to directory traversal vulnerabilities, resulting in unauthorized access to arbitrary files on the system, even when symlinks are not present.  Disabling follow_symlinks and using a reverse proxy are encouraged mitigations.  Version 3.9.2 fixes this issue.
+- [ox1111/CVE-2024-23334](https://github.com/ox1111/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/CVE-2024-23334">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
