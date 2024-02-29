@@ -429,8 +429,8 @@
 - [l00neyhacker/CVE-2024-23199](https://github.com/l00neyhacker/CVE-2024-23199)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-23199">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-23199">
 
 ---
-## CVE-2024-22983 ()
-> 
+## CVE-2024-22983 (2024-02-28T22:15:00)
+> SQL injection vulnerability in Projectworlds Visitor Management System in PHP v.1.0 allows a remote attacker to escalate privileges via the name parameter in the myform.php endpoint.
 - [keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)	<img alt="forks" src="https://img.shields.io/github/forks/keru6k/CVE-2024-22983">	<img alt="stars" src="https://img.shields.io/github/stars/keru6k/CVE-2024-22983">
 
 ---
