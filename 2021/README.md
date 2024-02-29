@@ -5609,6 +5609,12 @@
 - [nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2021-3347">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2021-3347">
 
 ---
+## CVE-2021-3345 (2021-01-29T15:15:00)
+> _gcry_md_block_write in cipher/hash-common.c in Libgcrypt version 1.9.0 has a heap-based buffer overflow when the digest final function sets a large count value. It is recommended to upgrade to 1.9.1 or later.
+- [SpiralBL0CK/CVE-2021-3345](https://github.com/SpiralBL0CK/CVE-2021-3345)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2021-3345">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2021-3345">
+- [MLGRadish/CVE-2021-3345](https://github.com/MLGRadish/CVE-2021-3345)	<img alt="forks" src="https://img.shields.io/github/forks/MLGRadish/CVE-2021-3345">	<img alt="stars" src="https://img.shields.io/github/stars/MLGRadish/CVE-2021-3345">
+
+---
 ## CVE-2021-33396 (2023-02-15T22:15:00)
 > Cross Site Request Forgery (CSRF) vulnerability in baijiacms 4.1.4, allows attackers to change the password or other information of an arbitrary account via index.php.
 - [Live-Hack-CVE/CVE-2021-33396](https://github.com/Live-Hack-CVE/CVE-2021-33396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33396">
