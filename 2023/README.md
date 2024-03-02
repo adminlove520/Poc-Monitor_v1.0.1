@@ -5807,6 +5807,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24377](https://github.com/Live-Hack-CVE/CVE-2023-24377)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24377">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24377">
 
 ---
+## CVE-2023-2437 ()
+> 
+- [RxRCoder/CVE-2023-2437](https://github.com/RxRCoder/CVE-2023-2437)	<img alt="forks" src="https://img.shields.io/github/forks/RxRCoder/CVE-2023-2437">	<img alt="stars" src="https://img.shields.io/github/stars/RxRCoder/CVE-2023-2437">
+
+---
 ## CVE-2023-24352 (2023-02-10T15:15:00)
 > D-Link N300 WI-FI Router DIR-605L v2.13B01 was discovered to contain a stack overflow via the webpage parameter at /goform/formWPS.
 - [Live-Hack-CVE/CVE-2023-24352](https://github.com/Live-Hack-CVE/CVE-2023-24352)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24352">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24352">
