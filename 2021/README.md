@@ -1056,7 +1056,7 @@
 - [halencarjunior/grafana-CVE-2021-43798](https://github.com/halencarjunior/grafana-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/halencarjunior/grafana-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/halencarjunior/grafana-CVE-2021-43798">
 - [gps1949/CVE-2021-43798](https://github.com/gps1949/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/gps1949/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/gps1949/CVE-2021-43798">
 - [ScorpionsMAX/CVE-2021-43798-Grafana-POC](https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ScorpionsMAX/CVE-2021-43798-Grafana-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ScorpionsMAX/CVE-2021-43798-Grafana-POC">
-- [faaaany/Grafana-CVE-2021-43798Exp](https://github.com/faaaany/Grafana-CVE-2021-43798Exp)	<img alt="forks" src="https://img.shields.io/github/forks/faaaany/Grafana-CVE-2021-43798Exp">	<img alt="stars" src="https://img.shields.io/github/stars/faaaany/Grafana-CVE-2021-43798Exp">
+- [fanygit/Grafana-CVE-2021-43798Exp](https://github.com/fanygit/Grafana-CVE-2021-43798Exp)	<img alt="forks" src="https://img.shields.io/github/forks/fanygit/Grafana-CVE-2021-43798Exp">	<img alt="stars" src="https://img.shields.io/github/stars/fanygit/Grafana-CVE-2021-43798Exp">
 - [s1gh/CVE-2021-43798](https://github.com/s1gh/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/s1gh/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/s1gh/CVE-2021-43798">
 - [MzzdToT/Grafana_fileread](https://github.com/MzzdToT/Grafana_fileread)	<img alt="forks" src="https://img.shields.io/github/forks/MzzdToT/Grafana_fileread">	<img alt="stars" src="https://img.shields.io/github/stars/MzzdToT/Grafana_fileread">
 - [Ryze-T/CVE-2021-43798](https://github.com/Ryze-T/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Ryze-T/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Ryze-T/CVE-2021-43798">
@@ -1087,6 +1087,7 @@
 - [katseyres2/CVE-2021-43798](https://github.com/katseyres2/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/katseyres2/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/katseyres2/CVE-2021-43798">
 - [Iris288/CVE-2021-43798](https://github.com/Iris288/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Iris288/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Iris288/CVE-2021-43798">
 - [wagneralves/CVE-2021-43798](https://github.com/wagneralves/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/wagneralves/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/wagneralves/CVE-2021-43798">
+- [K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-43798-EXPLOIT">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
