@@ -817,8 +817,8 @@ This is possible because the application is vulnerable to insecure deserializati
 - [Agampreet-Singh/CVE-2024-0652](https://github.com/Agampreet-Singh/CVE-2024-0652)	<img alt="forks" src="https://img.shields.io/github/forks/Agampreet-Singh/CVE-2024-0652">	<img alt="stars" src="https://img.shields.io/github/stars/Agampreet-Singh/CVE-2024-0652">
 
 ---
-## CVE-2024-0519 ()
-> 
+## CVE-2024-0519 (2024-01-16T22:15:00)
+> Out of bounds memory access in V8 in Google Chrome prior to 120.0.6099.224 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 - [JohnHormond/CVE-2024-0519-Chrome-exploit](https://github.com/JohnHormond/CVE-2024-0519-Chrome-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHormond/CVE-2024-0519-Chrome-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHormond/CVE-2024-0519-Chrome-exploit">
 
 ---
