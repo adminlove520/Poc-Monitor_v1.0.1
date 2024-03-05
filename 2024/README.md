@@ -505,6 +505,11 @@
 - [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
 
 ---
+## CVE-2024-22752 ()
+> 
+- [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2024-22752">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2024-22752">
+
+---
 ## CVE-2024-22678 ()
 > 
 - [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22678">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22678">
