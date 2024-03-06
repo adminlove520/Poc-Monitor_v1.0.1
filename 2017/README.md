@@ -960,6 +960,11 @@
 - [CN016/WebAccess-CVE-2017-16720-](https://github.com/CN016/WebAccess-CVE-2017-16720-)	<img alt="forks" src="https://img.shields.io/github/forks/CN016/WebAccess-CVE-2017-16720-">	<img alt="stars" src="https://img.shields.io/github/stars/CN016/WebAccess-CVE-2017-16720-">
 
 ---
+## CVE-2017-16651 (2017-11-09T14:29:00)
+> Roundcube Webmail before 1.1.10, 1.2.x before 1.2.7, and 1.3.x before 1.3.3 allows unauthorized access to arbitrary files on the host's filesystem, including configuration files, as exploited in the wild in November 2017. The attacker must be able to authenticate at the target system with a valid username/password as the attack requires an active session. The issue is related to file-based attachment plugins and _task=settings&_action=upload-display&_from=timezone requests.
+- [sephiroth950911/CVE-2017-16651-Exploit](https://github.com/sephiroth950911/CVE-2017-16651-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sephiroth950911/CVE-2017-16651-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sephiroth950911/CVE-2017-16651-Exploit">
+
+---
 ## CVE-2017-16349 (2018-08-02T19:29:00)
 > An exploitable XML external entity vulnerability exists in the reporting functionality of SAP BPC. A specially crafted XML request can cause an XML external entity to be referenced, resulting in information disclosure and potential denial of service. An attacker can issue authenticated HTTP requests to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2017-16349](https://github.com/Live-Hack-CVE/CVE-2017-16349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16349">
