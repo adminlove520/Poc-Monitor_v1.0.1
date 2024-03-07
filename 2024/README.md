@@ -537,8 +537,8 @@
 - [brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)	<img alt="forks" src="https://img.shields.io/github/forks/brandon-t-elliott/CVE-2024-22867">	<img alt="stars" src="https://img.shields.io/github/stars/brandon-t-elliott/CVE-2024-22867">
 
 ---
-## CVE-2024-22752 ()
-> 
+## CVE-2024-22752 (2024-03-07T18:15:00)
+> Insecure permissions issue in EaseUS MobiMover 6.0.5 Build 21620 allows attackers to gain escalated privileges via use of crafted executable launched from the application installation directory.
 - [hacker625/CVE-2024-22752](https://github.com/hacker625/CVE-2024-22752)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2024-22752">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2024-22752">
 
 ---
