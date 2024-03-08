@@ -9536,6 +9536,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-21529 (2023-02-14T20:15:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [Live-Hack-CVE/CVE-2023-21529](https://github.com/Live-Hack-CVE/CVE-2023-21529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21529">
+- [tr1pl3ight/CVE-2023-21529-POC](https://github.com/tr1pl3ight/CVE-2023-21529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tr1pl3ight/CVE-2023-21529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tr1pl3ight/CVE-2023-21529-POC">
 
 ---
 ## CVE-2023-21528 (2023-02-14T20:15:00)
