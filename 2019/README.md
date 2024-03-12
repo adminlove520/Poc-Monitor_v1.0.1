@@ -3033,6 +3033,11 @@
 - [Live-Hack-CVE/CVE-2019-14726](https://github.com/Live-Hack-CVE/CVE-2019-14726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14726">
 
 ---
+## CVE-2019-14678 ()
+> 
+- [mbadanoiu/CVE-2019-14678](https://github.com/mbadanoiu/CVE-2019-14678)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14678">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14678">
+
+---
 ## CVE-2019-14591 (2019-11-14T20:15:00)
 > Improper input validation in the API for Intel(R) Graphics Driver versions before 26.20.100.7209 may allow an authenticated user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2019-14591](https://github.com/Live-Hack-CVE/CVE-2019-14591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14591">
