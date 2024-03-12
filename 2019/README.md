@@ -3033,8 +3033,8 @@
 - [Live-Hack-CVE/CVE-2019-14726](https://github.com/Live-Hack-CVE/CVE-2019-14726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14726">
 
 ---
-## CVE-2019-14678 ()
-> 
+## CVE-2019-14678 (2019-11-14T21:15:00)
+> SAS XML Mapper 9.45 has an XML External Entity (XXE) vulnerability that can be leveraged by malicious attackers in multiple ways. Examples are Local File Reading, Out Of Band File Exfiltration, Server Side Request Forgery, and/or Potential Denial of Service attacks. This vulnerability also affects the XMLV2 LIBNAME engine when the AUTOMAP option is used.
 - [mbadanoiu/CVE-2019-14678](https://github.com/mbadanoiu/CVE-2019-14678)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-14678">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-14678">
 
 ---
