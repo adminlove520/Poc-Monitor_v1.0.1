@@ -172,8 +172,8 @@
 - [ASR511-OO7/CVE-2024-25251](https://github.com/ASR511-OO7/CVE-2024-25251)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25251">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25251">
 
 ---
-## CVE-2024-25250 ()
-> 
+## CVE-2024-25250 (2024-03-13T21:15:00)
+> SQL Injection vulnerability in code-projects Agro-School Management System 1.0 allows attackers to run arbitrary code via the Login page.
 - [ASR511-OO7/CVE-2024-25250.](https://github.com/ASR511-OO7/CVE-2024-25250.)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-25250.">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-25250.">
 
 ---
@@ -328,8 +328,8 @@
 - [ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24108">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24108">
 
 ---
-## CVE-2024-24105 ()
-> 
+## CVE-2024-24105 (2024-03-13T21:15:00)
+> SQL Injection vulnerability in Code-projects Computer Science Time Table System 1.0 allows attackers to run arbitrary code via adminFormvalidation.php.
 - [ASR511-OO7/CVE-2024-24105](https://github.com/ASR511-OO7/CVE-2024-24105)	<img alt="forks" src="https://img.shields.io/github/forks/ASR511-OO7/CVE-2024-24105">	<img alt="stars" src="https://img.shields.io/github/stars/ASR511-OO7/CVE-2024-24105">
 
 ---
