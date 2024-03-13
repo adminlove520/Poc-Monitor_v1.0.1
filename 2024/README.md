@@ -861,6 +861,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [crackmapEZec/CVE-2024-21338-POC](https://github.com/crackmapEZec/CVE-2024-21338-POC)	<img alt="forks" src="https://img.shields.io/github/forks/crackmapEZec/CVE-2024-21338-POC">	<img alt="stars" src="https://img.shields.io/github/stars/crackmapEZec/CVE-2024-21338-POC">
 
 ---
+## CVE-2024-21334 (2024-03-12T17:15:00)
+> Open Management Infrastructure (OMI) Remote Code Execution Vulnerability
+- [bigbozzez/CVE-2024-21334-POC](https://github.com/bigbozzez/CVE-2024-21334-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bigbozzez/CVE-2024-21334-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bigbozzez/CVE-2024-21334-POC">
+
+---
 ## CVE-2024-21306 (2024-01-09T18:15:00)
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
