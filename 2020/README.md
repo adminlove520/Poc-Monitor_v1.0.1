@@ -388,6 +388,11 @@
 - [Live-Hack-CVE/CVE-2020-7994](https://github.com/Live-Hack-CVE/CVE-2020-7994)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7994">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7994">
 
 ---
+## CVE-2020-7961 (2020-03-20T19:15:00)
+> Deserialization of Untrusted Data in Liferay Portal prior to 7.2.1 CE GA2 allows remote attackers to execute arbitrary code via JSON web services (JSONWS).
+- [manrop2702/CVE-2020-7961](https://github.com/manrop2702/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/manrop2702/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/manrop2702/CVE-2020-7961">
+
+---
 ## CVE-2020-7923 (2020-08-21T15:15:00)
 > A user authorized to perform database queries may cause denial of service by issuing specially crafted queries, which violate an invariant in the query subsystem's support for geoNear. This issue affects: MongoDB Inc. MongoDB Server v4.4 versions prior to 4.4.0-rc7; v4.2 versions prior to 4.2.8; v4.0 versions prior to 4.0.19.
 - [Live-Hack-CVE/CVE-2020-7923](https://github.com/Live-Hack-CVE/CVE-2020-7923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7923">
