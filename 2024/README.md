@@ -273,6 +273,11 @@
 - [nitipoom-jar/CVE-2024-24336](https://github.com/nitipoom-jar/CVE-2024-24336)	<img alt="forks" src="https://img.shields.io/github/forks/nitipoom-jar/CVE-2024-24336">	<img alt="stars" src="https://img.shields.io/github/stars/nitipoom-jar/CVE-2024-24336">
 
 ---
+## CVE-2024-2432 (2024-03-13T18:15:00)
+> A privilege escalation (PE) vulnerability in the Palo Alto Networks GlobalProtect app on Windows devices enables a local user to execute programs with elevated privileges. However, execution requires that the local user is able to successfully exploit a race condition.
+- [Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">
+
+---
 ## CVE-2024-24206 ()
 > 
 - [l00neyhacker/CVE-2024-24206](https://github.com/l00neyhacker/CVE-2024-24206)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-24206">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-24206">
