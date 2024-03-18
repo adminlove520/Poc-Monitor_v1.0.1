@@ -337,6 +337,7 @@
 - [webscantest1/CVE-2018-6574](https://github.com/webscantest1/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/webscantest1/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/webscantest1/CVE-2018-6574">
 - [th3poetx1337/CVE-2018-6574-exploit](https://github.com/th3poetx1337/CVE-2018-6574-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th3poetx1337/CVE-2018-6574-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th3poetx1337/CVE-2018-6574-exploit">
 - [th3poetx1337/CVE-2018-6574-exploit](https://github.com/th3poetx1337/CVE-2018-6574-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th3poetx1337/CVE-2018-6574-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th3poetx1337/CVE-2018-6574-exploit">
+- [jftierno/-CVE-2018-6574](https://github.com/jftierno/-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jftierno/-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jftierno/-CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
