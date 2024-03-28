@@ -2605,6 +2605,20 @@
 - [Live-Hack-CVE/CVE-2019-17341](https://github.com/Live-Hack-CVE/CVE-2019-17341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17341">
 
 ---
+## CVE-2019-17240 (2019-10-06T19:15:00)
+> bl-kernel/security.class.php in Bludit 3.9.2 allows attackers to bypass a brute-force protection mechanism by using many different forged X-Forwarded-For or Client-IP HTTP headers.
+- [mind2hex/CVE-2019-17240](https://github.com/mind2hex/CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-17240">
+- [MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism](https://github.com/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism)	<img alt="forks" src="https://img.shields.io/github/forks/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism">	<img alt="stars" src="https://img.shields.io/github/stars/MrW0l05zyn/bludit-cms-bypass-brute-force-protection-mechanism">
+- [brunosergi/bloodit](https://github.com/brunosergi/bloodit)	<img alt="forks" src="https://img.shields.io/github/forks/brunosergi/bloodit">	<img alt="stars" src="https://img.shields.io/github/stars/brunosergi/bloodit">
+- [spyx/cve-2019-17240](https://github.com/spyx/cve-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/spyx/cve-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/spyx/cve-2019-17240">
+- [jayngng/bludit-CVE-2019-17240](https://github.com/jayngng/bludit-CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/jayngng/bludit-CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/jayngng/bludit-CVE-2019-17240">
+- [ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass](https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass">
+- [pingport80/CVE-2019-17240](https://github.com/pingport80/CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/pingport80/CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/pingport80/CVE-2019-17240">
+- [noraj/Bludit-auth-BF-bypass](https://github.com/noraj/Bludit-auth-BF-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/noraj/Bludit-auth-BF-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/noraj/Bludit-auth-BF-bypass">
+- [triple-octopus/Bludit-CVE-2019-17240-Fork](https://github.com/triple-octopus/Bludit-CVE-2019-17240-Fork)	<img alt="forks" src="https://img.shields.io/github/forks/triple-octopus/Bludit-CVE-2019-17240-Fork">	<img alt="stars" src="https://img.shields.io/github/stars/triple-octopus/Bludit-CVE-2019-17240-Fork">
+- [LucaReggiannini/Bludit-3-9-2-bb](https://github.com/LucaReggiannini/Bludit-3-9-2-bb)	<img alt="forks" src="https://img.shields.io/github/forks/LucaReggiannini/Bludit-3-9-2-bb">	<img alt="stars" src="https://img.shields.io/github/stars/LucaReggiannini/Bludit-3-9-2-bb">
+
+---
 ## CVE-2019-17225 (2019-10-06T17:15:00)
 > Subrion 4.2.1 allows XSS via the panel/members/ Username, Full Name, or Email field, aka an "Admin Member JSON Update" issue.
 - [hacker625/CVE-2019-17225](https://github.com/hacker625/CVE-2019-17225)	<img alt="forks" src="https://img.shields.io/github/forks/hacker625/CVE-2019-17225">	<img alt="stars" src="https://img.shields.io/github/stars/hacker625/CVE-2019-17225">
@@ -2785,6 +2799,11 @@
 ## CVE-2019-16167 (2019-09-09T17:15:00)
 > sysstat before 12.1.6 has memory corruption due to an Integer Overflow in remap_struct() in sa_common.c.
 - [Live-Hack-CVE/CVE-2019-16167](https://github.com/Live-Hack-CVE/CVE-2019-16167)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16167">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16167">
+
+---
+## CVE-2019-16113 (2019-09-08T21:15:00)
+> Bludit 3.9.2 allows remote code execution via bl-kernel/ajax/upload-images.php because PHP code can be entered with a .jpg file name, and then this PHP code can write other PHP code to a ../ pathname.
+- [mind2hex/CVE-2019-16113](https://github.com/mind2hex/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-16113">
 
 ---
 ## CVE-2019-16098 (2019-09-11T17:15:00)
