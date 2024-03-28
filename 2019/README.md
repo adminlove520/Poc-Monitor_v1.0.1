@@ -2804,6 +2804,14 @@
 ## CVE-2019-16113 (2019-09-08T21:15:00)
 > Bludit 3.9.2 allows remote code execution via bl-kernel/ajax/upload-images.php because PHP code can be entered with a .jpg file name, and then this PHP code can write other PHP code to a ../ pathname.
 - [mind2hex/CVE-2019-16113](https://github.com/mind2hex/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-16113">
+- [0xConstant/CVE-2019-16113_](https://github.com/0xConstant/CVE-2019-16113_)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2019-16113_">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2019-16113_">
+- [DXY0411/CVE-2019-16113](https://github.com/DXY0411/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/DXY0411/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/DXY0411/CVE-2019-16113">
+- [0xConstant/CVE-2019-16113](https://github.com/0xConstant/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2019-16113">
+- [itsjeffersonli/CVE-2019-16113](https://github.com/itsjeffersonli/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/itsjeffersonli/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/itsjeffersonli/CVE-2019-16113">
+- [Kenun99/CVE-2019-16113-Dockerfile](https://github.com/Kenun99/CVE-2019-16113-Dockerfile)	<img alt="forks" src="https://img.shields.io/github/forks/Kenun99/CVE-2019-16113-Dockerfile">	<img alt="stars" src="https://img.shields.io/github/stars/Kenun99/CVE-2019-16113-Dockerfile">
+- [hg8/CVE-2019-16113-PoC](https://github.com/hg8/CVE-2019-16113-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hg8/CVE-2019-16113-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hg8/CVE-2019-16113-PoC">
+- [cybervaca/CVE-2019-16113](https://github.com/cybervaca/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/cybervaca/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/cybervaca/CVE-2019-16113">
+- [ynots0ups/CVE-2019-16113](https://github.com/ynots0ups/CVE-2019-16113)	<img alt="forks" src="https://img.shields.io/github/forks/ynots0ups/CVE-2019-16113">	<img alt="stars" src="https://img.shields.io/github/stars/ynots0ups/CVE-2019-16113">
 
 ---
 ## CVE-2019-16098 (2019-09-11T17:15:00)
