@@ -31,6 +31,11 @@
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
 
 ---
+## CVE-2024-3116 ()
+> 
+- [FoxyProxys/CVE-2024-3116](https://github.com/FoxyProxys/CVE-2024-3116)	<img alt="forks" src="https://img.shields.io/github/forks/FoxyProxys/CVE-2024-3116">	<img alt="stars" src="https://img.shields.io/github/stars/FoxyProxys/CVE-2024-3116">
+
+---
 ## CVE-2024-31025 ()
 > 
 - [no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)	<img alt="forks" src="https://img.shields.io/github/forks/no3586/CVE-2024-31025">	<img alt="stars" src="https://img.shields.io/github/stars/no3586/CVE-2024-31025">
@@ -1333,6 +1338,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 
 
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
+
+---
+## CVE-2024-22328 ()
+> 
+- [RansomGroupCVE/CVE-2024-22328-POC](https://github.com/RansomGroupCVE/CVE-2024-22328-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-22328-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-22328-POC">
 
 ---
 ## CVE-2024-22252 (2024-03-05T18:15:00)
