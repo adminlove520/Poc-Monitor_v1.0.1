@@ -3121,6 +3121,7 @@ prior to
 - [winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript)	<img alt="forks" src="https://img.shields.io/github/forks/winkler-winsen/Scan_GhostScript">	<img alt="stars" src="https://img.shields.io/github/stars/winkler-winsen/Scan_GhostScript">
 - [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664)	<img alt="forks" src="https://img.shields.io/github/forks/JeanChpt/CVE-2023-36664">	<img alt="stars" src="https://img.shields.io/github/stars/JeanChpt/CVE-2023-36664">
 - [JeanChpt/CVE-2023-36664](https://github.com/JeanChpt/CVE-2023-36664)	<img alt="forks" src="https://img.shields.io/github/forks/JeanChpt/CVE-2023-36664">	<img alt="stars" src="https://img.shields.io/github/stars/JeanChpt/CVE-2023-36664">
+- [churamanib/CVE-2023-36664-Ghostscript-command-injection](https://github.com/churamanib/CVE-2023-36664-Ghostscript-command-injection)	<img alt="forks" src="https://img.shields.io/github/forks/churamanib/CVE-2023-36664-Ghostscript-command-injection">	<img alt="stars" src="https://img.shields.io/github/stars/churamanib/CVE-2023-36664-Ghostscript-command-injection">
 
 ---
 ## CVE-2023-36553 ()
