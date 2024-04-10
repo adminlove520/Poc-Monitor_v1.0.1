@@ -473,6 +473,27 @@
 - [erupmi/CVE-2018-4416](https://github.com/erupmi/CVE-2018-4416)	<img alt="forks" src="https://img.shields.io/github/forks/erupmi/CVE-2018-4416">	<img alt="stars" src="https://img.shields.io/github/stars/erupmi/CVE-2018-4416">
 
 ---
+## CVE-2018-4407 (2019-04-03T18:29:00)
+> A memory corruption issue was addressed with improved validation. This issue affected versions prior to iOS 12, macOS Mojave 10.14, tvOS 12, watchOS 5.
+- [szabo-tibor/CVE-2018-4407](https://github.com/szabo-tibor/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/szabo-tibor/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/szabo-tibor/CVE-2018-4407">
+- [Fans0n-Fan/CVE-2018-4407](https://github.com/Fans0n-Fan/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/Fans0n-Fan/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/Fans0n-Fan/CVE-2018-4407">
+- [pwnhacker0x18/iOS-Kernel-Crash](https://github.com/pwnhacker0x18/iOS-Kernel-Crash)	<img alt="forks" src="https://img.shields.io/github/forks/pwnhacker0x18/iOS-Kernel-Crash">	<img alt="stars" src="https://img.shields.io/github/stars/pwnhacker0x18/iOS-Kernel-Crash">
+- [L-codes/my-nse](https://github.com/L-codes/my-nse)	<img alt="forks" src="https://img.shields.io/github/forks/L-codes/my-nse">	<img alt="stars" src="https://img.shields.io/github/stars/L-codes/my-nse">
+- [5431/CVE-2018-4407](https://github.com/5431/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/5431/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/5431/CVE-2018-4407">
+- [WyAtu/CVE-2018-4407](https://github.com/WyAtu/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/WyAtu/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/WyAtu/CVE-2018-4407">
+- [anonymouz4/Apple-Remote-Crash-Tool-CVE-2018-4407](https://github.com/anonymouz4/Apple-Remote-Crash-Tool-CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/anonymouz4/Apple-Remote-Crash-Tool-CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/anonymouz4/Apple-Remote-Crash-Tool-CVE-2018-4407">
+- [zeng9t/CVE-2018-4407-iOS-exploit](https://github.com/zeng9t/CVE-2018-4407-iOS-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zeng9t/CVE-2018-4407-iOS-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zeng9t/CVE-2018-4407-iOS-exploit">
+- [farisv/AppleDOS](https://github.com/farisv/AppleDOS)	<img alt="forks" src="https://img.shields.io/github/forks/farisv/AppleDOS">	<img alt="stars" src="https://img.shields.io/github/stars/farisv/AppleDOS">
+- [zteeed/CVE-2018-4407-IOS](https://github.com/zteeed/CVE-2018-4407-IOS)	<img alt="forks" src="https://img.shields.io/github/forks/zteeed/CVE-2018-4407-IOS">	<img alt="stars" src="https://img.shields.io/github/stars/zteeed/CVE-2018-4407-IOS">
+- [soccercab/wifi](https://github.com/soccercab/wifi)	<img alt="forks" src="https://img.shields.io/github/forks/soccercab/wifi">	<img alt="stars" src="https://img.shields.io/github/stars/soccercab/wifi">
+- [unixpickle/cve-2018-4407](https://github.com/unixpickle/cve-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/unixpickle/cve-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/unixpickle/cve-2018-4407">
+- [lucagiovagnoli/CVE-2018-4407](https://github.com/lucagiovagnoli/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/lucagiovagnoli/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/lucagiovagnoli/CVE-2018-4407">
+- [r3dxpl0it/CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/r3dxpl0it/CVE-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/r3dxpl0it/CVE-2018-4407">
+- [SamDecrock/node-cve-2018-4407](https://github.com/SamDecrock/node-cve-2018-4407)	<img alt="forks" src="https://img.shields.io/github/forks/SamDecrock/node-cve-2018-4407">	<img alt="stars" src="https://img.shields.io/github/stars/SamDecrock/node-cve-2018-4407">
+- [s2339956/check_icmp_dos-CVE-2018-4407-](https://github.com/s2339956/check_icmp_dos-CVE-2018-4407-)	<img alt="forks" src="https://img.shields.io/github/forks/s2339956/check_icmp_dos-CVE-2018-4407-">	<img alt="stars" src="https://img.shields.io/github/stars/s2339956/check_icmp_dos-CVE-2018-4407-">
+- [Pa55w0rd/check_icmp_dos](https://github.com/Pa55w0rd/check_icmp_dos)	<img alt="forks" src="https://img.shields.io/github/forks/Pa55w0rd/check_icmp_dos">	<img alt="stars" src="https://img.shields.io/github/stars/Pa55w0rd/check_icmp_dos">
+
+---
 ## CVE-2018-3996 (2018-10-08T16:29:00)
 > An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software's PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If the browser plugin extension is enabled, visiting a malicious site can also trigger the vulnerability.
 - [Live-Hack-CVE/CVE-2018-3996](https://github.com/Live-Hack-CVE/CVE-2018-3996)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3996">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3996">
