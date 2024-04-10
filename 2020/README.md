@@ -2317,6 +2317,7 @@
 - [Live-Hack-CVE/CVE-2020-27786](https://github.com/Live-Hack-CVE/CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-27786">
 - [elbiazo/CVE-2020-27786](https://github.com/elbiazo/CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/elbiazo/CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/elbiazo/CVE-2020-27786">
 - [Trinadh465/linux-4.19.72_CVE-2020-27786](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/linux-4.19.72_CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/linux-4.19.72_CVE-2020-27786">
+- [ii4gsp/CVE-2020-27786](https://github.com/ii4gsp/CVE-2020-27786)	<img alt="forks" src="https://img.shields.io/github/forks/ii4gsp/CVE-2020-27786">	<img alt="stars" src="https://img.shields.io/github/stars/ii4gsp/CVE-2020-27786">
 
 ---
 ## CVE-2020-27784 (2022-09-01T18:15:00)
