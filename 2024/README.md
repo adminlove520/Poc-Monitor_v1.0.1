@@ -57,6 +57,11 @@
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
 
 ---
+## CVE-2024-31777 ()
+> 
+- [FreySolarEye/CVE-2024-31777](https://github.com/FreySolarEye/CVE-2024-31777)	<img alt="forks" src="https://img.shields.io/github/forks/FreySolarEye/CVE-2024-31777">	<img alt="stars" src="https://img.shields.io/github/stars/FreySolarEye/CVE-2024-31777">
+
+---
 ## CVE-2024-31380 ()
 > 
 - [Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopik/CVE-2024-31380-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopik/CVE-2024-31380-POC">
