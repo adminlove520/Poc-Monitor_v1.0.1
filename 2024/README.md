@@ -1178,6 +1178,11 @@
 - [TheRedDevil1/CVE-2024-23897](https://github.com/TheRedDevil1/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-23897">
 
 ---
+## CVE-2024-2389 ()
+> 
+- [adhikara13/CVE-2024-2389](https://github.com/adhikara13/CVE-2024-2389)	<img alt="forks" src="https://img.shields.io/github/forks/adhikara13/CVE-2024-2389">	<img alt="stars" src="https://img.shields.io/github/stars/adhikara13/CVE-2024-2389">
+
+---
 ## CVE-2024-23780 ()
 > 
 - [HazardLab-IO/CVE-2024-23780](https://github.com/HazardLab-IO/CVE-2024-23780)	<img alt="forks" src="https://img.shields.io/github/forks/HazardLab-IO/CVE-2024-23780">	<img alt="stars" src="https://img.shields.io/github/stars/HazardLab-IO/CVE-2024-23780">
