@@ -4359,6 +4359,11 @@
 - [Live-Hack-CVE/CVE-2020-14980](https://github.com/Live-Hack-CVE/CVE-2020-14980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14980">
 
 ---
+## CVE-2020-14974 (2020-06-23T20:15:00)
+> The driver in IOBit Unlocker 1.1.2 allows a low-privileged user to unlock a file and kill processes (even ones running as SYSTEM) that hold a handle, via IOCTL code 0x222124.
+- [Aterror2be/CVE-2020-14974](https://github.com/Aterror2be/CVE-2020-14974)	<img alt="forks" src="https://img.shields.io/github/forks/Aterror2be/CVE-2020-14974">	<img alt="stars" src="https://img.shields.io/github/stars/Aterror2be/CVE-2020-14974">
+
+---
 ## CVE-2020-14968 (2020-06-22T12:15:00)
 > An issue was discovered in the jsrsasign package before 8.0.17 for Node.js. Its RSASSA-PSS (RSA-PSS) implementation does not detect signature manipulation/modification by prepending '\0' bytes to a signature (it accepts these modified signatures as valid). An attacker can abuse this behavior in an application by creating multiple valid signatures where only one signature should exist. Also, an attacker might prepend these bytes with the goal of triggering memory corruption issues.
 - [Live-Hack-CVE/CVE-2020-14968](https://github.com/Live-Hack-CVE/CVE-2020-14968)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14968">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14968">
