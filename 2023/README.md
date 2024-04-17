@@ -1673,8 +1673,10 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [agathanon/cve-2023-44268](https://github.com/agathanon/cve-2023-44268)	<img alt="forks" src="https://img.shields.io/github/forks/agathanon/cve-2023-44268">	<img alt="stars" src="https://img.shields.io/github/stars/agathanon/cve-2023-44268">
 
 ---
-## CVE-2023-44227 ()
-> 
+## CVE-2023-44227 (2024-04-17T10:15:00)
+> Missing Authorization vulnerability in Mitchell Bennis Simple File List.This issue affects Simple File List: from n/a through 6.1.9.
+
+
 - [codeb0ss/CVE-2023-44227-PoC](https://github.com/codeb0ss/CVE-2023-44227-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-44227-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-44227-PoC">
 
 ---
