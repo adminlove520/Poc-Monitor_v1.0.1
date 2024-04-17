@@ -60,6 +60,7 @@
 - [CONDITIONBLACK/CVE-2024-3400-POC](https://github.com/CONDITIONBLACK/CVE-2024-3400-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CONDITIONBLACK/CVE-2024-3400-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CONDITIONBLACK/CVE-2024-3400-POC">
 - [Chocapikk/CVE-2024-3400](https://github.com/Chocapikk/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-3400">
 - [ihebski/CVE-2024-3400](https://github.com/ihebski/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/ihebski/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/ihebski/CVE-2024-3400">
+- [index2014/CVE-2024-3400-Checker](https://github.com/index2014/CVE-2024-3400-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/index2014/CVE-2024-3400-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/index2014/CVE-2024-3400-Checker">
 
 ---
 ## CVE-2024-33333 ()
@@ -1933,6 +1934,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > A vulnerability in the access control list (ACL) programming for port channel subinterfaces of Cisco Nexus 3000 and 9000 Series Switches in standalone NX-OS mode could allow an unauthenticated, remote attacker to send traffic that should be blocked through an affected device.
  This vulnerability is due to incorrect hardware programming that occurs when configuration changes are made to port channel member ports. An attacker could exploit this vulnerability by attempting to send traffic through an affected device. A successful exploit could allow the attacker to access network resources that should be protected by an ACL that was applied on port channel subinterfaces.
 - [greandfather/CVE-2024-20291-POC](https://github.com/greandfather/CVE-2024-20291-POC)	<img alt="forks" src="https://img.shields.io/github/forks/greandfather/CVE-2024-20291-POC">	<img alt="stars" src="https://img.shields.io/github/stars/greandfather/CVE-2024-20291-POC">
+
+---
+## CVE-2024-1874 ()
+> 
+- [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/-CVE-2024-1874-">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/-CVE-2024-1874-">
 
 ---
 ## CVE-2024-1709 (2024-02-21T16:15:00)
