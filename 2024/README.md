@@ -76,6 +76,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Ravaan21/CVE-2024-3400](https://github.com/Ravaan21/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/Ravaan21/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/Ravaan21/CVE-2024-3400">
 - [sxyrxyy/CVE-2024-3400-Check](https://github.com/sxyrxyy/CVE-2024-3400-Check)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2024-3400-Check">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2024-3400-Check">
 - [pwnj0hn/CVE-2024-3400](https://github.com/pwnj0hn/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/pwnj0hn/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/pwnj0hn/CVE-2024-3400">
+- [HackingLZ/panrapidcheck](https://github.com/HackingLZ/panrapidcheck)	<img alt="forks" src="https://img.shields.io/github/forks/HackingLZ/panrapidcheck">	<img alt="stars" src="https://img.shields.io/github/stars/HackingLZ/panrapidcheck">
 
 ---
 ## CVE-2024-33333 ()
@@ -2037,6 +2038,7 @@ This is possible because the application is vulnerable to insecure deserializati
 
 - [sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sharpicx/CVE-2024-1651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sharpicx/CVE-2024-1651-PoC">
 - [hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hy011121/CVE-2024-1651-exploit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hy011121/CVE-2024-1651-exploit-RCE">
+- [Whiteh4tWolf/CVE-2024-1651-PoC](https://github.com/Whiteh4tWolf/CVE-2024-1651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Whiteh4tWolf/CVE-2024-1651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Whiteh4tWolf/CVE-2024-1651-PoC">
 
 ---
 ## CVE-2024-1642470 ()
