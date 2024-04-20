@@ -54,6 +54,11 @@
 - [Sunqiz/CVE-2018-8587-reproduction](https://github.com/Sunqiz/CVE-2018-8587-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2018-8587-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2018-8587-reproduction">
 
 ---
+## CVE-2018-8062 (2020-10-23T05:15:00)
+> A cross-site scripting (XSS) vulnerability on Comtrend AR-5387un devices with A731-410JAZ-C04_R02.A2pD035g.d23i firmware allows remote attackers to inject arbitrary web script or HTML via the Service Description parameter while creating a WAN service.
+- [OscarAkaElvis/CVE-2018-8062](https://github.com/OscarAkaElvis/CVE-2018-8062)	<img alt="forks" src="https://img.shields.io/github/forks/OscarAkaElvis/CVE-2018-8062">	<img alt="stars" src="https://img.shields.io/github/stars/OscarAkaElvis/CVE-2018-8062">
+
+---
 ## CVE-2018-7935 (2023-02-10T12:15:00)
 > There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote attackers could exploit this vulnerability to make the network where the E5573Cs-322 is running temporarily unavailable.
 - [Live-Hack-CVE/CVE-2018-7935](https://github.com/Live-Hack-CVE/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7935">
