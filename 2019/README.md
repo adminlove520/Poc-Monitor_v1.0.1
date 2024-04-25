@@ -351,6 +351,11 @@
 - [Live-Hack-CVE/CVE-2019-7572](https://github.com/Live-Hack-CVE/CVE-2019-7572)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7572">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7572">
 
 ---
+## CVE-2019-7529 ()
+> 
+- [SirEagIe/CVE-2019-7529](https://github.com/SirEagIe/CVE-2019-7529)	<img alt="forks" src="https://img.shields.io/github/forks/SirEagIe/CVE-2019-7529">	<img alt="stars" src="https://img.shields.io/github/stars/SirEagIe/CVE-2019-7529">
+
+---
 ## CVE-2019-7307 (2019-08-29T15:15:00)
 > Apport before versions 2.14.1-0ubuntu3.29+esm1, 2.20.1-0ubuntu2.19, 2.20.9-0ubuntu7.7, 2.20.10-0ubuntu27.1, 2.20.11-0ubuntu5 contained a TOCTTOU vulnerability when reading the users ~/.apport-ignore.xml file, which allows a local attacker to replace this file with a symlink to any other file on the system and so cause Apport to include the contents of this other file in the resulting crash report. The crash report could then be read by that user either by causing it to be uploaded and reported to Launchpad, or by leveraging some other vulnerability to read the resulting crash report, and so allow the user to read arbitrary files on the system.
 - [Live-Hack-CVE/CVE-2019-7307](https://github.com/Live-Hack-CVE/CVE-2019-7307)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7307">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7307">
