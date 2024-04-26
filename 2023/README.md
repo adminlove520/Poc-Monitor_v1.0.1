@@ -7942,6 +7942,7 @@ For more details, please review the linked advisory on this CVE.
 - [sujoy95/Confluence-CVE-2023-22515-Scanner](https://github.com/sujoy95/Confluence-CVE-2023-22515-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sujoy95/Confluence-CVE-2023-22515-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sujoy95/Confluence-CVE-2023-22515-Scanner">
 - [CalegariMindSec/Exploit-CVE-2023-22515](https://github.com/CalegariMindSec/Exploit-CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2023-22515">
 - [rxerium/CVE-2023-22515](https://github.com/rxerium/CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2023-22515">
+- [fyx1t/NSE--CVE-2023-22515](https://github.com/fyx1t/NSE--CVE-2023-22515)	<img alt="forks" src="https://img.shields.io/github/forks/fyx1t/NSE--CVE-2023-22515">	<img alt="stars" src="https://img.shields.io/github/stars/fyx1t/NSE--CVE-2023-22515">
 
 ---
 ## CVE-2023-22501 (2023-02-01T19:15:00)
