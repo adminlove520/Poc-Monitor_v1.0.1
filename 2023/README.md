@@ -6856,6 +6856,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [JohnDoeAnonITA/CVE-2023-23752](https://github.com/JohnDoeAnonITA/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/JohnDoeAnonITA/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/JohnDoeAnonITA/CVE-2023-23752">
 - [0xWhoami35/CVE-2023-23752](https://github.com/0xWhoami35/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2023-23752">
 - [mariovata/CVE-2023-23752-Python](https://github.com/mariovata/CVE-2023-23752-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mariovata/CVE-2023-23752-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mariovata/CVE-2023-23752-Python">
+- [0xx01/CVE-2023-23752](https://github.com/0xx01/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xx01/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xx01/CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
