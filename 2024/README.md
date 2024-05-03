@@ -916,6 +916,7 @@ QuTScloud c5.1.5.2651 and later
 
 - [truonghuuphuc/CVE-2024-27956](https://github.com/truonghuuphuc/CVE-2024-27956)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-27956">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-27956">
 - [diego-tella/CVE-2024-27956-RCE](https://github.com/diego-tella/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2024-27956-RCE">
+- [X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN">
 
 ---
 ## CVE-2024-27697 ()
@@ -1999,6 +2000,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [DevAkabari/CVE-2024-21413](https://github.com/DevAkabari/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/DevAkabari/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/DevAkabari/CVE-2024-21413">
 - [dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/dshabani96/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/dshabani96/CVE-2024-21413">
 - [KartheekKandalam99/CVE-2024-21413](https://github.com/KartheekKandalam99/CVE-2024-21413)	<img alt="forks" src="https://img.shields.io/github/forks/KartheekKandalam99/CVE-2024-21413">	<img alt="stars" src="https://img.shields.io/github/stars/KartheekKandalam99/CVE-2024-21413">
+- [X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
