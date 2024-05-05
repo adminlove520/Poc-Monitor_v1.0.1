@@ -6887,6 +6887,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [mariovata/CVE-2023-23752-Python](https://github.com/mariovata/CVE-2023-23752-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mariovata/CVE-2023-23752-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mariovata/CVE-2023-23752-Python">
 - [0xx01/CVE-2023-23752](https://github.com/0xx01/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/0xx01/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/0xx01/CVE-2023-23752">
 - [c0d3cr4f73r/CVE-2023-23752](https://github.com/c0d3cr4f73r/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2023-23752">
+- [mil4ne/CVE-2023-23752-Joomla-v4.2.8](https://github.com/mil4ne/CVE-2023-23752-Joomla-v4.2.8)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2023-23752-Joomla-v4.2.8">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2023-23752-Joomla-v4.2.8">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)
