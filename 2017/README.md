@@ -368,6 +368,11 @@
 - [Frivolous-scholar/CVE-2017-5941-NodeJS-RCE](https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE">
 
 ---
+## CVE-2017-5715 (2018-01-04T13:29:00)
+> Systems with microprocessors utilizing speculative execution and indirect branch prediction may allow unauthorized disclosure of information to an attacker with local user access via a side-channel analysis.
+- [GalloLuigi/Analisi-CVE-2017-5715](https://github.com/GalloLuigi/Analisi-CVE-2017-5715)	<img alt="forks" src="https://img.shields.io/github/forks/GalloLuigi/Analisi-CVE-2017-5715">	<img alt="stars" src="https://img.shields.io/github/stars/GalloLuigi/Analisi-CVE-2017-5715">
+
+---
 ## CVE-2017-5689 (2017-05-02T14:59:00)
 > An unprivileged network attacker could gain system privileges to provisioned Intel manageability SKUs: Intel Active Management Technology (AMT) and Intel Standard Manageability (ISM). An unprivileged local attacker could provision manageability features gaining unprivileged network or local system privileges on Intel manageability SKUs: Intel Active Management Technology (AMT), Intel Standard Manageability (ISM), and Intel Small Business Technology (SBT).
 - [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
