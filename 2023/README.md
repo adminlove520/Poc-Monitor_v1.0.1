@@ -6425,6 +6425,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24219](https://github.com/Live-Hack-CVE/CVE-2023-24219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24219">
 
 ---
+## CVE-2023-24203 ()
+> 
+- [momo1239/CVE-2023-24203-and-CVE-2023-24204](https://github.com/momo1239/CVE-2023-24203-and-CVE-2023-24204)	<img alt="forks" src="https://img.shields.io/github/forks/momo1239/CVE-2023-24203-and-CVE-2023-24204">	<img alt="stars" src="https://img.shields.io/github/stars/momo1239/CVE-2023-24203-and-CVE-2023-24204">
+
+---
 ## CVE-2023-24202 (2023-02-06T15:15:00)
 > Raffle Draw System v1.0 was discovered to contain a local file inclusion vulnerability via the page parameter in index.php.
 - [Live-Hack-CVE/CVE-2023-24202](https://github.com/Live-Hack-CVE/CVE-2023-24202)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24202">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24202">
