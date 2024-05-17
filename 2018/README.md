@@ -358,6 +358,7 @@
 - [jftierno/-CVE-2018-6574](https://github.com/jftierno/-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jftierno/-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jftierno/-CVE-2018-6574">
 - [jftierno/CVE-2018-6574](https://github.com/jftierno/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/jftierno/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/jftierno/CVE-2018-6574">
 - [faiqu3/cve-2018-6574](https://github.com/faiqu3/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/faiqu3/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/faiqu3/cve-2018-6574">
+- [Dannners/CVE-2018-6574-go-get-RCE](https://github.com/Dannners/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2018-6574-go-get-RCE">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
