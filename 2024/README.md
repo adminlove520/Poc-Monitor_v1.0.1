@@ -130,6 +130,7 @@
 ## CVE-2024-3435 (2024-05-16T09:15:00)
 > A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
 - [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435)	<img alt="forks" src="https://img.shields.io/github/forks/ymuraki-csc/cve-2024-3435">	<img alt="stars" src="https://img.shields.io/github/stars/ymuraki-csc/cve-2024-3435">
+- [Voorivex/CVE-2024-34351](https://github.com/Voorivex/CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/Voorivex/CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/Voorivex/CVE-2024-34351">
 
 ---
 ## CVE-2024-34310 (2024-05-14T15:38:00)
@@ -398,6 +399,9 @@ QuTScloud c5.1.5.2651 and later
 - [amalmurali47/hook](https://github.com/amalmurali47/hook)	<img alt="forks" src="https://img.shields.io/github/forks/amalmurali47/hook">	<img alt="stars" src="https://img.shields.io/github/stars/amalmurali47/hook">
 - [aitorcastel/poc_CVE-2024-32002](https://github.com/aitorcastel/poc_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/poc_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/poc_CVE-2024-32002">
 - [aitorcastel/poc_CVE-2024-32002_submodule](https://github.com/aitorcastel/poc_CVE-2024-32002_submodule)	<img alt="forks" src="https://img.shields.io/github/forks/aitorcastel/poc_CVE-2024-32002_submodule">	<img alt="stars" src="https://img.shields.io/github/stars/aitorcastel/poc_CVE-2024-32002_submodule">
+- [jweny/CVE-2024-32002_HOOK](https://github.com/jweny/CVE-2024-32002_HOOK)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/CVE-2024-32002_HOOK">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/CVE-2024-32002_HOOK">
+- [jweny/CVE-2024-32002_EXP](https://github.com/jweny/CVE-2024-32002_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/jweny/CVE-2024-32002_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/jweny/CVE-2024-32002_EXP">
+- [10cks/hook](https://github.com/10cks/hook)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/hook">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/hook">
 
 ---
 ## CVE-2024-31848 ()
