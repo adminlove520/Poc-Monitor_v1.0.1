@@ -443,6 +443,8 @@ QuTScloud c5.1.5.2651 and later
 - [Roronoawjd/git_rce](https://github.com/Roronoawjd/git_rce)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/git_rce">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/git_rce">
 - [JJoosh/CVE-2024-32002-Reverse-Shell](https://github.com/JJoosh/CVE-2024-32002-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002-Reverse-Shell">
 - [YuanlooSec/CVE-2024-32002-poc](https://github.com/YuanlooSec/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/YuanlooSec/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/YuanlooSec/CVE-2024-32002-poc">
+- [WOOOOONG/CVE-2024-32002](https://github.com/WOOOOONG/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2024-32002">
+- [WOOOOONG/hook](https://github.com/WOOOOONG/hook)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/hook">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/hook">
 
 ---
 ## CVE-2024-31848 ()
