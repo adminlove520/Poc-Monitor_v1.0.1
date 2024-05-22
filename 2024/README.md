@@ -465,6 +465,7 @@ QuTScloud c5.1.5.2651 and later
 - [ycdxsb/CVE-2024-32002-submod](https://github.com/ycdxsb/CVE-2024-32002-submod)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-submod">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-submod">
 - [ycdxsb/CVE-2024-32002-hulk](https://github.com/ycdxsb/CVE-2024-32002-hulk)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/CVE-2024-32002-hulk">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/CVE-2024-32002-hulk">
 - [vincepsh/CVE-2024-32002](https://github.com/vincepsh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002">
+- [vincepsh/CVE-2024-32002-hook](https://github.com/vincepsh/CVE-2024-32002-hook)	<img alt="forks" src="https://img.shields.io/github/forks/vincepsh/CVE-2024-32002-hook">	<img alt="stars" src="https://img.shields.io/github/stars/vincepsh/CVE-2024-32002-hook">
 
 ---
 ## CVE-2024-31848 ()
