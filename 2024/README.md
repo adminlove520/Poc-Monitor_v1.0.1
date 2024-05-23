@@ -470,6 +470,7 @@ QuTScloud c5.1.5.2651 and later
 - [PoC0007/vulnerable-repo](https://github.com/PoC0007/vulnerable-repo)	<img alt="forks" src="https://img.shields.io/github/forks/PoC0007/vulnerable-repo">	<img alt="stars" src="https://img.shields.io/github/stars/PoC0007/vulnerable-repo">
 - [JJoosh/CVE-2024-32002](https://github.com/JJoosh/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002">
 - [JJoosh/malicious-hook](https://github.com/JJoosh/malicious-hook)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/malicious-hook">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/malicious-hook">
+- [JJoosh/CVE-2024-32002-](https://github.com/JJoosh/CVE-2024-32002-)	<img alt="forks" src="https://img.shields.io/github/forks/JJoosh/CVE-2024-32002-">	<img alt="stars" src="https://img.shields.io/github/stars/JJoosh/CVE-2024-32002-">
 
 ---
 ## CVE-2024-31848 ()
