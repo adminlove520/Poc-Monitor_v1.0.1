@@ -6728,6 +6728,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-24044 (2023-01-22T03:15:00)
 > A Host Header Injection issue on the Login page of Plesk Obsidian through 18.0.49 allows attackers to redirect users to malicious websites via a Host request header.
 - [Live-Hack-CVE/CVE-2023-24044](https://github.com/Live-Hack-CVE/CVE-2023-24044)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24044">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24044">
+- [Cappricio-Securities/CVE-2023-24044](https://github.com/Cappricio-Securities/CVE-2023-24044)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2023-24044">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2023-24044">
 
 ---
 ## CVE-2023-24042 (2023-01-21T02:15:00)
