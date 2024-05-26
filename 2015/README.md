@@ -197,6 +197,11 @@
 - [Live-Hack-CVE/CVE-2015-7499](https://github.com/Live-Hack-CVE/CVE-2015-7499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-7499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-7499">
 
 ---
+## CVE-2015-7297 (2015-10-29T20:59:00)
+> SQL injection vulnerability in Joomla! 3.2 before 3.4.4 allows remote attackers to execute arbitrary SQL commands via unspecified vectors, a different vulnerability than CVE-2015-7858.
+- [Cappricio-Securities/CVE-2015-7297](https://github.com/Cappricio-Securities/CVE-2015-7297)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2015-7297">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2015-7297">
+
+---
 ## CVE-2015-6967 (2015-09-16T14:59:00)
 > Unrestricted file upload vulnerability in the My Image plugin in Nibbleblog before 4.0.5 allows remote administrators to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in content/private/plugins/my_image/image.php. <a href="http://cwe.mitre.org/data/definitions/434.html">CWE-434: Unrestricted Upload of File with Dangerous Type</a>
 - [FredBrave/CVE-2015-6967](https://github.com/FredBrave/CVE-2015-6967)	<img alt="forks" src="https://img.shields.io/github/forks/FredBrave/CVE-2015-6967">	<img alt="stars" src="https://img.shields.io/github/stars/FredBrave/CVE-2015-6967">
