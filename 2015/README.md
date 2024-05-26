@@ -200,6 +200,8 @@
 ## CVE-2015-7297 (2015-10-29T20:59:00)
 > SQL injection vulnerability in Joomla! 3.2 before 3.4.4 allows remote attackers to execute arbitrary SQL commands via unspecified vectors, a different vulnerability than CVE-2015-7858.
 - [Cappricio-Securities/CVE-2015-7297](https://github.com/Cappricio-Securities/CVE-2015-7297)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2015-7297">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2015-7297">
+- [areaventuno/exploit-joomla](https://github.com/areaventuno/exploit-joomla)	<img alt="forks" src="https://img.shields.io/github/forks/areaventuno/exploit-joomla">	<img alt="stars" src="https://img.shields.io/github/stars/areaventuno/exploit-joomla">
+- [CCrashBandicot/ContentHistory](https://github.com/CCrashBandicot/ContentHistory)	<img alt="forks" src="https://img.shields.io/github/forks/CCrashBandicot/ContentHistory">	<img alt="stars" src="https://img.shields.io/github/stars/CCrashBandicot/ContentHistory">
 
 ---
 ## CVE-2015-6967 (2015-09-16T14:59:00)
