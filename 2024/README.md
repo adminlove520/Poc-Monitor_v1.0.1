@@ -2395,6 +2395,7 @@ This vulnerability was found internally.
 - [W01fh4cker/CVE-2024-21683-RCE](https://github.com/W01fh4cker/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-21683-RCE">
 - [r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/r00t7oo2jm/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
 - [absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server](https://github.com/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/-CVE-2024-21683-RCE-in-Confluence-Data-Center-and-Server">
+- [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/phucrio/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/phucrio/CVE-2024-21683-RCE">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
