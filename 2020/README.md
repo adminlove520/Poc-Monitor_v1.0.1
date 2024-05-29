@@ -1072,6 +1072,11 @@
 - [Live-Hack-CVE/CVE-2020-5387](https://github.com/Live-Hack-CVE/CVE-2020-5387)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5387">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5387">
 
 ---
+## CVE-2020-5377 (2020-07-28T18:15:00)
+> Dell EMC OpenManage Server Administrator (OMSA) versions 9.4 and prior contain multiple path traversal vulnerabilities. An unauthenticated remote attacker could potentially exploit these vulnerabilities by sending a crafted Web API request containing directory traversal character sequences to gain file system access on the compromised management station.
+- [c0d3cr4f73r/CVE-2020-5377](https://github.com/c0d3cr4f73r/CVE-2020-5377)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2020-5377">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2020-5377">
+
+---
 ## CVE-2020-5355 (2022-10-21T18:15:00)
 > The Dell Isilon OneFS versions 8.2.2 and earlier SSHD process improperly allows Transmission Control Protocol (TCP) and stream forwarding. This provides the remotesupport user and users with restricted shells more access than is intended.
 - [Live-Hack-CVE/CVE-2020-5355](https://github.com/Live-Hack-CVE/CVE-2020-5355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5355">
