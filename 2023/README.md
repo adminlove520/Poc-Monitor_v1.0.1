@@ -7862,6 +7862,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-22726 (2023-01-20T22:15:00)
 > act is a project which allows for local running of github actions. The artifact server that stores artifacts from Github Action runs does not sanitize path inputs. This allows an attacker to download and overwrite arbitrary files on the host from a Github Action. This issue may lead to privilege escalation. The /upload endpoint is vulnerable to path traversal as filepath is user controlled, and ultimately flows into os.Mkdir and os.Open. The /artifact endpoint is vulnerable to path traversal as the path is variable is user controlled, and the specified file is ultimately returned by the server. This has been addressed in version 0.2.40. Users are advised to upgrade. Users unable to upgrade may, during implementation of Open and OpenAtEnd for FS, ensure to use ValidPath() to check against path traversal or clean the user-provided paths manually.
 - [Live-Hack-CVE/CVE-2023-22726](https://github.com/Live-Hack-CVE/CVE-2023-22726)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22726">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22726">
+- [ProxyPog/POC-CVE-2023-22726](https://github.com/ProxyPog/POC-CVE-2023-22726)	<img alt="forks" src="https://img.shields.io/github/forks/ProxyPog/POC-CVE-2023-22726">	<img alt="stars" src="https://img.shields.io/github/stars/ProxyPog/POC-CVE-2023-22726">
 
 ---
 ## CVE-2023-22724 (2023-01-26T21:18:00)
