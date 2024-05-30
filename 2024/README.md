@@ -153,13 +153,13 @@
 - [carsonchan12345/CVE-2024-35475](https://github.com/carsonchan12345/CVE-2024-35475)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-35475">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-35475">
 
 ---
-## CVE-2024-35469 ()
-> 
+## CVE-2024-35469 (2024-05-30T18:15:00)
+> A SQL injection vulnerability in /hrm/user/ in SourceCodester Human Resource Management System 1.0 allows attackers to execute arbitrary SQL commands via the password parameter.
 - [dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35469">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35469">
 
 ---
-## CVE-2024-35468 ()
-> 
+## CVE-2024-35468 (2024-05-30T18:15:00)
+> A SQL injection vulnerability in /hrm/index.php in SourceCodester Human Resource Management System 1.0 allows attackers to execute arbitrary SQL commands via the password parameter.
 - [dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468)	<img alt="forks" src="https://img.shields.io/github/forks/dovankha/CVE-2024-35468">	<img alt="stars" src="https://img.shields.io/github/stars/dovankha/CVE-2024-35468">
 
 ---
@@ -1700,6 +1700,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [hendprw/CVE-2024-24919](https://github.com/hendprw/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/hendprw/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/hendprw/CVE-2024-24919">
 - [LucasKatashi/CVE-2024-24919](https://github.com/LucasKatashi/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/LucasKatashi/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/LucasKatashi/CVE-2024-24919">
 - [eoslvs/CVE-2024-24919](https://github.com/eoslvs/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/eoslvs/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/eoslvs/CVE-2024-24919">
+- [Bytenull00/CVE-2024-24919](https://github.com/Bytenull00/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Bytenull00/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Bytenull00/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
