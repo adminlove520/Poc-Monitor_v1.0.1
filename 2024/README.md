@@ -2715,6 +2715,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
 - [mansk1es/CVE-2024-21111](https://github.com/mansk1es/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-21111">
 - [10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del)	<img alt="forks" src="https://img.shields.io/github/forks/10cks/CVE-2024-21111-del">	<img alt="stars" src="https://img.shields.io/github/stars/10cks/CVE-2024-21111-del">
+- [x0rsys/CVE-2024-21111](https://github.com/x0rsys/CVE-2024-21111)	<img alt="forks" src="https://img.shields.io/github/forks/x0rsys/CVE-2024-21111">	<img alt="stars" src="https://img.shields.io/github/stars/x0rsys/CVE-2024-21111">
 
 ---
 ## CVE-2024-21107 (2024-04-16T22:15:00)
