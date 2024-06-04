@@ -1132,6 +1132,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/mattaperkins/FIX-CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/mattaperkins/FIX-CVE-2024-2961">
 - [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-2961">
+- [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/tnishiox/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/tnishiox/cve-2024-2961">
 
 ---
 ## CVE-2024-29455 (2024-04-11T05:15:00)
