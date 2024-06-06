@@ -3060,8 +3060,8 @@
 - [Live-Hack-CVE/CVE-2019-15015](https://github.com/Live-Hack-CVE/CVE-2019-15015)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15015">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15015">
 
 ---
-## CVE-2019-14974 ()
-> 
+## CVE-2019-14974 (2019-08-14T16:15:00)
+> SugarCRM Enterprise 9.0.0 allows mobile/error-not-supported-platform.html?desktop_url= XSS.
 - [conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/conan-sudo/CVE-2019-14974-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/conan-sudo/CVE-2019-14974-bypass">
 
 ---
