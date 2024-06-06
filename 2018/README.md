@@ -1822,6 +1822,7 @@
 - [canumay/cve-2018-1335](https://github.com/canumay/cve-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/canumay/cve-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/canumay/cve-2018-1335">
 - [N0b1e6/CVE-2018-1335-Python3](https://github.com/N0b1e6/CVE-2018-1335-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/N0b1e6/CVE-2018-1335-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/N0b1e6/CVE-2018-1335-Python3">
 - [SkyBlueEternal/CVE-2018-1335-EXP-GUI](https://github.com/SkyBlueEternal/CVE-2018-1335-EXP-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/SkyBlueEternal/CVE-2018-1335-EXP-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/SkyBlueEternal/CVE-2018-1335-EXP-GUI">
+- [DigitalNinja00/CVE-2018-1335](https://github.com/DigitalNinja00/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/DigitalNinja00/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/DigitalNinja00/CVE-2018-1335">
 
 ---
 ## CVE-2018-1311 (2019-12-18T20:15:00)
