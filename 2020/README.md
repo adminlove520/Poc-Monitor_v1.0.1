@@ -4430,6 +4430,15 @@
 ## CVE-2020-14883 (2020-10-21T15:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [amacloudobia/CVE-2020-14883](https://github.com/amacloudobia/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/amacloudobia/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/amacloudobia/CVE-2020-14883">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [1n7erface/PocList](https://github.com/1n7erface/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/1n7erface/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/1n7erface/PocList">
+- [N0Coriander/CVE-2020-14882-14883](https://github.com/N0Coriander/CVE-2020-14882-14883)	<img alt="forks" src="https://img.shields.io/github/forks/N0Coriander/CVE-2020-14882-14883">	<img alt="stars" src="https://img.shields.io/github/stars/N0Coriander/CVE-2020-14882-14883">
+- [Osyanina/westone-CVE-2020-14883-scanner](https://github.com/Osyanina/westone-CVE-2020-14883-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2020-14883-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2020-14883-scanner">
+- [fan1029/CVE-2020-14883EXP](https://github.com/fan1029/CVE-2020-14883EXP)	<img alt="forks" src="https://img.shields.io/github/forks/fan1029/CVE-2020-14883EXP">	<img alt="stars" src="https://img.shields.io/github/stars/fan1029/CVE-2020-14883EXP">
+- [jas502n/CVE-2020-14882](https://github.com/jas502n/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-14882">
+- [B1anda0/CVE-2020-14883](https://github.com/B1anda0/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2020-14883">
+- [murataydemir/CVE-2020-14883](https://github.com/murataydemir/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2020-14883">
+- [NS-Sp4ce/CVE-2020-14882](https://github.com/NS-Sp4ce/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Sp4ce/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Sp4ce/CVE-2020-14882">
 
 ---
 ## CVE-2020-14882 (2020-10-21T15:15:00)
