@@ -103,3 +103,8 @@
 ## CVE-2009-0473 (2009-02-06T19:30:00)
 > Open redirect vulnerability in the web interface in the Rockwell Automation ControlLogix 1756-ENBT/A EtherNet/IP Bridge Module allows remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via unspecified vectors.
 - [akbarq/CVE-2009-0473-check](https://github.com/akbarq/CVE-2009-0473-check)	<img alt="forks" src="https://img.shields.io/github/forks/akbarq/CVE-2009-0473-check">	<img alt="stars" src="https://img.shields.io/github/stars/akbarq/CVE-2009-0473-check">
+
+---
+## CVE-2009-0347 ()
+> 
+- [Cappricio-Securities/CVE-2009-0347](https://github.com/Cappricio-Securities/CVE-2009-0347)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2009-0347">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2009-0347">
