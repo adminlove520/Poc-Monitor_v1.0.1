@@ -831,6 +831,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [AlexDoe11/CVE-2024-3094-EXPLOIT](https://github.com/AlexDoe11/CVE-2024-3094-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-3094-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-3094-EXPLOIT">
 - [buluma/ansible-role-cve_2024_3094](https://github.com/buluma/ansible-role-cve_2024_3094)	<img alt="forks" src="https://img.shields.io/github/forks/buluma/ansible-role-cve_2024_3094">	<img alt="stars" src="https://img.shields.io/github/stars/buluma/ansible-role-cve_2024_3094">
 - [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)	<img alt="forks" src="https://img.shields.io/github/forks/neuralinhibitor/xzwhy">	<img alt="stars" src="https://img.shields.io/github/stars/neuralinhibitor/xzwhy">
+- [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
@@ -1643,6 +1644,7 @@ overflow.
 ## CVE-2024-26229 ()
 > 
 - [varwara/CVE-2024-26229](https://github.com/varwara/CVE-2024-26229)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-26229">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-26229">
+- [RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RalfHacker/CVE-2024-26229-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RalfHacker/CVE-2024-26229-exploit">
 
 ---
 ## CVE-2024-26218 (2024-04-09T17:15:00)
@@ -2267,6 +2269,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 ## CVE-2024-23722 (2024-03-26T15:15:00)
 > In Fluent Bit 2.1.8 through 2.2.1, a NULL pointer dereference can be caused via an invalid HTTP payload with the content type of x-www-form-urlencoded. It crashes and does not restart. This could result in logs not being delivered properly.
 - [alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)	<img alt="forks" src="https://img.shields.io/github/forks/alexcote1/CVE-2024-23722-poc">	<img alt="stars" src="https://img.shields.io/github/stars/alexcote1/CVE-2024-23722-poc">
+
+---
+## CVE-2024-23692 ()
+> 
+- [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
