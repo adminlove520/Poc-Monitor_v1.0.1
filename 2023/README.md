@@ -10502,6 +10502,11 @@ For more details, please review the linked advisory on this CVE.
 - [Live-Hack-CVE/CVE-2023-20856](https://github.com/Live-Hack-CVE/CVE-2023-20856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20856">
 
 ---
+## CVE-2023-20598 ()
+> 
+- [H4rk3nz0/CVE-2023-20598-PDFWKRNL](https://github.com/H4rk3nz0/CVE-2023-20598-PDFWKRNL)	<img alt="forks" src="https://img.shields.io/github/forks/H4rk3nz0/CVE-2023-20598-PDFWKRNL">	<img alt="stars" src="https://img.shields.io/github/stars/H4rk3nz0/CVE-2023-20598-PDFWKRNL">
+
+---
 ## CVE-2023-20573 (2024-01-11T14:15:00)
 > A privileged attacker
 can prevent delivery of debug exceptions to SEV-SNP guests potentially

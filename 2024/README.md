@@ -1906,7 +1906,8 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ---
 ## CVE-2024-24590 ()
 > 
-- [LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML](https://github.com/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/-POC-CVE-2024-24590-Pickle-Load-on-Artifact-Get.-ClearML">
+- [LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
+- [OxyDeV2/PoC-CVE-2024-24590](https://github.com/OxyDeV2/PoC-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/OxyDeV2/PoC-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/OxyDeV2/PoC-CVE-2024-24590">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
