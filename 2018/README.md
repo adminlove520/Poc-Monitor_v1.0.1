@@ -156,7 +156,7 @@
 - [SecPentester/CVE-7600-2018](https://github.com/SecPentester/CVE-7600-2018)	<img alt="forks" src="https://img.shields.io/github/forks/SecPentester/CVE-7600-2018">	<img alt="stars" src="https://img.shields.io/github/stars/SecPentester/CVE-7600-2018">
 - [kahliya/CVE-2018-7600-drupalgeddon2-scanner](https://github.com/kahliya/CVE-2018-7600-drupalgeddon2-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kahliya/CVE-2018-7600-drupalgeddon2-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kahliya/CVE-2018-7600-drupalgeddon2-scanner">
 - [happynote3966/CVE-2018-7600](https://github.com/happynote3966/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2018-7600">
-- [jyo-zi/CVE-2018-7600](https://github.com/jyo-zi/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/jyo-zi/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/jyo-zi/CVE-2018-7600">
+- [soch4n/CVE-2018-7600](https://github.com/soch4n/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/soch4n/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/soch4n/CVE-2018-7600">
 - [1AmG0d/myDrupal](https://github.com/1AmG0d/myDrupal)	<img alt="forks" src="https://img.shields.io/github/forks/1AmG0d/myDrupal">	<img alt="stars" src="https://img.shields.io/github/stars/1AmG0d/myDrupal">
 - [Hestat/drupal-check](https://github.com/Hestat/drupal-check)	<img alt="forks" src="https://img.shields.io/github/forks/Hestat/drupal-check">	<img alt="stars" src="https://img.shields.io/github/stars/Hestat/drupal-check">
 - [thehappydinoa/CVE-2018-7600](https://github.com/thehappydinoa/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/thehappydinoa/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/thehappydinoa/CVE-2018-7600">
@@ -168,6 +168,7 @@
 - [r0lh/CVE-2018-7600](https://github.com/r0lh/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2018-7600">
 - [demetrius-ford/CVE-2018-7600](https://github.com/demetrius-ford/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/demetrius-ford/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/demetrius-ford/CVE-2018-7600">
 - [killeveee/CVE-2018-7600](https://github.com/killeveee/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/killeveee/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/killeveee/CVE-2018-7600">
+- [raytran54/CVE-2018-7600](https://github.com/raytran54/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/raytran54/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/raytran54/CVE-2018-7600">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)

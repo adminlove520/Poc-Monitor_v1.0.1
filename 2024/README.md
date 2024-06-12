@@ -105,6 +105,9 @@
 - [K3ysTr0K3R/CVE-2024-4577-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-4577-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-4577-EXPLOIT">
 - [it-t4mpan/check_cve_2024_4577.sh](https://github.com/it-t4mpan/check_cve_2024_4577.sh)	<img alt="forks" src="https://img.shields.io/github/forks/it-t4mpan/check_cve_2024_4577.sh">	<img alt="stars" src="https://img.shields.io/github/stars/it-t4mpan/check_cve_2024_4577.sh">
 - [bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/bl4cksku11/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/bl4cksku11/CVE-2024-4577">
+- [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/d3ck4/Shodan-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/d3ck4/Shodan-CVE-2024-4577">
+- [aaddmin1122345/CVE-2024-4577-POC](https://github.com/aaddmin1122345/CVE-2024-4577-POC)	<img alt="forks" src="https://img.shields.io/github/forks/aaddmin1122345/CVE-2024-4577-POC">	<img alt="stars" src="https://img.shields.io/github/stars/aaddmin1122345/CVE-2024-4577-POC">
+- [nemu1k5ma/CVE-2024-4577](https://github.com/nemu1k5ma/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nemu1k5ma/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nemu1k5ma/CVE-2024-4577">
 
 ---
 ## CVE-2024-4444 (2024-05-14T15:43:00)
