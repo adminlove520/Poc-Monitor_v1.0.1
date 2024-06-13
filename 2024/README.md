@@ -116,6 +116,7 @@
 - [XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE](https://github.com/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">
 - [Entropt/CVE-2024-4577_Analysis](https://github.com/Entropt/CVE-2024-4577_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Entropt/CVE-2024-4577_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Entropt/CVE-2024-4577_Analysis">
 - [hexedbyte/cve-2024-4577](https://github.com/hexedbyte/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/hexedbyte/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/hexedbyte/cve-2024-4577">
+- [Sh0ckFR/CVE-2024-4577](https://github.com/Sh0ckFR/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sh0ckFR/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sh0ckFR/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
