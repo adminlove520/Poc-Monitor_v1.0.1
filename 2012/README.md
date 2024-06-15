@@ -99,8 +99,8 @@
 - [Live-Hack-CVE/CVE-2012-5475](https://github.com/Live-Hack-CVE/CVE-2012-5475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5475">
 
 ---
-## CVE-2012-5321 ()
-> 
+## CVE-2012-5321 (2012-10-08T18:55:00)
+> tiki-featured_link.php in TikiWiki CMS/Groupware 8.3 allows remote attackers to load arbitrary web site pages into frames and conduct phishing attacks via the url parameter, aka "frame injection."
 - [Cappricio-Securities/CVE-2012-5321](https://github.com/Cappricio-Securities/CVE-2012-5321)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2012-5321">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2012-5321">
 
 ---
