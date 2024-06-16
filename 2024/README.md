@@ -120,6 +120,7 @@
 - [hexedbyte/cve-2024-4577](https://github.com/hexedbyte/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/hexedbyte/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/hexedbyte/cve-2024-4577">
 - [Sh0ckFR/CVE-2024-4577](https://github.com/Sh0ckFR/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sh0ckFR/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sh0ckFR/CVE-2024-4577">
 - [gotr00t0day/CVE-2024-4577](https://github.com/gotr00t0day/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4577">
+- [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -1204,6 +1205,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
+
+---
+## CVE-2024-30078 ()
+> 
+- [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
