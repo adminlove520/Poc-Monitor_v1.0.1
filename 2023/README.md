@@ -5126,6 +5126,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [Danasuley/CVE-2023-28252-](https://github.com/Danasuley/CVE-2023-28252-)	<img alt="forks" src="https://img.shields.io/github/forks/Danasuley/CVE-2023-28252-">	<img alt="stars" src="https://img.shields.io/github/stars/Danasuley/CVE-2023-28252-">
 - [bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252">
 - [duck-sec/CVE-2023-28252-Compiled-exe](https://github.com/duck-sec/CVE-2023-28252-Compiled-exe)	<img alt="forks" src="https://img.shields.io/github/forks/duck-sec/CVE-2023-28252-Compiled-exe">	<img alt="stars" src="https://img.shields.io/github/stars/duck-sec/CVE-2023-28252-Compiled-exe">
+- [Vulmatch/CVE-2023-28252](https://github.com/Vulmatch/CVE-2023-28252)	<img alt="forks" src="https://img.shields.io/github/forks/Vulmatch/CVE-2023-28252">	<img alt="stars" src="https://img.shields.io/github/stars/Vulmatch/CVE-2023-28252">
 
 ---
 ## CVE-2023-2825 (2023-05-26T21:15:00)
@@ -7203,6 +7204,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-23607 (2023-01-20T21:15:00)
 > erohtar/Dasherr is a dashboard for self-hosted services. In affected versions unrestricted file upload allows any unauthenticated user to execute arbitrary code on the server. The file /www/include/filesave.php allows for any file to uploaded to anywhere. If an attacker uploads a php file they can execute code on the server. This issue has been addressed in version 1.05.00. Users are advised to upgrade. There are no known workarounds for this issue.
 - [Live-Hack-CVE/CVE-2023-23607](https://github.com/Live-Hack-CVE/CVE-2023-23607)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23607">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23607">
+- [Pylonet/CVE-2023-23607](https://github.com/Pylonet/CVE-2023-23607)	<img alt="forks" src="https://img.shields.io/github/forks/Pylonet/CVE-2023-23607">	<img alt="stars" src="https://img.shields.io/github/stars/Pylonet/CVE-2023-23607">
 
 ---
 ## CVE-2023-23596 (2023-01-20T08:15:00)
