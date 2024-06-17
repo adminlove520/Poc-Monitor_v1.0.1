@@ -2445,6 +2445,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [z3rObyte/CVE-2024-23334-PoC](https://github.com/z3rObyte/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3rObyte/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3rObyte/CVE-2024-23334-PoC">
 - [jhonnybonny/CVE-2024-23334](https://github.com/jhonnybonny/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2024-23334">
 - [brian-edgar-re/poc-cve-2024-23334](https://github.com/brian-edgar-re/poc-cve-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/brian-edgar-re/poc-cve-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/brian-edgar-re/poc-cve-2024-23334">
+- [binaryninja/CVE-2024-23334](https://github.com/binaryninja/CVE-2024-23334)	<img alt="forks" src="https://img.shields.io/github/forks/binaryninja/CVE-2024-23334">	<img alt="stars" src="https://img.shields.io/github/stars/binaryninja/CVE-2024-23334">
 
 ---
 ## CVE-2024-23222 (2024-01-23T01:15:00)
