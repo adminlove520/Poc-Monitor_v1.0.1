@@ -253,6 +253,15 @@
 - [kva55/CVE-2024-36416](https://github.com/kva55/CVE-2024-36416)	<img alt="forks" src="https://img.shields.io/github/forks/kva55/CVE-2024-36416">	<img alt="stars" src="https://img.shields.io/github/stars/kva55/CVE-2024-36416">
 
 ---
+## CVE-2024-36104 (2024-06-04T08:15:00)
+> Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz. This issue affects Apache OFBiz: before 18.12.14.
+
+Users are recommended to upgrade to version 18.12.14, which fixes the issue.
+
+
+- [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-36104">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-36104">
+
+---
 ## CVE-2024-36079 (2024-05-24T22:15:00)
 > An issue was discovered in Vaultize 21.07.27. When uploading files, there is no check that the filename parameter is correct. As a result, a temporary file will be created outside the specified directory when the file is downloaded. To exploit this, an authenticated user would upload a file with an incorrect file name, and then download it.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
@@ -2417,6 +2426,7 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
 - [Mr-r00t11/CVE-2024-23692](https://github.com/Mr-r00t11/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-23692">
 - [Tupler/CVE-2024-23692-exp](https://github.com/Tupler/CVE-2024-23692-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Tupler/CVE-2024-23692-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Tupler/CVE-2024-23692-exp">
+- [BBD-YZZ/CVE-2024-23692](https://github.com/BBD-YZZ/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2024-23692">
 
 ---
 ## CVE-2024-23652 (2024-01-31T22:15:00)
@@ -3262,8 +3272,8 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
 
 ---
-## CVE-2024-0757 ()
-> 
+## CVE-2024-0757 (2024-06-04T06:15:00)
+> The Insert or Embed Articulate Content into WordPress plugin through 4.3000000023 is not properly filtering which file extensions are allowed to be imported on the server, allowing the uploading of malicious code within zip files
 - [hunThubSpace/CVE-2024-0757](https://github.com/hunThubSpace/CVE-2024-0757)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757">
 - [hunThubSpace/CVE-2024-0757-Exploit](https://github.com/hunThubSpace/CVE-2024-0757-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757-Exploit">
 
