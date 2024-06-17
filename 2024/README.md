@@ -122,6 +122,7 @@
 - [gotr00t0day/CVE-2024-4577](https://github.com/gotr00t0day/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-4577">
 - [sug4r-wr41th/CVE-2024-4577](https://github.com/sug4r-wr41th/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2024-4577">
 - [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
+- [VictorShem/CVE-2024-4577](https://github.com/VictorShem/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -1232,6 +1233,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 > Windows Wi-Fi Driver Remote Code Execution Vulnerability
 - [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">
 - [lvyitian/CVE-2024-30078-](https://github.com/lvyitian/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/lvyitian/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/lvyitian/CVE-2024-30078-">
+- [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/52by/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/52by/CVE-2024-30078">
+- [N00BS3c/CVE-2024-30078](https://github.com/N00BS3c/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/N00BS3c/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/N00BS3c/CVE-2024-30078">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
