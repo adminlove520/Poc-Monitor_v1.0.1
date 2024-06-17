@@ -3262,6 +3262,12 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
 
 ---
+## CVE-2024-0757 ()
+> 
+- [hunThubSpace/CVE-2024-0757](https://github.com/hunThubSpace/CVE-2024-0757)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757">
+- [hunThubSpace/CVE-2024-0757-Exploit](https://github.com/hunThubSpace/CVE-2024-0757-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hunThubSpace/CVE-2024-0757-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hunThubSpace/CVE-2024-0757-Exploit">
+
+---
 ## CVE-2024-0713 (2024-01-19T14:15:00)
 > A vulnerability was found in Monitorr 1.7.6m. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the file /assets/php/upload.php of the component Services Configuration. The manipulation of the argument fileToUpload leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-251539. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [kitodd/CVE-2024-0713](https://github.com/kitodd/CVE-2024-0713)	<img alt="forks" src="https://img.shields.io/github/forks/kitodd/CVE-2024-0713">	<img alt="stars" src="https://img.shields.io/github/stars/kitodd/CVE-2024-0713">
