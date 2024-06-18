@@ -1261,6 +1261,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [52by/CVE-2024-30078](https://github.com/52by/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/52by/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/52by/CVE-2024-30078">
 - [N00BS3c/CVE-2024-30078](https://github.com/N00BS3c/CVE-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/N00BS3c/CVE-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/N00BS3c/CVE-2024-30078">
 - [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
+- [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
@@ -2717,8 +2718,8 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [labesterOct/CVE-2024-22024](https://github.com/labesterOct/CVE-2024-22024)	<img alt="forks" src="https://img.shields.io/github/forks/labesterOct/CVE-2024-22024">	<img alt="stars" src="https://img.shields.io/github/stars/labesterOct/CVE-2024-22024">
 
 ---
-## CVE-2024-22002 ()
-> 
+## CVE-2024-22002 (2024-06-18T19:15:00)
+> CORSAIR iCUE 5.9.105 with iCUE Murals on Windows allows unprivileged users to insert DLL files in the cuepkg-1.2.6 subdirectory of the installation directory.
 - [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002)	<img alt="forks" src="https://img.shields.io/github/forks/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">	<img alt="stars" src="https://img.shields.io/github/stars/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">
 
 ---
