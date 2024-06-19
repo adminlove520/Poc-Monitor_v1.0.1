@@ -2517,6 +2517,11 @@
 - [rhbb/CVE-2019-17671](https://github.com/rhbb/CVE-2019-17671)	<img alt="forks" src="https://img.shields.io/github/forks/rhbb/CVE-2019-17671">	<img alt="stars" src="https://img.shields.io/github/stars/rhbb/CVE-2019-17671">
 
 ---
+## CVE-2019-17666 (2019-10-17T02:15:00)
+> rtl_p2p_noa_ie in drivers/net/wireless/realtek/rtlwifi/ps.c in the Linux kernel through 5.3.6 lacks a certain upper-bound check, leading to a buffer overflow.
+- [uthrasri/CVE-2019-17666](https://github.com/uthrasri/CVE-2019-17666)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2019-17666">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2019-17666">
+
+---
 ## CVE-2019-17662 (2019-10-16T18:15:00)
 > ThinVNC 1.0b1 is vulnerable to arbitrary file read, which leads to a compromise of the VNC server. The vulnerability exists even when authentication is turned on during the deployment of the VNC server. The password for authentication is stored in cleartext in a file that can be read via a ../../ThinVnc.ini directory traversal attack vector.
 - [Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)	<img alt="forks" src="https://img.shields.io/github/forks/Tamagaft/CVE-2019-17662">	<img alt="stars" src="https://img.shields.io/github/stars/Tamagaft/CVE-2019-17662">
