@@ -1106,6 +1106,11 @@
 - [Live-Hack-CVE/CVE-2016-2070](https://github.com/Live-Hack-CVE/CVE-2016-2070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2070">
 
 ---
+## CVE-2016-2004 ()
+> 
+- [marcocarolasec/CVE-2016-2004-Exploit](https://github.com/marcocarolasec/CVE-2016-2004-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/marcocarolasec/CVE-2016-2004-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/marcocarolasec/CVE-2016-2004-Exploit">
+
+---
 ## CVE-2016-20018 (2022-12-19T09:15:00)
 > Knex Knex.js through 2.3.0 has a limited SQL injection vulnerability that can be exploited to ignore the WHERE clause of a SQL query.
 - [Live-Hack-CVE/CVE-2016-20018](https://github.com/Live-Hack-CVE/CVE-2016-20018)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-20018">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-20018">
