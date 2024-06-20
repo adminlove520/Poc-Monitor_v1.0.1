@@ -1668,6 +1668,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [cve-2024/CVE-2024-27956-RCE](https://github.com/cve-2024/CVE-2024-27956-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-27956-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-27956-RCE">
 
 ---
+## CVE-2024-27815 (2024-06-10T21:15:00)
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in tvOS 17.5, visionOS 1.2, iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
+- [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
+
+---
 ## CVE-2024-27804 (2024-05-14T15:13:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 17.5 and iPadOS 17.5, tvOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
