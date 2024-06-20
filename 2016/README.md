@@ -1106,8 +1106,8 @@
 - [Live-Hack-CVE/CVE-2016-2070](https://github.com/Live-Hack-CVE/CVE-2016-2070)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-2070">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-2070">
 
 ---
-## CVE-2016-2004 ()
-> 
+## CVE-2016-2004 (2016-04-21T11:00:00)
+> HPE Data Protector before 7.03_108, 8.x before 8.15, and 9.x before 9.06 allow remote attackers to execute arbitrary code via unspecified vectors related to lack of authentication.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2014-2623.
 - [marcocarolasec/CVE-2016-2004-Exploit](https://github.com/marcocarolasec/CVE-2016-2004-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/marcocarolasec/CVE-2016-2004-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/marcocarolasec/CVE-2016-2004-Exploit">
 
 ---
