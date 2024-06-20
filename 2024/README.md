@@ -270,8 +270,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [optistream/securenvoy-cve-2024-37393](https://github.com/optistream/securenvoy-cve-2024-37393)	<img alt="forks" src="https://img.shields.io/github/forks/optistream/securenvoy-cve-2024-37393">	<img alt="stars" src="https://img.shields.io/github/stars/optistream/securenvoy-cve-2024-37393">
 
 ---
-## CVE-2024-37079 ()
-> 
+## CVE-2024-37079 (2024-06-18T06:15:00)
+> vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.
 - [v3rce/CVE-2024-37079-RCE-POC](https://github.com/v3rce/CVE-2024-37079-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3rce/CVE-2024-37079-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3rce/CVE-2024-37079-RCE-POC">
 
 ---
@@ -392,6 +392,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 > An issue was discovered in HSC Mailinspector 5.2.17-3 through v.5.2.18. An Unauthenticated Path Traversal vulnerability exists in the /public/loader.php file. The path parameter does not properly filter whether the file and directory passed are part of the webroot, allowing an attacker to read arbitrary files on the server.
 - [osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/osvaldotenorio/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/osvaldotenorio/CVE-2024-34470">
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
+- [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)
@@ -1286,6 +1287,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [kvx07/CVE_2024_30078_A_POC](https://github.com/kvx07/CVE_2024_30078_A_POC)	<img alt="forks" src="https://img.shields.io/github/forks/kvx07/CVE_2024_30078_A_POC">	<img alt="stars" src="https://img.shields.io/github/stars/kvx07/CVE_2024_30078_A_POC">
 - [nkontopoul/checkwifivulnerability](https://github.com/nkontopoul/checkwifivulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/nkontopoul/checkwifivulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/nkontopoul/checkwifivulnerability">
 - [sbroker-dev/cve-2024-30078](https://github.com/sbroker-dev/cve-2024-30078)	<img alt="forks" src="https://img.shields.io/github/forks/sbroker-dev/cve-2024-30078">	<img alt="stars" src="https://img.shields.io/github/stars/sbroker-dev/cve-2024-30078">
+- [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
 
 ---
 ## CVE-2024-30043 (2024-05-14T17:17:00)
@@ -2842,6 +2844,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [lolminerxmrig/multicheck_CVE-2024-21762](https://github.com/lolminerxmrig/multicheck_CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/lolminerxmrig/multicheck_CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/lolminerxmrig/multicheck_CVE-2024-21762">
 - [zzcentury/FortiGate-CVE-2024-21762](https://github.com/zzcentury/FortiGate-CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/zzcentury/FortiGate-CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/zzcentury/FortiGate-CVE-2024-21762">
 - [Codeb3af/Cve-2024-21762-](https://github.com/Codeb3af/Cve-2024-21762-)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/Cve-2024-21762-">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/Cve-2024-21762-">
+- [rdoix/cve-2024-21762-checker](https://github.com/rdoix/cve-2024-21762-checker)	<img alt="forks" src="https://img.shields.io/github/forks/rdoix/cve-2024-21762-checker">	<img alt="stars" src="https://img.shields.io/github/stars/rdoix/cve-2024-21762-checker">
 
 ---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
