@@ -1321,6 +1321,12 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 - [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
 
 ---
+## CVE-2024-29972 (2024-06-04T02:15:00)
+> ** UNSUPPORTED WHEN ASSIGNED **
+The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
+- [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
+
+---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
 > Cacti provides an operational monitoring and fault management framework. A command injection vulnerability on the 1.3.x DEV branch allows any unauthenticated user to execute arbitrary command on the server when `register_argc_argv` option of PHP is `On`. In `cmd_realtime.php` line 119, the `$poller_id` used as part of the command execution is sourced from `$_SERVER['argv']`, which can be controlled by URL when `register_argc_argv` option of PHP is `On`. And this option is `On` by default in many environments such as the main PHP Docker image for PHP. Commit 53e8014d1f082034e0646edc6286cde3800c683d contains a patch for the issue, but this commit was reverted in commit 99633903cad0de5ace636249de16f77e57a3c8fc.
 - [Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2024-29895-CactiRCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2024-29895-CactiRCE-PoC">
@@ -2114,6 +2120,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">
 - [xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">
 - [diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC](https://github.com/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC)	<img alt="forks" src="https://img.shields.io/github/forks/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">	<img alt="stars" src="https://img.shields.io/github/stars/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC">
+- [junnythemarksman/CVE-2024-24590](https://github.com/junnythemarksman/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2024-24590">
 
 ---
 ## CVE-2024-24576 (2024-04-09T18:15:00)
