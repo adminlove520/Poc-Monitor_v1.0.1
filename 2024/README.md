@@ -1295,6 +1295,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-30491-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-30491-Poc">
 
 ---
+## CVE-2024-30270 ()
+> 
+- [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
+
+---
 ## CVE-2024-30078 (2024-06-11T17:15:00)
 > Windows Wi-Fi Driver Remote Code Execution Vulnerability
 - [alperenugurlu/CVE-2024-30078-](https://github.com/alperenugurlu/CVE-2024-30078-)	<img alt="forks" src="https://img.shields.io/github/forks/alperenugurlu/CVE-2024-30078-">	<img alt="stars" src="https://img.shields.io/github/stars/alperenugurlu/CVE-2024-30078-">
@@ -1592,6 +1597,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > An issue in the component js2py.disable_pyimport() of js2py up to v0.74 allows attackers to execute arbitrary code via a crafted API call.
 - [Marven11/CVE-2024-28397](https://github.com/Marven11/CVE-2024-28397)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397">
 - [Marven11/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Marven11/CVE-2024-28397-js2py-Sandbox-Escape">
+- [CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/CYBER-WARRIOR-SEC/CVE-2024-28397-js2py-Sandbox-Escape">
 
 ---
 ## CVE-2024-28288 (2024-03-30T01:15:00)
