@@ -412,6 +412,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34470">
 - [Cappricio-Securities/CVE-2024-34470](https://github.com/Cappricio-Securities/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-34470">
 - [Mr-r00t11/CVE-2024-34470](https://github.com/Mr-r00t11/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-34470">
+- [th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34470">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34470">
 
 ---
 ## CVE-2024-34469 (2024-05-04T20:15:00)
@@ -2986,6 +2987,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 
 
 - [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
+
+---
+## CVE-2024-21514 ()
+> 
+- [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
 
 ---
 ## CVE-2024-21508 (2024-04-11T05:15:00)
