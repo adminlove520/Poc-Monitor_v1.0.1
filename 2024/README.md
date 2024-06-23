@@ -2989,8 +2989,8 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [gogobuster/CVE-2024-21591-POC](https://github.com/gogobuster/CVE-2024-21591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gogobuster/CVE-2024-21591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gogobuster/CVE-2024-21591-POC">
 
 ---
-## CVE-2024-21514 ()
-> 
+## CVE-2024-21514 (2024-06-22T05:15:00)
+> This affects versions of the package opencart/opencart from 0.0.0. An SQL Injection issue was identified in the Divido payment extension for OpenCart, which is included by default in version 3.0.3.9. As an anonymous unauthenticated user, if the Divido payment module is installed (it does not have to be enabled), it is possible to exploit SQL injection to gain unauthorised access to the backend database. For any site which is vulnerable, any unauthenticated user could exploit this to dump the entire OpenCart database, including customer PII data.
 - [bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-21514">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-21514">
 
 ---
