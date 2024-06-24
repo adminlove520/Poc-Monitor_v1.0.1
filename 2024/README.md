@@ -921,6 +921,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Athos-Zago/CVE-2024-30973](https://github.com/Athos-Zago/CVE-2024-30973)	<img alt="forks" src="https://img.shields.io/github/forks/Athos-Zago/CVE-2024-30973">	<img alt="stars" src="https://img.shields.io/github/stars/Athos-Zago/CVE-2024-30973">
 
 ---
+## CVE-2024-30956 ()
+> 
+- [leoCottret/CVE-2024-30956](https://github.com/leoCottret/CVE-2024-30956)	<img alt="forks" src="https://img.shields.io/github/forks/leoCottret/CVE-2024-30956">	<img alt="stars" src="https://img.shields.io/github/stars/leoCottret/CVE-2024-30956">
+
+---
 ## CVE-2024-3094 (2024-03-29T17:15:00)
 > Malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. The tarballs included extra .m4 files, which contained instructions for building with automake that did not exist in the repository. These instructions, through a series of complex obfuscations, extract a prebuilt object file from one of the test archives, which is then used to modify specific functions in the code while building the liblzma package. This issue results in liblzma being used by additional software, like sshd, to provide functionality that will be interpreted by the modified functions.
 - [byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/CVE-2024-3094-info">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/CVE-2024-3094-info">
