@@ -50,6 +50,11 @@
 - [Live-Hack-CVE/CVE-2019-9850](https://github.com/Live-Hack-CVE/CVE-2019-9850)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9850">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9850">
 
 ---
+## CVE-2019-9849 (2019-07-17T12:15:00)
+> LibreOffice has a 'stealth mode' in which only documents from locations deemed 'trusted' are allowed to retrieve remote resources. This mode is not the default mode, but can be enabled by users who want to disable LibreOffice's ability to include remote resources within a document. A flaw existed where bullet graphics were omitted from this protection prior to version 6.2.5. This issue affects: Document Foundation LibreOffice versions prior to 6.2.5.
+- [mbadanoiu/CVE-2019-9849](https://github.com/mbadanoiu/CVE-2019-9849)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-9849">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-9849">
+
+---
 ## CVE-2019-9766 (2019-03-14T09:29:00)
 > Stack-based buffer overflow in Free MP3 CD Ripper 2.6, when converting a file, allows user-assisted remote attackers to execute arbitrary code via a crafted .mp3 file.
 - [zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766)	<img alt="forks" src="https://img.shields.io/github/forks/zeronohacker/CVE-2019-9766">	<img alt="stars" src="https://img.shields.io/github/stars/zeronohacker/CVE-2019-9766">
