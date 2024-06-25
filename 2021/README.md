@@ -5365,6 +5365,7 @@
 - [r1skkam/PrintNightmare](https://github.com/r1skkam/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/r1skkam/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/r1skkam/PrintNightmare">
 - [d0rb/CVE-2021-34527](https://github.com/d0rb/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2021-34527">
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
+- [Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)	<img alt="forks" src="https://img.shields.io/github/forks/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">	<img alt="stars" src="https://img.shields.io/github/stars/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
