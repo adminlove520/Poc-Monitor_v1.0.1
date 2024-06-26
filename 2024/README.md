@@ -1619,6 +1619,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [ggfzx/CVE-2024-28995](https://github.com/ggfzx/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-28995">
 - [karkis3c/cves](https://github.com/karkis3c/cves)	<img alt="forks" src="https://img.shields.io/github/forks/karkis3c/cves">	<img alt="stars" src="https://img.shields.io/github/stars/karkis3c/cves">
 - [bigb0x/CVE-2024-28995](https://github.com/bigb0x/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-28995">
+- [Praison001/CVE-2024-28995-SolarWinds-Serv-U](https://github.com/Praison001/CVE-2024-28995-SolarWinds-Serv-U)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-28995-SolarWinds-Serv-U">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-28995-SolarWinds-Serv-U">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
