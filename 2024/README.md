@@ -458,6 +458,11 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [alas1n/eslint-nextjs-cve-2024-34351-detector](https://github.com/alas1n/eslint-nextjs-cve-2024-34351-detector)	<img alt="forks" src="https://img.shields.io/github/forks/alas1n/eslint-nextjs-cve-2024-34351-detector">	<img alt="stars" src="https://img.shields.io/github/stars/alas1n/eslint-nextjs-cve-2024-34351-detector">
 
 ---
+## CVE-2024-34350 (2024-05-14T15:38:00)
+> Next.js is a React framework that can provide building blocks to create web applications. Prior to 13.5.1, an inconsistent interpretation of a crafted HTTP request meant that requests are treated as both a single request, and two separate requests by Next.js, leading to desynchronized responses. This led to a response queue poisoning vulnerability in the affected Next.js versions. For a request to be exploitable, the affected route also had to be making use of the [rewrites](https://nextjs.org/docs/app/api-reference/next-config-js/rewrites) feature in Next.js. The vulnerability is resolved in Next.js `13.5.1` and newer.
+- [Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350)	<img alt="forks" src="https://img.shields.io/github/forks/Sudistark/rewrites-nextjs-CVE-2024-34350">	<img alt="stars" src="https://img.shields.io/github/stars/Sudistark/rewrites-nextjs-CVE-2024-34350">
+
+---
 ## CVE-2024-3435 (2024-05-16T09:15:00)
 > A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
 - [ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435)	<img alt="forks" src="https://img.shields.io/github/forks/ymuraki-csc/cve-2024-3435">	<img alt="stars" src="https://img.shields.io/github/stars/ymuraki-csc/cve-2024-3435">
@@ -517,6 +522,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-34102 (2024-06-13T09:15:00)
 > Adobe Commerce versions 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary code execution. An attacker could exploit this vulnerability by sending a crafted XML document that references external entities. Exploitation of this issue does not require user interaction.
 - [ex-arny/CVE-2024-34102-RCE](https://github.com/ex-arny/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ex-arny/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ex-arny/CVE-2024-34102-RCE">
+- [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -1429,6 +1435,11 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 > ** UNSUPPORTED WHEN ASSIGNED **
 The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.
 - [WanLiChangChengWanLiChang/CVE-2024-29972](https://github.com/WanLiChangChengWanLiChang/CVE-2024-29972)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-29972">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-29972">
+
+---
+## CVE-2024-29943 (2024-03-22T13:15:00)
+> An attacker was able to perform an out-of-bounds read or write on a JavaScript object by fooling range-based bounds check elimination. This vulnerability affects Firefox < 124.0.1.
+- [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-29943">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
