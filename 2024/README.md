@@ -523,6 +523,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 > Adobe Commerce versions 2.4.7, 2.4.6-p5, 2.4.5-p7, 2.4.4-p8 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could result in arbitrary code execution. An attacker could exploit this vulnerability by sending a crafted XML document that references external entities. Exploitation of this issue does not require user interaction.
 - [ex-arny/CVE-2024-34102-RCE](https://github.com/ex-arny/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ex-arny/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ex-arny/CVE-2024-34102-RCE">
 - [ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/ArturArz1/TestCVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/ArturArz1/TestCVE-2024-34102">
+- [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
