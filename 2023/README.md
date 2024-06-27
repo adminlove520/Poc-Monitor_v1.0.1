@@ -1531,6 +1531,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 
 
 - [nidhi7598/linux-4.19.72_net_CVE-2023-4622](https://github.com/nidhi7598/linux-4.19.72_net_CVE-2023-4622)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/linux-4.19.72_net_CVE-2023-4622">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/linux-4.19.72_net_CVE-2023-4622">
+- [0range1337/CVE-CVE-2023-4622](https://github.com/0range1337/CVE-CVE-2023-4622)	<img alt="forks" src="https://img.shields.io/github/forks/0range1337/CVE-CVE-2023-4622">	<img alt="stars" src="https://img.shields.io/github/stars/0range1337/CVE-CVE-2023-4622">
 
 ---
 ## CVE-2023-46197 (2024-05-17T09:15:00)
