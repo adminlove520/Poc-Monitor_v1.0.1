@@ -35,6 +35,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-5806 (2024-06-25T15:15:00)
 > Improper Authentication vulnerability in Progress MOVEit Transfer (SFTP module) can lead to Authentication Bypass in limited scenarios.This issue affects MOVEit Transfer: from 2023.0.0 before 2023.0.11, from 2023.1.0 before 2023.1.6, from 2024.0.0 before 2024.0.2.
 - [watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806">
+- [glen-pearson/MoveIT_CVE-2024-5806](https://github.com/glen-pearson/MoveIT_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/MoveIT_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/MoveIT_CVE-2024-5806">
 
 ---
 ## CVE-2024-5737 (2024-06-28T12:15:00)
