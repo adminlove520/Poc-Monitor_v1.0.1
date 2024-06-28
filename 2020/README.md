@@ -1591,8 +1591,8 @@
 - [Live-Hack-CVE/CVE-2020-35728](https://github.com/Live-Hack-CVE/CVE-2020-35728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35728">
 
 ---
-## CVE-2020-35717 ()
-> 
+## CVE-2020-35717 (2021-01-01T10:15:00)
+> zonote through 0.4.0 allows XSS via a crafted note, with resultant Remote Code Execution (because nodeIntegration in webPreferences is true).
 - [Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-](https://github.com/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-)	<img alt="forks" src="https://img.shields.io/github/forks/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-">	<img alt="stars" src="https://img.shields.io/github/stars/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-">
 
 ---

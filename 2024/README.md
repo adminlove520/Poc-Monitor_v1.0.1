@@ -159,6 +159,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)	<img alt="forks" src="https://img.shields.io/github/forks/PhinehasNarh/CVE-2024-4577-Defend">	<img alt="stars" src="https://img.shields.io/github/stars/PhinehasNarh/CVE-2024-4577-Defend">
 - [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
 - [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
+- [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -543,6 +544,8 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-34102">
 - [bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-34102">
 - [dr3u1d/CVE-2024-34102-RCE](https://github.com/dr3u1d/CVE-2024-34102-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/dr3u1d/CVE-2024-34102-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/dr3u1d/CVE-2024-34102-RCE">
+- [d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-34102">
+- [11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-34102">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
