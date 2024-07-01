@@ -34,6 +34,8 @@
 - [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
 - [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
 - [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)	<img alt="forks" src="https://img.shields.io/github/forks/kuffsit/check_cve_2024_6387">	<img alt="stars" src="https://img.shields.io/github/stars/kuffsit/check_cve_2024_6387">
+- [xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/CVE-2024-6387_Check">
+- [bigb0x/CVE-2024-6387](https://github.com/bigb0x/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
