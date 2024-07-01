@@ -32,10 +32,12 @@
 - [FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FerasAlrimali/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FerasAlrimali/CVE-2024-6387-POC">
 - [passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/cve-2024-6387-poc">
 - [TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE">
+- [jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/jack0we/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/jack0we/CVE-2024-6387">
+- [kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)	<img alt="forks" src="https://img.shields.io/github/forks/kuffsit/check_cve_2024_6387">	<img alt="stars" src="https://img.shields.io/github/stars/kuffsit/check_cve_2024_6387">
 
 ---
-## CVE-2024-6050 ()
-> 
+## CVE-2024-6050 (2024-07-01T14:15:00)
+> Improper Neutralization of Input During Web Page Generation vulnerability in SOKRATES-software SOWA OPAC allows a Reflected Cross-Site Scripting (XSS). An attacker might trick somebody into using a crafted URL, which will cause a script to be run in user's browser. This issue affects SOWA OPAC software in versions from 4.0 before 4.9.10, from 5.0 before 6.2.12.
 - [kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)	<img alt="forks" src="https://img.shields.io/github/forks/kac89/CVE-2024-6050">	<img alt="stars" src="https://img.shields.io/github/stars/kac89/CVE-2024-6050">
 
 ---
