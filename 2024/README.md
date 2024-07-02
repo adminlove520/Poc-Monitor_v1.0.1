@@ -64,6 +64,12 @@
 - [zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2024-6387-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2024-6387-Mitigation">
 - [rumochnaya/openssh-cve-2024-6387.sh](https://github.com/rumochnaya/openssh-cve-2024-6387.sh)	<img alt="forks" src="https://img.shields.io/github/forks/rumochnaya/openssh-cve-2024-6387.sh">	<img alt="stars" src="https://img.shields.io/github/stars/rumochnaya/openssh-cve-2024-6387.sh">
 - [MaulikxLakhani/SSHScout](https://github.com/MaulikxLakhani/SSHScout)	<img alt="forks" src="https://img.shields.io/github/forks/MaulikxLakhani/SSHScout">	<img alt="stars" src="https://img.shields.io/github/stars/MaulikxLakhani/SSHScout">
+- [ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ACHUX21/checker-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ACHUX21/checker-CVE-2024-6387">
+- [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/ssh_exploiter_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/ssh_exploiter_CVE-2024-6387">
+- [hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade)	<img alt="forks" src="https://img.shields.io/github/forks/hssmo/cve-2024-6387_AImade">	<img alt="stars" src="https://img.shields.io/github/stars/hssmo/cve-2024-6387_AImade">
+- [devarshishimpi/CVE-2024-6387-Check](https://github.com/devarshishimpi/CVE-2024-6387-Check)	<img alt="forks" src="https://img.shields.io/github/forks/devarshishimpi/CVE-2024-6387-Check">	<img alt="stars" src="https://img.shields.io/github/stars/devarshishimpi/CVE-2024-6387-Check">
+- [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion">
+- [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xristos8574/regreSSHion-nmap-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xristos8574/regreSSHion-nmap-scanner">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -965,6 +971,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)	<img alt="forks" src="https://img.shields.io/github/forks/alimuhammedkose/CVE-2024-32002-linux-smash">	<img alt="stars" src="https://img.shields.io/github/stars/alimuhammedkose/CVE-2024-32002-linux-smash">
 - [bonnettheo/CVE-2024-32002](https://github.com/bonnettheo/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/bonnettheo/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/bonnettheo/CVE-2024-32002">
 - [sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002)	<img alt="forks" src="https://img.shields.io/github/forks/sreevatsa1997/test_cve_32002">	<img alt="stars" src="https://img.shields.io/github/stars/sreevatsa1997/test_cve_32002">
+- [AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/AmbroseCdMeng/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/AmbroseCdMeng/CVE-2024-32002">
 
 ---
 ## CVE-2024-31982 (2024-04-10T20:15:00)
