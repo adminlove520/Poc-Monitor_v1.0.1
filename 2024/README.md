@@ -68,6 +68,12 @@
 - [ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ACHUX21/checker-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ACHUX21/checker-CVE-2024-6387">
 - [hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade)	<img alt="forks" src="https://img.shields.io/github/forks/hssmo/cve-2024-6387_AImade">	<img alt="stars" src="https://img.shields.io/github/stars/hssmo/cve-2024-6387_AImade">
 - [AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/AiGptCode/ssh_exploiter_CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/AiGptCode/ssh_exploiter_CVE-2024-6387">
+- [th3gokul/CVE-2024-6387](https://github.com/th3gokul/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-6387">
+- [MrR0b0t19/CVE-2024-6387-Exploit-POC](https://github.com/MrR0b0t19/CVE-2024-6387-Exploit-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2024-6387-Exploit-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2024-6387-Exploit-POC">
+- [dawnl3ss/CVE-2024-6387](https://github.com/dawnl3ss/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/dawnl3ss/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/dawnl3ss/CVE-2024-6387">
+- [no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/no-one-sec/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/no-one-sec/CVE-2024-6387">
+- [xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)	<img alt="forks" src="https://img.shields.io/github/forks/xonoxitron/regreSSHion">	<img alt="stars" src="https://img.shields.io/github/stars/xonoxitron/regreSSHion">
+- [xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/xristos8574/regreSSHion-nmap-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/xristos8574/regreSSHion-nmap-scanner">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -163,6 +169,12 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-4875 (2024-05-21T09:15:00)
 > The HT Mega – Absolute Addons For Elementor plugin for WordPress is vulnerable to unauthorized modification of data|loss of data due to a missing capability check on the 'ajax_dismiss' function in versions up to, and including, 2.5.2. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to update options such as users_can_register, which can lead to unauthorized user registration.
 - [RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-4875">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-4875">
+
+---
+## CVE-2024-4836 (2024-07-02T09:15:00)
+> Web services managed by Edito CMS (Content Management System) in versions from 3.5 through 3.25 leak sensitive data as they allow downloading configuration files by an unauthenticated user.
+The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th of January 2014. Higher versions were never affected.
+- [sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)	<img alt="forks" src="https://img.shields.io/github/forks/sleep46/CVE-2024-4836_Check">	<img alt="stars" src="https://img.shields.io/github/stars/sleep46/CVE-2024-4836_Check">
 
 ---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
