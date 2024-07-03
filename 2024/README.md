@@ -90,6 +90,7 @@
 - [harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh)	<img alt="forks" src="https://img.shields.io/github/forks/harshinsecurity/sentinelssh">	<img alt="stars" src="https://img.shields.io/github/stars/harshinsecurity/sentinelssh">
 - [CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/CognisysGroup/CVE-2024-6387-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/CognisysGroup/CVE-2024-6387-Checker">
 - [t3rry327/cve-2024-6387-poc](https://github.com/t3rry327/cve-2024-6387-poc)	<img alt="forks" src="https://img.shields.io/github/forks/t3rry327/cve-2024-6387-poc">	<img alt="stars" src="https://img.shields.io/github/stars/t3rry327/cve-2024-6387-poc">
+- [jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-6387_poc">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-6387_poc">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -254,6 +255,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [ggfzx/CVE-2024-4577](https://github.com/ggfzx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-4577">
 - [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
 - [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
+- [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
