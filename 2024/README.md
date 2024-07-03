@@ -3465,6 +3465,13 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [AbdElRahmanEzzat1995/CVE-2024-20404](https://github.com/AbdElRahmanEzzat1995/CVE-2024-20404)	<img alt="forks" src="https://img.shields.io/github/forks/AbdElRahmanEzzat1995/CVE-2024-20404">	<img alt="stars" src="https://img.shields.io/github/stars/AbdElRahmanEzzat1995/CVE-2024-20404">
 
 ---
+## CVE-2024-20399 (2024-07-01T17:15:00)
+> A vulnerability in the CLI of Cisco NX-OS Software could allow an authenticated, local attacker to execute arbitrary commands as root on the underlying operating system of an affected device.
+ This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
+ Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
+- [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Blootus/CVE-2024-20399-Cisco-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Blootus/CVE-2024-20399-Cisco-RCE">
+
+---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
 > A vulnerability in a legacy capability that allowed for the preloading of VPN clients and plug-ins and that has been available in Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an authenticated, local attacker to execute arbitrary code with root-level privileges. Administrator-level privileges are required to exploit this vulnerability.
  This vulnerability is due to improper validation of a file when it is read from system flash memory. An attacker could exploit this vulnerability by copying a crafted file to the disk0: file system of an affected device. A successful exploit could allow the attacker to execute arbitrary code on the affected device after the next reload of the device, which could alter system behavior. Because the injected code could persist across device reboots, Cisco has raised the Security Impact Rating (SIR) of this advisory from Medium to High.
