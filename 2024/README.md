@@ -84,6 +84,9 @@
 - [EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker">
 - [edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2024-6387_Check">
 - [password123456/cve-security-response-guidelines](https://github.com/password123456/cve-security-response-guidelines)	<img alt="forks" src="https://img.shields.io/github/forks/password123456/cve-security-response-guidelines">	<img alt="stars" src="https://img.shields.io/github/stars/password123456/cve-security-response-guidelines">
+- [sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/sxlmnwb/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/sxlmnwb/CVE-2024-6387">
+- [imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/imv7/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/imv7/CVE-2024-6387">
+- [Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2024-6387">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -419,6 +422,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-37742 (2024-06-25T22:15:00)
 > An issue in Safe Exam Browser for Windows before 3.6 allows an attacker to share clipboard data between the SEB kiosk mode and the underlying system, compromising exam integrity which may lead to arbitrary code execution and obtaining sensitive information via the Clipboard Management component.
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
+
+---
+## CVE-2024-37726 ()
+> 
+- [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation">
 
 ---
 ## CVE-2024-37393 (2024-06-10T20:15:00)
@@ -3076,8 +3084,8 @@ QuTScloud c5.1.5.2651 and later
 - [Oxdestiny/CVE-2024-21899-RCE-POC](https://github.com/Oxdestiny/CVE-2024-21899-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-21899-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-21899-RCE-POC">
 
 ---
-## CVE-2024-21894 ()
-> 
+## CVE-2024-21894 (2024-04-04T23:15:00)
+> A heap overflow vulnerability in IPSec component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure allows an unauthenticated malicious user to send specially crafted requests in-order-to crash the service thereby causing a DoS attack. In certain conditions this may lead to execution of arbitrary code 
 - [Ronoffer/CVE-2024-21894-Proof-of-concept](https://github.com/Ronoffer/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/Ronoffer/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/Ronoffer/CVE-2024-21894-Proof-of-concept">
 - [RansomGroupCVE/CVE-2024-21894-POC](https://github.com/RansomGroupCVE/CVE-2024-21894-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-21894-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-21894-POC">
 - [AlexLondan/CVE-2024-21894-Proof-of-concept](https://github.com/AlexLondan/CVE-2024-21894-Proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-21894-Proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-21894-Proof-of-concept">
