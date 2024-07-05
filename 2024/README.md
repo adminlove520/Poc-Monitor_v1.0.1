@@ -394,8 +394,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-39211">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-39211">
 
 ---
-## CVE-2024-39210 ()
-> 
+## CVE-2024-39210 (2024-07-05T16:15:00)
+> Best House Rental Management System v1.0 was discovered to contain an arbitrary file read vulnerability via the Page parameter at index.php. This vulnerability allows attackers to read arbitrary PHP files and access other sensitive information within the application.
 - [KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)	<img alt="forks" src="https://img.shields.io/github/forks/KRookieSec/CVE-2024-39210">	<img alt="stars" src="https://img.shields.io/github/stars/KRookieSec/CVE-2024-39210">
 
 ---
