@@ -1266,6 +1266,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/DANO-AMP/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/DANO-AMP/CVE-2024-3094">
+- [robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)	<img alt="forks" src="https://img.shields.io/github/forks/robertdfrench/ifuncd-up">	<img alt="stars" src="https://img.shields.io/github/stars/robertdfrench/ifuncd-up">
 
 ---
 ## CVE-2024-30937 ()
