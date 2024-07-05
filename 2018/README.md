@@ -367,6 +367,7 @@
 - [faiqu3/cve-2018-6574](https://github.com/faiqu3/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/faiqu3/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/faiqu3/cve-2018-6574">
 - [Dannners/CVE-2018-6574-go-get-RCE](https://github.com/Dannners/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/CVE-2018-6574-go-get-RCE">
 - [bme2003/CVE-2018-6574](https://github.com/bme2003/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/bme2003/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/bme2003/CVE-2018-6574">
+- [athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/athulmur/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/athulmur/CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
