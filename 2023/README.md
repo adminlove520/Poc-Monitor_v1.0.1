@@ -10484,6 +10484,7 @@ For more details, please review the linked advisory on this CVE.
 > In WorkSource, there is a possible parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-12 Android-12L Android-13Android ID: A-220302519
 - [Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963">
 - [Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel)	<img alt="forks" src="https://img.shields.io/github/forks/Chal13W1zz/BadParcel">	<img alt="stars" src="https://img.shields.io/github/stars/Chal13W1zz/BadParcel">
+- [Ailenchick/CVE-2023-20963](https://github.com/Ailenchick/CVE-2023-20963)	<img alt="forks" src="https://img.shields.io/github/forks/Ailenchick/CVE-2023-20963">	<img alt="stars" src="https://img.shields.io/github/stars/Ailenchick/CVE-2023-20963">
 
 ---
 ## CVE-2023-20955 (2023-03-24T20:15:00)
@@ -10494,6 +10495,11 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-20949 (2023-02-15T03:15:00)
 > In s2mpg11_pmic_probe of s2mpg11-regulator.c, there is a possible out of bounds read due to a heap buffer overflow. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-259323133References: N/A
 - [Live-Hack-CVE/CVE-2023-20949](https://github.com/Live-Hack-CVE/CVE-2023-20949)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20949">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20949">
+
+---
+## CVE-2023-20945 (2023-02-28T17:15:00)
+> In phNciNfc_MfCreateXchgDataHdr of phNxpExtns_MifareStd.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-246932269
+- [Ailenchick/CVE-2023-20945](https://github.com/Ailenchick/CVE-2023-20945)	<img alt="forks" src="https://img.shields.io/github/forks/Ailenchick/CVE-2023-20945">	<img alt="stars" src="https://img.shields.io/github/stars/Ailenchick/CVE-2023-20945">
 
 ---
 ## CVE-2023-20944 (2023-02-28T17:15:00)
