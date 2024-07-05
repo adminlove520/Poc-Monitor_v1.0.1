@@ -267,6 +267,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/olebris/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/olebris/CVE-2024-4577">
 - [AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/AlperenY-cs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/AlperenY-cs/CVE-2024-4577">
 - [charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2024-4577">
+- [cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/cybersagor/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/cybersagor/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -1256,6 +1257,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)	<img alt="forks" src="https://img.shields.io/github/forks/neuralinhibitor/xzwhy">	<img alt="stars" src="https://img.shields.io/github/stars/neuralinhibitor/xzwhy">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
 - [shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/shefirot/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/shefirot/CVE-2024-3094">
+- [DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/DANO-AMP/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/DANO-AMP/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()
