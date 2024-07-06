@@ -507,6 +507,12 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Bi0x/CVE-2024-37032](https://github.com/Bi0x/CVE-2024-37032)	<img alt="forks" src="https://img.shields.io/github/forks/Bi0x/CVE-2024-37032">	<img alt="stars" src="https://img.shields.io/github/stars/Bi0x/CVE-2024-37032">
 
 ---
+## CVE-2024-36991 (2024-07-01T17:15:00)
+> In Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10, an attacker could perform a path traversal on the /modules/messaging/ endpoint in Splunk Enterprise on Windows. This vulnerability should only affect Splunk Enterprise on Windows.
+- [bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36991">
+- [Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36991">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36991">
+
+---
 ## CVE-2024-36837 (2024-06-05T15:15:00)
 > SQL Injection vulnerability in CRMEB v.5.2.2 allows a remote attacker to obtain sensitive information via the getProductList function in the ProductController.php file.
 - [phtcloud-dev/CVE-2024-36837](https://github.com/phtcloud-dev/CVE-2024-36837)	<img alt="forks" src="https://img.shields.io/github/forks/phtcloud-dev/CVE-2024-36837">	<img alt="stars" src="https://img.shields.io/github/stars/phtcloud-dev/CVE-2024-36837">
@@ -536,6 +542,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36401">
 - [Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Niuwoo/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Niuwoo/CVE-2024-36401">
 - [RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-36401">
+- [Mr-xn/CVE-2024-36401](https://github.com/Mr-xn/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-36401">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
@@ -1646,6 +1653,7 @@ The command injection vulnerability in the “setCookie” parameter in Zyxel NA
 - [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
 - [p0et08/CVE-2024-29973](https://github.com/p0et08/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-29973">
 - [RevoltSecurities/CVE-2024-29973](https://github.com/RevoltSecurities/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-29973">
+- [Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc](https://github.com/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc">
 
 ---
 ## CVE-2024-29972 (2024-06-04T02:15:00)
