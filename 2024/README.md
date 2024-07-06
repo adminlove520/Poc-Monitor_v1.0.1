@@ -3101,6 +3101,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 - [RansomGroupCVE/CVE-2024-22328-POC](https://github.com/RansomGroupCVE/CVE-2024-22328-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RansomGroupCVE/CVE-2024-22328-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RansomGroupCVE/CVE-2024-22328-POC">
 
 ---
+## CVE-2024-22275 (2024-05-21T18:15:00)
+> The vCenter Server contains a partial file read vulnerability. A malicious actor with administrative privileges on the vCenter appliance shell may exploit this issue to partially read arbitrary files containing sensitive data.
+- [mbadanoiu/CVE-2024-22275](https://github.com/mbadanoiu/CVE-2024-22275)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-22275">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-22275">
+
+---
 ## CVE-2024-22274 (2024-05-21T18:15:00)
 > The vCenter Server contains an authenticated remote code execution vulnerability. A malicious actor with administrative privileges on the vCenter appliance shell may exploit this issue to run arbitrary commands on the underlying operating system.
 - [mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-22274">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-22274">
