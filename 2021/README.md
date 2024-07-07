@@ -4479,6 +4479,11 @@
 - [Live-Hack-CVE/CVE-2021-3638](https://github.com/Live-Hack-CVE/CVE-2021-3638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3638">
 
 ---
+## CVE-2021-36361 ()
+> 
+- [T0X1Cx/CVE-2021-36361-Exploit](https://github.com/T0X1Cx/CVE-2021-36361-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36361-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36361-Exploit">
+
+---
 ## CVE-2021-3636 (2021-07-30T20:15:00)
 > It was found in OpenShift, before version 4.8, that the generated certificate for the in-cluster Service CA, incorrectly included additional certificates. The Service CA is automatically mounted into all pods, allowing them to safely connect to trusted in-cluster services that present certificates signed by the trusted Service CA. The incorrect inclusion of additional CAs in this certificate would allow an attacker that compromises any of the additional CAs to masquerade as a trusted in-cluster service.
 - [Live-Hack-CVE/CVE-2021-3636](https://github.com/Live-Hack-CVE/CVE-2021-3636)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3636">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3636">
