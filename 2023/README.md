@@ -2108,6 +2108,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 ## CVE-2023-4220 ()
 > 
 - [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">
+- [m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc">
 
 ---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
