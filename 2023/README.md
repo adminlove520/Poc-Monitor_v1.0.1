@@ -2116,6 +2116,20 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [B1TC0R3/CVE-2023-4220-PoC](https://github.com/B1TC0R3/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220-PoC">
 
 ---
+## CVE-2023-422 ()
+> 
+- [HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE](https://github.com/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-422-Chamilo-LMS-RCE">
+- [B1TC0R3/CVE-2023-4220-PoC](https://github.com/B1TC0R3/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2023-4220-PoC">
+- [HO4XXX/cve-2023-4220-poc](https://github.com/HO4XXX/cve-2023-4220-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HO4XXX/cve-2023-4220-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HO4XXX/cve-2023-4220-poc">
+- [Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit](https://github.com/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ziad-Sakr/Chamilo-LMS-CVE-2023-4220-Exploit">
+- [insomnia-jacob/CVE-2023-4220-](https://github.com/insomnia-jacob/CVE-2023-4220-)	<img alt="forks" src="https://img.shields.io/github/forks/insomnia-jacob/CVE-2023-4220-">	<img alt="stars" src="https://img.shields.io/github/stars/insomnia-jacob/CVE-2023-4220-">
+- [charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-4220">
+- [dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220">
+- [andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283)	<img alt="forks" src="https://img.shields.io/github/forks/andreysanyuk/CVE-2023-42283">	<img alt="stars" src="https://img.shields.io/github/stars/andreysanyuk/CVE-2023-42283">
+- [andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284)	<img alt="forks" src="https://img.shields.io/github/forks/andreysanyuk/CVE-2023-42284">	<img alt="stars" src="https://img.shields.io/github/stars/andreysanyuk/CVE-2023-42284">
+- [itssixtyn3in/CVE-2023-42222](https://github.com/itssixtyn3in/CVE-2023-42222)	<img alt="forks" src="https://img.shields.io/github/forks/itssixtyn3in/CVE-2023-42222">	<img alt="stars" src="https://img.shields.io/github/stars/itssixtyn3in/CVE-2023-42222">
+
+---
 ## CVE-2023-42120 (2024-05-03T03:15:00)
 > Control Web Panel dns_zone_editor Command Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Control Web Panel. Authentication is required to exploit this vulnerability.
 
