@@ -1360,6 +1360,11 @@
 - [Live-Hack-CVE/CVE-2017-15108](https://github.com/Live-Hack-CVE/CVE-2017-15108)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15108">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15108">
 
 ---
+## CVE-2017-15099 (2017-11-22T18:29:00)
+> INSERT ... ON CONFLICT DO UPDATE commands in PostgreSQL 10.x before 10.1, 9.6.x before 9.6.6, and 9.5.x before 9.5.10 disclose table contents that the invoker lacks privilege to read. These exploits affect only tables where the attacker lacks full read access but has both INSERT and UPDATE privileges. Exploits bypass row level security policies and lack of SELECT privilege.
+- [ToontjeM/CVE-2017-15099](https://github.com/ToontjeM/CVE-2017-15099)	<img alt="forks" src="https://img.shields.io/github/forks/ToontjeM/CVE-2017-15099">	<img alt="stars" src="https://img.shields.io/github/stars/ToontjeM/CVE-2017-15099">
+
+---
 ## CVE-2017-15097 (2018-07-27T20:29:00)
 > Privilege escalation flaws were found in the Red Hat initialization scripts of PostgreSQL. An attacker with access to the postgres user account could use these flaws to obtain root access on the server machine.
 - [Live-Hack-CVE/CVE-2017-15097](https://github.com/Live-Hack-CVE/CVE-2017-15097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15097">
