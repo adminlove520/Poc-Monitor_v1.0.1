@@ -6,8 +6,8 @@
 - [xiaoqiao147/CVE-2024-666666](https://github.com/xiaoqiao147/CVE-2024-666666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/CVE-2024-666666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/CVE-2024-666666">
 
 ---
-## CVE-2024-6666 ()
-> 
+## CVE-2024-6666 (2024-07-11T07:15:00)
+> The WP ERP plugin for WordPress is vulnerable to SQL Injection via the ‘vendor_id’ parameter in all versions up to, and including, 1.13.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Accounting Manager access (erp_ac_view_sales_summary capability) and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [JohnnyBradvo/CVE-2024-6666](https://github.com/JohnnyBradvo/CVE-2024-6666)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-6666">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-6666">
 
 ---
