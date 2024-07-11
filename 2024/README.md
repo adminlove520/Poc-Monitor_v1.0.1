@@ -115,6 +115,7 @@
 - [bigb0x/SSH-Scanner](https://github.com/bigb0x/SSH-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/SSH-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/SSH-Scanner">
 - [ThemeHackers/CVE-2024-6387](https://github.com/ThemeHackers/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2024-6387">
 - [Sibijo/mitigate_ssh](https://github.com/Sibijo/mitigate_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/Sibijo/mitigate_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/Sibijo/mitigate_ssh">
+- [Passyed/regreSSHion-Fix](https://github.com/Passyed/regreSSHion-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/Passyed/regreSSHion-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/Passyed/regreSSHion-Fix">
 
 ---
 ## CVE-2024-6050 (2024-07-01T14:15:00)
@@ -3858,6 +3859,11 @@ authentication.   
 - [karlemilnikka/CVE-2024-1208-and-CVE-2024-1210](https://github.com/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-1208-and-CVE-2024-1210">
 - [Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-1208">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-1208">
 - [Cappricio-Securities/.github](https://github.com/Cappricio-Securities/.github)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/.github">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/.github">
+
+---
+## CVE-2024-11451 ()
+> 
+- [Xiaolqy/CVE-2024-11451](https://github.com/Xiaolqy/CVE-2024-11451)	<img alt="forks" src="https://img.shields.io/github/forks/Xiaolqy/CVE-2024-11451">	<img alt="stars" src="https://img.shields.io/github/stars/Xiaolqy/CVE-2024-11451">
 
 ---
 ## CVE-2024-1086 (2024-01-31T13:15:00)
