@@ -860,6 +860,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [crynomore/CVE-2024-34102](https://github.com/crynomore/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/crynomore/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/crynomore/CVE-2024-34102">
 - [1mpl3ment3d/CVE-2024-34102-RCE-POC](https://github.com/1mpl3ment3d/CVE-2024-34102-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/1mpl3ment3d/CVE-2024-34102-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/1mpl3ment3d/CVE-2024-34102-RCE-POC">
 - [bughuntar/CVE-2024-34102](https://github.com/bughuntar/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-34102">
+- [bughuntar/CVE-2024-34102-Python](https://github.com/bughuntar/CVE-2024-34102-Python)	<img alt="forks" src="https://img.shields.io/github/forks/bughuntar/CVE-2024-34102-Python">	<img alt="stars" src="https://img.shields.io/github/stars/bughuntar/CVE-2024-34102-Python">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
