@@ -4787,6 +4787,12 @@
 - [Live-Hack-CVE/CVE-2020-13948](https://github.com/Live-Hack-CVE/CVE-2020-13948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13948">
 
 ---
+## CVE-2020-13945 (2020-12-07T20:15:00)
+> In Apache APISIX, the user enabled the Admin API and deleted the Admin API access IP restriction rules. Eventually, the default token is allowed to access APISIX management data. This affects versions 1.2, 1.3, 1.4, 1.5.
+- [K3ysTr0K3R/CVE-2020-13945-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">
+- [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)	<img alt="forks" src="https://img.shields.io/github/forks/YutuSec/Apisix_Crack">	<img alt="stars" src="https://img.shields.io/github/stars/YutuSec/Apisix_Crack">
+
+---
 ## CVE-2020-13943 (2020-10-12T14:15:00)
 > If an HTTP/2 client connecting to Apache Tomcat 10.0.0-M1 to 10.0.0-M7, 9.0.0.M1 to 9.0.37 or 8.5.0 to 8.5.57 exceeded the agreed maximum number of concurrent streams for a connection (in violation of the HTTP/2 protocol), it was possible that a subsequent request made on that connection could contain HTTP headers - including HTTP/2 pseudo headers - from a previous request rather than the intended headers. This could lead to users seeing responses for unexpected resources.
 - [Live-Hack-CVE/CVE-2020-13943](https://github.com/Live-Hack-CVE/CVE-2020-13943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13943">
