@@ -354,6 +354,11 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-1266 (2014-02-22T17:05:00)
+> The SSLVerifySignedServerKeyExchange function in libsecurity_ssl/lib/sslKeyExchange.c in the Secure Transport feature in the Data Security component in Apple iOS 6.x before 6.1.6 and 7.x before 7.0.6, Apple TV 6.x before 6.0.2, and Apple OS X 10.9.x before 10.9.2 does not check the signature in a TLS Server Key Exchange message, which allows man-in-the-middle attackers to spoof SSL servers by (1) using an arbitrary private key for the signing step or (2) omitting the signing step.
+- [meetlight942/PentesterLab-Intercept-CVE-2014-1266](https://github.com/meetlight942/PentesterLab-Intercept-CVE-2014-1266)	<img alt="forks" src="https://img.shields.io/github/forks/meetlight942/PentesterLab-Intercept-CVE-2014-1266">	<img alt="stars" src="https://img.shields.io/github/stars/meetlight942/PentesterLab-Intercept-CVE-2014-1266">
+
+---
 ## CVE-2014-125086 (2023-02-06T04:15:00)
 > A vulnerability has been found in Gimmie Plugin 1.2.2 and classified as critical. Affected by this vulnerability is an unknown functionality of the file trigger_login.php. The manipulation of the argument userid leads to sql injection. Upgrading to version 1.3.0 is able to address this issue. The name of the patch is fe851002d20a8d6196a5abb68bafec4102964d5b. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220207.
 - [Live-Hack-CVE/CVE-2014-125086](https://github.com/Live-Hack-CVE/CVE-2014-125086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125086">
