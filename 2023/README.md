@@ -12119,6 +12119,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 ## CVE-2023-0400 (2023-02-02T09:15:00)
 > The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in version 11.10.0. This allowed a local user to bypass DLP controls when uploading sensitive data from a mapped drive into a web email client. Loading from a local driver was correctly prevented. Versions prior to 11.9 correctly detected and blocked the attempted upload of sensitive data.
 - [Live-Hack-CVE/CVE-2023-0400](https://github.com/Live-Hack-CVE/CVE-2023-0400)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0400">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0400">
+- [pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2023-0400">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2023-0400">
 
 ---
 ## CVE-2023-0398 (2023-01-19T09:15:00)
