@@ -368,6 +368,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [nNoSuger/CVE-2024-4577](https://github.com/nNoSuger/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nNoSuger/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nNoSuger/CVE-2024-4577">
 - [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577-PHP-RCE">
 - [a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577">
+- [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
