@@ -74,6 +74,11 @@
 - [Live-Hack-CVE/CVE-2022-23181](https://github.com/Live-Hack-CVE/CVE-2022-23181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23181">
 
 ---
+## CVE-2020-9480 (2020-06-23T22:15:00)
+> In Apache Spark 2.4.5 and earlier, a standalone resource manager's master may be configured to require authentication (spark.authenticate) via a shared secret. When enabled, however, a specially-crafted RPC to the master can succeed in starting an application's resources on the Spark cluster, even without the shared key. This can be leveraged to execute shell commands on the host machine. This does not affect Spark clusters using other resource managers (YARN, Mesos, etc).
+- [XiaoShaYu617/CVE-2020-9480](https://github.com/XiaoShaYu617/CVE-2020-9480)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoShaYu617/CVE-2020-9480">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoShaYu617/CVE-2020-9480">
+
+---
 ## CVE-2020-9453 (2021-02-05T20:15:00)
 > In Epson iProjection v2.30, the driver file EMP_MPAU.sys allows local users to cause a denial of service (BSOD) or possibly have unspecified other impact because of not validating input values from IOCtl 0x9C402406 and IOCtl 0x9C40240A. (0x9C402402 has only a NULL pointer dereference.) This affects \Device\EMPMPAUIO and \DosDevices\EMPMPAU.
 - [Live-Hack-CVE/CVE-2020-9453](https://github.com/Live-Hack-CVE/CVE-2020-9453)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-9453">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-9453">
