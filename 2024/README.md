@@ -836,6 +836,8 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [zjaycyy/CVE-2024-36401](https://github.com/zjaycyy/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/zjaycyy/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/zjaycyy/CVE-2024-36401">
 - [jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-36401-GeoServer-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-36401-GeoServer-RCE">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [Chocapikk/CVE-2024-36401](https://github.com/Chocapikk/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-36401">
+- [ahisec/geoserver-](https://github.com/ahisec/geoserver-)	<img alt="forks" src="https://img.shields.io/github/forks/ahisec/geoserver-">	<img alt="stars" src="https://img.shields.io/github/stars/ahisec/geoserver-">
 
 ---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
@@ -1050,6 +1052,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 
 - [mbadanoiu/CVE-2024-34693](https://github.com/mbadanoiu/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-34693">
 - [labc-dev/CVE-2024-34693](https://github.com/labc-dev/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-34693">
+- [Mr-r00t11/CVE-2024-34693](https://github.com/Mr-r00t11/CVE-2024-34693)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-r00t11/CVE-2024-34693">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-r00t11/CVE-2024-34693">
 
 ---
 ## CVE-2024-34582 (2024-05-16T15:15:00)
@@ -1570,6 +1573,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [daemon-reconfig/CVE-2024-32002](https://github.com/daemon-reconfig/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/daemon-reconfig/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/daemon-reconfig/CVE-2024-32002">
 - [HexDoesRandomShit/CVE-2024-32002](https://github.com/HexDoesRandomShit/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/CVE-2024-32002">
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
+- [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
