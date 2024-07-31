@@ -43,6 +43,11 @@
 - [xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiao147/cve-2024-666">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiao147/cve-2024-666">
 
 ---
+## CVE-2024-6536 (2024-07-30T06:15:00)
+> The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
+- [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
+
+---
 ## CVE-2024-65230 ()
 > 
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
@@ -440,6 +445,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [yuansec/CVE-2024-4323-dos_poc](https://github.com/yuansec/CVE-2024-4323-dos_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuansec/CVE-2024-4323-dos_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuansec/CVE-2024-4323-dos_poc">
 
 ---
+## CVE-2024-4320 (2024-06-06T19:16:00)
+> A remote code execution (RCE) vulnerability exists in the '/install_extension' endpoint of the parisneo/lollms-webui application, specifically within the `@router.post("/install_extension")` route handler. The vulnerability arises due to improper handling of the `name` parameter in the `ExtensionBuilder().build_extension()` method, which allows for local file inclusion (LFI) leading to arbitrary code execution. An attacker can exploit this vulnerability by crafting a malicious `name` parameter that causes the server to load and execute a `__init__.py` file from an arbitrary location, such as the upload directory for discussions. This vulnerability affects the latest version of parisneo/lollms-webui and can lead to remote code execution without requiring user interaction, especially when the application is exposed to an external endpoint or operated in headless mode.
+- [bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)	<img alt="forks" src="https://img.shields.io/github/forks/bolkv/CVE-2024-4320">	<img alt="stars" src="https://img.shields.io/github/stars/bolkv/CVE-2024-4320">
+
+---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
 > The Email Subscribers by Icegram Express plugin for WordPress is vulnerable to SQL Injection via the ‘hash’ parameter in all versions up to, and including, 5.7.20 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4295-Poc">
@@ -633,6 +643,16 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
+
+---
+## CVE-2024-39306 ()
+> 
+- [apena-ba/CVE-2024-39306](https://github.com/apena-ba/CVE-2024-39306)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39306">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39306">
+
+---
+## CVE-2024-39304 (2024-07-26T18:15:00)
+> ChurchCRM is an open-source church management system. Versions of the application prior to 5.9.2 are vulnerable to an authenticated SQL injection due to an improper sanitization of user input. Authentication is required, but no elevated privileges are necessary. This allows attackers to inject SQL statements directly into the database query due to inadequate sanitization of the EID parameter in in a GET request to `/GetText.php`. Version 5.9.2 patches the issue.
+- [apena-ba/CVE-2024-39304](https://github.com/apena-ba/CVE-2024-39304)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-39304">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-39304">
 
 ---
 ## CVE-2024-39250 (2024-07-22T20:15:00)
@@ -1465,6 +1485,13 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
+
+---
+## CVE-2024-32104 (2024-04-15T09:15:00)
+> Cross-Site Request Forgery (CSRF) vulnerability in XLPlugins NextMove Lite.This issue affects NextMove Lite: from n/a through 2.18.1.
+
+
+- [Cerberus-HiproPlus/CVE-2024-32104](https://github.com/Cerberus-HiproPlus/CVE-2024-32104)	<img alt="forks" src="https://img.shields.io/github/forks/Cerberus-HiproPlus/CVE-2024-32104">	<img alt="stars" src="https://img.shields.io/github/stars/Cerberus-HiproPlus/CVE-2024-32104">
 
 ---
 ## CVE-2024-32030 (2024-06-19T17:15:00)
