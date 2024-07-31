@@ -2739,6 +2739,11 @@
 - [Live-Hack-CVE/CVE-2019-17003](https://github.com/Live-Hack-CVE/CVE-2019-17003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17003">
 
 ---
+## CVE-2019-1698 ()
+> 
+- [raytran54/CVE-2019-1698](https://github.com/raytran54/CVE-2019-1698)	<img alt="forks" src="https://img.shields.io/github/forks/raytran54/CVE-2019-1698">	<img alt="stars" src="https://img.shields.io/github/stars/raytran54/CVE-2019-1698">
+
+---
 ## CVE-2019-16972 (2019-10-22T22:15:00)
 > In FusionPBX up to 4.5.7, the file app\contacts\contact_addresses.php uses an unsanitized "id" variable coming from the URL, which is reflected in HTML, leading to XSS.
 - [Live-Hack-CVE/CVE-2019-16972](https://github.com/Live-Hack-CVE/CVE-2019-16972)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16972">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16972">

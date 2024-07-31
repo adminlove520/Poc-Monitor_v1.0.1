@@ -381,6 +381,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577-PHP-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577-PHP-RCE">
 - [a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE-2024-4577">
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
+- [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Jcccccx/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Jcccccx/CVE-2024-4577">
 
 ---
 ## CVE-2024-4484 (2024-05-24T07:15:00)
@@ -1585,6 +1586,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [charlesgargasson/CVE-2024-32002](https://github.com/charlesgargasson/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2024-32002">
 - [NishanthAnand21/CVE-2024-32002-PoC](https://github.com/NishanthAnand21/CVE-2024-32002-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NishanthAnand21/CVE-2024-32002-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NishanthAnand21/CVE-2024-32002-PoC">
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
+- [mprunet/cve-2024-32002-parent](https://github.com/mprunet/cve-2024-32002-parent)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-parent">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-parent">
+- [mprunet/cve-2024-32002-child](https://github.com/mprunet/cve-2024-32002-child)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-child">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-child">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -3008,6 +3011,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [ShadowByte1/CVE-2024-24919](https://github.com/ShadowByte1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowByte1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowByte1/CVE-2024-24919">
 - [H3KEY/CVE-2024-24919](https://github.com/H3KEY/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/H3KEY/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/H3KEY/CVE-2024-24919">
 - [Jutrm/cve-2024-24919](https://github.com/Jutrm/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Jutrm/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Jutrm/cve-2024-24919">
+- [smkxt1/CVE-2024-24919](https://github.com/smkxt1/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/smkxt1/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/smkxt1/CVE-2024-24919">
 
 ---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
