@@ -809,6 +809,11 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [0xmupa/CVE-2024-37147-PoC](https://github.com/0xmupa/CVE-2024-37147-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-37147-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-37147-PoC">
 
 ---
+## CVE-2024-37085 ()
+> 
+- [mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-37085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-37085">
+
+---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
 > The vCenter Server contains multiple local privilege escalation vulnerabilities due to misconfiguration of sudo. An authenticated local user with non-administrative privileges may exploit these issues to elevate privileges to root on vCenter Server Appliance.
 - [mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2024-37081">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2024-37081">
@@ -1627,6 +1632,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 - [mprunet/cve-2024-32002-parent](https://github.com/mprunet/cve-2024-32002-parent)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-parent">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-parent">
 - [mprunet/cve-2024-32002-child](https://github.com/mprunet/cve-2024-32002-child)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-child">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-child">
+- [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
