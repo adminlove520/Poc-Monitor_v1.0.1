@@ -5406,9 +5406,10 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [0SPwn/CVE-2023-27372-PoC](https://github.com/0SPwn/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0SPwn/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0SPwn/CVE-2023-27372-PoC">
 - [izzz0/CVE-2023-27372-POC](https://github.com/izzz0/CVE-2023-27372-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-27372-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-27372-POC">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
-- [Pari-Malam/CVE-2023-27372](https://github.com/Pari-Malam/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Pari-Malam/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Pari-Malam/CVE-2023-27372">
+- [ThatNotEasy/CVE-2023-27372](https://github.com/ThatNotEasy/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-27372">
 - [redboltsec/CVE-2023-27372-PoC](https://github.com/redboltsec/CVE-2023-27372-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/redboltsec/CVE-2023-27372-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/redboltsec/CVE-2023-27372-PoC">
 - [tucommenceapousser/CVE-2023-27372b](https://github.com/tucommenceapousser/CVE-2023-27372b)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2023-27372b">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2023-27372b">
+- [Jhonsonwannaa/CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2023-27372">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2023-27372">
 
 ---
 ## CVE-2023-27363 (2024-05-03T02:15:00)
@@ -8147,6 +8148,7 @@ libzypp-plugin-appdata versions prior to 1.0.1+git.20180426.
 ## CVE-2023-22622 (2023-01-05T02:15:00)
 > WordPress through 6.1.1 depends on unpredictable client visits to cause wp-cron.php execution and the resulting security updates, and the source code describes "the scenario where a site may not receive enough visits to execute scheduled tasks in a timely manner," but neither the installation guide nor the security guide mentions this default behavior, or alerts the user about security risks on installations with very few visits.
 - [Live-Hack-CVE/CVE-2023-22622](https://github.com/Live-Hack-CVE/CVE-2023-22622)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22622">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22622">
+- [michael-david-fry/CVE-2023-22622](https://github.com/michael-david-fry/CVE-2023-22622)	<img alt="forks" src="https://img.shields.io/github/forks/michael-david-fry/CVE-2023-22622">	<img alt="stars" src="https://img.shields.io/github/stars/michael-david-fry/CVE-2023-22622">
 
 ---
 ## CVE-2023-22621 (2023-04-19T16:15:00)

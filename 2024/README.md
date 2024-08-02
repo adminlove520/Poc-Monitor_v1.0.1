@@ -2736,6 +2736,11 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
 ---
+## CVE-2024-27085 ()
+> 
+- [mahmutaymahmutay/CVE-2024-27085](https://github.com/mahmutaymahmutay/CVE-2024-27085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-27085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-27085">
+
+---
 ## CVE-2024-26817 (2024-04-13T12:15:00)
 > In the Linux kernel, the following vulnerability has been resolved:
 
