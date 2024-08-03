@@ -58,6 +58,11 @@
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
 
 ---
+## CVE-2024-6529 ()
+> 
+- [Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6529">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6529">
+
+---
 ## CVE-2024-65230 ()
 > 
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
@@ -251,6 +256,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-5274 (2024-05-28T15:15:00)
 > Type Confusion in V8 in Google Chrome prior to 125.0.6422.112 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 - [Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection">
+
+---
+## CVE-2024-5246 ()
+> 
+- [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
 ## CVE-2024-5084 (2024-05-23T15:15:00)
@@ -631,6 +641,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---
+## CVE-2024-40110 ()
+> 
+- [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
+
+---
 ## CVE-2024-39943 (2024-07-04T23:15:00)
 > rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js).
 - [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-39943-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-39943-Poc">
@@ -653,6 +668,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
+
+---
+## CVE-2024-39614 ()
+> 
+- [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
 
 ---
 ## CVE-2024-39306 ()
@@ -721,6 +741,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 
 The vulnerability has been patched in Fides version `2.39.1`. Users are advised to upgrade to this version or later to secure their systems against this threat. On Thursday, June 27, 2024, Cloudflare and Namecheap intervened at a domain level to ensure `polyfill.io` and its subdomains could not resolve to the compromised service, rendering this vulnerability unexploitable. Prior to the domain level intervention, there were no server-side workarounds and the confidentiality, integrity, and availability impacts of this vulnerability were high. Clients could ensure they were not affected by using a modern browser that supported the fetch standard.
 - [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
+
+---
+## CVE-2024-38473 ()
+> 
+- [Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38473">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38473">
 
 ---
 ## CVE-2024-38396 (2024-06-16T21:15:00)
@@ -1632,6 +1657,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [tiyeume25112004/CVE-2024-32002](https://github.com/tiyeume25112004/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/tiyeume25112004/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/tiyeume25112004/CVE-2024-32002">
 - [mprunet/cve-2024-32002-parent](https://github.com/mprunet/cve-2024-32002-parent)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-parent">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-parent">
 - [mprunet/cve-2024-32002-child](https://github.com/mprunet/cve-2024-32002-child)	<img alt="forks" src="https://img.shields.io/github/forks/mprunet/cve-2024-32002-child">	<img alt="stars" src="https://img.shields.io/github/stars/mprunet/cve-2024-32002-child">
+- [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
 - [chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/chrisWalker11/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/chrisWalker11/CVE-2024-32002">
 
 ---
@@ -2742,8 +2768,8 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 
 ---
-## CVE-2024-27085 ()
-> 
+## CVE-2024-27085 (2024-03-15T20:15:00)
+> Discourse is an open source platform for community discussion. In affected versions users that are allowed to invite others can inject arbitrarily large data in parameters used in the invite route. The problem has been patched in the latest version of Discourse. Users are advised to upgrade. Users unable to upgrade should disable invites or restrict access to them using the `invite allowed groups` site setting. 
 - [mahmutaymahmutay/CVE-2024-27085](https://github.com/mahmutaymahmutay/CVE-2024-27085)	<img alt="forks" src="https://img.shields.io/github/forks/mahmutaymahmutay/CVE-2024-27085">	<img alt="stars" src="https://img.shields.io/github/stars/mahmutaymahmutay/CVE-2024-27085">
 
 ---
@@ -3082,7 +3108,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-24590 (2024-02-06T15:15:00)
 > Deserialization of untrusted data can occur in versions 0.17.0 to 1.14.2 of the client SDK of Allegro AI’s ClearML platform, enabling a maliciously uploaded artifact to run arbitrary code on an end user’s system when interacted with.
 
-- [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
+- [h3xm4n/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/h3xm4n/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/h3xm4n/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/h3xm4n/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 - [OxyDeV2/ClearML-CVE-2024-24590](https://github.com/OxyDeV2/ClearML-CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/OxyDeV2/ClearML-CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/OxyDeV2/ClearML-CVE-2024-24590">
 - [DemonPandaz2763/CVE-2024-24590](https://github.com/DemonPandaz2763/CVE-2024-24590)	<img alt="forks" src="https://img.shields.io/github/forks/DemonPandaz2763/CVE-2024-24590">	<img alt="stars" src="https://img.shields.io/github/stars/DemonPandaz2763/CVE-2024-24590">
 - [xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xffsec/CVE-2024-24590-ClearML-RCE-Exploit">
@@ -3122,6 +3148,11 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 ## CVE-2024-24567 (2024-01-30T21:15:00)
 > Vyper is a pythonic Smart Contract Language for the ethereum virtual machine. Vyper compiler allows passing a value in builtin raw_call even if the call is a delegatecall or a staticcall. But in the context of delegatecall and staticcall the handling of value is not possible due to the semantics of the respective opcodes, and vyper will silently ignore the value= argument. If the semantics of the EVM are unknown to the developer, he could suspect that by specifying the `value` kwarg, exactly the given amount will be sent along to the target. This vulnerability affects 0.3.10 and earlier versions.
 - [brains93/CVE-2024-24567-PoC-Python](https://github.com/brains93/CVE-2024-24567-PoC-Python)	<img alt="forks" src="https://img.shields.io/github/forks/brains93/CVE-2024-24567-PoC-Python">	<img alt="stars" src="https://img.shields.io/github/stars/brains93/CVE-2024-24567-PoC-Python">
+
+---
+## CVE-2024-24549 ()
+> 
+- [Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-24549">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-24549">
 
 ---
 ## CVE-2024-24520 (2024-03-21T02:52:00)
