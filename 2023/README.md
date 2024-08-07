@@ -172,8 +172,8 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
-## CVE-2023-6444 ()
-> 
+## CVE-2023-6444 (2024-03-11T18:15:00)
+> The Seriously Simple Podcasting WordPress plugin before 3.0.0 discloses the Podcast owner's email address (which by default is the admin email address) via an unauthenticated crafted request.
 - [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2023-6444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2023-6444-POC">
 
 ---
@@ -6642,8 +6642,8 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24276](https://github.com/Live-Hack-CVE/CVE-2023-24276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24276">
 
 ---
-## CVE-2023-24249 ()
-> 
+## CVE-2023-24249 (2023-02-27T19:15:00)
+> An arbitrary file upload vulnerability in laravel-admin v1.8.19 allows attackers to execute arbitrary code via a crafted PHP file.
 - [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IDUZZEL/CVE-2023-24249-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IDUZZEL/CVE-2023-24249-Exploit">
 
 ---
