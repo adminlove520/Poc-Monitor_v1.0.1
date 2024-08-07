@@ -172,6 +172,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Arszilla/CVE-2023-6538](https://github.com/Arszilla/CVE-2023-6538)	<img alt="forks" src="https://img.shields.io/github/forks/Arszilla/CVE-2023-6538">	<img alt="stars" src="https://img.shields.io/github/stars/Arszilla/CVE-2023-6538">
 
 ---
+## CVE-2023-6444 ()
+> 
+- [Wayne-Ker/CVE-2023-6444-POC](https://github.com/Wayne-Ker/CVE-2023-6444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2023-6444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2023-6444-POC">
+
+---
 ## CVE-2023-6289 (2023-12-18T20:15:00)
 > The Swift Performance Lite WordPress plugin before 2.3.6.15 does not prevent users from exporting the plugin's settings, which may include sensitive information such as Cloudflare API tokens.
 - [RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-6289">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-6289">
@@ -6635,6 +6640,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-24276 (2023-02-06T15:15:00)
 > TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the country parameter at setting/delStaticDhcpRules.
 - [Live-Hack-CVE/CVE-2023-24276](https://github.com/Live-Hack-CVE/CVE-2023-24276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24276">
+
+---
+## CVE-2023-24249 ()
+> 
+- [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IDUZZEL/CVE-2023-24249-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IDUZZEL/CVE-2023-24249-Exploit">
 
 ---
 ## CVE-2023-24241 (2023-02-01T00:15:00)
