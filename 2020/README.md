@@ -6082,6 +6082,7 @@
 - [abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah098/CVE_2020_0796">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah098/CVE_2020_0796">
 - [hungdnvp/POC-CVE-2020-0796](https://github.com/hungdnvp/POC-CVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/hungdnvp/POC-CVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/hungdnvp/POC-CVE-2020-0796">
 - [AdamSonov/smbGhostCVE-2020-0796](https://github.com/AdamSonov/smbGhostCVE-2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/AdamSonov/smbGhostCVE-2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/AdamSonov/smbGhostCVE-2020-0796">
+- [z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities](https://github.com/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/z3ena/Exploiting-and-Mitigating-CVE-2020-0796-SMBGhost-and-Print-Spooler-Vulnerabilities">
 
 ---
 ## CVE-2020-0688 (2020-02-11T22:15:00)
