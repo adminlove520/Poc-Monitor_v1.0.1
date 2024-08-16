@@ -921,6 +921,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 > Windows TCP/IP Remote Code Execution Vulnerability
 - [diegoalbuquerque/CVE-2024-38063](https://github.com/diegoalbuquerque/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/diegoalbuquerque/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/diegoalbuquerque/CVE-2024-38063">
 - [proxykingdev/CVE-2024-38063](https://github.com/proxykingdev/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/proxykingdev/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/proxykingdev/CVE-2024-38063">
+- [etherealchief/CVE-2024-38063-PoC](https://github.com/etherealchief/CVE-2024-38063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etherealchief/CVE-2024-38063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etherealchief/CVE-2024-38063-PoC">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -1888,6 +1889,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 If a principal is compromised it means the attacker would be able to retrieve tickets encrypted to any principal, all of them being encrypted by their own key directly. By taking these tickets and salts offline, the attacker could run brute force attacks to find character strings able to decrypt tickets when combined to a principal salt (i.e. find the principal’s password).
 - [Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Cyxow/CVE-2024-3183-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Cyxow/CVE-2024-3183-POC">
+- [c2micro/ipapocket](https://github.com/c2micro/ipapocket)	<img alt="forks" src="https://img.shields.io/github/forks/c2micro/ipapocket">	<img alt="stars" src="https://img.shields.io/github/stars/c2micro/ipapocket">
 
 ---
 ## CVE-2024-31819 (2024-04-10T20:15:00)
