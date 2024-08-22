@@ -1485,6 +1485,11 @@
 - [KKkai0315/CVE-2018-17456](https://github.com/KKkai0315/CVE-2018-17456)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2018-17456">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2018-17456">
 
 ---
+## CVE-2018-17431 (2019-01-30T15:29:00)
+> Web Console in Comodo UTM Firewall before 2.7.0 allows remote attackers to execute arbitrary code without authentication via a crafted URL.
+- [sanan2004/CVE-2018-17431-Comodo](https://github.com/sanan2004/CVE-2018-17431-Comodo)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2018-17431-Comodo">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2018-17431-Comodo">
+
+---
 ## CVE-2018-1734 (2019-06-27T14:15:00)
 > IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 discloses sensitive information in error messages that may be used by a malicious user to orchestrate further attacks. IBM X-Force ID: 147838.
 - [Live-Hack-CVE/CVE-2018-1734](https://github.com/Live-Hack-CVE/CVE-2018-1734)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1734">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1734">
