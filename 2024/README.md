@@ -914,6 +914,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [ThatNotEasy/CVE-2024-38856](https://github.com/ThatNotEasy/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2024-38856">
 - [Praison001/CVE-2024-38856-ApacheOfBiz](https://github.com/Praison001/CVE-2024-38856-ApacheOfBiz)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-38856-ApacheOfBiz">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-38856-ApacheOfBiz">
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
+- [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 
 ---
 ## CVE-2024-38793 ()
@@ -1004,6 +1005,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation)	<img alt="forks" src="https://img.shields.io/github/forks/dweger-scripts/CVE-2024-38063-Remediation">	<img alt="stars" src="https://img.shields.io/github/stars/dweger-scripts/CVE-2024-38063-Remediation">
 - [almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/almogopp/Disable-IPv6-CVE-2024-38063-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/almogopp/Disable-IPv6-CVE-2024-38063-Fix">
 - [Skim1k/Other](https://github.com/Skim1k/Other)	<img alt="forks" src="https://img.shields.io/github/forks/Skim1k/Other">	<img alt="stars" src="https://img.shields.io/github/stars/Skim1k/Other">
+- [zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research)	<img alt="forks" src="https://img.shields.io/github/forks/zaneoblaneo/cve_2024_38063_research">	<img alt="stars" src="https://img.shields.io/github/stars/zaneoblaneo/cve_2024_38063_research">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
