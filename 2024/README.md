@@ -4331,6 +4331,7 @@ See the release notes ([https://confluence.atlassian.com/bambooreleases/bamboo-r
 
 This vulnerability was reported via our Bug Bounty program.
 - [MrTwizztR/CVE-2024-21689](https://github.com/MrTwizztR/CVE-2024-21689)	<img alt="forks" src="https://img.shields.io/github/forks/MrTwizztR/CVE-2024-21689">	<img alt="stars" src="https://img.shields.io/github/stars/MrTwizztR/CVE-2024-21689">
+- [salvadornakamura/CVE-2024-21689](https://github.com/salvadornakamura/CVE-2024-21689)	<img alt="forks" src="https://img.shields.io/github/forks/salvadornakamura/CVE-2024-21689">	<img alt="stars" src="https://img.shields.io/github/stars/salvadornakamura/CVE-2024-21689">
 
 ---
 ## CVE-2024-21683 (2024-05-21T23:15:00)
