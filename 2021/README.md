@@ -2341,6 +2341,7 @@
 - [justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/justakazh/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/justakazh/mass_cve-2021-41773">
 - [sanskaros/CVE-2021-41773-Exploit-Environment](https://github.com/sanskaros/CVE-2021-41773-Exploit-Environment)	<img alt="forks" src="https://img.shields.io/github/forks/sanskaros/CVE-2021-41773-Exploit-Environment">	<img alt="stars" src="https://img.shields.io/github/stars/sanskaros/CVE-2021-41773-Exploit-Environment">
 - [Maybe4a6f7365/CVE-2021-41773](https://github.com/Maybe4a6f7365/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Maybe4a6f7365/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Maybe4a6f7365/CVE-2021-41773">
+- [0xc4t/CVE-2021-41773](https://github.com/0xc4t/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xc4t/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xc4t/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
