@@ -16,6 +16,11 @@
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
+## CVE-2024-8030 ()
+> 
+- [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
+
+---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
 > A vulnerability, which was classified as problematic, has been found in FastAdmin up to 1.3.3.20220121. Affected by this issue is some unknown functionality of the file /index/ajax/lang. The manipulation of the argument lang leads to path traversal. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.3.4.20220530 is able to address this issue. It is recommended to upgrade the affected component.
 - [bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7928">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7928">
@@ -978,6 +983,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 - [0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-38856-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-38856-EXP">
 - [jocker2410/CVE-2024-38856](https://github.com/jocker2410/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/jocker2410/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/jocker2410/CVE-2024-38856">
+- [emanueldosreis/CVE-2024-38856](https://github.com/emanueldosreis/CVE-2024-38856)	<img alt="forks" src="https://img.shields.io/github/forks/emanueldosreis/CVE-2024-38856">	<img alt="stars" src="https://img.shields.io/github/stars/emanueldosreis/CVE-2024-38856">
 
 ---
 ## CVE-2024-38793 ()
