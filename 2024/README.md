@@ -16,8 +16,8 @@
 - [AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61](https://github.com/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61)	<img alt="forks" src="https://img.shields.io/github/forks/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">	<img alt="stars" src="https://img.shields.io/github/stars/AnastasiaStill/CVE-2024-81757-Apache-web-server-2.4.61">
 
 ---
-## CVE-2024-8030 ()
-> 
+## CVE-2024-8030 (2024-08-28T03:15:00)
+> The Ultimate Store Kit Elementor Addons, Woocommerce Builder, EDD Builder, Elementor Store Builder, Product Grid, Product Table, Woocommerce Slider plugin is vulnerable to PHP Object Injection via deserialization of untrusted input via the _ultimate_store_kit_wishlist cookie in versions up to , and including, 2.0.3. This makes it possible for an unauthenticated attacker to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker or above to delete arbitrary files, retrieve sensitive data, or execute code.
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
 
 ---
@@ -535,8 +535,8 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45265">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45265">
 
 ---
-## CVE-2024-45264 ()
-> 
+## CVE-2024-45264 (2024-08-27T16:15:00)
+> A cross-site request forgery (CSRF) vulnerability in the admin panel in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to add a new administrator, leading to escalation of privileges.
 - [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45264">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45264">
 
 ---
