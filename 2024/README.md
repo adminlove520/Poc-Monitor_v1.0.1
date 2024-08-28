@@ -24,6 +24,7 @@
 ## CVE-2024-7954 (2024-08-23T18:15:00)
 > The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.
 - [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7954">
+- [Chocapikk/CVE-2024-7954](https://github.com/Chocapikk/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-7954">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
@@ -1097,6 +1098,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [patchpoint/CVE-2024-38063](https://github.com/patchpoint/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/patchpoint/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/patchpoint/CVE-2024-38063">
 - [PumpkinBridge/Windows-CVE-2024-38063](https://github.com/PumpkinBridge/Windows-CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/PumpkinBridge/Windows-CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/PumpkinBridge/Windows-CVE-2024-38063">
 - [zenzue/CVE-2024-38063-POC](https://github.com/zenzue/CVE-2024-38063-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zenzue/CVE-2024-38063-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zenzue/CVE-2024-38063-POC">
+- [AdminPentester/CVE-2024-38063-](https://github.com/AdminPentester/CVE-2024-38063-)	<img alt="forks" src="https://img.shields.io/github/forks/AdminPentester/CVE-2024-38063-">	<img alt="stars" src="https://img.shields.io/github/stars/AdminPentester/CVE-2024-38063-">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -3305,6 +3307,7 @@ overflow.
 ## CVE-2024-26230 (2024-04-09T17:15:00)
 > Windows Telephony Server Elevation of Privilege Vulnerability
 - [kiwids0220/CVE-2024-26230](https://github.com/kiwids0220/CVE-2024-26230)	<img alt="forks" src="https://img.shields.io/github/forks/kiwids0220/CVE-2024-26230">	<img alt="stars" src="https://img.shields.io/github/stars/kiwids0220/CVE-2024-26230">
+- [Wa1nut4/CVE-2024-26230](https://github.com/Wa1nut4/CVE-2024-26230)	<img alt="forks" src="https://img.shields.io/github/forks/Wa1nut4/CVE-2024-26230">	<img alt="stars" src="https://img.shields.io/github/stars/Wa1nut4/CVE-2024-26230">
 
 ---
 ## CVE-2024-26229 (2024-04-09T17:15:00)
