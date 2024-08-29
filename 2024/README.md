@@ -249,6 +249,7 @@
 - [almogopp/OpenSSH-CVE-2024-6387-Fix](https://github.com/almogopp/OpenSSH-CVE-2024-6387-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/almogopp/OpenSSH-CVE-2024-6387-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/almogopp/OpenSSH-CVE-2024-6387-Fix">
 - [HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)	<img alt="forks" src="https://img.shields.io/github/forks/HadesNull123/CVE-2024-6387_Check">	<img alt="stars" src="https://img.shields.io/github/stars/HadesNull123/CVE-2024-6387_Check">
 - [identity-threat-labs/CVE-2024-6387-Vulnerability-Checker](https://github.com/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/identity-threat-labs/CVE-2024-6387-Vulnerability-Checker">
+- [identity-threat-labs/Article-RegreSSHion-CVE-2024-6387](https://github.com/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -634,6 +635,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)	<img alt="forks" src="https://img.shields.io/github/forks/HwMex0/CVE-2024-43044">	<img alt="stars" src="https://img.shields.io/github/stars/HwMex0/CVE-2024-43044">
 - [jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)	<img alt="forks" src="https://img.shields.io/github/forks/jenkinsci-cert/SECURITY-3430">	<img alt="stars" src="https://img.shields.io/github/stars/jenkinsci-cert/SECURITY-3430">
 - [v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v9d0g/CVE-2024-43044-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v9d0g/CVE-2024-43044-POC">
+- [convisolabs/CVE-2024-43044-jenkins](https://github.com/convisolabs/CVE-2024-43044-jenkins)	<img alt="forks" src="https://img.shields.io/github/forks/convisolabs/CVE-2024-43044-jenkins">	<img alt="stars" src="https://img.shields.io/github/stars/convisolabs/CVE-2024-43044-jenkins">
 
 ---
 ## CVE-2024-43003 ()
