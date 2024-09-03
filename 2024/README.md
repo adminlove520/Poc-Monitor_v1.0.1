@@ -2470,6 +2470,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [XenoM0rph97/CVE-2024-30896](https://github.com/XenoM0rph97/CVE-2024-30896)	<img alt="forks" src="https://img.shields.io/github/forks/XenoM0rph97/CVE-2024-30896">	<img alt="stars" src="https://img.shields.io/github/stars/XenoM0rph97/CVE-2024-30896">
 
 ---
+## CVE-2024-30875 ()
+> 
+- [Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-30875">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-30875">
+
+---
 ## CVE-2024-30851 (2024-05-03T17:15:00)
 > Directory Traversal vulnerability in codesiddhant Jasmin Ransomware v.1.0.1 allows an attacker to obtain sensitive information via the download_file.php component.
 - [chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc)	<img alt="forks" src="https://img.shields.io/github/forks/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">	<img alt="stars" src="https://img.shields.io/github/stars/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc">
@@ -3266,6 +3271,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27804 (2024-05-14T15:13:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 17.5 and iPadOS 17.5, tvOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
+
+---
+## CVE-2024-27766 ()
+> 
+- [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-27766">
 
 ---
 ## CVE-2024-27697 ()
