@@ -370,6 +370,7 @@
 - [athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/athulmur/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/athulmur/CVE-2018-6574">
 - [athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/athulmur/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/athulmur/CVE-2018-6574">
 - [iNoSec2/cve-2018-6574](https://github.com/iNoSec2/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/iNoSec2/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/iNoSec2/cve-2018-6574">
+- [ttyA0/cve-2018-6574](https://github.com/ttyA0/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/ttyA0/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/ttyA0/cve-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
