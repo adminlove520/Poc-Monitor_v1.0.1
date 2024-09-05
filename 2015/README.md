@@ -240,6 +240,11 @@
 - [Live-Hack-CVE/CVE-2015-6042](https://github.com/Live-Hack-CVE/CVE-2015-6042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6042">
 
 ---
+## CVE-2015-57115 ()
+> 
+- [TrixSec/CVE-2015-57115](https://github.com/TrixSec/CVE-2015-57115)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2015-57115">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2015-57115">
+
+---
 ## CVE-2015-5531 (2015-08-17T15:59:00)
 > Directory traversal vulnerability in Elasticsearch before 1.6.1 allows remote attackers to read arbitrary files via unspecified vectors related to snapshot API calls.
 - [xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2015-5531">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2015-5531">
