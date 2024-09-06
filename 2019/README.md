@@ -4100,6 +4100,7 @@
 - [aishee/CVE-2019-10149-quick](https://github.com/aishee/CVE-2019-10149-quick)	<img alt="forks" src="https://img.shields.io/github/forks/aishee/CVE-2019-10149-quick">	<img alt="stars" src="https://img.shields.io/github/stars/aishee/CVE-2019-10149-quick">
 - [bananaphones/exim-rce-quickfix](https://github.com/bananaphones/exim-rce-quickfix)	<img alt="forks" src="https://img.shields.io/github/forks/bananaphones/exim-rce-quickfix">	<img alt="stars" src="https://img.shields.io/github/stars/bananaphones/exim-rce-quickfix">
 - [hyim0810/CVE-2019-10149](https://github.com/hyim0810/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/hyim0810/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/hyim0810/CVE-2019-10149">
+- [qlusec/CVE-2019-10149](https://github.com/qlusec/CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/qlusec/CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/qlusec/CVE-2019-10149">
 
 ---
 ## CVE-2019-10129 (2019-07-30T17:15:00)
