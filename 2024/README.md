@@ -3639,6 +3639,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [svchostmm/CVE-2024-25600-mass](https://github.com/svchostmm/CVE-2024-25600-mass)	<img alt="forks" src="https://img.shields.io/github/forks/svchostmm/CVE-2024-25600-mass">	<img alt="stars" src="https://img.shields.io/github/stars/svchostmm/CVE-2024-25600-mass">
 
 ---
+## CVE-2024-25503 (2024-04-04T08:15:00)
+> Cross Site Scripting (XSS) vulnerability in Advanced REST Client v.17.0.9 allows a remote attacker to execute arbitrary code and obtain sensitive information via a crafted script to the edit details parameter of the New Project function.
+- [EQSTLab/CVE-2024-25503](https://github.com/EQSTLab/CVE-2024-25503)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-25503">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-25503">
+
+---
 ## CVE-2024-25466 (2024-02-16T09:15:00)
 > Directory Traversal vulnerability in React Native Document Picker before v.9.1.1 and fixed in v.9.1.1 allows a local attacker to execute arbitrary code via a crafted script to the Android library component.
 - [FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)	<img alt="forks" src="https://img.shields.io/github/forks/FixedOctocat/CVE-2024-25466">	<img alt="stars" src="https://img.shields.io/github/stars/FixedOctocat/CVE-2024-25466">
