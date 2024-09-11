@@ -976,6 +976,11 @@
 - [FergusGarcia/Discord-Image-Logger-Stealer](https://github.com/FergusGarcia/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/FergusGarcia/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/FergusGarcia/Discord-Image-Logger-Stealer">
 - [yezzfusl/RustyLog4jGuard](https://github.com/yezzfusl/RustyLog4jGuard)	<img alt="forks" src="https://img.shields.io/github/forks/yezzfusl/RustyLog4jGuard">	<img alt="stars" src="https://img.shields.io/github/stars/yezzfusl/RustyLog4jGuard">
 - [OtisSymbos/CVE-2021-44228-Log4Shell-](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/OtisSymbos/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/OtisSymbos/CVE-2021-44228-Log4Shell-">
+- [Shareoks/Discord-Image-Logger-Stealer](https://github.com/Shareoks/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/Discord-Image-Logger-Stealer">
+- [Shareoks/PDF-FUD-Exploit](https://github.com/Shareoks/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/PDF-FUD-Exploit">
+- [Shareoks/Slient-URL-Exploit](https://github.com/Shareoks/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/Slient-URL-Exploit">
+- [Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
+- [Shareoks/HTA-Exploit](https://github.com/Shareoks/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/HTA-Exploit">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
