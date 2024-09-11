@@ -975,6 +975,7 @@
 - [FergusGarcia/PDF-FUD-Exploit](https://github.com/FergusGarcia/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FergusGarcia/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FergusGarcia/PDF-FUD-Exploit">
 - [FergusGarcia/Discord-Image-Logger-Stealer](https://github.com/FergusGarcia/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/FergusGarcia/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/FergusGarcia/Discord-Image-Logger-Stealer">
 - [yezzfusl/RustyLog4jGuard](https://github.com/yezzfusl/RustyLog4jGuard)	<img alt="forks" src="https://img.shields.io/github/forks/yezzfusl/RustyLog4jGuard">	<img alt="stars" src="https://img.shields.io/github/stars/yezzfusl/RustyLog4jGuard">
+- [OtisSymbos/CVE-2021-44228-Log4Shell-](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/OtisSymbos/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/OtisSymbos/CVE-2021-44228-Log4Shell-">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
