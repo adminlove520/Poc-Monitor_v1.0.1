@@ -72,6 +72,7 @@
 - [threedr3am/tomcat-cluster-session-sync-exp](https://github.com/threedr3am/tomcat-cluster-session-sync-exp)	<img alt="forks" src="https://img.shields.io/github/forks/threedr3am/tomcat-cluster-session-sync-exp">	<img alt="stars" src="https://img.shields.io/github/stars/threedr3am/tomcat-cluster-session-sync-exp">
 - [Live-Hack-CVE/CVE-2021-25329](https://github.com/Live-Hack-CVE/CVE-2021-25329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25329">
 - [Live-Hack-CVE/CVE-2022-23181](https://github.com/Live-Hack-CVE/CVE-2022-23181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23181">
+- [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2020-9484">
 
 ---
 ## CVE-2020-9480 (2020-06-23T22:15:00)
