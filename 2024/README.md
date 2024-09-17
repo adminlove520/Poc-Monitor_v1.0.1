@@ -48,6 +48,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
 
 ---
+## CVE-2024-7965 (2024-08-21T21:15:00)
+> Inappropriate implementation in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
+- [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
+
+---
 ## CVE-2024-7954 (2024-08-23T18:15:00)
 > The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.
 - [bigb0x/CVE-2024-7954](https://github.com/bigb0x/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-7954">
@@ -1139,6 +1144,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40492 (2024-07-17T22:15:00)
 > Cross Site Scripting vulnerability in Heartbeat Chat v.15.2.1 allows a remote attacker to execute arbitrary code via the setname function.
 - [minendie/POC_CVE-2024-40492](https://github.com/minendie/POC_CVE-2024-40492)	<img alt="forks" src="https://img.shields.io/github/forks/minendie/POC_CVE-2024-40492">	<img alt="stars" src="https://img.shields.io/github/stars/minendie/POC_CVE-2024-40492">
+
+---
+## CVE-2024-40431 ()
+> 
+- [SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">
 
 ---
 ## CVE-2024-40422 (2024-07-24T16:15:00)
