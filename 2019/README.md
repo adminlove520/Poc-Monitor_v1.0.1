@@ -3256,6 +3256,7 @@
 - [faisalfs10x/http-vuln-cve2019-14322.nse](https://github.com/faisalfs10x/http-vuln-cve2019-14322.nse)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/http-vuln-cve2019-14322.nse">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/http-vuln-cve2019-14322.nse">
 - [faisalfs10x/CVE-2019-14322-scanner](https://github.com/faisalfs10x/CVE-2019-14322-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/CVE-2019-14322-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/CVE-2019-14322-scanner">
 - [EmreOvunc/Odoo-12.0-LFI-Vulnerabilities](https://github.com/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/EmreOvunc/Odoo-12.0-LFI-Vulnerabilities">
+- [sergiovks/CVE-2019-14322](https://github.com/sergiovks/CVE-2019-14322)	<img alt="forks" src="https://img.shields.io/github/forks/sergiovks/CVE-2019-14322">	<img alt="stars" src="https://img.shields.io/github/stars/sergiovks/CVE-2019-14322">
 
 ---
 ## CVE-2019-14302 (2020-01-10T18:15:00)
