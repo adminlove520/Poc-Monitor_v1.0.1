@@ -31,3 +31,8 @@
 ## CVE-2006-20001 (2023-01-17T20:15:00)
 > A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier.
 - [Live-Hack-CVE/CVE-2006-20001](https://github.com/Live-Hack-CVE/CVE-2006-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-20001">
+
+---
+## CVE-2006-0987 (2006-03-03T11:02:00)
+> The default configuration of ISC BIND before 9.4.1-P1, when configured as a caching name server, allows recursive queries and provides additional delegation information to arbitrary IP addresses, which allows remote attackers to cause a denial of service (traffic amplification) via DNS queries with spoofed source IP addresses. This vulnerability affects ISC, BIND versions 9.3.2 and previous.
+- [pcastagnaro/check_CVE-2006-0987](https://github.com/pcastagnaro/check_CVE-2006-0987)	<img alt="forks" src="https://img.shields.io/github/forks/pcastagnaro/check_CVE-2006-0987">	<img alt="stars" src="https://img.shields.io/github/stars/pcastagnaro/check_CVE-2006-0987">
