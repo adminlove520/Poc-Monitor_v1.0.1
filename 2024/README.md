@@ -49,6 +49,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
 
 ---
+## CVE-2024-8484 ()
+> 
+- [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-8484">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-8484">
+
+---
 ## CVE-2024-8349 ()
 > 
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
@@ -606,6 +611,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-46986 (2024-09-18T18:15:00)
 > Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails. An arbitrary file write vulnerability accessible via the upload method of the MediaController allows authenticated users to write arbitrary files to any location on the web server Camaleon CMS is running on (depending on the permissions of the underlying filesystem). E.g. This can lead to a delayed remote code execution in case an attacker is able to write a Ruby file into the config/initializers/ subfolder of the Ruby on Rails application. This issue has been addressed in release version 2.8.2. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 - [vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)	<img alt="forks" src="https://img.shields.io/github/forks/vidura2/CVE-2024-46986">	<img alt="stars" src="https://img.shields.io/github/stars/vidura2/CVE-2024-46986">
+
+---
+## CVE-2024-46627 ()
+> 
+- [d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)	<img alt="forks" src="https://img.shields.io/github/forks/d4lyw/CVE-2024-46627">	<img alt="stars" src="https://img.shields.io/github/stars/d4lyw/CVE-2024-46627">
 
 ---
 ## CVE-2024-46451 (2024-09-16T13:15:00)
@@ -1401,6 +1411,7 @@ However, malicious requests are blocked and rejected when any of the following i
   *  the  Spring Security HTTP Firewall https://docs.spring.io/spring-security/reference/servlet/exploits/firewall.html  is in use
   *  the application runs on Tomcat or Jetty
 - [weliveby/cve-2024-38816-demo](https://github.com/weliveby/cve-2024-38816-demo)	<img alt="forks" src="https://img.shields.io/github/forks/weliveby/cve-2024-38816-demo">	<img alt="stars" src="https://img.shields.io/github/stars/weliveby/cve-2024-38816-demo">
+- [masa42/CVE-2024-38816-PoC](https://github.com/masa42/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38816-PoC">
 
 ---
 ## CVE-2024-38812 (2024-09-17T18:15:00)
@@ -3424,6 +3435,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28987 (2024-08-21T22:15:00)
 > The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing remote unauthenticated user to access internal functionality and modify data.
 - [fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-28987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-28987-POC">
+- [horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
