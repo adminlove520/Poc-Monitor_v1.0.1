@@ -49,13 +49,13 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
 
 ---
-## CVE-2024-8484 ()
-> 
+## CVE-2024-8484 (2024-09-25T03:15:00)
+> The REST API TO MiniProgram plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the /wp-json/watch-life-net/v1/comment/getcomments REST API endpoint in all versions up to, and including, 4.7.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-8484">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-8484">
 
 ---
-## CVE-2024-8349 ()
-> 
+## CVE-2024-8349 (2024-09-25T03:15:00)
+> The Uncanny Groups for LearnDash plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 6.1.0.1. This is due to the plugin not properly restricting what users a group leader can edit. This makes it possible for authenticated attackers, with group leader-level access and above, to change admin account email addresses which can subsequently lead to admin account access.
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
 
 ---
@@ -118,6 +118,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [UgOrange/CVE-2024-7646-poc](https://github.com/UgOrange/CVE-2024-7646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UgOrange/CVE-2024-7646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UgOrange/CVE-2024-7646-poc">
 - [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-7646">
 - [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-7646">
+- [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/dovics/cve-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/dovics/cve-2024-7646">
 
 ---
 ## CVE-2024-7593 (2024-08-13T19:15:00)
@@ -5582,6 +5583,11 @@ authentication.   
 
 
 - [horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-1403">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-1403">
+
+---
+## CVE-2024-1380 (2024-03-13T16:15:00)
+> The Relevanssi – A Better Search plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the relevanssi_export_log_check() function in all versions up to, and including, 4.22.0. This makes it possible for unauthenticated attackers to export the query log data. The vendor has indicated that they may look into adding a capability check for proper authorization control, however, this vulnerability is theoretically patched as is.
+- [RandomRobbieBF/CVE-2024-1380](https://github.com/RandomRobbieBF/CVE-2024-1380)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-1380">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-1380">
 
 ---
 ## CVE-2024-1346 (2024-02-19T12:15:00)
