@@ -64,6 +64,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8277">
 
 ---
+## CVE-2024-8275 (2024-09-25T05:15:00)
+> The The Events Calendar plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the 'tribe_has_next_event' function in all versions up to, and including, 6.6.4 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. Only sites that have manually added tribe_has_next_event() will be vulnerable to this SQL injection.
+- [nothe1senberg/CVE-2024-8275](https://github.com/nothe1senberg/CVE-2024-8275)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8275">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8275">
+
+---
 ## CVE-2024-8190 (2024-09-10T21:15:00)
 > An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows a remote authenticated attacker to obtain remote code execution. The attacker must have admin level privileges to exploit this vulnerability.
 - [horizon3ai/CVE-2024-8190](https://github.com/horizon3ai/CVE-2024-8190)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2024-8190">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2024-8190">
@@ -126,6 +131,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7593-PoC">
 - [rxerium/CVE-2024-7593](https://github.com/rxerium/CVE-2024-7593)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2024-7593">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2024-7593">
 - [D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-7593_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-7593_PoC_Exploit">
+
+---
+## CVE-2024-7385 (2024-09-25T04:15:00)
+> The WordPress Simple HTML Sitemap plugin for WordPress is vulnerable to SQL Injection via the 'id' parameter in all versions up to, and including, 3.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Administrator-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
+- [nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-7385">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-7385">
 
 ---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
