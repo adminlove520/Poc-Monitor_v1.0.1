@@ -44,6 +44,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8517">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8517">
 
 ---
+## CVE-2024-8514 (2024-09-25T04:15:00)
+> The Prisna GWT – Google Website Translator plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.4.11 via deserialization of untrusted input from the 'prisna_import' parameter. This makes it possible for authenticated attackers, with Administrator-level access and above, to inject a PHP Object. No known POP chain is present in the vulnerable software. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code.
+- [maybeheisenberg/CVE-2024-8514](https://github.com/maybeheisenberg/CVE-2024-8514)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-8514">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-8514">
+
+---
 ## CVE-2024-8504 (2024-09-10T20:15:00)
 > An attacker with authenticated access to VICIdial as an "agent" can execute arbitrary shell commands as the "root" user. This attack can be chained with CVE-2024-8503 to execute arbitrary shell commands starting from an unauthenticated perspective.
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
@@ -124,6 +129,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-7646">
 - [r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-7646">
 - [dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646)	<img alt="forks" src="https://img.shields.io/github/forks/dovics/cve-2024-7646">	<img alt="stars" src="https://img.shields.io/github/stars/dovics/cve-2024-7646">
+
+---
+## CVE-2024-7617 (2024-09-25T03:15:00)
+> The Contact Form to Any API plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Contact Form 7 form fields in all versions up to, and including, 1.2.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
+- [maybeheisenberg/CVE-2024-7617](https://github.com/maybeheisenberg/CVE-2024-7617)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7617">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7617">
 
 ---
 ## CVE-2024-7593 (2024-08-13T19:15:00)
