@@ -74,6 +74,7 @@
 - [Live-Hack-CVE/CVE-2022-23181](https://github.com/Live-Hack-CVE/CVE-2022-23181)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-23181">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-23181">
 - [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/0dayCTF/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/0dayCTF/CVE-2020-9484">
 - [Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/Disturbante/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/Disturbante/CVE-2020-9484">
+- [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)	<img alt="forks" src="https://img.shields.io/github/forks/deathquote/CVE-2020-9484">	<img alt="stars" src="https://img.shields.io/github/stars/deathquote/CVE-2020-9484">
 
 ---
 ## CVE-2020-9480 (2020-06-23T22:15:00)
