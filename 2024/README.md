@@ -2040,6 +2040,11 @@ PANIC from 6.8.0-rc1:
 - [ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ewilded/CVE-2024-35315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ewilded/CVE-2024-35315-POC">
 
 ---
+## CVE-2024-35293 (2024-10-02T10:15:00)
+> An unauthenticated remote attacker may use a missing authentication for critical function vulnerability to reboot or erase the affected devices resulting in data loss and/or a DoS.
+- [nothe1senberg/CVE-2024-35293](https://github.com/nothe1senberg/CVE-2024-35293)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-35293">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-35293">
+
+---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
 > Composer is a dependency manager for PHP. On the 2.x branch prior to versions 2.2.24 and 2.7.7, the `composer install` command running inside a git/hg repository which has specially crafted branch names can lead to command injection. This requires cloning untrusted repositories. Patches are available in version 2.2.24 for 2.2 LTS or 2.7.7 for mainline. As a workaround, avoid cloning potentially compromised repositories.
 
