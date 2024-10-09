@@ -2347,7 +2347,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [etx-Arn/CVE-2024-34102-RCE-PoC](https://github.com/etx-Arn/CVE-2024-34102-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/etx-Arn/CVE-2024-34102-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/etx-Arn/CVE-2024-34102-RCE-PoC">
 - [EQSTLab/CVE-2024-34102](https://github.com/EQSTLab/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-34102">
 - [wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch)	<img alt="forks" src="https://img.shields.io/github/forks/wubinworks/magento2-cosmic-sting-patch">	<img alt="stars" src="https://img.shields.io/github/stars/wubinworks/magento2-cosmic-sting-patch">
-- [Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-34102">
+- [dream434/CVE-2024-34102](https://github.com/dream434/CVE-2024-34102)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-34102">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-34102">
 - [bka/magento-cve-2024-34102-exploit-cosmicstring](https://github.com/bka/magento-cve-2024-34102-exploit-cosmicstring)	<img alt="forks" src="https://img.shields.io/github/forks/bka/magento-cve-2024-34102-exploit-cosmicstring">	<img alt="stars" src="https://img.shields.io/github/stars/bka/magento-cve-2024-34102-exploit-cosmicstring">
 
 ---
@@ -3989,6 +3989,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2024-27198">
 - [Pypi-Project/RCity-CVE-2024-27198](https://github.com/Pypi-Project/RCity-CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Pypi-Project/RCity-CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Pypi-Project/RCity-CVE-2024-27198">
 - [jrbH4CK/CVE-2024-27198](https://github.com/jrbH4CK/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/jrbH4CK/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/jrbH4CK/CVE-2024-27198">
+- [geniuszlyy/CVE-2024-27198](https://github.com/geniuszlyy/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-27198">
 
 ---
 ## CVE-2024-27191 ()
