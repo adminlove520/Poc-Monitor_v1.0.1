@@ -2801,7 +2801,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31819 (2024-04-10T20:15:00)
 > An issue in WWBN AVideo v.12.4 through v.14.2 allows a remote attacker to execute arbitrary code via the systemRootPath parameter of the submitIndex.php component.
 - [Chocapikk/CVE-2024-31819](https://github.com/Chocapikk/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-31819">
-- [Jhonsonwannaa/CVE-2024-31819](https://github.com/Jhonsonwannaa/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-31819">
+- [dream434/CVE-2024-31819](https://github.com/dream434/CVE-2024-31819)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-31819">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-31819">
 
 ---
 ## CVE-2024-31777 (2024-06-13T23:15:00)
@@ -3598,7 +3598,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [wutalent/CVE-2024-29269](https://github.com/wutalent/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/wutalent/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/wutalent/CVE-2024-29269">
 - [YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/YongYe-Security/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/YongYe-Security/CVE-2024-29269">
 - [Chocapikk/CVE-2024-29269](https://github.com/Chocapikk/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-29269">
-- [Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Jhonsonwannaa/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Jhonsonwannaa/CVE-2024-29269">
+- [dream434/CVE-2024-29269](https://github.com/dream434/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/dream434/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/dream434/CVE-2024-29269">
 - [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">
 - [hack-with-rohit/CVE-2024-29269-RCE](https://github.com/hack-with-rohit/CVE-2024-29269-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hack-with-rohit/CVE-2024-29269-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hack-with-rohit/CVE-2024-29269-RCE">
 - [Quantum-Hacker/CVE-2024-29269](https://github.com/Quantum-Hacker/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-29269">
@@ -3990,6 +3990,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [Pypi-Project/RCity-CVE-2024-27198](https://github.com/Pypi-Project/RCity-CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/Pypi-Project/RCity-CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/Pypi-Project/RCity-CVE-2024-27198">
 - [jrbH4CK/CVE-2024-27198](https://github.com/jrbH4CK/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/jrbH4CK/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/jrbH4CK/CVE-2024-27198">
 - [geniuszlyy/CVE-2024-27198](https://github.com/geniuszlyy/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-27198">
+- [dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198)	<img alt="forks" src="https://img.shields.io/github/forks/dkhacks/CVE_2024_27198">	<img alt="stars" src="https://img.shields.io/github/stars/dkhacks/CVE_2024_27198">
 
 ---
 ## CVE-2024-27191 ()
