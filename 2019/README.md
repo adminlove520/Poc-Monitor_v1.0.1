@@ -3292,7 +3292,7 @@
 - [MariliaMeira/CVE-2019-14287](https://github.com/MariliaMeira/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/MariliaMeira/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/MariliaMeira/CVE-2019-14287">
 - [shyambhanushali/AttackDefendExercise](https://github.com/shyambhanushali/AttackDefendExercise)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/AttackDefendExercise">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/AttackDefendExercise">
 - [Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287](https://github.com/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287">
-- [N3rdyN3xus/CVE-2019-14287](https://github.com/N3rdyN3xus/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/N3rdyN3xus/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/N3rdyN3xus/CVE-2019-14287">
+- [NyxByt3/CVE-2019-14287](https://github.com/NyxByt3/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/NyxByt3/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/NyxByt3/CVE-2019-14287">
 - [DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights](https://github.com/DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights)	<img alt="forks" src="https://img.shields.io/github/forks/DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights">	<img alt="stars" src="https://img.shields.io/github/stars/DularaAnushka/Linux-Privilege-Escalation-using-Sudo-Rights">
 - [edsonjt81/CVE-2019-14287-](https://github.com/edsonjt81/CVE-2019-14287-)	<img alt="forks" src="https://img.shields.io/github/forks/edsonjt81/CVE-2019-14287-">	<img alt="stars" src="https://img.shields.io/github/stars/edsonjt81/CVE-2019-14287-">
 - [CashWilliams/CVE-2019-14287-demo](https://github.com/CashWilliams/CVE-2019-14287-demo)	<img alt="forks" src="https://img.shields.io/github/forks/CashWilliams/CVE-2019-14287-demo">	<img alt="stars" src="https://img.shields.io/github/stars/CashWilliams/CVE-2019-14287-demo">
@@ -3319,6 +3319,7 @@
 - [n0w4n/CVE-2019-14287](https://github.com/n0w4n/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/n0w4n/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/n0w4n/CVE-2019-14287">
 - [FauxFaux/sudo-cve-2019-14287](https://github.com/FauxFaux/sudo-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/FauxFaux/sudo-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/FauxFaux/sudo-cve-2019-14287">
 - [Ijinleife/CVE-2019-14287](https://github.com/Ijinleife/CVE-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/Ijinleife/CVE-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/Ijinleife/CVE-2019-14287">
+- [lemonadern/poc-cve-2019-14287](https://github.com/lemonadern/poc-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/lemonadern/poc-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/lemonadern/poc-cve-2019-14287">
 
 ---
 ## CVE-2019-14271 (2019-07-29T18:15:00)
