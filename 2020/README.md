@@ -4210,6 +4210,11 @@
 - [Live-Hack-CVE/CVE-2020-15920](https://github.com/Live-Hack-CVE/CVE-2020-15920)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15920">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15920">
 
 ---
+## CVE-2020-15916 (2020-07-23T18:15:00)
+> goform/AdvSetLanip endpoint on Tenda AC15 AC1900 15.03.05.19 devices allows remote attackers to execute arbitrary system commands via shell metacharacters in the lanIp POST parameter.
+- [geniuszlyy/CVE-2020-15916](https://github.com/geniuszlyy/CVE-2020-15916)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2020-15916">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2020-15916">
+
+---
 ## CVE-2020-15890 (2020-07-21T22:15:00)
 > LuaJit through 2.1.0-beta3 has an out-of-bounds read because __gc handler frame traversal is mishandled.
 - [Live-Hack-CVE/CVE-2020-15890](https://github.com/Live-Hack-CVE/CVE-2020-15890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15890">
