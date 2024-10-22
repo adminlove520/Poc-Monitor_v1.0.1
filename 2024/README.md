@@ -3014,6 +3014,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [Masamuneee/hook](https://github.com/Masamuneee/hook)	<img alt="forks" src="https://img.shields.io/github/forks/Masamuneee/hook">	<img alt="stars" src="https://img.shields.io/github/stars/Masamuneee/hook">
 - [Julian-gmz/hook_CVE-2024-32002](https://github.com/Julian-gmz/hook_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/hook_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/hook_CVE-2024-32002">
 - [Julian-gmz/Ensimag_CVE-2024-32002](https://github.com/Julian-gmz/Ensimag_CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/Julian-gmz/Ensimag_CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/Julian-gmz/Ensimag_CVE-2024-32002">
+- [grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-32002">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
