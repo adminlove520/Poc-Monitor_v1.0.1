@@ -1039,6 +1039,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ywChen-NTUST/PHP-CGI-RCE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ywChen-NTUST/PHP-CGI-RCE-Scanner">
 - [JeninSutradhar/CVE-2024-4577-checker](https://github.com/JeninSutradhar/CVE-2024-4577-checker)	<img alt="forks" src="https://img.shields.io/github/forks/JeninSutradhar/CVE-2024-4577-checker">	<img alt="stars" src="https://img.shields.io/github/stars/JeninSutradhar/CVE-2024-4577-checker">
 - [longhoangth18/CVE-2024-4577](https://github.com/longhoangth18/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/longhoangth18/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/longhoangth18/CVE-2024-4577">
+- [0xbd2/CVE-2024-4577](https://github.com/0xbd2/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/0xbd2/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/0xbd2/CVE-2024-4577">
 
 ---
 ## CVE-2024-45614 (2024-09-19T23:15:00)
