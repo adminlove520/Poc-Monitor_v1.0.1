@@ -5141,6 +5141,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety](https://github.com/BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety)	<img alt="forks" src="https://img.shields.io/github/forks/BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety">	<img alt="stars" src="https://img.shields.io/github/stars/BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety">
 - [verylazytech/CVE-2024-23897](https://github.com/verylazytech/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-23897">
 - [ShieldAuth-PHP/PBL05-CVE-Analsys](https://github.com/ShieldAuth-PHP/PBL05-CVE-Analsys)	<img alt="forks" src="https://img.shields.io/github/forks/ShieldAuth-PHP/PBL05-CVE-Analsys">	<img alt="stars" src="https://img.shields.io/github/stars/ShieldAuth-PHP/PBL05-CVE-Analsys">
+- [cc3305/CVE-2024-23897](https://github.com/cc3305/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2024-23897">
 
 ---
 ## CVE-2024-2389 ()
