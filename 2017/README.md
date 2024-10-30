@@ -1479,6 +1479,11 @@
 - [xyzAsian/Janus-CVE-2017-13156](https://github.com/xyzAsian/Janus-CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/xyzAsian/Janus-CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/xyzAsian/Janus-CVE-2017-13156">
 
 ---
+## CVE-2017-12635 (2017-11-14T20:29:00)
+> Due to differences in the Erlang-based JSON parser and JavaScript-based JSON parser, it is possible in Apache CouchDB before 1.7.0 and 2.x before 2.1.1 to submit _users documents with duplicate keys for 'roles' used for access control within the database, including the special case '_admin' role, that denotes administrative users. In combination with CVE-2017-12636 (Remote Code Execution), this can be used to give non-admin users access to arbitrary shell commands on the server as the database system user. The JSON parser differences result in behaviour that if two 'roles' keys are available in the JSON, the second one will be used for authorising the document write, but the first 'roles' key is used for subsequent authorization for the newly created user. By design, users can not assign themselves roles. The vulnerability allows non-admin users to give themselves admin privileges.
+- [Weisant/CVE-2017-12635-EXP](https://github.com/Weisant/CVE-2017-12635-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Weisant/CVE-2017-12635-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Weisant/CVE-2017-12635-EXP">
+
+---
 ## CVE-2017-12621 (2017-09-28T01:29:00)
 > During Jelly (xml) file parsing with Apache Xerces, if a custom doctype entity is declared with a "SYSTEM" entity with a URL and that entity is used in the body of the Jelly file, during parser instantiation the parser will attempt to connect to said URL. This could lead to XML External Entity (XXE) attacks in Apache Commons Jelly before 1.0.1.
 - [Live-Hack-CVE/CVE-2017-12621](https://github.com/Live-Hack-CVE/CVE-2017-12621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12621">
