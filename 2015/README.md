@@ -4,6 +4,7 @@
 ## CVE-2015-9251 (2018-01-18T23:29:00)
 > jQuery before 3.0.0 is vulnerable to Cross-site Scripting (XSS) attacks when a cross-domain Ajax request is performed without the dataType option, causing text/javascript responses to be executed.
 - [moften/CVE-2015-9251](https://github.com/moften/CVE-2015-9251)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2015-9251">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2015-9251">
+- [halkichi0308/CVE-2015-9251](https://github.com/halkichi0308/CVE-2015-9251)	<img alt="forks" src="https://img.shields.io/github/forks/halkichi0308/CVE-2015-9251">	<img alt="stars" src="https://img.shields.io/github/stars/halkichi0308/CVE-2015-9251">
 
 ---
 ## CVE-2015-9235 (2018-05-29T20:29:00)
