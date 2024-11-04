@@ -54,6 +54,11 @@
 - [dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)	<img alt="forks" src="https://img.shields.io/github/forks/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">	<img alt="stars" src="https://img.shields.io/github/stars/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof">
 
 ---
+## CVE-2024-9537 (2024-10-18T15:15:00)
+> ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component packaged with SL1. The vulnerability is addressed in SL1 versions 12.1.3+, 12.2.3+, and 12.3+.  Remediations have been made available for all SL1 versions back to version lines 10.1.x, 10.2.x, 11.1.x, 11.2.x, and 11.3.x.
+- [hatvix1/CVE-2024-9537](https://github.com/hatvix1/CVE-2024-9537)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-9537">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-9537">
+
+---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
 > A cleartext storage of sensitive information vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to reveal firewall usernames, passwords, and API keys generated using those credentials.
 - [holypryx/CVE-2024-9466](https://github.com/holypryx/CVE-2024-9466)	<img alt="forks" src="https://img.shields.io/github/forks/holypryx/CVE-2024-9466">	<img alt="stars" src="https://img.shields.io/github/stars/holypryx/CVE-2024-9466">
@@ -798,6 +803,11 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-50550 (2024-10-29T10:15:00)
 > Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from n/a through 6.5.1.
 - [AleksaZatezalo/CVE-2024-50550](https://github.com/AleksaZatezalo/CVE-2024-50550)	<img alt="forks" src="https://img.shields.io/github/forks/AleksaZatezalo/CVE-2024-50550">	<img alt="stars" src="https://img.shields.io/github/stars/AleksaZatezalo/CVE-2024-50550">
+
+---
+## CVE-2024-50526 ()
+> 
+- [hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-50526-Private-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-50526-Private-POC">
 
 ---
 ## CVE-2024-50476 (2024-10-29T09:15:00)
