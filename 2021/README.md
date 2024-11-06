@@ -982,6 +982,7 @@
 - [Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [Shareoks/HTA-Exploit](https://github.com/Shareoks/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Shareoks/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Shareoks/HTA-Exploit">
 - [safeer-accuknox/log4j-shell-poc](https://github.com/safeer-accuknox/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/safeer-accuknox/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/safeer-accuknox/log4j-shell-poc">
+- [Carlos-Mesquita/TPASLog4ShellPoC](https://github.com/Carlos-Mesquita/TPASLog4ShellPoC)	<img alt="forks" src="https://img.shields.io/github/forks/Carlos-Mesquita/TPASLog4ShellPoC">	<img alt="stars" src="https://img.shields.io/github/stars/Carlos-Mesquita/TPASLog4ShellPoC">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
