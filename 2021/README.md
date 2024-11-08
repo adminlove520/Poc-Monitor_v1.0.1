@@ -9255,6 +9255,11 @@
 - [Live-Hack-CVE/CVE-2021-21403](https://github.com/Live-Hack-CVE/CVE-2021-21403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21403">
 
 ---
+## CVE-2021-21401 (2021-03-23T18:15:00)
+> Nanopb is a small code-size Protocol Buffers implementation in ansi C. In Nanopb before versions 0.3.9.8 and 0.4.5, decoding a specifically formed message can cause invalid `free()` or `realloc()` calls if the message type contains an `oneof` field, and the `oneof` directly contains both a pointer field and a non-pointer field. If the message data first contains the non-pointer field and then the pointer field, the data of the non-pointer field is incorrectly treated as if it was a pointer value. Such message data rarely occurs in normal messages, but it is a concern when untrusted data is parsed. This has been fixed in versions 0.3.9.8 and 0.4.5. See referenced GitHub Security Advisory for more information including workarounds.
+- [uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33](https://github.com/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2021-21401_nanopb-c_AOSP10_R33">
+
+---
 ## CVE-2021-21395 (2023-01-27T16:15:00)
 > Magneto LTS (Long Term Support) is a community developed alternative to the Magento CE official releases. Versions prior to 19.4.22 and 20.0.19 are vulnerable to Cross-Site Request Forgery. The password reset form is vulnerable to CSRF between the time the reset password link is clicked and user submits new password. This issue is patched in versions 19.4.22 and 20.0.19. There are no workarounds.
 - [Live-Hack-CVE/CVE-2021-21395](https://github.com/Live-Hack-CVE/CVE-2021-21395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21395">
