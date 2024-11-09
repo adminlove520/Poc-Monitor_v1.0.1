@@ -6003,6 +6003,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [wxuycea/CVE-2023-25813](https://github.com/wxuycea/CVE-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/wxuycea/CVE-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/wxuycea/CVE-2023-25813">
 - [sea-middle/cve-2023-25813](https://github.com/sea-middle/cve-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/sea-middle/cve-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/sea-middle/cve-2023-25813">
 - [sea-middle/cve-2023-25813](https://github.com/sea-middle/cve-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/sea-middle/cve-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/sea-middle/cve-2023-25813">
+- [sea-middle/cve-2023-25813](https://github.com/sea-middle/cve-2023-25813)	<img alt="forks" src="https://img.shields.io/github/forks/sea-middle/cve-2023-25813">	<img alt="stars" src="https://img.shields.io/github/stars/sea-middle/cve-2023-25813">
 
 ---
 ## CVE-2023-25768 (2023-02-15T14:15:00)
