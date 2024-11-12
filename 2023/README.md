@@ -5986,6 +5986,10 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 ## CVE-2023-2603 (2023-06-06T20:15:00)
 > A vulnerability was found in libcap. This issue occurs in the _libcap_strdup() function and can lead to an integer overflow if the input string is close to 4GiB.
 - [Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603](https://github.com/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603">
+- [heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/heapbytes/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/heapbytes/CVE-2023-26035">
+- [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
+- [0xfalafel/zoneminder_CVE-2023-26035](https://github.com/0xfalafel/zoneminder_CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/0xfalafel/zoneminder_CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/0xfalafel/zoneminder_CVE-2023-26035">
+- [Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2023-26035">
 
 ---
 ## CVE-2023-2598 (2023-06-01T01:15:00)
