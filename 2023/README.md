@@ -11284,6 +11284,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 > There exists a use after free/double free in libwebp. An attacker can use the ApplyFiltersAndEncode() function and loop through to free best.bw and assign best = trial pointer. The second loop will then return 0 because of an Out of memory error in VP8 encoder, the pointer is still assigned to trial and the AddressSanitizer will attempt a double free. 
 
 - [Pazhanivelmani/webp_Android10_r33_CVE-2023-1999](https://github.com/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">
+- [Pazhanivelmani/webp_Android10_r33_CVE-2023-1999](https://github.com/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999)	<img alt="forks" src="https://img.shields.io/github/forks/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">	<img alt="stars" src="https://img.shields.io/github/stars/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999">
 
 ---
 ## CVE-2023-1874 (2023-04-12T14:15:00)
