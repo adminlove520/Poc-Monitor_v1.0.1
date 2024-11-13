@@ -345,3 +345,8 @@
 ## CVE-2013-0346 (2014-02-15T14:57:00)
 > ** DISPUTED ** Apache Tomcat 7.x uses world-readable permissions for the log directory and its files, which might allow local users to obtain sensitive information by reading a file. NOTE: One Tomcat distributor has stated "The tomcat log directory does not contain any sensitive information."
 - [Live-Hack-CVE/CVE-2013-0346](https://github.com/Live-Hack-CVE/CVE-2013-0346)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-0346">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-0346">
+
+---
+## CVE-2013-0156 (2013-01-13T22:55:00)
+> active_support/core_ext/hash/conversions.rb in Ruby on Rails before 2.3.15, 3.0.x before 3.0.19, 3.1.x before 3.1.10, and 3.2.x before 3.2.11 does not properly restrict casts of string values, which allows remote attackers to conduct object-injection attacks and execute arbitrary code, or cause a denial of service (memory and CPU consumption) involving nested XML entity references, by leveraging Action Pack support for (1) YAML type conversion or (2) Symbol type conversion.
+- [oxBEN10/CVE-2013-0156](https://github.com/oxBEN10/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/oxBEN10/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/oxBEN10/CVE-2013-0156">
