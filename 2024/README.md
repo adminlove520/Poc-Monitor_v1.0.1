@@ -810,6 +810,7 @@ The specific flaw exists within the product installer. The issue results from th
 ## CVE-2024-52301 ()
 > 
 - [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-52301">
+- [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research)	<img alt="forks" src="https://img.shields.io/github/forks/martinhaunschmid/CVE-2024-52301-Research">	<img alt="stars" src="https://img.shields.io/github/stars/martinhaunschmid/CVE-2024-52301-Research">
 
 ---
 ## CVE-2024-51747 ()
