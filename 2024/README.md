@@ -959,7 +959,7 @@ The specific flaw exists within the product installer. The issue results from th
 ---
 ## CVE-2024-50804 ()
 > 
-- [g3tsyst3m/MSI---CVE-2024-50804](https://github.com/g3tsyst3m/MSI---CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/MSI---CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/MSI---CVE-2024-50804">
+- [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/CVE-2024-50804">
 
 ---
 ## CVE-2024-50803 ()
