@@ -2051,6 +2051,7 @@
 - [raymontag/CVE-2019-2215](https://github.com/raymontag/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/CVE-2019-2215">
 - [CrackerCat/Rootsmart-v2.0](https://github.com/CrackerCat/Rootsmart-v2.0)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/Rootsmart-v2.0">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/Rootsmart-v2.0">
 - [ATorNinja/CVE-2019-2215](https://github.com/ATorNinja/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/ATorNinja/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/ATorNinja/CVE-2019-2215">
+- [XiaozaYa/CVE-2019-2215](https://github.com/XiaozaYa/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/XiaozaYa/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/XiaozaYa/CVE-2019-2215">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
