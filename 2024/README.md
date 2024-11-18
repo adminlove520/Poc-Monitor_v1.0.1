@@ -1890,6 +1890,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)	<img alt="forks" src="https://img.shields.io/github/forks/pedrochalegre7/CVE-2024-4367-pdf-sample">	<img alt="stars" src="https://img.shields.io/github/stars/pedrochalegre7/CVE-2024-4367-pdf-sample">
 
 ---
+## CVE-2024-43639 ()
+> 
+- [exploitsecure/CVE-2024-43639](https://github.com/exploitsecure/CVE-2024-43639)	<img alt="forks" src="https://img.shields.io/github/forks/exploitsecure/CVE-2024-43639">	<img alt="stars" src="https://img.shields.io/github/stars/exploitsecure/CVE-2024-43639">
+
+---
 ## CVE-2024-43582 (2024-10-08T18:15:00)
 > Remote Desktop Protocol Server Remote Code Execution Vulnerability
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
@@ -1922,6 +1927,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 ## CVE-2024-4351 (2024-05-16T10:15:00)
 > The Tutor LMS Pro plugin for WordPress is vulnerable to unauthorized access of data, modification of data, loss of data due to a missing capability check on the 'authenticate' function in all versions up to, and including, 2.7.0. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to gain control of an existing administrator account.
 - [ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351)	<img alt="forks" src="https://img.shields.io/github/forks/ZSECURE/CVE-2024-4351">	<img alt="stars" src="https://img.shields.io/github/stars/ZSECURE/CVE-2024-4351">
+
+---
+## CVE-2024-43416 ()
+> 
+- [0xmupa/CVE-2024-43416-PoC](https://github.com/0xmupa/CVE-2024-43416-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xmupa/CVE-2024-43416-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xmupa/CVE-2024-43416-PoC">
 
 ---
 ## CVE-2024-43363 (2024-10-07T21:15:00)
