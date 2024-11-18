@@ -110,6 +110,11 @@
 - [Live-Hack-CVE/CVE-2011-1471](https://github.com/Live-Hack-CVE/CVE-2011-1471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-1471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-1471">
 
 ---
+## CVE-2011-1249 (2011-06-16T20:55:00)
+> The Ancillary Function Driver (AFD) in afd.sys in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly validate user-mode input, which allows local users to gain privileges via a crafted application, aka "Ancillary Function Driver Elevation of Privilege Vulnerability."
+- [n3rdh4x0r/CVE-2011-1249](https://github.com/n3rdh4x0r/CVE-2011-1249)	<img alt="forks" src="https://img.shields.io/github/forks/n3rdh4x0r/CVE-2011-1249">	<img alt="stars" src="https://img.shields.io/github/stars/n3rdh4x0r/CVE-2011-1249">
+
+---
 ## CVE-2011-10002 (2023-02-07T17:15:00)
 > A vulnerability classified as critical has been found in weblabyrinth 0.3.1. This affects the function Labyrinth of the file labyrinth.inc.php. The manipulation leads to sql injection. Upgrading to version 0.3.2 is able to address this issue. The name of the patch is 60793fd8c8c4759596d3510641e96ea40e7f60e9. It is recommended to upgrade the affected component. The identifier VDB-220221 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2011-10002](https://github.com/Live-Hack-CVE/CVE-2011-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-10002">
