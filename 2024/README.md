@@ -7023,6 +7023,11 @@ authentication.   
 - [enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2024-1112">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2024-1112">
 
 ---
+## CVE-2024-111 ()
+> 
+- [adminlove520/CVE-2024-111](https://github.com/adminlove520/CVE-2024-111)	<img alt="forks" src="https://img.shields.io/github/forks/adminlove520/CVE-2024-111">	<img alt="stars" src="https://img.shields.io/github/stars/adminlove520/CVE-2024-111">
+
+---
 ## CVE-2024-11016 ()
 > 
 - [hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-11016">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-11016">
