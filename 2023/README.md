@@ -3075,6 +3075,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [acesoyeo/METABASE-RCE-CVE-2023-38646-](https://github.com/acesoyeo/METABASE-RCE-CVE-2023-38646-)	<img alt="forks" src="https://img.shields.io/github/forks/acesoyeo/METABASE-RCE-CVE-2023-38646-">	<img alt="stars" src="https://img.shields.io/github/stars/acesoyeo/METABASE-RCE-CVE-2023-38646-">
 - [UserConnecting/Exploit-CVE-2023-38646-Metabase](https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase)	<img alt="forks" src="https://img.shields.io/github/forks/UserConnecting/Exploit-CVE-2023-38646-Metabase">	<img alt="stars" src="https://img.shields.io/github/stars/UserConnecting/Exploit-CVE-2023-38646-Metabase">
 - [xchg-rax-rax/CVE-2023-38646](https://github.com/xchg-rax-rax/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/xchg-rax-rax/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/xchg-rax-rax/CVE-2023-38646">
+- [XiaomingX/cve-2023-38646-poc](https://github.com/XiaomingX/cve-2023-38646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2023-38646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2023-38646-poc">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)
@@ -11239,6 +11240,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Codeb3af/CVE-2023-20198-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Codeb3af/CVE-2023-20198-RCE">
 - [sanan2004/CVE-2023-20198](https://github.com/sanan2004/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/sanan2004/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/sanan2004/CVE-2023-20198">
 - [AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-">
+- [XiaomingX/CVE-2023-20198-poc](https://github.com/XiaomingX/CVE-2023-20198-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2023-20198-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2023-20198-poc">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
