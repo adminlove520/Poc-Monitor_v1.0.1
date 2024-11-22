@@ -2833,6 +2833,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Ly4j/CVE-2024-37084-Exp](https://github.com/Ly4j/CVE-2024-37084-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2024-37084-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2024-37084-Exp">
 - [A0be/CVE-2024-37084-Exp](https://github.com/A0be/CVE-2024-37084-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/A0be/CVE-2024-37084-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/A0be/CVE-2024-37084-Exp">
 - [A0be/CVE-2024-37084-Exp](https://github.com/A0be/CVE-2024-37084-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/A0be/CVE-2024-37084-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/A0be/CVE-2024-37084-Exp">
+- [XiaomingX/cve-2024-37084-Poc](https://github.com/XiaomingX/cve-2024-37084-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-37084-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-37084-Poc">
 
 ---
 ## CVE-2024-37081 (2024-06-18T06:15:00)
@@ -5255,6 +5256,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26](https://github.com/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-25641-RCE-Automated-Exploit-Cacti-1.2.26">
 - [Safarchand/CVE-2024-25641](https://github.com/Safarchand/CVE-2024-25641)	<img alt="forks" src="https://img.shields.io/github/forks/Safarchand/CVE-2024-25641">	<img alt="stars" src="https://img.shields.io/github/stars/Safarchand/CVE-2024-25641">
 - [StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26](https://github.com/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26)	<img alt="forks" src="https://img.shields.io/github/forks/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">	<img alt="stars" src="https://img.shields.io/github/stars/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26">
+- [XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-25641-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-25641-poc">
 
 ---
 ## CVE-2024-25600 (2024-06-04T13:15:00)
@@ -7599,6 +7601,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/hazesecurity/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/hazesecurity/CVE-2024-0012">
 - [VegetableLasagne/CVE-2024-0012](https://github.com/VegetableLasagne/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/VegetableLasagne/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/VegetableLasagne/CVE-2024-0012">
 - [iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-0012-poc">
+- [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
