@@ -842,6 +842,11 @@ The specific flaw exists within the product installer. The issue results from th
 - [Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-5246">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-5246">
 
 ---
+## CVE-2024-52433 ()
+> 
+- [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52433">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52433">
+
+---
 ## CVE-2024-52382 ()
 > 
 - [RandomRobbieBF/CVE-2024-52382](https://github.com/RandomRobbieBF/CVE-2024-52382)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52382">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52382">
@@ -1402,7 +1407,7 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [watchtowrlabs/Fortijump-Exploit-CVE-2024-47575](https://github.com/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/Fortijump-Exploit-CVE-2024-47575">
 - [expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-47575">
 - [skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575)	<img alt="forks" src="https://img.shields.io/github/forks/skyalliance/exploit-cve-2024-47575">	<img alt="stars" src="https://img.shields.io/github/stars/skyalliance/exploit-cve-2024-47575">
-- [XiaomingX/cve-2024-47575-poc](https://github.com/XiaomingX/cve-2024-47575-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-47575-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-47575-poc">
+- [XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-47575-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-47575-exp">
 
 ---
 ## CVE-2024-47533 ()
