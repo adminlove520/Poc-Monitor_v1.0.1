@@ -2006,6 +2006,11 @@
 - [Live-Hack-CVE/CVE-2019-25072](https://github.com/Live-Hack-CVE/CVE-2019-25072)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25072">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25072">
 
 ---
+## CVE-2019-25065 (2022-06-09T17:15:00)
+> A vulnerability was found in OpenNetAdmin 18.1.1. It has been rated as critical. Affected by this issue is some unknown functionality. The manipulation leads to privilege escalation. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.
+- [sagisar1/CVE-2019-25065-exploit](https://github.com/sagisar1/CVE-2019-25065-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sagisar1/CVE-2019-25065-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sagisar1/CVE-2019-25065-exploit">
+
+---
 ## CVE-2019-25053 (2023-01-27T21:15:00)
 > A path traversal vulnerability exists in Sage FRP 1000 before November 2019. This allows remote unauthenticated attackers to access files outside of the web tree via a crafted URL.
 - [Live-Hack-CVE/CVE-2019-25053](https://github.com/Live-Hack-CVE/CVE-2019-25053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-25053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-25053">
