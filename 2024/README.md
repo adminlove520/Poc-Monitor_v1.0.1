@@ -7189,6 +7189,7 @@ authentication.   
 ## CVE-2024-11387 ()
 > 
 - [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11387">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11387">
+- [windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11387">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11387">
 
 ---
 ## CVE-2024-11381 ()
