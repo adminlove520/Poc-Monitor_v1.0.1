@@ -5940,6 +5940,7 @@ and the severity is therefore considered low.
 > Adobe ColdFusion versions 2018 Update 15 (and earlier) and 2021 Update 5 (and earlier) are affected by an Improper Access Control vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction.
 - [yosef0x01/CVE-2023-26360](https://github.com/yosef0x01/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/yosef0x01/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/yosef0x01/CVE-2023-26360">
 - [jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit](https://github.com/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2023-26360-adobe-coldfusion-rce-exploit">
+- [issamjr/CVE-2023-26360](https://github.com/issamjr/CVE-2023-26360)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2023-26360">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2023-26360">
 
 ---
 ## CVE-2023-2636 (2023-07-17T14:15:00)
