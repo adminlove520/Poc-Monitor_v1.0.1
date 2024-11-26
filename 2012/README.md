@@ -216,6 +216,11 @@
 - [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
 
 ---
+## CVE-2012-1831 (2012-07-05T03:23:00)
+> Heap-based buffer overflow in WellinTech KingView 6.53 allows remote attackers to execute arbitrary code via a crafted packet to TCP port 555.
+- [Astrowmist/POC-CVE-2012-1831](https://github.com/Astrowmist/POC-CVE-2012-1831)	<img alt="forks" src="https://img.shields.io/github/forks/Astrowmist/POC-CVE-2012-1831">	<img alt="stars" src="https://img.shields.io/github/stars/Astrowmist/POC-CVE-2012-1831">
+
+---
 ## CVE-2012-1823 (2012-05-11T10:15:00)
 > sapi/cgi/cgi_main.c in PHP before 5.3.12 and 5.4.x before 5.4.2, when configured as a CGI script (aka php-cgi), does not properly handle query strings that lack an = (equals sign) character, which allows remote attackers to execute arbitrary code by placing command-line options in the query string, related to lack of skipping a certain php_getopt for the 'd' case.
 - [theykillmeslowly/CVE-2012-1823](https://github.com/theykillmeslowly/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/theykillmeslowly/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/theykillmeslowly/CVE-2012-1823">
