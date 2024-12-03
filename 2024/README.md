@@ -4776,8 +4776,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439">
 
 ---
-## CVE-2024-29404 ()
-> 
+## CVE-2024-29404 (2024-12-03T17:15:00)
+> An issue in Razer Synapse 3 v.3.9.131.20813 and Synapse 3 App v.20240213 allows a local attacker to execute arbitrary code via the export parameter of the Chroma Effects function in the Profiles component.
 - [mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-29404_Razer">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-29404_Razer">
 
 ---
