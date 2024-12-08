@@ -466,6 +466,7 @@
 - [kloutkake/CVE-2017-5638-PoC](https://github.com/kloutkake/CVE-2017-5638-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kloutkake/CVE-2017-5638-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kloutkake/CVE-2017-5638-PoC">
 - [Nithylesh/web-application-firewall-](https://github.com/Nithylesh/web-application-firewall-)	<img alt="forks" src="https://img.shields.io/github/forks/Nithylesh/web-application-firewall-">	<img alt="stars" src="https://img.shields.io/github/stars/Nithylesh/web-application-firewall-">
 - [xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability](https://github.com/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/xeroxis-xs/Computer-Security-Apache-Struts-Vulnerability">
+- [Xernary/CVE-2017-5638-POC](https://github.com/Xernary/CVE-2017-5638-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2017-5638-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2017-5638-POC">
 
 ---
 ## CVE-2017-5546 (2017-02-06T06:59:00)
