@@ -9294,6 +9294,11 @@
 - [Live-Hack-CVE/CVE-2021-21395](https://github.com/Live-Hack-CVE/CVE-2021-21395)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21395">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21395">
 
 ---
+## CVE-2021-21389 ()
+> 
+- [mynameSumin/CVE-2021-21389](https://github.com/mynameSumin/CVE-2021-21389)	<img alt="forks" src="https://img.shields.io/github/forks/mynameSumin/CVE-2021-21389">	<img alt="stars" src="https://img.shields.io/github/stars/mynameSumin/CVE-2021-21389">
+
+---
 ## CVE-2021-21380 (2021-03-23T23:15:00)
 > XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. In affected versions of XWiki Platform (and only those with the Ratings API installed), the Rating Script Service expose an API to perform SQL requests without escaping the from and where search arguments. This might lead to an SQL script injection quite easily for any user having Script rights on XWiki. The problem has been patched in XWiki 12.9RC1. The only workaround besides upgrading XWiki would be to uninstall the Ratings API in XWiki from the Extension Manager.
 - [rvermeulen/codeql-workshop-cve-2021-21380](https://github.com/rvermeulen/codeql-workshop-cve-2021-21380)	<img alt="forks" src="https://img.shields.io/github/forks/rvermeulen/codeql-workshop-cve-2021-21380">	<img alt="stars" src="https://img.shields.io/github/stars/rvermeulen/codeql-workshop-cve-2021-21380">
