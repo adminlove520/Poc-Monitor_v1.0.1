@@ -2516,6 +2516,7 @@ use after free.
 - [DDayLuong/CVE-2019-18634](https://github.com/DDayLuong/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/DDayLuong/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/DDayLuong/CVE-2019-18634">
 - [chanbakjsd/CVE-2019-18634](https://github.com/chanbakjsd/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/chanbakjsd/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/chanbakjsd/CVE-2019-18634">
 - [l0w3/CVE-2019-18634](https://github.com/l0w3/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/l0w3/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/l0w3/CVE-2019-18634">
+- [paras1te-x/CVE-2019-18634](https://github.com/paras1te-x/CVE-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/paras1te-x/CVE-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/paras1te-x/CVE-2019-18634">
 
 ---
 ## CVE-2019-18422 (2019-10-31T14:15:00)
