@@ -97,6 +97,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/deathvu/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/deathvu/CVE-2024-9474">
 - [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
 - [coskper-papa/PAN-OS_CVE-2024-9474](https://github.com/coskper-papa/PAN-OS_CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/coskper-papa/PAN-OS_CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/coskper-papa/PAN-OS_CVE-2024-9474">
+- [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
@@ -8066,6 +8067,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
 - [punitdarji/Paloalto-CVE-2024-0012](https://github.com/punitdarji/Paloalto-CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Paloalto-CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Paloalto-CVE-2024-0012">
 - [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
+- [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)
