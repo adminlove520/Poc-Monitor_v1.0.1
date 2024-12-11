@@ -96,6 +96,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/hazesecurity/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/hazesecurity/CVE-2024-9474">
 - [deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/deathvu/CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/deathvu/CVE-2024-9474">
 - [XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-0012-poc">
+- [coskper-papa/PAN-OS_CVE-2024-9474](https://github.com/coskper-papa/PAN-OS_CVE-2024-9474)	<img alt="forks" src="https://img.shields.io/github/forks/coskper-papa/PAN-OS_CVE-2024-9474">	<img alt="stars" src="https://img.shields.io/github/stars/coskper-papa/PAN-OS_CVE-2024-9474">
 
 ---
 ## CVE-2024-9466 (2024-10-09T17:15:00)
