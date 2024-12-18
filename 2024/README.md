@@ -1412,6 +1412,7 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49112 ()
 > 
 - [b0l1o/CVE-2024-49112-PoC](https://github.com/b0l1o/CVE-2024-49112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/b0l1o/CVE-2024-49112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/b0l1o/CVE-2024-49112-PoC">
+- [tnkr/poc_monitor](https://github.com/tnkr/poc_monitor)	<img alt="forks" src="https://img.shields.io/github/forks/tnkr/poc_monitor">	<img alt="stars" src="https://img.shields.io/github/stars/tnkr/poc_monitor">
 
 ---
 ## CVE-2024-49039 ()
