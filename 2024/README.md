@@ -921,6 +921,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376)	<img alt="forks" src="https://img.shields.io/github/forks/ThottySploity/CVE-2024-53376">	<img alt="stars" src="https://img.shields.io/github/stars/ThottySploity/CVE-2024-53376">
 
 ---
+## CVE-2024-53375 ()
+> 
+- [ThottySploity/CVE-2024-53375](https://github.com/ThottySploity/CVE-2024-53375)	<img alt="forks" src="https://img.shields.io/github/forks/ThottySploity/CVE-2024-53375">	<img alt="stars" src="https://img.shields.io/github/stars/ThottySploity/CVE-2024-53375">
+
+---
 ## CVE-2024-53364 (2024-12-02T17:15:00)
 > A SQL injection vulnerability was found in PHPGURUKUL Vehicle Parking Management System v1.13 in /users/view-detail.php. This vulnerability affects the viewid parameter, where improper input sanitization allows attackers to inject malicious SQL queries.
 - [SCR-athif/CVE-2024-53364](https://github.com/SCR-athif/CVE-2024-53364)	<img alt="forks" src="https://img.shields.io/github/forks/SCR-athif/CVE-2024-53364">	<img alt="stars" src="https://img.shields.io/github/stars/SCR-athif/CVE-2024-53364">
