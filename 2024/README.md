@@ -818,6 +818,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/CVE-2024-5633">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/CVE-2024-5633">
 
 ---
+## CVE-2024-56145 ()
+> 
+- [Chocapikk/CVE-2024-56145](https://github.com/Chocapikk/CVE-2024-56145)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-56145">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-56145">
+
+---
 ## CVE-2024-56116 ()
 > 
 - [ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116)	<img alt="forks" src="https://img.shields.io/github/forks/ComplianceControl/CVE-2024-56116">	<img alt="stars" src="https://img.shields.io/github/stars/ComplianceControl/CVE-2024-56116">
@@ -1355,6 +1360,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 > 
 - [v3153/CVE-2024-50379-POC](https://github.com/v3153/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/v3153/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/v3153/CVE-2024-50379-POC">
 - [yiliufeng168/CVE-2024-50379-POC](https://github.com/yiliufeng168/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/yiliufeng168/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/yiliufeng168/CVE-2024-50379-POC">
+- [JFOZ1010/Nuclei-Template-CVE-2024-50379](https://github.com/JFOZ1010/Nuclei-Template-CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/JFOZ1010/Nuclei-Template-CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/JFOZ1010/Nuclei-Template-CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
