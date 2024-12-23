@@ -7033,6 +7033,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [angelopioamirante/CVE-2023-24317](https://github.com/angelopioamirante/CVE-2023-24317)	<img alt="forks" src="https://img.shields.io/github/forks/angelopioamirante/CVE-2023-24317">	<img alt="stars" src="https://img.shields.io/github/stars/angelopioamirante/CVE-2023-24317">
 
 ---
+## CVE-2023-24278 ()
+> 
+- [NeCr00/CVE-2023-24278_XSS-in-Squidex](https://github.com/NeCr00/CVE-2023-24278_XSS-in-Squidex)	<img alt="forks" src="https://img.shields.io/github/forks/NeCr00/CVE-2023-24278_XSS-in-Squidex">	<img alt="stars" src="https://img.shields.io/github/stars/NeCr00/CVE-2023-24278_XSS-in-Squidex">
+
+---
 ## CVE-2023-24276 (2023-02-06T15:15:00)
 > TOTOlink A7100RU(V7.4cu.2313_B20191024) was discovered to contain a command injection vulnerability via the country parameter at setting/delStaticDhcpRules.
 - [Live-Hack-CVE/CVE-2023-24276](https://github.com/Live-Hack-CVE/CVE-2023-24276)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24276">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24276">
