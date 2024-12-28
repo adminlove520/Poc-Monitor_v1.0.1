@@ -187,6 +187,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 > The GutenKit – Page Builder Blocks, Patterns, and Templates for Gutenberg Block Editor plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the install_and_activate_plugin_from_external() function  (install-active-plugin REST API endpoint) in all versions up to, and including, 2.1.0. This makes it possible for unauthenticated attackers to install and activate arbitrary plugins, or utilize the functionality to upload arbitrary files spoofed like plugins.
 - [RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9234">
 - [CallMeBatosay/CVE-2024-9234](https://github.com/CallMeBatosay/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/CallMeBatosay/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/CallMeBatosay/CVE-2024-9234">
+- [Nxploited/CVE-2024-9234](https://github.com/Nxploited/CVE-2024-9234)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9234">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9234">
 
 ---
 ## CVE-2024-9224 (2024-10-01T09:15:00)
