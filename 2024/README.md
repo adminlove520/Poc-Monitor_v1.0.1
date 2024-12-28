@@ -7707,6 +7707,11 @@ authentication.   
 - [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-11680_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-11680_PoC_Exploit">
 
 ---
+## CVE-2024-11616 ()
+> 
+- [inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616)	<img alt="forks" src="https://img.shields.io/github/forks/inb1ts/CVE-2024-11616">	<img alt="stars" src="https://img.shields.io/github/stars/inb1ts/CVE-2024-11616">
+
+---
 ## CVE-2024-11477 (2024-11-22T21:15:00)
 > 7-Zip Zstandard Decompression Integer Underflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of 7-Zip. Interaction with this library is required to exploit this vulnerability but attack vectors may vary depending on the implementation.
 
