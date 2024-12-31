@@ -177,6 +177,11 @@
 - [Live-Hack-CVE/CVE-2012-2386](https://github.com/Live-Hack-CVE/CVE-2012-2386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2386">
 
 ---
+## CVE-2012-23017 ()
+> 
+- [usethisname1419/cve-2012-23017](https://github.com/usethisname1419/cve-2012-23017)	<img alt="forks" src="https://img.shields.io/github/forks/usethisname1419/cve-2012-23017">	<img alt="stars" src="https://img.shields.io/github/stars/usethisname1419/cve-2012-23017">
+
+---
 ## CVE-2012-2128 (2012-08-27T21:55:00)
 > ** DISPUTED ** Cross-site request forgery (CSRF) vulnerability in doku.php in DokuWiki 2012-01-25 Angua allows remote attackers to hijack the authentication of administrators for requests that add arbitrary users. NOTE: this issue has been disputed by the vendor, who states that it is resultant from CVE-2012-2129: "the exploit code simply uses the XSS hole to extract a valid CSRF token."
 - [Live-Hack-CVE/CVE-2012-2128](https://github.com/Live-Hack-CVE/CVE-2012-2128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2128">
