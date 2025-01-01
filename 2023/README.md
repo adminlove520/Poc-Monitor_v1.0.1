@@ -10719,6 +10719,7 @@ kernel memory, lateral privilege escalation, and container escape.
 ## CVE-2023-21537 (2023-01-10T22:15:00)
 > Microsoft Message Queuing (MSMQ) Elevation of Privilege Vulnerability.
 - [Live-Hack-CVE/CVE-2023-21537](https://github.com/Live-Hack-CVE/CVE-2023-21537)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21537">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21537">
+- [stevenjoezhang/CVE-2023-21537](https://github.com/stevenjoezhang/CVE-2023-21537)	<img alt="forks" src="https://img.shields.io/github/forks/stevenjoezhang/CVE-2023-21537">	<img alt="stars" src="https://img.shields.io/github/stars/stevenjoezhang/CVE-2023-21537">
 
 ---
 ## CVE-2023-21536 (2023-01-10T22:15:00)
