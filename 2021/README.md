@@ -991,6 +991,7 @@
 - [Mykhis/Discord-Image-Logger-Stealer](https://github.com/Mykhis/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/Mykhis/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/Mykhis/Discord-Image-Logger-Stealer">
 - [Mykhis/PDF-FUD-Exploit](https://github.com/Mykhis/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mykhis/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mykhis/PDF-FUD-Exploit">
 - [Mykhis/Slient-URL-Exploit](https://github.com/Mykhis/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Mykhis/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Mykhis/Slient-URL-Exploit">
+- [JanICT/poc-ldap-cve-2021-44228](https://github.com/JanICT/poc-ldap-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/JanICT/poc-ldap-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/JanICT/poc-ldap-cve-2021-44228">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
