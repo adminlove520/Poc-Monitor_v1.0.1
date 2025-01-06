@@ -874,6 +874,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55988">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55988">
 
 ---
+## CVE-2024-55976 ()
+> 
+- [RandomRobbieBF/CVE-2024-55976](https://github.com/RandomRobbieBF/CVE-2024-55976)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55976">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55976">
+
+---
+## CVE-2024-55972 ()
+> 
+- [RandomRobbieBF/CVE-2024-55972](https://github.com/RandomRobbieBF/CVE-2024-55972)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55972">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55972">
+
+---
 ## CVE-2024-55968 ()
 > 
 - [null-event/CVE-2024-55968](https://github.com/null-event/CVE-2024-55968)	<img alt="forks" src="https://img.shields.io/github/forks/null-event/CVE-2024-55968">	<img alt="stars" src="https://img.shields.io/github/stars/null-event/CVE-2024-55968">
