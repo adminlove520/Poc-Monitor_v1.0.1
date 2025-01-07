@@ -1540,6 +1540,8 @@
 ## CVE-2018-17240 ()
 > 
 - [FenrirSec/CVE-2018-17240_exploit](https://github.com/FenrirSec/CVE-2018-17240_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FenrirSec/CVE-2018-17240_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FenrirSec/CVE-2018-17240_exploit">
+- [Xewdy444/Netgrave](https://github.com/Xewdy444/Netgrave)	<img alt="forks" src="https://img.shields.io/github/forks/Xewdy444/Netgrave">	<img alt="stars" src="https://img.shields.io/github/stars/Xewdy444/Netgrave">
+- [BBge/CVE-2018-17240](https://github.com/BBge/CVE-2018-17240)	<img alt="forks" src="https://img.shields.io/github/forks/BBge/CVE-2018-17240">	<img alt="stars" src="https://img.shields.io/github/stars/BBge/CVE-2018-17240">
 
 ---
 ## CVE-2018-17182 (2018-09-19T09:29:00)
