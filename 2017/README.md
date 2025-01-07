@@ -1730,6 +1730,11 @@
 - [hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik](https://github.com/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik)	<img alt="forks" src="https://img.shields.io/github/forks/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">	<img alt="stars" src="https://img.shields.io/github/stars/hlong12042/CVE-2017-11317-and-CVE-2017-11357-in-Telerik">
 
 ---
+## CVE-2017-11165 ()
+> 
+- [xymbiot-solution/CVE-2017-11165](https://github.com/xymbiot-solution/CVE-2017-11165)	<img alt="forks" src="https://img.shields.io/github/forks/xymbiot-solution/CVE-2017-11165">	<img alt="stars" src="https://img.shields.io/github/stars/xymbiot-solution/CVE-2017-11165">
+
+---
 ## CVE-2017-1107 (2019-06-19T14:15:00)
 > IBM Marketing Platform 9.1.0, 9.1.2, 10.0, and 10.1 exposes sensitive information in the headers that could be used by an authenticated attacker in further attacks against the system. IBM X-Force ID: 120906.
 - [Live-Hack-CVE/CVE-2017-1107](https://github.com/Live-Hack-CVE/CVE-2017-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1107">
