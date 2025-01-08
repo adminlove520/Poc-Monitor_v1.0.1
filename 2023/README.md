@@ -1151,6 +1151,7 @@ Users are recommended to upgrade to version 18.12.10
 ## CVE-2023-48795 ()
 > 
 - [TrixSec/CVE-2023-48795](https://github.com/TrixSec/CVE-2023-48795)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2023-48795">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2023-48795">
+- [RUB-NDS/Terrapin-Artifacts](https://github.com/RUB-NDS/Terrapin-Artifacts)	<img alt="forks" src="https://img.shields.io/github/forks/RUB-NDS/Terrapin-Artifacts">	<img alt="stars" src="https://img.shields.io/github/stars/RUB-NDS/Terrapin-Artifacts">
 
 ---
 ## CVE-2023-48788 (2024-03-12T15:15:00)
