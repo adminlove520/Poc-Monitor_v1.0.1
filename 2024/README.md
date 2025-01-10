@@ -2653,6 +2653,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [njmbb8/CVE-2024-42849](https://github.com/njmbb8/CVE-2024-42849)	<img alt="forks" src="https://img.shields.io/github/forks/njmbb8/CVE-2024-42849">	<img alt="stars" src="https://img.shields.io/github/stars/njmbb8/CVE-2024-42849">
 
 ---
+## CVE-2024-42845 ()
+> 
+- [theexploiters/CVE-2024-42845-Exploit](https://github.com/theexploiters/CVE-2024-42845-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-42845-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-42845-Exploit">
+
+---
 ## CVE-2024-42834 ()
 > 
 - [CyberSec-Supra/CVE-2024-42834](https://github.com/CyberSec-Supra/CVE-2024-42834)	<img alt="forks" src="https://img.shields.io/github/forks/CyberSec-Supra/CVE-2024-42834">	<img alt="stars" src="https://img.shields.io/github/stars/CyberSec-Supra/CVE-2024-42834">
@@ -2973,6 +2978,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [sudo-subho/nepstech-xpon-router-CVE-2024-40119](https://github.com/sudo-subho/nepstech-xpon-router-CVE-2024-40119)	<img alt="forks" src="https://img.shields.io/github/forks/sudo-subho/nepstech-xpon-router-CVE-2024-40119">	<img alt="stars" src="https://img.shields.io/github/stars/sudo-subho/nepstech-xpon-router-CVE-2024-40119">
 
 ---
+## CVE-2024-40111 ()
+> 
+- [theexploiters/CVE-2024-40111-Exploit](https://github.com/theexploiters/CVE-2024-40111-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-40111-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-40111-Exploit">
+
+---
 ## CVE-2024-40110 (2024-07-12T17:15:00)
 > Sourcecodester Poultry Farm Management System v1.0 contains an Unauthenticated Remote Code Execution (RCE) vulnerability via the productimage parameter at /farm/product.php.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
@@ -3060,6 +3070,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39203 (2024-07-08T16:15:00)
 > A cross-site scripting (XSS) vulnerability in the Backend Theme Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 - [5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)	<img alt="forks" src="https://img.shields.io/github/forks/5r1an/CVE-2024-39203">	<img alt="stars" src="https://img.shields.io/github/stars/5r1an/CVE-2024-39203">
+
+---
+## CVE-2024-39123 ()
+> 
+- [theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-39123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-39123-Exploit">
 
 ---
 ## CVE-2024-39090 (2024-07-18T20:15:00)
