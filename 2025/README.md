@@ -9,3 +9,4 @@
 ## CVE-2025-0282 ()
 > 
 - [securexploit1/CVE-2025-0282](https://github.com/securexploit1/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/securexploit1/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/securexploit1/CVE-2025-0282">
+- [NyxGoat/CVE-2025-0282-PoC](https://github.com/NyxGoat/CVE-2025-0282-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NyxGoat/CVE-2025-0282-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NyxGoat/CVE-2025-0282-PoC">
