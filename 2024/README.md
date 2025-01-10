@@ -4117,6 +4117,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [AlexLondan/CVE-2024-3333](https://github.com/AlexLondan/CVE-2024-3333)	<img alt="forks" src="https://img.shields.io/github/forks/AlexLondan/CVE-2024-3333">	<img alt="stars" src="https://img.shields.io/github/stars/AlexLondan/CVE-2024-3333">
 
 ---
+## CVE-2024-33297 ()
+> 
+- [MathSabo/CVE-2024-33297](https://github.com/MathSabo/CVE-2024-33297)	<img alt="forks" src="https://img.shields.io/github/forks/MathSabo/CVE-2024-33297">	<img alt="stars" src="https://img.shields.io/github/stars/MathSabo/CVE-2024-33297">
+
+---
 ## CVE-2024-33231 ()
 > 
 - [fdzdev/CVE-2024-33231](https://github.com/fdzdev/CVE-2024-33231)	<img alt="forks" src="https://img.shields.io/github/forks/fdzdev/CVE-2024-33231">	<img alt="stars" src="https://img.shields.io/github/stars/fdzdev/CVE-2024-33231">
