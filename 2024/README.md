@@ -7870,6 +7870,11 @@ authentication.   
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)	<img alt="forks" src="https://img.shields.io/github/forks/mhtsec/cve-2024-12883">	<img alt="stars" src="https://img.shields.io/github/stars/mhtsec/cve-2024-12883">
 
 ---
+## CVE-2024-12856 ()
+> 
+- [nu113d/CVE-2024-12856](https://github.com/nu113d/CVE-2024-12856)	<img alt="forks" src="https://img.shields.io/github/forks/nu113d/CVE-2024-12856">	<img alt="stars" src="https://img.shields.io/github/stars/nu113d/CVE-2024-12856">
+
+---
 ## CVE-2024-12849 ()
 > 
 - [RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12849">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12849">
