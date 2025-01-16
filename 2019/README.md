@@ -1056,6 +1056,11 @@
 - [Live-Hack-CVE/CVE-2019-5114](https://github.com/Live-Hack-CVE/CVE-2019-5114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5114">
 
 ---
+## CVE-2019-5029 ()
+> 
+- [yZ1337/CVE-2019-5029](https://github.com/yZ1337/CVE-2019-5029)	<img alt="forks" src="https://img.shields.io/github/forks/yZ1337/CVE-2019-5029">	<img alt="stars" src="https://img.shields.io/github/stars/yZ1337/CVE-2019-5029">
+
+---
 ## CVE-2019-4716 (2019-12-18T17:16:00)
 > IBM Planning Analytics 2.0.0 through 2.0.8 is vulnerable to a configuration overwrite that allows an unauthenticated user to login as "admin", and then execute code as root or SYSTEM via TM1 scripting. IBM X-Force ID: 172094.
 - [Live-Hack-CVE/CVE-2019-4716](https://github.com/Live-Hack-CVE/CVE-2019-4716)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-4716">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-4716">
