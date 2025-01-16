@@ -1029,6 +1029,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-54363 ()
 > 
 - [Nxploited/CVE-2024-54363-Exploit](https://github.com/Nxploited/CVE-2024-54363-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54363-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54363-Exploit">
+- [RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54363">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54363">
 
 ---
 ## CVE-2024-54330 ()
