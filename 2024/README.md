@@ -835,6 +835,26 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [s4fv4n/CVE-2024-57784](https://github.com/s4fv4n/CVE-2024-57784)	<img alt="forks" src="https://img.shields.io/github/forks/s4fv4n/CVE-2024-57784">	<img alt="stars" src="https://img.shields.io/github/stars/s4fv4n/CVE-2024-57784">
 
 ---
+## CVE-2024-57756 ()
+> 
+- [l00neyhacker/CVE-2024-57756](https://github.com/l00neyhacker/CVE-2024-57756)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57756">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57756">
+
+---
+## CVE-2024-57754 ()
+> 
+- [l00neyhacker/CVE-2024-57754](https://github.com/l00neyhacker/CVE-2024-57754)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57754">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57754">
+
+---
+## CVE-2024-57753 ()
+> 
+- [l00neyhacker/CVE-2024-57753](https://github.com/l00neyhacker/CVE-2024-57753)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57753">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57753">
+
+---
+## CVE-2024-57750 ()
+> 
+- [l00neyhacker/CVE-2024-57750](https://github.com/l00neyhacker/CVE-2024-57750)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57750">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57750">
+
+---
 ## CVE-2024-57748 ()
 > 
 - [l00neyhacker/CVE-2024-57748](https://github.com/l00neyhacker/CVE-2024-57748)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-57748">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-57748">
