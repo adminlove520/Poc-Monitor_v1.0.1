@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-24695 ()
+> 
+- [lazarus0x1337/CVE-2025-24695](https://github.com/lazarus0x1337/CVE-2025-24695)	<img alt="forks" src="https://img.shields.io/github/forks/lazarus0x1337/CVE-2025-24695">	<img alt="stars" src="https://img.shields.io/github/stars/lazarus0x1337/CVE-2025-24695">
+
+---
 ## CVE-2025-24659 ()
 > 
 - [DoTTak/CVE-2025-24659](https://github.com/DoTTak/CVE-2025-24659)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-24659">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-24659">
