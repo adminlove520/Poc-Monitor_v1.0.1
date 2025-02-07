@@ -391,6 +391,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [issamjr/CVE-2024-7954](https://github.com/issamjr/CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2024-7954">
 - [zxj-hub/CVE-2024-7954POC](https://github.com/zxj-hub/CVE-2024-7954POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxj-hub/CVE-2024-7954POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxj-hub/CVE-2024-7954POC">
 - [0dayan0n/RCE_CVE-2024-7954-](https://github.com/0dayan0n/RCE_CVE-2024-7954-)	<img alt="forks" src="https://img.shields.io/github/forks/0dayan0n/RCE_CVE-2024-7954-">	<img alt="stars" src="https://img.shields.io/github/stars/0dayan0n/RCE_CVE-2024-7954-">
+- [Arthikw3b/RCE-CVE-2024-7954](https://github.com/Arthikw3b/RCE-CVE-2024-7954)	<img alt="forks" src="https://img.shields.io/github/forks/Arthikw3b/RCE-CVE-2024-7954">	<img alt="stars" src="https://img.shields.io/github/stars/Arthikw3b/RCE-CVE-2024-7954">
 
 ---
 ## CVE-2024-7928 (2024-08-19T22:15:00)
@@ -595,6 +596,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6624 (2024-07-11T07:15:00)
 > The JSON API User plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 3.9.3. This is due to improper controls on custom user meta fields. This makes it possible for unauthenticated attackers to register as administrators on the site. The plugin requires the JSON API plugin to also be installed.
 - [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6624">
+- [Jenderal92/CVE-2024-6624](https://github.com/Jenderal92/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-6624">
 
 ---
 ## CVE-2024-6536 (2024-07-30T06:15:00)
@@ -753,6 +755,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6366 (2024-07-29T06:15:00)
 > The User Profile Builder  WordPress plugin before 3.11.8 does not have proper authorisation, allowing unauthenticated users to upload media files via the async upload functionality of WP.
 - [Abdurahmon3236/CVE-2024-6366](https://github.com/Abdurahmon3236/CVE-2024-6366)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-6366">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-6366">
+- [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6366-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6366-PoC">
 
 ---
 ## CVE-2024-6222 (2024-07-09T18:15:00)
@@ -881,11 +884,26 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [imjdl/CVE-2024-57727](https://github.com/imjdl/CVE-2024-57727)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2024-57727">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2024-57727">
 
 ---
+## CVE-2024-57699 ()
+> 
+- [TurtleLiu/CVE-2024-57699_PoC](https://github.com/TurtleLiu/CVE-2024-57699_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleLiu/CVE-2024-57699_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleLiu/CVE-2024-57699_PoC">
+
+---
 ## CVE-2024-5764 (2024-10-23T15:15:00)
 > Use of Hard-coded Credentials vulnerability in Sonatype Nexus Repository has been discovered in the code responsible for encrypting any secrets stored in the Nexus Repository configuration database (SMTP or HTTP proxy credentials, user tokens, tokens, among others). The affected versions relied on a static hard-coded encryption passphrase. While it was possible for an administrator to define an alternate encryption passphrase, it could only be done at first boot and not updated.
 
 This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 - [fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CVE-2024-5764">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CVE-2024-5764">
+
+---
+## CVE-2024-57610 ()
+> 
+- [nca785/CVE-2024-57610](https://github.com/nca785/CVE-2024-57610)	<img alt="forks" src="https://img.shields.io/github/forks/nca785/CVE-2024-57610">	<img alt="stars" src="https://img.shields.io/github/stars/nca785/CVE-2024-57610">
+
+---
+## CVE-2024-57609 ()
+> 
+- [nca785/CVE-2024-57609](https://github.com/nca785/CVE-2024-57609)	<img alt="forks" src="https://img.shields.io/github/forks/nca785/CVE-2024-57609">	<img alt="stars" src="https://img.shields.io/github/stars/nca785/CVE-2024-57609">
 
 ---
 ## CVE-2024-57523 ()
@@ -906,6 +924,26 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ## CVE-2024-57487 ()
 > 
 - [aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)	<img alt="forks" src="https://img.shields.io/github/forks/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">	<img alt="stars" src="https://img.shields.io/github/stars/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488">
+
+---
+## CVE-2024-57430 ()
+> 
+- [ahrixia/CVE-2024-57430](https://github.com/ahrixia/CVE-2024-57430)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2024-57430">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2024-57430">
+
+---
+## CVE-2024-57429 ()
+> 
+- [ahrixia/CVE-2024-57429](https://github.com/ahrixia/CVE-2024-57429)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2024-57429">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2024-57429">
+
+---
+## CVE-2024-57428 ()
+> 
+- [ahrixia/CVE-2024-57428](https://github.com/ahrixia/CVE-2024-57428)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2024-57428">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2024-57428">
+
+---
+## CVE-2024-57427 ()
+> 
+- [ahrixia/CVE-2024-57427](https://github.com/ahrixia/CVE-2024-57427)	<img alt="forks" src="https://img.shields.io/github/forks/ahrixia/CVE-2024-57427">	<img alt="stars" src="https://img.shields.io/github/stars/ahrixia/CVE-2024-57427">
 
 ---
 ## CVE-2024-57373 ()
@@ -951,9 +989,31 @@ The specific flaw exists within the password reset mechanism. The issue results 
 - [ipratheep/CVE-2024-56924](https://github.com/ipratheep/CVE-2024-56924)	<img alt="forks" src="https://img.shields.io/github/forks/ipratheep/CVE-2024-56924">	<img alt="stars" src="https://img.shields.io/github/stars/ipratheep/CVE-2024-56924">
 
 ---
+## CVE-2024-56903 ()
+> 
+- [DRAGOWN/CVE-2024-56903](https://github.com/DRAGOWN/CVE-2024-56903)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56903">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56903">
+
+---
+## CVE-2024-56902 ()
+> 
+- [DRAGOWN/CVE-2024-56902](https://github.com/DRAGOWN/CVE-2024-56902)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56902">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56902">
+
+---
+## CVE-2024-56901 ()
+> 
+- [DRAGOWN/CVE-2024-56901](https://github.com/DRAGOWN/CVE-2024-56901)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56901">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56901">
+- [DRAGOWN/CVE-2024-56903](https://github.com/DRAGOWN/CVE-2024-56903)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56903">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56903">
+
+---
 ## CVE-2024-56898 ()
 > 
 - [DRAGOWN/CVE-2024-56898](https://github.com/DRAGOWN/CVE-2024-56898)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2024-56898">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2024-56898">
+
+---
+## CVE-2024-56889 ()
+> 
+- [vigneshr232/CVE-2024-56889](https://github.com/vigneshr232/CVE-2024-56889)	<img alt="forks" src="https://img.shields.io/github/forks/vigneshr232/CVE-2024-56889">	<img alt="stars" src="https://img.shields.io/github/stars/vigneshr232/CVE-2024-56889">
+- [vigneshr232/CVE-2024-56889](https://github.com/vigneshr232/CVE-2024-56889)	<img alt="forks" src="https://img.shields.io/github/forks/vigneshr232/CVE-2024-56889">	<img alt="stars" src="https://img.shields.io/github/stars/vigneshr232/CVE-2024-56889">
 
 ---
 ## CVE-2024-56662 ()
@@ -1110,6 +1170,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > 
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-">
 - [kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability](https://github.com/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/kuzgunaka/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability">
+
+---
+## CVE-2024-55040 ()
+> 
+- [tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2024-55040-Sensaphone-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2024-55040-Sensaphone-XSS">
 
 ---
 ## CVE-2024-54910 ()
@@ -1317,6 +1382,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-53247 ()
 > 
 - [uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk](https://github.com/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">
+
+---
+## CVE-2024-5290 ()
+> 
+- [zrax-x/CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-5290-exp">
 
 ---
 ## CVE-2024-5274 (2024-05-28T15:15:00)
@@ -2015,6 +2085,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48589 ()
+> 
+- [Exek1el/CVE-2024-48589](https://github.com/Exek1el/CVE-2024-48589)	<img alt="forks" src="https://img.shields.io/github/forks/Exek1el/CVE-2024-48589">	<img alt="stars" src="https://img.shields.io/github/stars/Exek1el/CVE-2024-48589">
+
+---
 ## CVE-2024-48569 (2024-10-30T18:15:00)
 > Proactive Risk Manager version 9.1.1.0 is affected by multiple Cross-Site Scripting (XSS) vulnerabilities in the add/edit form fields, at the urls starting with the subpaths: /ar/config/configuation/ and /ar/config/risk-strategy-control/
 - [MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-48569">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-48569">
@@ -2109,6 +2184,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 ## CVE-2024-48063 (2024-10-29T21:15:00)
 > In PyTorch <=2.4.1, the RemoteModule has Deserialization RCE.
 - [zgimszhd61/CVE-2024-48063-poc](https://github.com/zgimszhd61/CVE-2024-48063-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-48063-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-48063-poc">
+
+---
+## CVE-2024-47875 ()
+> 
+- [daikinitanda/-CVE-2024-47875-](https://github.com/daikinitanda/-CVE-2024-47875-)	<img alt="forks" src="https://img.shields.io/github/forks/daikinitanda/-CVE-2024-47875-">	<img alt="stars" src="https://img.shields.io/github/stars/daikinitanda/-CVE-2024-47875-">
 
 ---
 ## CVE-2024-47854 (2024-10-04T06:15:00)
@@ -3578,6 +3658,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38143 (2024-08-13T18:15:00)
 > Windows WLAN AutoConfig Service Elevation of Privilege Vulnerability
 - [hanks445/CVE-2024-38143-poc](https://github.com/hanks445/CVE-2024-38143-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hanks445/CVE-2024-38143-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hanks445/CVE-2024-38143-poc">
+- [johnjhacking/CVE-2024-38143](https://github.com/johnjhacking/CVE-2024-38143)	<img alt="forks" src="https://img.shields.io/github/forks/johnjhacking/CVE-2024-38143">	<img alt="stars" src="https://img.shields.io/github/stars/johnjhacking/CVE-2024-38143">
 
 ---
 ## CVE-2024-38127 (2024-08-13T18:15:00)
@@ -4125,9 +4206,19 @@ PANIC from 6.8.0-rc1:
 - [KKkai0315/CVE-2024-35242](https://github.com/KKkai0315/CVE-2024-35242)	<img alt="forks" src="https://img.shields.io/github/forks/KKkai0315/CVE-2024-35242">	<img alt="stars" src="https://img.shields.io/github/stars/KKkai0315/CVE-2024-35242">
 
 ---
+## CVE-2024-35235 ()
+> 
+- [zrax-x/CVE-2024-35235-CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-35235-CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">
+
+---
 ## CVE-2024-35176 ()
 > 
 - [SpiralBL0CK/CVE-2024-35176](https://github.com/SpiralBL0CK/CVE-2024-35176)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-35176">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-35176">
+
+---
+## CVE-2024-35106 ()
+> 
+- [laskdjlaskdj12/CVE-2024-35106-POC](https://github.com/laskdjlaskdj12/CVE-2024-35106-POC)	<img alt="forks" src="https://img.shields.io/github/forks/laskdjlaskdj12/CVE-2024-35106-POC">	<img alt="stars" src="https://img.shields.io/github/stars/laskdjlaskdj12/CVE-2024-35106-POC">
 
 ---
 ## CVE-2024-34958 (2024-05-16T15:15:00)
@@ -5579,6 +5670,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/kyotozx/CVE-2024-2961-Remote-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/kyotozx/CVE-2024-2961-Remote-File-Read">
 - [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/4wayhandshake/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/4wayhandshake/CVE-2024-2961">
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
+- [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -8119,6 +8211,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 - [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874)	<img alt="forks" src="https://img.shields.io/github/forks/Tgcohce/CVE-2024-1874">	<img alt="stars" src="https://img.shields.io/github/stars/Tgcohce/CVE-2024-1874">
 
 ---
+## CVE-2024-1728 ()
+> 
+- [yuanmeng-MINGI/CVE-2024-1728](https://github.com/yuanmeng-MINGI/CVE-2024-1728)	<img alt="forks" src="https://img.shields.io/github/forks/yuanmeng-MINGI/CVE-2024-1728">	<img alt="stars" src="https://img.shields.io/github/stars/yuanmeng-MINGI/CVE-2024-1728">
+
+---
 ## CVE-2024-1709 (2024-02-21T16:15:00)
 > ConnectWise ScreenConnect 23.9.7 and prior are affected by an Authentication Bypass Using an Alternate Path or Channel
 
@@ -8267,6 +8364,7 @@ authentication.   
 ## CVE-2024-12542 ()
 > 
 - [RandomRobbieBF/CVE-2024-12542](https://github.com/RandomRobbieBF/CVE-2024-12542)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12542">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12542">
+- [Nxploited/CVE-2024-12542-PoC](https://github.com/Nxploited/CVE-2024-12542-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12542-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12542-PoC">
 
 ---
 ## CVE-2024-12471 ()
@@ -8536,6 +8634,8 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB">
 - [Hunt3r850/CVE-2024-10924-Wordpress-Docker](https://github.com/Hunt3r850/CVE-2024-10924-Wordpress-Docker)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r850/CVE-2024-10924-Wordpress-Docker">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r850/CVE-2024-10924-Wordpress-Docker">
 - [Hunt3r850/CVE-2024-10924-PoC](https://github.com/Hunt3r850/CVE-2024-10924-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r850/CVE-2024-10924-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r850/CVE-2024-10924-PoC">
+- [Nxploited/CVE-2024-10924-Exploit](https://github.com/Nxploited/CVE-2024-10924-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10924-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10924-Exploit">
+- [cy3erdr4g0n/CVE-2024-10924](https://github.com/cy3erdr4g0n/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/cy3erdr4g0n/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/cy3erdr4g0n/CVE-2024-10924">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)
@@ -9053,6 +9153,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [punitdarji/Paloalto-CVE-2024-0012](https://github.com/punitdarji/Paloalto-CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Paloalto-CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Paloalto-CVE-2024-0012">
 - [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
 - [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
+- [dcollaoa/cve-2024-0012-gui-poc](https://github.com/dcollaoa/cve-2024-0012-gui-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dcollaoa/cve-2024-0012-gui-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dcollaoa/cve-2024-0012-gui-poc">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)

@@ -394,6 +394,8 @@
 - [dy5topian/CVE-2018-6574](https://github.com/dy5topian/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/dy5topian/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/dy5topian/CVE-2018-6574">
 - [f0ur0four/CVE-2018-6574](https://github.com/f0ur0four/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/CVE-2018-6574">
 - [f0ur0four/cve-2018-6574](https://github.com/f0ur0four/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/cve-2018-6574">
+- [FrancoisCapon/CVE-2018-6574-PentesterLab](https://github.com/FrancoisCapon/CVE-2018-6574-PentesterLab)	<img alt="forks" src="https://img.shields.io/github/forks/FrancoisCapon/CVE-2018-6574-PentesterLab">	<img alt="stars" src="https://img.shields.io/github/stars/FrancoisCapon/CVE-2018-6574-PentesterLab">
+- [seoqqq/CVE-2018-6574](https://github.com/seoqqq/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/seoqqq/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/seoqqq/CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
@@ -1146,6 +1148,7 @@
 - [natpakun/SSRF-CVE-2018-25031-](https://github.com/natpakun/SSRF-CVE-2018-25031-)	<img alt="forks" src="https://img.shields.io/github/forks/natpakun/SSRF-CVE-2018-25031-">	<img alt="stars" src="https://img.shields.io/github/stars/natpakun/SSRF-CVE-2018-25031-">
 - [KonEch0/CVE-2018-25031-SG](https://github.com/KonEch0/CVE-2018-25031-SG)	<img alt="forks" src="https://img.shields.io/github/forks/KonEch0/CVE-2018-25031-SG">	<img alt="stars" src="https://img.shields.io/github/stars/KonEch0/CVE-2018-25031-SG">
 - [Proklinius897/CVE-2018-25031-tests](https://github.com/Proklinius897/CVE-2018-25031-tests)	<img alt="forks" src="https://img.shields.io/github/forks/Proklinius897/CVE-2018-25031-tests">	<img alt="stars" src="https://img.shields.io/github/stars/Proklinius897/CVE-2018-25031-tests">
+- [MMAKINGDOM/CVE-2018-25031](https://github.com/MMAKINGDOM/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/MMAKINGDOM/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/MMAKINGDOM/CVE-2018-25031">
 
 ---
 ## CVE-2018-25014 (2021-05-21T17:15:00)
@@ -1403,6 +1406,11 @@
 ## CVE-2018-18839 (2019-06-18T16:15:00)
 > ** DISPUTED ** An issue was discovered in Netdata 1.10.0. Full Path Disclosure (FPD) exists via api/v1/alarms. NOTE: the vendor says "is intentional."
 - [ahaShiyu/CVE-2018-18839](https://github.com/ahaShiyu/CVE-2018-18839)	<img alt="forks" src="https://img.shields.io/github/forks/ahaShiyu/CVE-2018-18839">	<img alt="stars" src="https://img.shields.io/github/stars/ahaShiyu/CVE-2018-18839">
+
+---
+## CVE-2018-18820 ()
+> 
+- [impulsiveness/CVE-2018-18820](https://github.com/impulsiveness/CVE-2018-18820)	<img alt="forks" src="https://img.shields.io/github/forks/impulsiveness/CVE-2018-18820">	<img alt="stars" src="https://img.shields.io/github/stars/impulsiveness/CVE-2018-18820">
 
 ---
 ## CVE-2018-18778 (2018-10-29T12:29:00)
