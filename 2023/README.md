@@ -6140,6 +6140,11 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [jcad123/CVE-2023-26256](https://github.com/jcad123/CVE-2023-26256)	<img alt="forks" src="https://img.shields.io/github/forks/jcad123/CVE-2023-26256">	<img alt="stars" src="https://img.shields.io/github/stars/jcad123/CVE-2023-26256">
 
 ---
+## CVE-2023-26136 ()
+> 
+- [morrisel/CVE-2023-26136](https://github.com/morrisel/CVE-2023-26136)	<img alt="forks" src="https://img.shields.io/github/forks/morrisel/CVE-2023-26136">	<img alt="stars" src="https://img.shields.io/github/stars/morrisel/CVE-2023-26136">
+
+---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
 > Certain Lexmark devices through 2023-02-19 mishandle Input Validation (issue 1 of 4).
 - [horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2023-26067">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2023-26067">
