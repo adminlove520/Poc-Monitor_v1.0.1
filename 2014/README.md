@@ -181,6 +181,10 @@
 ## CVE-2014-4210 ()
 > 
 - [ZorvithonLeo/Exploit-CVE-2014-4210-](https://github.com/ZorvithonLeo/Exploit-CVE-2014-4210-)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo/Exploit-CVE-2014-4210-">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo/Exploit-CVE-2014-4210-">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [NHPT/WebLogic-SSRF_CVE-2014-4210](https://github.com/NHPT/WebLogic-SSRF_CVE-2014-4210)	<img alt="forks" src="https://img.shields.io/github/forks/NHPT/WebLogic-SSRF_CVE-2014-4210">	<img alt="stars" src="https://img.shields.io/github/stars/NHPT/WebLogic-SSRF_CVE-2014-4210">
+- [unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC](https://github.com/unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC)	<img alt="forks" src="https://img.shields.io/github/forks/unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC">	<img alt="stars" src="https://img.shields.io/github/stars/unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC">
+- [NoneNotNull/SSRFX](https://github.com/NoneNotNull/SSRFX)	<img alt="forks" src="https://img.shields.io/github/forks/NoneNotNull/SSRFX">	<img alt="stars" src="https://img.shields.io/github/stars/NoneNotNull/SSRFX">
 
 ---
 ## CVE-2014-4078 (2014-11-11T22:55:00)
