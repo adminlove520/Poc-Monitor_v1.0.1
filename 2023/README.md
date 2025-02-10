@@ -3294,6 +3294,8 @@ URL that curl has been told to operate with.
 - [baesh3r/poc-CVE-2023-3824](https://github.com/baesh3r/poc-CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/baesh3r/poc-CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/baesh3r/poc-CVE-2023-3824">
 - [fr33c0d3/poc-cve-2023-3824](https://github.com/fr33c0d3/poc-cve-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/fr33c0d3/poc-cve-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/fr33c0d3/poc-cve-2023-3824">
 - [exploitdevelop/CVE-2023-3824](https://github.com/exploitdevelop/CVE-2023-3824)	<img alt="forks" src="https://img.shields.io/github/forks/exploitdevelop/CVE-2023-3824">	<img alt="stars" src="https://img.shields.io/github/stars/exploitdevelop/CVE-2023-3824">
+- [s1mpl3c0d3/cvepoc](https://github.com/s1mpl3c0d3/cvepoc)	<img alt="forks" src="https://img.shields.io/github/forks/s1mpl3c0d3/cvepoc">	<img alt="stars" src="https://img.shields.io/github/stars/s1mpl3c0d3/cvepoc">
+- [bluefish3r/poc-cve](https://github.com/bluefish3r/poc-cve)	<img alt="forks" src="https://img.shields.io/github/forks/bluefish3r/poc-cve">	<img alt="stars" src="https://img.shields.io/github/stars/bluefish3r/poc-cve">
 
 ---
 ## CVE-2023-38146 (2023-09-12T17:15:00)
