@@ -894,6 +894,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [imjdl/CVE-2024-57727](https://github.com/imjdl/CVE-2024-57727)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2024-57727">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2024-57727">
 
 ---
+## CVE-2024-57725 ()
+> 
+- [pointedsec/CVE-2024-57725](https://github.com/pointedsec/CVE-2024-57725)	<img alt="forks" src="https://img.shields.io/github/forks/pointedsec/CVE-2024-57725">	<img alt="stars" src="https://img.shields.io/github/stars/pointedsec/CVE-2024-57725">
+
+---
 ## CVE-2024-57699 ()
 > 
 - [TurtleLiu/CVE-2024-57699_PoC](https://github.com/TurtleLiu/CVE-2024-57699_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleLiu/CVE-2024-57699_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleLiu/CVE-2024-57699_PoC">
