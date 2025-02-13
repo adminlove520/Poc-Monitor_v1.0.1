@@ -432,6 +432,11 @@
 - [Live-Hack-CVE/CVE-2016-6931](https://github.com/Live-Hack-CVE/CVE-2016-6931)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6931">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6931">
 
 ---
+## CVE-2016-6914 ()
+> 
+- [CybermonkX/CVE-2016-6914-UniFiVideo-LPE](https://github.com/CybermonkX/CVE-2016-6914-UniFiVideo-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/CybermonkX/CVE-2016-6914-UniFiVideo-LPE">
+
+---
 ## CVE-2016-6664 (2016-12-13T21:59:00)
 > mysqld_safe in Oracle MySQL through 5.5.51, 5.6.x through 5.6.32, and 5.7.x through 5.7.14; MariaDB; Percona Server before 5.5.51-38.2, 5.6.x before 5.6.32-78-1, and 5.7.x before 5.7.14-8; and Percona XtraDB Cluster before 5.5.41-37.0, 5.6.x before 5.6.32-25.17, and 5.7.x before 5.7.14-26.17, when using file-based logging, allows local users with access to the mysql account to gain root privileges via a symlink attack on error logs and possibly other files.
 - [Live-Hack-CVE/CVE-2016-6664](https://github.com/Live-Hack-CVE/CVE-2016-6664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-6664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-6664">
