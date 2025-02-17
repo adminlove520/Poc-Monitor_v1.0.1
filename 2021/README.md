@@ -1007,6 +1007,7 @@
 - [AKA47SS/Slient-URL-Exploit](https://github.com/AKA47SS/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Slient-URL-Exploit">
 - [AKA47SS/Discord-Image-Logger-Stealer](https://github.com/AKA47SS/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/Discord-Image-Logger-Stealer">
 - [AKA47SS/HTA-Exploit](https://github.com/AKA47SS/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AKA47SS/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AKA47SS/HTA-Exploit">
+- [yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-](https://github.com/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
