@@ -1949,6 +1949,8 @@
 ## CVE-2018-13382 ()
 > 
 - [cojoben/CVE-2018-13382](https://github.com/cojoben/CVE-2018-13382)	<img alt="forks" src="https://img.shields.io/github/forks/cojoben/CVE-2018-13382">	<img alt="stars" src="https://img.shields.io/github/stars/cojoben/CVE-2018-13382">
+- [tumikoto/Exploit-FortinetMagicBackdoor](https://github.com/tumikoto/Exploit-FortinetMagicBackdoor)	<img alt="forks" src="https://img.shields.io/github/forks/tumikoto/Exploit-FortinetMagicBackdoor">	<img alt="stars" src="https://img.shields.io/github/stars/tumikoto/Exploit-FortinetMagicBackdoor">
+- [milo2012/CVE-2018-13382](https://github.com/milo2012/CVE-2018-13382)	<img alt="forks" src="https://img.shields.io/github/forks/milo2012/CVE-2018-13382">	<img alt="stars" src="https://img.shields.io/github/stars/milo2012/CVE-2018-13382">
 
 ---
 ## CVE-2018-13379 (2019-06-04T21:29:00)
