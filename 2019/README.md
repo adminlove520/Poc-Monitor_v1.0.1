@@ -4304,6 +4304,11 @@ use after free.
 - [ossf-cve-benchmark/CVE-2019-10061](https://github.com/ossf-cve-benchmark/CVE-2019-10061)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10061">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10061">
 
 ---
+## CVE-2019-1003030 ()
+> 
+- [overgrowncarrot1/CVE-2019-1003030](https://github.com/overgrowncarrot1/CVE-2019-1003030)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2019-1003030">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2019-1003030">
+
+---
 ## CVE-2019-0988 (2019-06-12T14:29:00)
 > A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka 'Scripting Engine Memory Corruption Vulnerability'. This CVE ID is unique from CVE-2019-0920, CVE-2019-1005, CVE-2019-1055, CVE-2019-1080.
 - [Live-Hack-CVE/CVE-2019-0988](https://github.com/Live-Hack-CVE/CVE-2019-0988)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-0988">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-0988">
