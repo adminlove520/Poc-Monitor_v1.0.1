@@ -123,6 +123,7 @@
 ## CVE-2025-24752 ()
 > 
 - [bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bartfroklage/CVE-2025-24752-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bartfroklage/CVE-2025-24752-POC">
+- [Sachinart/essential-addons-for-elementor-xss-poc](https://github.com/Sachinart/essential-addons-for-elementor-xss-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/essential-addons-for-elementor-xss-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/essential-addons-for-elementor-xss-poc">
 
 ---
 ## CVE-2025-24695 ()
