@@ -5125,6 +5125,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/CVE-2024-32002">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/CVE-2024-32002">
 - [razenkovv/hook](https://github.com/razenkovv/hook)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/hook">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/hook">
 - [razenkovv/captain](https://github.com/razenkovv/captain)	<img alt="forks" src="https://img.shields.io/github/forks/razenkovv/captain">	<img alt="stars" src="https://img.shields.io/github/stars/razenkovv/captain">
+- [ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ashutosh0408/Cve-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ashutosh0408/Cve-2024-32002-poc">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
