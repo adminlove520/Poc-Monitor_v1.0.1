@@ -3112,6 +3112,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-15715](https://github.com/Live-Hack-CVE/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15715">
 
 ---
+## CVE-2019-15707 ()
+> 
+- [cristianovisk/CVE-2019-15707](https://github.com/cristianovisk/CVE-2019-15707)	<img alt="forks" src="https://img.shields.io/github/forks/cristianovisk/CVE-2019-15707">	<img alt="stars" src="https://img.shields.io/github/stars/cristianovisk/CVE-2019-15707">
+
+---
 ## CVE-2019-15654 (2020-03-19T18:15:00)
 > Comba AC2400 devices are prone to password disclosure via a simple crafted /09/business/upgrade/upcfgAction.php?download=true request to the web management server. The request doesn't require any authentication and will lead to saving the DBconfig.cfg file. At the end of the file, the login information is stored in cleartext.
 - [Live-Hack-CVE/CVE-2019-15654](https://github.com/Live-Hack-CVE/CVE-2019-15654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15654">
