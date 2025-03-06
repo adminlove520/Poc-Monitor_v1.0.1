@@ -1184,6 +1184,7 @@
 - [ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux](https://github.com/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/ravi5hanka/CVE-2021-43798-Exploit-for-Windows-and-Linux">
 - [davidr-io/Grafana-8.3-Directory-Traversal](https://github.com/davidr-io/Grafana-8.3-Directory-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/davidr-io/Grafana-8.3-Directory-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/davidr-io/Grafana-8.3-Directory-Traversal">
 - [wezoomagency/GrafXploit](https://github.com/wezoomagency/GrafXploit)	<img alt="forks" src="https://img.shields.io/github/forks/wezoomagency/GrafXploit">	<img alt="stars" src="https://img.shields.io/github/stars/wezoomagency/GrafXploit">
+- [monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read](https://github.com/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
