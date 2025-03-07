@@ -860,6 +860,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [glen-pearson/MoveIT_CVE-2024-5806](https://github.com/glen-pearson/MoveIT_CVE-2024-5806)	<img alt="forks" src="https://img.shields.io/github/forks/glen-pearson/MoveIT_CVE-2024-5806">	<img alt="stars" src="https://img.shields.io/github/stars/glen-pearson/MoveIT_CVE-2024-5806">
 
 ---
+## CVE-2024-57972 ()
+> 
+- [tania-silva/CVE-2024-57972](https://github.com/tania-silva/CVE-2024-57972)	<img alt="forks" src="https://img.shields.io/github/forks/tania-silva/CVE-2024-57972">	<img alt="stars" src="https://img.shields.io/github/stars/tania-silva/CVE-2024-57972">
+
+---
 ## CVE-2024-57785 ()
 > 
 - [s4fv4n/CVE-2024-57785](https://github.com/s4fv4n/CVE-2024-57785)	<img alt="forks" src="https://img.shields.io/github/forks/s4fv4n/CVE-2024-57785">	<img alt="stars" src="https://img.shields.io/github/stars/s4fv4n/CVE-2024-57785">
