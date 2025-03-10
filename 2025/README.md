@@ -184,6 +184,31 @@
 - [lkasjkasj/CVE-2025-25369](https://github.com/lkasjkasj/CVE-2025-25369)	<img alt="forks" src="https://img.shields.io/github/forks/lkasjkasj/CVE-2025-25369">	<img alt="stars" src="https://img.shields.io/github/stars/lkasjkasj/CVE-2025-25369">
 
 ---
+## CVE-2025-25340 ()
+> 
+- [l00neyhacker/CVE-2025-25340](https://github.com/l00neyhacker/CVE-2025-25340)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25340">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25340">
+
+---
+## CVE-2025-25339 ()
+> 
+- [l00neyhacker/CVE-2025-25339](https://github.com/l00neyhacker/CVE-2025-25339)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25339">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25339">
+
+---
+## CVE-2025-25338 ()
+> 
+- [l00neyhacker/CVE-2025-25338](https://github.com/l00neyhacker/CVE-2025-25338)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25338">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25338">
+
+---
+## CVE-2025-25337 ()
+> 
+- [l00neyhacker/CVE-2025-25337](https://github.com/l00neyhacker/CVE-2025-25337)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25337">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25337">
+
+---
+## CVE-2025-25335 ()
+> 
+- [l00neyhacker/CVE-2025-25335](https://github.com/l00neyhacker/CVE-2025-25335)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25335">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25335">
+
+---
 ## CVE-2025-25296 ()
 > 
 - [math-x-io/CVE-2025-25296-POC](https://github.com/math-x-io/CVE-2025-25296-POC)	<img alt="forks" src="https://img.shields.io/github/forks/math-x-io/CVE-2025-25296-POC">	<img alt="stars" src="https://img.shields.io/github/stars/math-x-io/CVE-2025-25296-POC">
