@@ -1709,6 +1709,13 @@
 - [jadeapar/Dragonfish-s-Malware-Cyber-Analysis](https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">
 
 ---
+## CVE-2017-1182 ()
+> 
+- [Morfeen01/cve-2017-1182-TN](https://github.com/Morfeen01/cve-2017-1182-TN)	<img alt="forks" src="https://img.shields.io/github/forks/Morfeen01/cve-2017-1182-TN">	<img alt="stars" src="https://img.shields.io/github/stars/Morfeen01/cve-2017-1182-TN">
+- [chefphenix25/vuln-rabilit-windows7](https://github.com/chefphenix25/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/chefphenix25/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/chefphenix25/vuln-rabilit-windows7">
+- [thatskriptkid/CVE-2017-11826](https://github.com/thatskriptkid/CVE-2017-11826)	<img alt="forks" src="https://img.shields.io/github/forks/thatskriptkid/CVE-2017-11826">	<img alt="stars" src="https://img.shields.io/github/stars/thatskriptkid/CVE-2017-11826">
+
+---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
 > There is a reachable assertion in the Internal::TiffReader::visitDirectory function in tiffvisitor.cpp of Exiv2 0.26 that will lead to a remote denial of service attack via crafted input.
 - [Live-Hack-CVE/CVE-2017-11683](https://github.com/Live-Hack-CVE/CVE-2017-11683)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11683">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11683">
