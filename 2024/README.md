@@ -9066,6 +9066,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Spid3heX/CVE-2024-1071-PoC-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Spid3heX/CVE-2024-1071-PoC-Script">
 
 ---
+## CVE-2024-10674 ()
+> 
+- [Nxploited/CVE-2024-10674](https://github.com/Nxploited/CVE-2024-10674)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10674">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10674">
+
+---
 ## CVE-2024-10673 ()
 > 
 - [Nxploited/CVE-2024-10673](https://github.com/Nxploited/CVE-2024-10673)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10673">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10673">
@@ -9261,6 +9266,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 
 
 - [tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762)	<img alt="forks" src="https://img.shields.io/github/forks/tadash10/Detect-CVE-2024-0762">	<img alt="stars" src="https://img.shields.io/github/stars/tadash10/Detect-CVE-2024-0762">
+
+---
+## CVE-2024-0760 ()
+> 
+- [SpiralBL0CK/CVE-2024-0760](https://github.com/SpiralBL0CK/CVE-2024-0760)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-0760">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-0760">
 
 ---
 ## CVE-2024-0757 (2024-06-04T06:15:00)
