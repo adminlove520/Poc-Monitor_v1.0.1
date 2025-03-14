@@ -241,6 +241,11 @@
 - [rootharpy/CVE-2025-25163-Nuclei-Template](https://github.com/rootharpy/CVE-2025-25163-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/rootharpy/CVE-2025-25163-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/rootharpy/CVE-2025-25163-Nuclei-Template">
 
 ---
+## CVE-2025-25101 ()
+> 
+- [Nxploited/CVE-2025-25101](https://github.com/Nxploited/CVE-2025-25101)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-25101">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-25101">
+
+---
 ## CVE-2025-25062 ()
 > 
 - [rhburt/CVE-2025-25062](https://github.com/rhburt/CVE-2025-25062)	<img alt="forks" src="https://img.shields.io/github/forks/rhburt/CVE-2025-25062">	<img alt="stars" src="https://img.shields.io/github/stars/rhburt/CVE-2025-25062">
@@ -260,6 +265,7 @@
 ## CVE-2025-24813 ()
 > 
 - [iSee857/CVE-2025-24813-PoC](https://github.com/iSee857/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-24813-PoC">
+- [N0c1or/CVE-2025-24813_POC](https://github.com/N0c1or/CVE-2025-24813_POC)	<img alt="forks" src="https://img.shields.io/github/forks/N0c1or/CVE-2025-24813_POC">	<img alt="stars" src="https://img.shields.io/github/stars/N0c1or/CVE-2025-24813_POC">
 
 ---
 ## CVE-2025-24752 ()
