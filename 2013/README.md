@@ -128,6 +128,7 @@
 - [Securenetology/CVE-2013-3900](https://github.com/Securenetology/CVE-2013-3900)	<img alt="forks" src="https://img.shields.io/github/forks/Securenetology/CVE-2013-3900">	<img alt="stars" src="https://img.shields.io/github/stars/Securenetology/CVE-2013-3900">
 - [CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln](https://github.com/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCondor/Fix-WinVerifyTrustSignatureValidationVuln">
 - [OtisSymbos/CVE-2013-3900-WinTrustVerify](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify)	<img alt="forks" src="https://img.shields.io/github/forks/OtisSymbos/CVE-2013-3900-WinTrustVerify">	<img alt="stars" src="https://img.shields.io/github/stars/OtisSymbos/CVE-2013-3900-WinTrustVerify">
+- [DavidBr27/CVE-2013-3900-Remediation-Script](https://github.com/DavidBr27/CVE-2013-3900-Remediation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBr27/CVE-2013-3900-Remediation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBr27/CVE-2013-3900-Remediation-Script">
 
 ---
 ## CVE-2013-3827 (2013-10-16T15:55:00)
