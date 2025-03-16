@@ -261,6 +261,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-9047">
 - [Nxploited/CVE-2024-9047-Exploit](https://github.com/Nxploited/CVE-2024-9047-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9047-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9047-Exploit">
 - [chihyeonwon/CVE-2024-9047](https://github.com/chihyeonwon/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/chihyeonwon/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/chihyeonwon/CVE-2024-9047">
+- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
 
 ---
 ## CVE-2024-9043 (2024-09-20T11:15:00)
