@@ -9,6 +9,7 @@
 ## CVE-2025-30066 ()
 > 
 - [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">
+- [OS-pedrogustavobilro/test-changed-files](https://github.com/OS-pedrogustavobilro/test-changed-files)	<img alt="forks" src="https://img.shields.io/github/forks/OS-pedrogustavobilro/test-changed-files">	<img alt="stars" src="https://img.shields.io/github/stars/OS-pedrogustavobilro/test-changed-files">
 
 ---
 ## CVE-2025-29384 ()
@@ -344,6 +345,7 @@
 ## CVE-2025-24071 ()
 > 
 - [FOLKS-iwd/CVE-2025-24071-msfvenom](https://github.com/FOLKS-iwd/CVE-2025-24071-msfvenom)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-24071-msfvenom">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-24071-msfvenom">
+- [0x6rss/CVE-2025-24071_PoC](https://github.com/0x6rss/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0x6rss/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0x6rss/CVE-2025-24071_PoC">
 
 ---
 ## CVE-2025-24016 ()
