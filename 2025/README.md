@@ -6,6 +6,11 @@
 - [g0v3lla/CVE-2025-510T](https://github.com/g0v3lla/CVE-2025-510T)	<img alt="forks" src="https://img.shields.io/github/forks/g0v3lla/CVE-2025-510T">	<img alt="stars" src="https://img.shields.io/github/stars/g0v3lla/CVE-2025-510T">
 
 ---
+## CVE-2025-30144 ()
+> 
+- [tibrn/CVE-2025-30144](https://github.com/tibrn/CVE-2025-30144)	<img alt="forks" src="https://img.shields.io/github/forks/tibrn/CVE-2025-30144">	<img alt="stars" src="https://img.shields.io/github/stars/tibrn/CVE-2025-30144">
+
+---
 ## CVE-2025-30066 ()
 > 
 - [Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool](https://github.com/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Checkmarx/Checkmarx-CVE-2025-30066-Detection-Tool">
