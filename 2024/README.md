@@ -1961,6 +1961,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50493">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50493">
 
 ---
+## CVE-2024-50492 ()
+> 
+- [Nxploited/CVE-2024-50492](https://github.com/Nxploited/CVE-2024-50492)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-50492">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-50492">
+
+---
 ## CVE-2024-50491 ()
 > 
 - [RandomRobbieBF/CVE-2024-50491](https://github.com/RandomRobbieBF/CVE-2024-50491)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50491">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50491">
@@ -8871,6 +8876,11 @@ authentication.   
 ## CVE-2024-12270 ()
 > 
 - [RandomRobbieBF/CVE-2024-12270](https://github.com/RandomRobbieBF/CVE-2024-12270)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12270">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12270">
+
+---
+## CVE-2024-12252 ()
+> 
+- [Nxploited/CVE-2024-12252](https://github.com/Nxploited/CVE-2024-12252)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12252">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12252">
 
 ---
 ## CVE-2024-12209 ()
