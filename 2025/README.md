@@ -24,6 +24,7 @@
 - [xaitx/CVE-2025-30208](https://github.com/xaitx/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/xaitx/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/xaitx/CVE-2025-30208">
 - [YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)	<img alt="forks" src="https://img.shields.io/github/forks/YuanBenSir/CVE-2025-30208_POC">	<img alt="stars" src="https://img.shields.io/github/stars/YuanBenSir/CVE-2025-30208_POC">
 - [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
+- [marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marino-admin/Vite-CVE-2025-30208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marino-admin/Vite-CVE-2025-30208-Scanner">
 
 ---
 ## CVE-2025-30144 ()
@@ -616,6 +617,7 @@
 - [zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zwxxb/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zwxxb/CVE-2025-1974">
 - [hi-unc1e/CVE-2025-1974-poc](https://github.com/hi-unc1e/CVE-2025-1974-poc)	<img alt="forks" src="https://img.shields.io/github/forks/hi-unc1e/CVE-2025-1974-poc">	<img alt="stars" src="https://img.shields.io/github/stars/hi-unc1e/CVE-2025-1974-poc">
 - [m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc)	<img alt="forks" src="https://img.shields.io/github/forks/m-q-t/ingressnightmare-detection-poc">	<img alt="stars" src="https://img.shields.io/github/stars/m-q-t/ingressnightmare-detection-poc">
+- [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
 
 ---
 ## CVE-2025-1716 ()
