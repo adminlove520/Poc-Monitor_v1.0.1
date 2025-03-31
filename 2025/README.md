@@ -541,6 +541,11 @@
 - [manjula-aw/CVE-2025-24813](https://github.com/manjula-aw/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/manjula-aw/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/manjula-aw/CVE-2025-24813">
 
 ---
+## CVE-2025-24799 ()
+> 
+- [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-24799-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-24799-PoC">
+
+---
 ## CVE-2025-2476 ()
 > 
 - [McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476)	<img alt="forks" src="https://img.shields.io/github/forks/McTavishSue/CVE-2025-2476">	<img alt="stars" src="https://img.shields.io/github/stars/McTavishSue/CVE-2025-2476">
