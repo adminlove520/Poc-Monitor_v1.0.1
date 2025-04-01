@@ -9316,6 +9316,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448">
 
 ---
+## CVE-2024-10441 ()
+> 
+- [hazzzein/CVE-2024-10441](https://github.com/hazzzein/CVE-2024-10441)	<img alt="forks" src="https://img.shields.io/github/forks/hazzzein/CVE-2024-10441">	<img alt="stars" src="https://img.shields.io/github/stars/hazzzein/CVE-2024-10441">
+
+---
 ## CVE-2024-10410 (2024-10-27T04:15:00)
 > A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 - [K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)	<img alt="forks" src="https://img.shields.io/github/forks/K1nako0/CVE-2024-10410">	<img alt="stars" src="https://img.shields.io/github/stars/K1nako0/CVE-2024-10410">
