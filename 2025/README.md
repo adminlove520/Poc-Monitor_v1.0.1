@@ -70,6 +70,7 @@
 ## CVE-2025-31125 ()
 > 
 - [sunhuiHi666/CVE-2025-31125](https://github.com/sunhuiHi666/CVE-2025-31125)	<img alt="forks" src="https://img.shields.io/github/forks/sunhuiHi666/CVE-2025-31125">	<img alt="stars" src="https://img.shields.io/github/stars/sunhuiHi666/CVE-2025-31125">
+- [jackieya/CVE-2025-30208-and-CVE-2025-31125](https://github.com/jackieya/CVE-2025-30208-and-CVE-2025-31125)	<img alt="forks" src="https://img.shields.io/github/forks/jackieya/CVE-2025-30208-and-CVE-2025-31125">	<img alt="stars" src="https://img.shields.io/github/stars/jackieya/CVE-2025-30208-and-CVE-2025-31125">
 
 ---
 ## CVE-2025-30772 ()
@@ -410,6 +411,11 @@
 ## CVE-2025-25964 ()
 > 
 - [Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-Sakib/CVE-2025-25964">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-Sakib/CVE-2025-25964">
+
+---
+## CVE-2025-2594 ()
+> 
+- [ubaydev/CVE-2025-2594](https://github.com/ubaydev/CVE-2025-2594)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2025-2594">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2025-2594">
 
 ---
 ## CVE-2025-25763 ()
