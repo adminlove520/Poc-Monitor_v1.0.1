@@ -792,6 +792,12 @@
 - [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedumarehman/CVE-2025-21293">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedumarehman/CVE-2025-21293">
 
 ---
+## CVE-2025-2005 ()
+> 
+- [Nxploited/CVE-2025-2005](https://github.com/Nxploited/CVE-2025-2005)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-2005">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-2005">
+- [chetools/CVE2005_Spring2025](https://github.com/chetools/CVE2005_Spring2025)	<img alt="forks" src="https://img.shields.io/github/forks/chetools/CVE2005_Spring2025">	<img alt="stars" src="https://img.shields.io/github/stars/chetools/CVE2005_Spring2025">
+
+---
 ## CVE-2025-20029 ()
 > 
 - [mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2025-20029">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2025-20029">
