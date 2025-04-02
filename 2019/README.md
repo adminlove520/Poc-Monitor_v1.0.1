@@ -158,6 +158,7 @@
 - [geniuszlyy/CVE-2019-9193](https://github.com/geniuszlyy/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2019-9193">
 - [AxthonyV/CVE-2019-9193](https://github.com/AxthonyV/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2019-9193">
 - [A0be/CVE-2019-9193](https://github.com/A0be/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/A0be/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/A0be/CVE-2019-9193">
+- [corsisechero/CVE-2019-9193byVulHub](https://github.com/corsisechero/CVE-2019-9193byVulHub)	<img alt="forks" src="https://img.shields.io/github/forks/corsisechero/CVE-2019-9193byVulHub">	<img alt="stars" src="https://img.shields.io/github/stars/corsisechero/CVE-2019-9193byVulHub">
 
 ---
 ## CVE-2019-9139 (2019-04-25T18:29:00)

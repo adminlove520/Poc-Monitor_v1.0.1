@@ -4965,6 +4965,20 @@
 - [Live-Hack-CVE/CVE-2020-13943](https://github.com/Live-Hack-CVE/CVE-2020-13943)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13943">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13943">
 
 ---
+## CVE-2020-13942 ()
+> 
+- [corsisechero/CVE-2020-13942byVulHub](https://github.com/corsisechero/CVE-2020-13942byVulHub)	<img alt="forks" src="https://img.shields.io/github/forks/corsisechero/CVE-2020-13942byVulHub">	<img alt="stars" src="https://img.shields.io/github/stars/corsisechero/CVE-2020-13942byVulHub">
+- [zhzyker/vulmap](https://github.com/zhzyker/vulmap)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/vulmap">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/vulmap">
+- [blackmarketer/CVE-2020-13942](https://github.com/blackmarketer/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/blackmarketer/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/blackmarketer/CVE-2020-13942">
+- [Prodrious/CVE-2020-13942](https://github.com/Prodrious/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/Prodrious/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/Prodrious/CVE-2020-13942">
+- [hoanx4/apche_unomi_rce](https://github.com/hoanx4/apche_unomi_rce)	<img alt="forks" src="https://img.shields.io/github/forks/hoanx4/apche_unomi_rce">	<img alt="stars" src="https://img.shields.io/github/stars/hoanx4/apche_unomi_rce">
+- [yaunsky/Unomi-CVE-2020-13942](https://github.com/yaunsky/Unomi-CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/Unomi-CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/Unomi-CVE-2020-13942">
+- [eugenebmx/CVE-2020-13942](https://github.com/eugenebmx/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/eugenebmx/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/eugenebmx/CVE-2020-13942">
+- [1135/unomi_exploit](https://github.com/1135/unomi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1135/unomi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1135/unomi_exploit">
+- [shifa123/CVE-2020-13942-POC-](https://github.com/shifa123/CVE-2020-13942-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/shifa123/CVE-2020-13942-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/shifa123/CVE-2020-13942-POC-">
+- [lp008/CVE-2020-13942](https://github.com/lp008/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2020-13942">
+
+---
 ## CVE-2020-13937 (2020-10-19T21:15:00)
 > Apache Kylin 2.0.0, 2.1.0, 2.2.0, 2.3.0, 2.3.1, 2.3.2, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.6.0, 2.6.1, 2.6.2, 2.6.3, 2.6.4, 2.6.5, 2.6.6, 3.0.0-alpha, 3.0.0-alpha2, 3.0.0-beta, 3.0.0, 3.0.1, 3.0.2, 3.1.0, 4.0.0-alpha has one restful api which exposed Kylin's configuration information without any authentication, so it is dangerous because some confidential information entries will be disclosed to everyone.
 - [kailing0220/CVE-2020-13937](https://github.com/kailing0220/CVE-2020-13937)	<img alt="forks" src="https://img.shields.io/github/forks/kailing0220/CVE-2020-13937">	<img alt="stars" src="https://img.shields.io/github/stars/kailing0220/CVE-2020-13937">
