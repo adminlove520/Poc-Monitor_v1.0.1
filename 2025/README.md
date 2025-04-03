@@ -647,6 +647,7 @@
 ## CVE-2025-24799 ()
 > 
 - [realcodeb0ss/CVE-2025-24799-PoC](https://github.com/realcodeb0ss/CVE-2025-24799-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-24799-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-24799-PoC">
+- [MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-24799">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-24799">
 
 ---
 ## CVE-2025-2476 ()
