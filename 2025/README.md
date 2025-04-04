@@ -723,6 +723,7 @@
 - [rubbxalc/CVE-2025-24071](https://github.com/rubbxalc/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/rubbxalc/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/rubbxalc/CVE-2025-24071">
 - [Marcejr117/CVE-2025-24071_PoC](https://github.com/Marcejr117/CVE-2025-24071_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Marcejr117/CVE-2025-24071_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Marcejr117/CVE-2025-24071_PoC">
 - [cesarbtakeda/Windows-Explorer-CVE-2025-24071](https://github.com/cesarbtakeda/Windows-Explorer-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/Windows-Explorer-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/Windows-Explorer-CVE-2025-24071">
+- [duongdz96/CVE-2025-24071](https://github.com/duongdz96/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/duongdz96/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/duongdz96/CVE-2025-24071">
 
 ---
 ## CVE-2025-24016 ()
