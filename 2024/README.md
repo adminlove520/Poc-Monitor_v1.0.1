@@ -4894,7 +4894,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [tfrederick74656/cve-2024-3400-poc](https://github.com/tfrederick74656/cve-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tfrederick74656/cve-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tfrederick74656/cve-2024-3400-poc">
 - [nanwinata/CVE-2024-3400](https://github.com/nanwinata/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-3400">
 - [XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/CVE-2024-3400-poc">
-- [drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400](https://github.com/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/drake044/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">
+- [hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400](https://github.com/hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/hashdr1ft/SOC274-Palo-Alto-Networks-PAN-OS-Command-Injection-Vulnerability-Exploitation-CVE-2024-3400">
 
 ---
 ## CVE-2024-3393 ()
@@ -8088,6 +8088,9 @@ QuTScloud c5.1.5.2651 and later
 > A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication.
 - [h4x0r-dz/CVE-2024-21893.py](https://github.com/h4x0r-dz/CVE-2024-21893.py)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-21893.py">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-21893.py">
 - [Chocapikk/CVE-2024-21893-to-CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21893-to-CVE-2024-21887)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-21893-to-CVE-2024-21887">
+- [cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/cboss43/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/cboss43/CVE-2024-25600">
+- [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/GobyVuls">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/GobyVuls">
+- [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
 
 ---
 ## CVE-2024-21887 (2024-01-12T17:15:00)
