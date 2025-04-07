@@ -8372,6 +8372,11 @@
 - [cnetsec/CVE-2021-24019](https://github.com/cnetsec/CVE-2021-24019)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2021-24019">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2021-24019">
 
 ---
+## CVE-2021-24006 ()
+> 
+- [cnetsec/CVE-2021-24006](https://github.com/cnetsec/CVE-2021-24006)	<img alt="forks" src="https://img.shields.io/github/forks/cnetsec/CVE-2021-24006">	<img alt="stars" src="https://img.shields.io/github/stars/cnetsec/CVE-2021-24006">
+
+---
 ## CVE-2021-23980 (2023-02-16T22:15:00)
 > A mutation XSS affects users calling bleach.clean with all of: svg or math in the allowed tags p or br in allowed tags style, title, noscript, script, textarea, noframes, iframe, or xmp in allowed tags the keyword argument strip_comments=False Note: none of the above tags are in the default allowed tags and strip_comments defaults to True.
 - [Live-Hack-CVE/CVE-2021-23980](https://github.com/Live-Hack-CVE/CVE-2021-23980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23980">
