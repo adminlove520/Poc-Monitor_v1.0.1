@@ -3894,6 +3894,18 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-12416](https://github.com/Live-Hack-CVE/CVE-2019-12416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12416">
 
 ---
+## CVE-2019-12409 ()
+> 
+- [mbadanoiu/CVE-2019-12409](https://github.com/mbadanoiu/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12409">
+- [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+- [jas502n/CVE-2019-12409](https://github.com/jas502n/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-12409">
+
+---
+## CVE-2019-12401 ()
+> 
+- [mbadanoiu/CVE-2019-12401](https://github.com/mbadanoiu/CVE-2019-12401)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12401">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12401">
+
+---
 ## CVE-2019-12257 (2019-08-09T18:15:00)
 > Wind River VxWorks 6.6 through 6.9 has a Buffer Overflow in the DHCP client component. There is an IPNET security vulnerability: Heap overflow in DHCP Offer/ACK parsing inside ipdhcpc.
 - [Live-Hack-CVE/CVE-2019-12257](https://github.com/Live-Hack-CVE/CVE-2019-12257)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12257">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12257">
@@ -4065,6 +4077,11 @@ use after free.
 - [Snorlyd/https-nj.gov---CVE-2019-11358](https://github.com/Snorlyd/https-nj.gov---CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2019-11358">
 - [ossf-cve-benchmark/CVE-2019-11358](https://github.com/ossf-cve-benchmark/CVE-2019-11358)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-11358">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-11358">
 - [bitnesswise/jquery-prototype-pollution-fix](https://github.com/bitnesswise/jquery-prototype-pollution-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bitnesswise/jquery-prototype-pollution-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bitnesswise/jquery-prototype-pollution-fix">
+
+---
+## CVE-2019-11287 ()
+> 
+- [mbadanoiu/CVE-2019-11287](https://github.com/mbadanoiu/CVE-2019-11287)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-11287">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-11287">
 
 ---
 ## CVE-2019-11281 (2019-10-16T16:15:00)
