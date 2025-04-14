@@ -1015,6 +1015,7 @@
 - [USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware">
 - [USDTC/HTA-Exploit](https://github.com/USDTC/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/USDTC/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/USDTC/HTA-Exploit">
 - [mr-won/Log4shell](https://github.com/mr-won/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/Log4shell">
+- [khaidtraivch/CVE-2021-44228-Log4Shell-](https://github.com/khaidtraivch/CVE-2021-44228-Log4Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-44228-Log4Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-44228-Log4Shell-">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -2406,7 +2407,8 @@
 - [Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013">
 - [javaamo/CVE-2021-41773](https://github.com/javaamo/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/javaamo/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/javaamo/CVE-2021-41773">
 - [ashique-thaha/CVE-2021-41773-POC](https://github.com/ashique-thaha/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ashique-thaha/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ashique-thaha/CVE-2021-41773-POC">
-- [luongchivi/CVE-2021-41773](https://github.com/luongchivi/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/CVE-2021-41773">
+- [luongchivi/Preproduce-CVE-2021-41773](https://github.com/luongchivi/Preproduce-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/luongchivi/Preproduce-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/luongchivi/Preproduce-CVE-2021-41773">
+- [khaidtraivch/CVE-2021-41773-Apache-2.4.49-](https://github.com/khaidtraivch/CVE-2021-41773-Apache-2.4.49-)	<img alt="forks" src="https://img.shields.io/github/forks/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">	<img alt="stars" src="https://img.shields.io/github/stars/khaidtraivch/CVE-2021-41773-Apache-2.4.49-">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
