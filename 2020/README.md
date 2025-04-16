@@ -5792,6 +5792,16 @@
 - [AmazingOut/Tesla-CVE-2020-10558](https://github.com/AmazingOut/Tesla-CVE-2020-10558)	<img alt="forks" src="https://img.shields.io/github/forks/AmazingOut/Tesla-CVE-2020-10558">	<img alt="stars" src="https://img.shields.io/github/stars/AmazingOut/Tesla-CVE-2020-10558">
 
 ---
+## CVE-2020-1054 ()
+> 
+- [Naman2701B/CVE-2020-1054](https://github.com/Naman2701B/CVE-2020-1054)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/CVE-2020-1054">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/CVE-2020-1054">
+- [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/WindowsElevation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/WindowsElevation">
+- [Graham382/CVE-2020-1054](https://github.com/Graham382/CVE-2020-1054)	<img alt="forks" src="https://img.shields.io/github/forks/Graham382/CVE-2020-1054">	<img alt="stars" src="https://img.shields.io/github/stars/Graham382/CVE-2020-1054">
+- [KaLendsi/CVE-2020-1054](https://github.com/KaLendsi/CVE-2020-1054)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2020-1054">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2020-1054">
+- [Iamgublin/CVE-2020-1054](https://github.com/Iamgublin/CVE-2020-1054)	<img alt="forks" src="https://img.shields.io/github/forks/Iamgublin/CVE-2020-1054">	<img alt="stars" src="https://img.shields.io/github/stars/Iamgublin/CVE-2020-1054">
+- [0xeb-bp/cve-2020-1054](https://github.com/0xeb-bp/cve-2020-1054)	<img alt="forks" src="https://img.shields.io/github/forks/0xeb-bp/cve-2020-1054">	<img alt="stars" src="https://img.shields.io/github/stars/0xeb-bp/cve-2020-1054">
+
+---
 ## CVE-2020-10504 (2020-03-12T14:15:00)
 > CSRF in admin/edit-comments.php in Chadha PHPKB Standard Multi-Language 9 allows attackers to edit a comment, given the id, via a crafted request.
 - [Live-Hack-CVE/CVE-2020-10504](https://github.com/Live-Hack-CVE/CVE-2020-10504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10504">
