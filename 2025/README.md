@@ -618,6 +618,11 @@
 - [DRAGOWN/CVE-2025-26263](https://github.com/DRAGOWN/CVE-2025-26263)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2025-26263">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2025-26263">
 
 ---
+## CVE-2025-26244 ()
+> 
+- [JaRm222/CVE-2025-26244](https://github.com/JaRm222/CVE-2025-26244)	<img alt="forks" src="https://img.shields.io/github/forks/JaRm222/CVE-2025-26244">	<img alt="stars" src="https://img.shields.io/github/stars/JaRm222/CVE-2025-26244">
+
+---
 ## CVE-2025-26240 ()
 > 
 - [Habuon/CVE-2025-26240](https://github.com/Habuon/CVE-2025-26240)	<img alt="forks" src="https://img.shields.io/github/forks/Habuon/CVE-2025-26240">	<img alt="stars" src="https://img.shields.io/github/stars/Habuon/CVE-2025-26240">
