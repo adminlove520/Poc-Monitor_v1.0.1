@@ -233,6 +233,11 @@
 - [G01d3nW01f/CVE-2015-6668](https://github.com/G01d3nW01f/CVE-2015-6668)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2015-6668">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2015-6668">
 
 ---
+## CVE-2015-6420 ()
+> 
+- [Leeziao/CVE-2015-6420](https://github.com/Leeziao/CVE-2015-6420)	<img alt="forks" src="https://img.shields.io/github/forks/Leeziao/CVE-2015-6420">	<img alt="stars" src="https://img.shields.io/github/stars/Leeziao/CVE-2015-6420">
+
+---
 ## CVE-2015-6051 (2015-10-14T01:59:00)
 > Microsoft Internet Explorer 10 and 11 allows remote attackers to gain privileges via a crafted web site, as demonstrated by a transition from Low Integrity to Medium Integrity, aka "Internet Explorer Elevation of Privilege Vulnerability."
 - [Live-Hack-CVE/CVE-2015-6051](https://github.com/Live-Hack-CVE/CVE-2015-6051)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6051">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6051">
