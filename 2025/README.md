@@ -213,6 +213,7 @@
 - [darses/CVE-2025-32433](https://github.com/darses/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/darses/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/darses/CVE-2025-32433">
 - [LemieOne/CVE-2025-32433](https://github.com/LemieOne/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/LemieOne/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/LemieOne/CVE-2025-32433">
 - [teamtopkarl/CVE-2025-32433](https://github.com/teamtopkarl/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/teamtopkarl/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/teamtopkarl/CVE-2025-32433">
+- [omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC](https://github.com/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/omer-efe-curkus/CVE-2025-32433-Erlang-OTP-SSH-RCE-PoC">
 
 ---
 ## CVE-2025-32395 ()
