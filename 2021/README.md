@@ -5665,6 +5665,7 @@
 ## CVE-2021-34371 ()
 > 
 - [tavgar/CVE-2021-34371](https://github.com/tavgar/CVE-2021-34371)	<img alt="forks" src="https://img.shields.io/github/forks/tavgar/CVE-2021-34371">	<img alt="stars" src="https://img.shields.io/github/stars/tavgar/CVE-2021-34371">
+- [zwjjustdoit/CVE-2021-34371.jar](https://github.com/zwjjustdoit/CVE-2021-34371.jar)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/CVE-2021-34371.jar">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/CVE-2021-34371.jar">
 
 ---
 ## CVE-2021-3437 (2022-12-12T13:15:00)
