@@ -386,6 +386,7 @@
 - [dennisec/CVE-2025-3102](https://github.com/dennisec/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2025-3102">
 - [SUPRAAA-1337/CVE-2025-3102_v2](https://github.com/SUPRAAA-1337/CVE-2025-3102_v2)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102_v2">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102_v2">
 - [SUPRAAA-1337/CVE-2025-3102](https://github.com/SUPRAAA-1337/CVE-2025-3102)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102">
+- [SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-3102-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-3102-exploit">
 
 ---
 ## CVE-2025-30967 ()
