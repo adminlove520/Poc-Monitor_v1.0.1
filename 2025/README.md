@@ -273,6 +273,7 @@
 - [ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/lab_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/lab_CVE-2025-32433">
 - [TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)	<img alt="forks" src="https://img.shields.io/github/forks/TeneBrae93/CVE-2025-3243">	<img alt="stars" src="https://img.shields.io/github/stars/TeneBrae93/CVE-2025-3243">
 - [rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/rizky412/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/rizky412/CVE-2025-32433">
+- [0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-32433">
 
 ---
 ## CVE-2025-3243 ()
@@ -332,6 +333,11 @@
 > 
 - [iSee857/CVE-2025-31486-PoC](https://github.com/iSee857/CVE-2025-31486-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2025-31486-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2025-31486-PoC">
 - [Ly4j/CVE-2025-31486](https://github.com/Ly4j/CVE-2025-31486)	<img alt="forks" src="https://img.shields.io/github/forks/Ly4j/CVE-2025-31486">	<img alt="stars" src="https://img.shields.io/github/stars/Ly4j/CVE-2025-31486">
+
+---
+## CVE-2025-31324 ()
+> 
+- [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-31324">
 
 ---
 ## CVE-2025-31161 ()
