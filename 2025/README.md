@@ -378,6 +378,7 @@
 ## CVE-2025-31650 ()
 > 
 - [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/TomcatKiller-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/TomcatKiller-CVE-2025-31650">
+- [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650">
 
 ---
 ## CVE-2025-31486 ()
