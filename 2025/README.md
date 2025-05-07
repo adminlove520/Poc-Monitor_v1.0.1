@@ -365,7 +365,7 @@
 - [becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2025-32433">
 - [MrDreamReal/CVE-2025-32433](https://github.com/MrDreamReal/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/MrDreamReal/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/MrDreamReal/CVE-2025-32433">
 - [Know56/CVE-2025-32433](https://github.com/Know56/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/Know56/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/Know56/CVE-2025-32433">
-- [abrewer251/CVE-2025-32433_Erlang-OTP](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-32433_Erlang-OTP">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-32433_Erlang-OTP">
+- [abrewer251/CVE-2025-32433_Erlang-OTP_PoC](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-32433_Erlang-OTP_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-32433_Erlang-OTP_PoC">
 - [ODST-Forge/CVE-2025-32433_PoC](https://github.com/ODST-Forge/CVE-2025-32433_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ODST-Forge/CVE-2025-32433_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ODST-Forge/CVE-2025-32433_PoC">
 - [C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433">
 - [bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/bilalz5-github/Erlang-OTP-SSH-CVE-2025-32433">
@@ -1637,6 +1637,7 @@
 - [Rubby2001/CVE-2025-1974-go](https://github.com/Rubby2001/CVE-2025-1974-go)	<img alt="forks" src="https://img.shields.io/github/forks/Rubby2001/CVE-2025-1974-go">	<img alt="stars" src="https://img.shields.io/github/stars/Rubby2001/CVE-2025-1974-go">
 - [chhhd/CVE-2025-1974](https://github.com/chhhd/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/chhhd/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/chhhd/CVE-2025-1974">
 - [salt318/CVE-2025-1974](https://github.com/salt318/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/salt318/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/salt318/CVE-2025-1974">
+- [abrewer251/CVE-2025-1974_IngressNightmare_PoC](https://github.com/abrewer251/CVE-2025-1974_IngressNightmare_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1974_IngressNightmare_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1974_IngressNightmare_PoC">
 
 ---
 ## CVE-2025-1716 ()
