@@ -933,6 +933,11 @@
 - [zhuowei/CVE-2025-27363-proof-of-concept](https://github.com/zhuowei/CVE-2025-27363-proof-of-concept)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/CVE-2025-27363-proof-of-concept">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/CVE-2025-27363-proof-of-concept">
 
 ---
+## CVE-2025-27007 ()
+> 
+- [absholi7ly/CVE-2025-27007-OttoKit-exploit](https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27007-OttoKit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27007-OttoKit-exploit">
+
+---
 ## CVE-2025-26909 ()
 > 
 - [ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayx/CVE-2025-26909">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayx/CVE-2025-26909">
