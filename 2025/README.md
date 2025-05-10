@@ -839,6 +839,7 @@
 - [inok009/FOXCMS-CVE-2025-29306-POC](https://github.com/inok009/FOXCMS-CVE-2025-29306-POC)	<img alt="forks" src="https://img.shields.io/github/forks/inok009/FOXCMS-CVE-2025-29306-POC">	<img alt="stars" src="https://img.shields.io/github/stars/inok009/FOXCMS-CVE-2025-29306-POC">
 - [Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE](https://github.com/Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE">
 - [Mattb709/CVE-2025-29306-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-29306-PoC-Commvault-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-29306-PoC-Commvault-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-29306-PoC-Commvault-RCE">
+- [congdong007/CVE-2025-29306_poc](https://github.com/congdong007/CVE-2025-29306_poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2025-29306_poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2025-29306_poc">
 
 ---
 ## CVE-2025-29279 ()
