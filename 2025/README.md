@@ -1426,6 +1426,7 @@
 - [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
 - [BlueDiamond2021/iOS-CVE-2025-24203-Paths](https://github.com/BlueDiamond2021/iOS-CVE-2025-24203-Paths)	<img alt="forks" src="https://img.shields.io/github/forks/BlueDiamond2021/iOS-CVE-2025-24203-Paths">	<img alt="stars" src="https://img.shields.io/github/stars/BlueDiamond2021/iOS-CVE-2025-24203-Paths">
 - [jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/jailbreakdotparty/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/jailbreakdotparty/dirtyZero">
+- [Ravibr87/dirtyZero](https://github.com/Ravibr87/dirtyZero)	<img alt="forks" src="https://img.shields.io/github/forks/Ravibr87/dirtyZero">	<img alt="stars" src="https://img.shields.io/github/stars/Ravibr87/dirtyZero">
 
 ---
 ## CVE-2025-24200 ()
