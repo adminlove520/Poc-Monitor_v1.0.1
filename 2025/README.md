@@ -43,6 +43,11 @@
 - [ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)	<img alt="forks" src="https://img.shields.io/github/forks/ImTheCopilotNow/CVE-2025-492025">	<img alt="stars" src="https://img.shields.io/github/stars/ImTheCopilotNow/CVE-2025-492025">
 
 ---
+## CVE-2025-47810 ()
+> 
+- [ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2025-47810">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2025-47810">
+
+---
 ## CVE-2025-47550 ()
 > 
 - [d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-47550">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-47550">
@@ -1414,6 +1419,11 @@
 ## CVE-2025-24271 ()
 > 
 - [moften/CVE-2025-24271](https://github.com/moften/CVE-2025-24271)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2025-24271">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2025-24271">
+
+---
+## CVE-2025-24252 ()
+> 
+- [cakescats/airborn-IOS-CVE-2025-24252](https://github.com/cakescats/airborn-IOS-CVE-2025-24252)	<img alt="forks" src="https://img.shields.io/github/forks/cakescats/airborn-IOS-CVE-2025-24252">	<img alt="stars" src="https://img.shields.io/github/stars/cakescats/airborn-IOS-CVE-2025-24252">
 
 ---
 ## CVE-2025-24221 ()
