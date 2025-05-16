@@ -781,6 +781,14 @@
 - [Live-Hack-CVE/CVE-2021-44358](https://github.com/Live-Hack-CVE/CVE-2021-44358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44358">
 
 ---
+## CVE-2021-4428 ()
+> 
+- [GianlucaSanfi/cve-2021-4428](https://github.com/GianlucaSanfi/cve-2021-4428)	<img alt="forks" src="https://img.shields.io/github/forks/GianlucaSanfi/cve-2021-4428">	<img alt="stars" src="https://img.shields.io/github/stars/GianlucaSanfi/cve-2021-4428">
+- [Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE](https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE">
+- [CERT-hr/Log4Shell](https://github.com/CERT-hr/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/CERT-hr/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/CERT-hr/Log4Shell">
+- [lov3r/cve-2021-44228-log4j-exploits](https://github.com/lov3r/cve-2021-44228-log4j-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/lov3r/cve-2021-44228-log4j-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/lov3r/cve-2021-44228-log4j-exploits">
+
+---
 ## CVE-2021-44270 ()
 > 
 - [pinpinsec/CVE-2021-44270](https://github.com/pinpinsec/CVE-2021-44270)	<img alt="forks" src="https://img.shields.io/github/forks/pinpinsec/CVE-2021-44270">	<img alt="stars" src="https://img.shields.io/github/stars/pinpinsec/CVE-2021-44270">
