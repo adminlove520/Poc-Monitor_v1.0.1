@@ -404,6 +404,7 @@
 - [f0ur0four/cve-2018-6574](https://github.com/f0ur0four/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/f0ur0four/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/f0ur0four/cve-2018-6574">
 - [FrancoisCapon/CVE-2018-6574-PentesterLab](https://github.com/FrancoisCapon/CVE-2018-6574-PentesterLab)	<img alt="forks" src="https://img.shields.io/github/forks/FrancoisCapon/CVE-2018-6574-PentesterLab">	<img alt="stars" src="https://img.shields.io/github/stars/FrancoisCapon/CVE-2018-6574-PentesterLab">
 - [seoqqq/CVE-2018-6574](https://github.com/seoqqq/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/seoqqq/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/seoqqq/CVE-2018-6574">
+- [lUcgryy/CVE-2018-6574](https://github.com/lUcgryy/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/lUcgryy/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/lUcgryy/CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
