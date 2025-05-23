@@ -357,6 +357,7 @@
 ## CVE-2025-4123 ()
 > 
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
+- [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
@@ -2132,6 +2133,11 @@
 - [AdaniKamal/CVE-2025-0282](https://github.com/AdaniKamal/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/AdaniKamal/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/AdaniKamal/CVE-2025-0282">
 - [44xo/CVE-2025-0282](https://github.com/44xo/CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/44xo/CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/44xo/CVE-2025-0282">
 - [punitdarji/Ivanti-CVE-2025-0282](https://github.com/punitdarji/Ivanti-CVE-2025-0282)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Ivanti-CVE-2025-0282">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Ivanti-CVE-2025-0282">
+
+---
+## CVE-2025-0133 ()
+> 
+- [dodiorne/cve-2025-0133](https://github.com/dodiorne/cve-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/dodiorne/cve-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/dodiorne/cve-2025-0133">
 
 ---
 ## CVE-2025-0108 ()
