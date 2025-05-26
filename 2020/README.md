@@ -5572,6 +5572,11 @@
 - [AVE-Stoik/CVE-2020-11110-Proof-of-Concept](https://github.com/AVE-Stoik/CVE-2020-11110-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/AVE-Stoik/CVE-2020-11110-Proof-of-Concept">
 
 ---
+## CVE-2020-11097 ()
+> 
+- [SpiralBL0CK/CVE-2020-11097-POC](https://github.com/SpiralBL0CK/CVE-2020-11097-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2020-11097-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2020-11097-POC">
+
+---
 ## CVE-2020-11081 (2020-07-10T19:15:00)
 > osquery before version 4.4.0 enables a privilege escalation vulnerability. If a Window system is configured with a PATH that contains a user-writable directory then a local user may write a zlib1.dll DLL, which osquery will attempt to load. Since osquery runs with elevated privileges this enables local escalation. This is fixed in version 4.4.0.
 - [Live-Hack-CVE/CVE-2020-11081](https://github.com/Live-Hack-CVE/CVE-2020-11081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11081">
