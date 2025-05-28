@@ -6544,6 +6544,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2024-28995">
 - [muhammetali20/CVE-2024-28995](https://github.com/muhammetali20/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/muhammetali20/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/muhammetali20/CVE-2024-28995">
 - [ibrahimsql/CVE-2024-28995](https://github.com/ibrahimsql/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2024-28995">
+- [demoAlitalia/CVE-2024-28995](https://github.com/demoAlitalia/CVE-2024-28995)	<img alt="forks" src="https://img.shields.io/github/forks/demoAlitalia/CVE-2024-28995">	<img alt="stars" src="https://img.shields.io/github/stars/demoAlitalia/CVE-2024-28995">
 
 ---
 ## CVE-2024-28991 (2024-09-12T14:16:00)
