@@ -194,6 +194,11 @@
 - [1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1Altruist/CVE-2025-46271-Reverse-Shell-PoC">
 
 ---
+## CVE-2025-46204 ()
+> 
+- [spbavarva/CVE-2025-46204](https://github.com/spbavarva/CVE-2025-46204)	<img alt="forks" src="https://img.shields.io/github/forks/spbavarva/CVE-2025-46204">	<img alt="stars" src="https://img.shields.io/github/stars/spbavarva/CVE-2025-46204">
+
+---
 ## CVE-2025-46203 ()
 > 
 - [spbavarva/CVE-2025-46203](https://github.com/spbavarva/CVE-2025-46203)	<img alt="forks" src="https://img.shields.io/github/forks/spbavarva/CVE-2025-46203">	<img alt="stars" src="https://img.shields.io/github/stars/spbavarva/CVE-2025-46203">
@@ -1261,6 +1266,11 @@
 > 
 - [akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akamai/CVE-2025-27636-Apache-Camel-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akamai/CVE-2025-27636-Apache-Camel-PoC">
 - [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Practical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Practical-Lab">
+
+---
+## CVE-2025-2760 ()
+> 
+- [korden-c/CVE-2025-2760](https://github.com/korden-c/CVE-2025-2760)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-2760">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-2760">
 
 ---
 ## CVE-2025-27533 ()
