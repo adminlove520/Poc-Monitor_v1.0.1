@@ -2256,6 +2256,7 @@ use after free.
 > TVT NVMS-1000 devices allow GET /.. Directory Traversal
 - [Live-Hack-CVE/CVE-2019-20085](https://github.com/Live-Hack-CVE/CVE-2019-20085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20085">
 - [AleDiBen/NVMS1000-Exploit](https://github.com/AleDiBen/NVMS1000-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/NVMS1000-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/NVMS1000-Exploit">
+- [Z3R0-0x30/CVE-2019-20085](https://github.com/Z3R0-0x30/CVE-2019-20085)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2019-20085">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2019-20085">
 
 ---
 ## CVE-2019-20051 (2019-12-27T22:15:00)
