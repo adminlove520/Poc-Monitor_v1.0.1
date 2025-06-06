@@ -1460,6 +1460,7 @@
 ## CVE-2025-27152 ()
 > 
 - [davidblakecoe/axios-CVE-2025-27152-PoC](https://github.com/davidblakecoe/axios-CVE-2025-27152-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davidblakecoe/axios-CVE-2025-27152-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davidblakecoe/axios-CVE-2025-27152-PoC">
+- [andreglock/axios-ssrf](https://github.com/andreglock/axios-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/andreglock/axios-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/andreglock/axios-ssrf">
 
 ---
 ## CVE-2025-27007 ()
