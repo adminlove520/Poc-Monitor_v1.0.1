@@ -1457,6 +1457,11 @@
 - [ov3rf1ow/CVE-2025-27363](https://github.com/ov3rf1ow/CVE-2025-27363)	<img alt="forks" src="https://img.shields.io/github/forks/ov3rf1ow/CVE-2025-27363">	<img alt="stars" src="https://img.shields.io/github/stars/ov3rf1ow/CVE-2025-27363">
 
 ---
+## CVE-2025-27152 ()
+> 
+- [davidblakecoe/axios-CVE-2025-27152-PoC](https://github.com/davidblakecoe/axios-CVE-2025-27152-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/davidblakecoe/axios-CVE-2025-27152-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/davidblakecoe/axios-CVE-2025-27152-PoC">
+
+---
 ## CVE-2025-27007 ()
 > 
 - [absholi7ly/CVE-2025-27007-OttoKit-exploit](https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/CVE-2025-27007-OttoKit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/CVE-2025-27007-OttoKit-exploit">
