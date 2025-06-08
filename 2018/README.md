@@ -1598,6 +1598,11 @@
 - [likescam/CVE-2018-17182](https://github.com/likescam/CVE-2018-17182)	<img alt="forks" src="https://img.shields.io/github/forks/likescam/CVE-2018-17182">	<img alt="stars" src="https://img.shields.io/github/stars/likescam/CVE-2018-17182">
 
 ---
+## CVE-2018-17179 ()
+> 
+- [CyberQuestor-infosec/CVE-2018-17179-OpenEMR](https://github.com/CyberQuestor-infosec/CVE-2018-17179-OpenEMR)	<img alt="forks" src="https://img.shields.io/github/forks/CyberQuestor-infosec/CVE-2018-17179-OpenEMR">	<img alt="stars" src="https://img.shields.io/github/stars/CyberQuestor-infosec/CVE-2018-17179-OpenEMR">
+
+---
 ## CVE-2018-16981 (2018-09-12T23:29:00)
 > stb stb_image.h 2.19, as used in catimg, Emscripten, and other products, has a heap-based buffer overflow in the stbi__out_gif_code function.
 - [Live-Hack-CVE/CVE-2018-16981](https://github.com/Live-Hack-CVE/CVE-2018-16981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-16981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-16981">
