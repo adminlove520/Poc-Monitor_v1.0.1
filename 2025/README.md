@@ -16,6 +16,7 @@
 > 
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
 - [takerishunte/CVE-2025-5419](https://github.com/takerishunte/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takerishunte/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takerishunte/CVE-2025-5419">
+- [lacelruz/CVE-2025-5419](https://github.com/lacelruz/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/lacelruz/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/lacelruz/CVE-2025-5419">
 
 ---
 ## CVE-2025-5329 ()
@@ -321,6 +322,7 @@
 ---
 ## CVE-2025-46041 ()
 > 
+- [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
 - [binneko/CVE-2025-46041](https://github.com/binneko/CVE-2025-46041)	<img alt="forks" src="https://img.shields.io/github/forks/binneko/CVE-2025-46041">	<img alt="stars" src="https://img.shields.io/github/stars/binneko/CVE-2025-46041">
 
 ---
