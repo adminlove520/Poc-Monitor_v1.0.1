@@ -1100,6 +1100,7 @@
 ## CVE-2025-29972 ()
 > 
 - [ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-29972">
+- [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
 
 ---
 ## CVE-2025-2995 ()
@@ -2004,6 +2005,7 @@
 - [f4dee-backup/CVE-2025-24071](https://github.com/f4dee-backup/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-24071">
 - [LOOKY243/CVE-2025-24071-PoC](https://github.com/LOOKY243/CVE-2025-24071-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOOKY243/CVE-2025-24071-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOOKY243/CVE-2025-24071-PoC">
 - [ex-cal1bur/SMB_CVE-2025-24071](https://github.com/ex-cal1bur/SMB_CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/ex-cal1bur/SMB_CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/ex-cal1bur/SMB_CVE-2025-24071">
+- [TH-SecForge/CVE-2025-24071](https://github.com/TH-SecForge/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
