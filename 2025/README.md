@@ -273,7 +273,7 @@
 > 
 - [doomygloom/CVE-2025-4664](https://github.com/doomygloom/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/doomygloom/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/doomygloom/CVE-2025-4664">
 - [korden-c/CVE-2025-4664](https://github.com/korden-c/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-4664">
-- [speinador/CVE-2025-4664-](https://github.com/speinador/CVE-2025-4664-)	<img alt="forks" src="https://img.shields.io/github/forks/speinador/CVE-2025-4664-">	<img alt="stars" src="https://img.shields.io/github/stars/speinador/CVE-2025-4664-">
+- [speinador/CVE-2025-4664](https://github.com/speinador/CVE-2025-4664)	<img alt="forks" src="https://img.shields.io/github/forks/speinador/CVE-2025-4664">	<img alt="stars" src="https://img.shields.io/github/stars/speinador/CVE-2025-4664">
 - [Leviticus-Triage/ChromSploit-Framework](https://github.com/Leviticus-Triage/ChromSploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/Leviticus-Triage/ChromSploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/Leviticus-Triage/ChromSploit-Framework">
 
 ---
@@ -1456,6 +1456,11 @@
 - [raulchung/CVE-2025-2783](https://github.com/raulchung/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/raulchung/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/raulchung/CVE-2025-2783">
 - [bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/bronsoneaver/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/bronsoneaver/CVE-2025-2783">
 - [Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2025-2783">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2025-2783">
+
+---
+## CVE-2025-27817 ()
+> 
+- [kk12-30/CVE-2025-27817](https://github.com/kk12-30/CVE-2025-27817)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-27817">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-27817">
 
 ---
 ## CVE-2025-27636 ()
