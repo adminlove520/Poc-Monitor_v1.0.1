@@ -3343,6 +3343,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-14824](https://github.com/Live-Hack-CVE/CVE-2019-14824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14824">
 
 ---
+## CVE-2019-14811 ()
+> 
+- [matejsmycka/CVE-2019-14811-in-pdf-exploit](https://github.com/matejsmycka/CVE-2019-14811-in-pdf-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/CVE-2019-14811-in-pdf-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/CVE-2019-14811-in-pdf-exploit">
+
+---
 ## CVE-2019-14729 (2019-09-10T16:15:00)
 > In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.851, an insecure object reference allows an attacker to delete a sub-domain from a victim's account via an attacker account.
 - [Live-Hack-CVE/CVE-2019-14729](https://github.com/Live-Hack-CVE/CVE-2019-14729)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14729">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14729">
