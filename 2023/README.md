@@ -7370,6 +7370,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 > An arbitrary file upload vulnerability in laravel-admin v1.8.19 allows attackers to execute arbitrary code via a crafted PHP file.
 - [IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IDUZZEL/CVE-2023-24249-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IDUZZEL/CVE-2023-24249-Exploit">
 - [ldb33/CVE-2023-24249-PoC](https://github.com/ldb33/CVE-2023-24249-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ldb33/CVE-2023-24249-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ldb33/CVE-2023-24249-PoC">
+- [ldb33/CVE-2023-24249-PoC](https://github.com/ldb33/CVE-2023-24249-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ldb33/CVE-2023-24249-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ldb33/CVE-2023-24249-PoC">
 
 ---
 ## CVE-2023-24241 (2023-02-01T00:15:00)
