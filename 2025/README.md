@@ -193,6 +193,7 @@
 - [B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-49113">
 - [5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/5kr1pt/Roundcube_CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/5kr1pt/Roundcube_CVE-2025-49113">
 - [punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/roundcube-cve-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/roundcube-cve-2025-49113">
+- [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-49113-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-49113-Scanner">
 
 ---
 ## CVE-2025-48988 ()
@@ -1678,6 +1679,7 @@
 ## CVE-2025-26909 ()
 > 
 - [ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayx/CVE-2025-26909">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayx/CVE-2025-26909">
+- [issamjr/CVE-2025-26909-Scanner](https://github.com/issamjr/CVE-2025-26909-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-26909-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-26909-Scanner">
 
 ---
 ## CVE-2025-26892 ()
