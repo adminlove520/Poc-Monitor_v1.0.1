@@ -577,6 +577,7 @@
 - [Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4322">
 - [darkDev-kirosky/CVE-2025-4322](https://github.com/darkDev-kirosky/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/darkDev-kirosky/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/darkDev-kirosky/CVE-2025-4322">
 - [darkDev-kirosky/CVE-2025-4322](https://github.com/darkDev-kirosky/CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/darkDev-kirosky/CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/darkDev-kirosky/CVE-2025-4322">
+- [B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-4322">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-4322">
 
 ---
 ## CVE-2025-43200 ()
