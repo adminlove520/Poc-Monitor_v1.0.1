@@ -1740,6 +1740,7 @@
 > 
 - [rxerium/CVE-2025-26466](https://github.com/rxerium/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-26466">
 - [jhonnybonny/CVE-2025-26466](https://github.com/jhonnybonny/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/jhonnybonny/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/jhonnybonny/CVE-2025-26466">
+- [mrowkoob/CVE-2025-26466-msf](https://github.com/mrowkoob/CVE-2025-26466-msf)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/CVE-2025-26466-msf">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/CVE-2025-26466-msf">
 
 ---
 ## CVE-2025-26465 ()
