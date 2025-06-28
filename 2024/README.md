@@ -3336,6 +3336,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/inpentest/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/inpentest/CVE-2024-4367-PoC">
 - [elamani-drawing/CVE-2024-4367-POC-PDFJS](https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/elamani-drawing/CVE-2024-4367-POC-PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/elamani-drawing/CVE-2024-4367-POC-PDFJS">
 - [VVeakee/CVE-2024-4367](https://github.com/VVeakee/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2024-4367">
+- [pS3ud0RAnD0m/CVE-2024-4367-POC](https://github.com/pS3ud0RAnD0m/CVE-2024-4367-POC)	<img alt="forks" src="https://img.shields.io/github/forks/pS3ud0RAnD0m/CVE-2024-4367-POC">	<img alt="stars" src="https://img.shields.io/github/stars/pS3ud0RAnD0m/CVE-2024-4367-POC">
 
 ---
 ## CVE-2024-43639 ()
