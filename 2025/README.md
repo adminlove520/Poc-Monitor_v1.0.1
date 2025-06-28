@@ -893,6 +893,7 @@
 - [mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/mverschu/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/mverschu/CVE-2025-33073">
 - [yigitsql/CVE-2025-33073](https://github.com/yigitsql/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/yigitsql/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/yigitsql/CVE-2025-33073">
 - [joaozixx/CVE-2025-33073](https://github.com/joaozixx/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/joaozixx/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/joaozixx/CVE-2025-33073">
+- [obscura-cert/CVE-2025-33073](https://github.com/obscura-cert/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/obscura-cert/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/obscura-cert/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
@@ -1134,6 +1135,7 @@
 - [absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/TomcatKiller-CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/TomcatKiller-CVE-2025-31650">
 - [tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-31650">
 - [sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool](https://github.com/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sattarbug/Analysis-of-TomcatKiller---CVE-2025-31650-Exploit-Tool">
+- [obscura-cert/CVE-2025-31650](https://github.com/obscura-cert/CVE-2025-31650)	<img alt="forks" src="https://img.shields.io/github/forks/obscura-cert/CVE-2025-31650">	<img alt="stars" src="https://img.shields.io/github/stars/obscura-cert/CVE-2025-31650">
 
 ---
 ## CVE-2025-31644 ()
