@@ -6,6 +6,11 @@
 - [Live-Hack-CVE/CVE-2007-6755](https://github.com/Live-Hack-CVE/CVE-2007-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6755">
 
 ---
+## CVE-2007-6750 ()
+> 
+- [RhzVenom/CVE-2007-6750](https://github.com/RhzVenom/CVE-2007-6750)	<img alt="forks" src="https://img.shields.io/github/forks/RhzVenom/CVE-2007-6750">	<img alt="stars" src="https://img.shields.io/github/stars/RhzVenom/CVE-2007-6750">
+
+---
 ## CVE-2007-6601 (2008-01-09T21:46:00)
 > The DBLink module in PostgreSQL 8.2 before 8.2.6, 8.1 before 8.1.11, 8.0 before 8.0.15, 7.4 before 7.4.19, and 7.3 before 7.3.21, when local trust or ident authentication is used, allows remote attackers to gain privileges via unspecified vectors.  NOTE: this issue exists because of an incomplete fix for CVE-2007-3278.
 - [Live-Hack-CVE/CVE-2007-6601](https://github.com/Live-Hack-CVE/CVE-2007-6601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6601">
