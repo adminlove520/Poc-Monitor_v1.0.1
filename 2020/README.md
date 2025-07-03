@@ -4320,6 +4320,12 @@
 - [Live-Hack-CVE/CVE-2020-36658](https://github.com/Live-Hack-CVE/CVE-2020-36658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36658">
 
 ---
+## CVE-2020-16012 ()
+> 
+- [helidem/CVE-2020-16012-PoC](https://github.com/helidem/CVE-2020-16012-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2020-16012-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2020-16012-PoC">
+- [aleksejspopovs/cve-2020-16012](https://github.com/aleksejspopovs/cve-2020-16012)	<img alt="forks" src="https://img.shields.io/github/forks/aleksejspopovs/cve-2020-16012">	<img alt="stars" src="https://img.shields.io/github/stars/aleksejspopovs/cve-2020-16012">
+
+---
 ## CVE-2020-15953 (2020-07-27T07:15:00)
 > LibEtPan through 1.9.4, as used in MailCore 2 through 0.6.3 and other products, has a STARTTLS buffering issue that affects IMAP, SMTP, and POP3. When a server sends a "begin TLS" response, the client reads additional data (e.g., from a meddler-in-the-middle attacker) and evaluates it in a TLS context, aka "response injection."
 - [Live-Hack-CVE/CVE-2020-15953](https://github.com/Live-Hack-CVE/CVE-2020-15953)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15953">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15953">
