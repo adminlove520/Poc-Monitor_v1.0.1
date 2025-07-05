@@ -6825,6 +6825,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)	<img alt="forks" src="https://img.shields.io/github/forks/skyler-ferrante/CVE-2024-28085">	<img alt="stars" src="https://img.shields.io/github/stars/skyler-ferrante/CVE-2024-28085">
 
 ---
+## CVE-2024-28084 ()
+> 
+- [ibrahmsql/CVE-2024-28084](https://github.com/ibrahmsql/CVE-2024-28084)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-28084">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-28084">
+
+---
 ## CVE-2024-28000 (2024-08-21T14:15:00)
 > Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from 1.9 through 6.3.0.1.
 - [explls/CVE-2024-28000](https://github.com/explls/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/explls/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/explls/CVE-2024-28000">
