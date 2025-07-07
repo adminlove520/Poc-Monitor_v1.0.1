@@ -7557,6 +7557,7 @@
 ## CVE-2021-27568 (2021-02-23T02:15:00)
 > An issue was discovered in netplex json-smart-v1 through 2015-10-23 and json-smart-v2 through 2.4. An exception is thrown from a function, but it is not caught, as demonstrated by NumberFormatException. When it is not caught, it may cause programs using the library to crash or expose sensitive information.
 - [Live-Hack-CVE/CVE-2021-27568](https://github.com/Live-Hack-CVE/CVE-2021-27568)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27568">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27568">
+- [arsalanraja987/java-insecure-random-cve-2021-27568](https://github.com/arsalanraja987/java-insecure-random-cve-2021-27568)	<img alt="forks" src="https://img.shields.io/github/forks/arsalanraja987/java-insecure-random-cve-2021-27568">	<img alt="stars" src="https://img.shields.io/github/stars/arsalanraja987/java-insecure-random-cve-2021-27568">
 
 ---
 ## CVE-2021-27516 (2021-02-22T00:15:00)
