@@ -368,6 +368,8 @@
 ## CVE-2025-48384 ()
 > 
 - [acheong08/CVE-2025-48384](https://github.com/acheong08/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-48384">
+- [susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-48903-discord-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-48903-discord-poc">
+- [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
 
 ---
 ## CVE-2025-4822 ()
