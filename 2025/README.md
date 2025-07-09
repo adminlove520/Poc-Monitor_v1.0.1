@@ -410,6 +410,7 @@
 - [liamg/CVE-2025-48384](https://github.com/liamg/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/liamg/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/liamg/CVE-2025-48384">
 - [liamg/CVE-2025-48384-submodule](https://github.com/liamg/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/liamg/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/liamg/CVE-2025-48384-submodule">
 - [ppd520/CVE-2025-48384](https://github.com/ppd520/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ppd520/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ppd520/CVE-2025-48384">
+- [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 
 ---
 ## CVE-2025-4822 ()
@@ -1215,6 +1216,7 @@
 - [susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)	<img alt="forks" src="https://img.shields.io/github/forks/susancodes55/CVE-2025-32463-sudo-poc">	<img alt="stars" src="https://img.shields.io/github/stars/susancodes55/CVE-2025-32463-sudo-poc">
 - [0xb0rn3/CVE-2025-32463-EXPLOIT](https://github.com/0xb0rn3/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0rn3/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0rn3/CVE-2025-32463-EXPLOIT">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
+- [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
 
 ---
 ## CVE-2025-32462 ()
