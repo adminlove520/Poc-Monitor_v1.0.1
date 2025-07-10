@@ -417,6 +417,7 @@
 - [NigelX/CVE-2025-48384](https://github.com/NigelX/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/NigelX/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/NigelX/CVE-2025-48384">
 - [ycsxxp/CVE-2025-48384-submodule](https://github.com/ycsxxp/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/ycsxxp/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/ycsxxp/CVE-2025-48384-submodule">
 - [greatyy/CVE-2025-48384-p](https://github.com/greatyy/CVE-2025-48384-p)	<img alt="forks" src="https://img.shields.io/github/forks/greatyy/CVE-2025-48384-p">	<img alt="stars" src="https://img.shields.io/github/stars/greatyy/CVE-2025-48384-p">
+- [testdjshan/CVE-2025-48384](https://github.com/testdjshan/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testdjshan/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testdjshan/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
