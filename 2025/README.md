@@ -414,6 +414,7 @@
 - [ppd520/CVE-2025-48384](https://github.com/ppd520/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/ppd520/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/ppd520/CVE-2025-48384">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [NigelX/CVE-2025-48384](https://github.com/NigelX/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/NigelX/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/NigelX/CVE-2025-48384">
+- [ycsxxp/CVE-2025-48384-submodule](https://github.com/ycsxxp/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/ycsxxp/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/ycsxxp/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
