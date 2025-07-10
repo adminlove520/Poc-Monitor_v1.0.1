@@ -418,6 +418,8 @@
 - [ycsxxp/CVE-2025-48384-submodule](https://github.com/ycsxxp/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/ycsxxp/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/ycsxxp/CVE-2025-48384-submodule">
 - [greatyy/CVE-2025-48384-p](https://github.com/greatyy/CVE-2025-48384-p)	<img alt="forks" src="https://img.shields.io/github/forks/greatyy/CVE-2025-48384-p">	<img alt="stars" src="https://img.shields.io/github/stars/greatyy/CVE-2025-48384-p">
 - [testdjshan/CVE-2025-48384](https://github.com/testdjshan/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testdjshan/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testdjshan/CVE-2025-48384">
+- [testsssssssss-ss/CVE-2025-48384](https://github.com/testsssssssss-ss/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/testsssssssss-ss/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/testsssssssss-ss/CVE-2025-48384">
+- [Alex0Young/CVE-2025-48384-1](https://github.com/Alex0Young/CVE-2025-48384-1)	<img alt="forks" src="https://img.shields.io/github/forks/Alex0Young/CVE-2025-48384-1">	<img alt="stars" src="https://img.shields.io/github/stars/Alex0Young/CVE-2025-48384-1">
 
 ---
 ## CVE-2025-4822 ()
