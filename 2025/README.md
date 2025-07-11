@@ -1251,6 +1251,7 @@
 - [0xb0rn3/CVE-2025-32463-EXPLOIT](https://github.com/0xb0rn3/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0rn3/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0rn3/CVE-2025-32463-EXPLOIT">
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
+- [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
 
 ---
 ## CVE-2025-32462 ()
@@ -1263,6 +1264,7 @@
 - [cyberpoul/CVE-2025-32462-POC](https://github.com/cyberpoul/CVE-2025-32462-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyberpoul/CVE-2025-32462-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyberpoul/CVE-2025-32462-POC">
 - [SpongeBob-369/cve-2025-32462](https://github.com/SpongeBob-369/cve-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/SpongeBob-369/cve-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/SpongeBob-369/cve-2025-32462">
 - [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
+- [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
 
 ---
 ## CVE-2025-32433 ()
