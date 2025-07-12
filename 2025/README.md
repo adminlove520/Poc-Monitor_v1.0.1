@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-7461 ()
+> 
+- [bx33661/CVE-2025-7461](https://github.com/bx33661/CVE-2025-7461)	<img alt="forks" src="https://img.shields.io/github/forks/bx33661/CVE-2025-7461">	<img alt="stars" src="https://img.shields.io/github/stars/bx33661/CVE-2025-7461">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
