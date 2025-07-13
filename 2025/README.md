@@ -2864,6 +2864,7 @@
 - [sfewer-r7/CVE-2025-22457](https://github.com/sfewer-r7/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2025-22457">
 - [llussiess/CVE-2025-22457](https://github.com/llussiess/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-22457">
 - [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/TRone-ux/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/TRone-ux/CVE-2025-22457">
+- [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
 
 ---
 ## CVE-2025-2233 ()
