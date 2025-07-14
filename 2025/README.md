@@ -2460,6 +2460,7 @@
 - [adilburaksen/CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/adilburaksen/CVE-2025-25257-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/adilburaksen/CVE-2025-25257-Exploit-Tool">
 - [imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-25257">
 - [B1ack4sh/Blackash-CVE-2025-25257](https://github.com/B1ack4sh/Blackash-CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-25257">
+- [mtjanus106/CVE-2025-25257](https://github.com/mtjanus106/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mtjanus106/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mtjanus106/CVE-2025-25257">
 
 ---
 ## CVE-2025-252513 ()
