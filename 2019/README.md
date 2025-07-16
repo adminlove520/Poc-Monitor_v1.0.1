@@ -212,6 +212,7 @@
 - [kaizoku73/CVE-2019-9053](https://github.com/kaizoku73/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/kaizoku73/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/kaizoku73/CVE-2019-9053">
 - [Hackheart-tech/-exploit-lab](https://github.com/Hackheart-tech/-exploit-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Hackheart-tech/-exploit-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Hackheart-tech/-exploit-lab">
 - [RossKeddy/CVE-2019-9053](https://github.com/RossKeddy/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/RossKeddy/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/RossKeddy/CVE-2019-9053">
+- [Kalidas-7/CVE-2019-9053](https://github.com/Kalidas-7/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/Kalidas-7/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/Kalidas-7/CVE-2019-9053">
 
 ---
 ## CVE-2019-8985 (2019-02-21T19:29:00)
