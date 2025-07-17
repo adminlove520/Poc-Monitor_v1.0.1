@@ -50,7 +50,7 @@
 ## CVE-2025-6558 ()
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
-- [allinsthon/CVE-2025-6558](https://github.com/allinsthon/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558">
+- [allinsthon/CVE-2025-6558-exp](https://github.com/allinsthon/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558-exp">
 
 ---
 ## CVE-2025-6554 ()
@@ -554,6 +554,7 @@
 - [pevinkumar10/CVE-2025-47812](https://github.com/pevinkumar10/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/pevinkumar10/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/pevinkumar10/CVE-2025-47812">
 - [rxerium/CVE-2025-47812](https://github.com/rxerium/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-47812">
 - [blindma1den/CVE-2025-47812](https://github.com/blindma1den/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/blindma1den/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/blindma1den/CVE-2025-47812">
+- [B1ack4sh/Blackash-CVE-2025-47812](https://github.com/B1ack4sh/Blackash-CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
