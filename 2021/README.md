@@ -6460,6 +6460,11 @@
 - [Live-Hack-CVE/CVE-2021-32142](https://github.com/Live-Hack-CVE/CVE-2021-32142)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32142">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32142">
 
 ---
+## CVE-2021-32099 ()
+> 
+- [magicrc/CVE-2021-32099](https://github.com/magicrc/CVE-2021-32099)	<img alt="forks" src="https://img.shields.io/github/forks/magicrc/CVE-2021-32099">	<img alt="stars" src="https://img.shields.io/github/stars/magicrc/CVE-2021-32099">
+
+---
 ## CVE-2021-32028 (2021-10-11T17:15:00)
 > A flaw was found in postgresql. Using an INSERT ... ON CONFLICT ... DO UPDATE command on a purpose-crafted table, an authenticated database user could read arbitrary bytes of server memory. The highest threat from this vulnerability is to data confidentiality.
 - [Live-Hack-CVE/CVE-2021-32028](https://github.com/Live-Hack-CVE/CVE-2021-32028)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32028">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32028">
