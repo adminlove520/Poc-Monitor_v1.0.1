@@ -2563,6 +2563,7 @@
 - [mtjanus106/CVE-2025-25257](https://github.com/mtjanus106/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/mtjanus106/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/mtjanus106/CVE-2025-25257">
 - [secwatch92/fortiweb_rce_toolkit](https://github.com/secwatch92/fortiweb_rce_toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/secwatch92/fortiweb_rce_toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/secwatch92/fortiweb_rce_toolkit">
 - [0xgh057r3c0n/CVE-2025-25257](https://github.com/0xgh057r3c0n/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-25257">
+- [aitorfirm/CVE-2025-25257](https://github.com/aitorfirm/CVE-2025-25257)	<img alt="forks" src="https://img.shields.io/github/forks/aitorfirm/CVE-2025-25257">	<img alt="stars" src="https://img.shields.io/github/stars/aitorfirm/CVE-2025-25257">
 
 ---
 ## CVE-2025-252513 ()
