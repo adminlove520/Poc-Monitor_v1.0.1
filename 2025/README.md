@@ -489,6 +489,7 @@
 - [issamjr/CVE-2025-49113-Scanner](https://github.com/issamjr/CVE-2025-49113-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-49113-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-49113-Scanner">
 - [Joelp03/CVE-2025-49113](https://github.com/Joelp03/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/Joelp03/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/Joelp03/CVE-2025-49113">
 - [hackmelocal/HML-CVE-2025-49113-Round-Cube](https://github.com/hackmelocal/HML-CVE-2025-49113-Round-Cube)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/HML-CVE-2025-49113-Round-Cube">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/HML-CVE-2025-49113-Round-Cube">
+- [00xCanelo/CVE-2025-49113](https://github.com/00xCanelo/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-49113">
 
 ---
 ## CVE-2025-49029 ()
@@ -2265,6 +2266,7 @@
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
 - [alialucas7/CVE-2025-27591_PoC](https://github.com/alialucas7/CVE-2025-27591_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alialucas7/CVE-2025-27591_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alialucas7/CVE-2025-27591_PoC">
 - [incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2025-27591-PoC">
+- [00xCanelo/CVE-2025-27591-PoC](https://github.com/00xCanelo/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00xCanelo/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00xCanelo/CVE-2025-27591-PoC">
 
 ---
 ## CVE-2025-27590 ()
