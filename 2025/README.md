@@ -2911,6 +2911,11 @@
 - [Arian91/CVE-2025-23369_SAML_bypass](https://github.com/Arian91/CVE-2025-23369_SAML_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Arian91/CVE-2025-23369_SAML_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Arian91/CVE-2025-23369_SAML_bypass">
 
 ---
+## CVE-2025-23266 ()
+> 
+- [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
+
+---
 ## CVE-2025-23245655 ()
 > 
 - [cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)	<img alt="forks" src="https://img.shields.io/github/forks/cydragLINUX/CVE-2025-23245655">	<img alt="stars" src="https://img.shields.io/github/stars/cydragLINUX/CVE-2025-23245655">
@@ -3138,6 +3143,11 @@
 ## CVE-2025-2082 ()
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
+
+---
+## CVE-2025-20337 ()
+> 
+- [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
 
 ---
 ## CVE-2025-20286 ()
