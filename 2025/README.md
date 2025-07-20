@@ -1599,6 +1599,7 @@
 - [atomicjjbod/CVE-2025-32023](https://github.com/atomicjjbod/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/atomicjjbod/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/atomicjjbod/CVE-2025-32023">
 - [miscve/CVE-2025-32023](https://github.com/miscve/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/miscve/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/miscve/CVE-2025-32023">
 - [shayantrix/POC-CVE-2025-32023](https://github.com/shayantrix/POC-CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/shayantrix/POC-CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/shayantrix/POC-CVE-2025-32023">
+- [LordBheem/CVE-2025-32023](https://github.com/LordBheem/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/LordBheem/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/LordBheem/CVE-2025-32023">
 
 ---
 ## CVE-2025-32013 ()
