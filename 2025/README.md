@@ -343,6 +343,21 @@
 - [Secsys-FDU/CVE-2025-51858](https://github.com/Secsys-FDU/CVE-2025-51858)	<img alt="forks" src="https://img.shields.io/github/forks/Secsys-FDU/CVE-2025-51858">	<img alt="stars" src="https://img.shields.io/github/stars/Secsys-FDU/CVE-2025-51858">
 
 ---
+## CVE-2025-51398 ()
+> 
+- [Thewhiteevil/CVE-2025-51398](https://github.com/Thewhiteevil/CVE-2025-51398)	<img alt="forks" src="https://img.shields.io/github/forks/Thewhiteevil/CVE-2025-51398">	<img alt="stars" src="https://img.shields.io/github/stars/Thewhiteevil/CVE-2025-51398">
+
+---
+## CVE-2025-51397 ()
+> 
+- [Thewhiteevil/CVE-2025-51397](https://github.com/Thewhiteevil/CVE-2025-51397)	<img alt="forks" src="https://img.shields.io/github/forks/Thewhiteevil/CVE-2025-51397">	<img alt="stars" src="https://img.shields.io/github/stars/Thewhiteevil/CVE-2025-51397">
+
+---
+## CVE-2025-51396 ()
+> 
+- [Thewhiteevil/CVE-2025-51396](https://github.com/Thewhiteevil/CVE-2025-51396)	<img alt="forks" src="https://img.shields.io/github/forks/Thewhiteevil/CVE-2025-51396">	<img alt="stars" src="https://img.shields.io/github/stars/Thewhiteevil/CVE-2025-51396">
+
+---
 ## CVE-2025-51046 ()
 > 
 - [0xMesh-X/CVE-2025-51046](https://github.com/0xMesh-X/CVE-2025-51046)	<img alt="forks" src="https://img.shields.io/github/forks/0xMesh-X/CVE-2025-51046">	<img alt="stars" src="https://img.shields.io/github/stars/0xMesh-X/CVE-2025-51046">
