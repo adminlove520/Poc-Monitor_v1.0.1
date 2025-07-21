@@ -226,6 +226,7 @@
 - [soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-53770-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-53770-Exploit">
 - [paolokappa/SharePointSecurityMonitor](https://github.com/paolokappa/SharePointSecurityMonitor)	<img alt="forks" src="https://img.shields.io/github/forks/paolokappa/SharePointSecurityMonitor">	<img alt="stars" src="https://img.shields.io/github/stars/paolokappa/SharePointSecurityMonitor">
 - [hazcod/CVE-2025-53770](https://github.com/hazcod/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/hazcod/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/hazcod/CVE-2025-53770">
+- [ZephrFish/CVE-2025-53770-Scanner](https://github.com/ZephrFish/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2025-53770-Scanner">
 
 ---
 ## CVE-2025-53640 ()
