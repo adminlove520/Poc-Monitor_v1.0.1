@@ -231,6 +231,7 @@
 - [grupooruss/CVE-2025-53770-Checker](https://github.com/grupooruss/CVE-2025-53770-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-53770-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-53770-Checker">
 - [tripoloski1337/CVE-2025-53770-scanner](https://github.com/tripoloski1337/CVE-2025-53770-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tripoloski1337/CVE-2025-53770-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tripoloski1337/CVE-2025-53770-scanner">
 - [AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE](https://github.com/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">
+- [GreenForceNetwork/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetwork/Toolshell_CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetwork/Toolshell_CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetwork/Toolshell_CVE-2025-53770">
 
 ---
 ## CVE-2025-53640 ()
