@@ -2275,6 +2275,10 @@
 - [h0ld1rs/CVE-2025-2825](https://github.com/h0ld1rs/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/h0ld1rs/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/h0ld1rs/CVE-2025-2825">
 - [WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/WOOOOONG/CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/WOOOOONG/CVE-2025-2825">
 - [punitdarji/crushftp-CVE-2025-2825](https://github.com/punitdarji/crushftp-CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/crushftp-CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/crushftp-CVE-2025-2825">
+- [Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass](https://github.com/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass">
+- [SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825">
+- [ghostsec420/ShatteredFTP](https://github.com/ghostsec420/ShatteredFTP)	<img alt="forks" src="https://img.shields.io/github/forks/ghostsec420/ShatteredFTP">	<img alt="stars" src="https://img.shields.io/github/stars/ghostsec420/ShatteredFTP">
+- [Immersive-Labs-Sec/CVE-2025-31161](https://github.com/Immersive-Labs-Sec/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2025-31161">
 
 ---
 ## CVE-2025-28121 ()
