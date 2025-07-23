@@ -257,6 +257,7 @@
 - [b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/b33b0y/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/b33b0y/CVE-2025-53770">
 - [Hassanopop/CVE-2025-53770](https://github.com/Hassanopop/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/Hassanopop/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/Hassanopop/CVE-2025-53770">
 - [m4r1x/CVE-2025-53770-Scanner](https://github.com/m4r1x/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/m4r1x/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/m4r1x/CVE-2025-53770-Scanner">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 
 ---
 ## CVE-2025-53640 ()
