@@ -265,6 +265,8 @@
 - [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 - [exfil0/CVE-2025-53770](https://github.com/exfil0/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/CVE-2025-53770">
+- [nisargsuthar/suricata-rule-CVE-2025-53770](https://github.com/nisargsuthar/suricata-rule-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/nisargsuthar/suricata-rule-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/nisargsuthar/suricata-rule-CVE-2025-53770">
+- [zach115th/ToolShellFinder](https://github.com/zach115th/ToolShellFinder)	<img alt="forks" src="https://img.shields.io/github/forks/zach115th/ToolShellFinder">	<img alt="stars" src="https://img.shields.io/github/stars/zach115th/ToolShellFinder">
 
 ---
 ## CVE-2025-53640 ()
