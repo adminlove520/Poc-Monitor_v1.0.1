@@ -7981,6 +7981,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [slytechroot/CVE-2024-23897](https://github.com/slytechroot/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/slytechroot/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/slytechroot/CVE-2024-23897">
 - [brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo](https://github.com/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo">
 - [tvasari/CVE-2024-23897](https://github.com/tvasari/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/tvasari/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/tvasari/CVE-2024-23897">
+- [Fineken/Jenkins-CVE-2024-23897-Lab](https://github.com/Fineken/Jenkins-CVE-2024-23897-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Fineken/Jenkins-CVE-2024-23897-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Fineken/Jenkins-CVE-2024-23897-Lab">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
