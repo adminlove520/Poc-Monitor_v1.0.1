@@ -86,6 +86,7 @@
 > 
 - [karenucqki/CVE-2025-6558](https://github.com/karenucqki/CVE-2025-6558)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-6558">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-6558">
 - [allinsthon/CVE-2025-6558-exp](https://github.com/allinsthon/CVE-2025-6558-exp)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-6558-exp">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-6558-exp">
+- [DevBuiHieu/CVE-2025-6558-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept">
 
 ---
 ## CVE-2025-6554 ()
