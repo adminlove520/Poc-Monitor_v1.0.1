@@ -233,6 +233,11 @@
 - [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
 
 ---
+## CVE-2025-54309 ()
+> 
+- [issamjr/CVE-2025-54309](https://github.com/issamjr/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-54309">
+
+---
 ## CVE-2025-5419 ()
 > 
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
