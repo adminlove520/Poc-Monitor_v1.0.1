@@ -284,6 +284,7 @@
 - [Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE](https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE">
 - [0xray5c68616e37/cve-2025-53770](https://github.com/0xray5c68616e37/cve-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/0xray5c68616e37/cve-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/0xray5c68616e37/cve-2025-53770">
 - [BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator](https://github.com/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/BirdsAreFlyingCameras/CVE-2025-53770_Raw-HTTP-Request-Generator">
+- [unk9vvn/sharepoint-toolpane](https://github.com/unk9vvn/sharepoint-toolpane)	<img alt="forks" src="https://img.shields.io/github/forks/unk9vvn/sharepoint-toolpane">	<img alt="stars" src="https://img.shields.io/github/stars/unk9vvn/sharepoint-toolpane">
 
 ---
 ## CVE-2025-53652 ()
