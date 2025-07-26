@@ -228,6 +228,11 @@
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
 
 ---
+## CVE-2025-54313 ()
+> 
+- [nihilor/cve-2025-54313](https://github.com/nihilor/cve-2025-54313)	<img alt="forks" src="https://img.shields.io/github/forks/nihilor/cve-2025-54313">	<img alt="stars" src="https://img.shields.io/github/stars/nihilor/cve-2025-54313">
+
+---
 ## CVE-2025-5419 ()
 > 
 - [takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)	<img alt="forks" src="https://img.shields.io/github/forks/takeshirisulu/CVE-2025-5419">	<img alt="stars" src="https://img.shields.io/github/stars/takeshirisulu/CVE-2025-5419">
