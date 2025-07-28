@@ -220,6 +220,11 @@
 - [Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)	<img alt="forks" src="https://img.shields.io/github/forks/Ler2sq/CVE-2019-8985">	<img alt="stars" src="https://img.shields.io/github/stars/Ler2sq/CVE-2019-8985">
 
 ---
+## CVE-2019-8978 ()
+> 
+- [SecKatie/CVE-2019-8978](https://github.com/SecKatie/CVE-2019-8978)	<img alt="forks" src="https://img.shields.io/github/forks/SecKatie/CVE-2019-8978">	<img alt="stars" src="https://img.shields.io/github/stars/SecKatie/CVE-2019-8978">
+
+---
 ## CVE-2019-89242 ()
 > 
 - [KodyMike/CVE-2019-89242-](https://github.com/KodyMike/CVE-2019-89242-)	<img alt="forks" src="https://img.shields.io/github/forks/KodyMike/CVE-2019-89242-">	<img alt="stars" src="https://img.shields.io/github/stars/KodyMike/CVE-2019-89242-">
