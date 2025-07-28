@@ -6421,6 +6421,7 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [ronmadar/Open-Source-Seal-Security](https://github.com/ronmadar/Open-Source-Seal-Security)	<img alt="forks" src="https://img.shields.io/github/forks/ronmadar/Open-Source-Seal-Security">	<img alt="stars" src="https://img.shields.io/github/stars/ronmadar/Open-Source-Seal-Security">
 - [CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment)	<img alt="forks" src="https://img.shields.io/github/forks/CUCUMBERanOrSNCompany/SealSecurityAssignment">	<img alt="stars" src="https://img.shields.io/github/stars/CUCUMBERanOrSNCompany/SealSecurityAssignment">
 - [uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix](https://github.com/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix)	<img alt="forks" src="https://img.shields.io/github/forks/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix">	<img alt="stars" src="https://img.shields.io/github/stars/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix">
+- [guy2610/tough-cookie-patch-cve-2023-26136](https://github.com/guy2610/tough-cookie-patch-cve-2023-26136)	<img alt="forks" src="https://img.shields.io/github/forks/guy2610/tough-cookie-patch-cve-2023-26136">	<img alt="stars" src="https://img.shields.io/github/stars/guy2610/tough-cookie-patch-cve-2023-26136">
 
 ---
 ## CVE-2023-26067 (2023-04-10T20:15:00)
