@@ -1,6 +1,11 @@
 # 2025 List
 
 ---
+## CVE-2025-8191 ()
+> 
+- [byteReaper77/CVE-2025-8191](https://github.com/byteReaper77/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8191">
+
+---
 ## CVE-2025-8018 ()
 > 
 - [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-8018">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-8018">
@@ -3270,6 +3275,7 @@
 - [romanedutov/CVE-2025-2294](https://github.com/romanedutov/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/romanedutov/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/romanedutov/CVE-2025-2294">
 - [Yucaerin/CVE-2025-2294](https://github.com/Yucaerin/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-2294">
 - [0xWhoami35/CVE-2025-2294](https://github.com/0xWhoami35/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/0xWhoami35/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/0xWhoami35/CVE-2025-2294">
+- [r0otk3r/CVE-2025-2294](https://github.com/r0otk3r/CVE-2025-2294)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-2294">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-2294">
 
 ---
 ## CVE-2025-22870 ()
