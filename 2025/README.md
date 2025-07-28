@@ -313,6 +313,7 @@
 - [unk9vvn/sharepoint-toolpane](https://github.com/unk9vvn/sharepoint-toolpane)	<img alt="forks" src="https://img.shields.io/github/forks/unk9vvn/sharepoint-toolpane">	<img alt="stars" src="https://img.shields.io/github/stars/unk9vvn/sharepoint-toolpane">
 - [bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE](https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE">
 - [3a7/CVE-2025-53770](https://github.com/3a7/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/3a7/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/3a7/CVE-2025-53770">
+- [r3xbugbounty/CVE-2025-53770](https://github.com/r3xbugbounty/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/r3xbugbounty/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/r3xbugbounty/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
@@ -1619,7 +1620,7 @@
 > 
 - [xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2025-3248">
 - [PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PuddinCat/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PuddinCat/CVE-2025-3248-POC">
-- [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [peiqiF4ck/WebFrameworkTools-5.5-enhance](https://github.com/peiqiF4ck/WebFrameworkTools-5.5-enhance)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.5-enhance">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.5-enhance">
 - [verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2025-3248">
 - [minxxcozy/CVE-2025-3248-langflow-RCE](https://github.com/minxxcozy/CVE-2025-3248-langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/minxxcozy/CVE-2025-3248-langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/minxxcozy/CVE-2025-3248-langflow-RCE">
 - [Praison001/CVE-2025-3248](https://github.com/Praison001/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2025-3248">
@@ -1705,6 +1706,7 @@
 - [MAAYTHM/CVE-2025-32462_32463-Lab](https://github.com/MAAYTHM/CVE-2025-32462_32463-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/MAAYTHM/CVE-2025-32462_32463-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/MAAYTHM/CVE-2025-32462_32463-Lab">
 - [toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)	<img alt="forks" src="https://img.shields.io/github/forks/toohau/CVE-2025-32462-32463-Detection-Script-">	<img alt="stars" src="https://img.shields.io/github/stars/toohau/CVE-2025-32462-32463-Detection-Script-">
 - [MGunturG/CVE-2025-32462](https://github.com/MGunturG/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32462">
+- [j3r1ch0123/CVE-2025-32462](https://github.com/j3r1ch0123/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-32462">
 
 ---
 ## CVE-2025-32433 ()
