@@ -9192,6 +9192,7 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-22493 (2023-01-13T15:15:00)
 > RSSHub is an open source RSS feed generator. RSSHub is vulnerable to Server-Side Request Forgery (SSRF) attacks. This vulnerability allows an attacker to send arbitrary HTTP requests from the server to other servers or resources on the network. An attacker can exploit this vulnerability by sending a request to the affected routes with a malicious URL. An attacker could also use this vulnerability to send requests to internal or any other servers or resources on the network, potentially gain access to sensitive information that would not normally be accessible and amplifying the impact of the attack. The patch for this issue can be found in commit a66cbcf.
 - [Live-Hack-CVE/CVE-2023-22493](https://github.com/Live-Hack-CVE/CVE-2023-22493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22493">
+- [buitanhung144/SSRF-CVE-2023-22493](https://github.com/buitanhung144/SSRF-CVE-2023-22493)	<img alt="forks" src="https://img.shields.io/github/forks/buitanhung144/SSRF-CVE-2023-22493">	<img alt="stars" src="https://img.shields.io/github/stars/buitanhung144/SSRF-CVE-2023-22493">
 
 ---
 ## CVE-2023-22492 (2023-01-11T20:15:00)
