@@ -1565,6 +1565,13 @@
 - [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/assalielmehdi/CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/assalielmehdi/CVE-2017-12635">
 
 ---
+## CVE-2017-12629 ()
+> 
+- [captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/cve-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/cve-2017-12629">
+- [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
+- [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+
+---
 ## CVE-2017-12621 (2017-09-28T01:29:00)
 > During Jelly (xml) file parsing with Apache Xerces, if a custom doctype entity is declared with a "SYSTEM" entity with a URL and that entity is used in the body of the Jelly file, during parser instantiation the parser will attempt to connect to said URL. This could lead to XML External Entity (XXE) attacks in Apache Commons Jelly before 1.0.1.
 - [Live-Hack-CVE/CVE-2017-12621](https://github.com/Live-Hack-CVE/CVE-2017-12621)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12621">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12621">
