@@ -379,6 +379,7 @@
 - [0x-crypt/CVE-2025-53770-Scanner](https://github.com/0x-crypt/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0x-crypt/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0x-crypt/CVE-2025-53770-Scanner">
 - [Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC](https://github.com/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/SharePoint-CVE-2025-53770-POC">
 - [harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC](https://github.com/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC">
+- [SDX442/CVE-2025-53770](https://github.com/SDX442/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/SDX442/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/SDX442/CVE-2025-53770">
 
 ---
 ## CVE-2025-53652 ()
@@ -857,6 +858,7 @@
 - [Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2025-48799">
 - [danielsummerton12/chromium-zero-day-rce-exploit](https://github.com/danielsummerton12/chromium-zero-day-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/chromium-zero-day-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/chromium-zero-day-rce-exploit">
 - [KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/KOVmechatronics/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/KOVmechatronics/CVE-2025-48799">
+- [painoob/CVE-2025-48799](https://github.com/painoob/CVE-2025-48799)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/CVE-2025-48799">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/CVE-2025-48799">
 
 ---
 ## CVE-2025-48708 ()
