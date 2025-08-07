@@ -2499,6 +2499,7 @@
 - [mickhacking/Thank-u-Next](https://github.com/mickhacking/Thank-u-Next)	<img alt="forks" src="https://img.shields.io/github/forks/mickhacking/Thank-u-Next">	<img alt="stars" src="https://img.shields.io/github/stars/mickhacking/Thank-u-Next">
 - [sahbaazansari/CVE-2025-29927](https://github.com/sahbaazansari/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sahbaazansari/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sahbaazansari/CVE-2025-29927">
 - [b4sh0xf/PoC-CVE-2025-29927](https://github.com/b4sh0xf/PoC-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-29927">
+- [aayush256-sys/next-js-auth-bypass](https://github.com/aayush256-sys/next-js-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/aayush256-sys/next-js-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/aayush256-sys/next-js-auth-bypass">
 
 ---
 ## CVE-2025-29824 ()
