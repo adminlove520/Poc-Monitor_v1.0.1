@@ -2559,6 +2559,8 @@ use after free.
 - [ThanHuuTuan/CVE_2019_18935](https://github.com/ThanHuuTuan/CVE_2019_18935)	<img alt="forks" src="https://img.shields.io/github/forks/ThanHuuTuan/CVE_2019_18935">	<img alt="stars" src="https://img.shields.io/github/stars/ThanHuuTuan/CVE_2019_18935">
 - [dust-life/CVE-2019-18935-memShell](https://github.com/dust-life/CVE-2019-18935-memShell)	<img alt="forks" src="https://img.shields.io/github/forks/dust-life/CVE-2019-18935-memShell">	<img alt="stars" src="https://img.shields.io/github/stars/dust-life/CVE-2019-18935-memShell">
 - [ekkoo-z/CVE-2019-18935-bypasswaf](https://github.com/ekkoo-z/CVE-2019-18935-bypasswaf)	<img alt="forks" src="https://img.shields.io/github/forks/ekkoo-z/CVE-2019-18935-bypasswaf">	<img alt="stars" src="https://img.shields.io/github/stars/ekkoo-z/CVE-2019-18935-bypasswaf">
+- [clarkvoss/telerik](https://github.com/clarkvoss/telerik)	<img alt="forks" src="https://img.shields.io/github/forks/clarkvoss/telerik">	<img alt="stars" src="https://img.shields.io/github/stars/clarkvoss/telerik">
+- [MorphyKutay/TelerikVulnCheck](https://github.com/MorphyKutay/TelerikVulnCheck)	<img alt="forks" src="https://img.shields.io/github/forks/MorphyKutay/TelerikVulnCheck">	<img alt="stars" src="https://img.shields.io/github/stars/MorphyKutay/TelerikVulnCheck">
 
 ---
 ## CVE-2019-18901 (2020-03-02T16:15:00)
