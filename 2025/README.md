@@ -297,6 +297,11 @@
 - [allinsthon/CVE-2025-54948](https://github.com/allinsthon/CVE-2025-54948)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-54948">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-54948">
 
 ---
+## CVE-2025-54887 ()
+> 
+- [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
+
+---
 ## CVE-2025-54794 ()
 > 
 - [AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back">
@@ -407,7 +412,7 @@
 - [grupooruss/CVE-2025-53770-Checker](https://github.com/grupooruss/CVE-2025-53770-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/grupooruss/CVE-2025-53770-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/grupooruss/CVE-2025-53770-Checker">
 - [tripoloski1337/CVE-2025-53770-scanner](https://github.com/tripoloski1337/CVE-2025-53770-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tripoloski1337/CVE-2025-53770-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tripoloski1337/CVE-2025-53770-scanner">
 - [AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE](https://github.com/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE">
-- [GreenForceNetwork/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetwork/Toolshell_CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetwork/Toolshell_CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetwork/Toolshell_CVE-2025-53770">
+- [GreenForceNetworks/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetworks/Toolshell_CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/GreenForceNetworks/Toolshell_CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/GreenForceNetworks/Toolshell_CVE-2025-53770">
 - [imbas007/CVE-2025-53770-Vulnerable-Scanner](https://github.com/imbas007/CVE-2025-53770-Vulnerable-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-53770-Vulnerable-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-53770-Vulnerable-Scanner">
 - [Sec-Dan/CVE-2025-53770-Scanner](https://github.com/Sec-Dan/CVE-2025-53770-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Sec-Dan/CVE-2025-53770-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Sec-Dan/CVE-2025-53770-Scanner">
 - [MuhammadWaseem29/CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-53770">
