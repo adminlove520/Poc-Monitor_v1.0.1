@@ -429,6 +429,11 @@
 - [turnernator1/Node.js-CVE-2017-5941](https://github.com/turnernator1/Node.js-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/turnernator1/Node.js-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/turnernator1/Node.js-CVE-2017-5941">
 
 ---
+## CVE-2017-5871 ()
+> 
+- [1337rokudenashi/CVE-2017-5871---URL-Redirection-to-Untrusted-Site-Open-Redirect---CWE-601](https://github.com/1337rokudenashi/CVE-2017-5871---URL-Redirection-to-Untrusted-Site-Open-Redirect---CWE-601)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/CVE-2017-5871---URL-Redirection-to-Untrusted-Site-Open-Redirect---CWE-601">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/CVE-2017-5871---URL-Redirection-to-Untrusted-Site-Open-Redirect---CWE-601">
+
+---
 ## CVE-2017-5715 (2018-01-04T13:29:00)
 > Systems with microprocessors utilizing speculative execution and indirect branch prediction may allow unauthorized disclosure of information to an attacker with local user access via a side-channel analysis.
 - [GalloLuigi/Analisi-CVE-2017-5715](https://github.com/GalloLuigi/Analisi-CVE-2017-5715)	<img alt="forks" src="https://img.shields.io/github/forks/GalloLuigi/Analisi-CVE-2017-5715">	<img alt="stars" src="https://img.shields.io/github/stars/GalloLuigi/Analisi-CVE-2017-5715">
