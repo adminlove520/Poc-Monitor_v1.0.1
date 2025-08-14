@@ -4418,6 +4418,11 @@ use after free.
 - [motikan2010/CVE-2019-10092_Docker](https://github.com/motikan2010/CVE-2019-10092_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2019-10092_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2019-10092_Docker">
 
 ---
+## CVE-2019-10077 ()
+> 
+- [shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3">
+
+---
 ## CVE-2019-10067 (2019-05-22T00:29:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 7.x through 7.0.6 and Community Edition 5.0.x through 5.0.35 and 6.0.x through 6.0.17. An attacker who is logged into OTRS as an agent user with appropriate permissions may manipulate the URL to cause execution of JavaScript in the context of OTRS.
 - [Live-Hack-CVE/CVE-2019-10067](https://github.com/Live-Hack-CVE/CVE-2019-10067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10067">
