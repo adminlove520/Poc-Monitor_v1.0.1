@@ -953,6 +953,11 @@
 - [Live-Hack-CVE/CVE-2017-18538](https://github.com/Live-Hack-CVE/CVE-2017-18538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18538">
 
 ---
+## CVE-2017-18362 ()
+> 
+- [yawningmoney/CVE-2017-18362-LAB](https://github.com/yawningmoney/CVE-2017-18362-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/yawningmoney/CVE-2017-18362-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/yawningmoney/CVE-2017-18362-LAB">
+
+---
 ## CVE-2017-18079 (2018-01-29T05:29:00)
 > drivers/input/serio/i8042.c in the Linux kernel before 4.12.4 allows attackers to cause a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact because the port->exists value can change after it is validated.
 - [Live-Hack-CVE/CVE-2017-18079](https://github.com/Live-Hack-CVE/CVE-2017-18079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18079">
