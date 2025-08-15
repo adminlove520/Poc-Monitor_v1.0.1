@@ -4303,6 +4303,13 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-10430](https://github.com/Live-Hack-CVE/CVE-2019-10430)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10430">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10430">
 
 ---
+## CVE-2019-10392 ()
+> 
+- [shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4](https://github.com/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4">
+- [ftk-sostupid/CVE-2019-10392_EXP](https://github.com/ftk-sostupid/CVE-2019-10392_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/ftk-sostupid/CVE-2019-10392_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/ftk-sostupid/CVE-2019-10392_EXP">
+- [jas502n/CVE-2019-10392](https://github.com/jas502n/CVE-2019-10392)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-10392">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-10392">
+
+---
 ## CVE-2019-10349 (2019-07-11T14:15:00)
 > A stored cross site scripting vulnerability in Jenkins Dependency Graph Viewer Plugin 0.13 and earlier allowed attackers able to configure jobs in Jenkins to inject arbitrary HTML and JavaScript in the plugin-provided web pages in Jenkins.
 - [Live-Hack-CVE/CVE-2019-10349](https://github.com/Live-Hack-CVE/CVE-2019-10349)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10349">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10349">
