@@ -1076,7 +1076,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 ---
 ## CVE-2023-49440 ()
 > 
-- [EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection-](https://github.com/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection-)	<img alt="forks" src="https://img.shields.io/github/forks/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection-">	<img alt="stars" src="https://img.shields.io/github/stars/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection-">
+- [EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection](https://github.com/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection)	<img alt="forks" src="https://img.shields.io/github/forks/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection">	<img alt="stars" src="https://img.shields.io/github/stars/EvilBytecode1337/CVE-2023-49440-Boolean-based-SQL-injection">
 
 ---
 ## CVE-2023-49438 (2023-12-26T22:15:00)
