@@ -11,6 +11,11 @@
 - [Live-Hack-CVE/CVE-2011-4566](https://github.com/Live-Hack-CVE/CVE-2011-4566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4566">
 
 ---
+## CVE-2011-4367 ()
+> 
+- [shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11">
+
+---
 ## CVE-2011-4127 (2012-07-03T16:40:00)
 > CVE-2011-4127 kernel: possible privilege escalation via SG_IO ioctl
 - [Live-Hack-CVE/CVE-2011-4127](https://github.com/Live-Hack-CVE/CVE-2011-4127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4127">
