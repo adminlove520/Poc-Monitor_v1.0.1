@@ -5029,6 +5029,11 @@
 - [dbrumley/extract75-cve-2020-13995](https://github.com/dbrumley/extract75-cve-2020-13995)	<img alt="forks" src="https://img.shields.io/github/forks/dbrumley/extract75-cve-2020-13995">	<img alt="stars" src="https://img.shields.io/github/stars/dbrumley/extract75-cve-2020-13995">
 
 ---
+## CVE-2020-13973 ()
+> 
+- [shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0](https://github.com/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0">
+
+---
 ## CVE-2020-13965 (2020-06-09T03:15:00)
 > An issue was discovered in Roundcube Webmail before 1.3.12 and 1.4.x before 1.4.5. There is XSS via a malicious XML attachment because text/xml is among the allowed types for a preview.
 - [mbadanoiu/CVE-2020-13965](https://github.com/mbadanoiu/CVE-2020-13965)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-13965">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-13965">

@@ -2391,6 +2391,7 @@
 ## CVE-2018-1047 (2018-01-24T23:29:00)
 > A flaw was found in Wildfly 9.x. A path traversal vulnerability through the org.wildfly.extension.undertow.deployment.ServletResourceManager.getResource method could lead to information disclosure of arbitrary local files.
 - [Live-Hack-CVE/CVE-2018-1047](https://github.com/Live-Hack-CVE/CVE-2018-1047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1047">
+- [shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final](https://github.com/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/wildfly__wildfly_CVE-2018-1047_11-0-0-Final">
 
 ---
 ## CVE-2018-1042 (2018-01-22T08:29:00)
