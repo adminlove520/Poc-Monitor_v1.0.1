@@ -5032,6 +5032,7 @@
 ## CVE-2020-13973 ()
 > 
 - [shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0](https://github.com/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/OWASP__json-sanitizer_CVE-2020-13973_1-2-0">
+- [epicosy/json-sanitizer](https://github.com/epicosy/json-sanitizer)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/json-sanitizer">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/json-sanitizer">
 
 ---
 ## CVE-2020-13965 (2020-06-09T03:15:00)
