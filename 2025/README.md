@@ -865,6 +865,7 @@
 ## CVE-2025-49667 ()
 > 
 - [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49667">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49667">
+- [Yuri08loveElaina/CVE-2025-49667](https://github.com/Yuri08loveElaina/CVE-2025-49667)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-49667">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-49667">
 
 ---
 ## CVE-2025-49619 ()
