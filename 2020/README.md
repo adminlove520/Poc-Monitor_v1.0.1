@@ -3496,6 +3496,11 @@
 - [Live-Hack-CVE/CVE-2020-22660](https://github.com/Live-Hack-CVE/CVE-2020-22660)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22660">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22660">
 
 ---
+## CVE-2020-2261 ()
+> 
+- [shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17](https://github.com/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jenkinsci__perfecto-plugin_CVE-2020-2261_1-17">
+
+---
 ## CVE-2020-22452 (2023-01-26T21:15:00)
 > SQL Injection vulnerability in function getTableCreationQuery in CreateAddField.php in phpMyAdmin 5.x before 5.2.0 via the tbl_storage_engine or tbl_collation parameters to tbl_create.php.
 - [Live-Hack-CVE/CVE-2020-22452](https://github.com/Live-Hack-CVE/CVE-2020-22452)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-22452">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-22452">
