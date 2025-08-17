@@ -4544,6 +4544,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [mbadanoiu/CVE-2023-34468](https://github.com/mbadanoiu/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34468">
 - [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
+- [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
@@ -4933,6 +4934,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [hanch7274/CVE-2023-33246](https://github.com/hanch7274/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/hanch7274/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/hanch7274/CVE-2023-33246">
 - [PavilionQ/CVE-2023-33246-mitigation](https://github.com/PavilionQ/CVE-2023-33246-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/PavilionQ/CVE-2023-33246-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/PavilionQ/CVE-2023-33246-mitigation">
 - [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
+- [shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0](https://github.com/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0">
 
 ---
 ## CVE-2023-33243 (2023-06-15T20:15:00)
