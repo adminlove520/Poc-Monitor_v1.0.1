@@ -4916,11 +4916,11 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 
 - [I5N0rth/CVE-2023-33246](https://github.com/I5N0rth/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/I5N0rth/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/I5N0rth/CVE-2023-33246">
-- [yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy)	<img alt="forks" src="https://img.shields.io/github/forks/yizhimanpadewoniu/CVE-2023-33246-Copy">	<img alt="stars" src="https://img.shields.io/github/stars/yizhimanpadewoniu/CVE-2023-33246-Copy">
+- [4mazing/CVE-2023-33246-Copy](https://github.com/4mazing/CVE-2023-33246-Copy)	<img alt="forks" src="https://img.shields.io/github/forks/4mazing/CVE-2023-33246-Copy">	<img alt="stars" src="https://img.shields.io/github/stars/4mazing/CVE-2023-33246-Copy">
 - [Le1a/CVE-2023-33246](https://github.com/Le1a/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2023-33246">
 - [SuperZero/CVE-2023-33246](https://github.com/SuperZero/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/SuperZero/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/SuperZero/CVE-2023-33246">
 - [Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT](https://github.com/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT">
-- [3yujw7njai/CVE-2023-33246](https://github.com/3yujw7njai/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/3yujw7njai/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/3yujw7njai/CVE-2023-33246">
+- [AiK1d/CVE-2023-33246](https://github.com/AiK1d/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/AiK1d/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/AiK1d/CVE-2023-33246">
 - [Serendipity-Lucky/CVE-2023-33246](https://github.com/Serendipity-Lucky/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Serendipity-Lucky/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Serendipity-Lucky/CVE-2023-33246">
 - [hheeyywweellccoommee/CVE-2023-33246-rnkku](https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/CVE-2023-33246-rnkku">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/CVE-2023-33246-rnkku">
 - [cr1me0/rocketMq_RCE](https://github.com/cr1me0/rocketMq_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cr1me0/rocketMq_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cr1me0/rocketMq_RCE">
@@ -4935,6 +4935,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [PavilionQ/CVE-2023-33246-mitigation](https://github.com/PavilionQ/CVE-2023-33246-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/PavilionQ/CVE-2023-33246-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/PavilionQ/CVE-2023-33246-mitigation">
 - [Devil0ll/CVE-2023-33246](https://github.com/Devil0ll/CVE-2023-33246)	<img alt="forks" src="https://img.shields.io/github/forks/Devil0ll/CVE-2023-33246">	<img alt="stars" src="https://img.shields.io/github/stars/Devil0ll/CVE-2023-33246">
 - [shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0](https://github.com/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0">
+- [Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-](https://github.com/Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-)	<img alt="forks" src="https://img.shields.io/github/forks/Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-">	<img alt="stars" src="https://img.shields.io/github/stars/Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-">
 
 ---
 ## CVE-2023-33243 (2023-06-15T20:15:00)
