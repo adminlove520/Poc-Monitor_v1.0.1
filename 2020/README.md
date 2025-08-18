@@ -1274,6 +1274,11 @@
 - [RandomRobbieBF/CVE-2020-36730](https://github.com/RandomRobbieBF/CVE-2020-36730)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2020-36730">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2020-36730">
 
 ---
+## CVE-2020-36708 ()
+> 
+- [b1g-b33f/CVE-2020-36708](https://github.com/b1g-b33f/CVE-2020-36708)	<img alt="forks" src="https://img.shields.io/github/forks/b1g-b33f/CVE-2020-36708">	<img alt="stars" src="https://img.shields.io/github/stars/b1g-b33f/CVE-2020-36708">
+
+---
 ## CVE-2020-36661 (2023-02-12T21:15:00)
 > A vulnerability was found in Kong lua-multipart 0.5.8-1. It has been declared as problematic. This vulnerability affects the function is_header of the file src/multipart.lua. The manipulation leads to inefficient regular expression complexity. Upgrading to version 0.5.9-1 is able to address this issue. The name of the patch is d632e5df43a2928fd537784a99a79dec288bf01b. It is recommended to upgrade the affected component. VDB-220642 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2020-36661](https://github.com/Live-Hack-CVE/CVE-2020-36661)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-36661">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-36661">
