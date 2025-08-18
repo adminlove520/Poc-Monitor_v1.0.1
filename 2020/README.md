@@ -440,6 +440,7 @@
 - [thelostworldFree/CVE-2020-7961-payloads](https://github.com/thelostworldFree/CVE-2020-7961-payloads)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2020-7961-payloads">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2020-7961-payloads">
 - [random-robbie/liferay-pwn](https://github.com/random-robbie/liferay-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/liferay-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/liferay-pwn">
 - [NMinhTrung/LIFERAY-CVE-2020-7961](https://github.com/NMinhTrung/LIFERAY-CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/NMinhTrung/LIFERAY-CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/NMinhTrung/LIFERAY-CVE-2020-7961">
+- [LoGGGG2402/CVE-2020-7961](https://github.com/LoGGGG2402/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/LoGGGG2402/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/LoGGGG2402/CVE-2020-7961">
 
 ---
 ## CVE-2020-7923 (2020-08-21T15:15:00)
