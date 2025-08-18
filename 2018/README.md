@@ -2422,6 +2422,7 @@
 ## CVE-2018-1002202 ()
 > 
 - [shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2](https://github.com/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">
+- [iris-sast/zip4j](https://github.com/iris-sast/zip4j)	<img alt="forks" src="https://img.shields.io/github/forks/iris-sast/zip4j">	<img alt="stars" src="https://img.shields.io/github/stars/iris-sast/zip4j">
 
 ---
 ## CVE-2018-1000861 (2018-12-10T14:29:00)
