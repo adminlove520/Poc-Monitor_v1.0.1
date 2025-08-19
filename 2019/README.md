@@ -945,6 +945,11 @@
 - [sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism](https://github.com/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism)	<img alt="forks" src="https://img.shields.io/github/forks/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">	<img alt="stars" src="https://img.shields.io/github/stars/sonyavalo/CVE-2019-5736-Dockerattack-and-security-mechanism">
 
 ---
+## CVE-2019-5688 ()
+> 
+- [watsa01/CVE-2019-5688](https://github.com/watsa01/CVE-2019-5688)	<img alt="forks" src="https://img.shields.io/github/forks/watsa01/CVE-2019-5688">	<img alt="stars" src="https://img.shields.io/github/stars/watsa01/CVE-2019-5688">
+
+---
 ## CVE-2019-5612 (2019-08-30T09:15:00)
 > In FreeBSD 12.0-STABLE before r351264, 12.0-RELEASE before 12.0-RELEASE-p10, 11.3-STABLE before r351265, 11.3-RELEASE before 11.3-RELEASE-p3, and 11.2-RELEASE before 11.2-RELEASE-p14, the kernel driver for /dev/midistat implements a read handler that is not thread-safe. A multi-threaded program can exploit races in the handler to copy out kernel memory outside the boundaries of midistat's data buffer.
 - [Live-Hack-CVE/CVE-2019-5612](https://github.com/Live-Hack-CVE/CVE-2019-5612)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-5612">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-5612">
