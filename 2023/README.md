@@ -7772,6 +7772,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-24057 (2023-01-26T21:18:00)
 > HL7 (Health Level 7) FHIR Core Libraries before 5.6.92 allow attackers to extract files into arbitrary directories via directory traversal from a crafted ZIP or TGZ archive (for a prepackaged terminology cache, NPM package, or comparison archive).
 - [Live-Hack-CVE/CVE-2023-24057](https://github.com/Live-Hack-CVE/CVE-2023-24057)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24057">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24057">
+- [shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91](https://github.com/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91">
 
 ---
 ## CVE-2023-24056 (2023-01-22T04:15:00)
