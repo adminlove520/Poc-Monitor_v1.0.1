@@ -2743,6 +2743,11 @@ use after free.
 - [hheeyywweellccoommee/vnc-lab-cve-2019-17662-vqdwt](https://github.com/hheeyywweellccoommee/vnc-lab-cve-2019-17662-vqdwt)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/vnc-lab-cve-2019-17662-vqdwt">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/vnc-lab-cve-2019-17662-vqdwt">
 
 ---
+## CVE-2019-17640 ()
+> 
+- [shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2019-17640_3-9-3">
+
+---
 ## CVE-2019-17637 (2020-07-15T15:15:00)
 > In all versions of Eclipse Web Tools Platform through release 3.18 (2020-06), XML and DTD files referring to external entities could be exploited to send the contents of local files to a remote server when edited or validated, even when external entity resolution is disabled in the user preferences.
 - [Live-Hack-CVE/CVE-2019-17637](https://github.com/Live-Hack-CVE/CVE-2019-17637)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17637">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17637">
