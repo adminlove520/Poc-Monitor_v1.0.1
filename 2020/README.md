@@ -2016,6 +2016,11 @@
 - [Live-Hack-CVE/CVE-2020-2922](https://github.com/Live-Hack-CVE/CVE-2020-2922)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2922">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2922">
 
 ---
+## CVE-2020-29204 ()
+> 
+- [shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0](https://github.com/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/xuxueli__xxl-job_CVE-2020-29204_2-2-0">
+
+---
 ## CVE-2020-29168 (2023-02-17T15:15:00)
 > SQL Injection vulnerability in Projectworlds Online Doctor Appointment Booking System, allows attackers to gain sensitive information via the q parameter to the getuser.php endpoint.
 - [Live-Hack-CVE/CVE-2020-29168](https://github.com/Live-Hack-CVE/CVE-2020-29168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-29168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-29168">
