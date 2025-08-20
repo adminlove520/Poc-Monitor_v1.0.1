@@ -2446,6 +2446,11 @@
 - [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
 
 ---
+## CVE-2018-1000850 ()
+> 
+- [shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0](https://github.com/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">
+
+---
 ## CVE-2018-1000820 (2018-12-20T15:29:00)
 > neo4j-contrib neo4j-apoc-procedures version before commit 45bc09c contains a XML External Entity (XXE) vulnerability in XML Parser that can result in Disclosure of confidential data, denial of service, SSRF, port scanning. This vulnerability appears to have been fixed in after commit 45bc09c.
 - [Live-Hack-CVE/CVE-2018-1000820](https://github.com/Live-Hack-CVE/CVE-2018-1000820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000820">
