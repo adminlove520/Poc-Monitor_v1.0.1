@@ -1264,6 +1264,11 @@
 - [Live-Hack-CVE/CVE-2020-3963](https://github.com/Live-Hack-CVE/CVE-2020-3963)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-3963">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-3963">
 
 ---
+## CVE-2020-36847 ()
+> 
+- [137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE](https://github.com/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2020-36847-WordPress-Plugin-4.2.2-RCE">
+
+---
 ## CVE-2020-36842 ()
 > 
 - [Nxploited/CVE-2020-36842](https://github.com/Nxploited/CVE-2020-36842)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2020-36842">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2020-36842">
