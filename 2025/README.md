@@ -4077,6 +4077,7 @@
 ## CVE-2025-20337 ()
 > 
 - [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
+- [rxerium/CVE-2025-20337](https://github.com/rxerium/CVE-2025-20337)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-20337">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-20337">
 
 ---
 ## CVE-2025-20286 ()
