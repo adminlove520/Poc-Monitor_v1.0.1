@@ -186,6 +186,11 @@
 - [Live-Hack-CVE/CVE-2014-4982](https://github.com/Live-Hack-CVE/CVE-2014-4982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4982">
 
 ---
+## CVE-2014-4726 ()
+> 
+- [Pwdnx1337/CVE-2014-4726](https://github.com/Pwdnx1337/CVE-2014-4726)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2014-4726">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2014-4726">
+
+---
 ## CVE-2014-4725 ()
 > 
 - [Pwdnx1337/MASS-CVE-2014-4725](https://github.com/Pwdnx1337/MASS-CVE-2014-4725)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/MASS-CVE-2014-4725">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/MASS-CVE-2014-4725">
