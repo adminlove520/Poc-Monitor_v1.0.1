@@ -1235,6 +1235,7 @@
 - [xuanlockun/CVE-2025-48384-submodule](https://github.com/xuanlockun/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/xuanlockun/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/xuanlockun/CVE-2025-48384-submodule">
 - [sahar042/CVE-2025-48384-submodule](https://github.com/sahar042/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-48384-submodule">
 - [sahar042/CVE-2025-48384](https://github.com/sahar042/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-48384">
+- [wzx5002/CVE-2025-48384](https://github.com/wzx5002/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/wzx5002/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/wzx5002/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
@@ -3586,6 +3587,7 @@
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
 - [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
 - [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
+- [AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-24893-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-24893-Reverse-Shell">
 
 ---
 ## CVE-2025-24813 ()
