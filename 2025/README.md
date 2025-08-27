@@ -2002,6 +2002,16 @@
 - [Yucaerin/CVE-2025-3419](https://github.com/Yucaerin/CVE-2025-3419)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-3419">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-3419">
 
 ---
+## CVE-2025-34161 ()
+> 
+- [Eyodav/CVE-2025-34161](https://github.com/Eyodav/CVE-2025-34161)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34161">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34161">
+
+---
+## CVE-2025-34157 ()
+> 
+- [Eyodav/CVE-2025-34157](https://github.com/Eyodav/CVE-2025-34157)	<img alt="forks" src="https://img.shields.io/github/forks/Eyodav/CVE-2025-34157">	<img alt="stars" src="https://img.shields.io/github/stars/Eyodav/CVE-2025-34157">
+
+---
 ## CVE-2025-34152 ()
 > 
 - [Chocapikk/CVE-2025-34152](https://github.com/Chocapikk/CVE-2025-34152)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-34152">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-34152">
