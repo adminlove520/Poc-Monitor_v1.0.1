@@ -1289,6 +1289,7 @@
 - [butyraldehyde/CVE-2025-48384-PoC](https://github.com/butyraldehyde/CVE-2025-48384-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC">
 - [jacobholtz/CVE-2025-48384-poc](https://github.com/jacobholtz/CVE-2025-48384-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jacobholtz/CVE-2025-48384-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jacobholtz/CVE-2025-48384-poc">
 - [jacobholtz/CVE-2025-48384-submodule](https://github.com/jacobholtz/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/jacobholtz/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/jacobholtz/CVE-2025-48384-submodule">
+- [arun1033/CVE-2025-48384](https://github.com/arun1033/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/arun1033/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/arun1033/CVE-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
