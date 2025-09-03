@@ -3830,6 +3830,9 @@
 - [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
 - [thebringerofdeath789/CVE-2025-24813](https://github.com/thebringerofdeath789/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/thebringerofdeath789/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/thebringerofdeath789/CVE-2025-24813">
 - [threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat](https://github.com/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">
+- [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAlbez/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAlbez/CVE-2025-24813-PoC">
+- [Olabanji10/Apache-GOExploiter](https://github.com/Olabanji10/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/Olabanji10/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/Olabanji10/Apache-GOExploiter">
+- [drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter)	<img alt="forks" src="https://img.shields.io/github/forks/drcrypterdotru/Apache-GOExploiter">	<img alt="stars" src="https://img.shields.io/github/stars/drcrypterdotru/Apache-GOExploiter">
 
 ---
 ## CVE-2025-24801 ()
