@@ -1233,6 +1233,11 @@
 - [k4u5h41/CVE-2016-1531](https://github.com/k4u5h41/CVE-2016-1531)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/CVE-2016-1531">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/CVE-2016-1531">
 
 ---
+## CVE-2016-15042 ()
+> 
+- [ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2016-15042">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2016-15042">
+
+---
 ## CVE-2016-15023 (2023-01-31T20:15:00)
 > A vulnerability, which was classified as problematic, was found in SiteFusion Application Server up to 6.6.6. This affects an unknown part of the file getextension.php of the component Extension Handler. The manipulation leads to path traversal. Upgrading to version 6.6.7 is able to address this issue. The name of the patch is 49fff155c303d6cd06ce8f97bba56c9084bf08ac. It is recommended to upgrade the affected component. The identifier VDB-219765 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2016-15023](https://github.com/Live-Hack-CVE/CVE-2016-15023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15023">
