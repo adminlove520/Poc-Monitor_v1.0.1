@@ -4552,6 +4552,11 @@
 - [ZackSecurity/CVE-2025-10792-test](https://github.com/ZackSecurity/CVE-2025-10792-test)	<img alt="forks" src="https://img.shields.io/github/forks/ZackSecurity/CVE-2025-10792-test">	<img alt="stars" src="https://img.shields.io/github/stars/ZackSecurity/CVE-2025-10792-test">
 
 ---
+## CVE-2025-1055 ()
+> 
+- [diego-tella/CVE-2025-1055-poc](https://github.com/diego-tella/CVE-2025-1055-poc)	<img alt="forks" src="https://img.shields.io/github/forks/diego-tella/CVE-2025-1055-poc">	<img alt="stars" src="https://img.shields.io/github/stars/diego-tella/CVE-2025-1055-poc">
+
+---
 ## CVE-2025-1015 ()
 > 
 - [r3m0t3nu11/CVE-2025-1015](https://github.com/r3m0t3nu11/CVE-2025-1015)	<img alt="forks" src="https://img.shields.io/github/forks/r3m0t3nu11/CVE-2025-1015">	<img alt="stars" src="https://img.shields.io/github/stars/r3m0t3nu11/CVE-2025-1015">
