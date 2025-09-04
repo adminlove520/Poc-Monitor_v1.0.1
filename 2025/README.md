@@ -620,6 +620,11 @@
 - [B1ack4sh/Blackash-CVE-2025-53773](https://github.com/B1ack4sh/Blackash-CVE-2025-53773)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53773">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53773">
 
 ---
+## CVE-2025-53772 ()
+> 
+- [Momollax/CVE-2025-53772-IIS-WebDeploy-RCE](https://github.com/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Momollax/CVE-2025-53772-IIS-WebDeploy-RCE">
+
+---
 ## CVE-2025-53770 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-53770](https://github.com/B1ack4sh/Blackash-CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53770">
