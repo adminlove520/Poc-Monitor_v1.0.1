@@ -349,6 +349,11 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-58780 ()
+> 
+- [SexyShoelessGodofWar/CVE-2025-58780](https://github.com/SexyShoelessGodofWar/CVE-2025-58780)	<img alt="forks" src="https://img.shields.io/github/forks/SexyShoelessGodofWar/CVE-2025-58780">	<img alt="stars" src="https://img.shields.io/github/stars/SexyShoelessGodofWar/CVE-2025-58780">
+
+---
 ## CVE-2025-58440 ()
 > 
 - [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
@@ -2486,6 +2491,7 @@
 - [Yuy0ung/CVE-2025-32463_chwoot](https://github.com/Yuy0ung/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/Yuy0ung/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/Yuy0ung/CVE-2025-32463_chwoot">
 - [hacieda/CVE-2025-32463](https://github.com/hacieda/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/hacieda/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/hacieda/CVE-2025-32463">
 - [blackcat4347/CVE-2025-32463_PoC](https://github.com/blackcat4347/CVE-2025-32463_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/blackcat4347/CVE-2025-32463_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/blackcat4347/CVE-2025-32463_PoC">
+- [0x00315732/musical-engine](https://github.com/0x00315732/musical-engine)	<img alt="forks" src="https://img.shields.io/github/forks/0x00315732/musical-engine">	<img alt="stars" src="https://img.shields.io/github/stars/0x00315732/musical-engine">
 
 ---
 ## CVE-2025-32462 ()
