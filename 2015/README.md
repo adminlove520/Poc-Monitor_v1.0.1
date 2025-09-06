@@ -259,6 +259,11 @@
 - [Live-Hack-CVE/CVE-2015-6042](https://github.com/Live-Hack-CVE/CVE-2015-6042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-6042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-6042">
 
 ---
+## CVE-2015-5736 ()
+> 
+- [avielzecharia/CVE-2015-5736](https://github.com/avielzecharia/CVE-2015-5736)	<img alt="forks" src="https://img.shields.io/github/forks/avielzecharia/CVE-2015-5736">	<img alt="stars" src="https://img.shields.io/github/stars/avielzecharia/CVE-2015-5736">
+
+---
 ## CVE-2015-57115 ()
 > 
 - [TrixSec/CVE-2015-57115](https://github.com/TrixSec/CVE-2015-57115)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2015-57115">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2015-57115">
