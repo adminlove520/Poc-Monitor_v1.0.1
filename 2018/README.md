@@ -441,6 +441,7 @@
 - [paulogmota/CVE-2018-6574](https://github.com/paulogmota/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/paulogmota/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/paulogmota/CVE-2018-6574">
 - [solovvway/CVE-2018-6574](https://github.com/solovvway/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/solovvway/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/solovvway/CVE-2018-6574">
 - [memmas/CVE-2018-6574](https://github.com/memmas/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/memmas/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/memmas/CVE-2018-6574">
+- [AshrSec/pentesterlab-CVE-2018-6574](https://github.com/AshrSec/pentesterlab-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/AshrSec/pentesterlab-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/AshrSec/pentesterlab-CVE-2018-6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)
