@@ -733,6 +733,7 @@
 > 
 - [rxerium/CVE-2025-53690](https://github.com/rxerium/CVE-2025-53690)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-53690">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-53690">
 - [B1ack4sh/Blackash-CVE-2025-53690](https://github.com/B1ack4sh/Blackash-CVE-2025-53690)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-53690">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-53690">
+- [m0d0ri205/CVE-2025-53690-Analysis](https://github.com/m0d0ri205/CVE-2025-53690-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/CVE-2025-53690-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/CVE-2025-53690-Analysis">
 
 ---
 ## CVE-2025-53652 ()
@@ -4166,6 +4167,7 @@
 - [jpts/cve-2025-23266-poc](https://github.com/jpts/cve-2025-23266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jpts/cve-2025-23266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jpts/cve-2025-23266-poc">
 - [r0binak/CVE-2025-23266](https://github.com/r0binak/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2025-23266">
 - [Mindasy/cve-2025-23266-migration-bypass](https://github.com/Mindasy/cve-2025-23266-migration-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Mindasy/cve-2025-23266-migration-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Mindasy/cve-2025-23266-migration-bypass">
+- [mrk336/CVE-2025-23266](https://github.com/mrk336/CVE-2025-23266)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/CVE-2025-23266">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/CVE-2025-23266">
 
 ---
 ## CVE-2025-23245655 ()
