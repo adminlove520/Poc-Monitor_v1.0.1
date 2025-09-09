@@ -373,7 +373,7 @@
 ---
 ## CVE-2025-58180 ()
 > 
-- [prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename](https://github.com/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180-RCE-in-OctoPrint-via-Unsanitized-Filename">
+- [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180">
 
 ---
 ## CVE-2025-5815 ()
@@ -384,6 +384,7 @@
 ## CVE-2025-57833 ()
 > 
 - [Mkway/CVE-2025-57833](https://github.com/Mkway/CVE-2025-57833)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2025-57833">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2025-57833">
+- [loic-houchi/Django-faille-CVE-2025-57833_test](https://github.com/loic-houchi/Django-faille-CVE-2025-57833_test)	<img alt="forks" src="https://img.shields.io/github/forks/loic-houchi/Django-faille-CVE-2025-57833_test">	<img alt="stars" src="https://img.shields.io/github/stars/loic-houchi/Django-faille-CVE-2025-57833_test">
 
 ---
 ## CVE-2025-57819 ()
