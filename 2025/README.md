@@ -436,6 +436,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57520 ()
+> 
+- [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">
+
+---
 ## CVE-2025-57392 ()
 > 
 - [meisterlos/CVE-2025-57392](https://github.com/meisterlos/CVE-2025-57392)	<img alt="forks" src="https://img.shields.io/github/forks/meisterlos/CVE-2025-57392">	<img alt="stars" src="https://img.shields.io/github/stars/meisterlos/CVE-2025-57392">
@@ -2793,6 +2798,7 @@
 - [B1ack4sh/Blackash-CVE-2025-31161](https://github.com/B1ack4sh/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31161">
 - [ibrahmsql/CVE-2025-31161](https://github.com/ibrahmsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-31161">
 - [r0otk3r/CVE-2025-31161](https://github.com/r0otk3r/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-31161">
+- [f4dee-backup/CVE-2025-31161](https://github.com/f4dee-backup/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
