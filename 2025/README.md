@@ -1518,6 +1518,7 @@
 - [arun1033/CVE-2025-48384](https://github.com/arun1033/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/arun1033/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/arun1033/CVE-2025-48384">
 - [EdwardYeIntrix/CVE-2025-48384-Scanner](https://github.com/EdwardYeIntrix/CVE-2025-48384-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/EdwardYeIntrix/CVE-2025-48384-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/EdwardYeIntrix/CVE-2025-48384-Scanner">
 - [airkewld/cve-2025-48384](https://github.com/airkewld/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/airkewld/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/airkewld/cve-2025-48384">
+- [airkewld/cve-2025-48384-submodule](https://github.com/airkewld/cve-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/airkewld/cve-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/airkewld/cve-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
