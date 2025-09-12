@@ -406,6 +406,7 @@
 - [net-hex/CVE-2025-57819](https://github.com/net-hex/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/net-hex/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/net-hex/CVE-2025-57819">
 - [ImBIOS/lab-cve-2025-57819](https://github.com/ImBIOS/lab-cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/ImBIOS/lab-cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/ImBIOS/lab-cve-2025-57819">
 - [B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-57819">
+- [MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819">
 
 ---
 ## CVE-2025-57773 ()
@@ -1516,6 +1517,7 @@
 - [jacobholtz/CVE-2025-48384-submodule](https://github.com/jacobholtz/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/jacobholtz/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/jacobholtz/CVE-2025-48384-submodule">
 - [arun1033/CVE-2025-48384](https://github.com/arun1033/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/arun1033/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/arun1033/CVE-2025-48384">
 - [EdwardYeIntrix/CVE-2025-48384-Scanner](https://github.com/EdwardYeIntrix/CVE-2025-48384-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/EdwardYeIntrix/CVE-2025-48384-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/EdwardYeIntrix/CVE-2025-48384-Scanner">
+- [airkewld/cve-2025-48384](https://github.com/airkewld/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/airkewld/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/airkewld/cve-2025-48384">
 
 ---
 ## CVE-2025-4822 ()
