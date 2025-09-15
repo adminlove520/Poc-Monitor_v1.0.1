@@ -1654,6 +1654,7 @@
 ## CVE-2017-12611 ()
 > 
 - [tcetin704/CVE-2017-12611](https://github.com/tcetin704/CVE-2017-12611)	<img alt="forks" src="https://img.shields.io/github/forks/tcetin704/CVE-2017-12611">	<img alt="stars" src="https://img.shields.io/github/stars/tcetin704/CVE-2017-12611">
+- [brianwrf/S2-053-CVE-2017-12611](https://github.com/brianwrf/S2-053-CVE-2017-12611)	<img alt="forks" src="https://img.shields.io/github/forks/brianwrf/S2-053-CVE-2017-12611">	<img alt="stars" src="https://img.shields.io/github/stars/brianwrf/S2-053-CVE-2017-12611">
 
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
