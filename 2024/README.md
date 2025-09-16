@@ -3856,6 +3856,10 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-4157 ()
 > 
 - [Ch4os1/CVE-2024-4157-SSRF-RCE](https://github.com/Ch4os1/CVE-2024-4157-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Ch4os1/CVE-2024-4157-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Ch4os1/CVE-2024-4157-SSRF-RCE">
+- [kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)	<img alt="forks" src="https://img.shields.io/github/forks/kit4py/CVE-2024-41570">	<img alt="stars" src="https://img.shields.io/github/stars/kit4py/CVE-2024-41570">
+- [muhmad-umair/CVE-2024-415770-ssrf-rce](https://github.com/muhmad-umair/CVE-2024-415770-ssrf-rce)	<img alt="forks" src="https://img.shields.io/github/forks/muhmad-umair/CVE-2024-415770-ssrf-rce">	<img alt="stars" src="https://img.shields.io/github/stars/muhmad-umair/CVE-2024-415770-ssrf-rce">
+- [thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE">
+- [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 
 ---
 ## CVE-2024-41453 ()
@@ -9436,6 +9440,7 @@ critical systems.
 - [codeb0ss/CVE-2024-1709-PoC](https://github.com/codeb0ss/CVE-2024-1709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-1709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-1709-PoC">
 - [AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">
 - [AMRICHASFUCK/Mass-CVE-2024-1709](https://github.com/AMRICHASFUCK/Mass-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/AMRICHASFUCK/Mass-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/AMRICHASFUCK/Mass-CVE-2024-1709">
+- [Teexo/ScreenConnect-CVE-2024-1709-Exploit](https://github.com/Teexo/ScreenConnect-CVE-2024-1709-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/ScreenConnect-CVE-2024-1709-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/ScreenConnect-CVE-2024-1709-Exploit">
 
 ---
 ## CVE-2024-1708 (2024-02-21T16:15:00)
