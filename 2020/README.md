@@ -5145,6 +5145,11 @@
 - [Live-Hack-CVE/CVE-2020-13882](https://github.com/Live-Hack-CVE/CVE-2020-13882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13882">
 
 ---
+## CVE-2020-13777 ()
+> 
+- [0xxon/cve-2020-13777](https://github.com/0xxon/cve-2020-13777)	<img alt="forks" src="https://img.shields.io/github/forks/0xxon/cve-2020-13777">	<img alt="stars" src="https://img.shields.io/github/stars/0xxon/cve-2020-13777">
+
+---
 ## CVE-2020-13775 (2020-06-02T23:15:00)
 > ZNC 1.8.0 up to 1.8.1-rc1 allows authenticated users to trigger an application crash (with a NULL pointer dereference) if echo-message is not enabled and there is no network.
 - [Live-Hack-CVE/CVE-2020-13775](https://github.com/Live-Hack-CVE/CVE-2020-13775)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13775">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13775">
