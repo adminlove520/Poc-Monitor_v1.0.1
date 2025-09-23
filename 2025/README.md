@@ -2817,6 +2817,7 @@
 - [ibrahimsql/CVE-2025-32432](https://github.com/ibrahimsql/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-32432">
 - [CTY-Research-1/CVE-2025-32432-PoC](https://github.com/CTY-Research-1/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CTY-Research-1/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CTY-Research-1/CVE-2025-32432-PoC">
 - [B1ack4sh/Blackash-CVE-2025-32432](https://github.com/B1ack4sh/Blackash-CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-32432">
+- [bambooqj/CVE-2025-32432](https://github.com/bambooqj/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()
