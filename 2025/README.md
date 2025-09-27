@@ -1007,6 +1007,11 @@
 - [issamjr/CVE-2025-5309-Scanner](https://github.com/issamjr/CVE-2025-5309-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-5309-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-5309-Scanner">
 
 ---
+## CVE-2025-5304 ()
+> 
+- [Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5304">
+
+---
 ## CVE-2025-52970 ()
 > 
 - [Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass](https://github.com/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Hex00-0x4/FortiWeb-CVE-2025-52970-Authentication-Bypass">
@@ -1988,6 +1993,7 @@
 ## CVE-2025-4606 ()
 > 
 - [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4606">
+- [UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/UcenHaxor07/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/UcenHaxor07/CVE-2025-4606">
 
 ---
 ## CVE-2025-46047 ()
