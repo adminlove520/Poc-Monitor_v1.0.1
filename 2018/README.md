@@ -1512,6 +1512,11 @@
 - [Live-Hack-CVE/CVE-2018-1845](https://github.com/Live-Hack-CVE/CVE-2018-1845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1845">
 
 ---
+## CVE-2018-18441 ()
+> 
+- [bayazid-bit/CVE-2018-18441-exploit](https://github.com/bayazid-bit/CVE-2018-18441-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2018-18441-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2018-18441-exploit">
+
+---
 ## CVE-2018-18439 (2018-11-20T19:29:00)
 > DENX U-Boot through 2018.09-rc1 has a remotely exploitable buffer overflow via a malicious TFTP server because TFTP traffic is mishandled. Also, local exploitation can occur via a crafted kernel image.
 - [Live-Hack-CVE/CVE-2018-18439](https://github.com/Live-Hack-CVE/CVE-2018-18439)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-18439">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-18439">
