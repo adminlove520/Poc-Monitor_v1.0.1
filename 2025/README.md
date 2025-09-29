@@ -104,6 +104,11 @@
 - [byteReaper77/CVE-2025-8550](https://github.com/byteReaper77/CVE-2025-8550)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8550">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8550">
 
 ---
+## CVE-2025-8518 ()
+> 
+- [maestro-ant/Vvveb-CMS-CVE-2025-8518](https://github.com/maestro-ant/Vvveb-CMS-CVE-2025-8518)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/Vvveb-CMS-CVE-2025-8518">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/Vvveb-CMS-CVE-2025-8518">
+
+---
 ## CVE-2025-8471 ()
 > 
 - [byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-8471">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-8471">
@@ -148,6 +153,7 @@
 - [lucyna77/winrar-exploit](https://github.com/lucyna77/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lucyna77/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lucyna77/winrar-exploit">
 - [kyomber/CVE-2025-8088](https://github.com/kyomber/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kyomber/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kyomber/CVE-2025-8088">
 - [Fathi-MO/POC-CVE-2025-8088](https://github.com/Fathi-MO/POC-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Fathi-MO/POC-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Fathi-MO/POC-CVE-2025-8088">
+- [haspread/CVE-2025-8088](https://github.com/haspread/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/haspread/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/haspread/CVE-2025-8088">
 
 ---
 ## CVE-2025-8067 ()
