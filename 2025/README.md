@@ -2294,6 +2294,7 @@
 - [PwnToday/CVE-2025-43300](https://github.com/PwnToday/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/PwnToday/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/PwnToday/CVE-2025-43300">
 - [veniversum/cve-2025-43300](https://github.com/veniversum/cve-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/veniversum/cve-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/veniversum/cve-2025-43300">
 - [ticofookfook/CVE-2025-43300](https://github.com/ticofookfook/CVE-2025-43300)	<img alt="forks" src="https://img.shields.io/github/forks/ticofookfook/CVE-2025-43300">	<img alt="stars" src="https://img.shields.io/github/stars/ticofookfook/CVE-2025-43300">
+- [Dark-life944/CVE-2025](https://github.com/Dark-life944/CVE-2025)	<img alt="forks" src="https://img.shields.io/github/forks/Dark-life944/CVE-2025">	<img alt="stars" src="https://img.shields.io/github/stars/Dark-life944/CVE-2025">
 
 ---
 ## CVE-2025-4322 ()
