@@ -515,6 +515,11 @@
 - [cyberajju/cve-2025-5755](https://github.com/cyberajju/cve-2025-5755)	<img alt="forks" src="https://img.shields.io/github/forks/cyberajju/cve-2025-5755">	<img alt="stars" src="https://img.shields.io/github/stars/cyberajju/cve-2025-5755">
 
 ---
+## CVE-2025-57529 ()
+> 
+- [songqb-xx/CVE-2025-57529](https://github.com/songqb-xx/CVE-2025-57529)	<img alt="forks" src="https://img.shields.io/github/forks/songqb-xx/CVE-2025-57529">	<img alt="stars" src="https://img.shields.io/github/stars/songqb-xx/CVE-2025-57529">
+
+---
 ## CVE-2025-57520 ()
 > 
 - [onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-">
@@ -2899,6 +2904,11 @@
 - [MGunturG/CVE-2025-32462](https://github.com/MGunturG/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/MGunturG/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/MGunturG/CVE-2025-32462">
 - [j3r1ch0123/CVE-2025-32462](https://github.com/j3r1ch0123/CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2025-32462">
 - [AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462">
+
+---
+## CVE-2025-32444 ()
+> 
+- [stuxbench/vLLM-CVE-2025-32444](https://github.com/stuxbench/vLLM-CVE-2025-32444)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vLLM-CVE-2025-32444">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vLLM-CVE-2025-32444">
 
 ---
 ## CVE-2025-32434 ()
