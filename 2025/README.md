@@ -216,6 +216,7 @@
 ## CVE-2025-7771 ()
 > 
 - [Yuri08loveElaina/CVE-2025-7771](https://github.com/Yuri08loveElaina/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-7771">
+- [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2025-7771">
 
 ---
 ## CVE-2025-7769 ()
@@ -378,6 +379,11 @@
 ## CVE-2025-60787 ()
 > 
 - [prabhatverma47/CVE-2025-60787](https://github.com/prabhatverma47/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-60787">
+
+---
+## CVE-2025-60736 ()
+> 
+- [WinDyAlphA/CVE-2025-60736](https://github.com/WinDyAlphA/CVE-2025-60736)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2025-60736">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2025-60736">
 
 ---
 ## CVE-2025-6058 ()
