@@ -542,6 +542,11 @@
 - [kaylertee/Computer-Security-Equifax-2017](https://github.com/kaylertee/Computer-Security-Equifax-2017)	<img alt="forks" src="https://img.shields.io/github/forks/kaylertee/Computer-Security-Equifax-2017">	<img alt="stars" src="https://img.shields.io/github/stars/kaylertee/Computer-Security-Equifax-2017">
 
 ---
+## CVE-2017-5618 ()
+> 
+- [RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit](https://github.com/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RXDarkee/CVE-2017-5618-SetUid-Screen-4.5.0-Root-Exploit">
+
+---
 ## CVE-2017-5546 (2017-02-06T06:59:00)
 > The freelist-randomization feature in mm/slab.c in the Linux kernel 4.8.x and 4.9.x before 4.9.5 allows local users to cause a denial of service (duplicate freelist entries and system crash) or possibly have unspecified other impact in opportunistic circumstances by leveraging the selection of a large value for a random number.
 - [Live-Hack-CVE/CVE-2017-5546](https://github.com/Live-Hack-CVE/CVE-2017-5546)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-5546">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-5546">
