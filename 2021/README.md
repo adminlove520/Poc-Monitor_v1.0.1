@@ -1050,6 +1050,10 @@
 - [Jaonsd/HTA-Exploit](https://github.com/Jaonsd/HTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/HTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/HTA-Exploit">
 - [Jaonsd/PDF-FUD-Exploit](https://github.com/Jaonsd/PDF-FUD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/PDF-FUD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/PDF-FUD-Exploit">
 - [Jaonsd/Slient-URL-Exploit](https://github.com/Jaonsd/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jaonsd/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jaonsd/Slient-URL-Exploit">
+- [d4ngkh04w/CVE-2021-44228-Apache-Log4j](https://github.com/d4ngkh04w/CVE-2021-44228-Apache-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2021-44228-Apache-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2021-44228-Apache-Log4j">
+- [arabindadora/log4shell](https://github.com/arabindadora/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/arabindadora/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/arabindadora/log4shell">
+- [KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device](https://github.com/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device)	<img alt="forks" src="https://img.shields.io/github/forks/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">	<img alt="stars" src="https://img.shields.io/github/stars/KamalideenAK/Microsoft-Defender-for-Endpoint-Deployment-on-Windows-10-11-device">
+- [moften/Log4Shell](https://github.com/moften/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/moften/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/moften/Log4Shell">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
