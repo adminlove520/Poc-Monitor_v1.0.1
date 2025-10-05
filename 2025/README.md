@@ -295,6 +295,7 @@
 - [yukinime/CVE-2025-6934](https://github.com/yukinime/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/yukinime/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/yukinime/CVE-2025-6934">
 - [Pwdnx1337/CVE-2025-6934](https://github.com/Pwdnx1337/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-6934">
 - [Rosemary1337/CVE-2025-6934](https://github.com/Rosemary1337/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Rosemary1337/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Rosemary1337/CVE-2025-6934">
+- [Jenderal92/WP-CVE-2025-6934](https://github.com/Jenderal92/WP-CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/WP-CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/WP-CVE-2025-6934">
 
 ---
 ## CVE-2025-6907 ()
@@ -334,6 +335,7 @@
 - [ghostn4444/POC-CVE-2025-6554](https://github.com/ghostn4444/POC-CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/ghostn4444/POC-CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/ghostn4444/POC-CVE-2025-6554">
 - [9Insomnie/CVE-2025-6554](https://github.com/9Insomnie/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/9Insomnie/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/9Insomnie/CVE-2025-6554">
 - [gmh5225/CVE-2025-6554](https://github.com/gmh5225/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2025-6554">
+- [mistymntncop/CVE-2025-6554](https://github.com/mistymntncop/CVE-2025-6554)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2025-6554">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2025-6554">
 
 ---
 ## CVE-2025-6543 ()
