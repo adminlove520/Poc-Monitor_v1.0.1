@@ -176,6 +176,11 @@
 - [born0monday/CVE-2025-8067](https://github.com/born0monday/CVE-2025-8067)	<img alt="forks" src="https://img.shields.io/github/forks/born0monday/CVE-2025-8067">	<img alt="stars" src="https://img.shields.io/github/stars/born0monday/CVE-2025-8067">
 
 ---
+## CVE-2025-8061 ()
+> 
+- [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061)	<img alt="forks" src="https://img.shields.io/github/forks/symeonp/Lenovo-CVE-2025-8061">	<img alt="stars" src="https://img.shields.io/github/stars/symeonp/Lenovo-CVE-2025-8061">
+
+---
 ## CVE-2025-8018 ()
 > 
 - [drackyjr/CVE-2025-8018](https://github.com/drackyjr/CVE-2025-8018)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2025-8018">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2025-8018">
@@ -378,6 +383,7 @@
 ## CVE-2025-61882 ()
 > 
 - [rxerium/CVE-2025-61882](https://github.com/rxerium/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-61882">
+- [allinsthon/CVE-2025-61882](https://github.com/allinsthon/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/allinsthon/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/allinsthon/CVE-2025-61882">
 
 ---
 ## CVE-2025-6085 ()
