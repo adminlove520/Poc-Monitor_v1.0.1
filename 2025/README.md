@@ -443,6 +443,12 @@
 - [d0n601/CVE-2025-5961](https://github.com/d0n601/CVE-2025-5961)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-5961">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-5961">
 
 ---
+## CVE-2025-59489 ()
+> 
+- [GithubKillsMyOpsec/CVE-2025-59489-POC](https://github.com/GithubKillsMyOpsec/CVE-2025-59489-POC)	<img alt="forks" src="https://img.shields.io/github/forks/GithubKillsMyOpsec/CVE-2025-59489-POC">	<img alt="stars" src="https://img.shields.io/github/stars/GithubKillsMyOpsec/CVE-2025-59489-POC">
+- [RealtekDotSys/Meteor](https://github.com/RealtekDotSys/Meteor)	<img alt="forks" src="https://img.shields.io/github/forks/RealtekDotSys/Meteor">	<img alt="stars" src="https://img.shields.io/github/stars/RealtekDotSys/Meteor">
+
+---
 ## CVE-2025-59424 ()
 > 
 - [JOOJIII/CVE-2025-59424](https://github.com/JOOJIII/CVE-2025-59424)	<img alt="forks" src="https://img.shields.io/github/forks/JOOJIII/CVE-2025-59424">	<img alt="stars" src="https://img.shields.io/github/stars/JOOJIII/CVE-2025-59424">
@@ -2543,6 +2549,7 @@
 ## CVE-2025-41244 ()
 > 
 - [rxerium/CVE-2025-41244](https://github.com/rxerium/CVE-2025-41244)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-41244">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-41244">
+- [haspiranti/CVE-2025-41244-PoC](https://github.com/haspiranti/CVE-2025-41244-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/haspiranti/CVE-2025-41244-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/haspiranti/CVE-2025-41244-PoC">
 
 ---
 ## CVE-2025-4123 ()
