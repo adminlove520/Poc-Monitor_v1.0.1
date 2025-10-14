@@ -427,6 +427,7 @@
 - [Sachinart/CVE-2025-61882](https://github.com/Sachinart/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-61882">
 - [B1ack4sh/Blackash-CVE-2025-61882](https://github.com/B1ack4sh/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-61882">
 - [zerozenxlabs/CVE-2025-61882-Oracle-EBS](https://github.com/zerozenxlabs/CVE-2025-61882-Oracle-EBS)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2025-61882-Oracle-EBS">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2025-61882-Oracle-EBS">
+- [PrismaScan/CVE-2025-61882](https://github.com/PrismaScan/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/PrismaScan/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/PrismaScan/CVE-2025-61882">
 
 ---
 ## CVE-2025-61777 ()
@@ -2788,6 +2789,7 @@
 - [DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)	<img alt="forks" src="https://img.shields.io/github/forks/DesDoTvl/CVE-2025-4123grafana">	<img alt="stars" src="https://img.shields.io/github/stars/DesDoTvl/CVE-2025-4123grafana">
 - [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-cve-2025-4123">
 - [ItsNee/Grafana-CVE-2025-4123-POC](https://github.com/ItsNee/Grafana-CVE-2025-4123-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Grafana-CVE-2025-4123-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Grafana-CVE-2025-4123-POC">
+- [MorphyKutay/CVE-2025-4123-Exploit](https://github.com/MorphyKutay/CVE-2025-4123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MorphyKutay/CVE-2025-4123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MorphyKutay/CVE-2025-4123-Exploit">
 
 ---
 ## CVE-2025-412027 ()
