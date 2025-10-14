@@ -34,6 +34,7 @@
 ## CVE-2025-9196 ()
 > 
 - [godfatherofexps/CVE-2025-9196-PoC](https://github.com/godfatherofexps/CVE-2025-9196-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/godfatherofexps/CVE-2025-9196-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/godfatherofexps/CVE-2025-9196-PoC">
+- [MooseLoveti/Trinity-Audio-CVE-Report](https://github.com/MooseLoveti/Trinity-Audio-CVE-Report)	<img alt="forks" src="https://img.shields.io/github/forks/MooseLoveti/Trinity-Audio-CVE-Report">	<img alt="stars" src="https://img.shields.io/github/stars/MooseLoveti/Trinity-Audio-CVE-Report">
 
 ---
 ## CVE-2025-9132 ()
