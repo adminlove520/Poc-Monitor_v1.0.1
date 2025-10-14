@@ -272,6 +272,7 @@
 ## CVE-2025-7441 ()
 > 
 - [Nxploited/CVE-2025-7441](https://github.com/Nxploited/CVE-2025-7441)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-7441">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-7441">
+- [Pwdnx1337/CVE-2025-7441](https://github.com/Pwdnx1337/CVE-2025-7441)	<img alt="forks" src="https://img.shields.io/github/forks/Pwdnx1337/CVE-2025-7441">	<img alt="stars" src="https://img.shields.io/github/stars/Pwdnx1337/CVE-2025-7441">
 
 ---
 ## CVE-2025-7404 ()
@@ -2815,6 +2816,11 @@
 > 
 - [Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stuub/CVE-2025-3969-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stuub/CVE-2025-3969-Exploit">
 - [Alif145/CVE-2025-3969-Exploit](https://github.com/Alif145/CVE-2025-3969-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Alif145/CVE-2025-3969-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Alif145/CVE-2025-3969-Exploit">
+
+---
+## CVE-2025-39682 ()
+> 
+- [khoatran107/cve-2025-39682](https://github.com/khoatran107/cve-2025-39682)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-39682">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-39682">
 
 ---
 ## CVE-2025-39601 ()
