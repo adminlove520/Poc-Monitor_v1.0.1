@@ -1515,6 +1515,7 @@
 ## CVE-2018-18441 ()
 > 
 - [bayazid-bit/CVE-2018-18441-exploit](https://github.com/bayazid-bit/CVE-2018-18441-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2018-18441-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2018-18441-exploit">
+- [AIDENTHOMASboi/CVE-2018-18441-exploit](https://github.com/AIDENTHOMASboi/CVE-2018-18441-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AIDENTHOMASboi/CVE-2018-18441-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AIDENTHOMASboi/CVE-2018-18441-exploit">
 
 ---
 ## CVE-2018-18439 (2018-11-20T19:29:00)
