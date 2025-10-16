@@ -395,6 +395,11 @@
 - [jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)	<img alt="forks" src="https://img.shields.io/github/forks/jujubooom/CVE-2025-6335">	<img alt="stars" src="https://img.shields.io/github/stars/jujubooom/CVE-2025-6335">
 
 ---
+## CVE-2025-62376 ()
+> 
+- [ProtocolAudit/CVE-2025-62376](https://github.com/ProtocolAudit/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/ProtocolAudit/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/ProtocolAudit/CVE-2025-62376">
+
+---
 ## CVE-2025-6220 ()
 > 
 - [d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)	<img alt="forks" src="https://img.shields.io/github/forks/d0n601/CVE-2025-6220">	<img alt="stars" src="https://img.shields.io/github/stars/d0n601/CVE-2025-6220">
@@ -1012,6 +1017,11 @@
 ## CVE-2025-55349 ()
 > 
 - [GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)	<img alt="forks" src="https://img.shields.io/github/forks/GoldenTicketLabs/CVE-2025-55349">	<img alt="stars" src="https://img.shields.io/github/stars/GoldenTicketLabs/CVE-2025-55349">
+
+---
+## CVE-2025-55315 ()
+> 
+- [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
@@ -1841,6 +1851,11 @@
 ## CVE-2025-49596 ()
 > 
 - [ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)	<img alt="forks" src="https://img.shields.io/github/forks/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">	<img alt="stars" src="https://img.shields.io/github/stars/ashiqrehan-21/MCP-Inspector-CVE-2025-49596">
+
+---
+## CVE-2025-49553 ()
+> 
+- [SysRooter/CVE-2025-49553](https://github.com/SysRooter/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/SysRooter/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/SysRooter/CVE-2025-49553">
 
 ---
 ## CVE-2025-49493 ()
