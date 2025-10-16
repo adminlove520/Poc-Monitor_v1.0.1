@@ -403,6 +403,7 @@
 ## CVE-2025-62376 ()
 > 
 - [ProtocolAudit/CVE-2025-62376](https://github.com/ProtocolAudit/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/ProtocolAudit/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/ProtocolAudit/CVE-2025-62376">
+- [digitalsnemesis/CVE-2025-62376](https://github.com/digitalsnemesis/CVE-2025-62376)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsnemesis/CVE-2025-62376">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsnemesis/CVE-2025-62376">
 
 ---
 ## CVE-2025-6220 ()
@@ -1035,6 +1036,7 @@
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
 - [nickcopi/CVE-2025-55315-detection-playground](https://github.com/nickcopi/CVE-2025-55315-detection-playground)	<img alt="forks" src="https://img.shields.io/github/forks/nickcopi/CVE-2025-55315-detection-playground">	<img alt="stars" src="https://img.shields.io/github/stars/nickcopi/CVE-2025-55315-detection-playground">
 - [sirredbeard/CVE-2025-55315-repro](https://github.com/sirredbeard/CVE-2025-55315-repro)	<img alt="forks" src="https://img.shields.io/github/forks/sirredbeard/CVE-2025-55315-repro">	<img alt="stars" src="https://img.shields.io/github/stars/sirredbeard/CVE-2025-55315-repro">
+- [snowcrashlord/CVE-2025-55315](https://github.com/snowcrashlord/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/snowcrashlord/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/snowcrashlord/CVE-2025-55315">
 
 ---
 ## CVE-2025-55287 ()
@@ -1869,6 +1871,7 @@
 ## CVE-2025-49553 ()
 > 
 - [SysRooter/CVE-2025-49553](https://github.com/SysRooter/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/SysRooter/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/SysRooter/CVE-2025-49553">
+- [silentexploitexe/CVE-2025-49553](https://github.com/silentexploitexe/CVE-2025-49553)	<img alt="forks" src="https://img.shields.io/github/forks/silentexploitexe/CVE-2025-49553">	<img alt="stars" src="https://img.shields.io/github/stars/silentexploitexe/CVE-2025-49553">
 
 ---
 ## CVE-2025-49493 ()
@@ -5615,6 +5618,11 @@
 - [ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi](https://github.com/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/ishwardeepp/CVE-2025-1094-PoC-Postgre-SQLi">
 - [aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/aninfosec/CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/aninfosec/CVE-2025-1094">
 - [B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1094">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1094">
+
+---
+## CVE-2025-10850 ()
+> 
+- [pulsecipher/CVE-2025-10850](https://github.com/pulsecipher/CVE-2025-10850)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-10850">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-10850">
 
 ---
 ## CVE-2025-10792 ()
