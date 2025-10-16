@@ -449,6 +449,7 @@
 - [HexSentinel-cmd/CVE-2025-61882](https://github.com/HexSentinel-cmd/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/HexSentinel-cmd/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/HexSentinel-cmd/CVE-2025-61882">
 - [RootAid/CVE-2025-61882](https://github.com/RootAid/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2025-61882">
 - [MindflareX/CVE-2025-61882-POC](https://github.com/MindflareX/CVE-2025-61882-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MindflareX/CVE-2025-61882-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MindflareX/CVE-2025-61882-POC">
+- [AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit](https://github.com/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-61882-Oracle-E-Business-Suite-Pre-Auth-RCE-Exploit">
 
 ---
 ## CVE-2025-61777 ()
@@ -852,6 +853,11 @@
 - [secxplorers/CVE-2025-56503](https://github.com/secxplorers/CVE-2025-56503)	<img alt="forks" src="https://img.shields.io/github/forks/secxplorers/CVE-2025-56503">	<img alt="stars" src="https://img.shields.io/github/stars/secxplorers/CVE-2025-56503">
 
 ---
+## CVE-2025-56450 ()
+> 
+- [apboss123/CVE-2025-56450](https://github.com/apboss123/CVE-2025-56450)	<img alt="forks" src="https://img.shields.io/github/forks/apboss123/CVE-2025-56450">	<img alt="stars" src="https://img.shields.io/github/stars/apboss123/CVE-2025-56450">
+
+---
 ## CVE-2025-56435 ()
 > 
 - [Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)	<img alt="forks" src="https://img.shields.io/github/forks/Jingyi-u/-CVE-2025-56435">	<img alt="stars" src="https://img.shields.io/github/stars/Jingyi-u/-CVE-2025-56435">
@@ -1027,6 +1033,7 @@
 ## CVE-2025-55315 ()
 > 
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
+- [nickcopi/CVE-2025-55315-detection-playground](https://github.com/nickcopi/CVE-2025-55315-detection-playground)	<img alt="forks" src="https://img.shields.io/github/forks/nickcopi/CVE-2025-55315-detection-playground">	<img alt="stars" src="https://img.shields.io/github/stars/nickcopi/CVE-2025-55315-detection-playground">
 
 ---
 ## CVE-2025-55287 ()
