@@ -6011,6 +6011,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [ViktorNaum/CVE-2024-31497-POC](https://github.com/ViktorNaum/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ViktorNaum/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ViktorNaum/CVE-2024-31497-POC">
 - [HugoBond/CVE-2024-31497-POC](https://github.com/HugoBond/CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/HugoBond/CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/HugoBond/CVE-2024-31497-POC">
 - [LukaWynants/Onderzoek_CVE-2024-31497-POC](https://github.com/LukaWynants/Onderzoek_CVE-2024-31497-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LukaWynants/Onderzoek_CVE-2024-31497-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LukaWynants/Onderzoek_CVE-2024-31497-POC">
+- [RUB-NDS/SSH-Client-Signatures-Artifacts](https://github.com/RUB-NDS/SSH-Client-Signatures-Artifacts)	<img alt="forks" src="https://img.shields.io/github/forks/RUB-NDS/SSH-Client-Signatures-Artifacts">	<img alt="stars" src="https://img.shields.io/github/stars/RUB-NDS/SSH-Client-Signatures-Artifacts">
+- [daedalus/BreakingECDSAwithLLL](https://github.com/daedalus/BreakingECDSAwithLLL)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/BreakingECDSAwithLLL">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/BreakingECDSAwithLLL">
 
 ---
 ## CVE-2024-31449 ()
