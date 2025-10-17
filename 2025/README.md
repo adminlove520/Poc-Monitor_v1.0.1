@@ -188,6 +188,11 @@
 - [aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool](https://github.com/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/aldisakti2/CVE-2025-8088-BUILDER-Winrar-Tool">
 
 ---
+## CVE-2025-8081 ()
+> 
+- [LyesH4ck/CVE-2025-8081-Elementor](https://github.com/LyesH4ck/CVE-2025-8081-Elementor)	<img alt="forks" src="https://img.shields.io/github/forks/LyesH4ck/CVE-2025-8081-Elementor">	<img alt="stars" src="https://img.shields.io/github/stars/LyesH4ck/CVE-2025-8081-Elementor">
+
+---
 ## CVE-2025-8067 ()
 > 
 - [born0monday/CVE-2025-8067](https://github.com/born0monday/CVE-2025-8067)	<img alt="forks" src="https://img.shields.io/github/forks/born0monday/CVE-2025-8067">	<img alt="stars" src="https://img.shields.io/github/stars/born0monday/CVE-2025-8067">
