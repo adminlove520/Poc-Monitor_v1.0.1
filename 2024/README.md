@@ -9916,6 +9916,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 ## CVE-2024-11392 ()
 > 
 - [Piyush-Bhor/CVE-2024-11392](https://github.com/Piyush-Bhor/CVE-2024-11392)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Bhor/CVE-2024-11392">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Bhor/CVE-2024-11392">
+- [stuxbench/vllm-cve-2024-11392-injected](https://github.com/stuxbench/vllm-cve-2024-11392-injected)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/vllm-cve-2024-11392-injected">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/vllm-cve-2024-11392-injected">
 
 ---
 ## CVE-2024-11388 (2024-11-21T11:15:00)
