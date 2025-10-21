@@ -245,6 +245,11 @@
 - [Live-Hack-CVE/CVE-2017-7886](https://github.com/Live-Hack-CVE/CVE-2017-7886)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7886">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7886">
 
 ---
+## CVE-2017-7679 ()
+> 
+- [Al-Lord0x/CVE-2017-7679](https://github.com/Al-Lord0x/CVE-2017-7679)	<img alt="forks" src="https://img.shields.io/github/forks/Al-Lord0x/CVE-2017-7679">	<img alt="stars" src="https://img.shields.io/github/stars/Al-Lord0x/CVE-2017-7679">
+
+---
 ## CVE-2017-7615 (2017-04-16T14:59:00)
 > MantisBT through 2.3.0 allows arbitrary password reset and unauthenticated admin access via an empty confirm_hash value to verify.php.
 - [Live-Hack-CVE/CVE-2017-7615](https://github.com/Live-Hack-CVE/CVE-2017-7615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7615">
