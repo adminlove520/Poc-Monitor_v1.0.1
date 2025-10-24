@@ -5599,6 +5599,12 @@
 - [masahiro331/CVE-2020-11984](https://github.com/masahiro331/CVE-2020-11984)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2020-11984">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2020-11984">
 
 ---
+## CVE-2020-11978 ()
+> 
+- [stuxbench/mlflow-cve-2020-11978](https://github.com/stuxbench/mlflow-cve-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/stuxbench/mlflow-cve-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/stuxbench/mlflow-cve-2020-11978">
+- [pberba/CVE-2020-11978](https://github.com/pberba/CVE-2020-11978)	<img alt="forks" src="https://img.shields.io/github/forks/pberba/CVE-2020-11978">	<img alt="stars" src="https://img.shields.io/github/stars/pberba/CVE-2020-11978">
+
+---
 ## CVE-2020-11958 (2020-04-21T01:15:00)
 > re2c 1.3 has a heap-based buffer overflow in Scanner::fill in parse/scanner.cc via a long lexeme.
 - [Live-Hack-CVE/CVE-2020-11958](https://github.com/Live-Hack-CVE/CVE-2020-11958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-11958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-11958">
