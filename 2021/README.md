@@ -1081,6 +1081,9 @@
 ## CVE-2021-44142 ()
 > 
 - [WinDyAlphA/CVE-2021-44142-vulnerable-lab](https://github.com/WinDyAlphA/CVE-2021-44142-vulnerable-lab)	<img alt="forks" src="https://img.shields.io/github/forks/WinDyAlphA/CVE-2021-44142-vulnerable-lab">	<img alt="stars" src="https://img.shields.io/github/stars/WinDyAlphA/CVE-2021-44142-vulnerable-lab">
+- [gudyrmik/CVE-2021-44142](https://github.com/gudyrmik/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/gudyrmik/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/gudyrmik/CVE-2021-44142">
+- [horizon3ai/CVE-2021-44142](https://github.com/horizon3ai/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44142">
+- [hrsman/Samba-CVE-2021-44142](https://github.com/hrsman/Samba-CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/hrsman/Samba-CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/hrsman/Samba-CVE-2021-44142">
 
 ---
 ## CVE-2021-44103 (2022-03-28T14:15:00)
