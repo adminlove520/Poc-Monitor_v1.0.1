@@ -2067,6 +2067,7 @@
 - [Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner](https://github.com/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Mufti22/CVE-2025-49844-RediShell-Vulnerability-Scanner">
 - [imbas007/CVE-2025-49844-Vulnerability-Scanner](https://github.com/imbas007/CVE-2025-49844-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-49844-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-49844-Vulnerability-Scanner">
 - [angelusrivera/CVE-2025-49844](https://github.com/angelusrivera/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/angelusrivera/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/angelusrivera/CVE-2025-49844">
+- [Zain3311/CVE-2025-49844](https://github.com/Zain3311/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Zain3311/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Zain3311/CVE-2025-49844">
 
 ---
 ## CVE-2025-49721 ()
