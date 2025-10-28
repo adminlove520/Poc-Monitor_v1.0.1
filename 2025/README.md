@@ -802,6 +802,7 @@
 ## CVE-2025-59230 ()
 > 
 - [moegameka/CVE-2025-59230](https://github.com/moegameka/CVE-2025-59230)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/CVE-2025-59230">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/CVE-2025-59230">
+- [moegameka/CVE-2025-59230-LPE](https://github.com/moegameka/CVE-2025-59230-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/moegameka/CVE-2025-59230-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/moegameka/CVE-2025-59230-LPE">
 
 ---
 ## CVE-2025-58789 ()
