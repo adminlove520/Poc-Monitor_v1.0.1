@@ -6035,6 +6035,11 @@
 - [ZeroByte8/CVE-2025-11534](https://github.com/ZeroByte8/CVE-2025-11534)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroByte8/CVE-2025-11534">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroByte8/CVE-2025-11534">
 
 ---
+## CVE-2025-11499 ()
+> 
+- [rootreapers/CVE-2025-11499](https://github.com/rootreapers/CVE-2025-11499)	<img alt="forks" src="https://img.shields.io/github/forks/rootreapers/CVE-2025-11499">	<img alt="stars" src="https://img.shields.io/github/stars/rootreapers/CVE-2025-11499">
+
+---
 ## CVE-2025-11449 ()
 > 
 - [DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script](https://github.com/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/DanielMadsenDK/ServiceNow-CVE-2025-11449-CVE-2025-11450-Mitigation-Script">
