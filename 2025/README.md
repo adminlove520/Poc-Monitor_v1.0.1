@@ -832,6 +832,7 @@
 - [esteban11121/WSUS-RCE-Mitigation-59287](https://github.com/esteban11121/WSUS-RCE-Mitigation-59287)	<img alt="forks" src="https://img.shields.io/github/forks/esteban11121/WSUS-RCE-Mitigation-59287">	<img alt="stars" src="https://img.shields.io/github/stars/esteban11121/WSUS-RCE-Mitigation-59287">
 - [fsanzmoya/wsus_CVE-2025-59287](https://github.com/fsanzmoya/wsus_CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/fsanzmoya/wsus_CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/fsanzmoya/wsus_CVE-2025-59287">
 - [0x7556/CVE-2025-59287](https://github.com/0x7556/CVE-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2025-59287">
+- [QurtiDev/WSUS-CVE-2025-59287-RCE](https://github.com/QurtiDev/WSUS-CVE-2025-59287-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/QurtiDev/WSUS-CVE-2025-59287-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/QurtiDev/WSUS-CVE-2025-59287-RCE">
 
 ---
 ## CVE-2025-59285 ()
@@ -6039,6 +6040,7 @@
 ## CVE-2025-11499 ()
 > 
 - [rootreapers/CVE-2025-11499](https://github.com/rootreapers/CVE-2025-11499)	<img alt="forks" src="https://img.shields.io/github/forks/rootreapers/CVE-2025-11499">	<img alt="stars" src="https://img.shields.io/github/stars/rootreapers/CVE-2025-11499">
+- [usjnx72726w/CVE-2025-11499-LAB](https://github.com/usjnx72726w/CVE-2025-11499-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-11499-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-11499-LAB">
 
 ---
 ## CVE-2025-11449 ()
