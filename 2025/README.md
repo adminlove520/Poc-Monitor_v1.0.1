@@ -1408,6 +1408,11 @@
 - [Ash1996x/CVE-2025-54914-PoC](https://github.com/Ash1996x/CVE-2025-54914-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ash1996x/CVE-2025-54914-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ash1996x/CVE-2025-54914-PoC">
 
 ---
+## CVE-2025-54897 ()
+> 
+- [themaxlpalfaboy/CVE-2025-54897-LAB](https://github.com/themaxlpalfaboy/CVE-2025-54897-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/themaxlpalfaboy/CVE-2025-54897-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/themaxlpalfaboy/CVE-2025-54897-LAB">
+
+---
 ## CVE-2025-54887 ()
 > 
 - [shinigami-777/PoC_CVE-2025-54887](https://github.com/shinigami-777/PoC_CVE-2025-54887)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-54887">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-54887">
