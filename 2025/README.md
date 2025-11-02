@@ -212,6 +212,7 @@
 - [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder)	<img alt="forks" src="https://img.shields.io/github/forks/papcaii2004/CVE-2025-8088-WinRAR-builder">	<img alt="stars" src="https://img.shields.io/github/stars/papcaii2004/CVE-2025-8088-WinRAR-builder">
 - [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
 - [mocred/cve-2025-8088](https://github.com/mocred/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/mocred/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/mocred/cve-2025-8088">
+- [B1ack4sh/Blackash-CVE-2025-8088](https://github.com/B1ack4sh/Blackash-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
@@ -6038,6 +6039,11 @@
 - [Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Maitonnx/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Walekmw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
 - [Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/Tarimaow/Anydesk-Exploit-CVE-2025-12654-RCE-Builder">
+
+---
+## CVE-2025-12595 ()
+> 
+- [lagerhaker539/CVE-2025-12595-POC](https://github.com/lagerhaker539/CVE-2025-12595-POC)	<img alt="forks" src="https://img.shields.io/github/forks/lagerhaker539/CVE-2025-12595-POC">	<img alt="stars" src="https://img.shields.io/github/stars/lagerhaker539/CVE-2025-12595-POC">
 
 ---
 ## CVE-2025-11833 ()
