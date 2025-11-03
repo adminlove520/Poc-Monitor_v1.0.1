@@ -6081,6 +6081,11 @@
 - [callinston/CVE-2025-12437](https://github.com/callinston/CVE-2025-12437)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-12437">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-12437">
 
 ---
+## CVE-2025-12428 ()
+> 
+- [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
+
+---
 ## CVE-2025-11833 ()
 > 
 - [modhopmarrow1973/CVE-2025-11833-LAB](https://github.com/modhopmarrow1973/CVE-2025-11833-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/modhopmarrow1973/CVE-2025-11833-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/modhopmarrow1973/CVE-2025-11833-LAB">
