@@ -3103,7 +3103,7 @@
 - [zzwlpx/weblogicPoc](https://github.com/zzwlpx/weblogicPoc)	<img alt="forks" src="https://img.shields.io/github/forks/zzwlpx/weblogicPoc">	<img alt="stars" src="https://img.shields.io/github/stars/zzwlpx/weblogicPoc">
 - [DSO-Lab/defvul](https://github.com/DSO-Lab/defvul)	<img alt="forks" src="https://img.shields.io/github/forks/DSO-Lab/defvul">	<img alt="stars" src="https://img.shields.io/github/stars/DSO-Lab/defvul">
 - [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
-- [0xAbbarhSF/CVE-Exploit](https://github.com/0xAbbarhSF/CVE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xAbbarhSF/CVE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xAbbarhSF/CVE-Exploit">
+- [ar2o3/CVE-Exploit](https://github.com/ar2o3/CVE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ar2o3/CVE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ar2o3/CVE-Exploit">
 - [LTiDi2000/CVE-2020-2551](https://github.com/LTiDi2000/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/LTiDi2000/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/LTiDi2000/CVE-2020-2551">
 - [gobysec/Goby](https://github.com/gobysec/Goby)	<img alt="forks" src="https://img.shields.io/github/forks/gobysec/Goby">	<img alt="stars" src="https://img.shields.io/github/stars/gobysec/Goby">
 - [dream0x01/weblogic-framework](https://github.com/dream0x01/weblogic-framework)	<img alt="forks" src="https://img.shields.io/github/forks/dream0x01/weblogic-framework">	<img alt="stars" src="https://img.shields.io/github/stars/dream0x01/weblogic-framework">
@@ -3117,6 +3117,8 @@
 - [jas502n/CVE-2020-2551](https://github.com/jas502n/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-2551">
 - [w3security/CVE-2020-2551](https://github.com/w3security/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/w3security/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/w3security/CVE-2020-2551">
 - [Live-Hack-CVE/CVE-2020-2551](https://github.com/Live-Hack-CVE/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2551">
+- [B1ack4sh/Blackash-CVE-2020-2551](https://github.com/B1ack4sh/Blackash-CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-2551">
+- [DaMinGshidashi/CVE-2020-2551](https://github.com/DaMinGshidashi/CVE-2020-2551)	<img alt="forks" src="https://img.shields.io/github/forks/DaMinGshidashi/CVE-2020-2551">	<img alt="stars" src="https://img.shields.io/github/stars/DaMinGshidashi/CVE-2020-2551">
 
 ---
 ## CVE-2020-25502 (2023-01-20T21:15:00)
@@ -4730,6 +4732,7 @@
 - [B1anda0/CVE-2020-14883](https://github.com/B1anda0/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/B1anda0/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/B1anda0/CVE-2020-14883">
 - [murataydemir/CVE-2020-14883](https://github.com/murataydemir/CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2020-14883">
 - [NS-Sp4ce/CVE-2020-14882](https://github.com/NS-Sp4ce/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Sp4ce/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Sp4ce/CVE-2020-14882">
+- [B1ack4sh/Blackash-CVE-2020-14883](https://github.com/B1ack4sh/Blackash-CVE-2020-14883)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2020-14883">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2020-14883">
 
 ---
 ## CVE-2020-14882 (2020-10-21T15:15:00)
