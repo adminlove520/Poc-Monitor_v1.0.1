@@ -1210,6 +1210,7 @@
 - [rasinfosec/CVE-2018-25031](https://github.com/rasinfosec/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/rasinfosec/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/rasinfosec/CVE-2018-25031">
 - [labeebSabbah/CVE-2018-25031](https://github.com/labeebSabbah/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/labeebSabbah/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/labeebSabbah/CVE-2018-25031">
 - [labeebSabbah/CVE-2018-25031](https://github.com/labeebSabbah/CVE-2018-25031)	<img alt="forks" src="https://img.shields.io/github/forks/labeebSabbah/CVE-2018-25031">	<img alt="stars" src="https://img.shields.io/github/stars/labeebSabbah/CVE-2018-25031">
+- [RelicHunt3r/swagger-ui](https://github.com/RelicHunt3r/swagger-ui)	<img alt="forks" src="https://img.shields.io/github/forks/RelicHunt3r/swagger-ui">	<img alt="stars" src="https://img.shields.io/github/stars/RelicHunt3r/swagger-ui">
 
 ---
 ## CVE-2018-25014 (2021-05-21T17:15:00)
