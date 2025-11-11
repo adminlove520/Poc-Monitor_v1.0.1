@@ -2072,6 +2072,11 @@
 - [mattysaints/CVE-2018-14371](https://github.com/mattysaints/CVE-2018-14371)	<img alt="forks" src="https://img.shields.io/github/forks/mattysaints/CVE-2018-14371">	<img alt="stars" src="https://img.shields.io/github/stars/mattysaints/CVE-2018-14371">
 
 ---
+## CVE-2018-14324 ()
+> 
+- [matejsmycka/CVE-2018-14324-Exploit](https://github.com/matejsmycka/CVE-2018-14324-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/matejsmycka/CVE-2018-14324-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/matejsmycka/CVE-2018-14324-Exploit">
+
+---
 ## CVE-2018-1386 (2018-03-14T00:29:00)
 > IBM Tivoli Workload Automation for AIX (IBM Workload Scheduler 8.6, 9.1, 9.2, 9.3, and 9.4) contains directories with improper permissions that could allow a local user to with special access to gain root privileges. IBM X-Force ID: 138208.
 - [Live-Hack-CVE/CVE-2018-1386](https://github.com/Live-Hack-CVE/CVE-2018-1386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1386">
