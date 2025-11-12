@@ -486,6 +486,11 @@
 - [maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)	<img alt="forks" src="https://img.shields.io/github/forks/maestro-ant/CrafterCMS-CVE-2025-6384">	<img alt="stars" src="https://img.shields.io/github/stars/maestro-ant/CrafterCMS-CVE-2025-6384">
 
 ---
+## CVE-2025-63830 ()
+> 
+- [Shubham03007/CVE-2025-63830](https://github.com/Shubham03007/CVE-2025-63830)	<img alt="forks" src="https://img.shields.io/github/forks/Shubham03007/CVE-2025-63830">	<img alt="stars" src="https://img.shields.io/github/stars/Shubham03007/CVE-2025-63830">
+
+---
 ## CVE-2025-63667 ()
 > 
 - [Remenis/CVE-2025-63667](https://github.com/Remenis/CVE-2025-63667)	<img alt="forks" src="https://img.shields.io/github/forks/Remenis/CVE-2025-63667">	<img alt="stars" src="https://img.shields.io/github/stars/Remenis/CVE-2025-63667">
@@ -4306,6 +4311,7 @@
 - [sahar042/CVE-2025-31133](https://github.com/sahar042/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2025-31133">
 - [skynet-f-nvidia/CVE-2025-31133](https://github.com/skynet-f-nvidia/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/skynet-f-nvidia/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/skynet-f-nvidia/CVE-2025-31133">
 - [skynet-f-nvidia/CVE-2025-31133](https://github.com/skynet-f-nvidia/CVE-2025-31133)	<img alt="forks" src="https://img.shields.io/github/forks/skynet-f-nvidia/CVE-2025-31133">	<img alt="stars" src="https://img.shields.io/github/stars/skynet-f-nvidia/CVE-2025-31133">
+- [omne-earth/arca](https://github.com/omne-earth/arca)	<img alt="forks" src="https://img.shields.io/github/forks/omne-earth/arca">	<img alt="stars" src="https://img.shields.io/github/stars/omne-earth/arca">
 
 ---
 ## CVE-2025-31131 ()
