@@ -6344,6 +6344,11 @@
 - [Nxploited/CVE-2025-1304](https://github.com/Nxploited/CVE-2025-1304)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1304">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1304">
 
 ---
+## CVE-2025-13027 ()
+> 
+- [yourluckyday3-art/CVE-2025-13027-Exploit](https://github.com/yourluckyday3-art/CVE-2025-13027-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yourluckyday3-art/CVE-2025-13027-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yourluckyday3-art/CVE-2025-13027-Exploit">
+
+---
 ## CVE-2025-1302 ()
 > 
 - [EQSTLab/CVE-2025-1302](https://github.com/EQSTLab/CVE-2025-1302)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-1302">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-1302">
