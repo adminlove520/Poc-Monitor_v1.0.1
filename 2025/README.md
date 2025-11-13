@@ -464,6 +464,11 @@
 - [B1ack4sh/Blackash-CVE-2025-64513](https://github.com/B1ack4sh/Blackash-CVE-2025-64513)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64513">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64513">
 
 ---
+## CVE-2025-64500 ()
+> 
+- [B1ack4sh/Blackash-CVE-2025-64500](https://github.com/B1ack4sh/Blackash-CVE-2025-64500)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64500">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64500">
+
+---
 ## CVE-2025-64495 ()
 > 
 - [AlphabugX/CVE-2025-64495-POC](https://github.com/AlphabugX/CVE-2025-64495-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2025-64495-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2025-64495-POC">
@@ -6189,6 +6194,7 @@
 > 
 - [barbaraeivyu/CVE-2025-20337-EXP](https://github.com/barbaraeivyu/CVE-2025-20337-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraeivyu/CVE-2025-20337-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraeivyu/CVE-2025-20337-EXP">
 - [rxerium/CVE-2025-20337](https://github.com/rxerium/CVE-2025-20337)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-20337">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-20337">
+- [B1ack4sh/Blackash-CVE-2025-20337](https://github.com/B1ack4sh/Blackash-CVE-2025-20337)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-20337">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-20337">
 
 ---
 ## CVE-2025-20333 ()
