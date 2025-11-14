@@ -637,6 +637,7 @@
 ## CVE-2025-62215 ()
 > 
 - [fordeant/CVE-2025-62215](https://github.com/fordeant/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/fordeant/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/fordeant/CVE-2025-62215">
+- [dexterm300/CVE-2025-62215-exploit-poc](https://github.com/dexterm300/CVE-2025-62215-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/CVE-2025-62215-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/CVE-2025-62215-exploit-poc">
 
 ---
 ## CVE-2025-6220 ()
@@ -2630,6 +2631,11 @@
 > 
 - [nankuo/CVE-2025-48976_CVE-2025-48988](https://github.com/nankuo/CVE-2025-48976_CVE-2025-48988)	<img alt="forks" src="https://img.shields.io/github/forks/nankuo/CVE-2025-48976_CVE-2025-48988">	<img alt="stars" src="https://img.shields.io/github/stars/nankuo/CVE-2025-48976_CVE-2025-48988">
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
+
+---
+## CVE-2025-48932 ()
+> 
+- [XploitGh0st/CVE-2025-48932---exploit](https://github.com/XploitGh0st/CVE-2025-48932---exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XploitGh0st/CVE-2025-48932---exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XploitGh0st/CVE-2025-48932---exploit">
 
 ---
 ## CVE-2025-48903 ()
