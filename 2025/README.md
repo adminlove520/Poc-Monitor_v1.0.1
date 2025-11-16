@@ -629,6 +629,11 @@
 - [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296)	<img alt="forks" src="https://img.shields.io/github/forks/t4e-3/CVE-2025-63296">	<img alt="stars" src="https://img.shields.io/github/stars/t4e-3/CVE-2025-63296">
 
 ---
+## CVE-2025-62950 ()
+> 
+- [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
+
+---
 ## CVE-2025-62726 ()
 > 
 - [Malayke/CVE-2025-62726-payload-repo](https://github.com/Malayke/CVE-2025-62726-payload-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Malayke/CVE-2025-62726-payload-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Malayke/CVE-2025-62726-payload-repo">
@@ -2764,6 +2769,7 @@
 - [letchupkt/CVE-2025-48593](https://github.com/letchupkt/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/letchupkt/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/letchupkt/CVE-2025-48593">
 - [GiladLeef/CVE-2025-48593](https://github.com/GiladLeef/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/GiladLeef/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/GiladLeef/CVE-2025-48593">
 - [rana3333s/CVE-2025-48593](https://github.com/rana3333s/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/rana3333s/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/rana3333s/CVE-2025-48593">
+- [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/blueshrimp">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/blueshrimp">
 
 ---
 ## CVE-2025-48543 ()
