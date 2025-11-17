@@ -3851,6 +3851,7 @@ use after free.
 - [MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation](https://github.com/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation)	<img alt="forks" src="https://img.shields.io/github/forks/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation">	<img alt="stars" src="https://img.shields.io/github/stars/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation">
 - [josemlwdf/CVE-2019-13272](https://github.com/josemlwdf/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/josemlwdf/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/josemlwdf/CVE-2019-13272">
 - [letsr00t/CVE-2019-13272](https://github.com/letsr00t/CVE-2019-13272)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2019-13272">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2019-13272">
+- [Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/ptrace-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/ptrace-vuln">
 
 ---
 ## CVE-2019-13223 (2019-08-15T17:15:00)
