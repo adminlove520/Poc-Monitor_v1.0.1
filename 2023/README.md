@@ -7052,6 +7052,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/Business1sg00d/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/Business1sg00d/CVE-2023-25136">
 - [malvika-thakur/CVE-2023-25136](https://github.com/malvika-thakur/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/malvika-thakur/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/malvika-thakur/CVE-2023-25136">
 - [mrmtwoj/CVE-2023-25136](https://github.com/mrmtwoj/CVE-2023-25136)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/CVE-2023-25136">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/CVE-2023-25136">
+- [Lane0218/CVE-2023-25136-PoC](https://github.com/Lane0218/CVE-2023-25136-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Lane0218/CVE-2023-25136-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Lane0218/CVE-2023-25136-PoC">
 
 ---
 ## CVE-2023-25135 (2023-02-03T05:15:00)
