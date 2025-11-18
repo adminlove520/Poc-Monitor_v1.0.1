@@ -1072,6 +1072,7 @@
 - [Apohub55/Slient-URL-Exploit](https://github.com/Apohub55/Slient-URL-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Apohub55/Slient-URL-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Apohub55/Slient-URL-Exploit">
 - [Bokbong909/patch-finder](https://github.com/Bokbong909/patch-finder)	<img alt="forks" src="https://img.shields.io/github/forks/Bokbong909/patch-finder">	<img alt="stars" src="https://img.shields.io/github/stars/Bokbong909/patch-finder">
 - [Mintimate/log4j2-bugmaker](https://github.com/Mintimate/log4j2-bugmaker)	<img alt="forks" src="https://img.shields.io/github/forks/Mintimate/log4j2-bugmaker">	<img alt="stars" src="https://img.shields.io/github/stars/Mintimate/log4j2-bugmaker">
+- [PCMKUIT/CVE-2021-44228---Log4Shell-Analysis](https://github.com/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/PCMKUIT/CVE-2021-44228---Log4Shell-Analysis">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
