@@ -9233,6 +9233,7 @@
 - [NukingDragons/gitlab-cve-2021-22205](https://github.com/NukingDragons/gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/NukingDragons/gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/NukingDragons/gitlab-cve-2021-22205">
 - [0xn0ne/simple-scanner](https://github.com/0xn0ne/simple-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/simple-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/simple-scanner">
 - [cc3305/CVE-2021-22205](https://github.com/cc3305/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22205">
+- [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)
@@ -10101,6 +10102,10 @@
 - [Sp4ceDogy/NPE-CS-V-CVE-2021-1675](https://github.com/Sp4ceDogy/NPE-CS-V-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/Sp4ceDogy/NPE-CS-V-CVE-2021-1675">
 - [DLL00P/CVE-2021-1675](https://github.com/DLL00P/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/DLL00P/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/DLL00P/CVE-2021-1675">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
+- [ccordeiro/CVE-2021-1675](https://github.com/ccordeiro/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-1675">
+- [VoiidByte/Impacket](https://github.com/VoiidByte/Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/VoiidByte/Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/VoiidByte/Impacket">
+- [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
+- [000Tonio/cve-2021-1675](https://github.com/000Tonio/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/000Tonio/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/000Tonio/cve-2021-1675">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
