@@ -601,6 +601,11 @@
 - [barisbaydur/CVE-2025-63579](https://github.com/barisbaydur/CVE-2025-63579)	<img alt="forks" src="https://img.shields.io/github/forks/barisbaydur/CVE-2025-63579">	<img alt="stars" src="https://img.shields.io/github/stars/barisbaydur/CVE-2025-63579">
 
 ---
+## CVE-2025-63572 ()
+> 
+- [RRespxwnss/CVE-2025-63572](https://github.com/RRespxwnss/CVE-2025-63572)	<img alt="forks" src="https://img.shields.io/github/forks/RRespxwnss/CVE-2025-63572">	<img alt="stars" src="https://img.shields.io/github/stars/RRespxwnss/CVE-2025-63572">
+
+---
 ## CVE-2025-63571 ()
 > 
 - [RRespxwnss/CVE-2025-63571](https://github.com/RRespxwnss/CVE-2025-63571)	<img alt="forks" src="https://img.shields.io/github/forks/RRespxwnss/CVE-2025-63571">	<img alt="stars" src="https://img.shields.io/github/stars/RRespxwnss/CVE-2025-63571">
