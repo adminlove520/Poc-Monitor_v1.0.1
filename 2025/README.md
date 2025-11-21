@@ -1174,6 +1174,7 @@
 - [N3k0t-dev/PoC-CVE-collection](https://github.com/N3k0t-dev/PoC-CVE-collection)	<img alt="forks" src="https://img.shields.io/github/forks/N3k0t-dev/PoC-CVE-collection">	<img alt="stars" src="https://img.shields.io/github/stars/N3k0t-dev/PoC-CVE-collection">
 - [M507/CVE-2025-59287-PoC](https://github.com/M507/CVE-2025-59287-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/M507/CVE-2025-59287-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/M507/CVE-2025-59287-PoC">
 - [Adel-kaka-dz/cve-2025-59287](https://github.com/Adel-kaka-dz/cve-2025-59287)	<img alt="forks" src="https://img.shields.io/github/forks/Adel-kaka-dz/cve-2025-59287">	<img alt="stars" src="https://img.shields.io/github/stars/Adel-kaka-dz/cve-2025-59287">
+- [mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments](https://github.com/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/WSUS-Patch-Level-Scanner-A-Lightweight-Tool-for-Detecting-Vulnerable-Microsoft-WSUS-Deployments">
 
 ---
 ## CVE-2025-59285 ()
@@ -6631,6 +6632,11 @@
 ## CVE-2025-12917 ()
 > 
 - [0xcucumbersalad/CVE-2025-12917-PoC](https://github.com/0xcucumbersalad/CVE-2025-12917-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-12917-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-12917-PoC">
+
+---
+## CVE-2025-12916 ()
+> 
+- [Jinxia62/Sangfor-CVE-2025-12916](https://github.com/Jinxia62/Sangfor-CVE-2025-12916)	<img alt="forks" src="https://img.shields.io/github/forks/Jinxia62/Sangfor-CVE-2025-12916">	<img alt="stars" src="https://img.shields.io/github/stars/Jinxia62/Sangfor-CVE-2025-12916">
 
 ---
 ## CVE-2025-12907 ()
