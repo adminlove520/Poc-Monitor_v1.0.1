@@ -341,6 +341,7 @@
 - [Live-Hack-CVE/CVE-2017-7494](https://github.com/Live-Hack-CVE/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7494">
 - [FelipeR-UFBA/cve-2017-7494-fixed](https://github.com/FelipeR-UFBA/cve-2017-7494-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FelipeR-UFBA/cve-2017-7494-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FelipeR-UFBA/cve-2017-7494-fixed">
 - [NhutMinh2801/CVE_2017_7494](https://github.com/NhutMinh2801/CVE_2017_7494)	<img alt="forks" src="https://img.shields.io/github/forks/NhutMinh2801/CVE_2017_7494">	<img alt="stars" src="https://img.shields.io/github/stars/NhutMinh2801/CVE_2017_7494">
+- [FelipeR-UFBA/cve-2017-7494-fixed](https://github.com/FelipeR-UFBA/cve-2017-7494-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FelipeR-UFBA/cve-2017-7494-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FelipeR-UFBA/cve-2017-7494-fixed">
 
 ---
 ## CVE-2017-7492 (2017-05-22T15:29:00)
