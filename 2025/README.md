@@ -433,6 +433,11 @@
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
 
 ---
+## CVE-2025-65681 ()
+> 
+- [Rivek619/CVE-2025-65681](https://github.com/Rivek619/CVE-2025-65681)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65681">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65681">
+
+---
 ## CVE-2025-65676 ()
 > 
 - [Rivek619/CVE-2025-65676](https://github.com/Rivek619/CVE-2025-65676)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65676">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65676">
@@ -446,6 +451,11 @@
 ## CVE-2025-65672 ()
 > 
 - [Rivek619/CVE-2025-65672](https://github.com/Rivek619/CVE-2025-65672)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65672">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65672">
+
+---
+## CVE-2025-65669 ()
+> 
+- [Rivek619/CVE-2025-65669](https://github.com/Rivek619/CVE-2025-65669)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-65669">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-65669">
 
 ---
 ## CVE-2025-6558 ()
@@ -491,6 +501,11 @@
 ## CVE-2025-65018 ()
 > 
 - [Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-](https://github.com/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-Neo6/CVE-2025-65018-Heap-buffer-overflow-in-libpng-ps4-ps5-">
+
+---
+## CVE-2025-64720 ()
+> 
+- [truediogo/CVE-2025-64720](https://github.com/truediogo/CVE-2025-64720)	<img alt="forks" src="https://img.shields.io/github/forks/truediogo/CVE-2025-64720">	<img alt="stars" src="https://img.shields.io/github/stars/truediogo/CVE-2025-64720">
 
 ---
 ## CVE-2025-64708 ()
@@ -1930,6 +1945,7 @@
 > 
 - [rockmelodies/bentoml_CVE-2025-54381](https://github.com/rockmelodies/bentoml_CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/bentoml_CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/bentoml_CVE-2025-54381">
 - [B1ack4sh/Blackash-CVE-2025-54381](https://github.com/B1ack4sh/Blackash-CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-54381">
+- [IS8123/CVE-2025-54381](https://github.com/IS8123/CVE-2025-54381)	<img alt="forks" src="https://img.shields.io/github/forks/IS8123/CVE-2025-54381">	<img alt="stars" src="https://img.shields.io/github/stars/IS8123/CVE-2025-54381">
 
 ---
 ## CVE-2025-54352 ()
