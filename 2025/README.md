@@ -714,6 +714,11 @@
 - [xryptoh/CVE-2025-63499](https://github.com/xryptoh/CVE-2025-63499)	<img alt="forks" src="https://img.shields.io/github/forks/xryptoh/CVE-2025-63499">	<img alt="stars" src="https://img.shields.io/github/stars/xryptoh/CVE-2025-63499">
 
 ---
+## CVE-2025-63498 ()
+> 
+- [xryptoh/CVE-2025-63498](https://github.com/xryptoh/CVE-2025-63498)	<img alt="forks" src="https://img.shields.io/github/forks/xryptoh/CVE-2025-63498">	<img alt="stars" src="https://img.shields.io/github/stars/xryptoh/CVE-2025-63498">
+
+---
 ## CVE-2025-63441 ()
 > 
 - [Kgan0509/CVE-2025-63441](https://github.com/Kgan0509/CVE-2025-63441)	<img alt="forks" src="https://img.shields.io/github/forks/Kgan0509/CVE-2025-63441">	<img alt="stars" src="https://img.shields.io/github/stars/Kgan0509/CVE-2025-63441">
@@ -6705,6 +6710,11 @@
 ## CVE-2025-1461 ()
 > 
 - [neverendingsupport/nes-vuetify-cve-2025-1461](https://github.com/neverendingsupport/nes-vuetify-cve-2025-1461)	<img alt="forks" src="https://img.shields.io/github/forks/neverendingsupport/nes-vuetify-cve-2025-1461">	<img alt="stars" src="https://img.shields.io/github/stars/neverendingsupport/nes-vuetify-cve-2025-1461">
+
+---
+## CVE-2025-13559 ()
+> 
+- [twiggy23buck/CVE-2025-13559-Exploit](https://github.com/twiggy23buck/CVE-2025-13559-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/twiggy23buck/CVE-2025-13559-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/twiggy23buck/CVE-2025-13559-Exploit">
 
 ---
 ## CVE-2025-1338 ()
