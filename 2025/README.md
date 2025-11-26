@@ -5084,6 +5084,7 @@
 - [NS-Projects-Unina/CTF_CVE_DSP_1](https://github.com/NS-Projects-Unina/CTF_CVE_DSP_1)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Projects-Unina/CTF_CVE_DSP_1">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Projects-Unina/CTF_CVE_DSP_1">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
+- [is0leuc1n/CVE-2025-29927-POC](https://github.com/is0leuc1n/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/is0leuc1n/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/is0leuc1n/CVE-2025-29927-POC">
 
 ---
 ## CVE-2025-29891 ()
