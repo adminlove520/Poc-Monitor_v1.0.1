@@ -1363,6 +1363,7 @@
 ## CVE-2025-58360 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-58360](https://github.com/B1ack4sh/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-58360">
+- [quyenheu/CVE-2025-58360](https://github.com/quyenheu/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/CVE-2025-58360">
 
 ---
 ## CVE-2025-58180 ()
