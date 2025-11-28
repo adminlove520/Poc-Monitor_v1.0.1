@@ -4317,6 +4317,7 @@ use after free.
 - [bayazid-bit/CVE-2019-11043-](https://github.com/bayazid-bit/CVE-2019-11043-)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2019-11043-">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2019-11043-">
 - [a1ex-var1amov/ctf-cve-2019-11043](https://github.com/a1ex-var1amov/ctf-cve-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/a1ex-var1amov/ctf-cve-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/a1ex-var1amov/ctf-cve-2019-11043">
 - [AndrewMas99/CVE-2019-11043-Vulnerability](https://github.com/AndrewMas99/CVE-2019-11043-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewMas99/CVE-2019-11043-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewMas99/CVE-2019-11043-Vulnerability">
+- [CodeHex083/phuip-fpizdam](https://github.com/CodeHex083/phuip-fpizdam)	<img alt="forks" src="https://img.shields.io/github/forks/CodeHex083/phuip-fpizdam">	<img alt="stars" src="https://img.shields.io/github/stars/CodeHex083/phuip-fpizdam">
 
 ---
 ## CVE-2019-10957 (2020-01-17T18:15:00)
