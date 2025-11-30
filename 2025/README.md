@@ -1203,6 +1203,7 @@
 - [ibrahmsql/CVE-2025-6018-](https://github.com/ibrahmsql/CVE-2025-6018-)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018-">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018-">
 - [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018">
 - [B1ack4sh/Blackash-CVE-2025-6018](https://github.com/B1ack4sh/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-6018">
+- [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
 
 ---
 ## CVE-2025-59934 ()
