@@ -1312,6 +1312,11 @@
 - [byteReaper77/CVE-2025-59342](https://github.com/byteReaper77/CVE-2025-59342)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-59342">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-59342">
 
 ---
+## CVE-2025-59302 ()
+> 
+- [B1gh0rnn/CVE-2025-59302](https://github.com/B1gh0rnn/CVE-2025-59302)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-59302">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-59302">
+
+---
 ## CVE-2025-59295 ()
 > 
 - [usjnx72726w/CVE-2025-59295](https://github.com/usjnx72726w/CVE-2025-59295)	<img alt="forks" src="https://img.shields.io/github/forks/usjnx72726w/CVE-2025-59295">	<img alt="stars" src="https://img.shields.io/github/stars/usjnx72726w/CVE-2025-59295">
