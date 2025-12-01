@@ -176,6 +176,12 @@
 ## CVE-2013-2094 ()
 > 
 - [letsr00t/CVE-2013-2094](https://github.com/letsr00t/CVE-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2013-2094">
+- [vnik5287/CVE-2013-2094](https://github.com/vnik5287/CVE-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/vnik5287/CVE-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/vnik5287/CVE-2013-2094">
+- [timhsutw/cve-2013-2094](https://github.com/timhsutw/cve-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/timhsutw/cve-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/timhsutw/cve-2013-2094">
+- [hiikezoe/libperf_event_exploit](https://github.com/hiikezoe/libperf_event_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hiikezoe/libperf_event_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hiikezoe/libperf_event_exploit">
+- [Pashkela/CVE-2013-2094](https://github.com/Pashkela/CVE-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/Pashkela/CVE-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/Pashkela/CVE-2013-2094">
+- [realtalk/cve-2013-2094](https://github.com/realtalk/cve-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/realtalk/cve-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/realtalk/cve-2013-2094">
+- [tarunyadav/fix-cve-2013-2094](https://github.com/tarunyadav/fix-cve-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/tarunyadav/fix-cve-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/tarunyadav/fix-cve-2013-2094">
 
 ---
 ## CVE-2013-2028 (2013-07-20T03:37:00)
