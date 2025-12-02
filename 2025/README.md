@@ -5221,6 +5221,7 @@
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [BugHawak/CVE-2025-29927](https://github.com/BugHawak/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/BugHawak/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/BugHawak/CVE-2025-29927">
 - [is0leuc1n/CVE-2025-29927-POC](https://github.com/is0leuc1n/CVE-2025-29927-POC)	<img alt="forks" src="https://img.shields.io/github/forks/is0leuc1n/CVE-2025-29927-POC">	<img alt="stars" src="https://img.shields.io/github/stars/is0leuc1n/CVE-2025-29927-POC">
+- [liamromanis101/CVE-2025-29927-NextJS](https://github.com/liamromanis101/CVE-2025-29927-NextJS)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2025-29927-NextJS">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2025-29927-NextJS">
 
 ---
 ## CVE-2025-29891 ()
