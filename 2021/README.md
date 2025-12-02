@@ -8974,6 +8974,12 @@
 - [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/VcenterKiller">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/VcenterKiller">
 
 ---
+## CVE-2021-22941 ()
+> 
+- [pratikjojode/citrix-cve-2021-22941-lab](https://github.com/pratikjojode/citrix-cve-2021-22941-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pratikjojode/citrix-cve-2021-22941-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pratikjojode/citrix-cve-2021-22941-lab">
+- [hoav18/CVE-2021-22941](https://github.com/hoav18/CVE-2021-22941)	<img alt="forks" src="https://img.shields.io/github/forks/hoav18/CVE-2021-22941">	<img alt="stars" src="https://img.shields.io/github/stars/hoav18/CVE-2021-22941">
+
+---
 ## CVE-2021-22940 (2021-08-16T19:15:00)
 > Node.js before 16.6.1, 14.17.5, and 12.22.5 is vulnerable to a use after free attack where an attacker might be able to exploit the memory corruption, to change process behavior.
 - [Live-Hack-CVE/CVE-2021-22940](https://github.com/Live-Hack-CVE/CVE-2021-22940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22940">
