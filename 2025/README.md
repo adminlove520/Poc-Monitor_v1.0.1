@@ -6348,6 +6348,7 @@
 > 
 - [cyruscostini/CVE-2025-24091](https://github.com/cyruscostini/CVE-2025-24091)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-24091">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-24091">
 - [TS0NW0RK/CVE-2025-24091](https://github.com/TS0NW0RK/CVE-2025-24091)	<img alt="forks" src="https://img.shields.io/github/forks/TS0NW0RK/CVE-2025-24091">	<img alt="stars" src="https://img.shields.io/github/stars/TS0NW0RK/CVE-2025-24091">
+- [rooootdev/evilnotify](https://github.com/rooootdev/evilnotify)	<img alt="forks" src="https://img.shields.io/github/forks/rooootdev/evilnotify">	<img alt="stars" src="https://img.shields.io/github/stars/rooootdev/evilnotify">
 
 ---
 ## CVE-2025-24085 ()
