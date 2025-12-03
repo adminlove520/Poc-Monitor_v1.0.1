@@ -2023,6 +2023,7 @@
 - [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 - [sickwell/CVE-2025-55182-python](https://github.com/sickwell/CVE-2025-55182-python)	<img alt="forks" src="https://img.shields.io/github/forks/sickwell/CVE-2025-55182-python">	<img alt="stars" src="https://img.shields.io/github/stars/sickwell/CVE-2025-55182-python">
 - [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
+- [atastycookie/CVE-2025-55182-poc-python](https://github.com/atastycookie/CVE-2025-55182-poc-python)	<img alt="forks" src="https://img.shields.io/github/forks/atastycookie/CVE-2025-55182-poc-python">	<img alt="stars" src="https://img.shields.io/github/stars/atastycookie/CVE-2025-55182-poc-python">
 
 ---
 ## CVE-2025-54988 ()
