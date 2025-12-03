@@ -4480,6 +4480,7 @@ use after free.
 - [uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)	<img alt="forks" src="https://img.shields.io/github/forks/uyerr/PoC_CVE-2019-10149--rce">	<img alt="stars" src="https://img.shields.io/github/stars/uyerr/PoC_CVE-2019-10149--rce">
 - [uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)	<img alt="forks" src="https://img.shields.io/github/forks/uyerr/PoC_CVE-2019-10149--rce">	<img alt="stars" src="https://img.shields.io/github/stars/uyerr/PoC_CVE-2019-10149--rce">
 - [VoyagerOnne/Exim-CVE-2019-10149](https://github.com/VoyagerOnne/Exim-CVE-2019-10149)	<img alt="forks" src="https://img.shields.io/github/forks/VoyagerOnne/Exim-CVE-2019-10149">	<img alt="stars" src="https://img.shields.io/github/stars/VoyagerOnne/Exim-CVE-2019-10149">
+- [Cheryanika/CVE-2019-10149---Exim4---RCE](https://github.com/Cheryanika/CVE-2019-10149---Exim4---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-10149---Exim4---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-10149---Exim4---RCE">
 
 ---
 ## CVE-2019-10129 (2019-07-30T17:15:00)
