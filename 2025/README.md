@@ -2072,6 +2072,8 @@
 - [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
 - [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
 - [SoICT-BKSEC/CVE-2025-55182-docker-lab](https://github.com/SoICT-BKSEC/CVE-2025-55182-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SoICT-BKSEC/CVE-2025-55182-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SoICT-BKSEC/CVE-2025-55182-docker-lab">
+- [acheong08/CVE-2025-55182-vite-rsc](https://github.com/acheong08/CVE-2025-55182-vite-rsc)	<img alt="forks" src="https://img.shields.io/github/forks/acheong08/CVE-2025-55182-vite-rsc">	<img alt="stars" src="https://img.shields.io/github/stars/acheong08/CVE-2025-55182-vite-rsc">
+- [Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478](https://github.com/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/freight-night-rce-react-next-CVE-2025-55182-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
