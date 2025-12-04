@@ -2029,7 +2029,7 @@
 - [callinston/CVE-2025-55182](https://github.com/callinston/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-55182">
 - [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
 - [sickwell/CVE-2025-55182](https://github.com/sickwell/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/sickwell/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/sickwell/CVE-2025-55182">
-- [ejpir/CVE-2025-55182-poc](https://github.com/ejpir/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-poc">
+- [ejpir/CVE-2025-55182-research](https://github.com/ejpir/CVE-2025-55182-research)	<img alt="forks" src="https://img.shields.io/github/forks/ejpir/CVE-2025-55182-research">	<img alt="stars" src="https://img.shields.io/github/stars/ejpir/CVE-2025-55182-research">
 - [atastycookie/CVE-2025-55182-poc-python](https://github.com/atastycookie/CVE-2025-55182-poc-python)	<img alt="forks" src="https://img.shields.io/github/forks/atastycookie/CVE-2025-55182-poc-python">	<img alt="stars" src="https://img.shields.io/github/stars/atastycookie/CVE-2025-55182-poc-python">
 - [fatguru/CVE-2025-55182-scanner](https://github.com/fatguru/CVE-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/fatguru/CVE-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/fatguru/CVE-2025-55182-scanner">
 - [Ashwesker/Blackash-CVE-2025-55182](https://github.com/Ashwesker/Blackash-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-55182">
@@ -2071,6 +2071,7 @@
 - [CymulateResearch/React2Shell-Scanner](https://github.com/CymulateResearch/React2Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CymulateResearch/React2Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CymulateResearch/React2Shell-Scanner">
 - [ivaavimusic/React19-fix-vibecoders](https://github.com/ivaavimusic/React19-fix-vibecoders)	<img alt="forks" src="https://img.shields.io/github/forks/ivaavimusic/React19-fix-vibecoders">	<img alt="stars" src="https://img.shields.io/github/stars/ivaavimusic/React19-fix-vibecoders">
 - [carlosaruy/CVE-2025-55182](https://github.com/carlosaruy/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/carlosaruy/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/carlosaruy/CVE-2025-55182">
+- [SoICT-BKSEC/CVE-2025-55182-docker-lab](https://github.com/SoICT-BKSEC/CVE-2025-55182-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SoICT-BKSEC/CVE-2025-55182-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SoICT-BKSEC/CVE-2025-55182-docker-lab">
 
 ---
 ## CVE-2025-54988 ()
