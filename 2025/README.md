@@ -405,6 +405,11 @@
 - [mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS](https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS">
 
 ---
+## CVE-2025-6980 ()
+> 
+- [BishopFox/CVE-2025-6980-check](https://github.com/BishopFox/CVE-2025-6980-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2025-6980-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2025-6980-check">
+
+---
 ## CVE-2025-6970 ()
 > 
 - [RandomRobbieBF/CVE-2025-6970](https://github.com/RandomRobbieBF/CVE-2025-6970)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-6970">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-6970">
