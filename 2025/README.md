@@ -2037,6 +2037,9 @@
 - [whiteov3rflow/CVE-2025-55182-poc](https://github.com/whiteov3rflow/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/whiteov3rflow/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/whiteov3rflow/CVE-2025-55182-poc">
 - [rauschecker/CVE-2025-55182](https://github.com/rauschecker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/rauschecker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/rauschecker/CVE-2025-55182">
 - [M0onPu15e/next.js-scanner](https://github.com/M0onPu15e/next.js-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/M0onPu15e/next.js-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/M0onPu15e/next.js-scanner">
+- [Sat0ru-qwq/CVE-2025-55182-exp](https://github.com/Sat0ru-qwq/CVE-2025-55182-exp)	<img alt="forks" src="https://img.shields.io/github/forks/Sat0ru-qwq/CVE-2025-55182-exp">	<img alt="stars" src="https://img.shields.io/github/stars/Sat0ru-qwq/CVE-2025-55182-exp">
+- [yiyihuohuo/CVE-2025-55182scan](https://github.com/yiyihuohuo/CVE-2025-55182scan)	<img alt="forks" src="https://img.shields.io/github/forks/yiyihuohuo/CVE-2025-55182scan">	<img alt="stars" src="https://img.shields.io/github/stars/yiyihuohuo/CVE-2025-55182scan">
+- [joshterrill/CVE-2025-55182-realistic-poc](https://github.com/joshterrill/CVE-2025-55182-realistic-poc)	<img alt="forks" src="https://img.shields.io/github/forks/joshterrill/CVE-2025-55182-realistic-poc">	<img alt="stars" src="https://img.shields.io/github/stars/joshterrill/CVE-2025-55182-realistic-poc">
 
 ---
 ## CVE-2025-54988 ()
