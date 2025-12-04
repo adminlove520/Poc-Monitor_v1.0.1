@@ -2093,6 +2093,8 @@
 - [EynaExp/CVE-2025-55182-POC](https://github.com/EynaExp/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/EynaExp/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/EynaExp/CVE-2025-55182-POC">
 - [Emiyelbarto/CVE-2025-55182-PoC](https://github.com/Emiyelbarto/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Emiyelbarto/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Emiyelbarto/CVE-2025-55182-PoC">
 - [MrR0b0t19/CVE-2025-55182-shellinteractive](https://github.com/MrR0b0t19/CVE-2025-55182-shellinteractive)	<img alt="forks" src="https://img.shields.io/github/forks/MrR0b0t19/CVE-2025-55182-shellinteractive">	<img alt="stars" src="https://img.shields.io/github/stars/MrR0b0t19/CVE-2025-55182-shellinteractive">
+- [ps-interactive/cve-2025-55182](https://github.com/ps-interactive/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ps-interactive/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ps-interactive/cve-2025-55182">
+- [tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension-](https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension-)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension-">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension-">
 
 ---
 ## CVE-2025-54988 ()
