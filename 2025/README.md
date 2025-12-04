@@ -450,6 +450,10 @@
 > 
 - [abtonc/next-cve-2025-66478](https://github.com/abtonc/next-cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abtonc/next-cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abtonc/next-cve-2025-66478">
 - [BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js](https://github.com/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js)	<img alt="forks" src="https://img.shields.io/github/forks/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">	<img alt="stars" src="https://img.shields.io/github/stars/BankkRoll/Quickcheck-CVE-2025-55182-React-and-CVE-2025-66478-Next.js">
+- [wangxso/CVE-2025-66478-POC](https://github.com/wangxso/CVE-2025-66478-POC)	<img alt="forks" src="https://img.shields.io/github/forks/wangxso/CVE-2025-66478-POC">	<img alt="stars" src="https://img.shields.io/github/stars/wangxso/CVE-2025-66478-POC">
+- [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/react2shell-scanner">
+- [heiheishushu/rsc_detect_CVE-2025-55182](https://github.com/heiheishushu/rsc_detect_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/heiheishushu/rsc_detect_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/heiheishushu/rsc_detect_CVE-2025-55182">
+- [songsanggggg/CVE-2025-55182](https://github.com/songsanggggg/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/songsanggggg/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/songsanggggg/CVE-2025-55182">
 
 ---
 ## CVE-2025-66022 ()
@@ -2047,6 +2051,9 @@
 - [joaonevess/rust-flight](https://github.com/joaonevess/rust-flight)	<img alt="forks" src="https://img.shields.io/github/forks/joaonevess/rust-flight">	<img alt="stars" src="https://img.shields.io/github/stars/joaonevess/rust-flight">
 - [jf0x3a/CVE-2025-55182-exploit](https://github.com/jf0x3a/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jf0x3a/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jf0x3a/CVE-2025-55182-exploit">
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/react2shell-scanner">
+- [mktcz/CVE-2025-55182](https://github.com/mktcz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mktcz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mktcz/CVE-2025-55182">
+- [aspen-labs/CVE-2025-55182-checker](https://github.com/aspen-labs/CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/aspen-labs/CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/aspen-labs/CVE-2025-55182-checker">
+- [Rsatan/CVE-2025-55182-Tools](https://github.com/Rsatan/CVE-2025-55182-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/Rsatan/CVE-2025-55182-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/Rsatan/CVE-2025-55182-Tools">
 
 ---
 ## CVE-2025-54988 ()
