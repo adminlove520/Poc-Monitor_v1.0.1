@@ -2149,6 +2149,7 @@
 - [nanwinata/CVE-2025-55182-Scanner](https://github.com/nanwinata/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2025-55182-Scanner">
 - [GelukCrab/React-Server-Components-RCE](https://github.com/GelukCrab/React-Server-Components-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/GelukCrab/React-Server-Components-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/GelukCrab/React-Server-Components-RCE">
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
+- [Golden-Secure/CVE-2025-55182](https://github.com/Golden-Secure/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Golden-Secure/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Golden-Secure/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
