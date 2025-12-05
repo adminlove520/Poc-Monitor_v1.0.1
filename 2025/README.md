@@ -472,6 +472,7 @@
 - [shamo0/react2shell-PoC](https://github.com/shamo0/react2shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/react2shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/react2shell-PoC">
 - [mattcbarrett/check-cve-2025-66478](https://github.com/mattcbarrett/check-cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/mattcbarrett/check-cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/mattcbarrett/check-cve-2025-66478">
 - [tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension](https://github.com/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasGuta/Next.js-RSC-RCE-Scanner-Burp-Suite-Extension">
+- [ZihxS/check-react-rce-cve-2025-55182](https://github.com/ZihxS/check-react-rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ZihxS/check-react-rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ZihxS/check-react-rce-cve-2025-55182">
 
 ---
 ## CVE-2025-66022 ()
@@ -2105,12 +2106,15 @@
 - [aquinn-r7/CVE-2025-55182-VulnCheckPOC](https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC)	<img alt="forks" src="https://img.shields.io/github/forks/aquinn-r7/CVE-2025-55182-VulnCheckPOC">	<img alt="stars" src="https://img.shields.io/github/stars/aquinn-r7/CVE-2025-55182-VulnCheckPOC">
 - [marginaldeer/CVE-2025-55182_scanner](https://github.com/marginaldeer/CVE-2025-55182_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/marginaldeer/CVE-2025-55182_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/marginaldeer/CVE-2025-55182_scanner">
 - [MedusaSH/POC-CVE-2025-55182](https://github.com/MedusaSH/POC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MedusaSH/POC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MedusaSH/POC-CVE-2025-55182">
-- [nxgn-kd01/cve-2025-55182-scanner](https://github.com/nxgn-kd01/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/cve-2025-55182-scanner">
+- [nxgn-kd01/react2shell-scanner](https://github.com/nxgn-kd01/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/nxgn-kd01/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/nxgn-kd01/react2shell-scanner">
 - [Cillian-Collins/CVE-2025-55182](https://github.com/Cillian-Collins/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Cillian-Collins/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Cillian-Collins/CVE-2025-55182">
 - [clevernyyyy/CVE-2025-55182-Dockerized](https://github.com/clevernyyyy/CVE-2025-55182-Dockerized)	<img alt="forks" src="https://img.shields.io/github/forks/clevernyyyy/CVE-2025-55182-Dockerized">	<img alt="stars" src="https://img.shields.io/github/stars/clevernyyyy/CVE-2025-55182-Dockerized">
 - [im-hanzou/CVE-2025-55182-POC-SCANNER](https://github.com/im-hanzou/CVE-2025-55182-POC-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2025-55182-POC-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2025-55182-POC-SCANNER">
 - [tlfyyds/cve-2025-55182-getshell](https://github.com/tlfyyds/cve-2025-55182-getshell)	<img alt="forks" src="https://img.shields.io/github/forks/tlfyyds/cve-2025-55182-getshell">	<img alt="stars" src="https://img.shields.io/github/stars/tlfyyds/cve-2025-55182-getshell">
 - [ZihxS/check-react-rce-cve-2025-55182](https://github.com/ZihxS/check-react-rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ZihxS/check-react-rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ZihxS/check-react-rce-cve-2025-55182">
+- [emadshanab/POC-for-CVE-2025-55182](https://github.com/emadshanab/POC-for-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/emadshanab/POC-for-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/emadshanab/POC-for-CVE-2025-55182">
+- [ZemarKhos/CVE-2025-55182-Exploit-PoC-Scanner](https://github.com/ZemarKhos/CVE-2025-55182-Exploit-PoC-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/ZemarKhos/CVE-2025-55182-Exploit-PoC-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/ZemarKhos/CVE-2025-55182-Exploit-PoC-Scanner">
+- [Darker-Ink/react-ssr-vulnerability](https://github.com/Darker-Ink/react-ssr-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Darker-Ink/react-ssr-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Darker-Ink/react-ssr-vulnerability">
 
 ---
 ## CVE-2025-54988 ()
