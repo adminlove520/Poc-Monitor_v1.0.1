@@ -475,6 +475,7 @@
 - [ZihxS/check-react-rce-cve-2025-55182](https://github.com/ZihxS/check-react-rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ZihxS/check-react-rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ZihxS/check-react-rce-cve-2025-55182">
 - [pyroxenites/Nextjs_RCE_Exploit_Tool](https://github.com/pyroxenites/Nextjs_RCE_Exploit_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/pyroxenites/Nextjs_RCE_Exploit_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/pyroxenites/Nextjs_RCE_Exploit_Tool">
 - [onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI](https://github.com/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/onlylovetx/CVE-2025-55182-CVE-2025-66478-Exploit-GUI">
+- [rewks/react2shell-CVE-2025-66478](https://github.com/rewks/react2shell-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/rewks/react2shell-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/rewks/react2shell-CVE-2025-66478">
 
 ---
 ## CVE-2025-66022 ()
@@ -2139,6 +2140,9 @@
 - [ngvcanh/CVE-2025-55182-Attack-Analysis](https://github.com/ngvcanh/CVE-2025-55182-Attack-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ngvcanh/CVE-2025-55182-Attack-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ngvcanh/CVE-2025-55182-Attack-Analysis">
 - [aliclub0x00/CVE-2025-55182-POC-NEXTJS](https://github.com/aliclub0x00/CVE-2025-55182-POC-NEXTJS)	<img alt="forks" src="https://img.shields.io/github/forks/aliclub0x00/CVE-2025-55182-POC-NEXTJS">	<img alt="stars" src="https://img.shields.io/github/stars/aliclub0x00/CVE-2025-55182-POC-NEXTJS">
 - [logesh-GIT001/CVE-2025-55182](https://github.com/logesh-GIT001/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-55182">
+- [m3m0ryc0rrupt/CVE-2025-55182-PoC](https://github.com/m3m0ryc0rrupt/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/m3m0ryc0rrupt/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/m3m0ryc0rrupt/CVE-2025-55182-PoC">
+- [ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment](https://github.com/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment)	<img alt="forks" src="https://img.shields.io/github/forks/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment">	<img alt="stars" src="https://img.shields.io/github/stars/ABCFabian/React2Shell-CVE-2025-55182-Testing-Environment">
+- [iamunixtz/CVE-2025-55182-POC](https://github.com/iamunixtz/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/iamunixtz/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/iamunixtz/CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-54988 ()
