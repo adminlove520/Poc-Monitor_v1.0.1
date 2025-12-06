@@ -499,6 +499,7 @@
 - [StillSoul/CVE-2025-55182](https://github.com/StillSoul/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2025-55182">
 - [rocklambros/React2Shell_Hunter](https://github.com/rocklambros/React2Shell_Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/rocklambros/React2Shell_Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/rocklambros/React2Shell_Hunter">
 - [alessiodos/react2shell-scanner](https://github.com/alessiodos/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/alessiodos/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/alessiodos/react2shell-scanner">
+- [vercel-labs/fix-react2shell-next](https://github.com/vercel-labs/fix-react2shell-next)	<img alt="forks" src="https://img.shields.io/github/forks/vercel-labs/fix-react2shell-next">	<img alt="stars" src="https://img.shields.io/github/stars/vercel-labs/fix-react2shell-next">
 
 ---
 ## CVE-2025-66022 ()
@@ -7223,6 +7224,11 @@
 ## CVE-2025-1338 ()
 > 
 - [jxcaxtc/CVE-2025-1338](https://github.com/jxcaxtc/CVE-2025-1338)	<img alt="forks" src="https://img.shields.io/github/forks/jxcaxtc/CVE-2025-1338">	<img alt="stars" src="https://img.shields.io/github/stars/jxcaxtc/CVE-2025-1338">
+
+---
+## CVE-2025-13377 ()
+> 
+- [jessicasmithka/CVE-2025-13377-Exploit](https://github.com/jessicasmithka/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jessicasmithka/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jessicasmithka/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
