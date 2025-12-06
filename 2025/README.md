@@ -2262,6 +2262,7 @@
 - [klassiker/CVE-2025-55182](https://github.com/klassiker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/klassiker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/klassiker/CVE-2025-55182">
 - [ynsmroztas/NextRce](https://github.com/ynsmroztas/NextRce)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/NextRce">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/NextRce">
 - [hlsitechio/cve-2025-55182-tools](https://github.com/hlsitechio/cve-2025-55182-tools)	<img alt="forks" src="https://img.shields.io/github/forks/hlsitechio/cve-2025-55182-tools">	<img alt="stars" src="https://img.shields.io/github/stars/hlsitechio/cve-2025-55182-tools">
+- [vyvivekyadav04/RSC-Infra-Scanner](https://github.com/vyvivekyadav04/RSC-Infra-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vyvivekyadav04/RSC-Infra-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vyvivekyadav04/RSC-Infra-Scanner">
 
 ---
 ## CVE-2025-54988 ()
