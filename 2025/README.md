@@ -112,6 +112,7 @@
 - [pucagit/CVE-2025-9074](https://github.com/pucagit/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/pucagit/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/pucagit/CVE-2025-9074">
 - [OilSeller2001/PoC-for-CVE-2025-9074](https://github.com/OilSeller2001/PoC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/OilSeller2001/PoC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/OilSeller2001/PoC-for-CVE-2025-9074">
 - [BridgerAlderson/CVE-2025-9074-PoC](https://github.com/BridgerAlderson/CVE-2025-9074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-9074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-9074-PoC">
+- [xwpdx0/poc-2025-9074](https://github.com/xwpdx0/poc-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/xwpdx0/poc-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/xwpdx0/poc-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
@@ -628,6 +629,11 @@
 ## CVE-2025-65300 ()
 > 
 - [garux-sec/CVE-2025-65300](https://github.com/garux-sec/CVE-2025-65300)	<img alt="forks" src="https://img.shields.io/github/forks/garux-sec/CVE-2025-65300">	<img alt="stars" src="https://img.shields.io/github/stars/garux-sec/CVE-2025-65300">
+
+---
+## CVE-2025-65271 ()
+> 
+- [1337Skid/CVE-2025-65271](https://github.com/1337Skid/CVE-2025-65271)	<img alt="forks" src="https://img.shields.io/github/forks/1337Skid/CVE-2025-65271">	<img alt="stars" src="https://img.shields.io/github/stars/1337Skid/CVE-2025-65271">
 
 ---
 ## CVE-2025-6514 ()
