@@ -461,6 +461,7 @@
 > 
 - [B1gh0rnn/CVE-2025-66516](https://github.com/B1gh0rnn/CVE-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/B1gh0rnn/CVE-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/B1gh0rnn/CVE-2025-66516">
 - [taylorflexca/CVE-2025-66516-Exploit](https://github.com/taylorflexca/CVE-2025-66516-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/taylorflexca/CVE-2025-66516-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/taylorflexca/CVE-2025-66516-Exploit">
+- [sitanshuforever/cve-2025-66516](https://github.com/sitanshuforever/cve-2025-66516)	<img alt="forks" src="https://img.shields.io/github/forks/sitanshuforever/cve-2025-66516">	<img alt="stars" src="https://img.shields.io/github/stars/sitanshuforever/cve-2025-66516">
 
 ---
 ## CVE-2025-66478 ()
@@ -2258,7 +2259,7 @@
 - [zamdevio/r2s](https://github.com/zamdevio/r2s)	<img alt="forks" src="https://img.shields.io/github/forks/zamdevio/r2s">	<img alt="stars" src="https://img.shields.io/github/stars/zamdevio/r2s">
 - [MuhammadWaseem29/React2Shell_Rce-cve-2025-55182](https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182">
 - [Shadowroot97/POC-React2Shell-CVE-2025-55182](https://github.com/Shadowroot97/POC-React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Shadowroot97/POC-React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Shadowroot97/POC-React2Shell-CVE-2025-55182">
-- [l0n3m4n/CVE-2025-55182](https://github.com/l0n3m4n/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2025-55182">
+- [l0n3m4n/CVE-2025-55182-Clean](https://github.com/l0n3m4n/CVE-2025-55182-Clean)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2025-55182-Clean">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2025-55182-Clean">
 - [shreyas-malhotra/RCE2Shell-CVE-2025-55182](https://github.com/shreyas-malhotra/RCE2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/RCE2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/RCE2Shell-CVE-2025-55182">
 - [Shadowroot97/POC-React2Shell-CVE-2025-55182](https://github.com/Shadowroot97/POC-React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Shadowroot97/POC-React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Shadowroot97/POC-React2Shell-CVE-2025-55182">
 - [shreyas-malhotra/React2Shell-CVE-2025-55182](https://github.com/shreyas-malhotra/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/React2Shell-CVE-2025-55182">
