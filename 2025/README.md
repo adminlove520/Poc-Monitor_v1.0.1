@@ -2299,6 +2299,9 @@
 - [Pantheon-Security/medusa](https://github.com/Pantheon-Security/medusa)	<img alt="forks" src="https://img.shields.io/github/forks/Pantheon-Security/medusa">	<img alt="stars" src="https://img.shields.io/github/stars/Pantheon-Security/medusa">
 - [SainiONHacks/CVE-2025-55182-Scanner](https://github.com/SainiONHacks/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/SainiONHacks/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/SainiONHacks/CVE-2025-55182-Scanner">
 - [M4xSec/CVE-2025-55182-React2Shell-RCE-Shell](https://github.com/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/M4xSec/CVE-2025-55182-React2Shell-RCE-Shell">
+- [surajhacx/react2shellpoc](https://github.com/surajhacx/react2shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/react2shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/react2shellpoc">
+- [ToritoIO/Torito-R2S](https://github.com/ToritoIO/Torito-R2S)	<img alt="forks" src="https://img.shields.io/github/forks/ToritoIO/Torito-R2S">	<img alt="stars" src="https://img.shields.io/github/stars/ToritoIO/Torito-R2S">
+- [umairahmadh/react-vuln-scanner](https://github.com/umairahmadh/react-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/umairahmadh/react-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/umairahmadh/react-vuln-scanner">
 
 ---
 ## CVE-2025-54988 ()
