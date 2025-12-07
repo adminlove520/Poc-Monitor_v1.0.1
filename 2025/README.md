@@ -2285,6 +2285,7 @@
 - [AliHzSec/CVE-2025-55182](https://github.com/AliHzSec/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2025-55182">
 - [zxz3650/CVE-2025-55182-POC](https://github.com/zxz3650/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zxz3650/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zxz3650/CVE-2025-55182-POC">
 - [AliHzSec/CVE-2025-55182](https://github.com/AliHzSec/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2025-55182">
+- [zr0n/react2shell](https://github.com/zr0n/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/react2shell">
 
 ---
 ## CVE-2025-54988 ()
