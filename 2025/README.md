@@ -2293,6 +2293,7 @@
 - [AliHzSec/CVE-2025-55182](https://github.com/AliHzSec/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2025-55182">
 - [zr0n/react2shell](https://github.com/zr0n/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/zr0n/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/zr0n/react2shell">
 - [hunter24x24/CVE-2025-55182-mass](https://github.com/hunter24x24/CVE-2025-55182-mass)	<img alt="forks" src="https://img.shields.io/github/forks/hunter24x24/CVE-2025-55182-mass">	<img alt="stars" src="https://img.shields.io/github/stars/hunter24x24/CVE-2025-55182-mass">
+- [andressuarezmonk/CVE-2025-55182](https://github.com/andressuarezmonk/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/andressuarezmonk/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/andressuarezmonk/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
