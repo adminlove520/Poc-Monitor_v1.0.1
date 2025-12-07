@@ -7294,6 +7294,7 @@
 ## CVE-2025-13377 ()
 > 
 - [IceSpice31/CVE-2025-13377-Exploit](https://github.com/IceSpice31/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IceSpice31/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IceSpice31/CVE-2025-13377-Exploit">
+- [Rimas214/CVE-2025-13377-Exploit](https://github.com/Rimas214/CVE-2025-13377-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Rimas214/CVE-2025-13377-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Rimas214/CVE-2025-13377-Exploit">
 
 ---
 ## CVE-2025-13372 ()
