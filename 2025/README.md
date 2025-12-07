@@ -2275,6 +2275,7 @@
 - [rapticore/ore_react2shell_scanner](https://github.com/rapticore/ore_react2shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/rapticore/ore_react2shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/rapticore/ore_react2shell_scanner">
 - [ahmedshamsddin/CVE-2025-55182-Exploit](https://github.com/ahmedshamsddin/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/CVE-2025-55182-Exploit">
 - [jumodada/react-cve-2025-55182-demo](https://github.com/jumodada/react-cve-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/jumodada/react-cve-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/jumodada/react-cve-2025-55182-demo">
+- [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
 
 ---
 ## CVE-2025-54988 ()
