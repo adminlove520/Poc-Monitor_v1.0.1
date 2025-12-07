@@ -2276,6 +2276,7 @@
 - [ahmedshamsddin/CVE-2025-55182](https://github.com/ahmedshamsddin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/CVE-2025-55182">
 - [jumodada/react-cve-2025-55182-demo](https://github.com/jumodada/react-cve-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/jumodada/react-cve-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/jumodada/react-cve-2025-55182-demo">
 - [LemonTeatw1/CVE-2025-55182-exploit](https://github.com/LemonTeatw1/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/LemonTeatw1/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/LemonTeatw1/CVE-2025-55182-exploit">
+- [mil4ne/CVE-2025-55182-React2Shell-](https://github.com/mil4ne/CVE-2025-55182-React2Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mil4ne/CVE-2025-55182-React2Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mil4ne/CVE-2025-55182-React2Shell-">
 
 ---
 ## CVE-2025-54988 ()
