@@ -2347,6 +2347,7 @@
 - [hamm0nz/react2shell-audit](https://github.com/hamm0nz/react2shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/hamm0nz/react2shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/hamm0nz/react2shell-audit">
 - [randarts/react-rce](https://github.com/randarts/react-rce)	<img alt="forks" src="https://img.shields.io/github/forks/randarts/react-rce">	<img alt="stars" src="https://img.shields.io/github/stars/randarts/react-rce">
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
+- [MrRockettt/CVE-2025-55182](https://github.com/MrRockettt/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrRockettt/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrRockettt/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
