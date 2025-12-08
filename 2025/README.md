@@ -519,6 +519,7 @@
 - [cybertechajju/R2C-CVE-2025-55182-66478](https://github.com/cybertechajju/R2C-CVE-2025-55182-66478)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/R2C-CVE-2025-55182-66478">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/R2C-CVE-2025-55182-66478">
 - [abhirajranjan/cve-2025-66478](https://github.com/abhirajranjan/cve-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/abhirajranjan/cve-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/abhirajranjan/cve-2025-66478">
 - [lincemorado97/CVE-2025-55182_CVE-2025-66478](https://github.com/lincemorado97/CVE-2025-55182_CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/lincemorado97/CVE-2025-55182_CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/lincemorado97/CVE-2025-55182_CVE-2025-66478">
+- [C00LN3T/React4Shell](https://github.com/C00LN3T/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React4Shell">
 
 ---
 ## CVE-2025-66022 ()
@@ -2334,6 +2335,8 @@
 - [justmadeid/CVE-2025-55182](https://github.com/justmadeid/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/justmadeid/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/justmadeid/CVE-2025-55182">
 - [TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182">
 - [lee191/CVE-2025-55182](https://github.com/lee191/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/lee191/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/lee191/CVE-2025-55182">
+- [Night-have-dreams/CVE-2025-55182-PoC](https://github.com/Night-have-dreams/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Night-have-dreams/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Night-have-dreams/CVE-2025-55182-PoC">
+- [C00LN3T/React4Shell](https://github.com/C00LN3T/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React4Shell">
 
 ---
 ## CVE-2025-54988 ()

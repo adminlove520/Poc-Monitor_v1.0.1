@@ -400,6 +400,11 @@
 - [Live-Hack-CVE/CVE-2020-8161](https://github.com/Live-Hack-CVE/CVE-2020-8161)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8161">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8161">
 
 ---
+## CVE-2020-8158 ()
+> 
+- [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2020-8158">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2020-8158">
+
+---
 ## CVE-2020-8026 (2020-08-07T10:15:00)
 > A Incorrect Default Permissions vulnerability in the packaging of inn in openSUSE Leap 15.2, openSUSE Tumbleweed, openSUSE Leap 15.1 allows local attackers with control of the new user to escalate their privileges to root. This issue affects: openSUSE Leap 15.2 inn version 2.6.2-lp152.1.26 and prior versions. openSUSE Tumbleweed inn version 2.6.2-4.2 and prior versions. openSUSE Leap 15.1 inn version 2.5.4-lp151.3.3.1 and prior versions.
 - [Live-Hack-CVE/CVE-2020-8026](https://github.com/Live-Hack-CVE/CVE-2020-8026)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8026">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8026">
