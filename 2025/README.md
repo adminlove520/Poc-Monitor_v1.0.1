@@ -523,6 +523,7 @@
 - [C00LN3T/React2Shell](https://github.com/C00LN3T/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/React2Shell">
 - [enesbuyuk/react2shell-security-tool](https://github.com/enesbuyuk/react2shell-security-tool)	<img alt="forks" src="https://img.shields.io/github/forks/enesbuyuk/react2shell-security-tool">	<img alt="stars" src="https://img.shields.io/github/stars/enesbuyuk/react2shell-security-tool">
 - [Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Letalandroid/cve-2025-66478_rce_vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Letalandroid/cve-2025-66478_rce_vulnerable">
+- [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
 
 ---
 ## CVE-2025-66022 ()
@@ -782,7 +783,7 @@
 ---
 ## CVE-2025-63895 ()
 > 
-- [thorat-shubham/JXL_Infotainment_-CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_-CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_-CVE-2025-63895">
+- [thorat-shubham/JXL_Infotainment_CVE-2025-63895](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-63895)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-63895">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-63895">
 
 ---
 ## CVE-2025-6389 ()
