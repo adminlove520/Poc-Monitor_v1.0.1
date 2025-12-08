@@ -526,6 +526,7 @@
 - [Letalandroid/cve-2025-66478_rce_vulnerable](https://github.com/Letalandroid/cve-2025-66478_rce_vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Letalandroid/cve-2025-66478_rce_vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Letalandroid/cve-2025-66478_rce_vulnerable">
 - [FurkanKAYAPINAR/React-Next-Scanner](https://github.com/FurkanKAYAPINAR/React-Next-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/React-Next-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/React-Next-Scanner">
 - [FurkanKAYAPINAR/ReactNext2Shell](https://github.com/FurkanKAYAPINAR/ReactNext2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/ReactNext2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/ReactNext2Shell">
+- [adrianhazgarcia/React4Shell](https://github.com/adrianhazgarcia/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/adrianhazgarcia/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/adrianhazgarcia/React4Shell">
 
 ---
 ## CVE-2025-66022 ()
