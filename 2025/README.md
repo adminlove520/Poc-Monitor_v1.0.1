@@ -2475,6 +2475,8 @@
 - [Jaycelation/CVE-2025-55182](https://github.com/Jaycelation/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Jaycelation/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Jaycelation/CVE-2025-55182">
 - [Ankitspandey07/React2Shell](https://github.com/Ankitspandey07/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Ankitspandey07/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Ankitspandey07/React2Shell">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [Stonelinks/react-cve-2025-55182](https://github.com/Stonelinks/react-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Stonelinks/react-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Stonelinks/react-cve-2025-55182">
+- [VeilVulp/rscscan](https://github.com/VeilVulp/rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/rscscan">
 
 ---
 ## CVE-2025-54988 ()
