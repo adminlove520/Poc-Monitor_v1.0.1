@@ -2479,6 +2479,7 @@
 - [VeilVulp/rscscan](https://github.com/VeilVulp/rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/rscscan">
 - [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 - [trax69/cve-2025-55182-poc](https://github.com/trax69/cve-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/trax69/cve-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/trax69/cve-2025-55182-poc">
+- [osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo)	<img alt="forks" src="https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo">	<img alt="stars" src="https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo">
 
 ---
 ## CVE-2025-54988 ()
