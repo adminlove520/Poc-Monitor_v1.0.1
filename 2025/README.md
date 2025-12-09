@@ -113,6 +113,7 @@
 - [OilSeller2001/PoC-for-CVE-2025-9074](https://github.com/OilSeller2001/PoC-for-CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/OilSeller2001/PoC-for-CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/OilSeller2001/PoC-for-CVE-2025-9074">
 - [BridgerAlderson/CVE-2025-9074-PoC](https://github.com/BridgerAlderson/CVE-2025-9074-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-9074-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-9074-PoC">
 - [xwpdx0/poc-2025-9074](https://github.com/xwpdx0/poc-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/xwpdx0/poc-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/xwpdx0/poc-2025-9074">
+- [PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape](https://github.com/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/PtechAmanja/CVE-2025-9074-Docker-Desktop-Container-Escape">
 
 ---
 ## CVE-2025-9043 ()
@@ -2429,6 +2430,7 @@
 - [keshavyaduvans/cve-2025-55182](https://github.com/keshavyaduvans/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/keshavyaduvans/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/keshavyaduvans/cve-2025-55182">
 - [alfazhossain/CVE-2025-55182-Exploiter](https://github.com/alfazhossain/CVE-2025-55182-Exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/alfazhossain/CVE-2025-55182-Exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/alfazhossain/CVE-2025-55182-Exploiter">
 - [liamromanis101/cve-2025-55182](https://github.com/liamromanis101/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/cve-2025-55182">
+- [byte16384/CVE-2025-55182](https://github.com/byte16384/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/byte16384/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/byte16384/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
