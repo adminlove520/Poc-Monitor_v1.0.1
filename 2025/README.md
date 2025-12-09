@@ -2407,6 +2407,8 @@
 - [hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit](https://github.com/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/hadipra5/CVE-2025-55182-Auto-Exploit-Toolkit">
 - [techgaun/cve-2025-55182-scanner](https://github.com/techgaun/cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/techgaun/cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/techgaun/cve-2025-55182-scanner">
 - [rsch-io/CVE-2025-55182-React2Shell](https://github.com/rsch-io/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/rsch-io/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/rsch-io/CVE-2025-55182-React2Shell">
+- [ilixm/PoC-RCE-CVE-2025-55182](https://github.com/ilixm/PoC-RCE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ilixm/PoC-RCE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ilixm/PoC-RCE-CVE-2025-55182">
+- [Chocapikk/malware_analysis_react2shell](https://github.com/Chocapikk/malware_analysis_react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/malware_analysis_react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/malware_analysis_react2shell">
 
 ---
 ## CVE-2025-54988 ()
