@@ -284,6 +284,7 @@
 ## CVE-2025-8061 ()
 > 
 - [symeonp/Lenovo-CVE-2025-8061](https://github.com/symeonp/Lenovo-CVE-2025-8061)	<img alt="forks" src="https://img.shields.io/github/forks/symeonp/Lenovo-CVE-2025-8061">	<img alt="stars" src="https://img.shields.io/github/stars/symeonp/Lenovo-CVE-2025-8061">
+- [spawn451/CVE-2025-8061-Exploit](https://github.com/spawn451/CVE-2025-8061-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/spawn451/CVE-2025-8061-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/spawn451/CVE-2025-8061-Exploit">
 
 ---
 ## CVE-2025-8018 ()
@@ -2492,6 +2493,7 @@
 - [gunyakit/CVE-2025-55182-PoC-exploit](https://github.com/gunyakit/CVE-2025-55182-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-55182-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-55182-PoC-exploit">
 - [theman001/CVE-2025-55182_PoC-Test-Server](https://github.com/theman001/CVE-2025-55182_PoC-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-55182_PoC-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-55182_PoC-Test-Server">
 - [BakhodiribnYashinibnMansur/CVE-2025-55182](https://github.com/BakhodiribnYashinibnMansur/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BakhodiribnYashinibnMansur/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BakhodiribnYashinibnMansur/CVE-2025-55182">
+- [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 - [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 
 ---
@@ -6726,6 +6728,7 @@
 - [brs6412/CVE-2025-24813](https://github.com/brs6412/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/brs6412/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/brs6412/CVE-2025-24813">
 - [Arthurabriel/POC-CVE-2025-24813](https://github.com/Arthurabriel/POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Arthurabriel/POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Arthurabriel/POC-CVE-2025-24813">
 - [pirenga/CVE-2025-24813](https://github.com/pirenga/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/CVE-2025-24813">
+- [gunyakit/CVE-2025-24813-PoC-exploit](https://github.com/gunyakit/CVE-2025-24813-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-24813-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-24813-PoC-exploit">
 
 ---
 ## CVE-2025-24801 ()
@@ -7393,11 +7396,12 @@
 - [salt318/CVE-2025-1974](https://github.com/salt318/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/salt318/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/salt318/CVE-2025-1974">
 - [abrewer251/CVE-2025-1974_IngressNightmare_PoC](https://github.com/abrewer251/CVE-2025-1974_IngressNightmare_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-1974_IngressNightmare_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-1974_IngressNightmare_PoC">
 - [Rickerd12/exploit-cve-2025-1974](https://github.com/Rickerd12/exploit-cve-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/Rickerd12/exploit-cve-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/Rickerd12/exploit-cve-2025-1974">
-- [B1ack4sh/Blackash-CVE-2025-1974](https://github.com/B1ack4sh/Blackash-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-1974">
+- [Ashwesker/Blackash-CVE-2025-1974](https://github.com/Ashwesker/Blackash-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-1974">
 - [Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Armand2002/Exploit-CVE-2025-1974-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Armand2002/Exploit-CVE-2025-1974-Lab">
 - [BiiTts/POC-IngressNightmare-CVE-2025-1974](https://github.com/BiiTts/POC-IngressNightmare-CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BiiTts/POC-IngressNightmare-CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BiiTts/POC-IngressNightmare-CVE-2025-1974">
 - [iteride/CVE-2025-1974](https://github.com/iteride/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/iteride/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/iteride/CVE-2025-1974">
 - [gunyakit/CVE-2025-1974-PoC-exploit](https://github.com/gunyakit/CVE-2025-1974-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-1974-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-1974-PoC-exploit">
+- [I3r1h0n/IngressNightterror](https://github.com/I3r1h0n/IngressNightterror)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/IngressNightterror">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/IngressNightterror">
 
 ---
 ## CVE-2025-1913 ()
