@@ -632,6 +632,11 @@
 - [Bnyt7/CVE-2025-65754](https://github.com/Bnyt7/CVE-2025-65754)	<img alt="forks" src="https://img.shields.io/github/forks/Bnyt7/CVE-2025-65754">	<img alt="stars" src="https://img.shields.io/github/stars/Bnyt7/CVE-2025-65754">
 
 ---
+## CVE-2025-65742 ()
+> 
+- [CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA](https://github.com/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA)	<img alt="forks" src="https://img.shields.io/github/forks/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA">	<img alt="stars" src="https://img.shields.io/github/stars/CBx216/CVE-2025-65742-Newgen-OmniDocs-LDAP-BFLA">
+
+---
 ## CVE-2025-65741 ()
 > 
 - [vinicius-batistella/CVE-2025-65741](https://github.com/vinicius-batistella/CVE-2025-65741)	<img alt="forks" src="https://img.shields.io/github/forks/vinicius-batistella/CVE-2025-65741">	<img alt="stars" src="https://img.shields.io/github/stars/vinicius-batistella/CVE-2025-65741">
@@ -827,6 +832,11 @@
 ## CVE-2025-64328 ()
 > 
 - [mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection](https://github.com/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mcorybillington/CVE-2025-64328_FreePBX-framework-Command-Injection">
+
+---
+## CVE-2025-64113 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-64113](https://github.com/Ashwesker/Blackash-CVE-2025-64113)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-64113">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-64113">
 
 ---
 ## CVE-2025-64095 ()
@@ -1255,6 +1265,11 @@
 ## CVE-2025-61299 ()
 > 
 - [GovindPalakkal/CVE-2025-61299_POC](https://github.com/GovindPalakkal/CVE-2025-61299_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GovindPalakkal/CVE-2025-61299_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GovindPalakkal/CVE-2025-61299_POC">
+
+---
+## CVE-2025-61229 ()
+> 
+- [graypixel2121/CVE-2025-61229](https://github.com/graypixel2121/CVE-2025-61229)	<img alt="forks" src="https://img.shields.io/github/forks/graypixel2121/CVE-2025-61229">	<img alt="stars" src="https://img.shields.io/github/stars/graypixel2121/CVE-2025-61229">
 
 ---
 ## CVE-2025-61228 ()
@@ -2508,6 +2523,8 @@
 - [BeichenDream/CVE-2025-55182-GodzillaMemoryShell](https://github.com/BeichenDream/CVE-2025-55182-GodzillaMemoryShell)	<img alt="forks" src="https://img.shields.io/github/forks/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">	<img alt="stars" src="https://img.shields.io/github/stars/BeichenDream/CVE-2025-55182-GodzillaMemoryShell">
 - [gonaumov/cve-2025-55182-checker](https://github.com/gonaumov/cve-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gonaumov/cve-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gonaumov/cve-2025-55182-checker">
 - [Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Legus-Yeung/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Legus-Yeung/CVE-2025-55182-exploit">
+- [DanielXavierJob/-CVE-2025-55182](https://github.com/DanielXavierJob/-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/DanielXavierJob/-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/DanielXavierJob/-CVE-2025-55182">
+- [VeilVulp/Rscscan](https://github.com/VeilVulp/Rscscan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/Rscscan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/Rscscan">
 
 ---
 ## CVE-2025-54988 ()
