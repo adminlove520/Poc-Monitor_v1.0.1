@@ -2558,6 +2558,7 @@
 - [Gymnott1/CVE-2025-55182](https://github.com/Gymnott1/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Gymnott1/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Gymnott1/CVE-2025-55182">
 - [J4ck3LSyN-Gen2/CVE-2025-55182](https://github.com/J4ck3LSyN-Gen2/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-55182">
 - [yz9yt/React2Shell-CTF](https://github.com/yz9yt/React2Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/yz9yt/React2Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/yz9yt/React2Shell-CTF">
+- [pkrasulia/CVE-2025-55182-NextJS-RCE-PoC](https://github.com/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pkrasulia/CVE-2025-55182-NextJS-RCE-PoC">
 
 ---
 ## CVE-2025-54988 ()
