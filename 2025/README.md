@@ -458,6 +458,11 @@
 - [Nxploited/CVE-2025-6758](https://github.com/Nxploited/CVE-2025-6758)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6758">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6758">
 
 ---
+## CVE-2025-67494 ()
+> 
+- [Chocapikk/CVE-2025-67494](https://github.com/Chocapikk/CVE-2025-67494)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-67494">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-67494">
+
+---
 ## CVE-2025-6713 ()
 > 
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
@@ -594,6 +599,7 @@
 - [Anthony558238/CVE-2025-65964-poc](https://github.com/Anthony558238/CVE-2025-65964-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony558238/CVE-2025-65964-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony558238/CVE-2025-65964-poc">
 - [Syzygy-K/CVE-2025-65964-Exploit](https://github.com/Syzygy-K/CVE-2025-65964-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Syzygy-K/CVE-2025-65964-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Syzygy-K/CVE-2025-65964-Exploit">
 - [Geekby/n8n-CVE-2025-65964](https://github.com/Geekby/n8n-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Geekby/n8n-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Geekby/n8n-CVE-2025-65964">
+- [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
 
 ---
 ## CVE-2025-65900 ()
