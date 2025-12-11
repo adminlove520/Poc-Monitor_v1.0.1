@@ -588,6 +588,10 @@
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-git-dep">
 - [shyambhanushali/React2Shell](https://github.com/shyambhanushali/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/shyambhanushali/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/shyambhanushali/React2Shell">
 - [ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182">
+- [changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/changgun-lee/Next.js-RSC-RCE-Scanner-CVE-2025-66478">
+- [rix4uni/CVE-2025-55182](https://github.com/rix4uni/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/rix4uni/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/rix4uni/CVE-2025-55182">
+- [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
+- [dr4xp/react2shell](https://github.com/dr4xp/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/react2shell">
 
 ---
 ## CVE-2025-66022 ()
