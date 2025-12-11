@@ -605,6 +605,11 @@
 - [l4rm4nd/CVE-2025-55182](https://github.com/l4rm4nd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/CVE-2025-55182">
 
 ---
+## CVE-2025-66470 ()
+> 
+- [Jmehta10/CVE-2025-66470](https://github.com/Jmehta10/CVE-2025-66470)	<img alt="forks" src="https://img.shields.io/github/forks/Jmehta10/CVE-2025-66470">	<img alt="stars" src="https://img.shields.io/github/stars/Jmehta10/CVE-2025-66470">
+
+---
 ## CVE-2025-66022 ()
 > 
 - [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
@@ -1496,6 +1501,7 @@
 - [dreysanox/CVE-2025-6018_Poc](https://github.com/dreysanox/CVE-2025-6018_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/dreysanox/CVE-2025-6018_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/dreysanox/CVE-2025-6018_Poc">
 - [harshitvarma05/CVE-2025-6019](https://github.com/harshitvarma05/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-6019">
 - [mistrustt/PAM-UDisks-PrivEsc-Metasploit](https://github.com/mistrustt/PAM-UDisks-PrivEsc-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/mistrustt/PAM-UDisks-PrivEsc-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/mistrustt/PAM-UDisks-PrivEsc-Metasploit">
+- [robbin0919/CVE-2025-6019](https://github.com/robbin0919/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/robbin0919/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/robbin0919/CVE-2025-6019">
 
 ---
 ## CVE-2025-6018 ()
