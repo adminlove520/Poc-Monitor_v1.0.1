@@ -2286,7 +2286,7 @@
 - [assetnote/react2shell-scanner](https://github.com/assetnote/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/react2shell-scanner">
 - [mktcz/CVE-2025-55182](https://github.com/mktcz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mktcz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mktcz/CVE-2025-55182">
 - [aspen-labs/CVE-2025-55182-checker](https://github.com/aspen-labs/CVE-2025-55182-checker)	<img alt="forks" src="https://img.shields.io/github/forks/aspen-labs/CVE-2025-55182-checker">	<img alt="stars" src="https://img.shields.io/github/stars/aspen-labs/CVE-2025-55182-checker">
-- [Rsatan/CVE-2025-55182-Tools](https://github.com/Rsatan/CVE-2025-55182-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/Rsatan/CVE-2025-55182-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/Rsatan/CVE-2025-55182-Tools">
+- [Rsatan/Next.js-Exploit-Tool](https://github.com/Rsatan/Next.js-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Rsatan/Next.js-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Rsatan/Next.js-Exploit-Tool">
 - [7ealvivek/CVE-2025-55182-by-Realvivek](https://github.com/7ealvivek/CVE-2025-55182-by-Realvivek)	<img alt="forks" src="https://img.shields.io/github/forks/7ealvivek/CVE-2025-55182-by-Realvivek">	<img alt="stars" src="https://img.shields.io/github/stars/7ealvivek/CVE-2025-55182-by-Realvivek">
 - [gensecaihq/react2shell-scanner](https://github.com/gensecaihq/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gensecaihq/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gensecaihq/react2shell-scanner">
 - [dissy123/cve-2025-55182](https://github.com/dissy123/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/dissy123/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/dissy123/cve-2025-55182">
@@ -2577,6 +2577,7 @@
 - [mrmtwoj/React2Shell-CVE-2025-55182](https://github.com/mrmtwoj/React2Shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/React2Shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/React2Shell-CVE-2025-55182">
 - [xalgord1/CVE-2025-55182-POC](https://github.com/xalgord1/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord1/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord1/CVE-2025-55182-POC">
 - [LC-pro/CVE-2025-55182-EXP](https://github.com/LC-pro/CVE-2025-55182-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LC-pro/CVE-2025-55182-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LC-pro/CVE-2025-55182-EXP">
+- [Tiger-Foxx/exploit-react-CVE-2025-55182](https://github.com/Tiger-Foxx/exploit-react-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Tiger-Foxx/exploit-react-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Tiger-Foxx/exploit-react-CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
@@ -2923,6 +2924,11 @@
 ## CVE-2025-53632 ()
 > 
 - [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2025-53632">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2025-53632">
+
+---
+## CVE-2025-53558 ()
+> 
+- [houqe/CVE-2025-53558](https://github.com/houqe/CVE-2025-53558)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/CVE-2025-53558">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/CVE-2025-53558">
 
 ---
 ## CVE-2025-53547 ()
