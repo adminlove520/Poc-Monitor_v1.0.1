@@ -2663,6 +2663,8 @@
 - [raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-](https://github.com/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-)	<img alt="forks" src="https://img.shields.io/github/forks/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">	<img alt="stars" src="https://img.shields.io/github/stars/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">
 - [oguri-souhei/CVE-2025-55182](https://github.com/oguri-souhei/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/oguri-souhei/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/oguri-souhei/CVE-2025-55182">
 - [xalgord/React2Shell](https://github.com/xalgord/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/xalgord/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/xalgord/React2Shell">
+- [ryanhafid/Scan_CVE-2025-55182](https://github.com/ryanhafid/Scan_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/Scan_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/Scan_CVE-2025-55182">
+- [ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
