@@ -2313,6 +2313,7 @@
 - [kimtruth/CVE-2025-55183-poc](https://github.com/kimtruth/CVE-2025-55183-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kimtruth/CVE-2025-55183-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kimtruth/CVE-2025-55183-poc">
 - [williavs/nextjs-security-update](https://github.com/williavs/nextjs-security-update)	<img alt="forks" src="https://img.shields.io/github/forks/williavs/nextjs-security-update">	<img alt="stars" src="https://img.shields.io/github/stars/williavs/nextjs-security-update">
 - [X-Cotang/CVE-2025-55183_POC](https://github.com/X-Cotang/CVE-2025-55183_POC)	<img alt="forks" src="https://img.shields.io/github/forks/X-Cotang/CVE-2025-55183_POC">	<img alt="stars" src="https://img.shields.io/github/stars/X-Cotang/CVE-2025-55183_POC">
+- [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
 
 ---
 ## CVE-2025-55182 ()
@@ -2655,6 +2656,8 @@
 - [W41T3D3V1L/COMPLETE-CVE-2025-55182](https://github.com/W41T3D3V1L/COMPLETE-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/W41T3D3V1L/COMPLETE-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/W41T3D3V1L/COMPLETE-CVE-2025-55182">
 - [gagaltotal/tot-react-rce-CVE-2025-55182](https://github.com/gagaltotal/tot-react-rce-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/tot-react-rce-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/tot-react-rce-CVE-2025-55182">
 - [0x5k/rs_CVE-2025-55182_React2Shell](https://github.com/0x5k/rs_CVE-2025-55182_React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/0x5k/rs_CVE-2025-55182_React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/0x5k/rs_CVE-2025-55182_React2Shell">
+- [bountyyfi/lonkero](https://github.com/bountyyfi/lonkero)	<img alt="forks" src="https://img.shields.io/github/forks/bountyyfi/lonkero">	<img alt="stars" src="https://img.shields.io/github/stars/bountyyfi/lonkero">
+- [raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-](https://github.com/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-)	<img alt="forks" src="https://img.shields.io/github/forks/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">	<img alt="stars" src="https://img.shields.io/github/stars/raivenLockdown/RCE_React2Shell_ButCooler-SomeUselessUsefulThingsLMAO-">
 
 ---
 ## CVE-2025-54988 ()
