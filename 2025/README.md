@@ -4908,6 +4908,11 @@
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
 
 ---
+## CVE-2025-36924 ()
+> 
+- [margaretegpid/CVE-2025-36924](https://github.com/margaretegpid/CVE-2025-36924)	<img alt="forks" src="https://img.shields.io/github/forks/margaretegpid/CVE-2025-36924">	<img alt="stars" src="https://img.shields.io/github/stars/margaretegpid/CVE-2025-36924">
+
+---
 ## CVE-2025-36535 ()
 > 
 - [korden-c/CVE-2025-36535](https://github.com/korden-c/CVE-2025-36535)	<img alt="forks" src="https://img.shields.io/github/forks/korden-c/CVE-2025-36535">	<img alt="stars" src="https://img.shields.io/github/stars/korden-c/CVE-2025-36535">
