@@ -1742,6 +1742,7 @@
 - [Ashwesker/Blackash-CVE-2025-58360](https://github.com/Ashwesker/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-58360">
 - [quyenheu/CVE-2025-58360](https://github.com/quyenheu/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/quyenheu/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/quyenheu/CVE-2025-58360">
 - [rxerium/CVE-2025-58360](https://github.com/rxerium/CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-58360">
+- [Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE">
 
 ---
 ## CVE-2025-58180 ()
