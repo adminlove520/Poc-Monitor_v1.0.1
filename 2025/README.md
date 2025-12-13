@@ -2697,6 +2697,7 @@
 - [ZorvithonLeo-Null/CVE-2025-55182-exploit](https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo-Null/CVE-2025-55182-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo-Null/CVE-2025-55182-exploit">
 - [sangleshubham/React-Security-CVE-2025-55182-Exploit](https://github.com/sangleshubham/React-Security-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sangleshubham/React-Security-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sangleshubham/React-Security-CVE-2025-55182-Exploit">
 - [TrixSec/CVE-2025-55182-Scanner](https://github.com/TrixSec/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TrixSec/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TrixSec/CVE-2025-55182-Scanner">
+- [mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478](https://github.com/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/mounta11n/CHECK-CVE-2025-55182-AND-CVE-2025-66478">
 
 ---
 ## CVE-2025-54988 ()
