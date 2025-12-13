@@ -475,6 +475,11 @@
 - [c137req/CVE-2025-6713](https://github.com/c137req/CVE-2025-6713)	<img alt="forks" src="https://img.shields.io/github/forks/c137req/CVE-2025-6713">	<img alt="stars" src="https://img.shields.io/github/stars/c137req/CVE-2025-6713">
 
 ---
+## CVE-2025-66947 ()
+> 
+- [kabir0104k/CVE-2025-66947](https://github.com/kabir0104k/CVE-2025-66947)	<img alt="forks" src="https://img.shields.io/github/forks/kabir0104k/CVE-2025-66947">	<img alt="stars" src="https://img.shields.io/github/stars/kabir0104k/CVE-2025-66947">
+
+---
 ## CVE-2025-666666 ()
 > 
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
@@ -2676,6 +2681,7 @@
 - [eaizy/react2hulud-scan](https://github.com/eaizy/react2hulud-scan)	<img alt="forks" src="https://img.shields.io/github/forks/eaizy/react2hulud-scan">	<img alt="stars" src="https://img.shields.io/github/stars/eaizy/react2hulud-scan">
 - [sho-luv/React2Shell](https://github.com/sho-luv/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/React2Shell">
 - [gguatit/React2Shell-CVE-2025-55182-](https://github.com/gguatit/React2Shell-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/gguatit/React2Shell-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/gguatit/React2Shell-CVE-2025-55182-">
+- [TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/ReactOOPS-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/ReactOOPS-WriteUp">
 
 ---
 ## CVE-2025-54988 ()
