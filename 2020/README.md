@@ -2983,6 +2983,12 @@
 - [Live-Hack-CVE/CVE-2020-25692](https://github.com/Live-Hack-CVE/CVE-2020-25692)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25692">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25692">
 
 ---
+## CVE-2020-25681 ()
+> 
+- [nuliljj/CVE-2020-25681](https://github.com/nuliljj/CVE-2020-25681)	<img alt="forks" src="https://img.shields.io/github/forks/nuliljj/CVE-2020-25681">	<img alt="stars" src="https://img.shields.io/github/stars/nuliljj/CVE-2020-25681">
+- [nuliljj/kimocoder-CVE-2020-25681](https://github.com/nuliljj/kimocoder-CVE-2020-25681)	<img alt="forks" src="https://img.shields.io/github/forks/nuliljj/kimocoder-CVE-2020-25681">	<img alt="stars" src="https://img.shields.io/github/stars/nuliljj/kimocoder-CVE-2020-25681">
+
+---
 ## CVE-2020-25679 (2023-01-19T18:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: The CNA or individual who requested this candidate did not associate it with any vulnerability during 2020. Notes: none.
 - [Live-Hack-CVE/CVE-2020-25679](https://github.com/Live-Hack-CVE/CVE-2020-25679)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25679">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25679">
