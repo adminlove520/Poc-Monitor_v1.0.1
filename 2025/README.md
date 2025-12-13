@@ -2685,6 +2685,7 @@
 - [TheStingR/ReactOOPS-WriteUp](https://github.com/TheStingR/ReactOOPS-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/ReactOOPS-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/ReactOOPS-WriteUp">
 - [MoLeft/React2Shell-Toolbox](https://github.com/MoLeft/React2Shell-Toolbox)	<img alt="forks" src="https://img.shields.io/github/forks/MoLeft/React2Shell-Toolbox">	<img alt="stars" src="https://img.shields.io/github/stars/MoLeft/React2Shell-Toolbox">
 - [mantvmass/react2shell](https://github.com/mantvmass/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/mantvmass/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/mantvmass/react2shell">
+- [quxaa/RSC-Security-Analyzer](https://github.com/quxaa/RSC-Security-Analyzer)	<img alt="forks" src="https://img.shields.io/github/forks/quxaa/RSC-Security-Analyzer">	<img alt="stars" src="https://img.shields.io/github/stars/quxaa/RSC-Security-Analyzer">
 
 ---
 ## CVE-2025-54988 ()
