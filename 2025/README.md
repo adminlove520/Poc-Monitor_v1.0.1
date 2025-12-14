@@ -2707,6 +2707,7 @@
 - [hidden-investigations/react2shell-vulnlab](https://github.com/hidden-investigations/react2shell-vulnlab)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-vulnlab">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-vulnlab">
 - [MammaniNelsonD/React2P4IM0Nshell](https://github.com/MammaniNelsonD/React2P4IM0Nshell)	<img alt="forks" src="https://img.shields.io/github/forks/MammaniNelsonD/React2P4IM0Nshell">	<img alt="stars" src="https://img.shields.io/github/stars/MammaniNelsonD/React2P4IM0Nshell">
 - [tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2025-55182">
+- [ProwlSec/React2Shell](https://github.com/ProwlSec/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ProwlSec/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ProwlSec/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
