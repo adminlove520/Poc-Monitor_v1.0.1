@@ -2709,7 +2709,7 @@
 - [tinashelorenzi/CVE-2025-55182](https://github.com/tinashelorenzi/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/tinashelorenzi/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/tinashelorenzi/CVE-2025-55182">
 - [ProwlSec/React2Shell](https://github.com/ProwlSec/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/ProwlSec/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/ProwlSec/React2Shell">
 - [VVVI5HNU/CVE-2025-55182](https://github.com/VVVI5HNU/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/VVVI5HNU/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/VVVI5HNU/CVE-2025-55182">
-- [CyberPrince-hub/CVE-2025-55182-Advanced-Scanner](https://github.com/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CyberPrince-hub/CVE-2025-55182-Advanced-Scanner">
+- [CyberPrince-hub/React2shell-ultimate-scanner](https://github.com/CyberPrince-hub/React2shell-ultimate-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CyberPrince-hub/React2shell-ultimate-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CyberPrince-hub/React2shell-ultimate-scanner">
 - [hidden-investigations/react2shell-scanner](https://github.com/hidden-investigations/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hidden-investigations/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hidden-investigations/react2shell-scanner">
 
 ---
@@ -7718,6 +7718,7 @@
 ## CVE-2025-14174 ()
 > 
 - [MalBean/CVE-2025-14174-Bypass](https://github.com/MalBean/CVE-2025-14174-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/MalBean/CVE-2025-14174-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/MalBean/CVE-2025-14174-Bypass">
+- [Terrasue/CVE-2025-14174-Exploit](https://github.com/Terrasue/CVE-2025-14174-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Terrasue/CVE-2025-14174-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Terrasue/CVE-2025-14174-Exploit">
 
 ---
 ## CVE-2025-13796 ()
