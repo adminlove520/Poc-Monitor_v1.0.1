@@ -7984,6 +7984,11 @@
 - [dexterm300/cve-2025-12428-exploit-poc](https://github.com/dexterm300/cve-2025-12428-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dexterm300/cve-2025-12428-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dexterm300/cve-2025-12428-exploit-poc">
 
 ---
+## CVE-2025-12163 ()
+> 
+- [SnailSploit/CVE-2025-12163](https://github.com/SnailSploit/CVE-2025-12163)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2025-12163">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2025-12163">
+
+---
 ## CVE-2025-12101 ()
 > 
 - [6h4ack/CVE-2025-12101-checker](https://github.com/6h4ack/CVE-2025-12101-checker)	<img alt="forks" src="https://img.shields.io/github/forks/6h4ack/CVE-2025-12101-checker">	<img alt="stars" src="https://img.shields.io/github/stars/6h4ack/CVE-2025-12101-checker">
