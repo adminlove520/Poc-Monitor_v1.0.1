@@ -2768,6 +2768,7 @@
 - [doc0null/nextjs-CVE-2025-55182](https://github.com/doc0null/nextjs-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/doc0null/nextjs-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/doc0null/nextjs-CVE-2025-55182">
 - [itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/itumo-arigatone/study-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/itumo-arigatone/study-CVE-2025-55182">
 - [EQSTLab/CVE-2025-55182](https://github.com/EQSTLab/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-55182">
+- [scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/FiberBreak">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/FiberBreak">
 
 ---
 ## CVE-2025-54988 ()
