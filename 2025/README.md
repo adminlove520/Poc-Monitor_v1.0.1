@@ -673,6 +673,11 @@
 - [Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2025-65964">
 
 ---
+## CVE-2025-65945 ()
+> 
+- [jedisct1/CVE-2025-65945-poc](https://github.com/jedisct1/CVE-2025-65945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/jedisct1/CVE-2025-65945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/jedisct1/CVE-2025-65945-poc">
+
+---
 ## CVE-2025-65900 ()
 > 
 - [Noxurge/CVE-2025-65900](https://github.com/Noxurge/CVE-2025-65900)	<img alt="forks" src="https://img.shields.io/github/forks/Noxurge/CVE-2025-65900">	<img alt="stars" src="https://img.shields.io/github/stars/Noxurge/CVE-2025-65900">
