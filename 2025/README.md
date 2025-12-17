@@ -2817,6 +2817,7 @@
 - [M4rgs/CVE-2025-55182-React2Shell-Exploit](https://github.com/M4rgs/CVE-2025-55182-React2Shell-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M4rgs/CVE-2025-55182-React2Shell-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M4rgs/CVE-2025-55182-React2Shell-Exploit">
 - [nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-](https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-">
 - [ceh-aditya-raj/CVE-2025-55182](https://github.com/ceh-aditya-raj/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ceh-aditya-raj/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ceh-aditya-raj/CVE-2025-55182">
+- [pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pwnxpl0it/react2shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pwnxpl0it/react2shell-lab">
 
 ---
 ## CVE-2025-54988 ()
@@ -7828,6 +7829,11 @@
 ## CVE-2025-1550 ()
 > 
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
+
+---
+## CVE-2025-14700 ()
+> 
+- [Nosiume/CVE-2025-14700-poc](https://github.com/Nosiume/CVE-2025-14700-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-14700-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-14700-poc">
 
 ---
 ## CVE-2025-14696 ()
