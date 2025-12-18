@@ -463,7 +463,7 @@
 ---
 ## CVE-2025-68434 ()
 > 
-- [Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF-Unauthorized-Administrator-Creation">
+- [Nixon-H/CVE-2025-68434-OSPOS-CSRF](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68434-OSPOS-CSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68434-OSPOS-CSRF">
 
 ---
 ## CVE-2025-68147 ()
