@@ -12747,6 +12747,11 @@ If the server is run as root (which is the default when installing the  snap pac
 - [Live-Hack-CVE/CVE-2023-0705](https://github.com/Live-Hack-CVE/CVE-2023-0705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0705">
 
 ---
+## CVE-2023-0704 ()
+> 
+- [hex01e/exploit-CVE-2023-0704](https://github.com/hex01e/exploit-CVE-2023-0704)	<img alt="forks" src="https://img.shields.io/github/forks/hex01e/exploit-CVE-2023-0704">	<img alt="stars" src="https://img.shields.io/github/stars/hex01e/exploit-CVE-2023-0704">
+
+---
 ## CVE-2023-0698 (2023-02-07T21:15:00)
 > Out of bounds read in WebRTC in Google Chrome prior to 110.0.5481.77 allowed a remote attacker to perform an out of bounds memory read via a crafted HTML page. (Chromium security severity: High)
 - [Live-Hack-CVE/CVE-2023-0698](https://github.com/Live-Hack-CVE/CVE-2023-0698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0698">
