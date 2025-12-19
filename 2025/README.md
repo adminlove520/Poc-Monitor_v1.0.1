@@ -479,6 +479,7 @@
 ## CVE-2025-68055 ()
 > 
 - [Nosiume/CVE-2025-68055](https://github.com/Nosiume/CVE-2025-68055)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-68055">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-68055">
+- [Nosiume/CVE-2025-68055-poc](https://github.com/Nosiume/CVE-2025-68055-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-68055-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-68055-poc">
 
 ---
 ## CVE-2025-67888 ()
