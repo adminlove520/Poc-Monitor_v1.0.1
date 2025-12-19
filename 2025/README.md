@@ -7911,6 +7911,11 @@
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
 
 ---
+## CVE-2025-14733 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
+
+---
 ## CVE-2025-14700 ()
 > 
 - [Nosiume/CVE-2025-14700-poc](https://github.com/Nosiume/CVE-2025-14700-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nosiume/CVE-2025-14700-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nosiume/CVE-2025-14700-poc">
