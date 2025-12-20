@@ -4237,6 +4237,11 @@ use after free.
 - [g1thubb001/poc-CVE-2019-11248](https://github.com/g1thubb001/poc-CVE-2019-11248)	<img alt="forks" src="https://img.shields.io/github/forks/g1thubb001/poc-CVE-2019-11248">	<img alt="stars" src="https://img.shields.io/github/stars/g1thubb001/poc-CVE-2019-11248">
 
 ---
+## CVE-2019-11231 ()
+> 
+- [akincibor/CVE-2019-11231-PoC](https://github.com/akincibor/CVE-2019-11231-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akincibor/CVE-2019-11231-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akincibor/CVE-2019-11231-PoC">
+
+---
 ## CVE-2019-11206 (2019-05-14T20:29:00)
 > The Spotfire library component of TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace, and TIBCO Spotfire Server contains vulnerabilities that theoretically allow a malicious user to undermine the integrity of comments and bookmarks. Affected releases are TIBCO Software Inc.'s TIBCO Spotfire Analytics Platform for AWS Marketplace: versions up to and including 10.2.0, and TIBCO Spotfire Server: versions up to and including 7.11.2; 7.12.0; 7.13.0; 7.14.0; 10.0.0; 10.0.1; 10.1.0; and 10.2.0.
 - [Live-Hack-CVE/CVE-2019-11206](https://github.com/Live-Hack-CVE/CVE-2019-11206)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11206">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11206">
