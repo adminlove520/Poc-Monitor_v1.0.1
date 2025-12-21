@@ -782,6 +782,11 @@
 - [Bidon47/CVE-2025-65806](https://github.com/Bidon47/CVE-2025-65806)	<img alt="forks" src="https://img.shields.io/github/forks/Bidon47/CVE-2025-65806">	<img alt="stars" src="https://img.shields.io/github/stars/Bidon47/CVE-2025-65806">
 
 ---
+## CVE-2025-65790 ()
+> 
+- [hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790](https://github.com/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790)	<img alt="forks" src="https://img.shields.io/github/forks/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790">	<img alt="stars" src="https://img.shields.io/github/stars/hunterxxx/FuguHub-8.1-Reflected-SVG-XSS-CVE-2025-65790">
+
+---
 ## CVE-2025-65754 ()
 > 
 - [Bnyt7/CVE-2025-65754](https://github.com/Bnyt7/CVE-2025-65754)	<img alt="forks" src="https://img.shields.io/github/forks/Bnyt7/CVE-2025-65754">	<img alt="stars" src="https://img.shields.io/github/stars/Bnyt7/CVE-2025-65754">
@@ -999,7 +1004,7 @@
 - [fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal](https://github.com/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2025-64446-PoC---FortiWeb-Path-Traversal">
 - [sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC](https://github.com/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">
 - [sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC](https://github.com/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sxyrxyy/CVE-2025-64446-FortiWeb-CGI-Bypass-PoC">
-- [B1ack4sh/Blackash-CVE-2025-64446](https://github.com/B1ack4sh/Blackash-CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-64446">
+- [Ashwesker/Blackash-CVE-2025-64446](https://github.com/Ashwesker/Blackash-CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-64446">
 - [soltanali0/CVE-2025-64446-Exploit](https://github.com/soltanali0/CVE-2025-64446-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-64446-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-64446-Exploit">
 - [sensepost/CVE-2025-64446](https://github.com/sensepost/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/sensepost/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/sensepost/CVE-2025-64446">
 - [D3crypT0r/CVE-2025-64446](https://github.com/D3crypT0r/CVE-2025-64446)	<img alt="forks" src="https://img.shields.io/github/forks/D3crypT0r/CVE-2025-64446">	<img alt="stars" src="https://img.shields.io/github/stars/D3crypT0r/CVE-2025-64446">
@@ -1008,6 +1013,7 @@
 - [Death112233/CVE-2025-64446-](https://github.com/Death112233/CVE-2025-64446-)	<img alt="forks" src="https://img.shields.io/github/forks/Death112233/CVE-2025-64446-">	<img alt="stars" src="https://img.shields.io/github/stars/Death112233/CVE-2025-64446-">
 - [AN5I/cve-2025-64446-fortiweb-exploit](https://github.com/AN5I/cve-2025-64446-fortiweb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/AN5I/cve-2025-64446-fortiweb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/AN5I/cve-2025-64446-fortiweb-exploit">
 - [lequoca/fortinet-fortiweb-cve-2025-64446-58034](https://github.com/lequoca/fortinet-fortiweb-cve-2025-64446-58034)	<img alt="forks" src="https://img.shields.io/github/forks/lequoca/fortinet-fortiweb-cve-2025-64446-58034">	<img alt="stars" src="https://img.shields.io/github/stars/lequoca/fortinet-fortiweb-cve-2025-64446-58034">
+- [mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits](https://github.com/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Silent-WebStorm-Fortinet-s-Hidden-Exploits">
 
 ---
 ## CVE-2025-64403 ()
