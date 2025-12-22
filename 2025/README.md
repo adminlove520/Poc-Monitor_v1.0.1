@@ -117,6 +117,7 @@
 - [pppxo/CVE-2025-9074-PoC-Bash](https://github.com/pppxo/CVE-2025-9074-PoC-Bash)	<img alt="forks" src="https://img.shields.io/github/forks/pppxo/CVE-2025-9074-PoC-Bash">	<img alt="stars" src="https://img.shields.io/github/stars/pppxo/CVE-2025-9074-PoC-Bash">
 - [3rendil/CVE-2025-9074-POC](https://github.com/3rendil/CVE-2025-9074-POC)	<img alt="forks" src="https://img.shields.io/github/forks/3rendil/CVE-2025-9074-POC">	<img alt="stars" src="https://img.shields.io/github/stars/3rendil/CVE-2025-9074-POC">
 - [fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER](https://github.com/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/fsoc-ghost-0x/CVE-2025-9074_DAEMON_KILLER">
+- [zaydbf/CVE-2025-9074-Poc](https://github.com/zaydbf/CVE-2025-9074-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/zaydbf/CVE-2025-9074-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/zaydbf/CVE-2025-9074-Poc">
 
 ---
 ## CVE-2025-9043 ()
@@ -7980,6 +7981,7 @@
 ## CVE-2025-14733 ()
 > 
 - [Ashwesker/Blackash-CVE-2025-14733](https://github.com/Ashwesker/Blackash-CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14733">
+- [b1gchoi/CVE-2025-14733](https://github.com/b1gchoi/CVE-2025-14733)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14733">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14733">
 
 ---
 ## CVE-2025-14700 ()
