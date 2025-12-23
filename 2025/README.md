@@ -467,6 +467,7 @@
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
 - [intbjw/CVE-2025-68613-poc-via-copilot](https://github.com/intbjw/CVE-2025-68613-poc-via-copilot)	<img alt="forks" src="https://img.shields.io/github/forks/intbjw/CVE-2025-68613-poc-via-copilot">	<img alt="stars" src="https://img.shields.io/github/stars/intbjw/CVE-2025-68613-poc-via-copilot">
 - [ali-py3/Exploit-CVE-2025-68613](https://github.com/ali-py3/Exploit-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ali-py3/Exploit-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ali-py3/Exploit-CVE-2025-68613">
+- [nehkark/CVE-2025-68613](https://github.com/nehkark/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
@@ -2947,6 +2948,7 @@
 - [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
 - [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
+- [Anon2Fear/CVE-2025-55182](https://github.com/Anon2Fear/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Anon2Fear/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Anon2Fear/CVE-2025-55182">
 
 ---
 ## CVE-2025-54988 ()
