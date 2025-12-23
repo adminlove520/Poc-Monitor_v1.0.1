@@ -2945,6 +2945,7 @@
 - [BlackTechX011/React2Shell](https://github.com/BlackTechX011/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/BlackTechX011/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/BlackTechX011/React2Shell">
 - [ckex/test-vuln](https://github.com/ckex/test-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ckex/test-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ckex/test-vuln">
 - [S3cr3t-SDN/React4Shell](https://github.com/S3cr3t-SDN/React4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/S3cr3t-SDN/React4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/S3cr3t-SDN/React4Shell">
+- [jensnesten/React2Shell-PoC](https://github.com/jensnesten/React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jensnesten/React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jensnesten/React2Shell-PoC">
 
 ---
 ## CVE-2025-54988 ()
@@ -7223,7 +7224,7 @@
 - [x00byte/PutScanner](https://github.com/x00byte/PutScanner)	<img alt="forks" src="https://img.shields.io/github/forks/x00byte/PutScanner">	<img alt="stars" src="https://img.shields.io/github/stars/x00byte/PutScanner">
 - [uzairhaider502/CVE-2025-24813](https://github.com/uzairhaider502/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/uzairhaider502/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/uzairhaider502/CVE-2025-24813">
 - [cyglegit/CVE-2025-24813](https://github.com/cyglegit/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/cyglegit/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/cyglegit/CVE-2025-24813">
-- [137f/PoC-CVE-2025-24813](https://github.com/137f/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/137f/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/137f/PoC-CVE-2025-24813">
+- [ftz7/PoC-CVE-2025-24813](https://github.com/ftz7/PoC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/ftz7/PoC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/ftz7/PoC-CVE-2025-24813">
 - [thebringerofdeath789/CVE-2025-24813](https://github.com/thebringerofdeath789/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/thebringerofdeath789/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/thebringerofdeath789/CVE-2025-24813">
 - [threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat](https://github.com/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/threadpoolx/CVE-2025-24813-Remote-Code-Execution-in-Apache-Tomcat">
 - [CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAlbez/CVE-2025-24813-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAlbez/CVE-2025-24813-PoC">
@@ -8030,6 +8031,7 @@
 ## CVE-2025-14558 ()
 > 
 - [JohannesLks/CVE-2025-14558](https://github.com/JohannesLks/CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-14558">
+- [Ashwesker/Blackash-CVE-2025-14558](https://github.com/Ashwesker/Blackash-CVE-2025-14558)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-14558">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-14558">
 
 ---
 ## CVE-2025-14440 ()
