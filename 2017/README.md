@@ -832,6 +832,11 @@
 - [FarizDevloper/CVE-2017-2024](https://github.com/FarizDevloper/CVE-2017-2024)	<img alt="forks" src="https://img.shields.io/github/forks/FarizDevloper/CVE-2017-2024">	<img alt="stars" src="https://img.shields.io/github/stars/FarizDevloper/CVE-2017-2024">
 
 ---
+## CVE-2017-20192 ()
+> 
+- [flame-11/CVE-2017-20192-formidable-forms](https://github.com/flame-11/CVE-2017-20192-formidable-forms)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2017-20192-formidable-forms">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2017-20192-formidable-forms">
+
+---
 ## CVE-2017-20177 (2023-02-06T20:15:00)
 > A vulnerability, which was classified as problematic, has been found in WangGuard Plugin 1.8.0. Affected by this issue is the function wangguard_users_info of the file wangguard-user-info.php of the component WGG User List Handler. The manipulation of the argument userIP leads to cross site scripting. The attack may be launched remotely. The name of the patch is 88414951e30773c8d2ec13b99642688284bf3189. It is recommended to apply a patch to fix this issue. VDB-220214 is the identifier assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20177](https://github.com/Live-Hack-CVE/CVE-2017-20177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20177">
