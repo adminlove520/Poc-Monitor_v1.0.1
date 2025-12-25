@@ -1245,6 +1245,11 @@
 - [Aditya43621/lab-cve-2016-15042](https://github.com/Aditya43621/lab-cve-2016-15042)	<img alt="forks" src="https://img.shields.io/github/forks/Aditya43621/lab-cve-2016-15042">	<img alt="stars" src="https://img.shields.io/github/stars/Aditya43621/lab-cve-2016-15042">
 
 ---
+## CVE-2016-15041 ()
+> 
+- [flame-11/CVE-2016-15041-mainwp-dashboard](https://github.com/flame-11/CVE-2016-15041-mainwp-dashboard)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2016-15041-mainwp-dashboard">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2016-15041-mainwp-dashboard">
+
+---
 ## CVE-2016-15023 (2023-01-31T20:15:00)
 > A vulnerability, which was classified as problematic, was found in SiteFusion Application Server up to 6.6.6. This affects an unknown part of the file getextension.php of the component Extension Handler. The manipulation leads to path traversal. Upgrading to version 6.6.7 is able to address this issue. The name of the patch is 49fff155c303d6cd06ce8f97bba56c9084bf08ac. It is recommended to upgrade the affected component. The identifier VDB-219765 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2016-15023](https://github.com/Live-Hack-CVE/CVE-2016-15023)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-15023">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-15023">
