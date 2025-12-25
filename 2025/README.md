@@ -1292,6 +1292,7 @@
 - [baktistr/cve-2025-62726-poc](https://github.com/baktistr/cve-2025-62726-poc)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-poc">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-poc">
 - [baktistr/cve-2025-62726-malicious-repo](https://github.com/baktistr/cve-2025-62726-malicious-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-malicious-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-malicious-repo">
 - [baktistr/cve-2025-62726-legit-repo](https://github.com/baktistr/cve-2025-62726-legit-repo)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2025-62726-legit-repo">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2025-62726-legit-repo">
+- [Muzyli/cve-2025-62726-malicious-repo](https://github.com/Muzyli/cve-2025-62726-malicious-repo)	<img alt="forks" src="https://img.shields.io/github/forks/Muzyli/cve-2025-62726-malicious-repo">	<img alt="stars" src="https://img.shields.io/github/stars/Muzyli/cve-2025-62726-malicious-repo">
 
 ---
 ## CVE-2025-62641 ()
