@@ -463,6 +463,11 @@
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
 
 ---
+## CVE-2025-68645 ()
+> 
+- [Ashwesker/Blackash-CVE-2025-68645](https://github.com/Ashwesker/Blackash-CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68645">
+
+---
 ## CVE-2025-68613 ()
 > 
 - [rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68613">
@@ -479,6 +484,7 @@
 - [intelligent-ears/CVE-2025-68613](https://github.com/intelligent-ears/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/intelligent-ears/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/intelligent-ears/CVE-2025-68613">
 - [r4j3sh-com/CVE-2025-68613-n8n-lab](https://github.com/r4j3sh-com/CVE-2025-68613-n8n-lab)	<img alt="forks" src="https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-68613-n8n-lab">	<img alt="stars" src="https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-68613-n8n-lab">
 - [manyaigdtuw/CVE-2025-68613_Scanner](https://github.com/manyaigdtuw/CVE-2025-68613_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manyaigdtuw/CVE-2025-68613_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manyaigdtuw/CVE-2025-68613_Scanner">
+- [AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AbdulRKB/n8n-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AbdulRKB/n8n-RCE">
 
 ---
 ## CVE-2025-6860 ()
