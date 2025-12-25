@@ -6169,6 +6169,7 @@
 - [Dany60-98/CVE-2025-30208-EXP](https://github.com/Dany60-98/CVE-2025-30208-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/Dany60-98/CVE-2025-30208-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/Dany60-98/CVE-2025-30208-EXP">
 - [qodo-dev/CVE-2025-30208](https://github.com/qodo-dev/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/qodo-dev/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/qodo-dev/CVE-2025-30208">
 - [Lusensec/CVE-2025-30208](https://github.com/Lusensec/CVE-2025-30208)	<img alt="forks" src="https://img.shields.io/github/forks/Lusensec/CVE-2025-30208">	<img alt="stars" src="https://img.shields.io/github/stars/Lusensec/CVE-2025-30208">
+- [layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers](https://github.com/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers)	<img alt="forks" src="https://img.shields.io/github/forks/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">	<img alt="stars" src="https://img.shields.io/github/stars/layanOd/CVE-2025-30208-Arbitrary-File-Read-in-Vite-servers">
 
 ---
 ## CVE-2025-30144 ()
