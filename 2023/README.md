@@ -11711,6 +11711,7 @@ kernel memory, lateral privilege escalation, and container escape.
 ## CVE-2023-20938 ()
 > 
 - [anansi2safe/CVE-2023-20938](https://github.com/anansi2safe/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2023-20938">
+- [0xAtharv/CVE-2023-20938](https://github.com/0xAtharv/CVE-2023-20938)	<img alt="forks" src="https://img.shields.io/github/forks/0xAtharv/CVE-2023-20938">	<img alt="stars" src="https://img.shields.io/github/stars/0xAtharv/CVE-2023-20938">
 
 ---
 ## CVE-2023-20933 (2023-02-28T17:15:00)
