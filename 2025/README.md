@@ -3093,6 +3093,7 @@
 - [vick333-peniel/vick333-peniel.github.io](https://github.com/vick333-peniel/vick333-peniel.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/vick333-peniel/vick333-peniel.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/vick333-peniel/vick333-peniel.github.io">
 - [vick333-peniel/ReactExploitGUI](https://github.com/vick333-peniel/ReactExploitGUI)	<img alt="forks" src="https://img.shields.io/github/forks/vick333-peniel/ReactExploitGUI">	<img alt="stars" src="https://img.shields.io/github/stars/vick333-peniel/ReactExploitGUI">
 - [ogpourya/CVE-2025-55182](https://github.com/ogpourya/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ogpourya/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ogpourya/CVE-2025-55182">
+- [Black-and-reds/reactguard](https://github.com/Black-and-reds/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Black-and-reds/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Black-and-reds/reactguard">
 
 ---
 ## CVE-2025-54988 ()
@@ -8235,6 +8236,8 @@
 - [14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026](https://github.com/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
 - [joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-14847">
+- [tunahantekeoglu/MongoDeepDive](https://github.com/tunahantekeoglu/MongoDeepDive)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/MongoDeepDive">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/MongoDeepDive">
+- [ob1sec/mongobleeder](https://github.com/ob1sec/mongobleeder)	<img alt="forks" src="https://img.shields.io/github/forks/ob1sec/mongobleeder">	<img alt="stars" src="https://img.shields.io/github/stars/ob1sec/mongobleeder">
 
 ---
 ## CVE-2025-14765 ()
