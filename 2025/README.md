@@ -273,7 +273,7 @@
 - [papcaii2004/CVE-2025-8088-WinRAR-builder](https://github.com/papcaii2004/CVE-2025-8088-WinRAR-builder)	<img alt="forks" src="https://img.shields.io/github/forks/papcaii2004/CVE-2025-8088-WinRAR-builder">	<img alt="stars" src="https://img.shields.io/github/stars/papcaii2004/CVE-2025-8088-WinRAR-builder">
 - [kaucent/CVE-2025-8088](https://github.com/kaucent/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kaucent/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kaucent/CVE-2025-8088">
 - [mocred/cve-2025-8088](https://github.com/mocred/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/mocred/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/mocred/cve-2025-8088">
-- [Ashwesker/Blackash-CVE-2025-8088](https://github.com/Ashwesker/Blackash-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-8088">
+- [Ashwesker/Ashwesker-CVE-2025-8088](https://github.com/Ashwesker/Ashwesker-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-8088">
 - [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
 - [nuky-alt/CVE-2025-8088](https://github.com/nuky-alt/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/nuky-alt/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/nuky-alt/CVE-2025-8088">
 - [shourout/CVE-2025-8088](https://github.com/shourout/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shourout/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shourout/CVE-2025-8088">
@@ -5557,7 +5557,7 @@
 - [sleepasleepzzz/CVE-2025-33073](https://github.com/sleepasleepzzz/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sleepasleepzzz/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sleepasleepzzz/CVE-2025-33073">
 - [SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073](https://github.com/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/SFRDevelopment/windows-smb-vulnerability-framework-cve-2025-33073">
 - [uziii2208/CVE-2025-33073](https://github.com/uziii2208/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/uziii2208/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/uziii2208/CVE-2025-33073">
-- [Ashwesker/Blackash-CVE-2025-33073](https://github.com/Ashwesker/Blackash-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-33073">
+- [Ashwesker/Ashwesker-CVE-2025-33073](https://github.com/Ashwesker/Ashwesker-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-33073">
 - [Iddygodwin/CVE-2025-33073](https://github.com/Iddygodwin/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/Iddygodwin/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/Iddygodwin/CVE-2025-33073">
 
 ---
@@ -5874,7 +5874,7 @@
 - [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-32433">
 - [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-32433-Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-32433-Eploit">
 - [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit">
-- [AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-](https://github.com/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">
+- [AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433](https://github.com/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()
@@ -8221,6 +8221,11 @@
 ## CVE-2025-14696 ()
 > 
 - [b1gchoi/CVE-2025-14696](https://github.com/b1gchoi/CVE-2025-14696)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2025-14696">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2025-14696">
+
+---
+## CVE-2025-14611 ()
+> 
+- [pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit](https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit">
 
 ---
 ## CVE-2025-1461 ()
