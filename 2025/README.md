@@ -1505,7 +1505,7 @@
 - [watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882](https://github.com/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">
 - [watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882](https://github.com/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Oracle-E-Business-Suite-CVE-2025-61882">
 - [Sachinart/CVE-2025-61882](https://github.com/Sachinart/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-61882">
-- [Ashwesker/Blackash-CVE-2025-61882](https://github.com/Ashwesker/Blackash-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-61882">
+- [Ashwesker/Ashwesker-CVE-2025-61882](https://github.com/Ashwesker/Ashwesker-CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-61882">
 - [zerozenxlabs/CVE-2025-61882-Oracle-EBS](https://github.com/zerozenxlabs/CVE-2025-61882-Oracle-EBS)	<img alt="forks" src="https://img.shields.io/github/forks/zerozenxlabs/CVE-2025-61882-Oracle-EBS">	<img alt="stars" src="https://img.shields.io/github/stars/zerozenxlabs/CVE-2025-61882-Oracle-EBS">
 - [PrismaScan/CVE-2025-61882](https://github.com/PrismaScan/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/PrismaScan/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/PrismaScan/CVE-2025-61882">
 - [AlloySec/CVE-2025-61882](https://github.com/AlloySec/CVE-2025-61882)	<img alt="forks" src="https://img.shields.io/github/forks/AlloySec/CVE-2025-61882">	<img alt="stars" src="https://img.shields.io/github/stars/AlloySec/CVE-2025-61882">
@@ -5793,6 +5793,7 @@
 - [ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation](https://github.com/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/CVE-2025-32463-Sudo-Privilege-Escalation">
 - [justjoeyking/CVE-2025-32463](https://github.com/justjoeyking/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/justjoeyking/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/justjoeyking/CVE-2025-32463">
 - [Mr-Alperen/CVE-2025-32463](https://github.com/Mr-Alperen/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Alperen/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Alperen/CVE-2025-32463">
+- [aexdyhaxor/CVE-2025-32463](https://github.com/aexdyhaxor/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -5873,6 +5874,7 @@
 - [radzek15/CVE-2025-32433](https://github.com/radzek15/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2025-32433">
 - [soltanali0/CVE-2025-32433-Eploit](https://github.com/soltanali0/CVE-2025-32433-Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-32433-Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-32433-Eploit">
 - [giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit">
+- [AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-](https://github.com/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC-CVE-2025-32433-">
 
 ---
 ## CVE-2025-32432 ()
