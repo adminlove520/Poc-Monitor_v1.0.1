@@ -8234,6 +8234,7 @@
 - [Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847](https://github.com/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/Security-Phoenix-demo/mongobleed-exploit-CVE-2025-14847">
 - [14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026](https://github.com/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026)	<img alt="forks" src="https://img.shields.io/github/forks/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">	<img alt="stars" src="https://img.shields.io/github/stars/14mb1v45h/CYBERDUDEBIVASH-MONGODB-DETECTOR-v2026">
 - [kuyrathdaro/cve-2025-14847](https://github.com/kuyrathdaro/cve-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-14847">
+- [joshuavanderpoll/CVE-2025-14847](https://github.com/joshuavanderpoll/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-14847">
 
 ---
 ## CVE-2025-14765 ()
