@@ -483,7 +483,7 @@
 ## CVE-2025-68613 ()
 > 
 - [rxerium/CVE-2025-68613](https://github.com/rxerium/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-68613">
-- [Ashwesker/Blackash-CVE-2025-68613](https://github.com/Ashwesker/Blackash-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-68613">
+- [Ashwesker/Ashwesker-CVE-2025-68613](https://github.com/Ashwesker/Ashwesker-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-68613">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [TheStingR/CVE-2025-68613-POC](https://github.com/TheStingR/CVE-2025-68613-POC)	<img alt="forks" src="https://img.shields.io/github/forks/TheStingR/CVE-2025-68613-POC">	<img alt="stars" src="https://img.shields.io/github/stars/TheStingR/CVE-2025-68613-POC">
 - [wioui/n8n-CVE-2025-68613-exploit](https://github.com/wioui/n8n-CVE-2025-68613-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wioui/n8n-CVE-2025-68613-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wioui/n8n-CVE-2025-68613-exploit">
@@ -508,6 +508,7 @@
 - [LingerANR/n8n-CVE-2025-68613](https://github.com/LingerANR/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/LingerANR/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/LingerANR/n8n-CVE-2025-68613">
 - [reem-012/poc_CVE-2025-68613](https://github.com/reem-012/poc_CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/reem-012/poc_CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/reem-012/poc_CVE-2025-68613">
 - [gagaltotal/n8n-cve-2025-68613](https://github.com/gagaltotal/n8n-cve-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/n8n-cve-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/n8n-cve-2025-68613">
+- [cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/cv-sai-kamesh/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/cv-sai-kamesh/n8n-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
