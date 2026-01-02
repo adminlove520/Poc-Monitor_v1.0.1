@@ -605,6 +605,11 @@
 - [RajChowdhury240/CVE-2025-67435](https://github.com/RajChowdhury240/CVE-2025-67435)	<img alt="forks" src="https://img.shields.io/github/forks/RajChowdhury240/CVE-2025-67435">	<img alt="stars" src="https://img.shields.io/github/stars/RajChowdhury240/CVE-2025-67435">
 
 ---
+## CVE-2025-67315 ()
+> 
+- [r-pradyun/CVE-2025-67315](https://github.com/r-pradyun/CVE-2025-67315)	<img alt="forks" src="https://img.shields.io/github/forks/r-pradyun/CVE-2025-67315">	<img alt="stars" src="https://img.shields.io/github/stars/r-pradyun/CVE-2025-67315">
+
+---
 ## CVE-2025-67294 ()
 > 
 - [0xthem7/CVE-2025-67294](https://github.com/0xthem7/CVE-2025-67294)	<img alt="forks" src="https://img.shields.io/github/forks/0xthem7/CVE-2025-67294">	<img alt="stars" src="https://img.shields.io/github/stars/0xthem7/CVE-2025-67294">
