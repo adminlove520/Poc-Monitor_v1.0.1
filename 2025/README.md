@@ -528,6 +528,7 @@
 - [gagaltotal/n8n-cve-2025-68613](https://github.com/gagaltotal/n8n-cve-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/n8n-cve-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/n8n-cve-2025-68613">
 - [cv-sai-kamesh/n8n-CVE-2025-68613](https://github.com/cv-sai-kamesh/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/cv-sai-kamesh/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/cv-sai-kamesh/n8n-CVE-2025-68613">
 - [ahmedshamsddin/n8n-RCE-CVE-2025-68613](https://github.com/ahmedshamsddin/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedshamsddin/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedshamsddin/n8n-RCE-CVE-2025-68613">
+- [TheInterception/n8n_CVE-2025-68613_exploit_payloads](https://github.com/TheInterception/n8n_CVE-2025-68613_exploit_payloads)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/n8n_CVE-2025-68613_exploit_payloads">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/n8n_CVE-2025-68613_exploit_payloads">
 
 ---
 ## CVE-2025-6860 ()
@@ -8265,6 +8266,11 @@
 ## CVE-2025-1913 ()
 > 
 - [S0haib518-KSA/CVE-2025-1913-PoC](https://github.com/S0haib518-KSA/CVE-2025-1913-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/S0haib518-KSA/CVE-2025-1913-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/S0haib518-KSA/CVE-2025-1913-PoC">
+
+---
+## CVE-2025-1868 ()
+> 
+- [itres-labs/CVE-2025-1868](https://github.com/itres-labs/CVE-2025-1868)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2025-1868">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2025-1868">
 
 ---
 ## CVE-2025-1793 ()
