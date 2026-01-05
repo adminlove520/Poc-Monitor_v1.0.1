@@ -5466,6 +5466,7 @@
 ## CVE-2025-38352 ()
 > 
 - [farazsth98/poc-CVE-2025-38352](https://github.com/farazsth98/poc-CVE-2025-38352)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/poc-CVE-2025-38352">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/poc-CVE-2025-38352">
+- [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)	<img alt="forks" src="https://img.shields.io/github/forks/farazsth98/chronomaly">	<img alt="stars" src="https://img.shields.io/github/stars/farazsth98/chronomaly">
 
 ---
 ## CVE-2025-38001 ()
