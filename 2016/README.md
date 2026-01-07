@@ -1229,6 +1229,11 @@
 - [Live-Hack-CVE/CVE-2016-1669](https://github.com/Live-Hack-CVE/CVE-2016-1669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1669">
 
 ---
+## CVE-2016-16113 ()
+> 
+- [d3vn0mi/cve-2016-16113](https://github.com/d3vn0mi/cve-2016-16113)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/cve-2016-16113">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/cve-2016-16113">
+
+---
 ## CVE-2016-1583 (2016-06-27T10:59:00)
 > The ecryptfs_privileged_open function in fs/ecryptfs/kthread.c in the Linux kernel before 4.6.3 allows local users to gain privileges or cause a denial of service (stack memory consumption) via vectors involving crafted mmap calls for /proc pathnames, leading to recursive pagefault handling.
 - [Live-Hack-CVE/CVE-2016-1583](https://github.com/Live-Hack-CVE/CVE-2016-1583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-1583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-1583">
