@@ -3219,6 +3219,8 @@
 - [B1TC0R3/CVE-2025-55182](https://github.com/B1TC0R3/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/B1TC0R3/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/B1TC0R3/CVE-2025-55182">
 - [en0f/CVE-2025-55182-poc-json](https://github.com/en0f/CVE-2025-55182-poc-json)	<img alt="forks" src="https://img.shields.io/github/forks/en0f/CVE-2025-55182-poc-json">	<img alt="stars" src="https://img.shields.io/github/stars/en0f/CVE-2025-55182-poc-json">
 - [momika233/CVE-2025-55182-bypass](https://github.com/momika233/CVE-2025-55182-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2025-55182-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2025-55182-bypass">
+- [Asder10/asder10.github.io](https://github.com/Asder10/asder10.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Asder10/asder10.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Asder10/asder10.github.io">
+- [Asder10/React2Shell](https://github.com/Asder10/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Asder10/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Asder10/React2Shell">
 
 ---
 ## CVE-2025-54988 ()
