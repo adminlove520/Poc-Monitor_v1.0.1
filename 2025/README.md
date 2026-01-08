@@ -3418,6 +3418,13 @@
 - [xiaoLvChen/CVE-2025-54100](https://github.com/xiaoLvChen/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-54100">
 
 ---
+## CVE-2025-54068 ()
+> 
+- [flame-11/CVE-2025-54068-livewire](https://github.com/flame-11/CVE-2025-54068-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2025-54068-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2025-54068-livewire">
+- [z0d131482700x/Livewire2025CVE](https://github.com/z0d131482700x/Livewire2025CVE)	<img alt="forks" src="https://img.shields.io/github/forks/z0d131482700x/Livewire2025CVE">	<img alt="stars" src="https://img.shields.io/github/stars/z0d131482700x/Livewire2025CVE">
+- [synacktiv/Livepyre](https://github.com/synacktiv/Livepyre)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Livepyre">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Livepyre">
+
+---
 ## CVE-2025-53964 ()
 > 
 - [tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)	<img alt="forks" src="https://img.shields.io/github/forks/tigr78/CVE-2025-53964">	<img alt="stars" src="https://img.shields.io/github/stars/tigr78/CVE-2025-53964">
