@@ -8594,7 +8594,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Zeppperoni/CVE-2023-23397-Patch](https://github.com/Zeppperoni/CVE-2023-23397-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/Zeppperoni/CVE-2023-23397-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/Zeppperoni/CVE-2023-23397-Patch">
 - [D7-M/CVE-2023-23397-exploit](https://github.com/D7-M/CVE-2023-23397-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D7-M/CVE-2023-23397-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D7-M/CVE-2023-23397-exploit">
 - [jacquesquail/CVE-2023-23397](https://github.com/jacquesquail/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/jacquesquail/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/jacquesquail/CVE-2023-23397">
-- [AiK1d/CVE-2023-23397-POC](https://github.com/AiK1d/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/AiK1d/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/AiK1d/CVE-2023-23397-POC">
+- [P4x1s/CVE-2023-23397-POC](https://github.com/P4x1s/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/P4x1s/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/P4x1s/CVE-2023-23397-POC">
 - [moneertv/CVE-2023-23397](https://github.com/moneertv/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/moneertv/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/moneertv/CVE-2023-23397">
 - [vlad-a-man/CVE-2023-23397](https://github.com/vlad-a-man/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/vlad-a-man/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/vlad-a-man/CVE-2023-23397">
 - [Muhammad-Ali007/OutlookNTLM_CVE-2023-23397](https://github.com/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Muhammad-Ali007/OutlookNTLM_CVE-2023-23397">
@@ -8605,6 +8605,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [TheUnknownSoul/CVE-2023-23397-PoW](https://github.com/TheUnknownSoul/CVE-2023-23397-PoW)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2023-23397-PoW">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2023-23397-PoW">
 - [Symbolexe/CVE-2023-23397](https://github.com/Symbolexe/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Symbolexe/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Symbolexe/CVE-2023-23397">
 - [Gilospy/CVE-2023-23397](https://github.com/Gilospy/CVE-2023-23397)	<img alt="forks" src="https://img.shields.io/github/forks/Gilospy/CVE-2023-23397">	<img alt="stars" src="https://img.shields.io/github/stars/Gilospy/CVE-2023-23397">
+- [Phaedrik/CVE-2023-23397-POC](https://github.com/Phaedrik/CVE-2023-23397-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Phaedrik/CVE-2023-23397-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Phaedrik/CVE-2023-23397-POC">
 
 ---
 ## CVE-2023-23396 (2023-03-14T17:15:00)
