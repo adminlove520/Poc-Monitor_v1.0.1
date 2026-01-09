@@ -8604,6 +8604,11 @@
 - [Nxploited/CVE-2025-14156](https://github.com/Nxploited/CVE-2025-14156)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-14156">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-14156">
 
 ---
+## CVE-2025-14124 ()
+> 
+- [hyunchiya/CVE-2025-14124](https://github.com/hyunchiya/CVE-2025-14124)	<img alt="forks" src="https://img.shields.io/github/forks/hyunchiya/CVE-2025-14124">	<img alt="stars" src="https://img.shields.io/github/stars/hyunchiya/CVE-2025-14124">
+
+---
 ## CVE-2025-13796 ()
 > 
 - [0xcucumbersalad/CVE-2025-13796-PoC](https://github.com/0xcucumbersalad/CVE-2025-13796-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xcucumbersalad/CVE-2025-13796-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xcucumbersalad/CVE-2025-13796-PoC">
