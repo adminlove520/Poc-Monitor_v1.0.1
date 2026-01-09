@@ -4931,6 +4931,11 @@
 - [pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)	<img alt="forks" src="https://img.shields.io/github/forks/pracharapol/CVE-2025-45960">	<img alt="stars" src="https://img.shields.io/github/stars/pracharapol/CVE-2025-45960">
 
 ---
+## CVE-2025-45955 ()
+> 
+- [surendrapuppala7/CVE-2025-45955](https://github.com/surendrapuppala7/CVE-2025-45955)	<img alt="forks" src="https://img.shields.io/github/forks/surendrapuppala7/CVE-2025-45955">	<img alt="stars" src="https://img.shields.io/github/stars/surendrapuppala7/CVE-2025-45955">
+
+---
 ## CVE-2025-4593 ()
 > 
 - [karenucqki/CVE-2025-4593](https://github.com/karenucqki/CVE-2025-4593)	<img alt="forks" src="https://img.shields.io/github/forks/karenucqki/CVE-2025-4593">	<img alt="stars" src="https://img.shields.io/github/stars/karenucqki/CVE-2025-4593">
