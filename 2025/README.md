@@ -6351,7 +6351,7 @@
 - [SUPRAAA-1337/CVE-2025-31161_exploit](https://github.com/SUPRAAA-1337/CVE-2025-31161_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2025-31161_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2025-31161_exploit">
 - [ibrahimsql/CVE-2025-31161](https://github.com/ibrahimsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahimsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahimsql/CVE-2025-31161">
 - [0xgh057r3c0n/CVE-2025-31161](https://github.com/0xgh057r3c0n/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-31161">
-- [B1ack4sh/Blackash-CVE-2025-31161](https://github.com/B1ack4sh/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-31161">
+- [Ashwesker/Ashwesker-CVE-2025-31161](https://github.com/Ashwesker/Ashwesker-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2025-31161">
 - [ibrahmsql/CVE-2025-31161](https://github.com/ibrahmsql/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-31161">
 - [r0otk3r/CVE-2025-31161](https://github.com/r0otk3r/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2025-31161">
 - [f4dee-backup/CVE-2025-31161](https://github.com/f4dee-backup/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/f4dee-backup/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/f4dee-backup/CVE-2025-31161">
@@ -6359,6 +6359,8 @@
 - [Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/CVE-2025-31161">
 - [0xDTC/CrushFTP-auth-bypass-CVE-2025-31161](https://github.com/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161">
 - [cesarbtakeda/CVE-2025-31161](https://github.com/cesarbtakeda/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/CVE-2025-31161">
+- [Dairrow/CVE-2025-31161](https://github.com/Dairrow/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Dairrow/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Dairrow/CVE-2025-31161">
+- [ch3m1cl/CVE-2025-31161](https://github.com/ch3m1cl/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/ch3m1cl/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/ch3m1cl/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
