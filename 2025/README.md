@@ -577,6 +577,11 @@
 - [Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">
 
 ---
+## CVE-2025-68120 ()
+> 
+- [choewonwoo1817/CVE-2025-68120](https://github.com/choewonwoo1817/CVE-2025-68120)	<img alt="forks" src="https://img.shields.io/github/forks/choewonwoo1817/CVE-2025-68120">	<img alt="stars" src="https://img.shields.io/github/stars/choewonwoo1817/CVE-2025-68120">
+
+---
 ## CVE-2025-68116 ()
 > 
 - [x0root/CVE-2025-68116](https://github.com/x0root/CVE-2025-68116)	<img alt="forks" src="https://img.shields.io/github/forks/x0root/CVE-2025-68116">	<img alt="stars" src="https://img.shields.io/github/stars/x0root/CVE-2025-68116">
