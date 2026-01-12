@@ -4604,6 +4604,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38355 ()
 > 
 - [PawelMurdzek/CVE-2024-38355-PoC](https://github.com/PawelMurdzek/CVE-2024-38355-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PawelMurdzek/CVE-2024-38355-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PawelMurdzek/CVE-2024-38355-PoC">
+- [Y0ursTruly/socketio-cve](https://github.com/Y0ursTruly/socketio-cve)	<img alt="forks" src="https://img.shields.io/github/forks/Y0ursTruly/socketio-cve">	<img alt="stars" src="https://img.shields.io/github/stars/Y0ursTruly/socketio-cve">
 
 ---
 ## CVE-2024-38249 (2024-09-10T17:15:00)
