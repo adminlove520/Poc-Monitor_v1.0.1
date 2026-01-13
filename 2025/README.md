@@ -8654,6 +8654,7 @@
 - [CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner](https://github.com/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CadGoose/MongoBleed-CVE-2025-14847-Fully-Automated-scanner">
 - [peakcyber-security/CVE-2025-14847](https://github.com/peakcyber-security/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/peakcyber-security/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/peakcyber-security/CVE-2025-14847">
 - [AmadoBatista/mongobleed](https://github.com/AmadoBatista/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/AmadoBatista/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/AmadoBatista/mongobleed">
+- [alexcyberx/CVE-2025-14847_Expolit](https://github.com/alexcyberx/CVE-2025-14847_Expolit)	<img alt="forks" src="https://img.shields.io/github/forks/alexcyberx/CVE-2025-14847_Expolit">	<img alt="stars" src="https://img.shields.io/github/stars/alexcyberx/CVE-2025-14847_Expolit">
 
 ---
 ## CVE-2025-14783 ()
