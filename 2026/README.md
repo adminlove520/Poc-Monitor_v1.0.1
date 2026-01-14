@@ -54,7 +54,7 @@
 ---
 ## CVE-2026-20856 ()
 > 
-- [b1gchoi/CVE-2026-20856](https://github.com/b1gchoi/CVE-2026-20856)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20856">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20856">
+- [b1gchoi/poc-CVE-2026-20856](https://github.com/b1gchoi/poc-CVE-2026-20856)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/poc-CVE-2026-20856">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/poc-CVE-2026-20856">
 
 ---
 ## CVE-2026-0628 ()
