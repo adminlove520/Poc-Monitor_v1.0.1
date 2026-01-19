@@ -1997,6 +1997,7 @@
 - [lasensio/cve-2019-2725](https://github.com/lasensio/cve-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/lasensio/cve-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/lasensio/cve-2019-2725">
 - [CalegariMindSec/Exploit-CVE-2019-2725](https://github.com/CalegariMindSec/Exploit-CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/CalegariMindSec/Exploit-CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/CalegariMindSec/Exploit-CVE-2019-2725">
 - [Kamiya767/CVE-2019-2725](https://github.com/Kamiya767/CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/Kamiya767/CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/Kamiya767/CVE-2019-2725">
+- [loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725](https://github.com/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725)	<img alt="forks" src="https://img.shields.io/github/forks/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725">	<img alt="stars" src="https://img.shields.io/github/stars/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725">
 
 ---
 ## CVE-2019-2706 ()
