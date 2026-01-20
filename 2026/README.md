@@ -134,3 +134,9 @@
 ## CVE-2026-0547 ()
 > 
 - [rsecroot/CVE-2026-0547](https://github.com/rsecroot/CVE-2026-0547)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2026-0547">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2026-0547">
+
+---
+## CVE-2026-0227 ()
+> 
+- [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
+- [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
