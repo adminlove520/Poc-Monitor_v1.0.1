@@ -3384,6 +3384,7 @@
 - [fBUZk2BH/RSC-Detect-CVE-2025-55182](https://github.com/fBUZk2BH/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/fBUZk2BH/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/fBUZk2BH/RSC-Detect-CVE-2025-55182">
 - [Vladjrfhfg/React-site-CVE-2025-55182](https://github.com/Vladjrfhfg/React-site-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Vladjrfhfg/React-site-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Vladjrfhfg/React-site-CVE-2025-55182">
 - [BBD-YZZ/CVE-2025-55182](https://github.com/BBD-YZZ/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/CVE-2025-55182">
+- [Namsom007/CVE-2025-55182-Exploit](https://github.com/Namsom007/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Namsom007/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Namsom007/CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-54988 ()
@@ -6748,6 +6749,11 @@
 ## CVE-2025-2995 ()
 > 
 - [huynguyen12536/CVE-2025-2995](https://github.com/huynguyen12536/CVE-2025-2995)	<img alt="forks" src="https://img.shields.io/github/forks/huynguyen12536/CVE-2025-2995">	<img alt="stars" src="https://img.shields.io/github/stars/huynguyen12536/CVE-2025-2995">
+
+---
+## CVE-2025-29943 ()
+> 
+- [fevar54/POC_CVE-2025-29943_Write-what-where-Condition](https://github.com/fevar54/POC_CVE-2025-29943_Write-what-where-Condition)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/POC_CVE-2025-29943_Write-what-where-Condition">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/POC_CVE-2025-29943_Write-what-where-Condition">
 
 ---
 ## CVE-2025-29927 ()
