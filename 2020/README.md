@@ -1674,6 +1674,14 @@
 - [Live-Hack-CVE/CVE-2020-35895](https://github.com/Live-Hack-CVE/CVE-2020-35895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-35895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-35895">
 
 ---
+## CVE-2020-35846 ()
+> 
+- [dimitrop/synthetic-cve-2020-35846](https://github.com/dimitrop/synthetic-cve-2020-35846)	<img alt="forks" src="https://img.shields.io/github/forks/dimitrop/synthetic-cve-2020-35846">	<img alt="stars" src="https://img.shields.io/github/stars/dimitrop/synthetic-cve-2020-35846">
+- [Konstantinos-Papanagnou/CMSpit](https://github.com/Konstantinos-Papanagnou/CMSpit)	<img alt="forks" src="https://img.shields.io/github/forks/Konstantinos-Papanagnou/CMSpit">	<img alt="stars" src="https://img.shields.io/github/stars/Konstantinos-Papanagnou/CMSpit">
+- [0z09e/CVE-2020-35846](https://github.com/0z09e/CVE-2020-35846)	<img alt="forks" src="https://img.shields.io/github/forks/0z09e/CVE-2020-35846">	<img alt="stars" src="https://img.shields.io/github/stars/0z09e/CVE-2020-35846">
+- [JohnHammond/CVE-2020-35846](https://github.com/JohnHammond/CVE-2020-35846)	<img alt="forks" src="https://img.shields.io/github/forks/JohnHammond/CVE-2020-35846">	<img alt="stars" src="https://img.shields.io/github/stars/JohnHammond/CVE-2020-35846">
+
+---
 ## CVE-2020-3580 (2020-10-21T19:15:00)
 > Multiple vulnerabilities in the web services interface of Cisco Adaptive Security Appliance (ASA) Software and Cisco Firepower Threat Defense (FTD) Software could allow an unauthenticated, remote attacker to conduct cross-site scripting (XSS) attacks against a user of the web services interface of an affected device. The vulnerabilities are due to insufficient validation of user-supplied input by the web services interface of an affected device. An attacker could exploit these vulnerabilities by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the interface or allow the attacker to access sensitive, browser-based information. Note: These vulnerabilities affect only specific AnyConnect and WebVPN configurations. For more information, see the Vulnerable Products section.
 - [nxtexploit/CVE-2020-3580](https://github.com/nxtexploit/CVE-2020-3580)	<img alt="forks" src="https://img.shields.io/github/forks/nxtexploit/CVE-2020-3580">	<img alt="stars" src="https://img.shields.io/github/stars/nxtexploit/CVE-2020-3580">

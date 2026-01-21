@@ -204,6 +204,11 @@
 - [kienquoc102/CVE-2017-8225](https://github.com/kienquoc102/CVE-2017-8225)	<img alt="forks" src="https://img.shields.io/github/forks/kienquoc102/CVE-2017-8225">	<img alt="stars" src="https://img.shields.io/github/stars/kienquoc102/CVE-2017-8225">
 
 ---
+## CVE-2017-8085 ()
+> 
+- [dimitrop/synthetic-cve-2017-8085](https://github.com/dimitrop/synthetic-cve-2017-8085)	<img alt="forks" src="https://img.shields.io/github/forks/dimitrop/synthetic-cve-2017-8085">	<img alt="stars" src="https://img.shields.io/github/stars/dimitrop/synthetic-cve-2017-8085">
+
+---
 ## CVE-2017-8056 ()
 > 
 - [itzexploit/CVE-2017-8056](https://github.com/itzexploit/CVE-2017-8056)	<img alt="forks" src="https://img.shields.io/github/forks/itzexploit/CVE-2017-8056">	<img alt="stars" src="https://img.shields.io/github/stars/itzexploit/CVE-2017-8056">

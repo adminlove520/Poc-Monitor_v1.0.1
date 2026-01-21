@@ -2543,6 +2543,11 @@
 - [ashangp923/CVE-2018-10097](https://github.com/ashangp923/CVE-2018-10097)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2018-10097">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2018-10097">
 
 ---
+## CVE-2018-10094 ()
+> 
+- [dimitrop/synthetic-cve-2018-10094](https://github.com/dimitrop/synthetic-cve-2018-10094)	<img alt="forks" src="https://img.shields.io/github/forks/dimitrop/synthetic-cve-2018-10094">	<img alt="stars" src="https://img.shields.io/github/stars/dimitrop/synthetic-cve-2018-10094">
+
+---
 ## CVE-2018-1002202 ()
 > 
 - [shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2](https://github.com/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/srikanth-lingala__zip4j_CVE-2018-1002202_1-3-2">
