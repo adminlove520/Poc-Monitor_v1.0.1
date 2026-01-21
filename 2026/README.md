@@ -73,6 +73,11 @@
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
 
 ---
+## CVE-2026-21962 ()
+> 
+- [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
+
+---
 ## CVE-2026-21877 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21877](https://github.com/Ashwesker/Ashwesker-CVE-2026-21877)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21877">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21877">
@@ -95,6 +100,7 @@
 - [SystemVll/CVE-2026-21858](https://github.com/SystemVll/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-21858">
 - [sec-dojo-com/CVE-2026-21858](https://github.com/sec-dojo-com/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/sec-dojo-com/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/sec-dojo-com/CVE-2026-21858">
 - [MOGMUNI/CVE-2026-21858](https://github.com/MOGMUNI/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/MOGMUNI/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/MOGMUNI/CVE-2026-21858">
+- [MOGMUNI/mogmuni.github.io](https://github.com/MOGMUNI/mogmuni.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MOGMUNI/mogmuni.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MOGMUNI/mogmuni.github.io">
 
 ---
 ## CVE-2026-21451 ()
