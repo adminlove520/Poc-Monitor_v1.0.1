@@ -184,6 +184,11 @@
 - [Iniivan13/CVE-2026-1107](https://github.com/Iniivan13/CVE-2026-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Iniivan13/CVE-2026-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Iniivan13/CVE-2026-1107">
 
 ---
+## CVE-2026-0920 ()
+> 
+- [Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit](https://github.com/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-0920-WordPress-LA-Studio-Exploit">
+
+---
 ## CVE-2026-0628 ()
 > 
 - [fevar54/CVE-2026-0628-POC](https://github.com/fevar54/CVE-2026-0628-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-0628-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-0628-POC">
