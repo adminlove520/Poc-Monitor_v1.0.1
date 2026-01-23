@@ -20,6 +20,7 @@
 - [xuemian168/CVE-2026-24061](https://github.com/xuemian168/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/xuemian168/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/xuemian168/CVE-2026-24061">
 - [monstertsl/CVE-2026-24061](https://github.com/monstertsl/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/monstertsl/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/monstertsl/CVE-2026-24061">
 - [Ashwesker/Ashwesker-CVE-2026-24061](https://github.com/Ashwesker/Ashwesker-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-24061">
+- [r00tuser111/CVE-2026-24061](https://github.com/r00tuser111/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/r00tuser111/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/r00tuser111/CVE-2026-24061">
 
 ---
 ## CVE-2026-2395 ()
