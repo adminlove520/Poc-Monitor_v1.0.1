@@ -3266,6 +3266,7 @@ use after free.
 ## CVE-2019-15715 (2019-10-09T20:15:00)
 > MantisBT before 1.3.20 and 2.22.1 allows Post Authentication Command Injection, leading to Remote Code Execution.
 - [Live-Hack-CVE/CVE-2019-15715](https://github.com/Live-Hack-CVE/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-15715">
+- [mcornaglia/CVE-2019-15715](https://github.com/mcornaglia/CVE-2019-15715)	<img alt="forks" src="https://img.shields.io/github/forks/mcornaglia/CVE-2019-15715">	<img alt="stars" src="https://img.shields.io/github/stars/mcornaglia/CVE-2019-15715">
 
 ---
 ## CVE-2019-15707 ()
