@@ -18,6 +18,7 @@
 - [Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE](https://github.com/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Housma/CVE-2019-9978-Social-Warfare-WordPress-Plugin-RCE">
 - [xxoprt/payloadCVE-2019-9978](https://github.com/xxoprt/payloadCVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/xxoprt/payloadCVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/xxoprt/payloadCVE-2019-9978">
 - [Vaidehim55/CVE-2019-9978-RCE-PoC](https://github.com/Vaidehim55/CVE-2019-9978-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Vaidehim55/CVE-2019-9978-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Vaidehim55/CVE-2019-9978-RCE-PoC">
+- [yup-Ivan/CVE-2019-9978](https://github.com/yup-Ivan/CVE-2019-9978)	<img alt="forks" src="https://img.shields.io/github/forks/yup-Ivan/CVE-2019-9978">	<img alt="stars" src="https://img.shields.io/github/stars/yup-Ivan/CVE-2019-9978">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)
@@ -2981,6 +2982,12 @@ use after free.
 ## CVE-2019-17190 (2020-01-27T16:15:00)
 > A Local Privilege Escalation issue was discovered in Avast Secure Browser 76.0.1659.101. The vulnerability is due to an insecure ACL set by the AvastBrowserUpdate.exe (which is running as NT AUTHORITY\SYSTEM) when AvastSecureBrowser.exe checks for new updates. When the update check is triggered, the elevated process cleans the ACL of the Update.ini file in %PROGRAMDATA%\Avast Software\Browser\Update\ and sets all privileges to group Everyone. Because any low-privileged user can create, delete, or modify the Update.ini file stored in this location, an attacker with low privileges can create a hard link named Update.ini in this folder, and make it point to a file writable by NT AUTHORITY\SYSTEM. Once AvastBrowserUpdate.exe is triggered by the update check functionality, the DACL is set to a misconfigured value on the crafted Update.ini and, consequently, to the target file that was previously not writable by the low-privileged attacker.
 - [Live-Hack-CVE/CVE-2019-17190](https://github.com/Live-Hack-CVE/CVE-2019-17190)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17190">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17190">
+
+---
+## CVE-2019-17147 ()
+> 
+- [imnot-ye/CVE-2019-17147](https://github.com/imnot-ye/CVE-2019-17147)	<img alt="forks" src="https://img.shields.io/github/forks/imnot-ye/CVE-2019-17147">	<img alt="stars" src="https://img.shields.io/github/stars/imnot-ye/CVE-2019-17147">
+- [DrmnSamoLiu/CVE-2019-17147_Practice_Material](https://github.com/DrmnSamoLiu/CVE-2019-17147_Practice_Material)	<img alt="forks" src="https://img.shields.io/github/forks/DrmnSamoLiu/CVE-2019-17147_Practice_Material">	<img alt="stars" src="https://img.shields.io/github/stars/DrmnSamoLiu/CVE-2019-17147_Practice_Material">
 
 ---
 ## CVE-2019-17133 (2019-10-04T12:15:00)
