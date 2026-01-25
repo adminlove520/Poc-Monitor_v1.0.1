@@ -561,6 +561,7 @@
 ## CVE-2025-68921 ()
 > 
 - [ZeroMemoryEx/CVE-2025-68921](https://github.com/ZeroMemoryEx/CVE-2025-68921)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroMemoryEx/CVE-2025-68921">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroMemoryEx/CVE-2025-68921">
+- [kikiuuw/CVE-2025-68921](https://github.com/kikiuuw/CVE-2025-68921)	<img alt="forks" src="https://img.shields.io/github/forks/kikiuuw/CVE-2025-68921">	<img alt="stars" src="https://img.shields.io/github/stars/kikiuuw/CVE-2025-68921">
 
 ---
 ## CVE-2025-68860 ()
