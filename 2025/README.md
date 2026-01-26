@@ -5596,6 +5596,7 @@
 ## CVE-2025-41243 ()
 > 
 - [SFN233/CVE-2025-41243-Vulnerability-Lab](https://github.com/SFN233/CVE-2025-41243-Vulnerability-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SFN233/CVE-2025-41243-Vulnerability-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SFN233/CVE-2025-41243-Vulnerability-Lab">
+- [AabyssZG/SpringBoot-Scan](https://github.com/AabyssZG/SpringBoot-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/AabyssZG/SpringBoot-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/AabyssZG/SpringBoot-Scan">
 
 ---
 ## CVE-2025-4123 ()
