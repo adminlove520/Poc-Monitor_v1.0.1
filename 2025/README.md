@@ -8809,6 +8809,11 @@
 - [Ermensonx/CVE-2025-14857-MongoBleed](https://github.com/Ermensonx/CVE-2025-14857-MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/CVE-2025-14857-MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/CVE-2025-14857-MongoBleed">
 
 ---
+## CVE-2025-14855 ()
+> 
+- [ch4r0nn/CVE-2025-14855-POC](https://github.com/ch4r0nn/CVE-2025-14855-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ch4r0nn/CVE-2025-14855-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ch4r0nn/CVE-2025-14855-POC">
+
+---
 ## CVE-2025-14847 ()
 > 
 - [onewinner/CVE-2025-14847](https://github.com/onewinner/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/onewinner/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/onewinner/CVE-2025-14847">
