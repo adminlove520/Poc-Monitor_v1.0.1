@@ -5593,6 +5593,11 @@
 - [IBO-ATTACKS/CVE-2025-41244](https://github.com/IBO-ATTACKS/CVE-2025-41244)	<img alt="forks" src="https://img.shields.io/github/forks/IBO-ATTACKS/CVE-2025-41244">	<img alt="stars" src="https://img.shields.io/github/stars/IBO-ATTACKS/CVE-2025-41244">
 
 ---
+## CVE-2025-41243 ()
+> 
+- [SFN233/CVE-2025-41243-Vulnerability-Lab](https://github.com/SFN233/CVE-2025-41243-Vulnerability-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SFN233/CVE-2025-41243-Vulnerability-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SFN233/CVE-2025-41243-Vulnerability-Lab">
+
+---
 ## CVE-2025-4123 ()
 > 
 - [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
