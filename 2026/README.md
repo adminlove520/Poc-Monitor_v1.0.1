@@ -150,6 +150,7 @@
 - [samael0x4/CVE-2026-21962](https://github.com/samael0x4/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/samael0x4/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/samael0x4/CVE-2026-21962">
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
 - [gglessner/cve_2026_21962_scanner](https://github.com/gglessner/cve_2026_21962_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gglessner/cve_2026_21962_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gglessner/cve_2026_21962_scanner">
+- [ThumpBo/CVE-2026-21962](https://github.com/ThumpBo/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2026-21962">
 
 ---
 ## CVE-2026-21877 ()
