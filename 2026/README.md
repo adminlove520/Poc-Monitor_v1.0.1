@@ -6,6 +6,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-24688 ()
+> 
+- [JoakimBulow/CVE-2026-24688](https://github.com/JoakimBulow/CVE-2026-24688)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-24688">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-24688">
+
+---
 ## CVE-2026-24422 ()
 > 
 - [boroeurnprach/CVE-2026-24422_PoC](https://github.com/boroeurnprach/CVE-2026-24422_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2026-24422_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2026-24422_PoC">
@@ -51,6 +56,7 @@
 - [XsanFlip/CVE-2026-24061-Scanner](https://github.com/XsanFlip/CVE-2026-24061-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-24061-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-24061-Scanner">
 - [Lingzesec/CVE-2026-24061-GUI](https://github.com/Lingzesec/CVE-2026-24061-GUI)	<img alt="forks" src="https://img.shields.io/github/forks/Lingzesec/CVE-2026-24061-GUI">	<img alt="stars" src="https://img.shields.io/github/stars/Lingzesec/CVE-2026-24061-GUI">
 - [LucasPDiniz/CVE-2026-24061](https://github.com/LucasPDiniz/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-24061">
+- [FurkanKAYAPINAR/CVE-2026-24061-telnet2root](https://github.com/FurkanKAYAPINAR/CVE-2026-24061-telnet2root)	<img alt="forks" src="https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-24061-telnet2root">	<img alt="stars" src="https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-24061-telnet2root">
 
 ---
 ## CVE-2026-2395 ()
