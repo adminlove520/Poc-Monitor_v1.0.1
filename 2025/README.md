@@ -3607,6 +3607,7 @@
 - [chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309">
 - [Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309">
 - [foregenix/CVE-2025-54309](https://github.com/foregenix/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/foregenix/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/foregenix/CVE-2025-54309">
+- [0xLittleSpidy/CVE-2025-54309](https://github.com/0xLittleSpidy/CVE-2025-54309)	<img alt="forks" src="https://img.shields.io/github/forks/0xLittleSpidy/CVE-2025-54309">	<img alt="stars" src="https://img.shields.io/github/stars/0xLittleSpidy/CVE-2025-54309">
 
 ---
 ## CVE-2025-54253 ()
@@ -5856,8 +5857,12 @@
 > 
 - [Cedric-Martz/CVE-2025-36911_scan](https://github.com/Cedric-Martz/CVE-2025-36911_scan)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/CVE-2025-36911_scan">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/CVE-2025-36911_scan">
 - [SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-](https://github.com/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-36911-Wisper_Pair_Target_Finder-">
-- [zalexdev/whisper-pair-app](https://github.com/zalexdev/whisper-pair-app)	<img alt="forks" src="https://img.shields.io/github/forks/zalexdev/whisper-pair-app">	<img alt="stars" src="https://img.shields.io/github/stars/zalexdev/whisper-pair-app">
+- [zalexdev/wpair-app](https://github.com/zalexdev/wpair-app)	<img alt="forks" src="https://img.shields.io/github/forks/zalexdev/wpair-app">	<img alt="stars" src="https://img.shields.io/github/stars/zalexdev/wpair-app">
 - [PentHertz/CVE-2025-36911-exploit](https://github.com/PentHertz/CVE-2025-36911-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/PentHertz/CVE-2025-36911-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/PentHertz/CVE-2025-36911-exploit">
+- [PivotChip/FrostedFastPair](https://github.com/PivotChip/FrostedFastPair)	<img alt="forks" src="https://img.shields.io/github/forks/PivotChip/FrostedFastPair">	<img alt="stars" src="https://img.shields.io/github/stars/PivotChip/FrostedFastPair">
+- [aalex954/whisperpair-poc-tool](https://github.com/aalex954/whisperpair-poc-tool)	<img alt="forks" src="https://img.shields.io/github/forks/aalex954/whisperpair-poc-tool">	<img alt="stars" src="https://img.shields.io/github/stars/aalex954/whisperpair-poc-tool">
+- [ap425q/whisper-pair](https://github.com/ap425q/whisper-pair)	<img alt="forks" src="https://img.shields.io/github/forks/ap425q/whisper-pair">	<img alt="stars" src="https://img.shields.io/github/stars/ap425q/whisper-pair">
+- [SpectrixDev/DIY_WhisperPair](https://github.com/SpectrixDev/DIY_WhisperPair)	<img alt="forks" src="https://img.shields.io/github/forks/SpectrixDev/DIY_WhisperPair">	<img alt="stars" src="https://img.shields.io/github/stars/SpectrixDev/DIY_WhisperPair">
 
 ---
 ## CVE-2025-36535 ()
