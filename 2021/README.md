@@ -8682,6 +8682,7 @@
 - [jytmX/CVE-2021-24499](https://github.com/jytmX/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/jytmX/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/jytmX/CVE-2021-24499">
 - [hh-hunter/cve-2021-24499](https://github.com/hh-hunter/cve-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/cve-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/cve-2021-24499">
 - [j4k0m/CVE-2021-24499](https://github.com/j4k0m/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2021-24499">
+- [jayhutajulu1/CVE-2021-24499](https://github.com/jayhutajulu1/CVE-2021-24499)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2021-24499">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2021-24499">
 
 ---
 ## CVE-2021-24487 (2021-10-25T14:15:00)
