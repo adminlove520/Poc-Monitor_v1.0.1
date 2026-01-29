@@ -9414,6 +9414,11 @@
 - [PinkArmor/CVE-2025-1094-Lab-Setup](https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/PinkArmor/CVE-2025-1094-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/PinkArmor/CVE-2025-1094-Lab-Setup">
 
 ---
+## CVE-2025-10878 ()
+> 
+- [onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi](https://github.com/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/onurcangnc/CVE-2025-10878-AdminPandov1.0.1-SQLi">
+
+---
 ## CVE-2025-10850 ()
 > 
 - [pulsecipher/CVE-2025-10850](https://github.com/pulsecipher/CVE-2025-10850)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-10850">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-10850">
