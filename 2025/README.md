@@ -790,6 +790,11 @@
 - [kabir0104k/CVE-2025-66947](https://github.com/kabir0104k/CVE-2025-66947)	<img alt="forks" src="https://img.shields.io/github/forks/kabir0104k/CVE-2025-66947">	<img alt="stars" src="https://img.shields.io/github/stars/kabir0104k/CVE-2025-66947">
 
 ---
+## CVE-2025-66850 ()
+> 
+- [joelatplay/CVE-2025-66850](https://github.com/joelatplay/CVE-2025-66850)	<img alt="forks" src="https://img.shields.io/github/forks/joelatplay/CVE-2025-66850">	<img alt="stars" src="https://img.shields.io/github/stars/joelatplay/CVE-2025-66850">
+
+---
 ## CVE-2025-66838 ()
 > 
 - [saykino/CVE-2025-66838](https://github.com/saykino/CVE-2025-66838)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2025-66838">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2025-66838">
