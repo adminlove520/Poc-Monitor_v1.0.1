@@ -4191,7 +4191,7 @@ use after free.
 ## CVE-2019-11707 (2019-07-23T14:15:00)
 > A type confusion vulnerability can occur when manipulating JavaScript objects due to issues in Array.pop. This can allow for an exploitable crash. We are aware of targeted attacks in the wild abusing this flaw. This vulnerability affects Firefox ESR < 60.7.1, Firefox < 67.0.3, and Thunderbird < 60.7.2.
 - [Live-Hack-CVE/CVE-2019-11707](https://github.com/Live-Hack-CVE/CVE-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-11707">
-- [tunnelshade/cve-2019-11707](https://github.com/tunnelshade/cve-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/tunnelshade/cve-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/tunnelshade/cve-2019-11707">
+- [flabbergastedbd/cve-2019-11707](https://github.com/flabbergastedbd/cve-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/flabbergastedbd/cve-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/flabbergastedbd/cve-2019-11707">
 - [vigneshsrao/CVE-2019-11707](https://github.com/vigneshsrao/CVE-2019-11707)	<img alt="forks" src="https://img.shields.io/github/forks/vigneshsrao/CVE-2019-11707">	<img alt="stars" src="https://img.shields.io/github/stars/vigneshsrao/CVE-2019-11707">
 - [CosminGGeorgescu/CVE-2019-11707-PoC](https://github.com/CosminGGeorgescu/CVE-2019-11707-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CosminGGeorgescu/CVE-2019-11707-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CosminGGeorgescu/CVE-2019-11707-PoC">
 
