@@ -1820,6 +1820,11 @@
 - [boroeurnprach/CVE-2025-61686-PoC](https://github.com/boroeurnprach/CVE-2025-61686-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/CVE-2025-61686-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/CVE-2025-61686-PoC">
 
 ---
+## CVE-2025-61506 ()
+> 
+- [pescada-dev/CVE-2025-61506](https://github.com/pescada-dev/CVE-2025-61506)	<img alt="forks" src="https://img.shields.io/github/forks/pescada-dev/CVE-2025-61506">	<img alt="stars" src="https://img.shields.io/github/stars/pescada-dev/CVE-2025-61506">
+
+---
 ## CVE-2025-61498 ()
 > 
 - [sakshi-garg02/CVE-2025-61498](https://github.com/sakshi-garg02/CVE-2025-61498)	<img alt="forks" src="https://img.shields.io/github/forks/sakshi-garg02/CVE-2025-61498">	<img alt="stars" src="https://img.shields.io/github/stars/sakshi-garg02/CVE-2025-61498">
