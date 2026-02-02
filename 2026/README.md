@@ -298,6 +298,7 @@
 - [MOGMUNI/mogmuni.github.io](https://github.com/MOGMUNI/mogmuni.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/MOGMUNI/mogmuni.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/MOGMUNI/mogmuni.github.io">
 - [NOTTIBOY137/RulesGuard](https://github.com/NOTTIBOY137/RulesGuard)	<img alt="forks" src="https://img.shields.io/github/forks/NOTTIBOY137/RulesGuard">	<img alt="stars" src="https://img.shields.io/github/stars/NOTTIBOY137/RulesGuard">
 - [Alhakim88/CVE-2026-21858](https://github.com/Alhakim88/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Alhakim88/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Alhakim88/CVE-2026-21858">
+- [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bgarz929/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bgarz929/Ashwesker-CVE-2026-21858">
 
 ---
 ## CVE-2026-21509 ()
