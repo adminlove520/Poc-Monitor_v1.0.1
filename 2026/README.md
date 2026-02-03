@@ -16,6 +16,11 @@
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
 
 ---
+## CVE-2026-25130 ()
+> 
+- [mbanyamer/CVE-2026-25130-Cybersecurity-AI-CAI-Framework-0.5.10](https://github.com/mbanyamer/CVE-2026-25130-Cybersecurity-AI-CAI-Framework-0.5.10)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25130-Cybersecurity-AI-CAI-Framework-0.5.10">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25130-Cybersecurity-AI-CAI-Framework-0.5.10">
+
+---
 ## CVE-2026-25126 ()
 > 
 - [Jvr2022/CVE-2026-25126](https://github.com/Jvr2022/CVE-2026-25126)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-25126">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-25126">
