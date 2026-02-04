@@ -305,8 +305,9 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ---
 ## CVE-2024-8856 (2024-11-16T05:15:00)
 > The Backup and Staging by WP Time Capsule plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the the UploadHandler.php file and no direct file access prevention in all versions up to, and including, 1.22.21. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
-- [ubaii/CVE-2024-8856](https://github.com/ubaii/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-8856">
+- [ubaydev/CVE-2024-8856](https://github.com/ubaydev/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2024-8856">
 - [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-8856">
+- [Evillm/CVE-2024-8856-PoC](https://github.com/Evillm/CVE-2024-8856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2024-8856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2024-8856-PoC">
 
 ---
 ## CVE-2024-8752 (2024-09-16T16:15:00)
