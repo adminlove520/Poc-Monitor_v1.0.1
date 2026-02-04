@@ -144,6 +144,7 @@
 - [Good123321-bot/good123321-bot.github.io](https://github.com/Good123321-bot/good123321-bot.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Good123321-bot/good123321-bot.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Good123321-bot/good123321-bot.github.io">
 - [obrunolima1910/CVE-2026-24061](https://github.com/obrunolima1910/CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/obrunolima1910/CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/obrunolima1910/CVE-2026-24061">
 - [obrunolima1910/obrunolima1910.github.io](https://github.com/obrunolima1910/obrunolima1910.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/obrunolima1910/obrunolima1910.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/obrunolima1910/obrunolima1910.github.io">
+- [lavabyte/telnet-CVE-2026-24061](https://github.com/lavabyte/telnet-CVE-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/lavabyte/telnet-CVE-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/lavabyte/telnet-CVE-2026-24061">
 
 ---
 ## CVE-2026-2406 ()
