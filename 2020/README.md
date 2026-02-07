@@ -4455,6 +4455,7 @@
 > 
 - [helidem/CVE-2020-16012-PoC](https://github.com/helidem/CVE-2020-16012-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/helidem/CVE-2020-16012-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/helidem/CVE-2020-16012-PoC">
 - [aleksejspopovs/cve-2020-16012](https://github.com/aleksejspopovs/cve-2020-16012)	<img alt="forks" src="https://img.shields.io/github/forks/aleksejspopovs/cve-2020-16012">	<img alt="stars" src="https://img.shields.io/github/stars/aleksejspopovs/cve-2020-16012">
+- [leopoldabgn/CVE-2020-16012-PoC](https://github.com/leopoldabgn/CVE-2020-16012-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/leopoldabgn/CVE-2020-16012-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/leopoldabgn/CVE-2020-16012-PoC">
 
 ---
 ## CVE-2020-15953 (2020-07-27T07:15:00)
