@@ -179,6 +179,12 @@
 - [bidaoui4905/CVE-2018-7750](https://github.com/bidaoui4905/CVE-2018-7750)	<img alt="forks" src="https://img.shields.io/github/forks/bidaoui4905/CVE-2018-7750">	<img alt="stars" src="https://img.shields.io/github/stars/bidaoui4905/CVE-2018-7750">
 
 ---
+## CVE-2018-7651 ()
+> 
+- [CQ-Tools/CVE-2018-7651-unfixed](https://github.com/CQ-Tools/CVE-2018-7651-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-7651-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-7651-unfixed">
+- [CQ-Tools/CVE-2018-7651-fixed](https://github.com/CQ-Tools/CVE-2018-7651-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-7651-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-7651-fixed">
+
+---
 ## CVE-2018-7602 (2018-07-19T17:29:00)
 > A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
 - [NetJBS/-CVE-2018-7602](https://github.com/NetJBS/-CVE-2018-7602)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/-CVE-2018-7602">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/-CVE-2018-7602">
@@ -502,6 +508,12 @@
 - [safebuffer/CVE-2018-6389](https://github.com/safebuffer/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/safebuffer/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/safebuffer/CVE-2018-6389">
 - [yolabingo/wordpress-fix-cve-2018-6389](https://github.com/yolabingo/wordpress-fix-cve-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/yolabingo/wordpress-fix-cve-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/yolabingo/wordpress-fix-cve-2018-6389">
 - [omidsec/CVE-2018-6389](https://github.com/omidsec/CVE-2018-6389)	<img alt="forks" src="https://img.shields.io/github/forks/omidsec/CVE-2018-6389">	<img alt="stars" src="https://img.shields.io/github/stars/omidsec/CVE-2018-6389">
+
+---
+## CVE-2018-6333 ()
+> 
+- [CQ-Tools/CVE-2018-6333-unfixed](https://github.com/CQ-Tools/CVE-2018-6333-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-6333-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-6333-unfixed">
+- [CQ-Tools/CVE-2018-6333-fixed](https://github.com/CQ-Tools/CVE-2018-6333-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-6333-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-6333-fixed">
 
 ---
 ## CVE-2018-6242 (2018-05-01T20:29:00)
@@ -874,6 +886,20 @@
 - [Live-Hack-CVE/CVE-2018-3834](https://github.com/Live-Hack-CVE/CVE-2018-3834)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3834">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3834">
 
 ---
+## CVE-2018-3783 ()
+> 
+- [CQ-Tools/CVE-2018-3783-unfixed](https://github.com/CQ-Tools/CVE-2018-3783-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3783-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3783-unfixed">
+- [CQ-Tools/CVE-2018-3783-fixed](https://github.com/CQ-Tools/CVE-2018-3783-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3783-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3783-fixed">
+- [nisaruj/nosqli-flintcms](https://github.com/nisaruj/nosqli-flintcms)	<img alt="forks" src="https://img.shields.io/github/forks/nisaruj/nosqli-flintcms">	<img alt="stars" src="https://img.shields.io/github/stars/nisaruj/nosqli-flintcms">
+- [ossf-cve-benchmark/CVE-2018-3783](https://github.com/ossf-cve-benchmark/CVE-2018-3783)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3783">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3783">
+
+---
+## CVE-2018-3770 ()
+> 
+- [CQ-Tools/CVE-2018-3770-fixed](https://github.com/CQ-Tools/CVE-2018-3770-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3770-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3770-fixed">
+- [CQ-Tools/CVE-2018-3770-unfixed](https://github.com/CQ-Tools/CVE-2018-3770-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3770-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3770-unfixed">
+
+---
 ## CVE-2018-3760 (2018-06-26T19:29:00)
 > There is an information leak vulnerability in Sprockets. Versions Affected: 4.0.0.beta7 and lower, 3.7.1 and lower, 2.12.4 and lower. Specially crafted requests can be used to access files that exists on the filesystem that is outside an application's root directory, when the Sprockets server is used in production. All users running an affected release should either upgrade or use one of the work arounds immediately.
 - [wudidwo/CVE-2018-3760-poc](https://github.com/wudidwo/CVE-2018-3760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2018-3760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2018-3760-poc">
@@ -881,10 +907,31 @@
 - [mpgn/CVE-2018-3760](https://github.com/mpgn/CVE-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-3760">
 
 ---
+## CVE-2018-3757 ()
+> 
+- [CQ-Tools/CVE-2018-3757-fixed](https://github.com/CQ-Tools/CVE-2018-3757-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3757-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3757-fixed">
+
+---
+## CVE-2018-3752 ()
+> 
+- [CQ-Tools/CVE-2018-3752-unfixed](https://github.com/CQ-Tools/CVE-2018-3752-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3752-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3752-unfixed">
+- [CQ-Tools/CVE-2018-3752-fixed](https://github.com/CQ-Tools/CVE-2018-3752-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3752-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3752-fixed">
+- [ossf-cve-benchmark/CVE-2018-3752](https://github.com/ossf-cve-benchmark/CVE-2018-3752)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3752">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3752">
+
+---
+## CVE-2018-3750 ()
+> 
+- [CQ-Tools/CVE-2018-3750-unfixed](https://github.com/CQ-Tools/CVE-2018-3750-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3750-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3750-unfixed">
+- [CQ-Tools/CVE-2018-3750-fixed](https://github.com/CQ-Tools/CVE-2018-3750-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3750-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3750-fixed">
+- [ossf-cve-benchmark/CVE-2018-3750](https://github.com/ossf-cve-benchmark/CVE-2018-3750)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3750">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3750">
+
+---
 ## CVE-2018-3746 (2018-06-01T17:29:00)
 > The pdfinfojs NPM module versions <= 0.3.6 has a command injection vulnerability that allows an attacker to execute arbitrary commands on the victim's machine.
 - [Live-Hack-CVE/CVE-2018-3746](https://github.com/Live-Hack-CVE/CVE-2018-3746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3746">
 - [ossf-cve-benchmark/CVE-2018-3746](https://github.com/ossf-cve-benchmark/CVE-2018-3746)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3746">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3746">
+- [CQ-Tools/CVE-2018-3746-unfixed](https://github.com/CQ-Tools/CVE-2018-3746-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3746-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3746-unfixed">
+- [CQ-Tools/CVE-2018-3746-fixed](https://github.com/CQ-Tools/CVE-2018-3746-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3746-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3746-fixed">
 
 ---
 ## CVE-2018-3744 (2018-05-29T20:29:00)
@@ -896,6 +943,13 @@
 > Open redirect in hekto <=0.2.3 when target domain name is used as html filename on server.
 - [Live-Hack-CVE/CVE-2018-3743](https://github.com/Live-Hack-CVE/CVE-2018-3743)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-3743">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-3743">
 - [ossf-cve-benchmark/CVE-2018-3743](https://github.com/ossf-cve-benchmark/CVE-2018-3743)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3743">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3743">
+
+---
+## CVE-2018-3737 ()
+> 
+- [CQ-Tools/CVE-2018-3737-unfixed](https://github.com/CQ-Tools/CVE-2018-3737-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3737-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3737-unfixed">
+- [CQ-Tools/CVE-2018-3737-fixed](https://github.com/CQ-Tools/CVE-2018-3737-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3737-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3737-fixed">
+- [ossf-cve-benchmark/CVE-2018-3737](https://github.com/ossf-cve-benchmark/CVE-2018-3737)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-3737">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-3737">
 
 ---
 ## CVE-2018-3734 (2018-05-29T20:29:00)

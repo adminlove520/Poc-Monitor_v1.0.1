@@ -4394,10 +4394,25 @@ use after free.
 - [lirantal/safer-eval-cve-CVE-2019-10760](https://github.com/lirantal/safer-eval-cve-CVE-2019-10760)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/safer-eval-cve-CVE-2019-10760">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/safer-eval-cve-CVE-2019-10760">
 
 ---
+## CVE-2019-10750 ()
+> 
+- [CQ-Tools/CVE-2019-10750-fixed](https://github.com/CQ-Tools/CVE-2019-10750-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10750-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10750-fixed">
+- [CQ-Tools/CVE-2019-10750-unfixed](https://github.com/CQ-Tools/CVE-2019-10750-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10750-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10750-unfixed">
+
+---
+## CVE-2019-10747 ()
+> 
+- [CQ-Tools/CVE-2019-10747-fixed](https://github.com/CQ-Tools/CVE-2019-10747-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10747-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10747-fixed">
+- [CQ-Tools/CVE-2019-10747-unfixed](https://github.com/CQ-Tools/CVE-2019-10747-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10747-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10747-unfixed">
+- [ossf-cve-benchmark/CVE-2019-10747](https://github.com/ossf-cve-benchmark/CVE-2019-10747)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10747">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10747">
+
+---
 ## CVE-2019-10746 (2019-08-23T17:15:00)
 > mixin-deep is vulnerable to Prototype Pollution in versions before 1.3.2 and version 2.0.0. The function mixin-deep could be tricked into adding or modifying properties of Object.prototype using a constructor payload.
 - [Live-Hack-CVE/CVE-2019-10746](https://github.com/Live-Hack-CVE/CVE-2019-10746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10746">
 - [ossf-cve-benchmark/CVE-2019-10746](https://github.com/ossf-cve-benchmark/CVE-2019-10746)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10746">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10746">
+- [CQ-Tools/CVE-2019-10746-fixed](https://github.com/CQ-Tools/CVE-2019-10746-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10746-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10746-fixed">
+- [CQ-Tools/CVE-2019-10746-unfixed](https://github.com/CQ-Tools/CVE-2019-10746-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10746-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10746-unfixed">
 
 ---
 ## CVE-2019-10743 ()
@@ -4554,6 +4569,13 @@ use after free.
 - [NketiahGodfred/CVE-2019-1010174](https://github.com/NketiahGodfred/CVE-2019-1010174)	<img alt="forks" src="https://img.shields.io/github/forks/NketiahGodfred/CVE-2019-1010174">	<img alt="stars" src="https://img.shields.io/github/stars/NketiahGodfred/CVE-2019-1010174">
 
 ---
+## CVE-2019-1010091 ()
+> 
+- [CQ-Tools/CVE-2019-1010091-unfixed](https://github.com/CQ-Tools/CVE-2019-1010091-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-1010091-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-1010091-unfixed">
+- [CQ-Tools/CVE-2019-1010091-fixed](https://github.com/CQ-Tools/CVE-2019-1010091-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-1010091-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-1010091-fixed">
+- [ossf-cve-benchmark/CVE-2019-1010091](https://github.com/ossf-cve-benchmark/CVE-2019-1010091)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-1010091">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-1010091">
+
+---
 ## CVE-2019-1010065 (2019-07-18T17:15:00)
 > The Sleuth Kit 4.6.0 and earlier is affected by: Integer Overflow. The impact is: Opening crafted disk image triggers crash in tsk/fs/hfs_dent.c:237. The component is: Overflow in fls tool used on HFS image. Bug is in tsk/fs/hfs.c file in function hfs_cat_traverse() in lines: 952, 1062. The attack vector is: Victim must open a crafted HFS filesystem image.
 - [Live-Hack-CVE/CVE-2019-1010065](https://github.com/Live-Hack-CVE/CVE-2019-1010065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1010065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1010065">
@@ -4564,6 +4586,12 @@ use after free.
 - [mbadanoiu/CVE-2019-10092](https://github.com/mbadanoiu/CVE-2019-10092)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-10092">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-10092">
 - [ro-fes/CVE2019-10092](https://github.com/ro-fes/CVE2019-10092)	<img alt="forks" src="https://img.shields.io/github/forks/ro-fes/CVE2019-10092">	<img alt="stars" src="https://img.shields.io/github/stars/ro-fes/CVE2019-10092">
 - [motikan2010/CVE-2019-10092_Docker](https://github.com/motikan2010/CVE-2019-10092_Docker)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2019-10092_Docker">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2019-10092_Docker">
+
+---
+## CVE-2019-10090 ()
+> 
+- [CQ-Tools/CVE-2019-10090-unfixed](https://github.com/CQ-Tools/CVE-2019-10090-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10090-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10090-unfixed">
+- [CQ-Tools/CVE-2019-10090-fixed](https://github.com/CQ-Tools/CVE-2019-10090-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10090-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10090-fixed">
 
 ---
 ## CVE-2019-10089 ()
@@ -4595,6 +4623,13 @@ use after free.
 ## CVE-2019-10067 (2019-05-22T00:29:00)
 > An issue was discovered in Open Ticket Request System (OTRS) 7.x through 7.0.6 and Community Edition 5.0.x through 5.0.35 and 6.0.x through 6.0.17. An attacker who is logged into OTRS as an agent user with appropriate permissions may manipulate the URL to cause execution of JavaScript in the context of OTRS.
 - [Live-Hack-CVE/CVE-2019-10067](https://github.com/Live-Hack-CVE/CVE-2019-10067)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-10067">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-10067">
+
+---
+## CVE-2019-10061 ()
+> 
+- [CQ-Tools/CVE-2019-10061-unfixed](https://github.com/CQ-Tools/CVE-2019-10061-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10061-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10061-unfixed">
+- [CQ-Tools/CVE-2019-10061-fixed](https://github.com/CQ-Tools/CVE-2019-10061-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-10061-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-10061-fixed">
+- [ossf-cve-benchmark/CVE-2019-10061](https://github.com/ossf-cve-benchmark/CVE-2019-10061)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10061">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10061">
 
 ---
 ## CVE-2019-1006 (2019-07-15T19:15:00)
