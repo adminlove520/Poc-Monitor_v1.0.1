@@ -304,6 +304,9 @@
 - [Thampakon/CVE-2019-8331](https://github.com/Thampakon/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/Thampakon/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/Thampakon/CVE-2019-8331">
 - [Snorlyd/https-nj.gov---CVE-2019-8331](https://github.com/Snorlyd/https-nj.gov---CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/Snorlyd/https-nj.gov---CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/Snorlyd/https-nj.gov---CVE-2019-8331">
 - [ossf-cve-benchmark/CVE-2019-8331](https://github.com/ossf-cve-benchmark/CVE-2019-8331)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-8331">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-8331">
+- [CQ-Tools/CVE-2019-8331-unfixed](https://github.com/CQ-Tools/CVE-2019-8331-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-8331-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-8331-unfixed">
+- [CQ-Tools/CVE-2019-8331-fixed](https://github.com/CQ-Tools/CVE-2019-8331-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-8331-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-8331-fixed">
+- [Yumeae/Bootstrap-with-XSS](https://github.com/Yumeae/Bootstrap-with-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Yumeae/Bootstrap-with-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Yumeae/Bootstrap-with-XSS">
 
 ---
 ## CVE-2019-8292 (2019-10-01T20:15:00)
@@ -1041,6 +1044,19 @@
 - [HynekPetrak/CVE-2019-5544_CVE-2020-3992](https://github.com/HynekPetrak/CVE-2019-5544_CVE-2020-3992)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/CVE-2019-5544_CVE-2020-3992">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/CVE-2019-5544_CVE-2020-3992">
 - [dgh05t/VMware_ESXI_OpenSLP_PoCs](https://github.com/dgh05t/VMware_ESXI_OpenSLP_PoCs)	<img alt="forks" src="https://img.shields.io/github/forks/dgh05t/VMware_ESXI_OpenSLP_PoCs">	<img alt="stars" src="https://img.shields.io/github/stars/dgh05t/VMware_ESXI_OpenSLP_PoCs">
 - [vpxuser/CVE-2019-5544](https://github.com/vpxuser/CVE-2019-5544)	<img alt="forks" src="https://img.shields.io/github/forks/vpxuser/CVE-2019-5544">	<img alt="stars" src="https://img.shields.io/github/stars/vpxuser/CVE-2019-5544">
+
+---
+## CVE-2019-5484 ()
+> 
+- [CQ-Tools/CVE-2019-5484-unfixed](https://github.com/CQ-Tools/CVE-2019-5484-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5484-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5484-unfixed">
+- [CQ-Tools/CVE-2019-5484-fixed](https://github.com/CQ-Tools/CVE-2019-5484-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5484-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5484-fixed">
+- [ossf-cve-benchmark/CVE-2019-5484](https://github.com/ossf-cve-benchmark/CVE-2019-5484)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-5484">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-5484">
+
+---
+## CVE-2019-5483 ()
+> 
+- [CQ-Tools/CVE-2019-5483-unfixed](https://github.com/CQ-Tools/CVE-2019-5483-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5483-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5483-unfixed">
+- [CQ-Tools/CVE-2019-5483-fixed](https://github.com/CQ-Tools/CVE-2019-5483-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-5483-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-5483-fixed">
 
 ---
 ## CVE-2019-5477 (2019-08-16T16:15:00)
@@ -2319,6 +2335,12 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-20176](https://github.com/Live-Hack-CVE/CVE-2019-20176)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20176">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20176">
 
 ---
+## CVE-2019-20174 ()
+> 
+- [CQ-Tools/CVE-2019-20174-fixed](https://github.com/CQ-Tools/CVE-2019-20174-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20174-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20174-fixed">
+- [CQ-Tools/CVE-2019-20174-unfixed](https://github.com/CQ-Tools/CVE-2019-20174-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-20174-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-20174-unfixed">
+
+---
 ## CVE-2019-20172 (2019-12-31T03:15:00)
 > Kernel/VM/MemoryManager.cpp in SerenityOS before 2019-12-30 does not reject syscalls with pointers into the kernel-only virtual address space, which allows local users to gain privileges by overwriting a return address that was found on the kernel stack.
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
@@ -2551,6 +2573,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-19509](https://github.com/Live-Hack-CVE/CVE-2019-19509)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-19509">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-19509">
 
 ---
+## CVE-2019-19507 ()
+> 
+- [CQ-Tools/CVE-2019-19507-fixed](https://github.com/CQ-Tools/CVE-2019-19507-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-19507-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-19507-fixed">
+
+---
 ## CVE-2019-19492 (2019-12-02T02:15:00)
 > FreeSWITCH 1.6.10 through 1.10.1 has a default password in event_socket.conf.xml.
 - [Chocapikk/CVE-2019-19492](https://github.com/Chocapikk/CVE-2019-19492)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2019-19492">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2019-19492">
@@ -2758,6 +2785,11 @@ use after free.
 - [jsnhcuan1997/UltramanGaia](https://github.com/jsnhcuan1997/UltramanGaia)	<img alt="forks" src="https://img.shields.io/github/forks/jsnhcuan1997/UltramanGaia">	<img alt="stars" src="https://img.shields.io/github/stars/jsnhcuan1997/UltramanGaia">
 - [AjayMT6/UltramanGaia](https://github.com/AjayMT6/UltramanGaia)	<img alt="forks" src="https://img.shields.io/github/forks/AjayMT6/UltramanGaia">	<img alt="stars" src="https://img.shields.io/github/stars/AjayMT6/UltramanGaia">
 - [UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC)	<img alt="forks" src="https://img.shields.io/github/forks/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC">	<img alt="stars" src="https://img.shields.io/github/stars/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC">
+
+---
+## CVE-2019-18350 ()
+> 
+- [CQ-Tools/CVE-2019-18350-fixed](https://github.com/CQ-Tools/CVE-2019-18350-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-18350-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-18350-fixed">
 
 ---
 ## CVE-2019-18265 (2022-11-30T23:15:00)
@@ -3073,6 +3105,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-16770](https://github.com/Live-Hack-CVE/CVE-2019-16770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-16770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-16770">
 
 ---
+## CVE-2019-16769 ()
+> 
+- [CQ-Tools/CVE-2019-16769-unfixed](https://github.com/CQ-Tools/CVE-2019-16769-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-16769-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-16769-unfixed">
+
+---
 ## CVE-2019-16759 (2019-09-24T22:15:00)
 > vBulletin 5.x through 5.5.4 allows remote command execution via the widgetConfig[code] parameter in an ajax/render/widget_php routestring request.
 - [M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit](https://github.com/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/M0sterHxck/CVE-2019-16759-Vbulletin-rce-exploit">
@@ -3279,6 +3316,12 @@ use after free.
 ## CVE-2019-15707 ()
 > 
 - [cristianovisk/CVE-2019-15707](https://github.com/cristianovisk/CVE-2019-15707)	<img alt="forks" src="https://img.shields.io/github/forks/cristianovisk/CVE-2019-15707">	<img alt="stars" src="https://img.shields.io/github/stars/cristianovisk/CVE-2019-15707">
+
+---
+## CVE-2019-15657 ()
+> 
+- [CQ-Tools/CVE-2019-15657-unfixed](https://github.com/CQ-Tools/CVE-2019-15657-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-15657-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-15657-unfixed">
+- [CQ-Tools/CVE-2019-15657-fixed](https://github.com/CQ-Tools/CVE-2019-15657-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2019-15657-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2019-15657-fixed">
 
 ---
 ## CVE-2019-15654 (2020-03-19T18:15:00)
