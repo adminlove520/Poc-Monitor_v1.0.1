@@ -910,6 +910,7 @@
 ## CVE-2018-3757 ()
 > 
 - [CQ-Tools/CVE-2018-3757-fixed](https://github.com/CQ-Tools/CVE-2018-3757-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3757-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3757-fixed">
+- [CQ-Tools/CVE-2018-3757-unfixed](https://github.com/CQ-Tools/CVE-2018-3757-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-3757-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-3757-unfixed">
 
 ---
 ## CVE-2018-3752 ()
@@ -1323,6 +1324,13 @@
 ## CVE-2018-20961 (2019-08-07T15:15:00)
 > In the Linux kernel before 4.16.4, a double free vulnerability in the f_midi_set_alt function of drivers/usb/gadget/function/f_midi.c in the f_midi driver may allow attackers to cause a denial of service or possibly have unspecified other impact.
 - [Live-Hack-CVE/CVE-2018-20961](https://github.com/Live-Hack-CVE/CVE-2018-20961)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-20961">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-20961">
+
+---
+## CVE-2018-20835 ()
+> 
+- [CQ-Tools/CVE-2018-20835-fixed](https://github.com/CQ-Tools/CVE-2018-20835-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-20835-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-20835-fixed">
+- [CQ-Tools/CVE-2018-20835-unfixed](https://github.com/CQ-Tools/CVE-2018-20835-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2018-20835-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2018-20835-unfixed">
+- [ossf-cve-benchmark/CVE-2018-20835](https://github.com/ossf-cve-benchmark/CVE-2018-20835)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2018-20835">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2018-20835">
 
 ---
 ## CVE-2018-20580 (2019-05-03T20:29:00)

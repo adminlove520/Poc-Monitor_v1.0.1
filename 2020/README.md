@@ -362,6 +362,13 @@
 - [mbadanoiu/CVE-2020-8248](https://github.com/mbadanoiu/CVE-2020-8248)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2020-8248">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2020-8248">
 
 ---
+## CVE-2020-8244 ()
+> 
+- [CQ-Tools/CVE-2020-8244-fixed](https://github.com/CQ-Tools/CVE-2020-8244-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8244-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8244-fixed">
+- [CQ-Tools/CVE-2020-8244-unfixed](https://github.com/CQ-Tools/CVE-2020-8244-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8244-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8244-unfixed">
+- [ossf-cve-benchmark/CVE-2020-8244](https://github.com/ossf-cve-benchmark/CVE-2020-8244)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8244">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8244">
+
+---
 ## CVE-2020-8196 (2020-07-10T16:15:00)
 > Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
 - [Live-Hack-CVE/CVE-2020-8196](https://github.com/Live-Hack-CVE/CVE-2020-8196)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8196">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8196">
@@ -380,6 +387,12 @@
 - [Zeop-CyberSec/citrix_adc_netscaler_lfi](https://github.com/Zeop-CyberSec/citrix_adc_netscaler_lfi)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/citrix_adc_netscaler_lfi">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/citrix_adc_netscaler_lfi">
 - [Airboi/Citrix-ADC-RCE-CVE-2020-8193](https://github.com/Airboi/Citrix-ADC-RCE-CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/Airboi/Citrix-ADC-RCE-CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/Airboi/Citrix-ADC-RCE-CVE-2020-8193">
 - [jas502n/CVE-2020-8193](https://github.com/jas502n/CVE-2020-8193)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2020-8193">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2020-8193">
+
+---
+## CVE-2020-8192 ()
+> 
+- [CQ-Tools/CVE-2020-8192-unfixed](https://github.com/CQ-Tools/CVE-2020-8192-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8192-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8192-unfixed">
+- [CQ-Tools/CVE-2020-8192-fixed](https://github.com/CQ-Tools/CVE-2020-8192-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8192-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8192-fixed">
 
 ---
 ## CVE-2020-8184 (2020-06-19T17:15:00)
@@ -403,6 +416,13 @@
 ## CVE-2020-8158 ()
 > 
 - [dajneem23/CVE-2020-8158](https://github.com/dajneem23/CVE-2020-8158)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2020-8158">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2020-8158">
+
+---
+## CVE-2020-8116 ()
+> 
+- [CQ-Tools/CVE-2020-8116-fixed](https://github.com/CQ-Tools/CVE-2020-8116-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8116-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8116-fixed">
+- [CQ-Tools/CVE-2020-8116-unfixed](https://github.com/CQ-Tools/CVE-2020-8116-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-8116-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-8116-unfixed">
+- [ossf-cve-benchmark/CVE-2020-8116](https://github.com/ossf-cve-benchmark/CVE-2020-8116)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8116">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8116">
 
 ---
 ## CVE-2020-8026 (2020-08-07T10:15:00)
@@ -502,6 +522,12 @@
 ## CVE-2020-7766 (2020-11-10T16:15:00)
 > This affects all versions of package json-ptr. The issue occurs in the set operation (https://flitbit.github.io/json-ptr/classes/_src_pointer_.jsonpointer.htmlset) when the force flag is set to true. The function recursively set the property in the target object, however it does not properly check the key being set, leading to a prototype pollution.
 - [Live-Hack-CVE/CVE-2020-7766](https://github.com/Live-Hack-CVE/CVE-2020-7766)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7766">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7766">
+
+---
+## CVE-2020-7763 ()
+> 
+- [CQ-Tools/CVE-2020-7763-unfixed](https://github.com/CQ-Tools/CVE-2020-7763-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7763-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7763-unfixed">
+- [CQ-Tools/CVE-2020-7763-fixed](https://github.com/CQ-Tools/CVE-2020-7763-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7763-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7763-fixed">
 
 ---
 ## CVE-2020-7748 (2020-10-20T11:15:00)
@@ -627,8 +653,10 @@
 ## CVE-2020-7699 (2020-07-30T09:15:00)
 > This affects the package express-fileupload before 1.1.8. If the parseNested option is enabled, sending a corrupt HTTP request can lead to denial of service or arbitrary code execution.
 - [Live-Hack-CVE/CVE-2020-7699](https://github.com/Live-Hack-CVE/CVE-2020-7699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7699">
-- [hemaoqi-Tom/CVE-2020-7699_reproduce](https://github.com/hemaoqi-Tom/CVE-2020-7699_reproduce)	<img alt="forks" src="https://img.shields.io/github/forks/hemaoqi-Tom/CVE-2020-7699_reproduce">	<img alt="stars" src="https://img.shields.io/github/stars/hemaoqi-Tom/CVE-2020-7699_reproduce">
+- [zodiac12-pub/CVE-2020-7699_reproduce](https://github.com/zodiac12-pub/CVE-2020-7699_reproduce)	<img alt="forks" src="https://img.shields.io/github/forks/zodiac12-pub/CVE-2020-7699_reproduce">	<img alt="stars" src="https://img.shields.io/github/stars/zodiac12-pub/CVE-2020-7699_reproduce">
 - [ossf-cve-benchmark/CVE-2020-7699](https://github.com/ossf-cve-benchmark/CVE-2020-7699)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7699">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7699">
+- [CQ-Tools/CVE-2020-7699-unfixed](https://github.com/CQ-Tools/CVE-2020-7699-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7699-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7699-unfixed">
+- [CQ-Tools/CVE-2020-7699-fixed](https://github.com/CQ-Tools/CVE-2020-7699-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7699-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7699-fixed">
 
 ---
 ## CVE-2020-7693 ()
@@ -650,6 +678,25 @@
 ## CVE-2020-7663 (2020-06-02T19:15:00)
 > websocket-extensions ruby module prior to 0.1.5 allows Denial of Service (DoS) via Regex Backtracking. The extension parser may take quadratic time when parsing a header containing an unclosed string parameter value whose content is a repeating two-byte sequence of a backslash and some other character. This could be abused by an attacker to conduct Regex Denial Of Service (ReDoS) on a single-threaded server by providing a malicious payload with the Sec-WebSocket-Extensions header.
 - [Live-Hack-CVE/CVE-2020-7663](https://github.com/Live-Hack-CVE/CVE-2020-7663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7663">
+
+---
+## CVE-2020-7662 ()
+> 
+- [CQ-Tools/CVE-2020-7662-fixed](https://github.com/CQ-Tools/CVE-2020-7662-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7662-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7662-fixed">
+- [CQ-Tools/CVE-2020-7662-unfixed](https://github.com/CQ-Tools/CVE-2020-7662-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7662-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7662-unfixed">
+
+---
+## CVE-2020-7660 ()
+> 
+- [CQ-Tools/CVE-2020-7660-fixed](https://github.com/CQ-Tools/CVE-2020-7660-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7660-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7660-fixed">
+- [CQ-Tools/CVE-2020-7660-unfixed](https://github.com/CQ-Tools/CVE-2020-7660-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7660-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7660-unfixed">
+
+---
+## CVE-2020-7656 ()
+> 
+- [CQ-Tools/CVE-2020-7656-fixed](https://github.com/CQ-Tools/CVE-2020-7656-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-fixed">
+- [CQ-Tools/CVE-2020-7656-unfixed](https://github.com/CQ-Tools/CVE-2020-7656-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-7656-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-7656-unfixed">
+- [ossf-cve-benchmark/CVE-2020-7656](https://github.com/ossf-cve-benchmark/CVE-2020-7656)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-7656">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-7656">
 
 ---
 ## CVE-2020-7644 (2020-04-28T19:15:00)
@@ -813,6 +860,13 @@
 ## CVE-2020-7019 (2020-08-18T17:15:00)
 > In Elasticsearch before 7.9.0 and 6.8.12 a field disclosure flaw was found when running a scrolling search with Field Level Security. If a user runs the same query another more privileged user recently ran, the scrolling search can leak fields that should be hidden. This could result in an attacker gaining additional permissions against a restricted index.
 - [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
+
+---
+## CVE-2020-6836 ()
+> 
+- [CQ-Tools/CVE-2020-6836-unfixed](https://github.com/CQ-Tools/CVE-2020-6836-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-unfixed">
+- [CQ-Tools/CVE-2020-6836-fixed](https://github.com/CQ-Tools/CVE-2020-6836-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-fixed">
+- [ossf-cve-benchmark/CVE-2020-6836](https://github.com/ossf-cve-benchmark/CVE-2020-6836)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-6836">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-6836">
 
 ---
 ## CVE-2020-6817 (2023-02-16T22:15:00)
