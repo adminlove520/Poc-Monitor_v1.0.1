@@ -26,6 +26,11 @@
 - [cardosource/CVE-2026-25828](https://github.com/cardosource/CVE-2026-25828)	<img alt="forks" src="https://img.shields.io/github/forks/cardosource/CVE-2026-25828">	<img alt="stars" src="https://img.shields.io/github/stars/cardosource/CVE-2026-25828">
 
 ---
+## CVE-2026-25732 ()
+> 
+- [mbanyamer/CVE-2026-25732-NiceGUI-3.6.1](https://github.com/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25732-NiceGUI-3.6.1">
+
+---
 ## CVE-2026-25731 ()
 > 
 - [dxlerYT/CVE-2026-25731](https://github.com/dxlerYT/CVE-2026-25731)	<img alt="forks" src="https://img.shields.io/github/forks/dxlerYT/CVE-2026-25731">	<img alt="stars" src="https://img.shields.io/github/stars/dxlerYT/CVE-2026-25731">
@@ -462,6 +467,11 @@
 ## CVE-2026-1953 ()
 > 
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
+
+---
+## CVE-2026-1862 ()
+> 
+- [b1gchoi/CVE-2026-1862-exp](https://github.com/b1gchoi/CVE-2026-1862-exp)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-1862-exp">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-1862-exp">
 
 ---
 ## CVE-2026-1522 ()
