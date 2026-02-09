@@ -2158,6 +2158,7 @@
 - [ibrahmsql/CVE-2025-6018](https://github.com/ibrahmsql/CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-6018">
 - [Ashwesker/Blackash-CVE-2025-6018](https://github.com/Ashwesker/Blackash-CVE-2025-6018)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-6018">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-6018">
 - [euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019](https://github.com/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/euxem/Analyse-faille-de-s-curit-CVE-2025-6018-CVE-2025-6019">
+- [AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation](https://github.com/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-6018-and-CVE-2025-6019-Privilege-Escalation">
 
 ---
 ## CVE-2025-60021 ()
