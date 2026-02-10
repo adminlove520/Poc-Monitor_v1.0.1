@@ -3568,6 +3568,7 @@
 - [Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC">
 - [BrianLopezM99/react2shell-CVE-2025-55182](https://github.com/BrianLopezM99/react2shell-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/BrianLopezM99/react2shell-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/BrianLopezM99/react2shell-CVE-2025-55182">
 - [George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-](https://github.com/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-55182-React2Shell-CVSS-10.0-">
+- [atiilla/CVE-2025-55182](https://github.com/atiilla/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
