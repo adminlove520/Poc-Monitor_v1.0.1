@@ -364,6 +364,11 @@
 - [horizon3ai/CVE-2026-22200](https://github.com/horizon3ai/CVE-2026-22200)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2026-22200">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2026-22200">
 
 ---
+## CVE-2026-22187 ()
+> 
+- [George0Papasotiriou/CVE-2026-22187-Bio-Formats-unsafe-Java-deserialization-via-.bfmemo](https://github.com/George0Papasotiriou/CVE-2026-22187-Bio-Formats-unsafe-Java-deserialization-via-.bfmemo)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-22187-Bio-Formats-unsafe-Java-deserialization-via-.bfmemo">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-22187-Bio-Formats-unsafe-Java-deserialization-via-.bfmemo">
+
+---
 ## CVE-2026-21962 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
@@ -373,6 +378,7 @@
 - [ThumpBo/CVE-2026-21962](https://github.com/ThumpBo/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/ThumpBo/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/ThumpBo/CVE-2026-21962">
 - [gregk4sec/CVE-2026-21962](https://github.com/gregk4sec/CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2026-21962">
 - [boroeurnprach/Ashwesker-CVE-2026-21962](https://github.com/boroeurnprach/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/boroeurnprach/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/boroeurnprach/Ashwesker-CVE-2026-21962">
+- [George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-](https://github.com/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-21962-Oracle-HTTP-Server-WebLogic-Proxy-Plug-in-Critical-">
 
 ---
 ## CVE-2026-21877 ()
