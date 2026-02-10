@@ -61,6 +61,11 @@
 - [mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection](https://github.com/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25546-godot-mcp-0.1.1-OS-Command-Injection">
 
 ---
+## CVE-2026-25526 ()
+> 
+- [av4nth1ka/jinjava-cve-2026-25526-poc](https://github.com/av4nth1ka/jinjava-cve-2026-25526-poc)	<img alt="forks" src="https://img.shields.io/github/forks/av4nth1ka/jinjava-cve-2026-25526-poc">	<img alt="stars" src="https://img.shields.io/github/stars/av4nth1ka/jinjava-cve-2026-25526-poc">
+
+---
 ## CVE-2026-25512 ()
 > 
 - [NumberOreo1/CVE-2026-25512](https://github.com/NumberOreo1/CVE-2026-25512)	<img alt="forks" src="https://img.shields.io/github/forks/NumberOreo1/CVE-2026-25512">	<img alt="stars" src="https://img.shields.io/github/stars/NumberOreo1/CVE-2026-25512">
