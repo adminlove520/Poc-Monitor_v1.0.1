@@ -1752,6 +1752,7 @@
 - [mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation](https://github.com/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/mrk336/Kernel-Chaos-Weaponizing-CVE-2025-62215-for-SYSTEM-Privilege-Escalation">
 - [abrewer251/CVE-2025-62215_Windows_Kernel_PE](https://github.com/abrewer251/CVE-2025-62215_Windows_Kernel_PE)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-62215_Windows_Kernel_PE">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-62215_Windows_Kernel_PE">
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
+- [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
 
 ---
 ## CVE-2025-62207 ()
@@ -3744,6 +3745,7 @@
 - [25145hg654511135gfhfkr8488r8r8r8r8r/test](https://github.com/25145hg654511135gfhfkr8488r8r8r8r8r/test)	<img alt="forks" src="https://img.shields.io/github/forks/25145hg654511135gfhfkr8488r8r8r8r8r/test">	<img alt="stars" src="https://img.shields.io/github/stars/25145hg654511135gfhfkr8488r8r8r8r8r/test">
 - [AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-54253-Inside-the-Adobe-AEM-Forms-Zero-Day">
 - [netmatthew3771/CVE-2025-54253](https://github.com/netmatthew3771/CVE-2025-54253)	<img alt="forks" src="https://img.shields.io/github/forks/netmatthew3771/CVE-2025-54253">	<img alt="stars" src="https://img.shields.io/github/stars/netmatthew3771/CVE-2025-54253">
+- [zoomdbz/AEMPWN](https://github.com/zoomdbz/AEMPWN)	<img alt="forks" src="https://img.shields.io/github/forks/zoomdbz/AEMPWN">	<img alt="stars" src="https://img.shields.io/github/stars/zoomdbz/AEMPWN">
 
 ---
 ## CVE-2025-54236 ()
@@ -5300,6 +5302,7 @@
 > 
 - [Yucaerin/CVE-2025-4606](https://github.com/Yucaerin/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-4606">
 - [UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/UcenHaxor07/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/UcenHaxor07/CVE-2025-4606">
+- [Yetazyyy/CVE-2025-4606](https://github.com/Yetazyyy/CVE-2025-4606)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2025-4606">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2025-4606">
 
 ---
 ## CVE-2025-46047 ()
