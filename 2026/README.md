@@ -456,6 +456,12 @@
 - [DarkSploits/CVE-2026-21643-Exploit](https://github.com/DarkSploits/CVE-2026-21643-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSploits/CVE-2026-21643-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSploits/CVE-2026-21643-Exploit">
 
 ---
+## CVE-2026-21533 ()
+> 
+- [ghostroots/CVE-2026-21533](https://github.com/ghostroots/CVE-2026-21533)	<img alt="forks" src="https://img.shields.io/github/forks/ghostroots/CVE-2026-21533">	<img alt="stars" src="https://img.shields.io/github/stars/ghostroots/CVE-2026-21533">
+- [Pairs34/RDPVulnarableCheck](https://github.com/Pairs34/RDPVulnarableCheck)	<img alt="forks" src="https://img.shields.io/github/forks/Pairs34/RDPVulnarableCheck">	<img alt="stars" src="https://img.shields.io/github/stars/Pairs34/RDPVulnarableCheck">
+
+---
 ## CVE-2026-21531 ()
 > 
 - [NetVanguard-cmd/CVE-2026-21531](https://github.com/NetVanguard-cmd/CVE-2026-21531)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-21531">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-21531">
