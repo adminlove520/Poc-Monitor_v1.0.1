@@ -3819,6 +3819,7 @@
 - [fokda-prodz/CVE-2025-5394](https://github.com/fokda-prodz/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/fokda-prodz/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/fokda-prodz/CVE-2025-5394">
 - [Nxploited/CVE-2025-5394](https://github.com/Nxploited/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-5394">
 - [Yucaerin/CVE-2025-5394](https://github.com/Yucaerin/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2025-5394">
+- [qalesyaSN/CVE-2025-5394](https://github.com/qalesyaSN/CVE-2025-5394)	<img alt="forks" src="https://img.shields.io/github/forks/qalesyaSN/CVE-2025-5394">	<img alt="stars" src="https://img.shields.io/github/stars/qalesyaSN/CVE-2025-5394">
 
 ---
 ## CVE-2025-53833 ()
@@ -4690,6 +4691,7 @@
 - [kerburenthusiasm/CVE-2025-49132-PoC](https://github.com/kerburenthusiasm/CVE-2025-49132-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kerburenthusiasm/CVE-2025-49132-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kerburenthusiasm/CVE-2025-49132-PoC">
 - [Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10](https://github.com/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/-CVE-2025-49132_Pterodactyl-_HTB-Season-10">
 - [matesz44/CVE-2025-49132](https://github.com/matesz44/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-49132">
+- [Ahmedf000/CVE-2025-49132_HTB_SEASON10](https://github.com/Ahmedf000/CVE-2025-49132_HTB_SEASON10)	<img alt="forks" src="https://img.shields.io/github/forks/Ahmedf000/CVE-2025-49132_HTB_SEASON10">	<img alt="stars" src="https://img.shields.io/github/stars/Ahmedf000/CVE-2025-49132_HTB_SEASON10">
 
 ---
 ## CVE-2025-49131 ()
