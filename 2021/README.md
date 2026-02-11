@@ -3409,6 +3409,9 @@
 - [zaaraZiof0/pkexec-exploit-CVE](https://github.com/zaaraZiof0/pkexec-exploit-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/zaaraZiof0/pkexec-exploit-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/zaaraZiof0/pkexec-exploit-CVE">
 - [dr4xp/pwnkit-helper](https://github.com/dr4xp/pwnkit-helper)	<img alt="forks" src="https://img.shields.io/github/forks/dr4xp/pwnkit-helper">	<img alt="stars" src="https://img.shields.io/github/stars/dr4xp/pwnkit-helper">
 - [hjoshi17/CVE-2021-4034](https://github.com/hjoshi17/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/hjoshi17/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/hjoshi17/CVE-2021-4034">
+- [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
+- [ramahmdr/PwnKit](https://github.com/ramahmdr/PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ramahmdr/PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ramahmdr/PwnKit">
+- [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
