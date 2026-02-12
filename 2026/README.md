@@ -39,6 +39,7 @@
 ## CVE-2026-25857 ()
 > 
 - [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
+- [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
 
 ---
 ## CVE-2026-25854 ()
