@@ -250,6 +250,7 @@
 - [killsystema/scan-cve-2026-24061](https://github.com/killsystema/scan-cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/killsystema/scan-cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/killsystema/scan-cve-2026-24061">
 - [nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector](https://github.com/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/nrnw/CVE-2026-24061-GNU-inetutils-Telnet-Detector">
 - [scumfrog/cve-2026-24061](https://github.com/scumfrog/cve-2026-24061)	<img alt="forks" src="https://img.shields.io/github/forks/scumfrog/cve-2026-24061">	<img alt="stars" src="https://img.shields.io/github/stars/scumfrog/cve-2026-24061">
+- [hyu164/Terrminus-CVE-2026-2406](https://github.com/hyu164/Terrminus-CVE-2026-2406)	<img alt="forks" src="https://img.shields.io/github/forks/hyu164/Terrminus-CVE-2026-2406">	<img alt="stars" src="https://img.shields.io/github/stars/hyu164/Terrminus-CVE-2026-2406">
 
 ---
 ## CVE-2026-2406 ()
