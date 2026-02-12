@@ -2378,6 +2378,7 @@
 ## CVE-2025-59194 ()
 > 
 - [kawaii-ghost/CVE-2025-59194](https://github.com/kawaii-ghost/CVE-2025-59194)	<img alt="forks" src="https://img.shields.io/github/forks/kawaii-ghost/CVE-2025-59194">	<img alt="stars" src="https://img.shields.io/github/stars/kawaii-ghost/CVE-2025-59194">
+- [kawaii-ghost/CVE-2025-59194](https://github.com/kawaii-ghost/CVE-2025-59194)	<img alt="forks" src="https://img.shields.io/github/forks/kawaii-ghost/CVE-2025-59194">	<img alt="stars" src="https://img.shields.io/github/stars/kawaii-ghost/CVE-2025-59194">
 
 ---
 ## CVE-2025-59118 ()
