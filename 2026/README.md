@@ -582,6 +582,11 @@
 - [TibbersV6/CVE-2026-21440-POC-EXP](https://github.com/TibbersV6/CVE-2026-21440-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/TibbersV6/CVE-2026-21440-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/TibbersV6/CVE-2026-21440-POC-EXP">
 
 ---
+## CVE-2026-2144 ()
+> 
+- [jermaine22sei/CVE-2026-2144-exploit](https://github.com/jermaine22sei/CVE-2026-2144-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2144-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2144-exploit">
+
+---
 ## CVE-2026-21437 ()
 > 
 - [osmancanvural/CVE-2026-21437](https://github.com/osmancanvural/CVE-2026-21437)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21437">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21437">
