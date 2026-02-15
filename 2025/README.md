@@ -5467,6 +5467,7 @@
 - [StealthByte0/CVE-2025-4517-poc](https://github.com/StealthByte0/CVE-2025-4517-poc)	<img alt="forks" src="https://img.shields.io/github/forks/StealthByte0/CVE-2025-4517-poc">	<img alt="stars" src="https://img.shields.io/github/stars/StealthByte0/CVE-2025-4517-poc">
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
 - [0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass](https://github.com/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass">
+- [AzureADTrent/CVE-2025-4517-POC-HTB](https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-4517-POC-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-4517-POC-HTB">
 
 ---
 ## CVE-2025-45072 ()
@@ -5802,6 +5803,7 @@
 ## CVE-2025-4138 ()
 > 
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
+- [thefizzyfish/CVE-2025-4138_tarfile_filter_bypass](https://github.com/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/thefizzyfish/CVE-2025-4138_tarfile_filter_bypass">
 
 ---
 ## CVE-2025-41373 ()
