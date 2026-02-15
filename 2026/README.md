@@ -585,6 +585,11 @@
 ## CVE-2026-2144 ()
 > 
 - [jermaine22sei/CVE-2026-2144-exploit](https://github.com/jermaine22sei/CVE-2026-2144-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2144-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2144-exploit">
+- [TibbersV6/CVE-2026-21440-POC-EXP](https://github.com/TibbersV6/CVE-2026-21440-POC-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/TibbersV6/CVE-2026-21440-POC-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/TibbersV6/CVE-2026-21440-POC-EXP">
+- [k0nnect/cve-2026-21440-writeup-poc](https://github.com/k0nnect/cve-2026-21440-writeup-poc)	<img alt="forks" src="https://img.shields.io/github/forks/k0nnect/cve-2026-21440-writeup-poc">	<img alt="stars" src="https://img.shields.io/github/stars/k0nnect/cve-2026-21440-writeup-poc">
+- [you-ssef9/CVE-2026-21440](https://github.com/you-ssef9/CVE-2026-21440)	<img alt="forks" src="https://img.shields.io/github/forks/you-ssef9/CVE-2026-21440">	<img alt="stars" src="https://img.shields.io/github/stars/you-ssef9/CVE-2026-21440">
+- [redpack-kr/Ashwesker-CVE-2026-21440](https://github.com/redpack-kr/Ashwesker-CVE-2026-21440)	<img alt="forks" src="https://img.shields.io/github/forks/redpack-kr/Ashwesker-CVE-2026-21440">	<img alt="stars" src="https://img.shields.io/github/stars/redpack-kr/Ashwesker-CVE-2026-21440">
+- [chinaxploiter/CVE-2026-21445-PoC](https://github.com/chinaxploiter/CVE-2026-21445-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chinaxploiter/CVE-2026-21445-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chinaxploiter/CVE-2026-21445-PoC">
 
 ---
 ## CVE-2026-21437 ()
@@ -750,6 +755,11 @@
 ## CVE-2026-0770 ()
 > 
 - [affix/CVE-2026-0770-PoC](https://github.com/affix/CVE-2026-0770-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/affix/CVE-2026-0770-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/affix/CVE-2026-0770-PoC">
+
+---
+## CVE-2026-0745 ()
+> 
+- [blackhatlegend/CVE-2026-0745](https://github.com/blackhatlegend/CVE-2026-0745)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-0745">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-0745">
 
 ---
 ## CVE-2026-0628 ()
