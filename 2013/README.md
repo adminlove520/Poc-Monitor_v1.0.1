@@ -61,6 +61,11 @@
 - [Live-Hack-CVE/CVE-2013-6406](https://github.com/Live-Hack-CVE/CVE-2013-6406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6406">
 
 ---
+## CVE-2013-5960 ()
+> 
+- [andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable](https://github.com/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable">
+
+---
 ## CVE-2013-5843 (2013-10-16T17:55:00)
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, JavaFX 2.2.40 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to 2D.
 - [Live-Hack-CVE/CVE-2013-5843](https://github.com/Live-Hack-CVE/CVE-2013-5843)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5843">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5843">
@@ -83,6 +88,11 @@
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to 2D, a different vulnerability than CVE-2013-5809.
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
 - [Live-Hack-CVE/CVE-2013-5829](https://github.com/Live-Hack-CVE/CVE-2013-5829)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5829">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5829">
+
+---
+## CVE-2013-5679 ()
+> 
+- [andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable](https://github.com/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable">
 
 ---
 ## CVE-2013-5211 (2014-01-02T14:59:00)

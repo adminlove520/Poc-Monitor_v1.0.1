@@ -31,6 +31,16 @@
 - [Live-Hack-CVE/CVE-2016-9675](https://github.com/Live-Hack-CVE/CVE-2016-9675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9675">
 
 ---
+## CVE-2016-9606 ()
+> 
+- [andikahilmy/CVE-2016-9606-Resteasy-vulnerable](https://github.com/andikahilmy/CVE-2016-9606-Resteasy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-9606-Resteasy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-9606-Resteasy-vulnerable">
+
+---
+## CVE-2016-9589 ()
+> 
+- [andikahilmy/CVE-2016-9589-undertow-vulnerable](https://github.com/andikahilmy/CVE-2016-9589-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-9589-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-9589-undertow-vulnerable">
+
+---
 ## CVE-2016-9299 (2017-01-12T23:59:00)
 > The remoting module in Jenkins before 2.32 and LTS before 2.19.3 allows remote attackers to execute arbitrary code via a crafted serialized Java object, which triggers an LDAP query to a third-party server.
 - [r00t4dm/Jenkins-CVE-2016-9299](https://github.com/r00t4dm/Jenkins-CVE-2016-9299)	<img alt="forks" src="https://img.shields.io/github/forks/r00t4dm/Jenkins-CVE-2016-9299">	<img alt="stars" src="https://img.shields.io/github/stars/r00t4dm/Jenkins-CVE-2016-9299">
@@ -469,6 +479,11 @@
 - [shoucheng3/asf__cxf_CVE-2016-6812_3-0-11](https://github.com/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__cxf_CVE-2016-6812_3-0-11">
 
 ---
+## CVE-2016-6809 ()
+> 
+- [andikahilmy/CVE-2016-6809-tika-vulnerable](https://github.com/andikahilmy/CVE-2016-6809-tika-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-6809-tika-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-6809-tika-vulnerable">
+
+---
 ## CVE-2016-6802 ()
 > 
 - [andikahilmy/CVE-2016-6802-shiro-vulnerable](https://github.com/andikahilmy/CVE-2016-6802-shiro-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-6802-shiro-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-6802-shiro-vulnerable">
@@ -664,6 +679,11 @@
 ## CVE-2016-4507 (2016-07-06T14:59:00)
 > SQL injection vulnerability in Rexroth Bosch BLADEcontrol-WebVIS 3.0.2 and earlier allows remote authenticated users to execute arbitrary SQL commands via unspecified vectors.
 - [Live-Hack-CVE/CVE-2016-4507](https://github.com/Live-Hack-CVE/CVE-2016-4507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-4507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-4507">
+
+---
+## CVE-2016-4464 ()
+> 
+- [andikahilmy/CVE-2016-4464-cxf-fediz-vulnerable](https://github.com/andikahilmy/CVE-2016-4464-cxf-fediz-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-4464-cxf-fediz-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-4464-cxf-fediz-vulnerable">
 
 ---
 ## CVE-2016-4440 (2016-06-27T10:59:00)

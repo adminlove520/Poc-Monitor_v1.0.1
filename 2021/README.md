@@ -5319,6 +5319,16 @@
 - [Live-Hack-CVE/CVE-2021-35530](https://github.com/Live-Hack-CVE/CVE-2021-35530)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35530">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35530">
 
 ---
+## CVE-2021-35517 ()
+> 
+- [andikahilmy/CVE-2021-35517-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-35517-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-35517-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-35517-commons-compress-vulnerable">
+
+---
+## CVE-2021-35516 ()
+> 
+- [andikahilmy/CVE-2021-35516-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-35516-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-35516-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-35516-commons-compress-vulnerable">
+
+---
 ## CVE-2021-35515 ()
 > 
 - [andikahilmy/CVE-2021-35515-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-35515-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">
@@ -6763,6 +6773,11 @@
 > 
 - [CQ-Tools/CVE-2021-31712-fixed](https://github.com/CQ-Tools/CVE-2021-31712-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2021-31712-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2021-31712-fixed">
 - [CQ-Tools/CVE-2021-31712-unfixed](https://github.com/CQ-Tools/CVE-2021-31712-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2021-31712-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2021-31712-unfixed">
+
+---
+## CVE-2021-31684 ()
+> 
+- [andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable](https://github.com/andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-31684-json-smart-v2-vulnerable">
 
 ---
 ## CVE-2021-3166 (2021-01-18T05:15:00)

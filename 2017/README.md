@@ -287,6 +287,11 @@
 - [Live-Hack-CVE/CVE-2017-7605](https://github.com/Live-Hack-CVE/CVE-2017-7605)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7605">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7605">
 
 ---
+## CVE-2017-7559 ()
+> 
+- [andikahilmy/CVE-2017-7559-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-7559-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7559-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7559-undertow-vulnerable">
+
+---
 ## CVE-2017-7541 (2017-07-25T04:29:00)
 > The brcmf_cfg80211_mgmt_tx function in drivers/net/wireless/broadcom/brcm80211/brcmfmac/cfg80211.c in the Linux kernel before 4.12.3 allows local users to cause a denial of service (buffer overflow and system crash) or possibly gain privileges via a crafted NL80211_CMD_FRAME Netlink packet.
 - [Live-Hack-CVE/CVE-2017-7541](https://github.com/Live-Hack-CVE/CVE-2017-7541)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7541">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7541">
@@ -840,6 +845,11 @@
 - [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
 
 ---
+## CVE-2017-2666 ()
+> 
+- [andikahilmy/CVE-2017-2666-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-2666-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2666-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2666-undertow-vulnerable">
+
+---
 ## CVE-2017-2649 ()
 > 
 - [andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable](https://github.com/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">
@@ -1135,6 +1145,7 @@
 - [x7iaob/cve-2017-17485](https://github.com/x7iaob/cve-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/x7iaob/cve-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/x7iaob/cve-2017-17485">
 - [tafamace/CVE-2017-17485](https://github.com/tafamace/CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2017-17485">
 - [rootsecurity/Jackson-CVE-2017-17485](https://github.com/rootsecurity/Jackson-CVE-2017-17485)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecurity/Jackson-CVE-2017-17485">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecurity/Jackson-CVE-2017-17485">
+- [andikahilmy/CVE-2017-17485-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2017-17485-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-17485-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-17485-jackson-databind-vulnerable">
 
 ---
 ## CVE-2017-17215 (2018-03-20T15:29:00)
@@ -1548,6 +1559,11 @@
 ## CVE-2017-15097 (2018-07-27T20:29:00)
 > Privilege escalation flaws were found in the Red Hat initialization scripts of PostgreSQL. An attacker with access to the postgres user account could use these flaws to obtain root access on the server machine.
 - [Live-Hack-CVE/CVE-2017-15097](https://github.com/Live-Hack-CVE/CVE-2017-15097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15097">
+
+---
+## CVE-2017-15095 ()
+> 
+- [andikahilmy/CVE-2017-15095-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2017-15095-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15095-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15095-jackson-databind-vulnerable">
 
 ---
 ## CVE-2017-14980 ()
@@ -2170,6 +2186,7 @@
 ## CVE-2017-1000487 ()
 > 
 - [shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">
+- [andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable](https://github.com/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-1000487-plexus-utils-vulnerable">
 
 ---
 ## CVE-2017-1000486 (2018-01-03T20:29:00)

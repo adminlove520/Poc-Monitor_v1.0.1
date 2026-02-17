@@ -2287,6 +2287,7 @@ use after free.
 ## CVE-2019-20330 (2020-01-03T04:15:00)
 > FasterXML jackson-databind 2.x before 2.9.10.2 lacks certain net.sf.ehcache blocking.
 - [Live-Hack-CVE/CVE-2019-20330](https://github.com/Live-Hack-CVE/CVE-2019-20330)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20330">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20330">
+- [andikahilmy/CVE-2019-20330-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-20330-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-20330-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-20330-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-20208 (2020-01-02T14:16:00)
@@ -2993,6 +2994,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-17341](https://github.com/Live-Hack-CVE/CVE-2019-17341)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-17341">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-17341">
 
 ---
+## CVE-2019-17267 ()
+> 
+- [andikahilmy/CVE-2019-17267-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-17267-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-17267-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-17267-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-17240 (2019-10-06T19:15:00)
 > bl-kernel/security.class.php in Bludit 3.9.2 allows attackers to bypass a brute-force protection mechanism by using many different forged X-Forwarded-For or Client-IP HTTP headers.
 - [mind2hex/CVE-2019-17240](https://github.com/mind2hex/CVE-2019-17240)	<img alt="forks" src="https://img.shields.io/github/forks/mind2hex/CVE-2019-17240">	<img alt="stars" src="https://img.shields.io/github/stars/mind2hex/CVE-2019-17240">
@@ -3186,6 +3192,11 @@ use after free.
 ## CVE-2019-1649 (2019-05-13T19:29:00)
 > A vulnerability in the logic that handles access control to one of the hardware components in Cisco's proprietary Secure Boot implementation could allow an authenticated, local attacker to write a modified firmware image to the component. This vulnerability affects multiple Cisco products that support hardware-based Secure Boot functionality. The vulnerability is due to an improper check on the area of code that manages on-premise updates to a Field Programmable Gate Array (FPGA) part of the Secure Boot hardware implementation. An attacker with elevated privileges and access to the underlying operating system that is running on the affected device could exploit this vulnerability by writing a modified firmware image to the FPGA. A successful exploit could either cause the device to become unusable (and require a hardware replacement) or allow tampering with the Secure Boot verification process, which under some circumstances may allow the attacker to install and boot a malicious software image. An attacker will need to fulfill all the following conditions to attempt to exploit this vulnerability: Have privileged administrative access to the device. Be able to access the underlying operating system running on the device; this can be achieved either by using a supported, documented mechanism or by exploiting another vulnerability that would provide an attacker with such access. Develop or have access to a platform-specific exploit. An attacker attempting to exploit this vulnerability across multiple affected platforms would need to research each one of those platforms and then develop a platform-specific exploit. Although the research process could be reused across different platforms, an exploit developed for a given hardware platform is unlikely to work on a different hardware platform.
 - [Live-Hack-CVE/CVE-2019-1649](https://github.com/Live-Hack-CVE/CVE-2019-1649)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-1649">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-1649">
+
+---
+## CVE-2019-16335 ()
+> 
+- [andikahilmy/CVE-2019-16335-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-16335-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-16335-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-16335-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-16303 (2019-09-14T00:15:00)
@@ -4145,6 +4156,11 @@ use after free.
 - [mbadanoiu/CVE-2019-12409](https://github.com/mbadanoiu/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2019-12409">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
 - [jas502n/CVE-2019-12409](https://github.com/jas502n/CVE-2019-12409)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2019-12409">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2019-12409">
+
+---
+## CVE-2019-12402 ()
+> 
+- [andikahilmy/CVE-2019-12402-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2019-12402-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-12402-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-12402-commons-compress-vulnerable">
 
 ---
 ## CVE-2019-12401 ()
