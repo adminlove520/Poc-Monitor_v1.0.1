@@ -1079,6 +1079,11 @@
 - [Live-Hack-CVE/CVE-2016-3107](https://github.com/Live-Hack-CVE/CVE-2016-3107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-3107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-3107">
 
 ---
+## CVE-2016-3092 ()
+> 
+- [andikahilmy/CVE-2016-3092-commons-fileupload-vulnerable](https://github.com/andikahilmy/CVE-2016-3092-commons-fileupload-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2016-3092-commons-fileupload-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2016-3092-commons-fileupload-vulnerable">
+
+---
 ## CVE-2016-3088 ()
 > 
 - [HeArtE4t3r/CVE-2016-3088](https://github.com/HeArtE4t3r/CVE-2016-3088)	<img alt="forks" src="https://img.shields.io/github/forks/HeArtE4t3r/CVE-2016-3088">	<img alt="stars" src="https://img.shields.io/github/stars/HeArtE4t3r/CVE-2016-3088">

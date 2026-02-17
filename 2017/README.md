@@ -267,6 +267,11 @@
 - [snknritr/CVE-2017-7679-in-python](https://github.com/snknritr/CVE-2017-7679-in-python)	<img alt="forks" src="https://img.shields.io/github/forks/snknritr/CVE-2017-7679-in-python">	<img alt="stars" src="https://img.shields.io/github/stars/snknritr/CVE-2017-7679-in-python">
 
 ---
+## CVE-2017-7661 ()
+> 
+- [andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable](https://github.com/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">
+
+---
 ## CVE-2017-7615 (2017-04-16T14:59:00)
 > MantisBT through 2.3.0 allows arbitrary password reset and unauthenticated admin access via an empty confirm_hash value to verify.php.
 - [Live-Hack-CVE/CVE-2017-7615](https://github.com/Live-Hack-CVE/CVE-2017-7615)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7615">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7615">
@@ -1633,6 +1638,11 @@
 > 
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
+
+---
+## CVE-2017-14063 ()
+> 
+- [andikahilmy/CVE-2017-14063-async-http-client-vulnerable](https://github.com/andikahilmy/CVE-2017-14063-async-http-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">
 
 ---
 ## CVE-2017-13286 (2018-04-04T16:29:00)

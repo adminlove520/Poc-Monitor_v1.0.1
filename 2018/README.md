@@ -121,6 +121,11 @@
 - [jamieparfet/Apache-OFBiz-XXE](https://github.com/jamieparfet/Apache-OFBiz-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/jamieparfet/Apache-OFBiz-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/jamieparfet/Apache-OFBiz-XXE">
 
 ---
+## CVE-2018-8030 ()
+> 
+- [andikahilmy/CVE-2018-8030-qpid-broker-j-vulnerable](https://github.com/andikahilmy/CVE-2018-8030-qpid-broker-j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-8030-qpid-broker-j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-8030-qpid-broker-j-vulnerable">
+
+---
 ## CVE-2018-7935 (2023-02-10T12:15:00)
 > There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote attackers could exploit this vulnerability to make the network where the E5573Cs-322 is running temporarily unavailable.
 - [Live-Hack-CVE/CVE-2018-7935](https://github.com/Live-Hack-CVE/CVE-2018-7935)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-7935">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-7935">
@@ -1378,6 +1383,11 @@
 - [winrar-7/CVE-2018-20250-WinRAR-ACE](https://github.com/winrar-7/CVE-2018-20250-WinRAR-ACE)	<img alt="forks" src="https://img.shields.io/github/forks/winrar-7/CVE-2018-20250-WinRAR-ACE">	<img alt="stars" src="https://img.shields.io/github/stars/winrar-7/CVE-2018-20250-WinRAR-ACE">
 
 ---
+## CVE-2018-20227 ()
+> 
+- [andikahilmy/CVE-2018-20227-rdf4j-vulnerable](https://github.com/andikahilmy/CVE-2018-20227-rdf4j-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-20227-rdf4j-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-20227-rdf4j-vulnerable">
+
+---
 ## CVE-2018-20225 ()
 > 
 - [brabster/cve-2018-20225](https://github.com/brabster/cve-2018-20225)	<img alt="forks" src="https://img.shields.io/github/forks/brabster/cve-2018-20225">	<img alt="stars" src="https://img.shields.io/github/stars/brabster/cve-2018-20225">
@@ -2230,6 +2240,12 @@
 - [DigitalNinja00/CVE-2018-1335](https://github.com/DigitalNinja00/CVE-2018-1335)	<img alt="forks" src="https://img.shields.io/github/forks/DigitalNinja00/CVE-2018-1335">	<img alt="stars" src="https://img.shields.io/github/stars/DigitalNinja00/CVE-2018-1335">
 
 ---
+## CVE-2018-1324 ()
+> 
+- [andikahilmy/CVE-2018-1324-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2018-1324-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1324-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1324-commons-compress-vulnerable">
+- [tafamace/CVE-2018-1324](https://github.com/tafamace/CVE-2018-1324)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2018-1324">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2018-1324">
+
+---
 ## CVE-2018-1311 (2019-12-18T20:15:00)
 > The Apache Xerces-C 3.0.0 to 3.2.3 XML parser contains a use-after-free error triggered during the scanning of external DTDs. This flaw has not been addressed in the maintained version of the library and has no current mitigation other than to disable DTD processing. This can be accomplished via the DOM using a standard parser feature, or via SAX using the XERCES_DISABLE_DTD environment variable.
 - [Live-Hack-CVE/CVE-2018-1311](https://github.com/Live-Hack-CVE/CVE-2018-1311)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1311">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1311">
@@ -2277,6 +2293,7 @@
 - [webr0ck/poc-cve-2018-1273](https://github.com/webr0ck/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/webr0ck/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/webr0ck/poc-cve-2018-1273">
 - [knqyf263/CVE-2018-1273](https://github.com/knqyf263/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-1273">
 - [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
+- [andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable](https://github.com/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">
 
 ---
 ## CVE-2018-12633 ()
@@ -2345,6 +2362,11 @@
 - [shoucheng3/jeremylong__DependencyCheck_CVE-2018-12036_3-1-2](https://github.com/shoucheng3/jeremylong__DependencyCheck_CVE-2018-12036_3-1-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/jeremylong__DependencyCheck_CVE-2018-12036_3-1-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/jeremylong__DependencyCheck_CVE-2018-12036_3-1-2">
 
 ---
+## CVE-2018-12023 ()
+> 
+- [andikahilmy/CVE-2018-12023-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">
+
+---
 ## CVE-2018-11784 (2018-10-04T13:29:00)
 > When the default servlet in Apache Tomcat versions 9.0.0.M1 to 9.0.11, 8.5.0 to 8.5.33 and 7.0.23 to 7.0.90 returned a redirect to a directory (e.g. redirecting to '/foo/' when the user requested '/foo') a specially crafted URL could be used to cause the redirect to be generated to any URI of the attackers choice.
 - [Cappricio-Securities/CVE-2018-11784](https://github.com/Cappricio-Securities/CVE-2018-11784)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2018-11784">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2018-11784">
@@ -2373,6 +2395,11 @@
 - [hook-s3c/CVE-2018-11776-Python-PoC](https://github.com/hook-s3c/CVE-2018-11776-Python-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hook-s3c/CVE-2018-11776-Python-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hook-s3c/CVE-2018-11776-Python-PoC">
 - [jiguangsdf/CVE-2018-11776](https://github.com/jiguangsdf/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/jiguangsdf/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/jiguangsdf/CVE-2018-11776">
 - [m4sk0ff/CVE-2018-11776](https://github.com/m4sk0ff/CVE-2018-11776)	<img alt="forks" src="https://img.shields.io/github/forks/m4sk0ff/CVE-2018-11776">	<img alt="stars" src="https://img.shields.io/github/stars/m4sk0ff/CVE-2018-11776">
+
+---
+## CVE-2018-11771 ()
+> 
+- [andikahilmy/CVE-2018-11771-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2018-11771-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-11771-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-11771-commons-compress-vulnerable">
 
 ---
 ## CVE-2018-11762 ()
@@ -2429,6 +2456,11 @@
 ## CVE-2018-11321 (2018-05-22T15:29:00)
 > An issue was discovered in com_fields in Joomla! Core before 3.8.8. Inadequate filtering allows users authorised to create custom fields to manipulate the filtering options and inject an unvalidated option.
 - [ExploitCN/CVE-2018-11321](https://github.com/ExploitCN/CVE-2018-11321)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2018-11321">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2018-11321">
+
+---
+## CVE-2018-11307 ()
+> 
+- [andikahilmy/CVE-2018-11307-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-11307-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-11307-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-11307-jackson-databind-vulnerable">
 
 ---
 ## CVE-2018-11235 (2018-05-30T04:29:00)
@@ -2622,6 +2654,7 @@
 ## CVE-2018-1002201 ()
 > 
 - [shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12](https://github.com/shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12">
+- [andikahilmy/CVE-2018-1002201-zt-zip-vulnerable](https://github.com/andikahilmy/CVE-2018-1002201-zt-zip-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1002201-zt-zip-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1002201-zt-zip-vulnerable">
 
 ---
 ## CVE-2018-1002200 ()
@@ -2645,6 +2678,13 @@
 - [Live-Hack-CVE/CVE-2018-1000820](https://github.com/Live-Hack-CVE/CVE-2018-1000820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000820">
 
 ---
+## CVE-2018-1000531 ()
+> 
+- [andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable](https://github.com/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000531-prime-jwt-vulnerable">
+- [realbatuhan/JWT-Bruteforcer](https://github.com/realbatuhan/JWT-Bruteforcer)	<img alt="forks" src="https://img.shields.io/github/forks/realbatuhan/JWT-Bruteforcer">	<img alt="stars" src="https://img.shields.io/github/stars/realbatuhan/JWT-Bruteforcer">
+- [aress31/jwtcat](https://github.com/aress31/jwtcat)	<img alt="forks" src="https://img.shields.io/github/forks/aress31/jwtcat">	<img alt="stars" src="https://img.shields.io/github/stars/aress31/jwtcat">
+
+---
 ## CVE-2018-1000168 (2018-05-08T15:29:00)
 > nghttp2 version >= 1.10.0 and nghttp2 <= v1.31.0 contains an Improper Input Validation CWE-20 vulnerability in ALTSVC frame handling that can result in segmentation fault leading to denial of service. This attack appears to be exploitable via network client. This vulnerability appears to have been fixed in >= 1.31.1.
 - [Live-Hack-CVE/CVE-2018-1000168](https://github.com/Live-Hack-CVE/CVE-2018-1000168)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-1000168">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-1000168">
@@ -2654,6 +2694,11 @@
 > 
 - [shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0](https://github.com/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">
 - [shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0](https://github.com/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0">
+
+---
+## CVE-2018-1000125 ()
+> 
+- [andikahilmy/CVE-2018-1000125-prime-jwt-vulnerable](https://github.com/andikahilmy/CVE-2018-1000125-prime-jwt-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000125-prime-jwt-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000125-prime-jwt-vulnerable">
 
 ---
 ## CVE-2018-0959 (2018-05-09T19:29:00)
