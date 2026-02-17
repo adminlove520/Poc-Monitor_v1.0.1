@@ -43,6 +43,7 @@
 > 
 - [Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2020-9547">
 - [fairyming/CVE-2020-9547](https://github.com/fairyming/CVE-2020-9547)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2020-9547">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2020-9547">
+- [andikahilmy/CVE-2020-9547-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-9547-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-9546 ()
@@ -5973,6 +5974,11 @@
 - [5l1v3r1/SaltStack-Exp-1](https://github.com/5l1v3r1/SaltStack-Exp-1)	<img alt="forks" src="https://img.shields.io/github/forks/5l1v3r1/SaltStack-Exp-1">	<img alt="stars" src="https://img.shields.io/github/stars/5l1v3r1/SaltStack-Exp-1">
 - [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
+
+---
+## CVE-2020-11620 ()
+> 
+- [andikahilmy/CVE-2020-11620-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-11620-jackson-databind-vulnerable">
 
 ---
 ## CVE-2020-11579 (2020-09-03T18:15:00)

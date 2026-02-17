@@ -392,6 +392,7 @@
 - [OliveiraaX/CVE-2019-7609-KibanaRCE](https://github.com/OliveiraaX/CVE-2019-7609-KibanaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/CVE-2019-7609-KibanaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/CVE-2019-7609-KibanaRCE">
 - [hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc](https://github.com/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">
 - [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Akshay15-png/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Akshay15-png/CVE-2019-7609">
+- [toxaker/CVE-2019-7609](https://github.com/toxaker/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxaker/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxaker/CVE-2019-7609">
 
 ---
 ## CVE-2019-7578 (2019-02-07T07:29:00)
@@ -3508,6 +3509,7 @@ use after free.
 ## CVE-2019-14892 (2020-03-02T17:15:00)
 > A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 and 2.6.7.3, where it would permit polymorphic deserialization of a malicious object using commons-configuration 1 and 2 JNDI classes. An attacker could use this flaw to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2019-14892](https://github.com/Live-Hack-CVE/CVE-2019-14892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14892">
+- [andikahilmy/CVE-2019-14892-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14892-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14892-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14892-jackson-databind-vulnerable">
 
 ---
 ## CVE-2019-14886 (2020-03-05T18:15:00)
