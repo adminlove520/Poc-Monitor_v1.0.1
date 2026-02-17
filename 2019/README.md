@@ -3488,6 +3488,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-14907](https://github.com/Live-Hack-CVE/CVE-2019-14907)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14907">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14907">
 
 ---
+## CVE-2019-14893 ()
+> 
+- [andikahilmy/CVE-2019-14893-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2019-14893-jackson-databind-vulnerable">
+
+---
 ## CVE-2019-14892 (2020-03-02T17:15:00)
 > A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 and 2.6.7.3, where it would permit polymorphic deserialization of a malicious object using commons-configuration 1 and 2 JNDI classes. An attacker could use this flaw to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2019-14892](https://github.com/Live-Hack-CVE/CVE-2019-14892)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-14892">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-14892">
