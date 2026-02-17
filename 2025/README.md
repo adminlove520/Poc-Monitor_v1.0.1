@@ -3641,6 +3641,7 @@
 - [BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica](https://github.com/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica)	<img alt="forks" src="https://img.shields.io/github/forks/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">	<img alt="stars" src="https://img.shields.io/github/stars/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica">
 - [Wyl-cmd/CVE-2025-55182](https://github.com/Wyl-cmd/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Wyl-cmd/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Wyl-cmd/CVE-2025-55182">
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
+- [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 
 ---
 ## CVE-2025-55130 ()
@@ -5492,6 +5493,7 @@
 - [AzureADTrent/CVE-2025-4517-POC-HTB-WingData](https://github.com/AzureADTrent/CVE-2025-4517-POC-HTB-WingData)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-4517-POC-HTB-WingData">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-4517-POC-HTB-WingData">
 - [Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research](https://github.com/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/PyPath-Escape-CVE-2025-4517-Exploit-Research">
 - [kerburenthusiasm/CVE-2025-4517-PoC](https://github.com/kerburenthusiasm/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kerburenthusiasm/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kerburenthusiasm/CVE-2025-4517-PoC">
+- [UmbraDeorum/CVE-2025-4517-PoC](https://github.com/UmbraDeorum/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UmbraDeorum/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UmbraDeorum/CVE-2025-4517-PoC">
 
 ---
 ## CVE-2025-45072 ()

@@ -1547,6 +1547,11 @@
 - [himash/CVE-2018-19410-POC](https://github.com/himash/CVE-2018-19410-POC)	<img alt="forks" src="https://img.shields.io/github/forks/himash/CVE-2018-19410-POC">	<img alt="stars" src="https://img.shields.io/github/stars/himash/CVE-2018-19410-POC">
 
 ---
+## CVE-2018-19362 ()
+> 
+- [andikahilmy/CVE-2018-19362-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-19362-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-19362-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-19362-jackson-databind-vulnerable">
+
+---
 ## CVE-2018-19360 ()
 > 
 - [andikahilmy/CVE-2018-19360-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-19360-jackson-databind-vulnerable">
@@ -2338,6 +2343,12 @@
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3-5-3-CR1">
 - [shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed](https://github.com/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/vert-x3__vertx-web_CVE-2018-12542_3_5_4_fixed">
+- [andikahilmy/CVE-2018-12542-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12542-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12542-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12542-vertx-web-vulnerable">
+
+---
+## CVE-2018-12540 ()
+> 
+- [andikahilmy/CVE-2018-12540-vertx-web-vulnerable](https://github.com/andikahilmy/CVE-2018-12540-vertx-web-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12540-vertx-web-vulnerable">
 
 ---
 ## CVE-2018-12533 ()
@@ -2392,6 +2403,11 @@
 ## CVE-2018-12023 ()
 > 
 - [andikahilmy/CVE-2018-12023-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12023-jackson-databind-vulnerable">
+
+---
+## CVE-2018-12022 ()
+> 
+- [andikahilmy/CVE-2018-12022-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-12022-jackson-databind-vulnerable">
 
 ---
 ## CVE-2018-11784 (2018-10-04T13:29:00)
@@ -2698,6 +2714,11 @@
 ## CVE-2018-1000850 ()
 > 
 - [shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0](https://github.com/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/square__retrofit_CVE-2018-1000850_2-4-0">
+
+---
+## CVE-2018-1000844 ()
+> 
+- [andikahilmy/CVE-2018-1000844-retrofit-vulnerable](https://github.com/andikahilmy/CVE-2018-1000844-retrofit-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1000844-retrofit-vulnerable">
 
 ---
 ## CVE-2018-1000820 (2018-12-20T15:29:00)
