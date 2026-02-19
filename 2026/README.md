@@ -381,6 +381,12 @@
 - [Galaxy-sc/CVE-2026-23830-SandBreak](https://github.com/Galaxy-sc/CVE-2026-23830-SandBreak)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-23830-SandBreak">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-23830-SandBreak">
 
 ---
+## CVE-2026-23829 ()
+> 
+- [SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-](https://github.com/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CVE-2026-23829-CTT-Mailpit-phase-reconstruction-">
+- [SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover](https://github.com/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">
+
+---
 ## CVE-2026-23760 ()
 > 
 - [MaxMnMl/smartermail-CVE-2026-23760-poc](https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/smartermail-CVE-2026-23760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/smartermail-CVE-2026-23760-poc">
