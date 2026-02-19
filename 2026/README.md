@@ -90,6 +90,11 @@
 - [mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute](https://github.com/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25916-Roundcube-Webmail-DOM-based-XSS-Exploit-via-SVG-href-Attribute">
 
 ---
+## CVE-2026-25890 ()
+> 
+- [mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass](https://github.com/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-25890-FileBrowser-Access-Control-Bypass">
+
+---
 ## CVE-2026-25857 ()
 > 
 - [eeeeeeeeeevan/CVE-2026-25857](https://github.com/eeeeeeeeeevan/CVE-2026-25857)	<img alt="forks" src="https://img.shields.io/github/forks/eeeeeeeeeevan/CVE-2026-25857">	<img alt="stars" src="https://img.shields.io/github/stars/eeeeeeeeeevan/CVE-2026-25857">
@@ -791,6 +796,7 @@
 > 
 - [Ashwesker/Ashwesker-CVE-2026-1281](https://github.com/Ashwesker/Ashwesker-CVE-2026-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-1281">
 - [MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE](https://github.com/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiLeDeaut/CVE-2026-1281-Ivanti-EPMM-RCE">
+- [YunfeiGE18/Ivanti-EPMM-pre-auth-RCE-CVE-2026-1281-CVE-2026-1340-](https://github.com/YunfeiGE18/Ivanti-EPMM-pre-auth-RCE-CVE-2026-1281-CVE-2026-1340-)	<img alt="forks" src="https://img.shields.io/github/forks/YunfeiGE18/Ivanti-EPMM-pre-auth-RCE-CVE-2026-1281-CVE-2026-1340-">	<img alt="stars" src="https://img.shields.io/github/stars/YunfeiGE18/Ivanti-EPMM-pre-auth-RCE-CVE-2026-1281-CVE-2026-1340-">
 
 ---
 ## CVE-2026-1208 ()
