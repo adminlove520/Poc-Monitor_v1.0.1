@@ -7131,6 +7131,11 @@
 - [TH-SecForge/CVE-2025-29972](https://github.com/TH-SecForge/CVE-2025-29972)	<img alt="forks" src="https://img.shields.io/github/forks/TH-SecForge/CVE-2025-29972">	<img alt="stars" src="https://img.shields.io/github/stars/TH-SecForge/CVE-2025-29972">
 
 ---
+## CVE-2025-29969 ()
+> 
+- [SafeBreach-Labs/EventLogin-CVE-2025-29969](https://github.com/SafeBreach-Labs/EventLogin-CVE-2025-29969)	<img alt="forks" src="https://img.shields.io/github/forks/SafeBreach-Labs/EventLogin-CVE-2025-29969">	<img alt="stars" src="https://img.shields.io/github/stars/SafeBreach-Labs/EventLogin-CVE-2025-29969">
+
+---
 ## CVE-2025-2995 ()
 > 
 - [huynguyen12536/CVE-2025-2995](https://github.com/huynguyen12536/CVE-2025-2995)	<img alt="forks" src="https://img.shields.io/github/forks/huynguyen12536/CVE-2025-2995">	<img alt="stars" src="https://img.shields.io/github/stars/huynguyen12536/CVE-2025-2995">
