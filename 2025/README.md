@@ -5515,6 +5515,7 @@
 - [bgutowski/CVE-2025-4517-POC-Sudoers](https://github.com/bgutowski/CVE-2025-4517-POC-Sudoers)	<img alt="forks" src="https://img.shields.io/github/forks/bgutowski/CVE-2025-4517-POC-Sudoers">	<img alt="stars" src="https://img.shields.io/github/stars/bgutowski/CVE-2025-4517-POC-Sudoers">
 - [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
 - [ben-slates/CVE-2025-4517-POC-HTB-WINGDATA](https://github.com/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA">
+- [estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC](https://github.com/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">
 
 ---
 ## CVE-2025-45072 ()

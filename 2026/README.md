@@ -225,6 +225,11 @@
 - [destiny-creates/CVE-2026-2461-poc](https://github.com/destiny-creates/CVE-2026-2461-poc)	<img alt="forks" src="https://img.shields.io/github/forks/destiny-creates/CVE-2026-2461-poc">	<img alt="stars" src="https://img.shields.io/github/stars/destiny-creates/CVE-2026-2461-poc">
 
 ---
+## CVE-2026-24514 ()
+> 
+- [mbanyamer/cve-2026-24514-Kubernetes-Dos](https://github.com/mbanyamer/cve-2026-24514-Kubernetes-Dos)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/cve-2026-24514-Kubernetes-Dos">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/cve-2026-24514-Kubernetes-Dos">
+
+---
 ## CVE-2026-24423 ()
 > 
 - [aavamin/CVE-2026-24423](https://github.com/aavamin/CVE-2026-24423)	<img alt="forks" src="https://img.shields.io/github/forks/aavamin/CVE-2026-24423">	<img alt="stars" src="https://img.shields.io/github/stars/aavamin/CVE-2026-24423">
