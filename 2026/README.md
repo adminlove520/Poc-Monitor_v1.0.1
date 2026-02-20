@@ -268,6 +268,7 @@
 - [jermaine22sei/CVE-2026-2441](https://github.com/jermaine22sei/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/jermaine22sei/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/jermaine22sei/CVE-2026-2441">
 - [theemperorspath/CVE-2026-2441-PoC](https://github.com/theemperorspath/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theemperorspath/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theemperorspath/CVE-2026-2441-PoC">
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
+- [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
