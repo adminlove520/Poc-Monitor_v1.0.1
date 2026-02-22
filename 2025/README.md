@@ -5163,6 +5163,7 @@
 - [dkstar11q/Blackash-CVE-2025-47812](https://github.com/dkstar11q/Blackash-CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/Blackash-CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/Blackash-CVE-2025-47812">
 - [Nara-sakurai/CVE-2025-47812-PoC](https://github.com/Nara-sakurai/CVE-2025-47812-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nara-sakurai/CVE-2025-47812-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nara-sakurai/CVE-2025-47812-PoC">
 - [estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC](https://github.com/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC">
+- [popyue/CVE-2025-47812](https://github.com/popyue/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
