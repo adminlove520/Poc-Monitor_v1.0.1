@@ -4662,6 +4662,7 @@
 > 
 - [EvilCorpVendor/CVE-2021-36934](https://github.com/EvilCorpVendor/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/EvilCorpVendor/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/EvilCorpVendor/CVE-2021-36934">
 - [ossec25/CVE-2021-36934-](https://github.com/ossec25/CVE-2021-36934-)	<img alt="forks" src="https://img.shields.io/github/forks/ossec25/CVE-2021-36934-">	<img alt="stars" src="https://img.shields.io/github/stars/ossec25/CVE-2021-36934-">
+- [d4yon/CVE-2021-36934-HiveNightmare-Lab](https://github.com/d4yon/CVE-2021-36934-HiveNightmare-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/d4yon/CVE-2021-36934-HiveNightmare-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/d4yon/CVE-2021-36934-HiveNightmare-Lab">
 
 ---
 ## CVE-2021-36917 (2021-11-24T17:15:00)
