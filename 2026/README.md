@@ -39,6 +39,11 @@
 - [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-2848">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-2848">
 
 ---
+## CVE-2026-27579 ()
+> 
+- [mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration](https://github.com/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27579-CollabPlatform-Appwrite-CORS-Misconfiguration">
+
+---
 ## CVE-2026-27574 ()
 > 
 - [mbanyamer/CVE-2026-27574-OneUptime-RCE](https://github.com/mbanyamer/CVE-2026-27574-OneUptime-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27574-OneUptime-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27574-OneUptime-RCE">
