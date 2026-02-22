@@ -790,6 +790,7 @@
 - [cybrdude/cve-2026-1731-scanner](https://github.com/cybrdude/cve-2026-1731-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/cybrdude/cve-2026-1731-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/cybrdude/cve-2026-1731-scanner">
 - [jakubie07/CVE-2026-1731](https://github.com/jakubie07/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/jakubie07/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/jakubie07/CVE-2026-1731">
 - [richardpaimu34/CVE-2026-1731](https://github.com/richardpaimu34/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-1731">
+- [hexissam/CVE-2026-1731](https://github.com/hexissam/CVE-2026-1731)	<img alt="forks" src="https://img.shields.io/github/forks/hexissam/CVE-2026-1731">	<img alt="stars" src="https://img.shields.io/github/stars/hexissam/CVE-2026-1731">
 
 ---
 ## CVE-2026-1729 ()
