@@ -4006,6 +4006,7 @@
 - [Cameloo1/sharepoint-toolshell-micro-postmortem](https://github.com/Cameloo1/sharepoint-toolshell-micro-postmortem)	<img alt="forks" src="https://img.shields.io/github/forks/Cameloo1/sharepoint-toolshell-micro-postmortem">	<img alt="stars" src="https://img.shields.io/github/stars/Cameloo1/sharepoint-toolshell-micro-postmortem">
 - [anwakub/CVE-2025-53770](https://github.com/anwakub/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/anwakub/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/anwakub/CVE-2025-53770">
 - [rbctee/CVE-2025-53770](https://github.com/rbctee/CVE-2025-53770)	<img alt="forks" src="https://img.shields.io/github/forks/rbctee/CVE-2025-53770">	<img alt="stars" src="https://img.shields.io/github/stars/rbctee/CVE-2025-53770">
+- [chrisalee27-dotcom/SOC-Incident-Response-Portfolio](https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/chrisalee27-dotcom/SOC-Incident-Response-Portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/chrisalee27-dotcom/SOC-Incident-Response-Portfolio">
 
 ---
 ## CVE-2025-53744 ()
@@ -4464,6 +4465,11 @@
 ## CVE-2025-50754 ()
 > 
 - [furk4nyildiz/CVE-2025-50754-PoC](https://github.com/furk4nyildiz/CVE-2025-50754-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/furk4nyildiz/CVE-2025-50754-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/furk4nyildiz/CVE-2025-50754-PoC">
+
+---
+## CVE-2025-50738 ()
+> 
+- [tiemio/CVE-2025-50738-PoC](https://github.com/tiemio/CVE-2025-50738-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/CVE-2025-50738-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/CVE-2025-50738-PoC">
 
 ---
 ## CVE-2025-5068 ()
