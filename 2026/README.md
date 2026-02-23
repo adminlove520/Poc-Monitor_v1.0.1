@@ -295,6 +295,7 @@
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 - [washingtonmaister/CVE-2026-2441](https://github.com/washingtonmaister/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-2441">
+- [atiilla/CVE-2026-2441_PoC](https://github.com/atiilla/CVE-2026-2441_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-2441_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-2441_PoC">
 
 ---
 ## CVE-2026-24306 ()
