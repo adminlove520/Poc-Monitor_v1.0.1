@@ -9832,6 +9832,7 @@
 ## CVE-2025-10353 ()
 > 
 - [ivansmc00/CVE-2025-10353-POC](https://github.com/ivansmc00/CVE-2025-10353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ivansmc00/CVE-2025-10353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ivansmc00/CVE-2025-10353-POC">
+- [tempiltin/CVE-2025-10353-POC](https://github.com/tempiltin/CVE-2025-10353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/tempiltin/CVE-2025-10353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/tempiltin/CVE-2025-10353-POC">
 
 ---
 ## CVE-2025-10352 ()

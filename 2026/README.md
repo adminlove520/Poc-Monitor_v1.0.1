@@ -637,6 +637,7 @@
 - [Alhakim88/CVE-2026-21858](https://github.com/Alhakim88/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Alhakim88/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Alhakim88/CVE-2026-21858">
 - [bgarz929/Ashwesker-CVE-2026-21858](https://github.com/bgarz929/Ashwesker-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bgarz929/Ashwesker-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bgarz929/Ashwesker-CVE-2026-21858">
 - [EQSTLab/CVE-2026-21858](https://github.com/EQSTLab/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-21858">
+- [zaryouhashraf/CVE-2026-21858](https://github.com/zaryouhashraf/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2026-21858">
 
 ---
 ## CVE-2026-21721 ()
@@ -780,6 +781,7 @@
 ## CVE-2026-20045 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-20045](https://github.com/Ashwesker/Ashwesker-CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-20045">
+- [zaryouhashraf/CVE-2026-20045](https://github.com/zaryouhashraf/CVE-2026-20045)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2026-20045">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2026-20045">
 
 ---
 ## CVE-2026-1953 ()
