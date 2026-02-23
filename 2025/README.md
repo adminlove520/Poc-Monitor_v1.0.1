@@ -3677,6 +3677,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
+- [zaryouhashraf/CVE-2025-55182](https://github.com/zaryouhashraf/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
