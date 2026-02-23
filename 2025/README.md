@@ -5218,6 +5218,7 @@
 ## CVE-2025-47539 ()
 > 
 - [Nxploited/CVE-2025-47539](https://github.com/Nxploited/CVE-2025-47539)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-47539">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-47539">
+- [snapdowgg/CVE-2025-47539](https://github.com/snapdowgg/CVE-2025-47539)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2025-47539">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2025-47539">
 
 ---
 ## CVE-2025-47445 ()

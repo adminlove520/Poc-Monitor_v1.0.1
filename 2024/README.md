@@ -2432,6 +2432,7 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [Yuri08loveElaina/CVE-2024-50379-POC](https://github.com/Yuri08loveElaina/CVE-2024-50379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379-POC">
 - [gomtaengi/CVE-2024-50379-exp](https://github.com/gomtaengi/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/gomtaengi/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/gomtaengi/CVE-2024-50379-exp">
 - [Yuri08loveElaina/CVE-2024-50379](https://github.com/Yuri08loveElaina/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379">
+- [radzek15/CVE-2024-50379-TOCTOU](https://github.com/radzek15/CVE-2024-50379-TOCTOU)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2024-50379-TOCTOU">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2024-50379-TOCTOU">
 
 ---
 ## CVE-2024-50340 ()
