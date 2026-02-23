@@ -1532,6 +1532,11 @@
 - [cybercrewinc/CVE-2025-64027](https://github.com/cybercrewinc/CVE-2025-64027)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2025-64027">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2025-64027">
 
 ---
+## CVE-2025-63946 ()
+> 
+- [alexlee820/CVE-2025-63946-Tencent-PC-Manager-EoP](https://github.com/alexlee820/CVE-2025-63946-Tencent-PC-Manager-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/alexlee820/CVE-2025-63946-Tencent-PC-Manager-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/alexlee820/CVE-2025-63946-Tencent-PC-Manager-EoP">
+
+---
 ## CVE-2025-63945 ()
 > 
 - [alexlee820/CVE-2025-63945-Tencent-iOA-EoP](https://github.com/alexlee820/CVE-2025-63945-Tencent-iOA-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/alexlee820/CVE-2025-63945-Tencent-iOA-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/alexlee820/CVE-2025-63945-Tencent-iOA-EoP">
