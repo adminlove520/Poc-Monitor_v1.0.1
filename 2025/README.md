@@ -5545,7 +5545,7 @@
 - [UmbraDeorum/CVE-2025-4517-PoC](https://github.com/UmbraDeorum/CVE-2025-4517-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UmbraDeorum/CVE-2025-4517-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UmbraDeorum/CVE-2025-4517-PoC">
 - [bgutowski/CVE-2025-4517-POC-Sudoers](https://github.com/bgutowski/CVE-2025-4517-POC-Sudoers)	<img alt="forks" src="https://img.shields.io/github/forks/bgutowski/CVE-2025-4517-POC-Sudoers">	<img alt="stars" src="https://img.shields.io/github/stars/bgutowski/CVE-2025-4517-POC-Sudoers">
 - [kyakei/CVE-2025-4138-poc](https://github.com/kyakei/CVE-2025-4138-poc)	<img alt="forks" src="https://img.shields.io/github/forks/kyakei/CVE-2025-4138-poc">	<img alt="stars" src="https://img.shields.io/github/stars/kyakei/CVE-2025-4138-poc">
-- [ben-slates/CVE-2025-4517-POC-HTB-WINGDATA](https://github.com/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2025-4517-POC-HTB-WINGDATA">
+- [ben-slates/CVE-2025-4517-POC](https://github.com/ben-slates/CVE-2025-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2025-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2025-4517-POC">
 - [estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC](https://github.com/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2025-4517-Python-tarfile-filter-data-Bypass-PoC">
 
 ---
@@ -9261,6 +9261,7 @@
 - [InfoSecAntara/CVE-2025-14847-MongoDB](https://github.com/InfoSecAntara/CVE-2025-14847-MongoDB)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSecAntara/CVE-2025-14847-MongoDB">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSecAntara/CVE-2025-14847-MongoDB">
 - [im-hanzou/mongobleed](https://github.com/im-hanzou/mongobleed)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/mongobleed">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/mongobleed">
 - [sho-luv/MongoBleed](https://github.com/sho-luv/MongoBleed)	<img alt="forks" src="https://img.shields.io/github/forks/sho-luv/MongoBleed">	<img alt="stars" src="https://img.shields.io/github/stars/sho-luv/MongoBleed">
+- [zaryouhashraf/CVE-2025-14847](https://github.com/zaryouhashraf/CVE-2025-14847)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-14847">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-14847">
 
 ---
 ## CVE-2025-14783 ()
