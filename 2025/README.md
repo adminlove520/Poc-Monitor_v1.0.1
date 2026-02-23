@@ -3905,6 +3905,7 @@
 - [osman1337-security/CVE-2025-54100](https://github.com/osman1337-security/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/osman1337-security/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/osman1337-security/CVE-2025-54100">
 - [ThemeHackers/CVE-2025-54100](https://github.com/ThemeHackers/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-54100">
 - [xiaoLvChen/CVE-2025-54100](https://github.com/xiaoLvChen/CVE-2025-54100)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoLvChen/CVE-2025-54100">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoLvChen/CVE-2025-54100">
+- [R3lva/CVE-2025-54100-BYPASS-](https://github.com/R3lva/CVE-2025-54100-BYPASS-)	<img alt="forks" src="https://img.shields.io/github/forks/R3lva/CVE-2025-54100-BYPASS-">	<img alt="stars" src="https://img.shields.io/github/stars/R3lva/CVE-2025-54100-BYPASS-">
 
 ---
 ## CVE-2025-54068 ()
