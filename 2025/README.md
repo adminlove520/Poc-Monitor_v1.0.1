@@ -315,7 +315,7 @@
 - [Markusino488/cve-2025-8088](https://github.com/Markusino488/cve-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Markusino488/cve-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Markusino488/cve-2025-8088">
 - [vitalichkaa/CVE-2025-8088](https://github.com/vitalichkaa/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/vitalichkaa/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/vitalichkaa/CVE-2025-8088">
 - [ilhamrzr/RAR-Anomaly-Inspector](https://github.com/ilhamrzr/RAR-Anomaly-Inspector)	<img alt="forks" src="https://img.shields.io/github/forks/ilhamrzr/RAR-Anomaly-Inspector">	<img alt="stars" src="https://img.shields.io/github/stars/ilhamrzr/RAR-Anomaly-Inspector">
-- [Ismael-20223/CVE-2025-8088](https://github.com/Ismael-20223/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Ismael-20223/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Ismael-20223/CVE-2025-8088">
+- [IsmaelCosma/CVE-2025-8088](https://github.com/IsmaelCosma/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/IsmaelCosma/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/IsmaelCosma/CVE-2025-8088">
 - [undefined-name12/CVE-2025-8088-Winrar](https://github.com/undefined-name12/CVE-2025-8088-Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/undefined-name12/CVE-2025-8088-Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/undefined-name12/CVE-2025-8088-Winrar">
 
 ---
