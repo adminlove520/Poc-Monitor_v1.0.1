@@ -54,9 +54,19 @@
 - [mbanyamer/CVE-2026-27574-OneUptime-RCE](https://github.com/mbanyamer/CVE-2026-27574-OneUptime-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27574-OneUptime-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27574-OneUptime-RCE">
 
 ---
+## CVE-2026-27507 ()
+> 
+- [RootAid/CVE-2026-27507](https://github.com/RootAid/CVE-2026-27507)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-27507">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-27507">
+
+---
 ## CVE-2026-27470 ()
 > 
 - [kocaemre/CVE-2026-27470](https://github.com/kocaemre/CVE-2026-27470)	<img alt="forks" src="https://img.shields.io/github/forks/kocaemre/CVE-2026-27470">	<img alt="stars" src="https://img.shields.io/github/stars/kocaemre/CVE-2026-27470">
+
+---
+## CVE-2026-27211 ()
+> 
+- [glitchhawks/CVE-2026-27211](https://github.com/glitchhawks/CVE-2026-27211)	<img alt="forks" src="https://img.shields.io/github/forks/glitchhawks/CVE-2026-27211">	<img alt="stars" src="https://img.shields.io/github/stars/glitchhawks/CVE-2026-27211">
 
 ---
 ## CVE-2026-27199 ()
@@ -112,6 +122,11 @@
 ## CVE-2026-26215 ()
 > 
 - [mbanyamer/-CVE-2026-26215-manga-image-translator-RCE](https://github.com/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/-CVE-2026-26215-manga-image-translator-RCE">
+
+---
+## CVE-2026-26198 ()
+> 
+- [blackhatlegend/CVE-2026-26198](https://github.com/blackhatlegend/CVE-2026-26198)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-26198">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-26198">
 
 ---
 ## CVE-2026-26030 ()
@@ -306,6 +321,7 @@
 - [RootAid/CVE-2026-2441](https://github.com/RootAid/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/RootAid/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/RootAid/CVE-2026-2441">
 - [washingtonmaister/CVE-2026-2441](https://github.com/washingtonmaister/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-2441">
 - [atiilla/CVE-2026-2441_PoC](https://github.com/atiilla/CVE-2026-2441_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-2441_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-2441_PoC">
+- [NetVanguard-cmd/CVE-2026-2441](https://github.com/NetVanguard-cmd/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-2441">
 
 ---
 ## CVE-2026-24306 ()
