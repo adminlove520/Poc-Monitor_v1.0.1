@@ -215,6 +215,7 @@
 ## CVE-2026-25643 ()
 > 
 - [jduardo2704/CVE-2026-25643-Frigate-RCE](https://github.com/jduardo2704/CVE-2026-25643-Frigate-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jduardo2704/CVE-2026-25643-Frigate-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jduardo2704/CVE-2026-25643-Frigate-RCE">
+- [joshuavanderpoll/CVE-2026-25643](https://github.com/joshuavanderpoll/CVE-2026-25643)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-25643">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-25643">
 
 ---
 ## CVE-2026-25546 ()
