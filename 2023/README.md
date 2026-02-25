@@ -2341,6 +2341,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Pegasus0xx/CVE-2023-43208](https://github.com/Pegasus0xx/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/Pegasus0xx/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/Pegasus0xx/CVE-2023-43208">
 - [coreraw/Mirth-Connect-CVE-2023-43208](https://github.com/coreraw/Mirth-Connect-CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/coreraw/Mirth-Connect-CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/coreraw/Mirth-Connect-CVE-2023-43208">
 - [MKIRAHMET/PoC-2023-43208](https://github.com/MKIRAHMET/PoC-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/MKIRAHMET/PoC-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/MKIRAHMET/PoC-2023-43208">
+- [D3m0nicw0lf/CVE-2023-43208](https://github.com/D3m0nicw0lf/CVE-2023-43208)	<img alt="forks" src="https://img.shields.io/github/forks/D3m0nicw0lf/CVE-2023-43208">	<img alt="stars" src="https://img.shields.io/github/stars/D3m0nicw0lf/CVE-2023-43208">
 
 ---
 ## CVE-2023-43177 (2023-11-18T00:15:00)
@@ -5729,6 +5730,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing](https://github.com/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing">
 - [kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258](https://github.com/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">
 - [CankunWang/Tryhackme_Billing](https://github.com/CankunWang/Tryhackme_Billing)	<img alt="forks" src="https://img.shields.io/github/forks/CankunWang/Tryhackme_Billing">	<img alt="stars" src="https://img.shields.io/github/stars/CankunWang/Tryhackme_Billing">
+- [estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC](https://github.com/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
