@@ -1524,6 +1524,11 @@
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
 
 ---
+## CVE-2017-15700 ()
+> 
+- [andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable](https://github.com/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-15700-sling-org-apache-sling-auth-core-vulnerable">
+
+---
 ## CVE-2017-15699 (2018-02-13T22:29:00)
 > A Denial of Service vulnerability was found in Apache Qpid Dispatch Router versions 0.7.0 and 0.8.0. To exploit this vulnerability, a remote user must be able to establish an AMQP connection to the Qpid Dispatch Router and send a specifically crafted AMQP frame which will cause it to segfault and shut down.
 - [Live-Hack-CVE/CVE-2017-15699](https://github.com/Live-Hack-CVE/CVE-2017-15699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15699">
