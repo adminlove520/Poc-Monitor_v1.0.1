@@ -9356,6 +9356,7 @@
 - [pashayogi/CVE-2021-22555](https://github.com/pashayogi/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2021-22555">
 - [letsr00t/-2021-LOCALROOT-CVE-2021-22555](https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/-2021-LOCALROOT-CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/-2021-LOCALROOT-CVE-2021-22555">
 - [letsr00t/CVE-2021-22555](https://github.com/letsr00t/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2021-22555">
+- [glutton-su/CVE-2021-22555](https://github.com/glutton-su/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/glutton-su/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/glutton-su/CVE-2021-22555">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
