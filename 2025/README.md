@@ -3694,6 +3694,7 @@
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
 - [zaryouhashraf/CVE-2025-55182](https://github.com/zaryouhashraf/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-55182">
 - [Yusril-git/React2Shell-Wazuh-Detection](https://github.com/Yusril-git/React2Shell-Wazuh-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Yusril-git/React2Shell-Wazuh-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Yusril-git/React2Shell-Wazuh-Detection">
+- [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
