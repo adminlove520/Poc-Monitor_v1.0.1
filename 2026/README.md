@@ -499,6 +499,11 @@
 - [mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-](https://github.com/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-">
 
 ---
+## CVE-2026-24009 ()
+> 
+- [BiranPeretz/docling-core-CVE-2026-24009](https://github.com/BiranPeretz/docling-core-CVE-2026-24009)	<img alt="forks" src="https://img.shields.io/github/forks/BiranPeretz/docling-core-CVE-2026-24009">	<img alt="stars" src="https://img.shields.io/github/stars/BiranPeretz/docling-core-CVE-2026-24009">
+
+---
 ## CVE-2026-2395 ()
 > 
 - [dajneem23/CVE-2026-2395](https://github.com/dajneem23/CVE-2026-2395)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-2395">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-2395">
