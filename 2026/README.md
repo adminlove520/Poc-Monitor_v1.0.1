@@ -800,6 +800,7 @@
 - [SecureWithUmer/CVE-2026-20841](https://github.com/SecureWithUmer/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-20841">
 - [hackfaiz/CVE-2026-20841-PoC](https://github.com/hackfaiz/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackfaiz/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackfaiz/CVE-2026-20841-PoC">
 - [EleniChristopoulou/PoC-CVE-2026-20841](https://github.com/EleniChristopoulou/PoC-CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/EleniChristopoulou/PoC-CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/EleniChristopoulou/PoC-CVE-2026-20841">
+- [404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC">
 
 ---
 ## CVE-2026-20817 ()
