@@ -3702,6 +3702,7 @@
 - [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 - [revasec/CVE-2025-55182-Interactive-mode](https://github.com/revasec/CVE-2025-55182-Interactive-mode)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-55182-Interactive-mode">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-55182-Interactive-mode">
 - [MrMahile/MassScanning-CVE-2025-55182](https://github.com/MrMahile/MassScanning-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MrMahile/MassScanning-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MrMahile/MassScanning-CVE-2025-55182">
+- [androidteacher/REACT-CVE-2025-55182-Lab](https://github.com/androidteacher/REACT-CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/REACT-CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/REACT-CVE-2025-55182-Lab">
 
 ---
 ## CVE-2025-55130 ()
