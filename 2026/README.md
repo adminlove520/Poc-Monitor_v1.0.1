@@ -1035,3 +1035,8 @@
 ## CVE-2026-0006 ()
 > 
 - [aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006)	<img alt="forks" src="https://img.shields.io/github/forks/aydin5245/cve-2026-0006">	<img alt="stars" src="https://img.shields.io/github/stars/aydin5245/cve-2026-0006">
+
+---
+## CVE-2026-00001 ()
+> 
+- [sufnir/POC-CVE-2026-00001](https://github.com/sufnir/POC-CVE-2026-00001)	<img alt="forks" src="https://img.shields.io/github/forks/sufnir/POC-CVE-2026-00001">	<img alt="stars" src="https://img.shields.io/github/stars/sufnir/POC-CVE-2026-00001">

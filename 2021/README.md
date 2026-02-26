@@ -1096,6 +1096,7 @@
 - [agylabs/log4shell-remediation](https://github.com/agylabs/log4shell-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/agylabs/log4shell-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/agylabs/log4shell-remediation">
 - [JoseMariaMicoli/Log4Shell-PoC](https://github.com/JoseMariaMicoli/Log4Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JoseMariaMicoli/Log4Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JoseMariaMicoli/Log4Shell-PoC">
 - [tlsky07/Discord-Image-Logger-Stealer](https://github.com/tlsky07/Discord-Image-Logger-Stealer)	<img alt="forks" src="https://img.shields.io/github/forks/tlsky07/Discord-Image-Logger-Stealer">	<img alt="stars" src="https://img.shields.io/github/stars/tlsky07/Discord-Image-Logger-Stealer">
+- [zaryouhashraf/CVE-2021-44228](https://github.com/zaryouhashraf/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2021-44228">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -10083,6 +10084,7 @@
 - [RyanBoomer30/CVE-2021-21239-Exploit](https://github.com/RyanBoomer30/CVE-2021-21239-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/RyanBoomer30/CVE-2021-21239-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/RyanBoomer30/CVE-2021-21239-Exploit">
 - [illera88/CVE-2021-21239](https://github.com/illera88/CVE-2021-21239)	<img alt="forks" src="https://img.shields.io/github/forks/illera88/CVE-2021-21239">	<img alt="stars" src="https://img.shields.io/github/stars/illera88/CVE-2021-21239">
 - [GrantBirki/redash-vulnerable](https://github.com/GrantBirki/redash-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/GrantBirki/redash-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/GrantBirki/redash-vulnerable">
+- [Crims-on/CVE-2021-21239](https://github.com/Crims-on/CVE-2021-21239)	<img alt="forks" src="https://img.shields.io/github/forks/Crims-on/CVE-2021-21239">	<img alt="stars" src="https://img.shields.io/github/stars/Crims-on/CVE-2021-21239">
 
 ---
 ## CVE-2021-21235 (2021-01-06T02:15:00)
