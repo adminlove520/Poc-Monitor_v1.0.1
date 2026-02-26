@@ -6720,6 +6720,7 @@
 - [AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433](https://github.com/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/AntonieSoga/Erlang-OTP-PoC_CVE-2025-32433">
 - [blackcat4347/CVE-2025-32433-available-for-windows](https://github.com/blackcat4347/CVE-2025-32433-available-for-windows)	<img alt="forks" src="https://img.shields.io/github/forks/blackcat4347/CVE-2025-32433-available-for-windows">	<img alt="stars" src="https://img.shields.io/github/stars/blackcat4347/CVE-2025-32433-available-for-windows">
 - [carlosalbertotuma/CVE-2025-32433](https://github.com/carlosalbertotuma/CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2025-32433">
+- [yonathanpy/CVE-2025-32433.py](https://github.com/yonathanpy/CVE-2025-32433.py)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32433.py">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32433.py">
 
 ---
 ## CVE-2025-32432 ()
