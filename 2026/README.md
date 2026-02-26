@@ -99,6 +99,11 @@
 - [mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE](https://github.com/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-27180-MajorDoMo-unauthenticated-RCE">
 
 ---
+## CVE-2026-27174 ()
+> 
+- [MaxMnMl/majordomo-CVE-2026-27174-poc](https://github.com/MaxMnMl/majordomo-CVE-2026-27174-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-CVE-2026-27174-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-CVE-2026-27174-poc">
+
+---
 ## CVE-2026-26988 ()
 > 
 - [mbanyamer/CVE-2026-26988-LibreNMS-SQLi](https://github.com/mbanyamer/CVE-2026-26988-LibreNMS-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">
