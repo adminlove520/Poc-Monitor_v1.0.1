@@ -49,6 +49,11 @@
 - [richardpaimu34/CVE-2026-2848](https://github.com/richardpaimu34/CVE-2026-2848)	<img alt="forks" src="https://img.shields.io/github/forks/richardpaimu34/CVE-2026-2848">	<img alt="stars" src="https://img.shields.io/github/stars/richardpaimu34/CVE-2026-2848">
 
 ---
+## CVE-2026-27831 ()
+> 
+- [bluedragonsecurity/CVE-2026-27831-POC](https://github.com/bluedragonsecurity/CVE-2026-27831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2026-27831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2026-27831-POC">
+
+---
 ## CVE-2026-27639 ()
 > 
 - [hadhub/CVE-2026-27639-Mercator-XSS](https://github.com/hadhub/CVE-2026-27639-Mercator-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/hadhub/CVE-2026-27639-Mercator-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/hadhub/CVE-2026-27639-Mercator-XSS">
