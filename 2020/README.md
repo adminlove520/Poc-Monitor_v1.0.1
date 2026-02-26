@@ -5053,6 +5053,17 @@
 - [Live-Hack-CVE/CVE-2020-14664](https://github.com/Live-Hack-CVE/CVE-2020-14664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14664">
 
 ---
+## CVE-2020-14645 ()
+> 
+- [NeCr00/CVE-2020-14645](https://github.com/NeCr00/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/NeCr00/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/NeCr00/CVE-2020-14645">
+- [DSO-Lab/defvul](https://github.com/DSO-Lab/defvul)	<img alt="forks" src="https://img.shields.io/github/forks/DSO-Lab/defvul">	<img alt="stars" src="https://img.shields.io/github/stars/DSO-Lab/defvul">
+- [Schira4396/CVE-2020-14645](https://github.com/Schira4396/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/Schira4396/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/Schira4396/CVE-2020-14645">
+- [HYWZ36/CVE-2020-14645-code](https://github.com/HYWZ36/CVE-2020-14645-code)	<img alt="forks" src="https://img.shields.io/github/forks/HYWZ36/CVE-2020-14645-code">	<img alt="stars" src="https://img.shields.io/github/stars/HYWZ36/CVE-2020-14645-code">
+- [ChenZIDu/CVE-2020-14645](https://github.com/ChenZIDu/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/ChenZIDu/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/ChenZIDu/CVE-2020-14645">
+- [DaBoQuan/CVE-2020-14645](https://github.com/DaBoQuan/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/DaBoQuan/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/DaBoQuan/CVE-2020-14645">
+- [Y4er/CVE-2020-14645](https://github.com/Y4er/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2020-14645">
+
+---
 ## CVE-2020-14583 (2020-07-15T18:15:00)
 > Vulnerability in the Java SE, Java SE Embedded product of Oracle Java SE (component: Libraries). Supported versions that are affected are Java SE: 7u261, 8u251, 11.0.7 and 14.0.1; Java SE Embedded: 8u251. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks require human interaction from a person other than the attacker and while the vulnerability is in Java SE, Java SE Embedded, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Java SE, Java SE Embedded. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.1 Base Score 8.3 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2020-14583](https://github.com/Live-Hack-CVE/CVE-2020-14583)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-14583">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-14583">
