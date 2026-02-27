@@ -8110,6 +8110,11 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Live-Hack-CVE/CVE-2023-24020](https://github.com/Live-Hack-CVE/CVE-2023-24020)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-24020">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-24020">
 
 ---
+## CVE-2023-24012 ()
+> 
+- [SafeLock-D2E/Quiksand-CVE-2023-24012](https://github.com/SafeLock-D2E/Quiksand-CVE-2023-24012)	<img alt="forks" src="https://img.shields.io/github/forks/SafeLock-D2E/Quiksand-CVE-2023-24012">	<img alt="stars" src="https://img.shields.io/github/stars/SafeLock-D2E/Quiksand-CVE-2023-24012">
+
+---
 ## CVE-2023-23969 (2023-02-01T19:15:00)
 > In Django 3.2 before 3.2.17, 4.0 before 4.0.9, and 4.1 before 4.1.6, the parsed values of Accept-Language headers are cached in order to avoid repetitive parsing. This leads to a potential denial-of-service vector via excessive memory usage if the raw value of Accept-Language headers is very large.
 - [Live-Hack-CVE/CVE-2023-23969](https://github.com/Live-Hack-CVE/CVE-2023-23969)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-23969">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-23969">
