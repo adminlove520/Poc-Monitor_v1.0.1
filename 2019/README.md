@@ -2360,6 +2360,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-20172](https://github.com/Live-Hack-CVE/CVE-2019-20172)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20172">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20172">
 
 ---
+## CVE-2019-20149 ()
+> 
+- [mrknowledgshare/testing_cve-2019-20149](https://github.com/mrknowledgshare/testing_cve-2019-20149)	<img alt="forks" src="https://img.shields.io/github/forks/mrknowledgshare/testing_cve-2019-20149">	<img alt="stars" src="https://img.shields.io/github/stars/mrknowledgshare/testing_cve-2019-20149">
+
+---
 ## CVE-2019-20141 (2019-12-30T18:15:00)
 > An XSS issue was discovered in the Laborator Neon theme 2.0 for WordPress via the data/autosuggest-remote.php q parameter.
 - [Live-Hack-CVE/CVE-2019-20141](https://github.com/Live-Hack-CVE/CVE-2019-20141)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-20141">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-20141">
