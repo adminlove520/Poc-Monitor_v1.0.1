@@ -3416,7 +3416,7 @@
 - [oieramelibia/DEV_Practica_CVE_2021_4034](https://github.com/oieramelibia/DEV_Practica_CVE_2021_4034)	<img alt="forks" src="https://img.shields.io/github/forks/oieramelibia/DEV_Practica_CVE_2021_4034">	<img alt="stars" src="https://img.shields.io/github/stars/oieramelibia/DEV_Practica_CVE_2021_4034">
 - [AsierEgana/cve-2021-4034](https://github.com/AsierEgana/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/AsierEgana/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/AsierEgana/cve-2021-4034">
 - [fzlaziz/CVE-2021-4034](https://github.com/fzlaziz/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/fzlaziz/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/fzlaziz/CVE-2021-4034">
-- [Z3R0-0x30/CVE-2021-4034](https://github.com/Z3R0-0x30/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2021-4034">
+- [Z3R0space/CVE-2021-4034](https://github.com/Z3R0space/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0space/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0space/CVE-2021-4034">
 - [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
 - [Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034](https://github.com/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Milad-Rafie/PwnKit-Local-Privilege-Escalation-Vulnerability-Discovered-in-polkit-s-pkexec-CVE-2021-4034">
 - [kali-guru/Pwnkit-CVE-2021-4034](https://github.com/kali-guru/Pwnkit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/kali-guru/Pwnkit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/kali-guru/Pwnkit-CVE-2021-4034">
@@ -3432,6 +3432,7 @@
 - [ramahmdr/PwnKit](https://github.com/ramahmdr/PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ramahmdr/PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ramahmdr/PwnKit">
 - [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
 - [Allu-mette/cve-2021-4034](https://github.com/Allu-mette/cve-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Allu-mette/cve-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Allu-mette/cve-2021-4034">
+- [Abbykito/KERNELexploits](https://github.com/Abbykito/KERNELexploits)	<img alt="forks" src="https://img.shields.io/github/forks/Abbykito/KERNELexploits">	<img alt="stars" src="https://img.shields.io/github/stars/Abbykito/KERNELexploits">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
