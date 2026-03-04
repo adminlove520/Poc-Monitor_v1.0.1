@@ -6991,7 +6991,7 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [k3lpi3b4nsh33/CVE-2024-29973](https://github.com/k3lpi3b4nsh33/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-29973">
 - [momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/momika233/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/momika233/CVE-2024-29973">
 - [0xlf/CVE-2024-29973](https://github.com/0xlf/CVE-2024-29973)	<img alt="forks" src="https://img.shields.io/github/forks/0xlf/CVE-2024-29973">	<img alt="stars" src="https://img.shields.io/github/stars/0xlf/CVE-2024-29973">
-- [lfilharv/CVE-2024-2997](https://github.com/lfilharv/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/lfilharv/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/lfilharv/CVE-2024-2997">
+- [NullEssa/CVE-2024-2997](https://github.com/NullEssa/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/NullEssa/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/NullEssa/CVE-2024-2997">
 
 ---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
