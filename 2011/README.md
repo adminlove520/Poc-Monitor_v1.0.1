@@ -137,6 +137,13 @@
 - [Live-Hack-CVE/CVE-2011-2487](https://github.com/Live-Hack-CVE/CVE-2011-2487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2487">
 
 ---
+## CVE-2011-1473 ()
+> 
+- [khaledibnalwalid/CVE-2011-1473-POC](https://github.com/khaledibnalwalid/CVE-2011-1473-POC)	<img alt="forks" src="https://img.shields.io/github/forks/khaledibnalwalid/CVE-2011-1473-POC">	<img alt="stars" src="https://img.shields.io/github/stars/khaledibnalwalid/CVE-2011-1473-POC">
+- [zjt674449039/cve-2011-1473](https://github.com/zjt674449039/cve-2011-1473)	<img alt="forks" src="https://img.shields.io/github/forks/zjt674449039/cve-2011-1473">	<img alt="stars" src="https://img.shields.io/github/stars/zjt674449039/cve-2011-1473">
+- [XDLDCG/bash-tls-reneg-attack](https://github.com/XDLDCG/bash-tls-reneg-attack)	<img alt="forks" src="https://img.shields.io/github/forks/XDLDCG/bash-tls-reneg-attack">	<img alt="stars" src="https://img.shields.io/github/stars/XDLDCG/bash-tls-reneg-attack">
+
+---
 ## CVE-2011-1471 (2011-03-20T02:00:00)
 > Integer signedness error in zip_stream.c in the Zip extension in PHP before 5.3.6 allows context-dependent attackers to cause a denial of service (CPU consumption) via a malformed archive file that triggers errors in zip_fread function calls.
 - [Live-Hack-CVE/CVE-2011-1471](https://github.com/Live-Hack-CVE/CVE-2011-1471)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-1471">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-1471">

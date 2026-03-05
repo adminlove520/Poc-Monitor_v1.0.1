@@ -6689,6 +6689,7 @@
 - [vpr-labs/CVE-2025-32463](https://github.com/vpr-labs/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/vpr-labs/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/vpr-labs/CVE-2025-32463">
 - [danilo1992-sys/CVE-2025-32463](https://github.com/danilo1992-sys/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2025-32463">
 - [zaryouhashraf/CVE-2025-32463](https://github.com/zaryouhashraf/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/zaryouhashraf/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/zaryouhashraf/CVE-2025-32463">
+- [yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab](https://github.com/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">
 
 ---
 ## CVE-2025-32462 ()
