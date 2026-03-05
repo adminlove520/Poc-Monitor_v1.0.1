@@ -6707,6 +6707,7 @@
 - [OffSecPlaybook/CVE-2025-32462-](https://github.com/OffSecPlaybook/CVE-2025-32462-)	<img alt="forks" src="https://img.shields.io/github/forks/OffSecPlaybook/CVE-2025-32462-">	<img alt="stars" src="https://img.shields.io/github/stars/OffSecPlaybook/CVE-2025-32462-">
 - [harsh1verma/CVE-Analysis](https://github.com/harsh1verma/CVE-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harsh1verma/CVE-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harsh1verma/CVE-Analysis">
 - [lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities">
+- [yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab](https://github.com/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2025-32462-CVE-2025-32463-PoC-Lab">
 
 ---
 ## CVE-2025-32444 ()
