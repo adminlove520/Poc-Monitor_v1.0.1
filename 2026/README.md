@@ -959,6 +959,11 @@
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
 
 ---
+## CVE-2026-20131 ()
+> 
+- [Sushilsin/CVE-2026-20131](https://github.com/Sushilsin/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20131">
+
+---
 ## CVE-2026-20127 ()
 > 
 - [Dimchuk/CVE-2026-20127-chain](https://github.com/Dimchuk/CVE-2026-20127-chain)	<img alt="forks" src="https://img.shields.io/github/forks/Dimchuk/CVE-2026-20127-chain">	<img alt="stars" src="https://img.shields.io/github/stars/Dimchuk/CVE-2026-20127-chain">
@@ -966,6 +971,12 @@
 - [leemuun/CVE-2026-20127](https://github.com/leemuun/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/leemuun/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/leemuun/CVE-2026-20127">
 - [bluefalconink/cisa-ed-26-03-tracker](https://github.com/bluefalconink/cisa-ed-26-03-tracker)	<img alt="forks" src="https://img.shields.io/github/forks/bluefalconink/cisa-ed-26-03-tracker">	<img alt="stars" src="https://img.shields.io/github/stars/bluefalconink/cisa-ed-26-03-tracker">
 - [BugFor-Pings/CVE-2026-20127_EXP](https://github.com/BugFor-Pings/CVE-2026-20127_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2026-20127_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2026-20127_EXP">
+
+---
+## CVE-2026-20079 ()
+> 
+- [Sushilsin/CVE-2026-20079](https://github.com/Sushilsin/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20079">
+- [b1gchoi/CVE-2026-20079](https://github.com/b1gchoi/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20079">
 
 ---
 ## CVE-2026-20045 ()
