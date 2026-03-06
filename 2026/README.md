@@ -962,6 +962,7 @@
 ## CVE-2026-20131 ()
 > 
 - [Sushilsin/CVE-2026-20131](https://github.com/Sushilsin/CVE-2026-20131)	<img alt="forks" src="https://img.shields.io/github/forks/Sushilsin/CVE-2026-20131">	<img alt="stars" src="https://img.shields.io/github/stars/Sushilsin/CVE-2026-20131">
+- [p3Nt3st3r-sTAr/CVE-2026-20131-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-20131-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-20131-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-20131-POC">
 
 ---
 ## CVE-2026-20127 ()
