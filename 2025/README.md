@@ -3745,6 +3745,7 @@
 - [androidteacher/REACT-CVE-2025-55182-Lab](https://github.com/androidteacher/REACT-CVE-2025-55182-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/androidteacher/REACT-CVE-2025-55182-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/androidteacher/REACT-CVE-2025-55182-Lab">
 - [InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner](https://github.com/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/InferiorAK/CVE-2025-55182-React2Shell-Async-Scanner">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
+- [luoqichen/CVE-2025-55182-POC](https://github.com/luoqichen/CVE-2025-55182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/luoqichen/CVE-2025-55182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/luoqichen/CVE-2025-55182-POC">
 
 ---
 ## CVE-2025-55130 ()
