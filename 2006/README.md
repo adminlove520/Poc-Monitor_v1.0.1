@@ -28,6 +28,11 @@
 - [karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2006-2842">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2006-2842">
 
 ---
+## CVE-2006-2369 ()
+> 
+- [hacker1337itme/CVE-2006-2369](https://github.com/hacker1337itme/CVE-2006-2369)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2006-2369">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2006-2369">
+
+---
 ## CVE-2006-20001 (2023-01-17T20:15:00)
 > A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier.
 - [Live-Hack-CVE/CVE-2006-20001](https://github.com/Live-Hack-CVE/CVE-2006-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2006-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2006-20001">
