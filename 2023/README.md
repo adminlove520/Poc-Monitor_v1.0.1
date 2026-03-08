@@ -3432,6 +3432,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [mishra0230/CVE-2023-38831](https://github.com/mishra0230/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/mishra0230/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/mishra0230/CVE-2023-38831">
 - [ouoxii/Software-Testing-Final-Project](https://github.com/ouoxii/Software-Testing-Final-Project)	<img alt="forks" src="https://img.shields.io/github/forks/ouoxii/Software-Testing-Final-Project">	<img alt="stars" src="https://img.shields.io/github/stars/ouoxii/Software-Testing-Final-Project">
 - [ImagineNotChetng/WinRAR-Exploit-Builder](https://github.com/ImagineNotChetng/WinRAR-Exploit-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ImagineNotChetng/WinRAR-Exploit-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ImagineNotChetng/WinRAR-Exploit-Builder">
+- [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -12147,6 +12148,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Arshit01/CVE-2023-20198](https://github.com/Arshit01/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Arshit01/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Arshit01/CVE-2023-20198">
 - [Religan/CVE-2023-20198](https://github.com/Religan/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/Religan/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/Religan/CVE-2023-20198">
 - [gustavorobertux/CVE-2023-20198](https://github.com/gustavorobertux/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/CVE-2023-20198">
+- [gustavorobertux/cisco-cve-2023-20198-checker](https://github.com/gustavorobertux/cisco-cve-2023-20198-checker)	<img alt="forks" src="https://img.shields.io/github/forks/gustavorobertux/cisco-cve-2023-20198-checker">	<img alt="stars" src="https://img.shields.io/github/stars/gustavorobertux/cisco-cve-2023-20198-checker">
+- [djayaGit/cve-2023-20198-poc-cisco](https://github.com/djayaGit/cve-2023-20198-poc-cisco)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/cve-2023-20198-poc-cisco">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/cve-2023-20198-poc-cisco">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
