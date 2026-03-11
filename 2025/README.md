@@ -5063,8 +5063,9 @@
 - [callinston/CVE-2025-48593](https://github.com/callinston/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-48593">
 - [letchupkt/CVE-2025-48593](https://github.com/letchupkt/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/letchupkt/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/letchupkt/CVE-2025-48593">
 - [GiladLeef/CVE-2025-48593](https://github.com/GiladLeef/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/GiladLeef/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/GiladLeef/CVE-2025-48593">
-- [rana3333s/CVE-2025-48593](https://github.com/rana3333s/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/rana3333s/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/rana3333s/CVE-2025-48593">
+- [ranasen-rat/CVE-2025-48593](https://github.com/ranasen-rat/CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/ranasen-rat/CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/ranasen-rat/CVE-2025-48593">
 - [zhuowei/blueshrimp](https://github.com/zhuowei/blueshrimp)	<img alt="forks" src="https://img.shields.io/github/forks/zhuowei/blueshrimp">	<img alt="stars" src="https://img.shields.io/github/stars/zhuowei/blueshrimp">
+- [C0D331ng/Blackash-CVE-2025-48593](https://github.com/C0D331ng/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/C0D331ng/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/C0D331ng/Blackash-CVE-2025-48593">
 
 ---
 ## CVE-2025-48543 ()
