@@ -2159,6 +2159,7 @@
 - [GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection](https://github.com/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection">
 - [Rohitberiwala/CVE-2025-60787-MotionEye-RCE](https://github.com/Rohitberiwala/CVE-2025-60787-MotionEye-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/CVE-2025-60787-MotionEye-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/CVE-2025-60787-MotionEye-RCE">
 - [lil0xplorer/CVE-2025-60787_PoC](https://github.com/lil0xplorer/CVE-2025-60787_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lil0xplorer/CVE-2025-60787_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lil0xplorer/CVE-2025-60787_PoC">
+- [gunzf0x/CVE-2025-60787](https://github.com/gunzf0x/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/CVE-2025-60787">
 
 ---
 ## CVE-2025-60752 ()
