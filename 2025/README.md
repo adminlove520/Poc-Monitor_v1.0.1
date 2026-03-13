@@ -658,6 +658,11 @@
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
 
 ---
+## CVE-2025-68971 ()
+> 
+- [ChewKeanHo/research-cve-2025-68971](https://github.com/ChewKeanHo/research-cve-2025-68971)	<img alt="forks" src="https://img.shields.io/github/forks/ChewKeanHo/research-cve-2025-68971">	<img alt="stars" src="https://img.shields.io/github/stars/ChewKeanHo/research-cve-2025-68971">
+
+---
 ## CVE-2025-68937 ()
 > 
 - [ClemaX/Gitea-Forgejo-CVE-2025-68937](https://github.com/ClemaX/Gitea-Forgejo-CVE-2025-68937)	<img alt="forks" src="https://img.shields.io/github/forks/ClemaX/Gitea-Forgejo-CVE-2025-68937">	<img alt="stars" src="https://img.shields.io/github/stars/ClemaX/Gitea-Forgejo-CVE-2025-68937">
