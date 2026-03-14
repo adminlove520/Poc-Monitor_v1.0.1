@@ -602,6 +602,11 @@
 - [Rivek619/CVE-2025-69581](https://github.com/Rivek619/CVE-2025-69581)	<img alt="forks" src="https://img.shields.io/github/forks/Rivek619/CVE-2025-69581">	<img alt="stars" src="https://img.shields.io/github/stars/Rivek619/CVE-2025-69581">
 
 ---
+## CVE-2025-69516 ()
+> 
+- [SNISS/CVE-2025-69516](https://github.com/SNISS/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/SNISS/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/SNISS/CVE-2025-69516">
+
+---
 ## CVE-2025-69460 ()
 > 
 - [Tagoletta/CVE-2025-69460](https://github.com/Tagoletta/CVE-2025-69460)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69460">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69460">
@@ -3167,6 +3172,7 @@
 > 
 - [TheMalwareGuardian/CVE-2025-5548](https://github.com/TheMalwareGuardian/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-5548">
 - [alanschmidt81/CVE-2025-5548](https://github.com/alanschmidt81/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alanschmidt81/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alanschmidt81/CVE-2025-5548">
+- [LorenzoPorrasDuque/CVE-2025-5548-POC](https://github.com/LorenzoPorrasDuque/CVE-2025-5548-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoPorrasDuque/CVE-2025-5548-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoPorrasDuque/CVE-2025-5548-POC">
 
 ---
 ## CVE-2025-55462 ()
