@@ -4126,6 +4126,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-12762](https://github.com/Live-Hack-CVE/CVE-2019-12762)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12762">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12762">
 
 ---
+## CVE-2019-12747 ()
+> 
+- [StillSoul/CVE-2019-12747](https://github.com/StillSoul/CVE-2019-12747)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2019-12747">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2019-12747">
+
+---
 ## CVE-2019-12746 (2019-08-21T14:15:00)
 > An issue was discovered in Open Ticket Request System (OTRS) Community Edition 5.0.x through 5.0.36 and 6.0.x through 6.0.19. A user logged into OTRS as an agent might unknowingly disclose their session ID by sharing the link of an embedded ticket article with third parties. This identifier can be then be potentially abused in order to impersonate the agent user.
 - [Live-Hack-CVE/CVE-2019-12746](https://github.com/Live-Hack-CVE/CVE-2019-12746)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-12746">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-12746">
