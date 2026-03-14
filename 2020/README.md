@@ -4854,6 +4854,11 @@
 - [Live-Hack-CVE/CVE-2020-15113](https://github.com/Live-Hack-CVE/CVE-2020-15113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15113">
 
 ---
+## CVE-2020-15099 ()
+> 
+- [StillSoul/CVE-2020-15099](https://github.com/StillSoul/CVE-2020-15099)	<img alt="forks" src="https://img.shields.io/github/forks/StillSoul/CVE-2020-15099">	<img alt="stars" src="https://img.shields.io/github/stars/StillSoul/CVE-2020-15099">
+
+---
 ## CVE-2020-15094 (2020-09-02T18:15:00)
 > In Symfony before versions 4.4.13 and 5.1.5, the CachingHttpClient class from the HttpClient Symfony component relies on the HttpCache class to handle requests. HttpCache uses internal headers like X-Body-Eval and X-Body-File to control the restoration of cached responses. The class was initially written with surrogate caching and ESI support in mind (all HTTP calls come from a trusted backend in that scenario). But when used by CachingHttpClient and if an attacker can control the response for a request being made by the CachingHttpClient, remote code execution is possible. This has been fixed in versions 4.4.13 and 5.1.5.
 - [Live-Hack-CVE/CVE-2020-15094](https://github.com/Live-Hack-CVE/CVE-2020-15094)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-15094">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-15094">
