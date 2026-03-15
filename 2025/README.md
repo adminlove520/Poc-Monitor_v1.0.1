@@ -1198,6 +1198,11 @@
 - [joshuavanderpoll/cve-2025-66398](https://github.com/joshuavanderpoll/cve-2025-66398)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/cve-2025-66398">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/cve-2025-66398">
 
 ---
+## CVE-2025-66249 ()
+> 
+- [sid6224/CVE-2025-66249-POC](https://github.com/sid6224/CVE-2025-66249-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sid6224/CVE-2025-66249-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sid6224/CVE-2025-66249-POC">
+
+---
 ## CVE-2025-66224 ()
 > 
 - [richard-natan/PoC-CVE-2025-66224](https://github.com/richard-natan/PoC-CVE-2025-66224)	<img alt="forks" src="https://img.shields.io/github/forks/richard-natan/PoC-CVE-2025-66224">	<img alt="stars" src="https://img.shields.io/github/stars/richard-natan/PoC-CVE-2025-66224">
@@ -2633,6 +2638,8 @@
 ## CVE-2025-5844 ()
 > 
 - [KeyFrame-Bytes/CVE-2025-5844](https://github.com/KeyFrame-Bytes/CVE-2025-5844)	<img alt="forks" src="https://img.shields.io/github/forks/KeyFrame-Bytes/CVE-2025-5844">	<img alt="stars" src="https://img.shields.io/github/stars/KeyFrame-Bytes/CVE-2025-5844">
+- [casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443)	<img alt="forks" src="https://img.shields.io/github/forks/casp3r0x0/CVE-2025-58443">	<img alt="stars" src="https://img.shields.io/github/stars/casp3r0x0/CVE-2025-58443">
+- [ph-hitachi/CVE-2025-58440](https://github.com/ph-hitachi/CVE-2025-58440)	<img alt="forks" src="https://img.shields.io/github/forks/ph-hitachi/CVE-2025-58440">	<img alt="stars" src="https://img.shields.io/github/stars/ph-hitachi/CVE-2025-58440">
 
 ---
 ## CVE-2025-58434 ()
