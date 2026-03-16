@@ -1177,6 +1177,11 @@
 - [sundenovak/CVE-2026-20700-An-analysis-WIP](https://github.com/sundenovak/CVE-2026-20700-An-analysis-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/sundenovak/CVE-2026-20700-An-analysis-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/sundenovak/CVE-2026-20700-An-analysis-WIP">
 
 ---
+## CVE-2026-20660 ()
+> 
+- [retX0/CVE-2026-20660](https://github.com/retX0/CVE-2026-20660)	<img alt="forks" src="https://img.shields.io/github/forks/retX0/CVE-2026-20660">	<img alt="stars" src="https://img.shields.io/github/stars/retX0/CVE-2026-20660">
+
+---
 ## CVE-2026-2058 ()
 > 
 - [carlosalbertotuma/CVE-2026-2058-PoC](https://github.com/carlosalbertotuma/CVE-2026-2058-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/carlosalbertotuma/CVE-2026-2058-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/carlosalbertotuma/CVE-2026-2058-PoC">
