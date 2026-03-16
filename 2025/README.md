@@ -531,6 +531,11 @@
 - [malvector/CVE-2025-70341](https://github.com/malvector/CVE-2025-70341)	<img alt="forks" src="https://img.shields.io/github/forks/malvector/CVE-2025-70341">	<img alt="stars" src="https://img.shields.io/github/stars/malvector/CVE-2025-70341">
 
 ---
+## CVE-2025-70330 ()
+> 
+- [TheMalwareGuardian/CVE-2025-70330](https://github.com/TheMalwareGuardian/CVE-2025-70330)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-70330">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-70330">
+
+---
 ## CVE-2025-69985 ()
 > 
 - [joshuavanderpoll/CVE-2025-69985](https://github.com/joshuavanderpoll/CVE-2025-69985)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2025-69985">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2025-69985">
@@ -4618,6 +4623,11 @@
 ## CVE-2025-50944 ()
 > 
 - [shinyColumn/CVE-2025-50944](https://github.com/shinyColumn/CVE-2025-50944)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-50944">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-50944">
+
+---
+## CVE-2025-50881 ()
+> 
+- [0xdeadbit/CVE-2025-50881](https://github.com/0xdeadbit/CVE-2025-50881)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadbit/CVE-2025-50881">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadbit/CVE-2025-50881">
 
 ---
 ## CVE-2025-50867 ()
