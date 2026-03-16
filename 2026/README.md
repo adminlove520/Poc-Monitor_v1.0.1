@@ -195,6 +195,7 @@
 - [alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc](https://github.com/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/alihussainzada/CVE-2026-29000-Python-PoC-pac4j-JWT-AuthenticationBypass-Poc">
 - [otuva/CVE-2026-29000](https://github.com/otuva/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/otuva/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/otuva/CVE-2026-29000">
 - [RootX111/cve-2026-29000](https://github.com/RootX111/cve-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/RootX111/cve-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/RootX111/cve-2026-29000">
+- [FranzAlvis/Cve_2026_29000_exploit](https://github.com/FranzAlvis/Cve_2026_29000_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/FranzAlvis/Cve_2026_29000_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/FranzAlvis/Cve_2026_29000_exploit">
 
 ---
 ## CVE-2026-2898 ()
