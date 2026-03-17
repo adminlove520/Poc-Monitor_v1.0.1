@@ -8270,6 +8270,11 @@
 - [lkasjkasj/CVE-2025-25369](https://github.com/lkasjkasj/CVE-2025-25369)	<img alt="forks" src="https://img.shields.io/github/forks/lkasjkasj/CVE-2025-25369">	<img alt="stars" src="https://img.shields.io/github/stars/lkasjkasj/CVE-2025-25369">
 
 ---
+## CVE-2025-25347 ()
+> 
+- [Yetazyyy/CVE-2025-25347](https://github.com/Yetazyyy/CVE-2025-25347)	<img alt="forks" src="https://img.shields.io/github/forks/Yetazyyy/CVE-2025-25347">	<img alt="stars" src="https://img.shields.io/github/stars/Yetazyyy/CVE-2025-25347">
+
+---
 ## CVE-2025-25340 ()
 > 
 - [l00neyhacker/CVE-2025-25340](https://github.com/l00neyhacker/CVE-2025-25340)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2025-25340">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2025-25340">
