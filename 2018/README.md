@@ -374,6 +374,11 @@
 - [Live-Hack-CVE/CVE-2018-6677](https://github.com/Live-Hack-CVE/CVE-2018-6677)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6677">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6677">
 
 ---
+## CVE-2018-6606 ()
+> 
+- [bullhead-repo/CVE-2018-6606](https://github.com/bullhead-repo/CVE-2018-6606)	<img alt="forks" src="https://img.shields.io/github/forks/bullhead-repo/CVE-2018-6606">	<img alt="stars" src="https://img.shields.io/github/stars/bullhead-repo/CVE-2018-6606">
+
+---
 ## CVE-2018-6590 (2018-08-03T14:29:00)
 > CA API Developer Portal 4.x, prior to v4.2.5.3 and v4.2.7.1, has an unspecified reflected cross-site scripting vulnerability.
 - [Live-Hack-CVE/CVE-2018-6590](https://github.com/Live-Hack-CVE/CVE-2018-6590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2018-6590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2018-6590">
