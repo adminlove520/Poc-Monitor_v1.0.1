@@ -1007,6 +1007,11 @@
 - [washingtonmaister/CVE-2026-22153-exp](https://github.com/washingtonmaister/CVE-2026-22153-exp)	<img alt="forks" src="https://img.shields.io/github/forks/washingtonmaister/CVE-2026-22153-exp">	<img alt="stars" src="https://img.shields.io/github/stars/washingtonmaister/CVE-2026-22153-exp">
 
 ---
+## CVE-2026-21994 ()
+> 
+- [TEXploited/CVE-2026-21994](https://github.com/TEXploited/CVE-2026-21994)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21994">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21994">
+
+---
 ## CVE-2026-21962 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-21962](https://github.com/Ashwesker/Ashwesker-CVE-2026-21962)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-21962">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-21962">
