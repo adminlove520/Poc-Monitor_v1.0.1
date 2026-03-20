@@ -1297,6 +1297,7 @@
 ## CVE-2026-20643 ()
 > 
 - [zeroxjf/bsi-CVE-2026-20643](https://github.com/zeroxjf/bsi-CVE-2026-20643)	<img alt="forks" src="https://img.shields.io/github/forks/zeroxjf/bsi-CVE-2026-20643">	<img alt="stars" src="https://img.shields.io/github/stars/zeroxjf/bsi-CVE-2026-20643">
+- [Fliv/CVE-2026-20643](https://github.com/Fliv/CVE-2026-20643)	<img alt="forks" src="https://img.shields.io/github/forks/Fliv/CVE-2026-20643">	<img alt="stars" src="https://img.shields.io/github/stars/Fliv/CVE-2026-20643">
 
 ---
 ## CVE-2026-2058 ()
