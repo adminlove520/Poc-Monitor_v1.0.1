@@ -995,6 +995,11 @@
 - [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
 
 ---
+## CVE-2026-23520 ()
+> 
+- [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">
+
+---
 ## CVE-2026-23478 ()
 > 
 - [Ashwesker/Ashwesker-CVE-2026-23478](https://github.com/Ashwesker/Ashwesker-CVE-2026-23478)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Ashwesker-CVE-2026-23478">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Ashwesker-CVE-2026-23478">
