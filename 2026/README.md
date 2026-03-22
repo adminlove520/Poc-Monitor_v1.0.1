@@ -732,6 +732,11 @@
 - [destiny-creates/CVE-2026-2461-poc](https://github.com/destiny-creates/CVE-2026-2461-poc)	<img alt="forks" src="https://img.shields.io/github/forks/destiny-creates/CVE-2026-2461-poc">	<img alt="stars" src="https://img.shields.io/github/stars/destiny-creates/CVE-2026-2461-poc">
 
 ---
+## CVE-2026-24516 ()
+> 
+- [poxsky/CVE-2026-24516-DigitalOcean-RCE](https://github.com/poxsky/CVE-2026-24516-DigitalOcean-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/poxsky/CVE-2026-24516-DigitalOcean-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/poxsky/CVE-2026-24516-DigitalOcean-RCE">
+
+---
 ## CVE-2026-24514 ()
 > 
 - [mbanyamer/cve-2026-24514-Kubernetes-Dos](https://github.com/mbanyamer/cve-2026-24514-Kubernetes-Dos)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/cve-2026-24514-Kubernetes-Dos">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/cve-2026-24514-Kubernetes-Dos">
@@ -1295,6 +1300,11 @@
 ## CVE-2026-21437 ()
 > 
 - [osmancanvural/CVE-2026-21437](https://github.com/osmancanvural/CVE-2026-21437)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2026-21437">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2026-21437">
+
+---
+## CVE-2026-21385 ()
+> 
+- [unionnx/CVE-2026-21385](https://github.com/unionnx/CVE-2026-21385)	<img alt="forks" src="https://img.shields.io/github/forks/unionnx/CVE-2026-21385">	<img alt="stars" src="https://img.shields.io/github/stars/unionnx/CVE-2026-21385">
 
 ---
 ## CVE-2026-2113 ()
