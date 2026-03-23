@@ -2434,6 +2434,7 @@
 ## CVE-2025-6002 ()
 > 
 - [schn1tzelme1ster/CVE-2025-6002](https://github.com/schn1tzelme1ster/CVE-2025-6002)	<img alt="forks" src="https://img.shields.io/github/forks/schn1tzelme1ster/CVE-2025-6002">	<img alt="stars" src="https://img.shields.io/github/stars/schn1tzelme1ster/CVE-2025-6002">
+- [Mefhika120/Ashwesker-CVE-2025-60021](https://github.com/Mefhika120/Ashwesker-CVE-2025-60021)	<img alt="forks" src="https://img.shields.io/github/forks/Mefhika120/Ashwesker-CVE-2025-60021">	<img alt="stars" src="https://img.shields.io/github/stars/Mefhika120/Ashwesker-CVE-2025-60021">
 
 ---
 ## CVE-2025-60012 ()

@@ -60,6 +60,7 @@
 - [Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher">
 - [netw0rk7/CVE-2026-3888-PoC](https://github.com/netw0rk7/CVE-2026-3888-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2026-3888-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2026-3888-PoC">
 - [nomaisthere/CVE-2026-3888](https://github.com/nomaisthere/CVE-2026-3888)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2026-3888">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2026-3888">
+- [TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE](https://github.com/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberGeek/CVE-2026-3888-snap-confine-systemd-tmpfiles-LPE">
 
 ---
 ## CVE-2026-3847 ()
