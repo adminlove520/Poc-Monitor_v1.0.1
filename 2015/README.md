@@ -77,6 +77,11 @@
 - [Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)	<img alt="forks" src="https://img.shields.io/github/forks/Caihuar/Joomla-cve-2015-8562">	<img alt="stars" src="https://img.shields.io/github/stars/Caihuar/Joomla-cve-2015-8562">
 
 ---
+## CVE-2015-8522 ()
+> 
+- [damariion/CVE-2015-8522](https://github.com/damariion/CVE-2015-8522)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522">
+
+---
 ## CVE-2015-8504 (2017-04-11T19:59:00)
 > Qemu, when built with VNC display driver support, allows remote attackers to cause a denial of service (arithmetic exception and application crash) via crafted SetPixelFormat messages from a client.
 - [Live-Hack-CVE/CVE-2015-8504](https://github.com/Live-Hack-CVE/CVE-2015-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-8504">
