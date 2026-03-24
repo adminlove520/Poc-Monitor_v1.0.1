@@ -472,6 +472,7 @@
 ## CVE-2026-26833 ()
 > 
 - [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
+- [zebbernCVE/npm-cve-2026-26830-26833](https://github.com/zebbernCVE/npm-cve-2026-26830-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/npm-cve-2026-26830-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/npm-cve-2026-26830-26833">
 
 ---
 ## CVE-2026-26832 ()
