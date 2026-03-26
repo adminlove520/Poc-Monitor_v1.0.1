@@ -300,6 +300,7 @@
 ## CVE-2026-29971 ()
 > 
 - [tharunchidurala-cyber/BACkupCVE-2026-29971](https://github.com/tharunchidurala-cyber/BACkupCVE-2026-29971)	<img alt="forks" src="https://img.shields.io/github/forks/tharunchidurala-cyber/BACkupCVE-2026-29971">	<img alt="stars" src="https://img.shields.io/github/stars/tharunchidurala-cyber/BACkupCVE-2026-29971">
+- [Tharooon/CVE-2026-29971](https://github.com/Tharooon/CVE-2026-29971)	<img alt="forks" src="https://img.shields.io/github/forks/Tharooon/CVE-2026-29971">	<img alt="stars" src="https://img.shields.io/github/stars/Tharooon/CVE-2026-29971">
 
 ---
 ## CVE-2026-2991 ()
