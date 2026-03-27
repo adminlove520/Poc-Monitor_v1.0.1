@@ -131,6 +131,11 @@
 - [SnailSploit/CVE-2026-33693](https://github.com/SnailSploit/CVE-2026-33693)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-33693">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-33693">
 
 ---
+## CVE-2026-33531 ()
+> 
+- [alonaki/InvenTree-Path-Traversal-CVE-2026-33531](https://github.com/alonaki/InvenTree-Path-Traversal-CVE-2026-33531)	<img alt="forks" src="https://img.shields.io/github/forks/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">	<img alt="stars" src="https://img.shields.io/github/stars/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
@@ -1140,6 +1145,7 @@
 - [z4yd3/PoC-CVE-2026-23744](https://github.com/z4yd3/PoC-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-23744">
 - [yassertioursi/htb-kobold-writeup](https://github.com/yassertioursi/htb-kobold-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/yassertioursi/htb-kobold-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/yassertioursi/htb-kobold-writeup">
 - [ctzisme/CVE-2026-23744](https://github.com/ctzisme/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/CVE-2026-23744">
+- [AhmadF77/CVE-2026-23744](https://github.com/AhmadF77/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/AhmadF77/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/AhmadF77/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
