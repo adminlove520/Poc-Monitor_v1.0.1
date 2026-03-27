@@ -95,6 +95,11 @@
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
 
 ---
+## CVE-2026-34227 ()
+> 
+- [skoveit/CVE-2026-34227](https://github.com/skoveit/CVE-2026-34227)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34227">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34227">
+
+---
 ## CVE-2026-34200 ()
 > 
 - [skoveit/CVE-2026-34200](https://github.com/skoveit/CVE-2026-34200)	<img alt="forks" src="https://img.shields.io/github/forks/skoveit/CVE-2026-34200">	<img alt="stars" src="https://img.shields.io/github/stars/skoveit/CVE-2026-34200">
