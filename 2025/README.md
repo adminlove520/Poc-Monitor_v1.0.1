@@ -7212,6 +7212,11 @@
 - [hackmelocal/CVE-2025-31486-Simulation](https://github.com/hackmelocal/CVE-2025-31486-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2025-31486-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2025-31486-Simulation">
 
 ---
+## CVE-2025-31337 ()
+> 
+- [1numak1/CVE-2025-31337](https://github.com/1numak1/CVE-2025-31337)	<img alt="forks" src="https://img.shields.io/github/forks/1numak1/CVE-2025-31337">	<img alt="stars" src="https://img.shields.io/github/stars/1numak1/CVE-2025-31337">
+
+---
 ## CVE-2025-31324 ()
 > 
 - [rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-31324">
