@@ -1183,6 +1183,7 @@
 - [fcjaviergarcia/CVE-2026-23744-POC](https://github.com/fcjaviergarcia/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fcjaviergarcia/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fcjaviergarcia/CVE-2026-23744-POC">
 - [d3vn0mi/CVE-2026-23744-POC](https://github.com/d3vn0mi/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-23744-POC">
 - [d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX](https://github.com/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX">
+- [CyLock11/CVE-2026-23744](https://github.com/CyLock11/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/CyLock11/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/CyLock11/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
