@@ -151,6 +151,11 @@
 - [alonaki/InvenTree-Path-Traversal-CVE-2026-33531](https://github.com/alonaki/InvenTree-Path-Traversal-CVE-2026-33531)	<img alt="forks" src="https://img.shields.io/github/forks/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">	<img alt="stars" src="https://img.shields.io/github/stars/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">
 
 ---
+## CVE-2026-33340 ()
+> 
+- [regaan/CVE-2026-33340](https://github.com/regaan/CVE-2026-33340)	<img alt="forks" src="https://img.shields.io/github/forks/regaan/CVE-2026-33340">	<img alt="stars" src="https://img.shields.io/github/stars/regaan/CVE-2026-33340">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
