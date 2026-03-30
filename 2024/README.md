@@ -922,6 +922,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [OhDamnn/Noregressh](https://github.com/OhDamnn/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OhDamnn/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OhDamnn/Noregressh">
 - [Remnant-DB/CVE-2024-6387](https://github.com/Remnant-DB/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/Remnant-DB/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/Remnant-DB/CVE-2024-6387">
 - [Doux-x/CVE-2024-6387-analysis](https://github.com/Doux-x/CVE-2024-6387-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Doux-x/CVE-2024-6387-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Doux-x/CVE-2024-6387-analysis">
+- [OHHDamnBRO/Noregressh](https://github.com/OHHDamnBRO/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OHHDamnBRO/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OHHDamnBRO/Noregressh">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -7761,6 +7762,8 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/kljunowsky/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/kljunowsky/CVE-2024-27348">
 - [jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE](https://github.com/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE">
 - [p0et08/CVE-2024-27348](https://github.com/p0et08/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/p0et08/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/p0et08/CVE-2024-27348">
+- [akelaqe/CVE-2024-27348-HugeGraph-RCE](https://github.com/akelaqe/CVE-2024-27348-HugeGraph-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/akelaqe/CVE-2024-27348-HugeGraph-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/akelaqe/CVE-2024-27348-HugeGraph-RCE">
+- [wqfh/CVE-2024-27348](https://github.com/wqfh/CVE-2024-27348)	<img alt="forks" src="https://img.shields.io/github/forks/wqfh/CVE-2024-27348">	<img alt="stars" src="https://img.shields.io/github/stars/wqfh/CVE-2024-27348">
 
 ---
 ## CVE-2024-27316 (2024-04-04T20:15:00)
