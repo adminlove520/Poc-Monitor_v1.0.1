@@ -5461,6 +5461,11 @@
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">
 
 ---
+## CVE-2020-13654 ()
+> 
+- [Astaruf/CVE-2020-13654](https://github.com/Astaruf/CVE-2020-13654)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2020-13654">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2020-13654">
+
+---
 ## CVE-2020-13640 (2020-06-18T15:15:00)
 > A SQL injection issue in the gVectors wpDiscuz plugin 5.3.5 and earlier for WordPress allows remote attackers to execute arbitrary SQL commands via the order parameter of a wpdLoadMoreComments request. (No 7.x versions are affected.)
 - [Live-Hack-CVE/CVE-2020-13640](https://github.com/Live-Hack-CVE/CVE-2020-13640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13640">
