@@ -174,6 +174,7 @@
 - [SimoesCTT/Sovereign-Echo-33017](https://github.com/SimoesCTT/Sovereign-Echo-33017)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/Sovereign-Echo-33017">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/Sovereign-Echo-33017">
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
+- [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
 
 ---
 ## CVE-2026-32941 ()
@@ -1293,6 +1294,11 @@
 ## CVE-2026-22785 ()
 > 
 - [langbyyi/CVE-2026-22785](https://github.com/langbyyi/CVE-2026-22785)	<img alt="forks" src="https://img.shields.io/github/forks/langbyyi/CVE-2026-22785">	<img alt="stars" src="https://img.shields.io/github/stars/langbyyi/CVE-2026-22785">
+
+---
+## CVE-2026-22777 ()
+> 
+- [wcnmwcis/CVE-2026-22777](https://github.com/wcnmwcis/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/wcnmwcis/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/wcnmwcis/CVE-2026-22777">
 
 ---
 ## CVE-2026-22730 ()
