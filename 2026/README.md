@@ -407,6 +407,11 @@
 - [thegenetic/CVE-2026-2964-Lab](https://github.com/thegenetic/CVE-2026-2964-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/thegenetic/CVE-2026-2964-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/thegenetic/CVE-2026-2964-Lab">
 
 ---
+## CVE-2026-29598 ()
+> 
+- [padayali-JD/CVE-2026-29598](https://github.com/padayali-JD/CVE-2026-29598)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29598">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29598">
+
+---
 ## CVE-2026-29597 ()
 > 
 - [padayali-JD/CVE-2026-29597](https://github.com/padayali-JD/CVE-2026-29597)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/CVE-2026-29597">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/CVE-2026-29597">
@@ -1442,6 +1447,11 @@
 ## CVE-2026-21721 ()
 > 
 - [Leonideath/Exploit-LPE-CVE-2026-21721](https://github.com/Leonideath/Exploit-LPE-CVE-2026-21721)	<img alt="forks" src="https://img.shields.io/github/forks/Leonideath/Exploit-LPE-CVE-2026-21721">	<img alt="stars" src="https://img.shields.io/github/stars/Leonideath/Exploit-LPE-CVE-2026-21721">
+
+---
+## CVE-2026-21717 ()
+> 
+- [dajneem23/CVE-2026-21717](https://github.com/dajneem23/CVE-2026-21717)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2026-21717">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2026-21717">
 
 ---
 ## CVE-2026-21643 ()
