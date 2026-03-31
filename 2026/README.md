@@ -349,6 +349,11 @@
 - [Cr0wld3r/CVE-2026-30082](https://github.com/Cr0wld3r/CVE-2026-30082)	<img alt="forks" src="https://img.shields.io/github/forks/Cr0wld3r/CVE-2026-30082">	<img alt="stars" src="https://img.shields.io/github/stars/Cr0wld3r/CVE-2026-30082">
 
 ---
+## CVE-2026-30081 ()
+> 
+- [rakeshelamaran98/CVE-2026-30081](https://github.com/rakeshelamaran98/CVE-2026-30081)	<img alt="forks" src="https://img.shields.io/github/forks/rakeshelamaran98/CVE-2026-30081">	<img alt="stars" src="https://img.shields.io/github/stars/rakeshelamaran98/CVE-2026-30081">
+
+---
 ## CVE-2026-30048 ()
 > 
 - [0xN4no/CVE-2026-30048](https://github.com/0xN4no/CVE-2026-30048)	<img alt="forks" src="https://img.shields.io/github/forks/0xN4no/CVE-2026-30048">	<img alt="stars" src="https://img.shields.io/github/stars/0xN4no/CVE-2026-30048">
