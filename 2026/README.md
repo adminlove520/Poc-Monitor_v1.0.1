@@ -193,6 +193,11 @@
 - [regaan/CVE-2026-33340](https://github.com/regaan/CVE-2026-33340)	<img alt="forks" src="https://img.shields.io/github/forks/regaan/CVE-2026-33340">	<img alt="stars" src="https://img.shields.io/github/stars/regaan/CVE-2026-33340">
 
 ---
+## CVE-2026-33154 ()
+> 
+- [redyank/CVE-2026-33154](https://github.com/redyank/CVE-2026-33154)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33154">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33154">
+
+---
 ## CVE-2026-3304 ()
 > 
 - [Mkway/CVE-2026-3304](https://github.com/Mkway/CVE-2026-3304)	<img alt="forks" src="https://img.shields.io/github/forks/Mkway/CVE-2026-3304">	<img alt="stars" src="https://img.shields.io/github/stars/Mkway/CVE-2026-3304">
@@ -254,6 +259,7 @@
 ## CVE-2026-32662 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-32662](https://github.com/MichaelAdamGroberman/CVE-2026-32662)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-32662">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-32662">
+- [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 
 ---
 ## CVE-2026-32646 ()
@@ -958,6 +964,7 @@
 ## CVE-2026-25197 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-25197](https://github.com/MichaelAdamGroberman/CVE-2026-25197)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-25197">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-25197">
+- [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 
 ---
 ## CVE-2026-25177 ()

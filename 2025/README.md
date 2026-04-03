@@ -10297,6 +10297,7 @@
 ## CVE-2025-10681 ()
 > 
 - [MichaelAdamGroberman/CVE-2025-10681](https://github.com/MichaelAdamGroberman/CVE-2025-10681)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2025-10681">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2025-10681">
+- [MichaelAdamGroberman/ICSA-26-055-03](https://github.com/MichaelAdamGroberman/ICSA-26-055-03)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/ICSA-26-055-03">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/ICSA-26-055-03">
 
 ---
 ## CVE-2025-10680 ()
