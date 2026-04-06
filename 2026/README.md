@@ -639,6 +639,11 @@
 - [aykhan32/CVE-2026-2898-FunAdmin-Deserialization](https://github.com/aykhan32/CVE-2026-2898-FunAdmin-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan32/CVE-2026-2898-FunAdmin-Deserialization">
 
 ---
+## CVE-2026-28858 ()
+> 
+- [kaleth4/CVE-2026-28858](https://github.com/kaleth4/CVE-2026-28858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-28858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-28858">
+
+---
 ## CVE-2026-28767 ()
 > 
 - [MichaelAdamGroberman/CVE-2026-28767](https://github.com/MichaelAdamGroberman/CVE-2026-28767)	<img alt="forks" src="https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-28767">	<img alt="stars" src="https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-28767">
