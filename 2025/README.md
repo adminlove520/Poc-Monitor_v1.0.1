@@ -4966,6 +4966,7 @@
 - [0xBlackash/CVE-2025-49844](https://github.com/0xBlackash/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-49844">
 - [Cilectiy/CVE-2025-49844](https://github.com/Cilectiy/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/Cilectiy/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/Cilectiy/CVE-2025-49844">
 - [zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell)	<img alt="forks" src="https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">	<img alt="stars" src="https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell">
+- [dajneem23/CVE-2025-49844](https://github.com/dajneem23/CVE-2025-49844)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-49844">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-49844">
 
 ---
 ## CVE-2025-49752 ()
@@ -9027,6 +9028,7 @@
 ## CVE-2025-23061 ()
 > 
 - [dajneem23/CVE-2025-23061](https://github.com/dajneem23/CVE-2025-23061)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2025-23061">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2025-23061">
+- [amikanev/CVE-2025-23061-LAB](https://github.com/amikanev/CVE-2025-23061-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/amikanev/CVE-2025-23061-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/amikanev/CVE-2025-23061-LAB">
 
 ---
 ## CVE-2025-23048 ()
@@ -9525,6 +9527,7 @@
 - [gunyakit/CVE-2025-1974-PoC-exploit](https://github.com/gunyakit/CVE-2025-1974-PoC-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gunyakit/CVE-2025-1974-PoC-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gunyakit/CVE-2025-1974-PoC-exploit">
 - [I3r1h0n/IngressNightterror](https://github.com/I3r1h0n/IngressNightterror)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/IngressNightterror">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/IngressNightterror">
 - [BoianEduard/CVE-2025-1974](https://github.com/BoianEduard/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2025-1974">
+- [zsxen/CVE-2025-1974](https://github.com/zsxen/CVE-2025-1974)	<img alt="forks" src="https://img.shields.io/github/forks/zsxen/CVE-2025-1974">	<img alt="stars" src="https://img.shields.io/github/stars/zsxen/CVE-2025-1974">
 
 ---
 ## CVE-2025-1913 ()
