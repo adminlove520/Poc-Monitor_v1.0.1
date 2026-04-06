@@ -265,6 +265,11 @@
 - [redyank/CVE-2026-33310](https://github.com/redyank/CVE-2026-33310)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33310">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33310">
 
 ---
+## CVE-2026-33186 ()
+> 
+- [JohannesLks/CVE-2026-33186](https://github.com/JohannesLks/CVE-2026-33186)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-33186">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-33186">
+
+---
 ## CVE-2026-33154 ()
 > 
 - [redyank/CVE-2026-33154](https://github.com/redyank/CVE-2026-33154)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-33154">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-33154">
@@ -298,6 +303,11 @@
 - [rootdirective-sec/CVE-2026-33017-Lab](https://github.com/rootdirective-sec/CVE-2026-33017-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-33017-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-33017-Lab">
 - [z4yd3/PoC-CVE-2026-33017](https://github.com/z4yd3/PoC-CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/z4yd3/PoC-CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/z4yd3/PoC-CVE-2026-33017">
 - [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
+
+---
+## CVE-2026-32945 ()
+> 
+- [JohannesLks/CVE-2026-32945](https://github.com/JohannesLks/CVE-2026-32945)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-32945">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-32945">
 
 ---
 ## CVE-2026-32941 ()
@@ -722,6 +732,11 @@
 ## CVE-2026-27739 ()
 > 
 - [bankerke/-CVE-2026-27739-poc](https://github.com/bankerke/-CVE-2026-27739-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bankerke/-CVE-2026-27739-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bankerke/-CVE-2026-27739-poc">
+
+---
+## CVE-2026-27654 ()
+> 
+- [JohannesLks/CVE-2026-27654](https://github.com/JohannesLks/CVE-2026-27654)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-27654">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-27654">
 
 ---
 ## CVE-2026-27639 ()
