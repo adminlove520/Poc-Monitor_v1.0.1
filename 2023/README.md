@@ -5226,6 +5226,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-32749 (2023-06-08T20:15:00)
 > Pydio Cells allows users by default to create so-called external users in order to share files with them. By modifying the HTTP request sent when creating such an external user, it is possible to assign the new user arbitrary roles. By assigning all roles to a newly created user, access to all cells and non-personal workspaces is granted.
 - [xcr-19/CVE-2023-32749](https://github.com/xcr-19/CVE-2023-32749)	<img alt="forks" src="https://img.shields.io/github/forks/xcr-19/CVE-2023-32749">	<img alt="stars" src="https://img.shields.io/github/stars/xcr-19/CVE-2023-32749">
+- [alaeddine03/CVE-2023-32749-PoC](https://github.com/alaeddine03/CVE-2023-32749-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alaeddine03/CVE-2023-32749-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alaeddine03/CVE-2023-32749-PoC">
 
 ---
 ## CVE-2023-32707 (2023-06-01T17:15:00)
