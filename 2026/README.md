@@ -1953,6 +1953,11 @@
 - [ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass](https://github.com/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ninjazan420/CVE-2026-1729-PoC-AdForest-WordPress-Authentication-Bypass">
 
 ---
+## CVE-2026-1668 ()
+> 
+- [tangrs/cve-2026-1668-poc](https://github.com/tangrs/cve-2026-1668-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tangrs/cve-2026-1668-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tangrs/cve-2026-1668-poc">
+
+---
 ## CVE-2026-1657 ()
 > 
 - [Vimash-Dilsara/-CVE-2026-1657](https://github.com/Vimash-Dilsara/-CVE-2026-1657)	<img alt="forks" src="https://img.shields.io/github/forks/Vimash-Dilsara/-CVE-2026-1657">	<img alt="stars" src="https://img.shields.io/github/stars/Vimash-Dilsara/-CVE-2026-1657">
