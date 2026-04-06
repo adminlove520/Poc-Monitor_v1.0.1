@@ -5843,6 +5843,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Yafiah-Darwesh/cs50-cyber-paloalto-oauth](https://github.com/Yafiah-Darwesh/cs50-cyber-paloalto-oauth)	<img alt="forks" src="https://img.shields.io/github/forks/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">	<img alt="stars" src="https://img.shields.io/github/stars/Yafiah-Darwesh/cs50-cyber-paloalto-oauth">
 
 ---
+## CVE-2024-340 ()
+> 
+- [SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340](https://github.com/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">
+
+---
 ## CVE-2024-3393 ()
 > 
 - [FelixFoxf/-CVE-2024-3393](https://github.com/FelixFoxf/-CVE-2024-3393)	<img alt="forks" src="https://img.shields.io/github/forks/FelixFoxf/-CVE-2024-3393">	<img alt="stars" src="https://img.shields.io/github/stars/FelixFoxf/-CVE-2024-3393">

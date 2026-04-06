@@ -244,6 +244,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 ## CVE-2023-6246 (2024-01-31T14:15:00)
 > A heap-based buffer overflow was found in the __vsyslog_internal function of the glibc library. This function is called by the syslog and vsyslog functions. This issue occurs when the openlog function was not called, or called with the ident argument set to NULL, and the program name (the basename of argv[0]) is bigger than 1024 bytes, resulting in an application crash or local privilege escalation. This issue affects glibc 2.36 and newer.
 - [elpe-pinillo/CVE-2023-6246](https://github.com/elpe-pinillo/CVE-2023-6246)	<img alt="forks" src="https://img.shields.io/github/forks/elpe-pinillo/CVE-2023-6246">	<img alt="stars" src="https://img.shields.io/github/stars/elpe-pinillo/CVE-2023-6246">
+- [SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246](https://github.com/SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Vsyslog-Vortex-CVE-2023-6246">
 
 ---
 ## CVE-2023-6241 (2024-03-04T13:15:00)
@@ -6329,6 +6330,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [awchjimmy/CVE-2023-27997-tutorial](https://github.com/awchjimmy/CVE-2023-27997-tutorial)	<img alt="forks" src="https://img.shields.io/github/forks/awchjimmy/CVE-2023-27997-tutorial">	<img alt="stars" src="https://img.shields.io/github/stars/awchjimmy/CVE-2023-27997-tutorial">
 - [node011/CVE-2023-27997-POC](https://github.com/node011/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/node011/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/node011/CVE-2023-27997-POC">
 - [onurkerembozkurt/fgt-cve-2023-27997-exploit](https://github.com/onurkerembozkurt/fgt-cve-2023-27997-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/onurkerembozkurt/fgt-cve-2023-27997-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/onurkerembozkurt/fgt-cve-2023-27997-exploit">
+- [george1-adel/CVE-2023-27997](https://github.com/george1-adel/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2023-27997">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
