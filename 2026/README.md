@@ -789,6 +789,11 @@
 - [MaxMnMl/majordomo-CVE-2026-27174-poc](https://github.com/MaxMnMl/majordomo-CVE-2026-27174-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/majordomo-CVE-2026-27174-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/majordomo-CVE-2026-27174-poc">
 
 ---
+## CVE-2026-27135 ()
+> 
+- [Zmo247/nghttp2-cve-2026-27135-patch](https://github.com/Zmo247/nghttp2-cve-2026-27135-patch)	<img alt="forks" src="https://img.shields.io/github/forks/Zmo247/nghttp2-cve-2026-27135-patch">	<img alt="stars" src="https://img.shields.io/github/stars/Zmo247/nghttp2-cve-2026-27135-patch">
+
+---
 ## CVE-2026-27097 ()
 > 
 - [hacker1337itme/CVE-2026-27097](https://github.com/hacker1337itme/CVE-2026-27097)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-27097">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-27097">
