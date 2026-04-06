@@ -114,6 +114,11 @@
 - [Yucaerin/CVE-2026-3584](https://github.com/Yucaerin/CVE-2026-3584)	<img alt="forks" src="https://img.shields.io/github/forks/Yucaerin/CVE-2026-3584">	<img alt="stars" src="https://img.shields.io/github/stars/Yucaerin/CVE-2026-3584">
 
 ---
+## CVE-2026-35678 ()
+> 
+- [sharma19d/CVE-2026-35678](https://github.com/sharma19d/CVE-2026-35678)	<img alt="forks" src="https://img.shields.io/github/forks/sharma19d/CVE-2026-35678">	<img alt="stars" src="https://img.shields.io/github/stars/sharma19d/CVE-2026-35678">
+
+---
 ## CVE-2026-35616 ()
 > 
 - [0xBlackash/CVE-2026-35616](https://github.com/0xBlackash/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-35616">
