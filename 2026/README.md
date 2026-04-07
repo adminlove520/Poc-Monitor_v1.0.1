@@ -73,6 +73,11 @@
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
 
 ---
+## CVE-2026-4406 ()
+> 
+- [Hann1bl3L3ct3r/CVE-2026-4406](https://github.com/Hann1bl3L3ct3r/CVE-2026-4406)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4406">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4406">
+
+---
 ## CVE-2026-4342 ()
 > 
 - [stuartMoorhouse/CVE-2026-4342](https://github.com/stuartMoorhouse/CVE-2026-4342)	<img alt="forks" src="https://img.shields.io/github/forks/stuartMoorhouse/CVE-2026-4342">	<img alt="stars" src="https://img.shields.io/github/stars/stuartMoorhouse/CVE-2026-4342">
@@ -1596,6 +1601,11 @@
 - [rockmelodies/CVE-2026-22738](https://github.com/rockmelodies/CVE-2026-22738)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/CVE-2026-22738">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/CVE-2026-22738">
 
 ---
+## CVE-2026-22732 ()
+> 
+- [semgrep/cve-2026-22732-demo](https://github.com/semgrep/cve-2026-22732-demo)	<img alt="forks" src="https://img.shields.io/github/forks/semgrep/cve-2026-22732-demo">	<img alt="stars" src="https://img.shields.io/github/stars/semgrep/cve-2026-22732-demo">
+
+---
 ## CVE-2026-22730 ()
 > 
 - [NULL200OK/CVE-2026-22730-Scanner](https://github.com/NULL200OK/CVE-2026-22730-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/NULL200OK/CVE-2026-22730-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/NULL200OK/CVE-2026-22730-Scanner">
@@ -1895,6 +1905,7 @@
 - [EleniChristopoulou/PoC-CVE-2026-20841](https://github.com/EleniChristopoulou/PoC-CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/EleniChristopoulou/PoC-CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/EleniChristopoulou/PoC-CVE-2026-20841">
 - [404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC">
 - [hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841)	<img alt="forks" src="https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841">	<img alt="stars" src="https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841">
+- [whiskeylab/notepad_CVE_2026_20841](https://github.com/whiskeylab/notepad_CVE_2026_20841)	<img alt="forks" src="https://img.shields.io/github/forks/whiskeylab/notepad_CVE_2026_20841">	<img alt="stars" src="https://img.shields.io/github/stars/whiskeylab/notepad_CVE_2026_20841">
 
 ---
 ## CVE-2026-20833 ()
