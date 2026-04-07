@@ -152,6 +152,7 @@
 - [matesz44/CVE-2025-9074](https://github.com/matesz44/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-9074">
 - [0xmrsecurity/Public_Poc](https://github.com/0xmrsecurity/Public_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrsecurity/Public_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrsecurity/Public_Poc">
 - [rocket-panda/CVE-2025-9074](https://github.com/rocket-panda/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/rocket-panda/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/rocket-panda/CVE-2025-9074">
+- [chernandez321/CVE-2025-9074-docker-escape](https://github.com/chernandez321/CVE-2025-9074-docker-escape)	<img alt="forks" src="https://img.shields.io/github/forks/chernandez321/CVE-2025-9074-docker-escape">	<img alt="stars" src="https://img.shields.io/github/stars/chernandez321/CVE-2025-9074-docker-escape">
 
 ---
 ## CVE-2025-9043 ()
