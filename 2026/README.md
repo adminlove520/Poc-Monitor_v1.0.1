@@ -72,6 +72,11 @@
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
 
 ---
+## CVE-2026-39371 ()
+> 
+- [zebbernCVE/CVE-2026-39371](https://github.com/zebbernCVE/CVE-2026-39371)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-39371">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-39371">
+
+---
 ## CVE-2026-3891 ()
 > 
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
@@ -957,6 +962,11 @@
 > 
 - [Dulieno/CVE-2026-26012](https://github.com/Dulieno/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/Dulieno/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/Dulieno/CVE-2026-26012">
 - [diegobaelen/CVE-2026-26012](https://github.com/diegobaelen/CVE-2026-26012)	<img alt="forks" src="https://img.shields.io/github/forks/diegobaelen/CVE-2026-26012">	<img alt="stars" src="https://img.shields.io/github/stars/diegobaelen/CVE-2026-26012">
+
+---
+## CVE-2026-25994 ()
+> 
+- [VABISMO/cve-2026-25994_PJSIP](https://github.com/VABISMO/cve-2026-25994_PJSIP)	<img alt="forks" src="https://img.shields.io/github/forks/VABISMO/cve-2026-25994_PJSIP">	<img alt="stars" src="https://img.shields.io/github/stars/VABISMO/cve-2026-25994_PJSIP">
 
 ---
 ## CVE-2026-25961 ()
