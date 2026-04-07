@@ -304,7 +304,7 @@
 - [Osinskitito499/CVE-2025-8088](https://github.com/Osinskitito499/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Osinskitito499/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Osinskitito499/CVE-2025-8088">
 - [kay0te/CVE-2025-8088](https://github.com/kay0te/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kay0te/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kay0te/CVE-2025-8088">
 - [pablo388/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/pablo388/WinRAR-CVE-2025-8088-PoC-RAR)	<img alt="forks" src="https://img.shields.io/github/forks/pablo388/WinRAR-CVE-2025-8088-PoC-RAR">	<img alt="stars" src="https://img.shields.io/github/stars/pablo388/WinRAR-CVE-2025-8088-PoC-RAR">
-- [lucyna77/winrar-exploit](https://github.com/lucyna77/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lucyna77/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lucyna77/winrar-exploit">
+- [starfallreverie/winrar-exploit](https://github.com/starfallreverie/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/starfallreverie/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/starfallreverie/winrar-exploit">
 - [kyomber/CVE-2025-8088](https://github.com/kyomber/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/kyomber/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/kyomber/CVE-2025-8088">
 - [Fathi-MO/POC-CVE-2025-8088](https://github.com/Fathi-MO/POC-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Fathi-MO/POC-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Fathi-MO/POC-CVE-2025-8088">
 - [haspread/CVE-2025-8088](https://github.com/haspread/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/haspread/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/haspread/CVE-2025-8088">
@@ -3150,6 +3150,11 @@
 ## CVE-2025-56019 ()
 > 
 - [Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019](https://github.com/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Agatsa-EasyTouch-Plus---CVE-2025-56019">
+
+---
+## CVE-2025-56015 ()
+> 
+- [e1st/CVE-2025-56015](https://github.com/e1st/CVE-2025-56015)	<img alt="forks" src="https://img.shields.io/github/forks/e1st/CVE-2025-56015">	<img alt="stars" src="https://img.shields.io/github/stars/e1st/CVE-2025-56015">
 
 ---
 ## CVE-2025-56005 ()
