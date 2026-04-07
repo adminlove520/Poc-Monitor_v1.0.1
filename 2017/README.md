@@ -1972,6 +1972,11 @@
 - [Live-Hack-CVE/CVE-2017-11591](https://github.com/Live-Hack-CVE/CVE-2017-11591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11591">
 
 ---
+## CVE-2017-11499 ()
+> 
+- [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2017-11499">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2017-11499">
+
+---
 ## CVE-2017-11358 (2017-07-31T13:29:00)
 > The read_samples function in hcom.c in Sound eXchange (SoX) 14.4.2 allows remote attackers to cause a denial of service (invalid memory read and application crash) via a crafted hcom file.
 - [Live-Hack-CVE/CVE-2017-11358](https://github.com/Live-Hack-CVE/CVE-2017-11358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11358">
