@@ -1509,6 +1509,11 @@
 - [epsilonpoint88-glitch/EpSiLoNPoInT-](https://github.com/epsilonpoint88-glitch/EpSiLoNPoInT-)	<img alt="forks" src="https://img.shields.io/github/forks/epsilonpoint88-glitch/EpSiLoNPoInT-">	<img alt="stars" src="https://img.shields.io/github/stars/epsilonpoint88-glitch/EpSiLoNPoInT-">
 
 ---
+## CVE-2026-23524 ()
+> 
+- [rockmelodies/CVE-2026-23524](https://github.com/rockmelodies/CVE-2026-23524)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/CVE-2026-23524">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/CVE-2026-23524">
+
+---
 ## CVE-2026-23520 ()
 > 
 - [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">

@@ -333,6 +333,7 @@
 - [undefined-name12/CVE-2025-8088-Winrar](https://github.com/undefined-name12/CVE-2025-8088-Winrar)	<img alt="forks" src="https://img.shields.io/github/forks/undefined-name12/CVE-2025-8088-Winrar">	<img alt="stars" src="https://img.shields.io/github/stars/undefined-name12/CVE-2025-8088-Winrar">
 - [Jessica74016/CVE-2025-8088](https://github.com/Jessica74016/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/Jessica74016/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/Jessica74016/CVE-2025-8088">
 - [lennertdefauw/CVE-2025-8088](https://github.com/lennertdefauw/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/lennertdefauw/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/lennertdefauw/CVE-2025-8088">
+- [shaheeryasirofficial/WINRAR-CVE-2025-8088](https://github.com/shaheeryasirofficial/WINRAR-CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shaheeryasirofficial/WINRAR-CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shaheeryasirofficial/WINRAR-CVE-2025-8088">
 
 ---
 ## CVE-2025-8081 ()
