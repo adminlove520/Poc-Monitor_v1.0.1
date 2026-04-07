@@ -858,6 +858,11 @@
 - [hacker1337itme/CVE-2026-27097](https://github.com/hacker1337itme/CVE-2026-27097)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-27097">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-27097">
 
 ---
+## CVE-2026-2699 ()
+> 
+- [0xBlackash/CVE-2026-2699](https://github.com/0xBlackash/CVE-2026-2699)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-2699">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-2699">
+
+---
 ## CVE-2026-26988 ()
 > 
 - [mbanyamer/CVE-2026-26988-LibreNMS-SQLi](https://github.com/mbanyamer/CVE-2026-26988-LibreNMS-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-26988-LibreNMS-SQLi">
