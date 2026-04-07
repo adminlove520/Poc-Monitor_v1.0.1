@@ -4111,10 +4111,11 @@
 - [lizhianyuguangming/TomcatScanPro](https://github.com/lizhianyuguangming/TomcatScanPro)	<img alt="forks" src="https://img.shields.io/github/forks/lizhianyuguangming/TomcatScanPro">	<img alt="stars" src="https://img.shields.io/github/stars/lizhianyuguangming/TomcatScanPro">
 - [s3nd3rjz/poc-CVE-2020-1938](https://github.com/s3nd3rjz/poc-CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/s3nd3rjz/poc-CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/s3nd3rjz/poc-CVE-2020-1938">
 - [aib0litt/poc-CVE-2020-1938](https://github.com/aib0litt/poc-CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/aib0litt/poc-CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/aib0litt/poc-CVE-2020-1938">
-- [WHtig3r/CVE-2020-1938](https://github.com/WHtig3r/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/WHtig3r/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/WHtig3r/CVE-2020-1938">
+- [RedTeam-Rediron/CVE-2020-1938](https://github.com/RedTeam-Rediron/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeam-Rediron/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeam-Rediron/CVE-2020-1938">
 - [hopsypopsy8/CVE-2020-1938-Exploitation](https://github.com/hopsypopsy8/CVE-2020-1938-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hopsypopsy8/CVE-2020-1938-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hopsypopsy8/CVE-2020-1938-Exploitation">
 - [abrewer251/CVE-2020-1938_Ghostcat-PoC](https://github.com/abrewer251/CVE-2020-1938_Ghostcat-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2020-1938_Ghostcat-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2020-1938_Ghostcat-PoC">
 - [Joshua8821/CNVD](https://github.com/Joshua8821/CNVD)	<img alt="forks" src="https://img.shields.io/github/forks/Joshua8821/CNVD">	<img alt="stars" src="https://img.shields.io/github/stars/Joshua8821/CNVD">
+- [With-fate/CVE-2020-1938](https://github.com/With-fate/CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/With-fate/CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/With-fate/CVE-2020-1938">
 
 ---
 ## CVE-2020-19360 (2021-01-20T01:15:00)

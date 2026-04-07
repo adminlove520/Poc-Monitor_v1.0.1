@@ -1278,6 +1278,7 @@
 - [v3cn4x00/POC-CVE-2025-66034](https://github.com/v3cn4x00/POC-CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/v3cn4x00/POC-CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/v3cn4x00/POC-CVE-2025-66034">
 - [4nuxd/CVE-2025-66034](https://github.com/4nuxd/CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2025-66034">
 - [tristanqtn/CVE-2025-66034](https://github.com/tristanqtn/CVE-2025-66034)	<img alt="forks" src="https://img.shields.io/github/forks/tristanqtn/CVE-2025-66034">	<img alt="stars" src="https://img.shields.io/github/stars/tristanqtn/CVE-2025-66034">
+- [jwsly12/CVE-2025-66034-htb-ctf](https://github.com/jwsly12/CVE-2025-66034-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2025-66034-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2025-66034-htb-ctf">
 
 ---
 ## CVE-2025-66022 ()
@@ -9627,6 +9628,7 @@
 - [guiimoraes/CVE-2025-15467](https://github.com/guiimoraes/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2025-15467">
 - [mr-r3b00t/CVE-2025-15467](https://github.com/mr-r3b00t/CVE-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2025-15467">
 - [materaj2/cve-2025-15467](https://github.com/materaj2/cve-2025-15467)	<img alt="forks" src="https://img.shields.io/github/forks/materaj2/cve-2025-15467">	<img alt="stars" src="https://img.shields.io/github/stars/materaj2/cve-2025-15467">
+- [WostGit/cve-2025-15467-crash](https://github.com/WostGit/cve-2025-15467-crash)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/cve-2025-15467-crash">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/cve-2025-15467-crash">
 
 ---
 ## CVE-2025-15406 ()
