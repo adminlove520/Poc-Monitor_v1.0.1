@@ -187,6 +187,7 @@
 ## CVE-2026-34156 ()
 > 
 - [0xBlackash/CVE-2026-34156](https://github.com/0xBlackash/CVE-2026-34156)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34156">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34156">
+- [franckboumendil/CVE-2026-34156](https://github.com/franckboumendil/CVE-2026-34156)	<img alt="forks" src="https://img.shields.io/github/forks/franckboumendil/CVE-2026-34156">	<img alt="stars" src="https://img.shields.io/github/stars/franckboumendil/CVE-2026-34156">
 
 ---
 ## CVE-2026-34070 ()

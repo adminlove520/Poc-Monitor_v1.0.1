@@ -630,6 +630,11 @@
 - [SNISS/CVE-2025-69516](https://github.com/SNISS/CVE-2025-69516)	<img alt="forks" src="https://img.shields.io/github/forks/SNISS/CVE-2025-69516">	<img alt="stars" src="https://img.shields.io/github/stars/SNISS/CVE-2025-69516">
 
 ---
+## CVE-2025-69515 ()
+> 
+- [thorat-shubham/JXL_Infotainment_CVE-2025-69515](https://github.com/thorat-shubham/JXL_Infotainment_CVE-2025-69515)	<img alt="forks" src="https://img.shields.io/github/forks/thorat-shubham/JXL_Infotainment_CVE-2025-69515">	<img alt="stars" src="https://img.shields.io/github/stars/thorat-shubham/JXL_Infotainment_CVE-2025-69515">
+
+---
 ## CVE-2025-69460 ()
 > 
 - [Tagoletta/CVE-2025-69460](https://github.com/Tagoletta/CVE-2025-69460)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69460">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69460">
@@ -5404,6 +5409,7 @@
 - [vignesh21-git/CVE-2025-48384](https://github.com/vignesh21-git/CVE-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/vignesh21-git/CVE-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/vignesh21-git/CVE-2025-48384">
 - [anthonyc53/cve-2025-48384](https://github.com/anthonyc53/cve-2025-48384)	<img alt="forks" src="https://img.shields.io/github/forks/anthonyc53/cve-2025-48384">	<img alt="stars" src="https://img.shields.io/github/stars/anthonyc53/cve-2025-48384">
 - [DayDayDayDreaming/backup-exec-cve-48384](https://github.com/DayDayDayDreaming/backup-exec-cve-48384)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-cve-48384">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-cve-48384">
+- [sathish46-lab/CVE-2025-48384-submodule](https://github.com/sathish46-lab/CVE-2025-48384-submodule)	<img alt="forks" src="https://img.shields.io/github/forks/sathish46-lab/CVE-2025-48384-submodule">	<img alt="stars" src="https://img.shields.io/github/stars/sathish46-lab/CVE-2025-48384-submodule">
 
 ---
 ## CVE-2025-4822 ()
