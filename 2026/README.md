@@ -368,6 +368,7 @@
 ## CVE-2026-3288 ()
 > 
 - [SnailSploit/CVE-2026-3288](https://github.com/SnailSploit/CVE-2026-3288)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-3288">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-3288">
+- [bvabhishek/CVE-2026-3288-lab](https://github.com/bvabhishek/CVE-2026-3288-lab)	<img alt="forks" src="https://img.shields.io/github/forks/bvabhishek/CVE-2026-3288-lab">	<img alt="stars" src="https://img.shields.io/github/stars/bvabhishek/CVE-2026-3288-lab">
 
 ---
 ## CVE-2026-32809 ()
@@ -1458,6 +1459,11 @@
 ## CVE-2026-24009 ()
 > 
 - [BiranPeretz/docling-core-CVE-2026-24009](https://github.com/BiranPeretz/docling-core-CVE-2026-24009)	<img alt="forks" src="https://img.shields.io/github/forks/BiranPeretz/docling-core-CVE-2026-24009">	<img alt="stars" src="https://img.shields.io/github/stars/BiranPeretz/docling-core-CVE-2026-24009">
+
+---
+## CVE-2026-23980 ()
+> 
+- [oscarmine/CVE-2026-23980-Exploit](https://github.com/oscarmine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-23980-Exploit">
 
 ---
 ## CVE-2026-2395 ()
