@@ -224,6 +224,7 @@
 > 
 - [0xBlackash/CVE-2026-34197](https://github.com/0xBlackash/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34197">
 - [dinosn/CVE-2026-34197](https://github.com/dinosn/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-34197">
+- [DEVSECURITYSPRO/CVE-2026-34197](https://github.com/DEVSECURITYSPRO/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/DEVSECURITYSPRO/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/DEVSECURITYSPRO/CVE-2026-34197">
 
 ---
 ## CVE-2026-34156 ()
