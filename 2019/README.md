@@ -3473,6 +3473,7 @@ use after free.
 - [EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin)	<img alt="forks" src="https://img.shields.io/github/forks/EdouardosStav/CVE-2019-15107-RCE-WebMin">	<img alt="stars" src="https://img.shields.io/github/stars/EdouardosStav/CVE-2019-15107-RCE-WebMin">
 - [bayazid-bit/CVE-2019-15107](https://github.com/bayazid-bit/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/bayazid-bit/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/bayazid-bit/CVE-2019-15107">
 - [ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability">
+- [adampawelczyk/CVE-2019-15107](https://github.com/adampawelczyk/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/CVE-2019-15107">
 
 ---
 ## CVE-2019-15023 (2019-10-09T21:15:00)
