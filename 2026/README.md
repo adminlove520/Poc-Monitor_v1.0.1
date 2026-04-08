@@ -780,6 +780,7 @@
 ## CVE-2026-27739 ()
 > 
 - [bankerke/-CVE-2026-27739-poc](https://github.com/bankerke/-CVE-2026-27739-poc)	<img alt="forks" src="https://img.shields.io/github/forks/bankerke/-CVE-2026-27739-poc">	<img alt="stars" src="https://img.shields.io/github/stars/bankerke/-CVE-2026-27739-poc">
+- [mr-redoo7/CVE-2026-27739-POC](https://github.com/mr-redoo7/CVE-2026-27739-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mr-redoo7/CVE-2026-27739-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mr-redoo7/CVE-2026-27739-POC">
 
 ---
 ## CVE-2026-27654 ()
