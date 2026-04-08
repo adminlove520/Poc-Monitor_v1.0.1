@@ -5775,6 +5775,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258](https://github.com/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258)	<img alt="forks" src="https://img.shields.io/github/forks/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">	<img alt="stars" src="https://img.shields.io/github/stars/kayl22/magnus_billing_7.3.0_RCE_CVE-2023-30258">
 - [CankunWang/Tryhackme_Billing](https://github.com/CankunWang/Tryhackme_Billing)	<img alt="forks" src="https://img.shields.io/github/forks/CankunWang/Tryhackme_Billing">	<img alt="stars" src="https://img.shields.io/github/stars/CankunWang/Tryhackme_Billing">
 - [estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC](https://github.com/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2023-30258-Magnus-Billing-v7-Command-Injection-PoC">
+- [cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit](https://github.com/cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rk0ala/THM-MagnusBilling-CVE-2023-30258-Exploit">
 
 ---
 ## CVE-2023-30256 (2023-05-11T11:15:00)
