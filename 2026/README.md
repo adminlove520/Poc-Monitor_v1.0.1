@@ -210,6 +210,11 @@
 - [0xmrma/CVE-2026-34828](https://github.com/0xmrma/CVE-2026-34828)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-34828">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-34828">
 
 ---
+## CVE-2026-34724 ()
+> 
+- [0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724">
+
+---
 ## CVE-2026-34444 ()
 > 
 - [redyank/CVE-2026-34444](https://github.com/redyank/CVE-2026-34444)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-34444">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-34444">
