@@ -169,6 +169,7 @@
 - [Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2014-6271-Shellshock">
 - [0xAshwesker/CVE-2014-6271](https://github.com/0xAshwesker/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2014-6271">
 - [kaleth4/-CVE-2014-6271](https://github.com/kaleth4/-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/-CVE-2014-6271">
+- [kaleth4/CVE-2014-6271](https://github.com/kaleth4/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)

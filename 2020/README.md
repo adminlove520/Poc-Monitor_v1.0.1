@@ -5789,6 +5789,11 @@
 - [Live-Hack-CVE/CVE-2020-12460](https://github.com/Live-Hack-CVE/CVE-2020-12460)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12460">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12460">
 
 ---
+## CVE-2020-12446 ()
+> 
+- [enessakircolak/CVE-2020-12446](https://github.com/enessakircolak/CVE-2020-12446)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2020-12446">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2020-12446">
+
+---
 ## CVE-2020-12424 (2020-07-09T14:15:00)
 > When constructing a permission prompt for WebRTC, a URI was supplied from the content process. This URI was untrusted, and could have been the URI of an origin that was previously granted permission; bypassing the prompt. This vulnerability affects Firefox < 78.
 - [Live-Hack-CVE/CVE-2020-12424](https://github.com/Live-Hack-CVE/CVE-2020-12424)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-12424">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-12424">

@@ -1806,6 +1806,7 @@
 - [0xAshwesker/CVE-2026-21858](https://github.com/0xAshwesker/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2026-21858">
 - [bamov970/CVE-2026-21858](https://github.com/bamov970/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-21858">
 - [Yati2/Ni8mare-CVE-2026-21858](https://github.com/Yati2/Ni8mare-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Yati2/Ni8mare-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Yati2/Ni8mare-CVE-2026-21858">
+- [kaleth4/CVE-2026-21858](https://github.com/kaleth4/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21858">
 
 ---
 ## CVE-2026-21852 ()
