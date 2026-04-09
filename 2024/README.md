@@ -6643,6 +6643,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [extracoding-dozen/CVE-2024-3094](https://github.com/extracoding-dozen/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/extracoding-dozen/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/extracoding-dozen/CVE-2024-3094">
 - [ElinaNotElina/cve-2024-3094-analysis](https://github.com/ElinaNotElina/cve-2024-3094-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ElinaNotElina/cve-2024-3094-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ElinaNotElina/cve-2024-3094-analysis">
 - [greydoubt/xz](https://github.com/greydoubt/xz)	<img alt="forks" src="https://img.shields.io/github/forks/greydoubt/xz">	<img alt="stars" src="https://img.shields.io/github/stars/greydoubt/xz">
+- [h3raklez/CVE-2024-3094](https://github.com/h3raklez/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2024-3094">
 
 ---
 ## CVE-2024-30937 ()

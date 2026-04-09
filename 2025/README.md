@@ -2314,6 +2314,7 @@
 ## CVE-2025-60709 ()
 > 
 - [ByteCodeSecure/CVE-2025-60709](https://github.com/ByteCodeSecure/CVE-2025-60709)	<img alt="forks" src="https://img.shields.io/github/forks/ByteCodeSecure/CVE-2025-60709">	<img alt="stars" src="https://img.shields.io/github/stars/ByteCodeSecure/CVE-2025-60709">
+- [KONDORDEVSECURITYCORP/CVE-2025-60709](https://github.com/KONDORDEVSECURITYCORP/CVE-2025-60709)	<img alt="forks" src="https://img.shields.io/github/forks/KONDORDEVSECURITYCORP/CVE-2025-60709">	<img alt="stars" src="https://img.shields.io/github/stars/KONDORDEVSECURITYCORP/CVE-2025-60709">
 
 ---
 ## CVE-2025-60656 ()

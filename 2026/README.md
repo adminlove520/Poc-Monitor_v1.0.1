@@ -512,6 +512,11 @@
 - [louissanchez-vokecyber/CVE-2026-31790](https://github.com/louissanchez-vokecyber/CVE-2026-31790)	<img alt="forks" src="https://img.shields.io/github/forks/louissanchez-vokecyber/CVE-2026-31790">	<img alt="stars" src="https://img.shields.io/github/stars/louissanchez-vokecyber/CVE-2026-31790">
 
 ---
+## CVE-2026-31402 ()
+> 
+- [0xBlackash/CVE-2026-31402](https://github.com/0xBlackash/CVE-2026-31402)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31402">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31402">
+
+---
 ## CVE-2026-3098 ()
 > 
 - [George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098](https://github.com/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/LLM-Jailbreak-via-Chain-of-Logic-Injection-CVE-2026-3098">
