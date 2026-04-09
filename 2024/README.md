@@ -7674,6 +7674,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27766 (2024-10-17T22:15:00)
 > An issue in MYSQL MariaDB v.11.1 allows a remote attacker to execute arbitrary code via the lib_mysqludf_sys.so function.
 - [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-27766">
+- [y0un9eee/CVE-2024-27766](https://github.com/y0un9eee/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/y0un9eee/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/y0un9eee/CVE-2024-27766">
 
 ---
 ## CVE-2024-2771 ()
