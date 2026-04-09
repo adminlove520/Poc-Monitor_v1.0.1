@@ -235,6 +235,7 @@
 - [0xBlackash/CVE-2026-34197](https://github.com/0xBlackash/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-34197">
 - [dinosn/CVE-2026-34197](https://github.com/dinosn/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-34197">
 - [DEVSECURITYSPRO/CVE-2026-34197](https://github.com/DEVSECURITYSPRO/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/DEVSECURITYSPRO/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/DEVSECURITYSPRO/CVE-2026-34197">
+- [AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE](https://github.com/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">
 
 ---
 ## CVE-2026-34156 ()
@@ -773,6 +774,11 @@
 ## CVE-2026-27966 ()
 > 
 - [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
+
+---
+## CVE-2026-2796 ()
+> 
+- [WostGit/CVE-2026-2796](https://github.com/WostGit/CVE-2026-2796)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/CVE-2026-2796">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/CVE-2026-2796">
 
 ---
 ## CVE-2026-27959 ()
