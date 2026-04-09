@@ -645,6 +645,11 @@
 - [Stalin-143/CVE-2026-29905](https://github.com/Stalin-143/CVE-2026-29905)	<img alt="forks" src="https://img.shields.io/github/forks/Stalin-143/CVE-2026-29905">	<img alt="stars" src="https://img.shields.io/github/stars/Stalin-143/CVE-2026-29905">
 
 ---
+## CVE-2026-29861 ()
+> 
+- [amanyadav78/CVE-2026-29861](https://github.com/amanyadav78/CVE-2026-29861)	<img alt="forks" src="https://img.shields.io/github/forks/amanyadav78/CVE-2026-29861">	<img alt="stars" src="https://img.shields.io/github/stars/amanyadav78/CVE-2026-29861">
+
+---
 ## CVE-2026-29786 ()
 > 
 - [Jvr2022/CVE-2026-29786](https://github.com/Jvr2022/CVE-2026-29786)	<img alt="forks" src="https://img.shields.io/github/forks/Jvr2022/CVE-2026-29786">	<img alt="stars" src="https://img.shields.io/github/stars/Jvr2022/CVE-2026-29786">
@@ -2119,6 +2124,7 @@
 ## CVE-2026-1657 ()
 > 
 - [Vimash-Dilsara/-CVE-2026-1657](https://github.com/Vimash-Dilsara/-CVE-2026-1657)	<img alt="forks" src="https://img.shields.io/github/forks/Vimash-Dilsara/-CVE-2026-1657">	<img alt="stars" src="https://img.shields.io/github/stars/Vimash-Dilsara/-CVE-2026-1657">
+- [d3kc4rt1/CVE-2026-1657](https://github.com/d3kc4rt1/CVE-2026-1657)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1657">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1657">
 
 ---
 ## CVE-2026-1581 ()
@@ -2179,6 +2185,11 @@
 ## CVE-2026-1405 ()
 > 
 - [Nxploited/CVE-2026-1405](https://github.com/Nxploited/CVE-2026-1405)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1405">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1405">
+
+---
+## CVE-2026-1375 ()
+> 
+- [d3kc4rt1/CVE-2026-1375](https://github.com/d3kc4rt1/CVE-2026-1375)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2026-1375">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2026-1375">
 
 ---
 ## CVE-2026-1357 ()

@@ -5169,6 +5169,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-33177 ()
 > 
 - [complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177](https://github.com/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177)	<img alt="forks" src="https://img.shields.io/github/forks/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177">	<img alt="stars" src="https://img.shields.io/github/stars/complexusprada/Xibo-CMS-Zip-Slip-RCE-Exploit-CVE-2023-33177">
+- [kaxm23/-CVE-2023-33177-](https://github.com/kaxm23/-CVE-2023-33177-)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/-CVE-2023-33177-">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/-CVE-2023-33177-">
 
 ---
 ## CVE-2023-33160 (2023-07-11T18:15:00)
