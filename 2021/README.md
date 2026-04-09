@@ -526,6 +526,11 @@
 - [Live-Hack-CVE/CVE-2021-45027](https://github.com/Live-Hack-CVE/CVE-2021-45027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45027">
 
 ---
+## CVE-2021-45026 ()
+> 
+- [JetP1ane/Zena-CVE-2021-45026](https://github.com/JetP1ane/Zena-CVE-2021-45026)	<img alt="forks" src="https://img.shields.io/github/forks/JetP1ane/Zena-CVE-2021-45026">	<img alt="stars" src="https://img.shields.io/github/stars/JetP1ane/Zena-CVE-2021-45026">
+
+---
 ## CVE-2021-45010 (2022-03-15T12:15:00)
 > A path traversal vulnerability in the file upload functionality in tinyfilemanager.php in Tiny File Manager before 2.4.7 allows remote attackers (with valid user accounts) to upload malicious PHP files to the webroot, leading to code execution.
 - [BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)	<img alt="forks" src="https://img.shields.io/github/forks/BKreisel/CVE-2021-45010">	<img alt="stars" src="https://img.shields.io/github/stars/BKreisel/CVE-2021-45010">
