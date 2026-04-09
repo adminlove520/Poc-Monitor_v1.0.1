@@ -901,6 +901,7 @@
 ## CVE-2026-2699 ()
 > 
 - [0xBlackash/CVE-2026-2699](https://github.com/0xBlackash/CVE-2026-2699)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-2699">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-2699">
+- [watchtowrlabs/watchTowr-vs-Progress-ShareFile-CVE-2026-2699](https://github.com/watchtowrlabs/watchTowr-vs-Progress-ShareFile-CVE-2026-2699)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Progress-ShareFile-CVE-2026-2699">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Progress-ShareFile-CVE-2026-2699">
 
 ---
 ## CVE-2026-26988 ()
