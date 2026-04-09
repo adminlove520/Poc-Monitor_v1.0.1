@@ -9654,6 +9654,11 @@
 - [ahmedreda38/CVE-2025-15276-poc](https://github.com/ahmedreda38/CVE-2025-15276-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedreda38/CVE-2025-15276-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedreda38/CVE-2025-15276-poc">
 
 ---
+## CVE-2025-15260 ()
+> 
+- [d3kc4rt1/CVE-2025-15260](https://github.com/d3kc4rt1/CVE-2025-15260)	<img alt="forks" src="https://img.shields.io/github/forks/d3kc4rt1/CVE-2025-15260">	<img alt="stars" src="https://img.shields.io/github/stars/d3kc4rt1/CVE-2025-15260">
+
+---
 ## CVE-2025-15177 ()
 > 
 - [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
