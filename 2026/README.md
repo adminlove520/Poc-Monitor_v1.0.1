@@ -779,6 +779,8 @@
 ## CVE-2026-2796 ()
 > 
 - [WostGit/CVE-2026-2796](https://github.com/WostGit/CVE-2026-2796)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/CVE-2026-2796">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/CVE-2026-2796">
+- [WostGit/cve-2026-2796-repro](https://github.com/WostGit/cve-2026-2796-repro)	<img alt="forks" src="https://img.shields.io/github/forks/WostGit/cve-2026-2796-repro">	<img alt="stars" src="https://img.shields.io/github/stars/WostGit/cve-2026-2796-repro">
+- [Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow](https://github.com/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow)	<img alt="forks" src="https://img.shields.io/github/forks/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">	<img alt="stars" src="https://img.shields.io/github/stars/Anon-Cyber-Team/CVE-2026-27966--RCE-in-Langflow">
 
 ---
 ## CVE-2026-27959 ()
