@@ -3316,6 +3316,7 @@
 - [fcamargo13/Analisis_CVE-2025-5548-](https://github.com/fcamargo13/Analisis_CVE-2025-5548-)	<img alt="forks" src="https://img.shields.io/github/forks/fcamargo13/Analisis_CVE-2025-5548-">	<img alt="stars" src="https://img.shields.io/github/stars/fcamargo13/Analisis_CVE-2025-5548-">
 - [greycat-amc/CVE-2025-5548-FreeFloatFTP](https://github.com/greycat-amc/CVE-2025-5548-FreeFloatFTP)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548-FreeFloatFTP">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548-FreeFloatFTP">
 - [greycat-amc/CVE-2025-5548](https://github.com/greycat-amc/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548">
+- [CryptoMachio/CVE-2025-5548](https://github.com/CryptoMachio/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/CryptoMachio/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/CryptoMachio/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -3968,6 +3969,7 @@
 - [hexsh1dow/CVE-2025-55182](https://github.com/hexsh1dow/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hexsh1dow/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hexsh1dow/CVE-2025-55182">
 - [masterwok/CVE-2025-55182-React2Shell-PoC](https://github.com/masterwok/CVE-2025-55182-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2025-55182-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2025-55182-React2Shell-PoC">
 - [kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner">
+- [kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner">
 
 ---
 ## CVE-2025-55130 ()
