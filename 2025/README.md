@@ -4094,6 +4094,11 @@
 - [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/limmmw/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/limmmw/CVE-2025-54352">
 
 ---
+## CVE-2025-54328 ()
+> 
+- [Hunt-Benito/samsung-exynos-sms-stack-overflow-cve-2025-54328-critical-zero-click-baseband-rce](https://github.com/Hunt-Benito/samsung-exynos-sms-stack-overflow-cve-2025-54328-critical-zero-click-baseband-rce)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/samsung-exynos-sms-stack-overflow-cve-2025-54328-critical-zero-click-baseband-rce">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/samsung-exynos-sms-stack-overflow-cve-2025-54328-critical-zero-click-baseband-rce">
+
+---
 ## CVE-2025-54322 ()
 > 
 - [Sachinart/CVE-2025-54322](https://github.com/Sachinart/CVE-2025-54322)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2025-54322">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2025-54322">
