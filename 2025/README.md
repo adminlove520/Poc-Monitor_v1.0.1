@@ -3967,6 +3967,7 @@
 - [porsellaj/cve-2025-55182-react2shell-analysis](https://github.com/porsellaj/cve-2025-55182-react2shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/porsellaj/cve-2025-55182-react2shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/porsellaj/cve-2025-55182-react2shell-analysis">
 - [hexsh1dow/CVE-2025-55182](https://github.com/hexsh1dow/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hexsh1dow/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hexsh1dow/CVE-2025-55182">
 - [masterwok/CVE-2025-55182-React2Shell-PoC](https://github.com/masterwok/CVE-2025-55182-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2025-55182-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2025-55182-React2Shell-PoC">
+- [kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner">
 
 ---
 ## CVE-2025-55130 ()
