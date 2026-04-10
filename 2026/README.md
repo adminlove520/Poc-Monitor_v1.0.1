@@ -745,6 +745,7 @@
 - [ClayOfGilgamesh/CVE-2026-29000](https://github.com/ClayOfGilgamesh/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/ClayOfGilgamesh/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/ClayOfGilgamesh/CVE-2026-29000">
 - [0xW1LD/CVE-2026-29000](https://github.com/0xW1LD/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/0xW1LD/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/0xW1LD/CVE-2026-29000">
 - [yasirr10/CVE-2026-29000](https://github.com/yasirr10/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/yasirr10/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/yasirr10/CVE-2026-29000">
+- [Gajraj238/CVE-2026-29000](https://github.com/Gajraj238/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/Gajraj238/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/Gajraj238/CVE-2026-29000">
 
 ---
 ## CVE-2026-2898 ()
@@ -1554,6 +1555,11 @@
 - [TheDeepOpc/CVE-2026-23885](https://github.com/TheDeepOpc/CVE-2026-23885)	<img alt="forks" src="https://img.shields.io/github/forks/TheDeepOpc/CVE-2026-23885">	<img alt="stars" src="https://img.shields.io/github/stars/TheDeepOpc/CVE-2026-23885">
 
 ---
+## CVE-2026-23869 ()
+> 
+- [yohannslm/CVE-2026-23869](https://github.com/yohannslm/CVE-2026-23869)	<img alt="forks" src="https://img.shields.io/github/forks/yohannslm/CVE-2026-23869">	<img alt="stars" src="https://img.shields.io/github/stars/yohannslm/CVE-2026-23869">
+
+---
 ## CVE-2026-23842 ()
 > 
 - [AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10](https://github.com/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10)	<img alt="forks" src="https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">	<img alt="stars" src="https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2026-23842-Denial-of-Service-via-Database-Connection-Pool-Exhaustion-version-1.2.10">
@@ -1599,6 +1605,7 @@
 - [d3vn0mi/CVE-2026-23744-POC](https://github.com/d3vn0mi/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-23744-POC">
 - [d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX](https://github.com/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2026-23744-HACKTHEBOX">
 - [CyLock11/CVE-2026-23744](https://github.com/CyLock11/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/CyLock11/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/CyLock11/CVE-2026-23744">
+- [luiskrnr/exploit-CVE-2026-23744](https://github.com/luiskrnr/exploit-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/exploit-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/exploit-CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
