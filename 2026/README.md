@@ -129,6 +129,11 @@
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
 
 ---
+## CVE-2026-3909 ()
+> 
+- [anansi2safe/CVE-2026-3909](https://github.com/anansi2safe/CVE-2026-3909)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-3909">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-3909">
+
+---
 ## CVE-2026-3891 ()
 > 
 - [joshuavanderpoll/CVE-2026-3891](https://github.com/joshuavanderpoll/CVE-2026-3891)	<img alt="forks" src="https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-3891">	<img alt="stars" src="https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-3891">
@@ -183,6 +188,11 @@
 - [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 - [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
 - [BishopFox/CVE-2026-35616-check](https://github.com/BishopFox/CVE-2026-35616-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-35616-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-35616-check">
+
+---
+## CVE-2026-35584 ()
+> 
+- [LeonardoNovais7/CVE-2026-35584](https://github.com/LeonardoNovais7/CVE-2026-35584)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/CVE-2026-35584">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/CVE-2026-35584">
 
 ---
 ## CVE-2026-35570 ()
