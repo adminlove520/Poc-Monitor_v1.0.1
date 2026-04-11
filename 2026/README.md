@@ -1705,6 +1705,11 @@
 - [cypher-21/CVE-2026-23520](https://github.com/cypher-21/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/cypher-21/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/cypher-21/CVE-2026-23520">
 
 ---
+## CVE-2026-23500 ()
+> 
+- [lukasz-rybak/CVE-2026-23500](https://github.com/lukasz-rybak/CVE-2026-23500)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23500">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23500">
+
+---
 ## CVE-2026-23499 ()
 > 
 - [lukasz-rybak/CVE-2026-23499](https://github.com/lukasz-rybak/CVE-2026-23499)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-23499">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-23499">
