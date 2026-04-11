@@ -1414,6 +1414,11 @@
 - [NetVanguard-cmd/CVE-2026-2441](https://github.com/NetVanguard-cmd/CVE-2026-2441)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-2441">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-2441">
 - [D3b0j33t/CVE-2026-2441-PoC](https://github.com/D3b0j33t/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/D3b0j33t/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/D3b0j33t/CVE-2026-2441-PoC">
 - [fartlover37/CVE-2026-2441-PoC](https://github.com/fartlover37/CVE-2026-2441-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fartlover37/CVE-2026-2441-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fartlover37/CVE-2026-2441-PoC">
+- [lukasz-rybak/CVE-2026-24415](https://github.com/lukasz-rybak/CVE-2026-24415)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24415">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24415">
+- [lukasz-rybak/CVE-2026-24419](https://github.com/lukasz-rybak/CVE-2026-24419)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24419">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24419">
+- [lukasz-rybak/CVE-2026-24418](https://github.com/lukasz-rybak/CVE-2026-24418)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24418">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24418">
+- [lukasz-rybak/CVE-2026-24417](https://github.com/lukasz-rybak/CVE-2026-24417)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24417">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24417">
+- [lukasz-rybak/CVE-2026-24416](https://github.com/lukasz-rybak/CVE-2026-24416)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-24416">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-24416">
 
 ---
 ## CVE-2026-24306 ()
