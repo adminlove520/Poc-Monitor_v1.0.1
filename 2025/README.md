@@ -3970,6 +3970,7 @@
 - [masterwok/CVE-2025-55182-React2Shell-PoC](https://github.com/masterwok/CVE-2025-55182-React2Shell-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2025-55182-React2Shell-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2025-55182-React2Shell-PoC">
 - [kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner">
 - [kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner">
+- [RewantChaudhari/nextjs-rce-incident-response](https://github.com/RewantChaudhari/nextjs-rce-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/RewantChaudhari/nextjs-rce-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/RewantChaudhari/nextjs-rce-incident-response">
 
 ---
 ## CVE-2025-55130 ()
