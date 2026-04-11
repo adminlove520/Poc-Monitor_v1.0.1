@@ -517,6 +517,7 @@
 > 
 - [Batosay1337Lab/CVE-2026-31900](https://github.com/Batosay1337Lab/CVE-2026-31900)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/CVE-2026-31900">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/CVE-2026-31900">
 - [Batosay1337Lab/CVE-2026-31900](https://github.com/Batosay1337Lab/CVE-2026-31900)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/CVE-2026-31900">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/CVE-2026-31900">
+- [Batosay1337Lab/cve-2026-31900-lab](https://github.com/Batosay1337Lab/cve-2026-31900-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Batosay1337Lab/cve-2026-31900-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Batosay1337Lab/cve-2026-31900-lab">
 
 ---
 ## CVE-2026-31899 ()
