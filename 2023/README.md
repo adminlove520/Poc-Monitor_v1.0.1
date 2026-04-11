@@ -1184,6 +1184,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [shacojx/CVE-2023-4911-Exploit](https://github.com/shacojx/CVE-2023-4911-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shacojx/CVE-2023-4911-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shacojx/CVE-2023-4911-Exploit">
 - [KillReal01/CVE-2023-4911](https://github.com/KillReal01/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/KillReal01/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/KillReal01/CVE-2023-4911">
 - [Aryan20057/CVE-2023-4911](https://github.com/Aryan20057/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Aryan20057/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Aryan20057/CVE-2023-4911">
+- [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
 
 ---
 ## CVE-2023-49109 ()
