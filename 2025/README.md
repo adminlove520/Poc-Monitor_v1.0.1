@@ -685,6 +685,31 @@
 - [ahmetartuc/poc-cve-2025-69219](https://github.com/ahmetartuc/poc-cve-2025-69219)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetartuc/poc-cve-2025-69219">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetartuc/poc-cve-2025-69219">
 
 ---
+## CVE-2025-69216 ()
+> 
+- [lukasz-rybak/CVE-2025-69216](https://github.com/lukasz-rybak/CVE-2025-69216)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69216">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69216">
+
+---
+## CVE-2025-69215 ()
+> 
+- [lukasz-rybak/CVE-2025-69215](https://github.com/lukasz-rybak/CVE-2025-69215)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69215">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69215">
+
+---
+## CVE-2025-69214 ()
+> 
+- [lukasz-rybak/CVE-2025-69214](https://github.com/lukasz-rybak/CVE-2025-69214)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69214">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69214">
+
+---
+## CVE-2025-69213 ()
+> 
+- [lukasz-rybak/CVE-2025-69213](https://github.com/lukasz-rybak/CVE-2025-69213)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69213">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69213">
+
+---
+## CVE-2025-69212 ()
+> 
+- [lukasz-rybak/CVE-2025-69212](https://github.com/lukasz-rybak/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-69212">
+
+---
 ## CVE-2025-69194 ()
 > 
 - [secdongle/POC_CVE-2025-69194](https://github.com/secdongle/POC_CVE-2025-69194)	<img alt="forks" src="https://img.shields.io/github/forks/secdongle/POC_CVE-2025-69194">	<img alt="stars" src="https://img.shields.io/github/stars/secdongle/POC_CVE-2025-69194">
@@ -827,6 +852,11 @@
 - [Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-](https://github.com/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-)	<img alt="forks" src="https://img.shields.io/github/forks/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-">	<img alt="stars" src="https://img.shields.io/github/stars/Nurjaman2004/jsPDF-Bulk-Detector-CVE-2025-68428-">
 
 ---
+## CVE-2025-68400 ()
+> 
+- [lukasz-rybak/CVE-2025-68400](https://github.com/lukasz-rybak/CVE-2025-68400)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-68400">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-68400">
+
+---
 ## CVE-2025-68325 ()
 > 
 - [n132/CVE-2025-68325](https://github.com/n132/CVE-2025-68325)	<img alt="forks" src="https://img.shields.io/github/forks/n132/CVE-2025-68325">	<img alt="stars" src="https://img.shields.io/github/stars/n132/CVE-2025-68325">
@@ -878,6 +908,16 @@
 ## CVE-2025-67886 ()
 > 
 - [reewardius/CVE-2025-67886](https://github.com/reewardius/CVE-2025-67886)	<img alt="forks" src="https://img.shields.io/github/forks/reewardius/CVE-2025-67886">	<img alt="stars" src="https://img.shields.io/github/stars/reewardius/CVE-2025-67886">
+
+---
+## CVE-2025-67876 ()
+> 
+- [lukasz-rybak/CVE-2025-67876](https://github.com/lukasz-rybak/CVE-2025-67876)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-67876">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-67876">
+
+---
+## CVE-2025-67875 ()
+> 
+- [lukasz-rybak/CVE-2025-67875](https://github.com/lukasz-rybak/CVE-2025-67875)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-67875">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-67875">
 
 ---
 ## CVE-2025-6783 ()
@@ -1265,6 +1305,11 @@
 - [0xrakan/coolify-cve-2025-66209-66213](https://github.com/0xrakan/coolify-cve-2025-66209-66213)	<img alt="forks" src="https://img.shields.io/github/forks/0xrakan/coolify-cve-2025-66209-66213">	<img alt="stars" src="https://img.shields.io/github/stars/0xrakan/coolify-cve-2025-66209-66213">
 
 ---
+## CVE-2025-66204 ()
+> 
+- [lukasz-rybak/CVE-2025-66204](https://github.com/lukasz-rybak/CVE-2025-66204)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-66204">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-66204">
+
+---
 ## CVE-2025-66039 ()
 > 
 - [BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX](https://github.com/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX)	<img alt="forks" src="https://img.shields.io/github/forks/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">	<img alt="stars" src="https://img.shields.io/github/stars/BimBoxH4/CVE-2025-66039_CVE-2025-61675_CVE-2025-61678_reePBX">
@@ -1282,6 +1327,11 @@
 - [jwsly12/CVE-2025-66034-htb-ctf](https://github.com/jwsly12/CVE-2025-66034-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2025-66034-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2025-66034-htb-ctf">
 
 ---
+## CVE-2025-66024 ()
+> 
+- [lukasz-rybak/CVE-2025-66024](https://github.com/lukasz-rybak/CVE-2025-66024)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-66024">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-66024">
+
+---
 ## CVE-2025-66022 ()
 > 
 - [wasfyelbaz/CVE-2025-66022](https://github.com/wasfyelbaz/CVE-2025-66022)	<img alt="forks" src="https://img.shields.io/github/forks/wasfyelbaz/CVE-2025-66022">	<img alt="stars" src="https://img.shields.io/github/stars/wasfyelbaz/CVE-2025-66022">
@@ -1295,6 +1345,11 @@
 - [Ashwesker/Blackash-CVE-2025-65964](https://github.com/Ashwesker/Blackash-CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-65964">
 - [Saboor-Hakimi-23/CVE-2025-65964](https://github.com/Saboor-Hakimi-23/CVE-2025-65964)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi-23/CVE-2025-65964">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi-23/CVE-2025-65964">
 - [Pinus97/CVE-2025-65964-POC](https://github.com/Pinus97/CVE-2025-65964-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Pinus97/CVE-2025-65964-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Pinus97/CVE-2025-65964-POC">
+
+---
+## CVE-2025-65950 ()
+> 
+- [lukasz-rybak/CVE-2025-65950](https://github.com/lukasz-rybak/CVE-2025-65950)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-65950">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-65950">
 
 ---
 ## CVE-2025-65945 ()
@@ -1532,6 +1587,11 @@
 ## CVE-2025-65099 ()
 > 
 - [b-faller/cve-2025-65099](https://github.com/b-faller/cve-2025-65099)	<img alt="forks" src="https://img.shields.io/github/forks/b-faller/cve-2025-65099">	<img alt="stars" src="https://img.shields.io/github/stars/b-faller/cve-2025-65099">
+
+---
+## CVE-2025-65094 ()
+> 
+- [lukasz-rybak/CVE-2025-65094](https://github.com/lukasz-rybak/CVE-2025-65094)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2025-65094">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2025-65094">
 
 ---
 ## CVE-2025-65037 ()
