@@ -1574,6 +1574,7 @@
 ## CVE-2026-23869 ()
 > 
 - [yohannslm/CVE-2026-23869](https://github.com/yohannslm/CVE-2026-23869)	<img alt="forks" src="https://img.shields.io/github/forks/yohannslm/CVE-2026-23869">	<img alt="stars" src="https://img.shields.io/github/stars/yohannslm/CVE-2026-23869">
+- [cybertechajju/CVE-2026-23869-Exploit](https://github.com/cybertechajju/CVE-2026-23869-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/CVE-2026-23869-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/CVE-2026-23869-Exploit">
 
 ---
 ## CVE-2026-23842 ()
