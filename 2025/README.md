@@ -263,6 +263,11 @@
 - [YanC1e/CVE-2025-8191](https://github.com/YanC1e/CVE-2025-8191)	<img alt="forks" src="https://img.shields.io/github/forks/YanC1e/CVE-2025-8191">	<img alt="stars" src="https://img.shields.io/github/stars/YanC1e/CVE-2025-8191">
 
 ---
+## CVE-2025-81110 ()
+> 
+- [BridgerAlderson/CVE-2025-81110-PoC](https://github.com/BridgerAlderson/CVE-2025-81110-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-81110-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-81110-PoC">
+
+---
 ## CVE-2025-8110 ()
 > 
 - [rxerium/CVE-2025-8110](https://github.com/rxerium/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-8110">
@@ -273,6 +278,7 @@
 - [freiwi/CVE-2025-8110](https://github.com/freiwi/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/freiwi/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/freiwi/CVE-2025-8110">
 - [George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution](https://github.com/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-8110-Gogs-Remote-Code-Execution">
 - [3jee/CVE-2025-8110](https://github.com/3jee/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/3jee/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/3jee/CVE-2025-8110">
+- [Ghxstsec/CVE-2025-8110](https://github.com/Ghxstsec/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ghxstsec/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ghxstsec/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
