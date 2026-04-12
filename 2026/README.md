@@ -752,6 +752,11 @@
 - [ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4](https://github.com/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisSub08/CVE-2026-29187_SqlInjectionVulnerabilityOpenEMR7.0.4">
 
 ---
+## CVE-2026-29145 ()
+> 
+- [gregk4sec/cve-2026-29145](https://github.com/gregk4sec/cve-2026-29145)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-29145">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-29145">
+
+---
 ## CVE-2026-29053 ()
 > 
 - [rootxran/CVE-2026-29053](https://github.com/rootxran/CVE-2026-29053)	<img alt="forks" src="https://img.shields.io/github/forks/rootxran/CVE-2026-29053">	<img alt="stars" src="https://img.shields.io/github/stars/rootxran/CVE-2026-29053">
@@ -1165,6 +1170,7 @@
 ## CVE-2026-25854 ()
 > 
 - [gregk4sec/CVE-2026-25854](https://github.com/gregk4sec/CVE-2026-25854)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2026-25854">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2026-25854">
+- [gregk4sec/cve-2026-25854](https://github.com/gregk4sec/cve-2026-25854)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/cve-2026-25854">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/cve-2026-25854">
 
 ---
 ## CVE-2026-25828 ()
