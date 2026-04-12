@@ -282,6 +282,7 @@
 - [kayl22/cve-2025-8110-GOGS-RCE](https://github.com/kayl22/cve-2025-8110-GOGS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kayl22/cve-2025-8110-GOGS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kayl22/cve-2025-8110-GOGS-RCE">
 - [manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-](https://github.com/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-">
 - [TYehan/CVE-2025-8110-Gogs-RCE-Exploit](https://github.com/TYehan/CVE-2025-8110-Gogs-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">
+- [secopssite/HTB](https://github.com/secopssite/HTB)	<img alt="forks" src="https://img.shields.io/github/forks/secopssite/HTB">	<img alt="stars" src="https://img.shields.io/github/stars/secopssite/HTB">
 
 ---
 ## CVE-2025-8088 ()
