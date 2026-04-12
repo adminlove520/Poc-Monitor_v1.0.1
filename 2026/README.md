@@ -114,6 +114,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
 
 ---
+## CVE-2026-4106 ()
+> 
+- [ef3tr/CVE-2026-4106](https://github.com/ef3tr/CVE-2026-4106)	<img alt="forks" src="https://img.shields.io/github/forks/ef3tr/CVE-2026-4106">	<img alt="stars" src="https://img.shields.io/github/stars/ef3tr/CVE-2026-4106">
+
+---
 ## CVE-2026-4092 ()
 > 
 - [g0w6y/CVE-2026-4092](https://github.com/g0w6y/CVE-2026-4092)	<img alt="forks" src="https://img.shields.io/github/forks/g0w6y/CVE-2026-4092">	<img alt="stars" src="https://img.shields.io/github/stars/g0w6y/CVE-2026-4092">
