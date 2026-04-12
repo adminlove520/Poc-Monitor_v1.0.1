@@ -280,6 +280,7 @@
 - [3jee/CVE-2025-8110](https://github.com/3jee/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/3jee/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/3jee/CVE-2025-8110">
 - [Ghxstsec/CVE-2025-8110](https://github.com/Ghxstsec/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Ghxstsec/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Ghxstsec/CVE-2025-8110">
 - [kayl22/cve-2025-8110-GOGS-RCE](https://github.com/kayl22/cve-2025-8110-GOGS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kayl22/cve-2025-8110-GOGS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kayl22/cve-2025-8110-GOGS-RCE">
+- [manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-](https://github.com/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-)	<img alt="forks" src="https://img.shields.io/github/forks/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-">	<img alt="stars" src="https://img.shields.io/github/stars/manbahadurthapa1248/CVE-2025-8110-Authenticated-Remote-Code-Execution-on-Gogs-v0.13.3-">
 
 ---
 ## CVE-2025-8088 ()
