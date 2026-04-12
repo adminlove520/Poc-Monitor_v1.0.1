@@ -5673,6 +5673,11 @@
 - [koyomihack00/CVE-2025-47226](https://github.com/koyomihack00/CVE-2025-47226)	<img alt="forks" src="https://img.shields.io/github/forks/koyomihack00/CVE-2025-47226">	<img alt="stars" src="https://img.shields.io/github/stars/koyomihack00/CVE-2025-47226">
 
 ---
+## CVE-2025-4720 ()
+> 
+- [Xmyronn/duplicate-CVE-2025-4720-](https://github.com/Xmyronn/duplicate-CVE-2025-4720-)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/duplicate-CVE-2025-4720-">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/duplicate-CVE-2025-4720-">
+
+---
 ## CVE-2025-47181 ()
 > 
 - [encrypter15/CVE-2025-47181](https://github.com/encrypter15/CVE-2025-47181)	<img alt="forks" src="https://img.shields.io/github/forks/encrypter15/CVE-2025-47181">	<img alt="stars" src="https://img.shields.io/github/stars/encrypter15/CVE-2025-47181">
@@ -6792,6 +6797,11 @@
 - [danielsummerton12/sudo-zero-day-CVE-2025-32463](https://github.com/danielsummerton12/sudo-zero-day-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/sudo-zero-day-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/sudo-zero-day-CVE-2025-32463">
 - [danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc](https://github.com/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc)	<img alt="forks" src="https://img.shields.io/github/forks/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">	<img alt="stars" src="https://img.shields.io/github/stars/danielsummerton12/ssh-buffer-overflow-rce-zero-day-poc">
 - [0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077">
+
+---
+## CVE-2025-34065 ()
+> 
+- [Savanooo/avtech-cve-2025-34065-analysis](https://github.com/Savanooo/avtech-cve-2025-34065-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Savanooo/avtech-cve-2025-34065-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Savanooo/avtech-cve-2025-34065-analysis">
 
 ---
 ## CVE-2025-34040 ()
