@@ -5651,6 +5651,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [God4n/nextjs-CVE-2024-34351-_exploit](https://github.com/God4n/nextjs-CVE-2024-34351-_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/God4n/nextjs-CVE-2024-34351-_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/God4n/nextjs-CVE-2024-34351-_exploit">
 - [granita112/cve-2024-34351-tester](https://github.com/granita112/cve-2024-34351-tester)	<img alt="forks" src="https://img.shields.io/github/forks/granita112/cve-2024-34351-tester">	<img alt="stars" src="https://img.shields.io/github/stars/granita112/cve-2024-34351-tester">
 - [avergnaud/Next.js_exploit_CVE-2024-34351](https://github.com/avergnaud/Next.js_exploit_CVE-2024-34351)	<img alt="forks" src="https://img.shields.io/github/forks/avergnaud/Next.js_exploit_CVE-2024-34351">	<img alt="stars" src="https://img.shields.io/github/stars/avergnaud/Next.js_exploit_CVE-2024-34351">
+- [Jinlei-Chen-UWO/cve-2024-34351-demo](https://github.com/Jinlei-Chen-UWO/cve-2024-34351-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Jinlei-Chen-UWO/cve-2024-34351-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Jinlei-Chen-UWO/cve-2024-34351-demo">
 
 ---
 ## CVE-2024-34350 (2024-05-14T15:38:00)
