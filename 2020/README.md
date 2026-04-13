@@ -891,6 +891,11 @@
 - [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
 
 ---
+## CVE-2020-6864 ()
+> 
+- [gigachadusers/cve-2020-6864](https://github.com/gigachadusers/cve-2020-6864)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/cve-2020-6864">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/cve-2020-6864">
+
+---
 ## CVE-2020-6836 ()
 > 
 - [CQ-Tools/CVE-2020-6836-unfixed](https://github.com/CQ-Tools/CVE-2020-6836-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-unfixed">
