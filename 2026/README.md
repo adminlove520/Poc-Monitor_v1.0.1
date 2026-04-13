@@ -281,6 +281,7 @@
 ## CVE-2026-34621 ()
 > 
 - [ercihan/CVE-2026-34621](https://github.com/ercihan/CVE-2026-34621)	<img alt="forks" src="https://img.shields.io/github/forks/ercihan/CVE-2026-34621">	<img alt="stars" src="https://img.shields.io/github/stars/ercihan/CVE-2026-34621">
+- [eduardorossi84/CVE-2026-34621-POC](https://github.com/eduardorossi84/CVE-2026-34621-POC)	<img alt="forks" src="https://img.shields.io/github/forks/eduardorossi84/CVE-2026-34621-POC">	<img alt="stars" src="https://img.shields.io/github/stars/eduardorossi84/CVE-2026-34621-POC">
 
 ---
 ## CVE-2026-34444 ()
