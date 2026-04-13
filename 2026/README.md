@@ -592,6 +592,21 @@
 - [0xBlackash/CVE-2026-31402](https://github.com/0xBlackash/CVE-2026-31402)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31402">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31402">
 
 ---
+## CVE-2026-31283 ()
+> 
+- [saykino/CVE-2026-31283](https://github.com/saykino/CVE-2026-31283)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2026-31283">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2026-31283">
+
+---
+## CVE-2026-31282 ()
+> 
+- [saykino/CVE-2026-31282](https://github.com/saykino/CVE-2026-31282)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2026-31282">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2026-31282">
+
+---
+## CVE-2026-31281 ()
+> 
+- [saykino/CVE-2026-31281](https://github.com/saykino/CVE-2026-31281)	<img alt="forks" src="https://img.shields.io/github/forks/saykino/CVE-2026-31281">	<img alt="stars" src="https://img.shields.io/github/stars/saykino/CVE-2026-31281">
+
+---
 ## CVE-2026-31280 ()
 > 
 - [CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom](https://github.com/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom)	<img alt="forks" src="https://img.shields.io/github/forks/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">	<img alt="stars" src="https://img.shields.io/github/stars/CipherX1802/CVE-2026-31280-Insecure-Bluetooth-RFCOMM-Leading-to-Device-Crash-in-Parani-M10-Intercom">
@@ -1214,6 +1229,7 @@
 - [hakaioffsec/CVE-2026-25769](https://github.com/hakaioffsec/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/CVE-2026-25769">
 - [Samres27/CVE-2026-25769---CVE-2026-25770](https://github.com/Samres27/CVE-2026-25769---CVE-2026-25770)	<img alt="forks" src="https://img.shields.io/github/forks/Samres27/CVE-2026-25769---CVE-2026-25770">	<img alt="stars" src="https://img.shields.io/github/stars/Samres27/CVE-2026-25769---CVE-2026-25770">
 - [njeru-codes/CVE-2026-25769](https://github.com/njeru-codes/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/njeru-codes/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/njeru-codes/CVE-2026-25769">
+- [0xBlackash/CVE-2026-25769](https://github.com/0xBlackash/CVE-2026-25769)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-25769">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-25769">
 
 ---
 ## CVE-2026-25746 ()

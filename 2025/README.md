@@ -284,6 +284,7 @@
 - [TYehan/CVE-2025-8110-Gogs-RCE-Exploit](https://github.com/TYehan/CVE-2025-8110-Gogs-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TYehan/CVE-2025-8110-Gogs-RCE-Exploit">
 - [secopssite/HTB](https://github.com/secopssite/HTB)	<img alt="forks" src="https://img.shields.io/github/forks/secopssite/HTB">	<img alt="stars" src="https://img.shields.io/github/stars/secopssite/HTB">
 - [0dgt/CVE-2025-8110](https://github.com/0dgt/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/0dgt/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/0dgt/CVE-2025-8110">
+- [popyue/CVE-2025-8110](https://github.com/popyue/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-8110">
 
 ---
 ## CVE-2025-8088 ()
