@@ -142,6 +142,7 @@
 ## CVE-2026-39987 ()
 > 
 - [0xBlackash/CVE-2026-39987](https://github.com/0xBlackash/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39987">
+- [fevar54/marimo_CVE-2026-39987_RCE_PoC](https://github.com/fevar54/marimo_CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/marimo_CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/marimo_CVE-2026-39987_RCE_PoC">
 
 ---
 ## CVE-2026-39983 ()
@@ -233,6 +234,7 @@
 - [fevar54/CVE-2026-35616-detector.py](https://github.com/fevar54/CVE-2026-35616-detector.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-35616-detector.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-35616-detector.py">
 - [fevar54/forticlient_ems_cve_2026_35616_poc.py](https://github.com/fevar54/forticlient_ems_cve_2026_35616_poc.py)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/forticlient_ems_cve_2026_35616_poc.py">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/forticlient_ems_cve_2026_35616_poc.py">
 - [BishopFox/CVE-2026-35616-check](https://github.com/BishopFox/CVE-2026-35616-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-35616-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-35616-check">
+- [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
 
 ---
 ## CVE-2026-35584 ()
@@ -449,6 +451,7 @@
 - [EQSTLab/CVE-2026-33017](https://github.com/EQSTLab/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-33017">
 - [masterwok/CVE-2026-33017-Langflow-PoC](https://github.com/masterwok/CVE-2026-33017-Langflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/CVE-2026-33017-Langflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/CVE-2026-33017-Langflow-PoC">
 - [oscar-mine/CVE-2026-33017-Exploit](https://github.com/oscar-mine/CVE-2026-33017-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/CVE-2026-33017-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/CVE-2026-33017-Exploit">
+- [Spydomain/CVE-2026-33017-lab](https://github.com/Spydomain/CVE-2026-33017-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-lab">
 
 ---
 ## CVE-2026-32945 ()
