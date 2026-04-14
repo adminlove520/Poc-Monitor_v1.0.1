@@ -238,6 +238,11 @@
 - [keraattin/CVE-2026-35616](https://github.com/keraattin/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35616">
 
 ---
+## CVE-2026-35585 ()
+> 
+- [Saku0512/CVE-2026-35585-poc](https://github.com/Saku0512/CVE-2026-35585-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-35585-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-35585-poc">
+
+---
 ## CVE-2026-35584 ()
 > 
 - [LeonardoNovais7/CVE-2026-35584](https://github.com/LeonardoNovais7/CVE-2026-35584)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/CVE-2026-35584">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/CVE-2026-35584">
