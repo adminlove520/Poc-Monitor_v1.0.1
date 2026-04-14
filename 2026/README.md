@@ -143,6 +143,7 @@
 > 
 - [0xBlackash/CVE-2026-39987](https://github.com/0xBlackash/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39987">
 - [fevar54/marimo_CVE-2026-39987_RCE_PoC](https://github.com/fevar54/marimo_CVE-2026-39987_RCE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/marimo_CVE-2026-39987_RCE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/marimo_CVE-2026-39987_RCE_PoC">
+- [mki9/CVE-2026-39987_exploit](https://github.com/mki9/CVE-2026-39987_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mki9/CVE-2026-39987_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mki9/CVE-2026-39987_exploit">
 
 ---
 ## CVE-2026-39983 ()
