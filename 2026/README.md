@@ -248,6 +248,11 @@
 - [Rickidevs/CVE-2026-35570](https://github.com/Rickidevs/CVE-2026-35570)	<img alt="forks" src="https://img.shields.io/github/forks/Rickidevs/CVE-2026-35570">	<img alt="stars" src="https://img.shields.io/github/stars/Rickidevs/CVE-2026-35570">
 
 ---
+## CVE-2026-35517 ()
+> 
+- [keraattin/CVE-2026-35517](https://github.com/keraattin/CVE-2026-35517)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35517">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35517">
+
+---
 ## CVE-2026-35492 ()
 > 
 - [redyank/CVE-2026-35492](https://github.com/redyank/CVE-2026-35492)	<img alt="forks" src="https://img.shields.io/github/forks/redyank/CVE-2026-35492">	<img alt="stars" src="https://img.shields.io/github/stars/redyank/CVE-2026-35492">
@@ -1891,6 +1896,11 @@
 ## CVE-2026-22722 ()
 > 
 - [D7EAD/CVE-2026-22722](https://github.com/D7EAD/CVE-2026-22722)	<img alt="forks" src="https://img.shields.io/github/forks/D7EAD/CVE-2026-22722">	<img alt="stars" src="https://img.shields.io/github/stars/D7EAD/CVE-2026-22722">
+
+---
+## CVE-2026-22692 ()
+> 
+- [lukasz-rybak/CVE-2026-22692](https://github.com/lukasz-rybak/CVE-2026-22692)	<img alt="forks" src="https://img.shields.io/github/forks/lukasz-rybak/CVE-2026-22692">	<img alt="stars" src="https://img.shields.io/github/stars/lukasz-rybak/CVE-2026-22692">
 
 ---
 ## CVE-2026-22686 ()
