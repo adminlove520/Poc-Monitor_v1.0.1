@@ -842,6 +842,7 @@
 - [Rishi-kaul/n8n-CVE-2025-68613](https://github.com/Rishi-kaul/n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Rishi-kaul/n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Rishi-kaul/n8n-CVE-2025-68613">
 - [sahilccras/Blackash-CVE-2025-68613](https://github.com/sahilccras/Blackash-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/sahilccras/Blackash-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/sahilccras/Blackash-CVE-2025-68613">
 - [h3raklez/CVE-2025-68613](https://github.com/h3raklez/CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2025-68613">
+- [canpilayda/n8n-RCE-CVE-2025-68613](https://github.com/canpilayda/n8n-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/canpilayda/n8n-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/canpilayda/n8n-RCE-CVE-2025-68613">
 
 ---
 ## CVE-2025-6860 ()
