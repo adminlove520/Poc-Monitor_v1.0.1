@@ -715,6 +715,11 @@
 - [Mehdi-Ben-Hamou/CVE-2026-30498](https://github.com/Mehdi-Ben-Hamou/CVE-2026-30498)	<img alt="forks" src="https://img.shields.io/github/forks/Mehdi-Ben-Hamou/CVE-2026-30498">	<img alt="stars" src="https://img.shields.io/github/stars/Mehdi-Ben-Hamou/CVE-2026-30498">
 
 ---
+## CVE-2026-30480 ()
+> 
+- [parlakbarann/CVE-2026-30480](https://github.com/parlakbarann/CVE-2026-30480)	<img alt="forks" src="https://img.shields.io/github/forks/parlakbarann/CVE-2026-30480">	<img alt="stars" src="https://img.shields.io/github/stars/parlakbarann/CVE-2026-30480">
+
+---
 ## CVE-2026-30345 ()
 > 
 - [syphonetic/CVE-2026-30345](https://github.com/syphonetic/CVE-2026-30345)	<img alt="forks" src="https://img.shields.io/github/forks/syphonetic/CVE-2026-30345">	<img alt="stars" src="https://img.shields.io/github/stars/syphonetic/CVE-2026-30345">
