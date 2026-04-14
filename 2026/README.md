@@ -329,6 +329,7 @@
 - [AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE](https://github.com/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AtoposX-J/CVE-2026-34197-Apache-ActiveMQ-RCE">
 - [KONDORDEVSECURITYCORP/CVE-2026-34197](https://github.com/KONDORDEVSECURITYCORP/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/KONDORDEVSECURITYCORP/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/KONDORDEVSECURITYCORP/CVE-2026-34197">
 - [hg0434hongzh0/CVE-2026-34197](https://github.com/hg0434hongzh0/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-34197">
+- [keraattin/CVE-2026-34197](https://github.com/keraattin/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-34197">
 
 ---
 ## CVE-2026-34156 ()
