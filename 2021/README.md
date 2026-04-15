@@ -3451,6 +3451,7 @@
 - [Abbykito/KERNELexploits](https://github.com/Abbykito/KERNELexploits)	<img alt="forks" src="https://img.shields.io/github/forks/Abbykito/KERNELexploits">	<img alt="stars" src="https://img.shields.io/github/stars/Abbykito/KERNELexploits">
 - [devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis](https://github.com/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2021-4034-PwnKit-Masters-Thesis">
 - [Murguii/DEV-CVE-2021-4034](https://github.com/Murguii/DEV-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Murguii/DEV-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Murguii/DEV-CVE-2021-4034">
+- [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -9173,6 +9174,7 @@
 - [huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/huydung26/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/huydung26/CVE-2021-22986">
 - [kiri-48/CVE-2021-22986](https://github.com/kiri-48/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/kiri-48/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/kiri-48/CVE-2021-22986">
 - [microvorld/CVE-2021-22986](https://github.com/microvorld/CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/microvorld/CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/microvorld/CVE-2021-22986">
+- [whatheheckisthis/Canonical-Extension-CVE-2021-22986](https://github.com/whatheheckisthis/Canonical-Extension-CVE-2021-22986)	<img alt="forks" src="https://img.shields.io/github/forks/whatheheckisthis/Canonical-Extension-CVE-2021-22986">	<img alt="stars" src="https://img.shields.io/github/stars/whatheheckisthis/Canonical-Extension-CVE-2021-22986">
 
 ---
 ## CVE-2021-22954 (2022-02-09T23:15:00)
