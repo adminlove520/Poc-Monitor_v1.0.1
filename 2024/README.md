@@ -1026,6 +1026,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-5836 ()
 > 
 - [yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778](https://github.com/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778)	<img alt="forks" src="https://img.shields.io/github/forks/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778">	<img alt="stars" src="https://img.shields.io/github/stars/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778">
+- [ading2210/CVE-2024-6778-POC](https://github.com/ading2210/CVE-2024-6778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ading2210/CVE-2024-6778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ading2210/CVE-2024-6778-POC">
 
 ---
 ## CVE-2024-58290 ()
