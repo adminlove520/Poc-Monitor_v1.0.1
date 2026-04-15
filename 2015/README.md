@@ -79,7 +79,7 @@
 ---
 ## CVE-2015-8522 ()
 > 
-- [damariion/CVE-2015-8522](https://github.com/damariion/CVE-2015-8522)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522">
+- [damariion/CVE-2015-8522.RCE](https://github.com/damariion/CVE-2015-8522.RCE)	<img alt="forks" src="https://img.shields.io/github/forks/damariion/CVE-2015-8522.RCE">	<img alt="stars" src="https://img.shields.io/github/stars/damariion/CVE-2015-8522.RCE">
 
 ---
 ## CVE-2015-8504 (2017-04-11T19:59:00)
