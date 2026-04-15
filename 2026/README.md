@@ -285,6 +285,11 @@
 - [FilipeGaudard/CVE-2026-35045-PoC](https://github.com/FilipeGaudard/CVE-2026-35045-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FilipeGaudard/CVE-2026-35045-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FilipeGaudard/CVE-2026-35045-PoC">
 
 ---
+## CVE-2026-35031 ()
+> 
+- [keraattin/CVE-2026-35031](https://github.com/keraattin/CVE-2026-35031)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35031">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35031">
+
+---
 ## CVE-2026-3502 ()
 > 
 - [fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool](https://github.com/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2026-3502-Scanner---TrueConf-Vulnerability-Detection-Tool">
