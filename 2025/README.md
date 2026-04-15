@@ -2613,6 +2613,7 @@
 - [secopssite/HTB](https://github.com/secopssite/HTB)	<img alt="forks" src="https://img.shields.io/github/forks/secopssite/HTB">	<img alt="stars" src="https://img.shields.io/github/stars/secopssite/HTB">
 - [Kamigold/Flowise-RCE](https://github.com/Kamigold/Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Kamigold/Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Kamigold/Flowise-RCE">
 - [AzureADTrent/CVE-2025-58434-59528](https://github.com/AzureADTrent/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-58434-59528">
+- [maradonam18/-CVE-2025-59528-PoC](https://github.com/maradonam18/-CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maradonam18/-CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maradonam18/-CVE-2025-59528-PoC">
 
 ---
 ## CVE-2025-59503 ()
@@ -4075,6 +4076,7 @@
 - [oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/R2SAE">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/R2SAE">
 - [AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500">
 - [DeDnY/CVE-2025-55182-poc-panel](https://github.com/DeDnY/CVE-2025-55182-poc-panel)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-poc-panel">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-poc-panel">
+- [opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
