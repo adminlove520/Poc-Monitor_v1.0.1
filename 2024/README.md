@@ -1023,6 +1023,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 - [Huoper/CVE-2024-5899](https://github.com/Huoper/CVE-2024-5899)	<img alt="forks" src="https://img.shields.io/github/forks/Huoper/CVE-2024-5899">	<img alt="stars" src="https://img.shields.io/github/stars/Huoper/CVE-2024-5899">
 
 ---
+## CVE-2024-5836 ()
+> 
+- [yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778](https://github.com/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778)	<img alt="forks" src="https://img.shields.io/github/forks/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778">	<img alt="stars" src="https://img.shields.io/github/stars/yaghoubkhani/chrome_sandbox_scape_CVE-2024-5836_CVE-2024-6778">
+
+---
 ## CVE-2024-58290 ()
 > 
 - [SohelYousef/CVE-2024-58290-Xhibiter-SQLi](https://github.com/SohelYousef/CVE-2024-58290-Xhibiter-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/SohelYousef/CVE-2024-58290-Xhibiter-SQLi">
