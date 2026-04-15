@@ -2327,6 +2327,9 @@
 - [BugFor-Pings/CVE-2026-20127_EXP](https://github.com/BugFor-Pings/CVE-2026-20127_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/BugFor-Pings/CVE-2026-20127_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/BugFor-Pings/CVE-2026-20127_EXP">
 - [yonathanpy/CVE-2026-20127-Cisco-SD-WAN-Preauth-RCE](https://github.com/yonathanpy/CVE-2026-20127-Cisco-SD-WAN-Preauth-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/yonathanpy/CVE-2026-20127-Cisco-SD-WAN-Preauth-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/yonathanpy/CVE-2026-20127-Cisco-SD-WAN-Preauth-RCE">
 - [abrahamsurf/sdwan-scanner-CVE-2026-20127](https://github.com/abrahamsurf/sdwan-scanner-CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/abrahamsurf/sdwan-scanner-CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/abrahamsurf/sdwan-scanner-CVE-2026-20127">
+- [gigachadusers/cve-2026-20127](https://github.com/gigachadusers/cve-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/gigachadusers/cve-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/gigachadusers/cve-2026-20127">
+- [sfewer-r7/CVE-2026-20127](https://github.com/sfewer-r7/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-20127">
+- [randeepajayasekara/CVE-2026-20127](https://github.com/randeepajayasekara/CVE-2026-20127)	<img alt="forks" src="https://img.shields.io/github/forks/randeepajayasekara/CVE-2026-20127">	<img alt="stars" src="https://img.shields.io/github/stars/randeepajayasekara/CVE-2026-20127">
 
 ---
 ## CVE-2026-20079 ()
