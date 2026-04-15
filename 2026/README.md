@@ -316,6 +316,7 @@
 > 
 - [punitdarji/tomcat-cve-2026-34486](https://github.com/punitdarji/tomcat-cve-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/tomcat-cve-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/tomcat-cve-2026-34486">
 - [AirSkye/CVE-2026-34486-poc](https://github.com/AirSkye/CVE-2026-34486-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AirSkye/CVE-2026-34486-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AirSkye/CVE-2026-34486-poc">
+- [404-src/CVE-2026-34486](https://github.com/404-src/CVE-2026-34486)	<img alt="forks" src="https://img.shields.io/github/forks/404-src/CVE-2026-34486">	<img alt="stars" src="https://img.shields.io/github/stars/404-src/CVE-2026-34486">
 
 ---
 ## CVE-2026-34444 ()
