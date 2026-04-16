@@ -677,6 +677,11 @@
 - [Tagoletta/CVE-2025-69457](https://github.com/Tagoletta/CVE-2025-69457)	<img alt="forks" src="https://img.shields.io/github/forks/Tagoletta/CVE-2025-69457">	<img alt="stars" src="https://img.shields.io/github/stars/Tagoletta/CVE-2025-69457">
 
 ---
+## CVE-2025-69428 ()
+> 
+- [jasetpen/CVE-2025-69428](https://github.com/jasetpen/CVE-2025-69428)	<img alt="forks" src="https://img.shields.io/github/forks/jasetpen/CVE-2025-69428">	<img alt="stars" src="https://img.shields.io/github/stars/jasetpen/CVE-2025-69428">
+
+---
 ## CVE-2025-6934 ()
 > 
 - [Nxploited/CVE-2025-6934](https://github.com/Nxploited/CVE-2025-6934)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-6934">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-6934">
