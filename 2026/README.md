@@ -67,6 +67,11 @@
 - [0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173">
 
 ---
+## CVE-2026-5059 ()
+> 
+- [venom203020/CVE-2026-5059-poc](https://github.com/venom203020/CVE-2026-5059-poc)	<img alt="forks" src="https://img.shields.io/github/forks/venom203020/CVE-2026-5059-poc">	<img alt="stars" src="https://img.shields.io/github/stars/venom203020/CVE-2026-5059-poc">
+
+---
 ## CVE-2026-5027 ()
 > 
 - [yahiahamza/CVE-2026-5027](https://github.com/yahiahamza/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/yahiahamza/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/yahiahamza/CVE-2026-5027">
@@ -2371,6 +2376,11 @@
 ## CVE-2026-1953 ()
 > 
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
+
+---
+## CVE-2026-1880 ()
+> 
+- [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
 
 ---
 ## CVE-2026-1862 ()
