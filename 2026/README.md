@@ -144,6 +144,16 @@
 - [zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579">
 
 ---
+## CVE-2026-40261 ()
+> 
+- [terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC">
+
+---
+## CVE-2026-40176 ()
+> 
+- [Saku0512/CVE-2026-40176-poc](https://github.com/Saku0512/CVE-2026-40176-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Saku0512/CVE-2026-40176-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Saku0512/CVE-2026-40176-poc">
+
+---
 ## CVE-2026-40175 ()
 > 
 - [0xBlackash/CVE-2026-40175](https://github.com/0xBlackash/CVE-2026-40175)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40175">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40175">
