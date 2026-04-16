@@ -466,6 +466,11 @@
 - [ugurrates/teampcp-supply-chain-attack](https://github.com/ugurrates/teampcp-supply-chain-attack)	<img alt="forks" src="https://img.shields.io/github/forks/ugurrates/teampcp-supply-chain-attack">	<img alt="stars" src="https://img.shields.io/github/stars/ugurrates/teampcp-supply-chain-attack">
 
 ---
+## CVE-2026-33555 ()
+> 
+- [r3verii/CVE-2026-33555](https://github.com/r3verii/CVE-2026-33555)	<img alt="forks" src="https://img.shields.io/github/forks/r3verii/CVE-2026-33555">	<img alt="stars" src="https://img.shields.io/github/stars/r3verii/CVE-2026-33555">
+
+---
 ## CVE-2026-33532 ()
 > 
 - [danwulff/astro_CVE-2026-33532](https://github.com/danwulff/astro_CVE-2026-33532)	<img alt="forks" src="https://img.shields.io/github/forks/danwulff/astro_CVE-2026-33532">	<img alt="stars" src="https://img.shields.io/github/stars/danwulff/astro_CVE-2026-33532">
@@ -2135,6 +2140,7 @@
 - [bamov970/CVE-2026-21858](https://github.com/bamov970/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-21858">
 - [Yati2/Ni8mare-CVE-2026-21858](https://github.com/Yati2/Ni8mare-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/Yati2/Ni8mare-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/Yati2/Ni8mare-CVE-2026-21858">
 - [kaleth4/CVE-2026-21858](https://github.com/kaleth4/CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-21858">
+- [masterwok/PoC-CVE-2026-21858](https://github.com/masterwok/PoC-CVE-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-21858">
 
 ---
 ## CVE-2026-21857 ()
