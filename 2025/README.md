@@ -5306,6 +5306,7 @@
 - [ankitpandey383/roundcube-cve-2025-49113-lab](https://github.com/ankitpandey383/roundcube-cve-2025-49113-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ankitpandey383/roundcube-cve-2025-49113-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ankitpandey383/roundcube-cve-2025-49113-lab">
 - [Evillm/CVE-2025-49113-PoC](https://github.com/Evillm/CVE-2025-49113-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2025-49113-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2025-49113-PoC">
 - [mooder1/CVE-2025-49113](https://github.com/mooder1/CVE-2025-49113)	<img alt="forks" src="https://img.shields.io/github/forks/mooder1/CVE-2025-49113">	<img alt="stars" src="https://img.shields.io/github/stars/mooder1/CVE-2025-49113">
+- [rippsec/CVE-2025-49113-Roundcube-RCE](https://github.com/rippsec/CVE-2025-49113-Roundcube-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-49113-Roundcube-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-49113-Roundcube-RCE">
 
 ---
 ## CVE-2025-49071 ()
@@ -8172,6 +8173,7 @@
 - [0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591](https://github.com/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Below-Logger-Symlink-Attack_CVE-2025-27591">
 - [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
+- [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
 
 ---
 ## CVE-2025-27590 ()
@@ -8810,6 +8812,7 @@
 - [hitchy22/xwiki-exploit](https://github.com/hitchy22/xwiki-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hitchy22/xwiki-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hitchy22/xwiki-exploit">
 - [TomKingori/xwiki-cve-2025-24893-exploit](https://github.com/TomKingori/xwiki-cve-2025-24893-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TomKingori/xwiki-cve-2025-24893-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TomKingori/xwiki-cve-2025-24893-exploit">
 - [nohack1212/CVE-2025-24893-](https://github.com/nohack1212/CVE-2025-24893-)	<img alt="forks" src="https://img.shields.io/github/forks/nohack1212/CVE-2025-24893-">	<img alt="stars" src="https://img.shields.io/github/stars/nohack1212/CVE-2025-24893-">
+- [rippsec/CVE-2025-24893-XWiki-SSTI-RCE](https://github.com/rippsec/CVE-2025-24893-XWiki-SSTI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-24893-XWiki-SSTI-RCE">
 
 ---
 ## CVE-2025-24813 ()
