@@ -432,6 +432,8 @@
 - [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL)	<img alt="forks" src="https://img.shields.io/github/forks/v31l0x1/ThrottleStopPPL">	<img alt="stars" src="https://img.shields.io/github/stars/v31l0x1/ThrottleStopPPL">
 - [lzty/CVE-2025-7771](https://github.com/lzty/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2025-7771">
 - [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
+- [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)	<img alt="forks" src="https://img.shields.io/github/forks/D4rkks/CVE-2025-7771-Vulnerability-Exploration">	<img alt="stars" src="https://img.shields.io/github/stars/D4rkks/CVE-2025-7771-Vulnerability-Exploration">
+- [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
 
 ---
 ## CVE-2025-7769 ()
