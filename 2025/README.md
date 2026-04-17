@@ -287,6 +287,7 @@
 - [popyue/CVE-2025-8110](https://github.com/popyue/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-8110">
 - [NetsecBandit/CVE-2025-8110-Exploit](https://github.com/NetsecBandit/CVE-2025-8110-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/NetsecBandit/CVE-2025-8110-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/NetsecBandit/CVE-2025-8110-Exploit">
 - [X4BROZER/CVE-2025-8110](https://github.com/X4BROZER/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/X4BROZER/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/X4BROZER/CVE-2025-8110">
+- [hassan-hamadi/CVE-2025-8110-Silentium-HTB](https://github.com/hassan-hamadi/CVE-2025-8110-Silentium-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/hassan-hamadi/CVE-2025-8110-Silentium-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/hassan-hamadi/CVE-2025-8110-Silentium-HTB">
 
 ---
 ## CVE-2025-8088 ()

@@ -167,6 +167,9 @@
 ## CVE-2026-40175 ()
 > 
 - [0xBlackash/CVE-2026-40175](https://github.com/0xBlackash/CVE-2026-40175)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-40175">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-40175">
+- [pjt3591oo/CVE-2026-40175-poc](https://github.com/pjt3591oo/CVE-2026-40175-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pjt3591oo/CVE-2026-40175-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pjt3591oo/CVE-2026-40175-poc">
+- [LeeKangHyun/axios-security-guide](https://github.com/LeeKangHyun/axios-security-guide)	<img alt="forks" src="https://img.shields.io/github/forks/LeeKangHyun/axios-security-guide">	<img alt="stars" src="https://img.shields.io/github/stars/LeeKangHyun/axios-security-guide">
+- [surri/audit-axios](https://github.com/surri/audit-axios)	<img alt="forks" src="https://img.shields.io/github/forks/surri/audit-axios">	<img alt="stars" src="https://img.shields.io/github/stars/surri/audit-axios">
 
 ---
 ## CVE-2026-39987 ()
@@ -2646,6 +2649,7 @@
 > 
 - [xShadow-Here/CVE-2026-0740](https://github.com/xShadow-Here/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-0740">
 - [whattheslime/CVE-2026-0740](https://github.com/whattheslime/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/whattheslime/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/whattheslime/CVE-2026-0740">
+- [0xgh057r3c0n/CVE-2026-0740](https://github.com/0xgh057r3c0n/CVE-2026-0740)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-0740">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-0740">
 
 ---
 ## CVE-2026-0730 ()
