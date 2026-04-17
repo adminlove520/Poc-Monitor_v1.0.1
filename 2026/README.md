@@ -546,6 +546,7 @@
 ## CVE-2026-33032 ()
 > 
 - [Twinson333/cve-2026-33032-scanner](https://github.com/Twinson333/cve-2026-33032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Twinson333/cve-2026-33032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Twinson333/cve-2026-33032-scanner">
+- [Shreda/CVE-2026-33032-nginx-ui-vuln-lab](https://github.com/Shreda/CVE-2026-33032-nginx-ui-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">
 
 ---
 ## CVE-2026-33017 ()
