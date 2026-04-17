@@ -192,6 +192,11 @@
 - [abhayclasher/CVE-2026-39866](https://github.com/abhayclasher/CVE-2026-39866)	<img alt="forks" src="https://img.shields.io/github/forks/abhayclasher/CVE-2026-39866">	<img alt="stars" src="https://img.shields.io/github/stars/abhayclasher/CVE-2026-39866">
 
 ---
+## CVE-2026-39842 ()
+> 
+- [keraattin/CVE-2026-39842](https://github.com/keraattin/CVE-2026-39842)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-39842">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-39842">
+
+---
 ## CVE-2026-39808 ()
 > 
 - [Lechansky/CVE-2026-39808](https://github.com/Lechansky/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-39808">
