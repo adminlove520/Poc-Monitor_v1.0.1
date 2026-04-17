@@ -1175,6 +1175,7 @@
 > 
 - [vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/vognik/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/vognik/CVE-2026-26980">
 - [vognik/CVE-2026-26980](https://github.com/vognik/CVE-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/vognik/CVE-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/vognik/CVE-2026-26980">
+- [dinosn/ghost-cve-2026-26980](https://github.com/dinosn/ghost-cve-2026-26980)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/ghost-cve-2026-26980">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/ghost-cve-2026-26980">
 
 ---
 ## CVE-2026-26833 ()
