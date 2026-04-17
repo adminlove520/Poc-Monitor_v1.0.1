@@ -5340,6 +5340,7 @@
 - [SeimuPVE/CVE-2021-3560_Polkit](https://github.com/SeimuPVE/CVE-2021-3560_Polkit)	<img alt="forks" src="https://img.shields.io/github/forks/SeimuPVE/CVE-2021-3560_Polkit">	<img alt="stars" src="https://img.shields.io/github/stars/SeimuPVE/CVE-2021-3560_Polkit">
 - [m4lk3rnel/CVE-2021-3560](https://github.com/m4lk3rnel/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/m4lk3rnel/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/m4lk3rnel/CVE-2021-3560">
 - [realatharva15/polkit-CVE-2021-3560_writeup](https://github.com/realatharva15/polkit-CVE-2021-3560_writeup)	<img alt="forks" src="https://img.shields.io/github/forks/realatharva15/polkit-CVE-2021-3560_writeup">	<img alt="stars" src="https://img.shields.io/github/stars/realatharva15/polkit-CVE-2021-3560_writeup">
+- [yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation](https://github.com/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation)	<img alt="forks" src="https://img.shields.io/github/forks/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation">	<img alt="stars" src="https://img.shields.io/github/stars/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
