@@ -1065,6 +1065,11 @@
 - [teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass](https://github.com/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/teteco/CVE-2025-67070-Intelbras-CFTV-MFA-Bypass">
 
 ---
+## CVE-2025-66954 ()
+> 
+- [DBmonster19/CVE-2025-66954](https://github.com/DBmonster19/CVE-2025-66954)	<img alt="forks" src="https://img.shields.io/github/forks/DBmonster19/CVE-2025-66954">	<img alt="stars" src="https://img.shields.io/github/stars/DBmonster19/CVE-2025-66954">
+
+---
 ## CVE-2025-66947 ()
 > 
 - [kabir0104k/CVE-2025-66947](https://github.com/kabir0104k/CVE-2025-66947)	<img alt="forks" src="https://img.shields.io/github/forks/kabir0104k/CVE-2025-66947">	<img alt="stars" src="https://img.shields.io/github/stars/kabir0104k/CVE-2025-66947">
