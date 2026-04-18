@@ -16,6 +16,11 @@
 - [adriangigliotti/CVE-2026-666](https://github.com/adriangigliotti/CVE-2026-666)	<img alt="forks" src="https://img.shields.io/github/forks/adriangigliotti/CVE-2026-666">	<img alt="stars" src="https://img.shields.io/github/stars/adriangigliotti/CVE-2026-666">
 
 ---
+## CVE-2026-6356 ()
+> 
+- [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
+
+---
 ## CVE-2026-6355 ()
 > 
 - [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
@@ -207,6 +212,7 @@
 > 
 - [Lechansky/CVE-2026-39808](https://github.com/Lechansky/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/Lechansky/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/Lechansky/CVE-2026-39808">
 - [samu-delucas/CVE-2026-39808](https://github.com/samu-delucas/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/samu-delucas/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/samu-delucas/CVE-2026-39808">
+- [0xBlackash/CVE-2026-39808](https://github.com/0xBlackash/CVE-2026-39808)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-39808">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-39808">
 
 ---
 ## CVE-2026-39371 ()
@@ -2442,6 +2448,11 @@
 - [carlosbudiman/CVE-2026-1953-Disclosure](https://github.com/carlosbudiman/CVE-2026-1953-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/carlosbudiman/CVE-2026-1953-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/carlosbudiman/CVE-2026-1953-Disclosure">
 
 ---
+## CVE-2026-1937 ()
+> 
+- [Nxploited/CVE-2026-1937](https://github.com/Nxploited/CVE-2026-1937)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1937">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1937">
+
+---
 ## CVE-2026-1880 ()
 > 
 - [seokjohn/CVE-2026-1880](https://github.com/seokjohn/CVE-2026-1880)	<img alt="forks" src="https://img.shields.io/github/forks/seokjohn/CVE-2026-1880">	<img alt="stars" src="https://img.shields.io/github/stars/seokjohn/CVE-2026-1880">
@@ -2521,9 +2532,10 @@
 ---
 ## CVE-2026-1492 ()
 > 
-- [dreamboyim66-boop/CVE-2026-1492-POC](https://github.com/dreamboyim66-boop/CVE-2026-1492-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dreamboyim66-boop/CVE-2026-1492-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dreamboyim66-boop/CVE-2026-1492-POC">
+- [imad-z1/CVE-2026-1492-POC](https://github.com/imad-z1/CVE-2026-1492-POC)	<img alt="forks" src="https://img.shields.io/github/forks/imad-z1/CVE-2026-1492-POC">	<img alt="stars" src="https://img.shields.io/github/stars/imad-z1/CVE-2026-1492-POC">
 - [DeadExpl0it/CVE-2026-1492](https://github.com/DeadExpl0it/CVE-2026-1492)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-1492">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-1492">
 - [the8frust/CVE-2026-1492](https://github.com/the8frust/CVE-2026-1492)	<img alt="forks" src="https://img.shields.io/github/forks/the8frust/CVE-2026-1492">	<img alt="stars" src="https://img.shields.io/github/stars/the8frust/CVE-2026-1492">
+- [Nxploited/CVE-2026-1492](https://github.com/Nxploited/CVE-2026-1492)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-1492">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-1492">
 
 ---
 ## CVE-2026-1490 ()
