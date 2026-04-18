@@ -1472,6 +1472,11 @@
 - [mindkernel/CVE-2026-25242](https://github.com/mindkernel/CVE-2026-25242)	<img alt="forks" src="https://img.shields.io/github/forks/mindkernel/CVE-2026-25242">	<img alt="stars" src="https://img.shields.io/github/stars/mindkernel/CVE-2026-25242">
 
 ---
+## CVE-2026-25232 ()
+> 
+- [H1sok444/CVE-2026-25232-PoC](https://github.com/H1sok444/CVE-2026-25232-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/H1sok444/CVE-2026-25232-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/H1sok444/CVE-2026-25232-PoC">
+
+---
 ## CVE-2026-25211 ()
 > 
 - [mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211](https://github.com/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/Llama-Stack-0.4.0rc3-local-CVE-2026-25211">
