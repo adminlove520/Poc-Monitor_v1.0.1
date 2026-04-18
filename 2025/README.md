@@ -4504,6 +4504,11 @@
 - [pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2025-53632">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2025-53632">
 
 ---
+## CVE-2025-53580 ()
+> 
+- [Nxploited/CVE-2025-53580](https://github.com/Nxploited/CVE-2025-53580)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-53580">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-53580">
+
+---
 ## CVE-2025-53558 ()
 > 
 - [houqe/POC_CVE-2025-53558](https://github.com/houqe/POC_CVE-2025-53558)	<img alt="forks" src="https://img.shields.io/github/forks/houqe/POC_CVE-2025-53558">	<img alt="stars" src="https://img.shields.io/github/stars/houqe/POC_CVE-2025-53558">
@@ -8057,7 +8062,8 @@
 ---
 ## CVE-2025-29009 ()
 > 
-- [joshs-code/CVE-2025-29009-POC](https://github.com/joshs-code/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/joshs-code/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/joshs-code/CVE-2025-29009-POC">
+- [jsecx88/CVE-2025-29009-POC](https://github.com/jsecx88/CVE-2025-29009-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jsecx88/CVE-2025-29009-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jsecx88/CVE-2025-29009-POC">
+- [Nxploited/CVE-2025-29009](https://github.com/Nxploited/CVE-2025-29009)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-29009">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-29009">
 
 ---
 ## CVE-2025-28915 ()
