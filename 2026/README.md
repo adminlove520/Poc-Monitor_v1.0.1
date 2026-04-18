@@ -559,6 +559,7 @@
 > 
 - [Twinson333/cve-2026-33032-scanner](https://github.com/Twinson333/cve-2026-33032-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Twinson333/cve-2026-33032-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Twinson333/cve-2026-33032-scanner">
 - [Shreda/CVE-2026-33032-nginx-ui-vuln-lab](https://github.com/Shreda/CVE-2026-33032-nginx-ui-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Shreda/CVE-2026-33032-nginx-ui-vuln-lab">
+- [keraattin/CVE-2026-33032](https://github.com/keraattin/CVE-2026-33032)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-33032">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-33032">
 
 ---
 ## CVE-2026-33017 ()
@@ -1462,6 +1463,8 @@
 - [Ckokoski/moatbot-security](https://github.com/Ckokoski/moatbot-security)	<img alt="forks" src="https://img.shields.io/github/forks/Ckokoski/moatbot-security">	<img alt="stars" src="https://img.shields.io/github/stars/Ckokoski/moatbot-security">
 - [msaleme/start-here](https://github.com/msaleme/start-here)	<img alt="forks" src="https://img.shields.io/github/forks/msaleme/start-here">	<img alt="stars" src="https://img.shields.io/github/stars/msaleme/start-here">
 - [ZhaoymOvO/openclaw-1click-rce-env](https://github.com/ZhaoymOvO/openclaw-1click-rce-env)	<img alt="forks" src="https://img.shields.io/github/forks/ZhaoymOvO/openclaw-1click-rce-env">	<img alt="stars" src="https://img.shields.io/github/stars/ZhaoymOvO/openclaw-1click-rce-env">
+- [KajzingerAkos/CVE-2026-25253](https://github.com/KajzingerAkos/CVE-2026-25253)	<img alt="forks" src="https://img.shields.io/github/forks/KajzingerAkos/CVE-2026-25253">	<img alt="stars" src="https://img.shields.io/github/stars/KajzingerAkos/CVE-2026-25253">
+- [Cyber-Warrior-Network/trust-gate-mcp](https://github.com/Cyber-Warrior-Network/trust-gate-mcp)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-Warrior-Network/trust-gate-mcp">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-Warrior-Network/trust-gate-mcp">
 
 ---
 ## CVE-2026-25242 ()
@@ -1738,6 +1741,7 @@
 - [ekomsSavior/telnet_scan](https://github.com/ekomsSavior/telnet_scan)	<img alt="forks" src="https://img.shields.io/github/forks/ekomsSavior/telnet_scan">	<img alt="stars" src="https://img.shields.io/github/stars/ekomsSavior/telnet_scan">
 - [athack-ctf/chall2026-telneted](https://github.com/athack-ctf/chall2026-telneted)	<img alt="forks" src="https://img.shields.io/github/forks/athack-ctf/chall2026-telneted">	<img alt="stars" src="https://img.shields.io/github/stars/athack-ctf/chall2026-telneted">
 - [Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability](https://github.com/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Risma2025/CVE-2026-24061-GNU-InetUtils-telnetd-Authentication-Bypass-Vulnerability">
+- [RStephanH/vuln-deb](https://github.com/RStephanH/vuln-deb)	<img alt="forks" src="https://img.shields.io/github/forks/RStephanH/vuln-deb">	<img alt="stars" src="https://img.shields.io/github/stars/RStephanH/vuln-deb">
 
 ---
 ## CVE-2026-2406 ()
