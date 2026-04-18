@@ -9799,6 +9799,11 @@
 - [Xernary/CVE-2025-15545](https://github.com/Xernary/CVE-2025-15545)	<img alt="forks" src="https://img.shields.io/github/forks/Xernary/CVE-2025-15545">	<img alt="stars" src="https://img.shields.io/github/stars/Xernary/CVE-2025-15545">
 
 ---
+## CVE-2025-15521 ()
+> 
+- [Nxploited/CVE-2025-15521](https://github.com/Nxploited/CVE-2025-15521)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-15521">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-15521">
+
+---
 ## CVE-2025-1550 ()
 > 
 - [ChCh0i/cve-2025-1550](https://github.com/ChCh0i/cve-2025-1550)	<img alt="forks" src="https://img.shields.io/github/forks/ChCh0i/cve-2025-1550">	<img alt="stars" src="https://img.shields.io/github/stars/ChCh0i/cve-2025-1550">
@@ -9817,6 +9822,11 @@
 ## CVE-2025-15406 ()
 > 
 - [rsecroot/CVE-2025-15406](https://github.com/rsecroot/CVE-2025-15406)	<img alt="forks" src="https://img.shields.io/github/forks/rsecroot/CVE-2025-15406">	<img alt="stars" src="https://img.shields.io/github/stars/rsecroot/CVE-2025-15406">
+
+---
+## CVE-2025-15403 ()
+> 
+- [Nxploited/CVE-2025-15403](https://github.com/Nxploited/CVE-2025-15403)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-15403">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-15403">
 
 ---
 ## CVE-2025-15390 ()
