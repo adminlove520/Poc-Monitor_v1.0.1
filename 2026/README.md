@@ -119,6 +119,11 @@
 - [gouldnicholas/CVE-2026-4660-PoC](https://github.com/gouldnicholas/CVE-2026-4660-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-4660-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-4660-PoC">
 
 ---
+## CVE-2026-4631 ()
+> 
+- [cyberheartmi9/CVE-2026-4631-cockpit-RCE](https://github.com/cyberheartmi9/CVE-2026-4631-cockpit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2026-4631-cockpit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2026-4631-cockpit-RCE">
+
+---
 ## CVE-2026-4447 ()
 > 
 - [blackhatlegend/CVE-2026-4447](https://github.com/blackhatlegend/CVE-2026-4447)	<img alt="forks" src="https://img.shields.io/github/forks/blackhatlegend/CVE-2026-4447">	<img alt="stars" src="https://img.shields.io/github/stars/blackhatlegend/CVE-2026-4447">
