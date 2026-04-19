@@ -4205,6 +4205,11 @@
 - [Aman-Parmar/CVE-2025-54554](https://github.com/Aman-Parmar/CVE-2025-54554)	<img alt="forks" src="https://img.shields.io/github/forks/Aman-Parmar/CVE-2025-54554">	<img alt="stars" src="https://img.shields.io/github/stars/Aman-Parmar/CVE-2025-54554">
 
 ---
+## CVE-2025-54505 ()
+> 
+- [siltyy/cve-2025-54505-fix](https://github.com/siltyy/cve-2025-54505-fix)	<img alt="forks" src="https://img.shields.io/github/forks/siltyy/cve-2025-54505-fix">	<img alt="stars" src="https://img.shields.io/github/stars/siltyy/cve-2025-54505-fix">
+
+---
 ## CVE-2025-54424 ()
 > 
 - [Mr-xn/CVE-2025-54424](https://github.com/Mr-xn/CVE-2025-54424)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2025-54424">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2025-54424">
