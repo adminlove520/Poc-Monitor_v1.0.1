@@ -1994,6 +1994,11 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [pikariop/yksivaihde-CVE-2023-45806](https://github.com/pikariop/yksivaihde-CVE-2023-45806)	<img alt="forks" src="https://img.shields.io/github/forks/pikariop/yksivaihde-CVE-2023-45806">	<img alt="stars" src="https://img.shields.io/github/stars/pikariop/yksivaihde-CVE-2023-45806">
 
 ---
+## CVE-2023-45802 ()
+> 
+- [MehranTurk/CVE-2023-45802](https://github.com/MehranTurk/CVE-2023-45802)	<img alt="forks" src="https://img.shields.io/github/forks/MehranTurk/CVE-2023-45802">	<img alt="stars" src="https://img.shields.io/github/stars/MehranTurk/CVE-2023-45802">
+
+---
 ## CVE-2023-45779 (2023-12-04T23:15:00)
 > In the APEX module framework of AOSP, there is a possible malicious update to platform components due to improperly used crypto. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 - [metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779)	<img alt="forks" src="https://img.shields.io/github/forks/metaredteam/rtx-cve-2023-45779">	<img alt="stars" src="https://img.shields.io/github/stars/metaredteam/rtx-cve-2023-45779">
