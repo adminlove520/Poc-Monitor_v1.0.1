@@ -2859,6 +2859,8 @@
 - [kartik2005221/CVE-2025-58434-AND-59528-POC](https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-AND-59528-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-AND-59528-POC">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
+- [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
+- [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 
 ---
 ## CVE-2025-5840 ()
