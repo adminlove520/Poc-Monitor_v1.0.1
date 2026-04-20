@@ -598,6 +598,7 @@
 - [Spydomain/CVE-2026-33017-lab](https://github.com/Spydomain/CVE-2026-33017-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-lab">
 - [Spydomain/CVE-2026-33017-langflow-lab](https://github.com/Spydomain/CVE-2026-33017-langflow-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2026-33017-langflow-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2026-33017-langflow-lab">
 - [0xBlackash/CVE-2026-33017](https://github.com/0xBlackash/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33017">
+- [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)	<img alt="forks" src="https://img.shields.io/github/forks/Jorrit-VM/CVE-2026-33017">	<img alt="stars" src="https://img.shields.io/github/stars/Jorrit-VM/CVE-2026-33017">
 
 ---
 ## CVE-2026-32945 ()
