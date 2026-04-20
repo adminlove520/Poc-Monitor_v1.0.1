@@ -748,6 +748,11 @@
 - [byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/cve-2025-6907">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/cve-2025-6907">
 
 ---
+## CVE-2025-68999 ()
+> 
+- [FOLKS-iwd/CVE-2025-68999-POC](https://github.com/FOLKS-iwd/CVE-2025-68999-POC)	<img alt="forks" src="https://img.shields.io/github/forks/FOLKS-iwd/CVE-2025-68999-POC">	<img alt="stars" src="https://img.shields.io/github/stars/FOLKS-iwd/CVE-2025-68999-POC">
+
+---
 ## CVE-2025-68971 ()
 > 
 - [ChewKeanHo/research-cve-2025-68971](https://github.com/ChewKeanHo/research-cve-2025-68971)	<img alt="forks" src="https://img.shields.io/github/forks/ChewKeanHo/research-cve-2025-68971">	<img alt="stars" src="https://img.shields.io/github/stars/ChewKeanHo/research-cve-2025-68971">
@@ -7522,6 +7527,7 @@
 - [Shisones/CVE-2025-31161](https://github.com/Shisones/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Shisones/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Shisones/CVE-2025-31161">
 - [Drelinss/Blackash-CVE-2025-31161](https://github.com/Drelinss/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Drelinss/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Drelinss/Blackash-CVE-2025-31161">
 - [eserror/CVE-2025-31161](https://github.com/eserror/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/eserror/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/eserror/CVE-2025-31161">
+- [0xBlackash/CVE-2025-31161](https://github.com/0xBlackash/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-31161">
 
 ---
 ## CVE-2025-31137 ()
