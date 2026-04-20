@@ -2861,6 +2861,7 @@
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
 - [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
+- [SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise](https://github.com/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">
 
 ---
 ## CVE-2025-5840 ()
