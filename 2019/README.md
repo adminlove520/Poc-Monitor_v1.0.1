@@ -3479,6 +3479,7 @@ use after free.
 - [adampawelczyk/CVE-2019-15107](https://github.com/adampawelczyk/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/CVE-2019-15107">
 - [adampawelczyk/cve-2019-15107](https://github.com/adampawelczyk/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/cve-2019-15107">
 - [adampawelczyk/cve-2019-15107](https://github.com/adampawelczyk/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/cve-2019-15107">
+- [viglia/cve-2019-15107](https://github.com/viglia/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/viglia/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/viglia/cve-2019-15107">
 
 ---
 ## CVE-2019-15023 (2019-10-09T21:15:00)
