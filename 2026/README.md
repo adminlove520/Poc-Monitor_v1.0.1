@@ -495,6 +495,21 @@
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
 
 ---
+## CVE-2026-33827 ()
+> 
+- [kaleth4/CVE-2026-33827](https://github.com/kaleth4/CVE-2026-33827)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33827">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33827">
+
+---
+## CVE-2026-33826 ()
+> 
+- [kaleth4/CVE-2026-33826](https://github.com/kaleth4/CVE-2026-33826)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33826">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33826">
+
+---
+## CVE-2026-33825 ()
+> 
+- [kaleth4/CVE-2026-33825](https://github.com/kaleth4/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33825">
+
+---
 ## CVE-2026-33824 ()
 > 
 - [z3r0h3ro/CVE-2026-33824](https://github.com/z3r0h3ro/CVE-2026-33824)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-33824">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-33824">
