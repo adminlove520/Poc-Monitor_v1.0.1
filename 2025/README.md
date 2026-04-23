@@ -2538,6 +2538,7 @@
 - [JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation](https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">
 - [MaxKappa/opensuse-leap-privesc-exploit](https://github.com/MaxKappa/opensuse-leap-privesc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaxKappa/opensuse-leap-privesc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaxKappa/opensuse-leap-privesc-exploit">
 - [Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn](https://github.com/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">
+- [iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
 
 ---
 ## CVE-2025-60188 ()
