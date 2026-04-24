@@ -171,6 +171,7 @@
 - [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Vozec/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Vozec/CVE-2026-41651">
 - [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
 - [CipherCloak/CVE-2026-41651](https://github.com/CipherCloak/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/CipherCloak/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/CipherCloak/CVE-2026-41651">
+- [0xBlackash/CVE-2026-41651](https://github.com/0xBlackash/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
