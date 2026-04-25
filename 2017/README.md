@@ -1944,6 +1944,7 @@
 - [jadeapar/Dragonfish-s-Malware-Cyber-Analysis](https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/jadeapar/Dragonfish-s-Malware-Cyber-Analysis">
 - [xdrake1010/CVE-2017-11882-Preventer](https://github.com/xdrake1010/CVE-2017-11882-Preventer)	<img alt="forks" src="https://img.shields.io/github/forks/xdrake1010/CVE-2017-11882-Preventer">	<img alt="stars" src="https://img.shields.io/github/stars/xdrake1010/CVE-2017-11882-Preventer">
 - [imkidz0/CVE-2017-11882](https://github.com/imkidz0/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2017-11882">
+- [DONKEY0xSHOT/CVE-2017-11882-Blocker](https://github.com/DONKEY0xSHOT/CVE-2017-11882-Blocker)	<img alt="forks" src="https://img.shields.io/github/forks/DONKEY0xSHOT/CVE-2017-11882-Blocker">	<img alt="stars" src="https://img.shields.io/github/stars/DONKEY0xSHOT/CVE-2017-11882-Blocker">
 
 ---
 ## CVE-2017-1182 ()
