@@ -5285,6 +5285,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation">
 - [Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC">
 - [k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/k4but0/Ubuntu-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/k4but0/Ubuntu-LPE">
+- [h3raklez/CVE-2023-32629](https://github.com/h3raklez/CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2023-32629">
 
 ---
 ## CVE-2023-32590 ()
