@@ -248,6 +248,7 @@
 - [mki9/CVE-2026-39987_exploit](https://github.com/mki9/CVE-2026-39987_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mki9/CVE-2026-39987_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mki9/CVE-2026-39987_exploit">
 - [keraattin/CVE-2026-39987](https://github.com/keraattin/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-39987">
 - [Nxploited/CVE-2026-39987](https://github.com/Nxploited/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-39987">
+- [h3raklez/CVE-2026-39987](https://github.com/h3raklez/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
