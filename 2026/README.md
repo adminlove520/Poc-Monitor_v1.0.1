@@ -332,6 +332,7 @@
 - [tausifzaman/CVE-2026-3844](https://github.com/tausifzaman/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2026-3844">
 - [0xgh057r3c0n/CVE-2026-3844](https://github.com/0xgh057r3c0n/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-3844">
 - [dinosn/CVE-2026-3844](https://github.com/dinosn/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-3844">
+- [im-hanzou/CVE-2026-3844](https://github.com/im-hanzou/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/CVE-2026-3844">
 
 ---
 ## CVE-2026-3805 ()
@@ -735,6 +736,11 @@
 ## CVE-2026-32722 ()
 > 
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
+
+---
+## CVE-2026-32699 ()
+> 
+- [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
 
 ---
 ## CVE-2026-32662 ()
