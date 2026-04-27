@@ -29,6 +29,7 @@
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
+- [Penguinsecq/CVE-2026-6355](https://github.com/Penguinsecq/CVE-2026-6355)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6355">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6355">
 
 ---
 ## CVE-2026-6355 ()
@@ -503,6 +504,7 @@
 ---
 ## CVE-2026-34220 ()
 > 
+- [EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-34220">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-34220">
 - [EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-34220">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-34220">
 
 ---
