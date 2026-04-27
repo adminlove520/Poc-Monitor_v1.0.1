@@ -630,6 +630,11 @@
 - [alonaki/InvenTree-Path-Traversal-CVE-2026-33531](https://github.com/alonaki/InvenTree-Path-Traversal-CVE-2026-33531)	<img alt="forks" src="https://img.shields.io/github/forks/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">	<img alt="stars" src="https://img.shields.io/github/stars/alonaki/InvenTree-Path-Traversal-CVE-2026-33531">
 
 ---
+## CVE-2026-33439 ()
+> 
+- [shreyas-malhotra/CVE-2026-33439-OpenAM](https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM)	<img alt="forks" src="https://img.shields.io/github/forks/shreyas-malhotra/CVE-2026-33439-OpenAM">	<img alt="stars" src="https://img.shields.io/github/stars/shreyas-malhotra/CVE-2026-33439-OpenAM">
+
+---
 ## CVE-2026-33340 ()
 > 
 - [regaan/CVE-2026-33340](https://github.com/regaan/CVE-2026-33340)	<img alt="forks" src="https://img.shields.io/github/forks/regaan/CVE-2026-33340">	<img alt="stars" src="https://img.shields.io/github/stars/regaan/CVE-2026-33340">
@@ -804,6 +809,11 @@
 ## CVE-2026-32194 ()
 > 
 - [z3r0h3ro/CVE-2026-32194-POC](https://github.com/z3r0h3ro/CVE-2026-32194-POC)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/CVE-2026-32194-POC">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/CVE-2026-32194-POC">
+
+---
+## CVE-2026-32136 ()
+> 
+- [0xdak/CVE-2026-32136_exploit](https://github.com/0xdak/CVE-2026-32136_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2026-32136_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2026-32136_exploit">
 
 ---
 ## CVE-2026-32127 ()
@@ -2323,6 +2333,11 @@
 ## CVE-2026-21992 ()
 > 
 - [TEXploited/CVE-2026-21992](https://github.com/TEXploited/CVE-2026-21992)	<img alt="forks" src="https://img.shields.io/github/forks/TEXploited/CVE-2026-21992">	<img alt="stars" src="https://img.shields.io/github/stars/TEXploited/CVE-2026-21992">
+
+---
+## CVE-2026-21986 ()
+> 
+- [MohaBars/CVE-2026-21986-VirtualBox-DoS](https://github.com/MohaBars/CVE-2026-21986-VirtualBox-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/MohaBars/CVE-2026-21986-VirtualBox-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/MohaBars/CVE-2026-21986-VirtualBox-DoS">
 
 ---
 ## CVE-2026-21962 ()
