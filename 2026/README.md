@@ -456,6 +456,31 @@
 - [menevarad007/CVE-2026-37748](https://github.com/menevarad007/CVE-2026-37748)	<img alt="forks" src="https://img.shields.io/github/forks/menevarad007/CVE-2026-37748">	<img alt="stars" src="https://img.shields.io/github/stars/menevarad007/CVE-2026-37748">
 
 ---
+## CVE-2026-36960 ()
+> 
+- [kirubel-cve/CVE-2026-36960](https://github.com/kirubel-cve/CVE-2026-36960)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36960">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36960">
+
+---
+## CVE-2026-36959 ()
+> 
+- [kirubel-cve/CVE-2026-36959](https://github.com/kirubel-cve/CVE-2026-36959)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36959">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36959">
+
+---
+## CVE-2026-36958 ()
+> 
+- [kirubel-cve/CVE-2026-36958](https://github.com/kirubel-cve/CVE-2026-36958)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36958">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36958">
+
+---
+## CVE-2026-36957 ()
+> 
+- [kirubel-cve/CVE-2026-36957](https://github.com/kirubel-cve/CVE-2026-36957)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36957">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36957">
+
+---
+## CVE-2026-36956 ()
+> 
+- [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
@@ -959,6 +984,8 @@
 - [mhdgning131/CVE-2026-31431_poc](https://github.com/mhdgning131/CVE-2026-31431_poc)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CVE-2026-31431_poc">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CVE-2026-31431_poc">
 - [rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecdev/cve_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecdev/cve_2026_31431">
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/copy-fail-CVE-2026-31431">
+- [Alfredooe/CVE-2026-31431](https://github.com/Alfredooe/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Alfredooe/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Alfredooe/CVE-2026-31431">
+- [Theori-lO/copy-fail-CVE-2026-31431](https://github.com/Theori-lO/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/copy-fail-CVE-2026-31431">
 
 ---
 ## CVE-2026-31413 ()
