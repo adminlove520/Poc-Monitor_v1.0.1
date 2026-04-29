@@ -7040,6 +7040,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [l0n3m4n/CVE-2024-30088](https://github.com/l0n3m4n/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3m4n/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3m4n/CVE-2024-30088">
 - [ramzihafiz/cve-2024-30088-binary](https://github.com/ramzihafiz/cve-2024-30088-binary)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/cve-2024-30088-binary">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/cve-2024-30088-binary">
 - [repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">
+- [oioio-space/maldev](https://github.com/oioio-space/maldev)	<img alt="forks" src="https://img.shields.io/github/forks/oioio-space/maldev">	<img alt="stars" src="https://img.shields.io/github/stars/oioio-space/maldev">
 
 ---
 ## CVE-2024-30085 ()
@@ -7089,6 +7090,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [AlexDoe11/CVE-2024-29988-MS-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-29988-MS-Exchange-RCE">
 - [Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sploitus/CVE-2024-29988-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sploitus/CVE-2024-29988-exploit">
 - [avitoriagomes/CVE-2024-29988](https://github.com/avitoriagomes/CVE-2024-29988)	<img alt="forks" src="https://img.shields.io/github/forks/avitoriagomes/CVE-2024-29988">	<img alt="stars" src="https://img.shields.io/github/stars/avitoriagomes/CVE-2024-29988">
+- [dinhthihanhle1989-max/CVE-2024-29988](https://github.com/dinhthihanhle1989-max/CVE-2024-29988)	<img alt="forks" src="https://img.shields.io/github/forks/dinhthihanhle1989-max/CVE-2024-29988">	<img alt="stars" src="https://img.shields.io/github/stars/dinhthihanhle1989-max/CVE-2024-29988">
 
 ---
 ## CVE-2024-29973 (2024-06-04T02:15:00)
