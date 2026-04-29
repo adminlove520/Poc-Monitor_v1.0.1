@@ -954,6 +954,13 @@
 - [louissanchez-vokecyber/CVE-2026-31790](https://github.com/louissanchez-vokecyber/CVE-2026-31790)	<img alt="forks" src="https://img.shields.io/github/forks/louissanchez-vokecyber/CVE-2026-31790">	<img alt="stars" src="https://img.shields.io/github/stars/louissanchez-vokecyber/CVE-2026-31790">
 
 ---
+## CVE-2026-31431 ()
+> 
+- [mhdgning131/CVE-2026-31431_poc](https://github.com/mhdgning131/CVE-2026-31431_poc)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CVE-2026-31431_poc">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CVE-2026-31431_poc">
+- [rootsecdev/cve_2026_31431](https://github.com/rootsecdev/cve_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/rootsecdev/cve_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/rootsecdev/cve_2026_31431">
+- [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/theori-io/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/theori-io/copy-fail-CVE-2026-31431">
+
+---
 ## CVE-2026-31413 ()
 > 
 - [Rat5ak/CVE-2026-31413-BPF-Container-Escape](https://github.com/Rat5ak/CVE-2026-31413-BPF-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31413-BPF-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31413-BPF-Container-Escape">
