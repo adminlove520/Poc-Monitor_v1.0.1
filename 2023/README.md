@@ -3484,6 +3484,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [ouoxii/Software-Testing-Final-Project](https://github.com/ouoxii/Software-Testing-Final-Project)	<img alt="forks" src="https://img.shields.io/github/forks/ouoxii/Software-Testing-Final-Project">	<img alt="stars" src="https://img.shields.io/github/stars/ouoxii/Software-Testing-Final-Project">
 - [ImagineNotChetng/WinRAR-Exploit-Builder](https://github.com/ImagineNotChetng/WinRAR-Exploit-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ImagineNotChetng/WinRAR-Exploit-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ImagineNotChetng/WinRAR-Exploit-Builder">
 - [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
+- [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -6339,6 +6340,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 - [sug4r-wr41th/CVE-2023-28121](https://github.com/sug4r-wr41th/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/sug4r-wr41th/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/sug4r-wr41th/CVE-2023-28121">
 - [0axz-tools/CVE-2023-28121](https://github.com/0axz-tools/CVE-2023-28121)	<img alt="forks" src="https://img.shields.io/github/forks/0axz-tools/CVE-2023-28121">	<img alt="stars" src="https://img.shields.io/github/stars/0axz-tools/CVE-2023-28121">
+- [luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation](https://github.com/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/luisdevpentest/-CVE-2023-28121-WordPress-Privilege-Escalation">
 
 ---
 ## CVE-2023-27997 (2023-06-13T09:15:00)

@@ -218,9 +218,19 @@
 - [dinosn/proftpd-CVE-2026-42167-analysis](https://github.com/dinosn/proftpd-CVE-2026-42167-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/proftpd-CVE-2026-42167-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/proftpd-CVE-2026-42167-analysis">
 
 ---
+## CVE-2026-42141 ()
+> 
+- [H4zaz/CVE-2026-42141-xibo-ssrf](https://github.com/H4zaz/CVE-2026-42141-xibo-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/H4zaz/CVE-2026-42141-xibo-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/H4zaz/CVE-2026-42141-xibo-ssrf">
+
+---
 ## CVE-2026-41940 ()
 > 
 - [Sachinart/CVE-2026-41940-cpanel-0day](https://github.com/Sachinart/CVE-2026-41940-cpanel-0day)	<img alt="forks" src="https://img.shields.io/github/forks/Sachinart/CVE-2026-41940-cpanel-0day">	<img alt="stars" src="https://img.shields.io/github/stars/Sachinart/CVE-2026-41940-cpanel-0day">
+- [Wesuiliye/CVE-2026-41940](https://github.com/Wesuiliye/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Wesuiliye/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Wesuiliye/CVE-2026-41940">
+- [yaunsky/cPanelWHM-AuthBypass](https://github.com/yaunsky/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cPanelWHM-AuthBypass">
+- [rdyprtmx/poc-cve-2026-41940](https://github.com/rdyprtmx/poc-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/rdyprtmx/poc-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/rdyprtmx/poc-cve-2026-41940">
+- [adriyansyah-mf/cve-2026-41940-poc](https://github.com/adriyansyah-mf/cve-2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-41940-poc">
+- [debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker](https://github.com/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/debugactiveprocess/cPanel-WHM-AuthBypass-Session-Checker">
 
 ---
 ## CVE-2026-41679 ()
@@ -1048,6 +1058,21 @@
 - [luotian2/CVE-2026-31431](https://github.com/luotian2/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/luotian2/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/luotian2/CVE-2026-31431">
 - [Sndav/CVE-2026-31431-Advanced-Exploit](https://github.com/Sndav/CVE-2026-31431-Advanced-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Sndav/CVE-2026-31431-Advanced-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Sndav/CVE-2026-31431-Advanced-Exploit">
 - [gubaiovo/CVE-2026-31431](https://github.com/gubaiovo/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gubaiovo/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gubaiovo/CVE-2026-31431">
+- [iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail](https://github.com/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/iss4cf0ng/CVE-2026-31431-Linux-Copy-Fail">
+- [WavesMan/cve-2026-31431-fleet-remediator](https://github.com/WavesMan/cve-2026-31431-fleet-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/WavesMan/cve-2026-31431-fleet-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/WavesMan/cve-2026-31431-fleet-remediator">
+- [nisec-eric/cve-2026-31431](https://github.com/nisec-eric/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/nisec-eric/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/nisec-eric/cve-2026-31431">
+- [ryan2929/CVE-2026-31431](https://github.com/ryan2929/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ryan2929/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ryan2929/CVE-2026-31431">
+- [wuzuowei/copy-fail-CVE-2026-31431](https://github.com/wuzuowei/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wuzuowei/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wuzuowei/copy-fail-CVE-2026-31431">
+- [arkdev1/check-cve-2026-31431](https://github.com/arkdev1/check-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/arkdev1/check-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/arkdev1/check-cve-2026-31431">
+- [Isw-9/copy-fail-cve-2026-31431-aarch64](https://github.com/Isw-9/copy-fail-cve-2026-31431-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/Isw-9/copy-fail-cve-2026-31431-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/Isw-9/copy-fail-cve-2026-31431-aarch64">
+- [freelabz/CVE-2026-31431](https://github.com/freelabz/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/freelabz/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/freelabz/CVE-2026-31431">
+- [0xShe/CVE-2026-31431](https://github.com/0xShe/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/0xShe/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/0xShe/CVE-2026-31431">
+- [wuwu001/CVE-2026-31431-exploit](https://github.com/wuwu001/CVE-2026-31431-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wuwu001/CVE-2026-31431-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wuwu001/CVE-2026-31431-exploit">
+- [guard-wait/CVE-2026-31431_EXP](https://github.com/guard-wait/CVE-2026-31431_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2026-31431_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2026-31431_EXP">
+- [mrowkoob/copy-fail-mitigate-no-reboot](https://github.com/mrowkoob/copy-fail-mitigate-no-reboot)	<img alt="forks" src="https://img.shields.io/github/forks/mrowkoob/copy-fail-mitigate-no-reboot">	<img alt="stars" src="https://img.shields.io/github/stars/mrowkoob/copy-fail-mitigate-no-reboot">
+- [Aurillium/RootRemover](https://github.com/Aurillium/RootRemover)	<img alt="forks" src="https://img.shields.io/github/forks/Aurillium/RootRemover">	<img alt="stars" src="https://img.shields.io/github/stars/Aurillium/RootRemover">
+- [NichiyaOba/linux-vuln-CVE-2026-31431](https://github.com/NichiyaOba/linux-vuln-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/NichiyaOba/linux-vuln-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/NichiyaOba/linux-vuln-CVE-2026-31431">
+- [twowb/CVE-2026-31431-](https://github.com/twowb/CVE-2026-31431-)	<img alt="forks" src="https://img.shields.io/github/forks/twowb/CVE-2026-31431-">	<img alt="stars" src="https://img.shields.io/github/stars/twowb/CVE-2026-31431-">
 
 ---
 ## CVE-2026-31413 ()
