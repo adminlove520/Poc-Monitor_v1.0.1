@@ -481,6 +481,16 @@
 - [kirubel-cve/CVE-2026-36956](https://github.com/kirubel-cve/CVE-2026-36956)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36956">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36956">
 
 ---
+## CVE-2026-36341 ()
+> 
+- [cybercrewinc/CVE-2026-36341](https://github.com/cybercrewinc/CVE-2026-36341)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2026-36341">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2026-36341">
+
+---
+## CVE-2026-36340 ()
+> 
+- [cybercrewinc/CVE-2026-36340](https://github.com/cybercrewinc/CVE-2026-36340)	<img alt="forks" src="https://img.shields.io/github/forks/cybercrewinc/CVE-2026-36340">	<img alt="stars" src="https://img.shields.io/github/stars/cybercrewinc/CVE-2026-36340">
+
+---
 ## CVE-2026-3587 ()
 > 
 - [z3r0h3ro/cve-2026-3587-poc](https://github.com/z3r0h3ro/cve-2026-3587-poc)	<img alt="forks" src="https://img.shields.io/github/forks/z3r0h3ro/cve-2026-3587-poc">	<img alt="stars" src="https://img.shields.io/github/stars/z3r0h3ro/cve-2026-3587-poc">
@@ -1017,6 +1027,14 @@
 - [Alfredooe/CVE-2026-31431](https://github.com/Alfredooe/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Alfredooe/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Alfredooe/CVE-2026-31431">
 - [Theori-lO/copy-fail-CVE-2026-31431](https://github.com/Theori-lO/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/copy-fail-CVE-2026-31431">
 - [painoob/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/painoob/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/painoob/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/painoob/Copy-Fail-Exploit-CVE-2026-31431">
+- [ruattd/cve-2026-31431](https://github.com/ruattd/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ruattd/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ruattd/cve-2026-31431">
+- [yiyihuohuo/CVE-2026-31431](https://github.com/yiyihuohuo/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/yiyihuohuo/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/yiyihuohuo/CVE-2026-31431">
+- [Percivalll/Copy-Fail-CVE-2026-31431-Statically-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Statically-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Copy-Fail-CVE-2026-31431-Statically-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Copy-Fail-CVE-2026-31431-Statically-PoC">
+- [b5null/CVE-2026-31431-C](https://github.com/b5null/CVE-2026-31431-C)	<img alt="forks" src="https://img.shields.io/github/forks/b5null/CVE-2026-31431-C">	<img alt="stars" src="https://img.shields.io/github/stars/b5null/CVE-2026-31431-C">
+- [tgies/copy-fail-c](https://github.com/tgies/copy-fail-c)	<img alt="forks" src="https://img.shields.io/github/forks/tgies/copy-fail-c">	<img alt="stars" src="https://img.shields.io/github/stars/tgies/copy-fail-c">
+- [Crihexe/copy-fail-tiny-elf-CVE-2026-31431](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Crihexe/copy-fail-tiny-elf-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Crihexe/copy-fail-tiny-elf-CVE-2026-31431">
+- [ZephrFish/CopyFail-CVE-2026-31431](https://github.com/ZephrFish/CopyFail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CopyFail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CopyFail-CVE-2026-31431">
+- [badsectorlabs/copyfail-go](https://github.com/badsectorlabs/copyfail-go)	<img alt="forks" src="https://img.shields.io/github/forks/badsectorlabs/copyfail-go">	<img alt="stars" src="https://img.shields.io/github/stars/badsectorlabs/copyfail-go">
 
 ---
 ## CVE-2026-31413 ()
