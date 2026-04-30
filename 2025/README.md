@@ -3604,6 +3604,7 @@
 - [Black-and-reds/reactguard](https://github.com/Black-and-reds/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Black-and-reds/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Black-and-reds/reactguard">
 - [shubham-01-star/OpsGuard-simulation](https://github.com/shubham-01-star/OpsGuard-simulation)	<img alt="forks" src="https://img.shields.io/github/forks/shubham-01-star/OpsGuard-simulation">	<img alt="stars" src="https://img.shields.io/github/stars/shubham-01-star/OpsGuard-simulation">
 - [JSH-data/CVE-2025-55184_CVE-2025-67779](https://github.com/JSH-data/CVE-2025-55184_CVE-2025-67779)	<img alt="forks" src="https://img.shields.io/github/forks/JSH-data/CVE-2025-55184_CVE-2025-67779">	<img alt="stars" src="https://img.shields.io/github/stars/JSH-data/CVE-2025-55184_CVE-2025-67779">
+- [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 
 ---
 ## CVE-2025-55183 ()
