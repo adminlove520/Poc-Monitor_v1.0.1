@@ -1139,6 +1139,15 @@
 - [wgnet/wg.copyfail.patch](https://github.com/wgnet/wg.copyfail.patch)	<img alt="forks" src="https://img.shields.io/github/forks/wgnet/wg.copyfail.patch">	<img alt="stars" src="https://img.shields.io/github/stars/wgnet/wg.copyfail.patch">
 - [sammwyy/copyfail-rs](https://github.com/sammwyy/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/sammwyy/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/sammwyy/copyfail-rs">
 - [cs8425/copy-fail-go](https://github.com/cs8425/copy-fail-go)	<img alt="forks" src="https://img.shields.io/github/forks/cs8425/copy-fail-go">	<img alt="stars" src="https://img.shields.io/github/stars/cs8425/copy-fail-go">
+- [sec17br/CVE-2026-31431-Copy-Fail](https://github.com/sec17br/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/sec17br/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/sec17br/CVE-2026-31431-Copy-Fail">
+- [Xerxes-2/CVE-2026-31431-rs](https://github.com/Xerxes-2/CVE-2026-31431-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Xerxes-2/CVE-2026-31431-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Xerxes-2/CVE-2026-31431-rs">
+- [MohamedKarrab/Copy-Fail-CVE-2026-31431](https://github.com/MohamedKarrab/Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedKarrab/Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedKarrab/Copy-Fail-CVE-2026-31431">
+- [SeanRickerd/cve-2026-31431](https://github.com/SeanRickerd/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SeanRickerd/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SeanRickerd/cve-2026-31431">
+- [abdullaabdullazade/CVE-2026-31431](https://github.com/abdullaabdullazade/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/abdullaabdullazade/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/abdullaabdullazade/CVE-2026-31431">
+- [w3llr00t3d/CVE-2026-31431-PoC](https://github.com/w3llr00t3d/CVE-2026-31431-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/w3llr00t3d/CVE-2026-31431-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/w3llr00t3d/CVE-2026-31431-PoC">
+- [weirdindiankid/copy-fail](https://github.com/weirdindiankid/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/weirdindiankid/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/weirdindiankid/copy-fail">
+- [mhdgning131/CopyFail-Patcher](https://github.com/mhdgning131/CopyFail-Patcher)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CopyFail-Patcher">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CopyFail-Patcher">
+- [vynazevedo/fail-CVE-2026-31431](https://github.com/vynazevedo/fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/vynazevedo/fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/vynazevedo/fail-CVE-2026-31431">
 
 ---
 ## CVE-2026-31413 ()
