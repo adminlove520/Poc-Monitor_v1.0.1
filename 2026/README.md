@@ -1170,6 +1170,11 @@
 - [diemoeve/copyfail-rs](https://github.com/diemoeve/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/diemoeve/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/diemoeve/copyfail-rs">
 - [selectel/mks-copy-fail-mitigation](https://github.com/selectel/mks-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/selectel/mks-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/selectel/mks-copy-fail-mitigation">
 - [Koke-Seas/COPY-FAIL-CVE](https://github.com/Koke-Seas/COPY-FAIL-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/Koke-Seas/COPY-FAIL-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/Koke-Seas/COPY-FAIL-CVE">
+- [DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc">
+- [yuspring/cve-2026-31431-poc](https://github.com/yuspring/cve-2026-31431-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuspring/cve-2026-31431-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuspring/cve-2026-31431-poc">
+- [Juguitos/copy-fail](https://github.com/Juguitos/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/Juguitos/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/Juguitos/copy-fail">
+- [mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431">
+- [devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp)	<img alt="forks" src="https://img.shields.io/github/forks/devstuff/harden-docker-seccomp">	<img alt="stars" src="https://img.shields.io/github/stars/devstuff/harden-docker-seccomp">
 
 ---
 ## CVE-2026-31413 ()
