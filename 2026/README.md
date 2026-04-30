@@ -234,6 +234,7 @@
 - [realawaisakbar/CVE-2026-41940-Exploit-PoC](https://github.com/realawaisakbar/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/realawaisakbar/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/realawaisakbar/CVE-2026-41940-Exploit-PoC">
 - [assetnote/cpanel2shell-scanner](https://github.com/assetnote/cpanel2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/assetnote/cpanel2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/assetnote/cpanel2shell-scanner">
 - [Kagantua/cPanelWHM-AuthBypass](https://github.com/Kagantua/cPanelWHM-AuthBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kagantua/cPanelWHM-AuthBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kagantua/cPanelWHM-AuthBypass">
+- [ilmndwntr/CVE-2026-41940-MASS-EXPLOIT](https://github.com/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/ilmndwntr/CVE-2026-41940-MASS-EXPLOIT">
 
 ---
 ## CVE-2026-41679 ()
@@ -643,6 +644,11 @@
 ## CVE-2026-3442 ()
 > 
 - [hacker1337itme/CVE-2026-3442](https://github.com/hacker1337itme/CVE-2026-3442)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2026-3442">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2026-3442">
+
+---
+## CVE-2026-34308 ()
+> 
+- [JoakimBulow/CVE-2026-34308](https://github.com/JoakimBulow/CVE-2026-34308)	<img alt="forks" src="https://img.shields.io/github/forks/JoakimBulow/CVE-2026-34308">	<img alt="stars" src="https://img.shields.io/github/stars/JoakimBulow/CVE-2026-34308">
 
 ---
 ## CVE-2026-34227 ()
@@ -1108,6 +1114,13 @@
 - [dixyes/fuck_cve_2026_31431](https://github.com/dixyes/fuck_cve_2026_31431)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/fuck_cve_2026_31431">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/fuck_cve_2026_31431">
 - [Linux-zs/cve-2026-31431-mitigation](https://github.com/Linux-zs/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Linux-zs/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Linux-zs/cve-2026-31431-mitigation">
 - [eleveni386/CVE-2026-31431-Golang](https://github.com/eleveni386/CVE-2026-31431-Golang)	<img alt="forks" src="https://img.shields.io/github/forks/eleveni386/CVE-2026-31431-Golang">	<img alt="stars" src="https://img.shields.io/github/stars/eleveni386/CVE-2026-31431-Golang">
+- [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
+- [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [XsanFlip/CVE-2026-31431-Patch](https://github.com/XsanFlip/CVE-2026-31431-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-31431-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-31431-Patch">
+- [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
+- [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
+- [Boos4721/copyfail-rs](https://github.com/Boos4721/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Boos4721/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Boos4721/copyfail-rs">
+- [mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431">
 
 ---
 ## CVE-2026-31413 ()
