@@ -2668,6 +2668,11 @@
 - [AzureADTrent/CVE-2025-58434-59528](https://github.com/AzureADTrent/CVE-2025-58434-59528)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-58434-59528">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-58434-59528">
 - [maradonam18/-CVE-2025-59528-PoC](https://github.com/maradonam18/-CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maradonam18/-CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maradonam18/-CVE-2025-59528-PoC">
 - [danhle5402/CVE-2025-59528](https://github.com/danhle5402/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/danhle5402/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/danhle5402/CVE-2025-59528">
+- [mananispiwpiw/CVE-2025-59528-PoC](https://github.com/mananispiwpiw/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-59528-PoC">
+- [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
+- [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
+- [r3nsi15/Flowise-RCE-CVE-2025-59528](https://github.com/r3nsi15/Flowise-RCE-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-RCE-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-RCE-CVE-2025-59528">
+- [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 
 ---
 ## CVE-2025-59503 ()

@@ -1247,6 +1247,10 @@
 - [ExploitEoom/CVE-2026-31431](https://github.com/ExploitEoom/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-31431">
 - [ben-slates/CVE-2026-31431-Exploit](https://github.com/ben-slates/CVE-2026-31431-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ben-slates/CVE-2026-31431-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ben-slates/CVE-2026-31431-Exploit">
 - [sercuritycyber/COPY-FAIL-CVE-2026-31431](https://github.com/sercuritycyber/COPY-FAIL-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sercuritycyber/COPY-FAIL-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sercuritycyber/COPY-FAIL-CVE-2026-31431">
+- [1amBa7Man/Linux-copy-fail-CVE-2026-31431](https://github.com/1amBa7Man/Linux-copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/1amBa7Man/Linux-copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/1amBa7Man/Linux-copy-fail-CVE-2026-31431">
+- [Lyutoon/CopyFail-Experiment](https://github.com/Lyutoon/CopyFail-Experiment)	<img alt="forks" src="https://img.shields.io/github/forks/Lyutoon/CopyFail-Experiment">	<img alt="stars" src="https://img.shields.io/github/stars/Lyutoon/CopyFail-Experiment">
+- [mrunalp/block-copyfail](https://github.com/mrunalp/block-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/mrunalp/block-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/mrunalp/block-copyfail">
+- [bootsareme/copyfail-deconstructed](https://github.com/bootsareme/copyfail-deconstructed)	<img alt="forks" src="https://img.shields.io/github/forks/bootsareme/copyfail-deconstructed">	<img alt="stars" src="https://img.shields.io/github/stars/bootsareme/copyfail-deconstructed">
 
 ---
 ## CVE-2026-3143 ()
