@@ -1204,6 +1204,12 @@
 - [LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">
 - [boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator">
 - [HulnotHutu/CVE-2026-31431](https://github.com/HulnotHutu/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/HulnotHutu/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/HulnotHutu/CVE-2026-31431">
+- [ErdemOzgen/copy-fail-cve-2026-31431](https://github.com/ErdemOzgen/copy-fail-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ErdemOzgen/copy-fail-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ErdemOzgen/copy-fail-cve-2026-31431">
+- [OmerAti/almalinux-fix-cve-2026-31431](https://github.com/OmerAti/almalinux-fix-cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/OmerAti/almalinux-fix-cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/OmerAti/almalinux-fix-cve-2026-31431">
+- [Nu1i/exploit_cve_2026_31431_py36](https://github.com/Nu1i/exploit_cve_2026_31431_py36)	<img alt="forks" src="https://img.shields.io/github/forks/Nu1i/exploit_cve_2026_31431_py36">	<img alt="stars" src="https://img.shields.io/github/stars/Nu1i/exploit_cve_2026_31431_py36">
+- [mahradbt/copyfail-mitigation](https://github.com/mahradbt/copyfail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/mahradbt/copyfail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/mahradbt/copyfail-mitigation">
+- [deckhouse/d8-copy-fail-mitigation](https://github.com/deckhouse/d8-copy-fail-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/deckhouse/d8-copy-fail-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/deckhouse/d8-copy-fail-mitigation">
+- [cyber-joker/copy-fail-python](https://github.com/cyber-joker/copy-fail-python)	<img alt="forks" src="https://img.shields.io/github/forks/cyber-joker/copy-fail-python">	<img alt="stars" src="https://img.shields.io/github/stars/cyber-joker/copy-fail-python">
 
 ---
 ## CVE-2026-3143 ()
@@ -3368,6 +3374,11 @@
 > 
 - [TeeyaR/CVE-2026-0227-Palo-Alto](https://github.com/TeeyaR/CVE-2026-0227-Palo-Alto)	<img alt="forks" src="https://img.shields.io/github/forks/TeeyaR/CVE-2026-0227-Palo-Alto">	<img alt="stars" src="https://img.shields.io/github/stars/TeeyaR/CVE-2026-0227-Palo-Alto">
 - [CkAbhijit/CVE-2026-0227-Advanced-Scanner](https://github.com/CkAbhijit/CVE-2026-0227-Advanced-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CkAbhijit/CVE-2026-0227-Advanced-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CkAbhijit/CVE-2026-0227-Advanced-Scanner">
+
+---
+## CVE-2026-0047 ()
+> 
+- [mobilehackinglab/CVE-2026-0047-poc](https://github.com/mobilehackinglab/CVE-2026-0047-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mobilehackinglab/CVE-2026-0047-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mobilehackinglab/CVE-2026-0047-poc">
 
 ---
 ## CVE-2026-0006 ()
