@@ -245,6 +245,7 @@
 - [shahidmallaofficial/cpanel-cve-2026-41940-fix](https://github.com/shahidmallaofficial/cpanel-cve-2026-41940-fix)	<img alt="forks" src="https://img.shields.io/github/forks/shahidmallaofficial/cpanel-cve-2026-41940-fix">	<img alt="stars" src="https://img.shields.io/github/stars/shahidmallaofficial/cpanel-cve-2026-41940-fix">
 - [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
 - [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
+- [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
 
 ---
 ## CVE-2026-41679 ()
@@ -1189,6 +1190,10 @@
 - [wvverez/CVE-2026-31431-Copy-Fail](https://github.com/wvverez/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2026-31431-Copy-Fail">
 - [offsecguy/CVE-2026-31431](https://github.com/offsecguy/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/offsecguy/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/offsecguy/CVE-2026-31431">
 - [maniakh/CVE-2026-31431---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-31431---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-31431---Copy-Fail-PoC">
+- [karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner](https://github.com/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner)	<img alt="forks" src="https://img.shields.io/github/forks/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner">	<img alt="stars" src="https://img.shields.io/github/stars/karollooool/Porting-CVE-2026-31431-Copy-Fail-to-a-Constrained-Java-Runner">
+- [sngrotesque/CVE-2026-31431](https://github.com/sngrotesque/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sngrotesque/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sngrotesque/CVE-2026-31431">
+- [poyea/CVE-2026-31431.c](https://github.com/poyea/CVE-2026-31431.c)	<img alt="forks" src="https://img.shields.io/github/forks/poyea/CVE-2026-31431.c">	<img alt="stars" src="https://img.shields.io/github/stars/poyea/CVE-2026-31431.c">
+- [bryanvine/copy-fail-fix](https://github.com/bryanvine/copy-fail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bryanvine/copy-fail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bryanvine/copy-fail-fix">
 
 ---
 ## CVE-2026-3143 ()
