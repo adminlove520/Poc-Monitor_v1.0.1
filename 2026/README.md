@@ -1194,6 +1194,14 @@
 - [sngrotesque/CVE-2026-31431](https://github.com/sngrotesque/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/sngrotesque/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/sngrotesque/CVE-2026-31431">
 - [poyea/CVE-2026-31431.c](https://github.com/poyea/CVE-2026-31431.c)	<img alt="forks" src="https://img.shields.io/github/forks/poyea/CVE-2026-31431.c">	<img alt="stars" src="https://img.shields.io/github/stars/poyea/CVE-2026-31431.c">
 - [bryanvine/copy-fail-fix](https://github.com/bryanvine/copy-fail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/bryanvine/copy-fail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/bryanvine/copy-fail-fix">
+- [ashok523/cve-2026-31431](https://github.com/ashok523/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/ashok523/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/ashok523/cve-2026-31431">
+- [aestechno/cve-2026-31431-ansible](https://github.com/aestechno/cve-2026-31431-ansible)	<img alt="forks" src="https://img.shields.io/github/forks/aestechno/cve-2026-31431-ansible">	<img alt="stars" src="https://img.shields.io/github/stars/aestechno/cve-2026-31431-ansible">
+- [johanburati/CVE-2026-31431](https://github.com/johanburati/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/johanburati/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/johanburati/CVE-2026-31431">
+- [jodonnel/copyfail-briefing](https://github.com/jodonnel/copyfail-briefing)	<img alt="forks" src="https://img.shields.io/github/forks/jodonnel/copyfail-briefing">	<img alt="stars" src="https://img.shields.io/github/stars/jodonnel/copyfail-briefing">
+- [3jee/copy-fail-go](https://github.com/3jee/copy-fail-go)	<img alt="forks" src="https://img.shields.io/github/forks/3jee/copy-fail-go">	<img alt="stars" src="https://img.shields.io/github/stars/3jee/copy-fail-go">
+- [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
+- [LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">
+- [boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator">
 
 ---
 ## CVE-2026-3143 ()
