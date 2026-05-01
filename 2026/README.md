@@ -1186,6 +1186,9 @@
 - [liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script](https://github.com/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/CVE-2026-31431-Copy-Fail---Vulnerability-Detection-Script">
 - [mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4](https://github.com/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4)	<img alt="forks" src="https://img.shields.io/github/forks/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">	<img alt="stars" src="https://img.shields.io/github/stars/mym0us3r/COPY-FAIL-Detection-with-Wazuh-4.14.4">
 - [meowteusz/copyfailautopatch](https://github.com/meowteusz/copyfailautopatch)	<img alt="forks" src="https://img.shields.io/github/forks/meowteusz/copyfailautopatch">	<img alt="stars" src="https://img.shields.io/github/stars/meowteusz/copyfailautopatch">
+- [wvverez/CVE-2026-31431-Copy-Fail](https://github.com/wvverez/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2026-31431-Copy-Fail">
+- [offsecguy/CVE-2026-31431](https://github.com/offsecguy/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/offsecguy/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/offsecguy/CVE-2026-31431">
+- [maniakh/CVE-2026-31431---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/maniakh/CVE-2026-31431---Copy-Fail-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/maniakh/CVE-2026-31431---Copy-Fail-PoC">
 
 ---
 ## CVE-2026-3143 ()
