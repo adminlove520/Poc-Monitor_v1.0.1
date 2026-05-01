@@ -246,6 +246,7 @@
 - [zedxod/CVE-2026-41940-POC](https://github.com/zedxod/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/zedxod/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/zedxod/CVE-2026-41940-POC">
 - [rfxn/cpanel-sessionscribe](https://github.com/rfxn/cpanel-sessionscribe)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/cpanel-sessionscribe">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/cpanel-sessionscribe">
 - [george1-adel/CVE-2026-41940_exploit](https://github.com/george1-adel/CVE-2026-41940_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2026-41940_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2026-41940_exploit">
+- [mahfuzreham/cpanel-cve-2026-41940](https://github.com/mahfuzreham/cpanel-cve-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/mahfuzreham/cpanel-cve-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/mahfuzreham/cpanel-cve-2026-41940">
 
 ---
 ## CVE-2026-41679 ()
@@ -1202,6 +1203,7 @@
 - [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
 - [LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/LeonardoNovais7/Copy-Fail-Exploit-CVE-2026-31431">
 - [boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator)	<img alt="forks" src="https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator">	<img alt="stars" src="https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator">
+- [HulnotHutu/CVE-2026-31431](https://github.com/HulnotHutu/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/HulnotHutu/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/HulnotHutu/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
