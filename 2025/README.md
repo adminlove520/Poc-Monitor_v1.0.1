@@ -2896,6 +2896,8 @@
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
 - [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 - [SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise](https://github.com/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">
+- [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
+- [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-5840 ()
