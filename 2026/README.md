@@ -252,6 +252,7 @@
 - [unteikyou/CVE-2026-41940-AuthBypass-Detector](https://github.com/unteikyou/CVE-2026-41940-AuthBypass-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/unteikyou/CVE-2026-41940-AuthBypass-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/unteikyou/CVE-2026-41940-AuthBypass-Detector">
 - [merdw/cPanel-CVE-2026-41940-Scanner](https://github.com/merdw/cPanel-CVE-2026-41940-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/merdw/cPanel-CVE-2026-41940-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/merdw/cPanel-CVE-2026-41940-Scanner">
 - [senyx122/CVE-2026-41940](https://github.com/senyx122/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/senyx122/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/senyx122/CVE-2026-41940">
+- [ynsmroztas/cPanelSniper](https://github.com/ynsmroztas/cPanelSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/cPanelSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/cPanelSniper">
 
 ---
 ## CVE-2026-41679 ()
@@ -1227,6 +1228,9 @@
 - [RecoFu/CVE-2026-31431-Copy-Fail](https://github.com/RecoFu/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/RecoFu/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/RecoFu/CVE-2026-31431-Copy-Fail">
 - [FrosterDL/CVE-2026-31431](https://github.com/FrosterDL/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-31431">
 - [atgreen/block-copyfail](https://github.com/atgreen/block-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/atgreen/block-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/atgreen/block-copyfail">
+- [Silent0x0/Copy-Fail---CVE-2026-31431](https://github.com/Silent0x0/Copy-Fail---CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Silent0x0/Copy-Fail---CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Silent0x0/Copy-Fail---CVE-2026-31431">
+- [sbeteta42/CVE-2026-31431_je_sappelle_RoOt](https://github.com/sbeteta42/CVE-2026-31431_je_sappelle_RoOt)	<img alt="forks" src="https://img.shields.io/github/forks/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">	<img alt="stars" src="https://img.shields.io/github/stars/sbeteta42/CVE-2026-31431_je_sappelle_RoOt">
+- [rvizx/CVE-2026-31431](https://github.com/rvizx/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
