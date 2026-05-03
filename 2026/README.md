@@ -1338,6 +1338,7 @@
 - [Huchangzhi/autorootlinux](https://github.com/Huchangzhi/autorootlinux)	<img alt="forks" src="https://img.shields.io/github/forks/Huchangzhi/autorootlinux">	<img alt="stars" src="https://img.shields.io/github/stars/Huchangzhi/autorootlinux">
 - [rippsec/cve-2026-31431](https://github.com/rippsec/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/cve-2026-31431">
 - [AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing)	<img alt="forks" src="https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">	<img alt="stars" src="https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing">
+- [pedromizz/copy-fail](https://github.com/pedromizz/copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/pedromizz/copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/pedromizz/copy-fail">
 
 ---
 ## CVE-2026-3143 ()
