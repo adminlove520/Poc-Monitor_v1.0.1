@@ -16,6 +16,11 @@
 - [CaginKyr/CVE-2026-7671](https://github.com/CaginKyr/CVE-2026-7671)	<img alt="forks" src="https://img.shields.io/github/forks/CaginKyr/CVE-2026-7671">	<img alt="stars" src="https://img.shields.io/github/stars/CaginKyr/CVE-2026-7671">
 
 ---
+## CVE-2026-7669 ()
+> 
+- [gouldnicholas/CVE-2026-7669-PoC](https://github.com/gouldnicholas/CVE-2026-7669-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/gouldnicholas/CVE-2026-7669-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/gouldnicholas/CVE-2026-7669-PoC">
+
+---
 ## CVE-2026-7567 ()
 > 
 - [amirhosseinjamshidi64/CVE-2026-7567-POC](https://github.com/amirhosseinjamshidi64/CVE-2026-7567-POC)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinjamshidi64/CVE-2026-7567-POC">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinjamshidi64/CVE-2026-7567-POC">
@@ -245,6 +250,7 @@
 - [Sl4cK0TH/CVE-2026-42167-PoC](https://github.com/Sl4cK0TH/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sl4cK0TH/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sl4cK0TH/CVE-2026-42167-PoC">
 - [efeanilarslan/CVE-2026-42167-Exploit](https://github.com/efeanilarslan/CVE-2026-42167-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/efeanilarslan/CVE-2026-42167-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/efeanilarslan/CVE-2026-42167-Exploit">
 - [jimmexploit/CVE-2026-42167-PoC](https://github.com/jimmexploit/CVE-2026-42167-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jimmexploit/CVE-2026-42167-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jimmexploit/CVE-2026-42167-PoC">
+- [kaleth4/CVE-2026-42167](https://github.com/kaleth4/CVE-2026-42167)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-42167">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-42167">
 
 ---
 ## CVE-2026-42141 ()
@@ -1399,6 +1405,8 @@
 - [jdarkcaos-kai/cve-2026-31431-medium-unpriv-t](https://github.com/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t)	<img alt="forks" src="https://img.shields.io/github/forks/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">	<img alt="stars" src="https://img.shields.io/github/stars/jdarkcaos-kai/cve-2026-31431-medium-unpriv-t">
 - [juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/juliosuas/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/juliosuas/copyfail-guard">
 - [ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/copyfail-guard">
+- [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
+- [codesource/copyfail-check](https://github.com/codesource/copyfail-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/copyfail-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/copyfail-check">
 
 ---
 ## CVE-2026-3143 ()
