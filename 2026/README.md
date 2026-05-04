@@ -76,6 +76,11 @@
 - [mlgzackfly/CVE-2026-6643](https://github.com/mlgzackfly/CVE-2026-6643)	<img alt="forks" src="https://img.shields.io/github/forks/mlgzackfly/CVE-2026-6643">	<img alt="stars" src="https://img.shields.io/github/stars/mlgzackfly/CVE-2026-6643">
 
 ---
+## CVE-2026-6379 ()
+> 
+- [dinosn/cve-2026-6379](https://github.com/dinosn/cve-2026-6379)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-6379">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-6379">
+
+---
 ## CVE-2026-6356 ()
 > 
 - [Penguinsecq/CVE-2026-6356](https://github.com/Penguinsecq/CVE-2026-6356)	<img alt="forks" src="https://img.shields.io/github/forks/Penguinsecq/CVE-2026-6356">	<img alt="stars" src="https://img.shields.io/github/stars/Penguinsecq/CVE-2026-6356">
@@ -1407,6 +1412,7 @@
 - [ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard)	<img alt="forks" src="https://img.shields.io/github/forks/ctzisme/copyfail-guard">	<img alt="stars" src="https://img.shields.io/github/stars/ctzisme/copyfail-guard">
 - [xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE)	<img alt="forks" src="https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">	<img alt="stars" src="https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE">
 - [codesource/copyfail-check](https://github.com/codesource/copyfail-check)	<img alt="forks" src="https://img.shields.io/github/forks/codesource/copyfail-check">	<img alt="stars" src="https://img.shields.io/github/stars/codesource/copyfail-check">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
 
 ---
 ## CVE-2026-3143 ()
@@ -1816,6 +1822,11 @@
 > 
 - [romain-deperne/CVE-2026-27825](https://github.com/romain-deperne/CVE-2026-27825)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-27825">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-27825">
 - [plutosecurity/MCPwnfluence](https://github.com/plutosecurity/MCPwnfluence)	<img alt="forks" src="https://img.shields.io/github/forks/plutosecurity/MCPwnfluence">	<img alt="stars" src="https://img.shields.io/github/stars/plutosecurity/MCPwnfluence">
+
+---
+## CVE-2026-27778 ()
+> 
+- [KimJ6/PoC-Simulator_CVE-2026-27778](https://github.com/KimJ6/PoC-Simulator_CVE-2026-27778)	<img alt="forks" src="https://img.shields.io/github/forks/KimJ6/PoC-Simulator_CVE-2026-27778">	<img alt="stars" src="https://img.shields.io/github/stars/KimJ6/PoC-Simulator_CVE-2026-27778">
 
 ---
 ## CVE-2026-27739 ()
