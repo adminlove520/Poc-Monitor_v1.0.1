@@ -1201,6 +1201,11 @@
 - [louissanchez-vokecyber/CVE-2026-31790](https://github.com/louissanchez-vokecyber/CVE-2026-31790)	<img alt="forks" src="https://img.shields.io/github/forks/louissanchez-vokecyber/CVE-2026-31790">	<img alt="stars" src="https://img.shields.io/github/stars/louissanchez-vokecyber/CVE-2026-31790">
 
 ---
+## CVE-2026-31717 ()
+> 
+- [TurtleARM/CVE-2026-31717-KSMBD-Exploit](https://github.com/TurtleARM/CVE-2026-31717-KSMBD-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleARM/CVE-2026-31717-KSMBD-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleARM/CVE-2026-31717-KSMBD-Exploit">
+
+---
 ## CVE-2026-31431 ()
 > 
 - [mhdgning131/CVE-2026-31431_poc](https://github.com/mhdgning131/CVE-2026-31431_poc)	<img alt="forks" src="https://img.shields.io/github/forks/mhdgning131/CVE-2026-31431_poc">	<img alt="stars" src="https://img.shields.io/github/stars/mhdgning131/CVE-2026-31431_poc">
@@ -1446,6 +1451,7 @@
 - [alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion)	<img alt="forks" src="https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion">	<img alt="stars" src="https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion">
 - [jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh)	<img alt="forks" src="https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh">	<img alt="stars" src="https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh">
 - [net0bsd/Mitigaciones](https://github.com/net0bsd/Mitigaciones)	<img alt="forks" src="https://img.shields.io/github/forks/net0bsd/Mitigaciones">	<img alt="stars" src="https://img.shields.io/github/stars/net0bsd/Mitigaciones">
+- [KhaosFarbauti/CVE-2026-31431](https://github.com/KhaosFarbauti/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/KhaosFarbauti/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/KhaosFarbauti/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
