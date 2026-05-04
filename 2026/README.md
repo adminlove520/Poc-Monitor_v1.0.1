@@ -313,6 +313,9 @@
 - [cy3erm/CVE-2026-41940-POC](https://github.com/cy3erm/CVE-2026-41940-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cy3erm/CVE-2026-41940-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cy3erm/CVE-2026-41940-POC">
 - [Underh0st/CPanel-Audit-Remediation-Tool](https://github.com/Underh0st/CPanel-Audit-Remediation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Underh0st/CPanel-Audit-Remediation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Underh0st/CPanel-Audit-Remediation-Tool">
 - [tahaXafous/CVE_2026_41940_scan_exploit](https://github.com/tahaXafous/CVE_2026_41940_scan_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE_2026_41940_scan_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE_2026_41940_scan_exploit">
+- [sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool](https://github.com/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/sercanokur/CVE-2026-41940-cPanel-WHM-Verification-Tool">
+- [nickpaulsec/2026-41940-poc](https://github.com/nickpaulsec/2026-41940-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nickpaulsec/2026-41940-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nickpaulsec/2026-41940-poc">
+- [habibkaratas/sorry-ransomware-analysis](https://github.com/habibkaratas/sorry-ransomware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/habibkaratas/sorry-ransomware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/habibkaratas/sorry-ransomware-analysis">
 
 ---
 ## CVE-2026-41679 ()
@@ -432,6 +435,7 @@
 - [Nxploited/CVE-2026-39987](https://github.com/Nxploited/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-39987">
 - [h3raklez/CVE-2026-39987](https://github.com/h3raklez/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/h3raklez/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/h3raklez/CVE-2026-39987">
 - [Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab](https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab">
+- [rootdirective-sec/CVE-2026-39987-Lab](https://github.com/rootdirective-sec/CVE-2026-39987-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-39987-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-39987-Lab">
 
 ---
 ## CVE-2026-39983 ()
@@ -1428,6 +1432,7 @@
 - [chavezvic/CopyFail-Penguin](https://github.com/chavezvic/CopyFail-Penguin)	<img alt="forks" src="https://img.shields.io/github/forks/chavezvic/CopyFail-Penguin">	<img alt="stars" src="https://img.shields.io/github/stars/chavezvic/CopyFail-Penguin">
 - [kvendler/BigFix-CopyFail-AlmaLinux-Content](https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content)	<img alt="forks" src="https://img.shields.io/github/forks/kvendler/BigFix-CopyFail-AlmaLinux-Content">	<img alt="stars" src="https://img.shields.io/github/stars/kvendler/BigFix-CopyFail-AlmaLinux-Content">
 - [MetaspIoit/CVE-2026-31431](https://github.com/MetaspIoit/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/MetaspIoit/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/MetaspIoit/CVE-2026-31431">
+- [Mrhudson69/cve-2026-31431](https://github.com/Mrhudson69/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Mrhudson69/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Mrhudson69/cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
