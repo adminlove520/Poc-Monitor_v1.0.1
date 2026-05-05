@@ -398,6 +398,7 @@
 ## CVE-2026-41044 ()
 > 
 - [mrillicit/CVE-2026-41044](https://github.com/mrillicit/CVE-2026-41044)	<img alt="forks" src="https://img.shields.io/github/forks/mrillicit/CVE-2026-41044">	<img alt="stars" src="https://img.shields.io/github/stars/mrillicit/CVE-2026-41044">
+- [mrillicit/CVE-2026-41044](https://github.com/mrillicit/CVE-2026-41044)	<img alt="forks" src="https://img.shields.io/github/forks/mrillicit/CVE-2026-41044">	<img alt="stars" src="https://img.shields.io/github/stars/mrillicit/CVE-2026-41044">
 
 ---
 ## CVE-2026-4092 ()
@@ -1469,6 +1470,7 @@
 - [luca-aurel/vuln-check](https://github.com/luca-aurel/vuln-check)	<img alt="forks" src="https://img.shields.io/github/forks/luca-aurel/vuln-check">	<img alt="stars" src="https://img.shields.io/github/stars/luca-aurel/vuln-check">
 - [sudoytang/copyfail-arm64](https://github.com/sudoytang/copyfail-arm64)	<img alt="forks" src="https://img.shields.io/github/forks/sudoytang/copyfail-arm64">	<img alt="stars" src="https://img.shields.io/github/stars/sudoytang/copyfail-arm64">
 - [deadRabbit92/mitigate-copy-fail.yml](https://github.com/deadRabbit92/mitigate-copy-fail.yml)	<img alt="forks" src="https://img.shields.io/github/forks/deadRabbit92/mitigate-copy-fail.yml">	<img alt="stars" src="https://img.shields.io/github/stars/deadRabbit92/mitigate-copy-fail.yml">
+- [Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC](https://github.com/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC">
 
 ---
 ## CVE-2026-3143 ()
@@ -2696,6 +2698,7 @@
 ## CVE-2026-23918 ()
 > 
 - [qassam-315/CVE-2026-23918-Elite-Auditor](https://github.com/qassam-315/CVE-2026-23918-Elite-Auditor)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/CVE-2026-23918-Elite-Auditor">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/CVE-2026-23918-Elite-Auditor">
+- [12lie20/CVE-2026-23918-test](https://github.com/12lie20/CVE-2026-23918-test)	<img alt="forks" src="https://img.shields.io/github/forks/12lie20/CVE-2026-23918-test">	<img alt="stars" src="https://img.shields.io/github/stars/12lie20/CVE-2026-23918-test">
 
 ---
 ## CVE-2026-23885 ()
