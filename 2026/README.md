@@ -3344,6 +3344,7 @@
 ## CVE-2026-2005 ()
 > 
 - [stvm8/CVE-2026-2005_lab](https://github.com/stvm8/CVE-2026-2005_lab)	<img alt="forks" src="https://img.shields.io/github/forks/stvm8/CVE-2026-2005_lab">	<img alt="stars" src="https://img.shields.io/github/stars/stvm8/CVE-2026-2005_lab">
+- [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-2005">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-2005">
 
 ---
 ## CVE-2026-20045 ()
