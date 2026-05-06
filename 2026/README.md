@@ -1118,6 +1118,11 @@
 - [0xmrma/CVE-2026-32722](https://github.com/0xmrma/CVE-2026-32722)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrma/CVE-2026-32722">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrma/CVE-2026-32722">
 
 ---
+## CVE-2026-32710 ()
+> 
+- [dinosn/CVE-2026-32710](https://github.com/dinosn/CVE-2026-32710)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-32710">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-32710">
+
+---
 ## CVE-2026-32699 ()
 > 
 - [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
@@ -2774,6 +2779,7 @@
 - [rshosting/Apache-CVE-2026-23918-fix](https://github.com/rshosting/Apache-CVE-2026-23918-fix)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/Apache-CVE-2026-23918-fix">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/Apache-CVE-2026-23918-fix">
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
 - [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
+- [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
 
 ---
 ## CVE-2026-23885 ()
@@ -3743,6 +3749,7 @@
 > 
 - [mr-r3b00t/CVE-2026-0300](https://github.com/mr-r3b00t/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2026-0300">
 - [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
+- [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
 
 ---
 ## CVE-2026-0227 ()
