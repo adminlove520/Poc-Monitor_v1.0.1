@@ -827,6 +827,7 @@
 - [faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability](https://github.com/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/faysalferdous/CVE-2025-68645-Exploiting-Zimbra-Webmail-LFI-Vulnerability">
 - [CMEGh0stX47/CVE-2025-68645](https://github.com/CMEGh0stX47/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/CMEGh0stX47/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/CMEGh0stX47/CVE-2025-68645">
 - [0xBlackash/CVE-2025-68645](https://github.com/0xBlackash/CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-68645">
+- [HarisAidhin/Poc_CVE-2025-68645](https://github.com/HarisAidhin/Poc_CVE-2025-68645)	<img alt="forks" src="https://img.shields.io/github/forks/HarisAidhin/Poc_CVE-2025-68645">	<img alt="stars" src="https://img.shields.io/github/stars/HarisAidhin/Poc_CVE-2025-68645">
 
 ---
 ## CVE-2025-68621 ()
