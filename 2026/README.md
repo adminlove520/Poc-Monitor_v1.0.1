@@ -1527,6 +1527,7 @@
 - [ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix)	<img alt="forks" src="https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix">	<img alt="stars" src="https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix">
 - [reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail">
 - [darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail">
+- [grabesec/XCP_ng_CVE-2026-31431_tester](https://github.com/grabesec/XCP_ng_CVE-2026-31431_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-31431_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-31431_tester">
 
 ---
 ## CVE-2026-3143 ()
@@ -2780,6 +2781,7 @@
 - [aa022/CVE-2026-23918-Passive-Audit](https://github.com/aa022/CVE-2026-23918-Passive-Audit)	<img alt="forks" src="https://img.shields.io/github/forks/aa022/CVE-2026-23918-Passive-Audit">	<img alt="stars" src="https://img.shields.io/github/stars/aa022/CVE-2026-23918-Passive-Audit">
 - [rhasan-com/CVE-2026-23918](https://github.com/rhasan-com/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/rhasan-com/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/rhasan-com/CVE-2026-23918">
 - [seguridadentrerios/CVE-2026-23918](https://github.com/seguridadentrerios/CVE-2026-23918)	<img alt="forks" src="https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-23918">	<img alt="stars" src="https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-23918">
+- [xeloxa/CVE-2026-23918-Apache-H2-PoC](https://github.com/xeloxa/CVE-2026-23918-Apache-H2-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xeloxa/CVE-2026-23918-Apache-H2-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xeloxa/CVE-2026-23918-Apache-H2-PoC">
 
 ---
 ## CVE-2026-23885 ()
@@ -3750,6 +3752,7 @@
 - [mr-r3b00t/CVE-2026-0300](https://github.com/mr-r3b00t/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2026-0300">
 - [0xBlackash/CVE-2026-0300](https://github.com/0xBlackash/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0300">
 - [TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit)	<img alt="forks" src="https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit">	<img alt="stars" src="https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit">
+- [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 
 ---
 ## CVE-2026-0227 ()
@@ -3763,6 +3766,7 @@
 - [novaek/CVE-2026-0073-Research](https://github.com/novaek/CVE-2026-0073-Research)	<img alt="forks" src="https://img.shields.io/github/forks/novaek/CVE-2026-0073-Research">	<img alt="stars" src="https://img.shields.io/github/stars/novaek/CVE-2026-0073-Research">
 - [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
+- [CryptReaper12/CVE-2026-0073](https://github.com/CryptReaper12/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
