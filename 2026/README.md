@@ -445,6 +445,7 @@
 ## CVE-2026-40776 ()
 > 
 - [lorenzofradeani/cve-2026-40776-eventin](https://github.com/lorenzofradeani/cve-2026-40776-eventin)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/cve-2026-40776-eventin">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/cve-2026-40776-eventin">
+- [lorenzofradeani/CVE-2026-40776](https://github.com/lorenzofradeani/CVE-2026-40776)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzofradeani/CVE-2026-40776">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzofradeani/CVE-2026-40776">
 
 ---
 ## CVE-2026-40579 ()
@@ -1542,6 +1543,7 @@
 - [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 - [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
 - [iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite](https://github.com/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">
+- [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2181,6 +2183,11 @@
 > 
 - [oxfemale/CVE-2026-2636_PoC](https://github.com/oxfemale/CVE-2026-2636_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-2636_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-2636_PoC">
 - [uname1able/CVE-2026-2636](https://github.com/uname1able/CVE-2026-2636)	<img alt="forks" src="https://img.shields.io/github/forks/uname1able/CVE-2026-2636">	<img alt="stars" src="https://img.shields.io/github/stars/uname1able/CVE-2026-2636">
+
+---
+## CVE-2026-26336 ()
+> 
+- [CEAarab/CVE-2026-26336-PoC](https://github.com/CEAarab/CVE-2026-26336-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CEAarab/CVE-2026-26336-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CEAarab/CVE-2026-26336-PoC">
 
 ---
 ## CVE-2026-26335 ()
