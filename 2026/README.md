@@ -333,7 +333,7 @@
 - [3tternp/CVE-2026-41940---cPanel-WHM-check](https://github.com/3tternp/CVE-2026-41940---cPanel-WHM-check)	<img alt="forks" src="https://img.shields.io/github/forks/3tternp/CVE-2026-41940---cPanel-WHM-check">	<img alt="stars" src="https://img.shields.io/github/stars/3tternp/CVE-2026-41940---cPanel-WHM-check">
 - [dennisec/CVE-2026-41940](https://github.com/dennisec/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/dennisec/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/dennisec/CVE-2026-41940">
 - [MrAriaNet/cPanel-Fix](https://github.com/MrAriaNet/cPanel-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/MrAriaNet/cPanel-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/MrAriaNet/cPanel-Fix">
-- [ThatNotEasy/CVE-2026-41940](https://github.com/ThatNotEasy/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2026-41940">
+- [Ap0dexMe0/CVE-2026-41940](https://github.com/Ap0dexMe0/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2026-41940">
 - [linko-iheb/cve-2026-41940-scanner](https://github.com/linko-iheb/cve-2026-41940-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linko-iheb/cve-2026-41940-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linko-iheb/cve-2026-41940-scanner">
 - [Ishanoshada/CVE-2026-41940-Exploit-PoC](https://github.com/Ishanoshada/CVE-2026-41940-Exploit-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ishanoshada/CVE-2026-41940-Exploit-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ishanoshada/CVE-2026-41940-Exploit-PoC">
 - [YudaSamuel/cpanel-vuln-scanner](https://github.com/YudaSamuel/cpanel-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/YudaSamuel/cpanel-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/YudaSamuel/cpanel-vuln-scanner">
@@ -352,6 +352,8 @@
 - [ZildanZ/CVE-2026-41940](https://github.com/ZildanZ/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/ZildanZ/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/ZildanZ/CVE-2026-41940">
 - [OhmGun/whmxploit---CVE-2026-41940](https://github.com/OhmGun/whmxploit---CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/OhmGun/whmxploit---CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/OhmGun/whmxploit---CVE-2026-41940">
 - [Unfold-Security/CVE-2026-41940-Detection](https://github.com/Unfold-Security/CVE-2026-41940-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/Unfold-Security/CVE-2026-41940-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/Unfold-Security/CVE-2026-41940-Detection">
+- [bughunt4me/cpanelCVE-2026-41940](https://github.com/bughunt4me/cpanelCVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/bughunt4me/cpanelCVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/bughunt4me/cpanelCVE-2026-41940">
+- [Richflexpix/cpanel-pwn](https://github.com/Richflexpix/cpanel-pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Richflexpix/cpanel-pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Richflexpix/cpanel-pwn">
 
 ---
 ## CVE-2026-41679 ()
@@ -1531,6 +1533,7 @@
 - [grabesec/XCP_ng_CVE-2026-31431_tester](https://github.com/grabesec/XCP_ng_CVE-2026-31431_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-31431_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-31431_tester">
 - [hans362/CVE-2026-31431-Copy-Fail-Container-Escape](https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape)	<img alt="forks" src="https://img.shields.io/github/forks/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">	<img alt="stars" src="https://img.shields.io/github/stars/hans362/CVE-2026-31431-Copy-Fail-Container-Escape">
 - [philfry/cve-2026-31431-ftrace](https://github.com/philfry/cve-2026-31431-ftrace)	<img alt="forks" src="https://img.shields.io/github/forks/philfry/cve-2026-31431-ftrace">	<img alt="stars" src="https://img.shields.io/github/stars/philfry/cve-2026-31431-ftrace">
+- [StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/StarxSky/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/StarxSky/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
@@ -3776,6 +3779,8 @@
 - [SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC](https://github.com/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SecTestAnnaQuinn/CVE-2026-0073-Android-adbd-authentication-bypass-POC">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [CryptReaper12/CVE-2026-0073](https://github.com/CryptReaper12/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-0073">
+- [adityatelange/Poc-CVE-2026-0073](https://github.com/adityatelange/Poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/adityatelange/Poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/adityatelange/Poc-CVE-2026-0073">
+- [devtint/CVE-2026-0073](https://github.com/devtint/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/devtint/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/devtint/CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()
