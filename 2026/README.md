@@ -272,6 +272,16 @@
 - [Astaruf/CVE-2026-42281](https://github.com/Astaruf/CVE-2026-42281)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-42281">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-42281">
 
 ---
+## CVE-2026-42231 ()
+> 
+- [rudSarkar/CVE-2026-42231](https://github.com/rudSarkar/CVE-2026-42231)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/CVE-2026-42231">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/CVE-2026-42231">
+
+---
+## CVE-2026-42228 ()
+> 
+- [rudSarkar/CVE-2026-42228](https://github.com/rudSarkar/CVE-2026-42228)	<img alt="forks" src="https://img.shields.io/github/forks/rudSarkar/CVE-2026-42228">	<img alt="stars" src="https://img.shields.io/github/stars/rudSarkar/CVE-2026-42228">
+
+---
 ## CVE-2026-42208 ()
 > 
 - [imjdl/CVE-2026-42208_lab](https://github.com/imjdl/CVE-2026-42208_lab)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2026-42208_lab">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2026-42208_lab">
@@ -1545,6 +1555,7 @@
 - [Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs)	<img alt="forks" src="https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs">	<img alt="stars" src="https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs">
 - [iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite](https://github.com/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite">
 - [pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail](https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail">
+- [sgkdev/page_inject](https://github.com/sgkdev/page_inject)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/page_inject">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/page_inject">
 
 ---
 ## CVE-2026-3143 ()
@@ -3786,6 +3797,7 @@
 - [bannned-bit/CVE-2026-0300-PANOS](https://github.com/bannned-bit/CVE-2026-0300-PANOS)	<img alt="forks" src="https://img.shields.io/github/forks/bannned-bit/CVE-2026-0300-PANOS">	<img alt="stars" src="https://img.shields.io/github/stars/bannned-bit/CVE-2026-0300-PANOS">
 - [shizuku198411/CVE-2026-0300](https://github.com/shizuku198411/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/shizuku198411/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/shizuku198411/CVE-2026-0300">
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
+- [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
 
 ---
 ## CVE-2026-0227 ()
