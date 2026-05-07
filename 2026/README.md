@@ -647,6 +647,16 @@
 - [halilkirazkaya/CVE-2026-3844](https://github.com/halilkirazkaya/CVE-2026-3844)	<img alt="forks" src="https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-3844">	<img alt="stars" src="https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-3844">
 
 ---
+## CVE-2026-38361 ()
+> 
+- [a1ohadance/CVE-2026-38361](https://github.com/a1ohadance/CVE-2026-38361)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38361">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38361">
+
+---
+## CVE-2026-38360 ()
+> 
+- [a1ohadance/CVE-2026-38360](https://github.com/a1ohadance/CVE-2026-38360)	<img alt="forks" src="https://img.shields.io/github/forks/a1ohadance/CVE-2026-38360">	<img alt="stars" src="https://img.shields.io/github/stars/a1ohadance/CVE-2026-38360">
+
+---
 ## CVE-2026-3805 ()
 > 
 - [Rat5ak/CVE-2026-3805-curl-SMB-UAF](https://github.com/Rat5ak/CVE-2026-3805-curl-SMB-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2026-3805-curl-SMB-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2026-3805-curl-SMB-UAF">
@@ -1633,6 +1643,7 @@
 - [leelong2020/cve-2026-31431](https://github.com/leelong2020/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/leelong2020/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/leelong2020/cve-2026-31431">
 - [scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431](https://github.com/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Copy-Fail-CVE-2026-31431">
 - [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wesmar/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wesmar/CVE-2026-31431">
+- [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 
 ---
 ## CVE-2026-31413 ()
