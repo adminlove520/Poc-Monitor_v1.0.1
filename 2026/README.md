@@ -1189,6 +1189,11 @@
 - [SnailSploit/CVE-2026-32809](https://github.com/SnailSploit/CVE-2026-32809)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32809">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32809">
 
 ---
+## CVE-2026-32794 ()
+> 
+- [SnailSploit/CVE-2026-32794](https://github.com/SnailSploit/CVE-2026-32794)	<img alt="forks" src="https://img.shields.io/github/forks/SnailSploit/CVE-2026-32794">	<img alt="stars" src="https://img.shields.io/github/stars/SnailSploit/CVE-2026-32794">
+
+---
 ## CVE-2026-32746 ()
 > 
 - [jeffaf/cve-2026-32746](https://github.com/jeffaf/cve-2026-32746)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/cve-2026-32746">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/cve-2026-32746">
@@ -1416,7 +1421,7 @@
 - [Linux-zs/cve-2026-31431-mitigation](https://github.com/Linux-zs/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Linux-zs/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Linux-zs/cve-2026-31431-mitigation">
 - [eleveni386/CVE-2026-31431-Golang](https://github.com/eleveni386/CVE-2026-31431-Golang)	<img alt="forks" src="https://img.shields.io/github/forks/eleveni386/CVE-2026-31431-Golang">	<img alt="stars" src="https://img.shields.io/github/stars/eleveni386/CVE-2026-31431-Golang">
 - [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
-- [attaattaatta/CVE-2026-31431](https://github.com/attaattaatta/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-31431">
+- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
 - [XsanFlip/CVE-2026-31431-Patch](https://github.com/XsanFlip/CVE-2026-31431-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-31431-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-31431-Patch">
 - [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
@@ -1647,6 +1652,11 @@
 - [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
 - [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
 - [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
+- [hori0729/CVE-2026-31431-Verificador-Exploit](https://github.com/hori0729/CVE-2026-31431-Verificador-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hori0729/CVE-2026-31431-Verificador-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hori0729/CVE-2026-31431-Verificador-Exploit">
+- [ROSNLR5/MitigationToolkit-ROSN-LR5-Full](https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full)	<img alt="forks" src="https://img.shields.io/github/forks/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">	<img alt="stars" src="https://img.shields.io/github/stars/ROSNLR5/MitigationToolkit-ROSN-LR5-Full">
+- [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/DIRTYFAIL">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/DIRTYFAIL">
+- [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
+- [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 
 ---
 ## CVE-2026-3143 ()
