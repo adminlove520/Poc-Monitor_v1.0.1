@@ -272,6 +272,11 @@
 - [guzrex/CVE-2026-42879](https://github.com/guzrex/CVE-2026-42879)	<img alt="forks" src="https://img.shields.io/github/forks/guzrex/CVE-2026-42879">	<img alt="stars" src="https://img.shields.io/github/stars/guzrex/CVE-2026-42879">
 
 ---
+## CVE-2026-42796 ()
+> 
+- [ameerhamza-malik/CVE-2026-42796](https://github.com/ameerhamza-malik/CVE-2026-42796)	<img alt="forks" src="https://img.shields.io/github/forks/ameerhamza-malik/CVE-2026-42796">	<img alt="stars" src="https://img.shields.io/github/stars/ameerhamza-malik/CVE-2026-42796">
+
+---
 ## CVE-2026-42779 ()
 > 
 - [dinosn/CVE-2026-42779](https://github.com/dinosn/CVE-2026-42779)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-42779">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-42779">
@@ -1199,6 +1204,11 @@
 - [dinosn/CVE-2026-32710](https://github.com/dinosn/CVE-2026-32710)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2026-32710">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2026-32710">
 
 ---
+## CVE-2026-32707 ()
+> 
+- [mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-](https://github.com/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-32707-PX4-Autopilot-tattu_can-Stack-Buffer-Overflow-DoS-">
+
+---
 ## CVE-2026-32699 ()
 > 
 - [TurkiOS/cve-2026-32699-facturascripts-nick-bypass](https://github.com/TurkiOS/cve-2026-32699-facturascripts-nick-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/TurkiOS/cve-2026-32699-facturascripts-nick-bypass">
@@ -1622,10 +1632,13 @@
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 - [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
 - [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
-- [guiimoraes/copyfail2-py](https://github.com/guiimoraes/copyfail2-py)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/copyfail2-py">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/copyfail2-py">
+- [guiimoraes/CVE-2026-31431](https://github.com/guiimoraes/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/CVE-2026-31431">
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 - [hyeonjunjo24/CVE-2026-31431-_Copy-Fail](https://github.com/hyeonjunjo24/CVE-2026-31431-_Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">
 - [Morton-Li/copy-fail-CVE-2026-31431](https://github.com/Morton-Li/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Morton-Li/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Morton-Li/copy-fail-CVE-2026-31431">
+- [p401a-ops/Copy-Fail](https://github.com/p401a-ops/Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/p401a-ops/Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/p401a-ops/Copy-Fail">
+- [dixyes/dirtypatch](https://github.com/dixyes/dirtypatch)	<img alt="forks" src="https://img.shields.io/github/forks/dixyes/dirtypatch">	<img alt="stars" src="https://img.shields.io/github/stars/dixyes/dirtypatch">
+- [OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail)	<img alt="forks" src="https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail">	<img alt="stars" src="https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail">
 
 ---
 ## CVE-2026-3143 ()
