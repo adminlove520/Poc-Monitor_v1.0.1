@@ -933,6 +933,9 @@
 - [KONDORDEVSECURITYCORP/CVE-2026-34197](https://github.com/KONDORDEVSECURITYCORP/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/KONDORDEVSECURITYCORP/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/KONDORDEVSECURITYCORP/CVE-2026-34197">
 - [hg0434hongzh0/CVE-2026-34197](https://github.com/hg0434hongzh0/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/hg0434hongzh0/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/hg0434hongzh0/CVE-2026-34197">
 - [keraattin/CVE-2026-34197](https://github.com/keraattin/CVE-2026-34197)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-34197">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-34197">
+- [rootdirective-sec/CVE-2026-34197-Lab](https://github.com/rootdirective-sec/CVE-2026-34197-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-34197-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-34197-Lab">
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
+- [xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-](https://github.com/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-)	<img alt="forks" src="https://img.shields.io/github/forks/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">	<img alt="stars" src="https://img.shields.io/github/stars/xshysjhq/CVE-2026-34197-payload-Apache-ActiveMQ-">
 
 ---
 ## CVE-2026-34160 ()
@@ -1621,6 +1624,7 @@
 - [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
 - [guiimoraes/copyfail2-py](https://github.com/guiimoraes/copyfail2-py)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/copyfail2-py">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/copyfail2-py">
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
+- [hyeonjunjo24/CVE-2026-31431-_Copy-Fail](https://github.com/hyeonjunjo24/CVE-2026-31431-_Copy-Fail)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonjunjo24/CVE-2026-31431-_Copy-Fail">
 
 ---
 ## CVE-2026-3143 ()
