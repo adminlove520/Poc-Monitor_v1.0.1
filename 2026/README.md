@@ -226,6 +226,11 @@
 - [PegasusMetaSec/PEGASUS-CVE-2026-4484](https://github.com/PegasusMetaSec/PEGASUS-CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/PegasusMetaSec/PEGASUS-CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/PegasusMetaSec/PEGASUS-CVE-2026-4484">
 
 ---
+## CVE-2026-44648 ()
+> 
+- [zzzm0919/CVE-2026-44648](https://github.com/zzzm0919/CVE-2026-44648)	<img alt="forks" src="https://img.shields.io/github/forks/zzzm0919/CVE-2026-44648">	<img alt="stars" src="https://img.shields.io/github/stars/zzzm0919/CVE-2026-44648">
+
+---
 ## CVE-2026-44590 ()
 > 
 - [Astaruf/CVE-2026-44590](https://github.com/Astaruf/CVE-2026-44590)	<img alt="forks" src="https://img.shields.io/github/forks/Astaruf/CVE-2026-44590">	<img alt="stars" src="https://img.shields.io/github/stars/Astaruf/CVE-2026-44590">
@@ -1614,7 +1619,7 @@
 - [Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C](https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C">
 - [ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption)	<img alt="forks" src="https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption">	<img alt="stars" src="https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption">
 - [julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC)	<img alt="forks" src="https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC">	<img alt="stars" src="https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC">
-- [guiimoraes/copyfail2-dirtyfrag-py](https://github.com/guiimoraes/copyfail2-dirtyfrag-py)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/copyfail2-dirtyfrag-py">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/copyfail2-dirtyfrag-py">
+- [guiimoraes/copyfail2-py](https://github.com/guiimoraes/copyfail2-py)	<img alt="forks" src="https://img.shields.io/github/forks/guiimoraes/copyfail2-py">	<img alt="stars" src="https://img.shields.io/github/stars/guiimoraes/copyfail2-py">
 - [ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143)	<img alt="forks" src="https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143">	<img alt="stars" src="https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143">
 
 ---
@@ -2471,6 +2476,11 @@
 ## CVE-2026-25594 ()
 > 
 - [lagathos/CVE-2026-25594](https://github.com/lagathos/CVE-2026-25594)	<img alt="forks" src="https://img.shields.io/github/forks/lagathos/CVE-2026-25594">	<img alt="stars" src="https://img.shields.io/github/stars/lagathos/CVE-2026-25594">
+
+---
+## CVE-2026-25589 ()
+> 
+- [mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS](https://github.com/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS)	<img alt="forks" src="https://img.shields.io/github/forks/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">	<img alt="stars" src="https://img.shields.io/github/stars/mgiay/CVE-2026-25589-25588-25243-23631-23479-REDIS">
 
 ---
 ## CVE-2026-25548 ()
