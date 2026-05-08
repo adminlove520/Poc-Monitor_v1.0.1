@@ -271,6 +271,7 @@
 > 
 - [0xBlackash/CVE-2026-43284](https://github.com/0xBlackash/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43284">
 - [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
+- [suominen/CVE-2026-43284](https://github.com/suominen/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-43284">
 
 ---
 ## CVE-2026-42940 ()
@@ -1221,6 +1222,7 @@
 ## CVE-2026-32743 ()
 > 
 - [mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-](https://github.com/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2026-32743-PX4-Autopilot-MavlinkLogHandler-Stack-Buffer-Overflow-DoS-">
+- [SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743](https://github.com/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Enhanced-PX4-Autopilot-Exploit-CVE-2026-32743">
 
 ---
 ## CVE-2026-32731 ()
