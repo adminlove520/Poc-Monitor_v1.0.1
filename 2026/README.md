@@ -292,6 +292,7 @@
 - [Percivalll/Dirty-Frag-Kubernetes-PoC](https://github.com/Percivalll/Dirty-Frag-Kubernetes-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Percivalll/Dirty-Frag-Kubernetes-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Percivalll/Dirty-Frag-Kubernetes-PoC">
 - [scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284](https://github.com/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/scriptzteam/Paranoid-Dirty-Frag-CVE-2026-43284">
 - [haydenjames/dirty-frag-check](https://github.com/haydenjames/dirty-frag-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/dirty-frag-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/dirty-frag-check">
+- [metalx1993/dirtyfrag-patches](https://github.com/metalx1993/dirtyfrag-patches)	<img alt="forks" src="https://img.shields.io/github/forks/metalx1993/dirtyfrag-patches">	<img alt="stars" src="https://img.shields.io/github/stars/metalx1993/dirtyfrag-patches">
 
 ---
 ## CVE-2026-42940 ()
