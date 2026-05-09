@@ -1710,6 +1710,7 @@
 - [Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe](https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">
 - [Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c)	<img alt="forks" src="https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c">	<img alt="stars" src="https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c">
 - [vorkampfer/copy_fail_mitigation](https://github.com/vorkampfer/copy_fail_mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copy_fail_mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copy_fail_mitigation">
+- [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 
 ---
 ## CVE-2026-3143 ()
