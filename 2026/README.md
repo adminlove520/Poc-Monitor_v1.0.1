@@ -1686,6 +1686,7 @@
 - [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL)	<img alt="forks" src="https://img.shields.io/github/forks/KaraZajac/DIRTYFAIL">	<img alt="stars" src="https://img.shields.io/github/stars/KaraZajac/DIRTYFAIL">
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [krisiasty/vcheck](https://github.com/krisiasty/vcheck)	<img alt="forks" src="https://img.shields.io/github/forks/krisiasty/vcheck">	<img alt="stars" src="https://img.shields.io/github/stars/krisiasty/vcheck">
 
 ---
 ## CVE-2026-3143 ()
