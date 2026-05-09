@@ -1697,6 +1697,7 @@
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 - [krisiasty/vcheck](https://github.com/krisiasty/vcheck)	<img alt="forks" src="https://img.shields.io/github/forks/krisiasty/vcheck">	<img alt="stars" src="https://img.shields.io/github/stars/krisiasty/vcheck">
+- [Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe](https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe">
 
 ---
 ## CVE-2026-3143 ()
