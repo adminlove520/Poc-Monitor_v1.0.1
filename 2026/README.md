@@ -52,6 +52,11 @@
 - [Xmyronn/CVE-2026-7393-RCE](https://github.com/Xmyronn/CVE-2026-7393-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7393-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7393-RCE">
 
 ---
+## CVE-2026-7270 ()
+> 
+- [babyshen/freebsd-CVE-2026-7270](https://github.com/babyshen/freebsd-CVE-2026-7270)	<img alt="forks" src="https://img.shields.io/github/forks/babyshen/freebsd-CVE-2026-7270">	<img alt="stars" src="https://img.shields.io/github/stars/babyshen/freebsd-CVE-2026-7270">
+
+---
 ## CVE-2026-7222 ()
 > 
 - [Xmyronn/CVE-2026-7222-XSS](https://github.com/Xmyronn/CVE-2026-7222-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Xmyronn/CVE-2026-7222-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Xmyronn/CVE-2026-7222-XSS">
@@ -229,6 +234,11 @@
 ## CVE-2026-4484 ()
 > 
 - [PegasusMetaSec/PEGASUS-CVE-2026-4484](https://github.com/PegasusMetaSec/PEGASUS-CVE-2026-4484)	<img alt="forks" src="https://img.shields.io/github/forks/PegasusMetaSec/PEGASUS-CVE-2026-4484">	<img alt="stars" src="https://img.shields.io/github/stars/PegasusMetaSec/PEGASUS-CVE-2026-4484">
+
+---
+## CVE-2026-44656 ()
+> 
+- [CryingN/CVE-2026-44656](https://github.com/CryingN/CVE-2026-44656)	<img alt="forks" src="https://img.shields.io/github/forks/CryingN/CVE-2026-44656">	<img alt="stars" src="https://img.shields.io/github/stars/CryingN/CVE-2026-44656">
 
 ---
 ## CVE-2026-44648 ()
