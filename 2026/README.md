@@ -32,6 +32,11 @@
 - [szybnev/CVE-2026-7482](https://github.com/szybnev/CVE-2026-7482)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/CVE-2026-7482">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/CVE-2026-7482">
 
 ---
+## CVE-2026-7458 ()
+> 
+- [zycoder0day/CVE-2026-7458](https://github.com/zycoder0day/CVE-2026-7458)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2026-7458">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2026-7458">
+
+---
 ## CVE-2026-7411 ()
 > 
 - [CryptReaper12/CVE-2026-7411](https://github.com/CryptReaper12/CVE-2026-7411)	<img alt="forks" src="https://img.shields.io/github/forks/CryptReaper12/CVE-2026-7411">	<img alt="stars" src="https://img.shields.io/github/stars/CryptReaper12/CVE-2026-7411">
@@ -1732,6 +1737,7 @@
 - [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
 - [vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix">
 - [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
+- [Karim33z/CVE-2026-31431](https://github.com/Karim33z/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Karim33z/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Karim33z/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
