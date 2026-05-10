@@ -4784,6 +4784,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
 - [Al3xx-sec/CVE-2023-34468-POC](https://github.com/Al3xx-sec/CVE-2023-34468-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xx-sec/CVE-2023-34468-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xx-sec/CVE-2023-34468-POC">
+- [Jeanpt/CVE-2023-34468](https://github.com/Jeanpt/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanpt/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanpt/CVE-2023-34468">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
@@ -9524,6 +9525,8 @@ For additional details, please see full advisory.
 - [kh4sh3i/CVE-2023-22527](https://github.com/kh4sh3i/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2023-22527">
 - [AxthonyV/CVE-2023-22527](https://github.com/AxthonyV/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2023-22527">
 - [thompson005/CVE-2023-22527](https://github.com/thompson005/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/thompson005/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/thompson005/CVE-2023-22527">
+- [ycseo-git/CVE-2023-22527](https://github.com/ycseo-git/CVE-2023-22527)	<img alt="forks" src="https://img.shields.io/github/forks/ycseo-git/CVE-2023-22527">	<img alt="stars" src="https://img.shields.io/github/stars/ycseo-git/CVE-2023-22527">
+- [mylo-2001/AtlassianPwn](https://github.com/mylo-2001/AtlassianPwn)	<img alt="forks" src="https://img.shields.io/github/forks/mylo-2001/AtlassianPwn">	<img alt="stars" src="https://img.shields.io/github/stars/mylo-2001/AtlassianPwn">
 
 ---
 ## CVE-2023-22524 (2023-12-06T05:15:00)
