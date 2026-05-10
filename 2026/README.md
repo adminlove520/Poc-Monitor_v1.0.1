@@ -766,6 +766,16 @@
 - [vytlanikhil/CVE-2026-37272](https://github.com/vytlanikhil/CVE-2026-37272)	<img alt="forks" src="https://img.shields.io/github/forks/vytlanikhil/CVE-2026-37272">	<img alt="stars" src="https://img.shields.io/github/stars/vytlanikhil/CVE-2026-37272">
 
 ---
+## CVE-2026-36981 ()
+> 
+- [canomer/CVE-2026-36981-Kernel-EoP-PoC](https://github.com/canomer/CVE-2026-36981-Kernel-EoP-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/canomer/CVE-2026-36981-Kernel-EoP-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/canomer/CVE-2026-36981-Kernel-EoP-PoC">
+
+---
+## CVE-2026-36980 ()
+> 
+- [canomer/CVE-2026-36980-Kernel-BSOD-DoS-PoC](https://github.com/canomer/CVE-2026-36980-Kernel-BSOD-DoS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/canomer/CVE-2026-36980-Kernel-BSOD-DoS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/canomer/CVE-2026-36980-Kernel-BSOD-DoS-PoC">
+
+---
 ## CVE-2026-36960 ()
 > 
 - [kirubel-cve/CVE-2026-36960](https://github.com/kirubel-cve/CVE-2026-36960)	<img alt="forks" src="https://img.shields.io/github/forks/kirubel-cve/CVE-2026-36960">	<img alt="stars" src="https://img.shields.io/github/stars/kirubel-cve/CVE-2026-36960">
