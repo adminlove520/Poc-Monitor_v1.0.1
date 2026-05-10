@@ -1486,7 +1486,7 @@
 - [Linux-zs/cve-2026-31431-mitigation](https://github.com/Linux-zs/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Linux-zs/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Linux-zs/cve-2026-31431-mitigation">
 - [eleveni386/CVE-2026-31431-Golang](https://github.com/eleveni386/CVE-2026-31431-Golang)	<img alt="forks" src="https://img.shields.io/github/forks/eleveni386/CVE-2026-31431-Golang">	<img alt="stars" src="https://img.shields.io/github/stars/eleveni386/CVE-2026-31431-Golang">
 - [rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch)	<img alt="forks" src="https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch">	<img alt="stars" src="https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch">
-- [attaattaatta/CVE-2026-43284](https://github.com/attaattaatta/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43284">
+- [attaattaatta/CVE-2026-43500](https://github.com/attaattaatta/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/attaattaatta/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/attaattaatta/CVE-2026-43500">
 - [XsanFlip/CVE-2026-31431-Patch](https://github.com/XsanFlip/CVE-2026-31431-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/XsanFlip/CVE-2026-31431-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/XsanFlip/CVE-2026-31431-Patch">
 - [JuanBindez/CVE-2026-31431](https://github.com/JuanBindez/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/JuanBindez/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/JuanBindez/CVE-2026-31431">
 - [eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/eximiait/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/eximiait/CVE-2026-31431">
@@ -1727,6 +1727,8 @@
 - [Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c)	<img alt="forks" src="https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c">	<img alt="stars" src="https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c">
 - [vorkampfer/copy_fail_mitigation](https://github.com/vorkampfer/copy_fail_mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copy_fail_mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copy_fail_mitigation">
 - [haydenjames/CVE-2026-31431-check](https://github.com/haydenjames/CVE-2026-31431-check)	<img alt="forks" src="https://img.shields.io/github/forks/haydenjames/CVE-2026-31431-check">	<img alt="stars" src="https://img.shields.io/github/stars/haydenjames/CVE-2026-31431-check">
+- [vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix">
+- [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
 
 ---
 ## CVE-2026-3143 ()
