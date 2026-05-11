@@ -3489,6 +3489,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [ImagineNotChetng/WinRAR-Exploit-Builder](https://github.com/ImagineNotChetng/WinRAR-Exploit-Builder)	<img alt="forks" src="https://img.shields.io/github/forks/ImagineNotChetng/WinRAR-Exploit-Builder">	<img alt="stars" src="https://img.shields.io/github/stars/ImagineNotChetng/WinRAR-Exploit-Builder">
 - [RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-38831-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-38831-POC">
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
+- [olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis](https://github.com/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
