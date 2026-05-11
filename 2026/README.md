@@ -294,6 +294,8 @@
 - [vorkampfer/dirty_frag_mitigation](https://github.com/vorkampfer/dirty_frag_mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/dirty_frag_mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/dirty_frag_mitigation">
 - [krisiasty/vcheck](https://github.com/krisiasty/vcheck)	<img alt="forks" src="https://img.shields.io/github/forks/krisiasty/vcheck">	<img alt="stars" src="https://img.shields.io/github/stars/krisiasty/vcheck">
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
+- [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
+- [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
 
 ---
 ## CVE-2026-4342 ()
@@ -459,6 +461,8 @@
 - [acuciureanu/cpanel2shell-honeypot](https://github.com/acuciureanu/cpanel2shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/acuciureanu/cpanel2shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/acuciureanu/cpanel2shell-honeypot">
 - [SreejaPuthan/cpanel-control-plane-exposure-check](https://github.com/SreejaPuthan/cpanel-control-plane-exposure-check)	<img alt="forks" src="https://img.shields.io/github/forks/SreejaPuthan/cpanel-control-plane-exposure-check">	<img alt="stars" src="https://img.shields.io/github/stars/SreejaPuthan/cpanel-control-plane-exposure-check">
 - [44pie/cpsniper](https://github.com/44pie/cpsniper)	<img alt="forks" src="https://img.shields.io/github/forks/44pie/cpsniper">	<img alt="stars" src="https://img.shields.io/github/stars/44pie/cpsniper">
+- [anach-ai/CVE-2026-41940](https://github.com/anach-ai/CVE-2026-41940)	<img alt="forks" src="https://img.shields.io/github/forks/anach-ai/CVE-2026-41940">	<img alt="stars" src="https://img.shields.io/github/stars/anach-ai/CVE-2026-41940">
+- [ngksiva/cpanel-forensics](https://github.com/ngksiva/cpanel-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/ngksiva/cpanel-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/ngksiva/cpanel-forensics">
 
 ---
 ## CVE-2026-41900 ()
@@ -488,6 +492,7 @@
 - [mazofeifaalfaro/check_pack2theroot](https://github.com/mazofeifaalfaro/check_pack2theroot)	<img alt="forks" src="https://img.shields.io/github/forks/mazofeifaalfaro/check_pack2theroot">	<img alt="stars" src="https://img.shields.io/github/stars/mazofeifaalfaro/check_pack2theroot">
 - [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 - [Kowntaewook/CVE-2026-41651-analysis](https://github.com/Kowntaewook/CVE-2026-41651-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kowntaewook/CVE-2026-41651-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kowntaewook/CVE-2026-41651-analysis">
+- [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
 
 ---
 ## CVE-2026-41575 ()
@@ -1758,6 +1763,7 @@
 - [vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix">
 - [cleozi/Copy_Grail](https://github.com/cleozi/Copy_Grail)	<img alt="forks" src="https://img.shields.io/github/forks/cleozi/Copy_Grail">	<img alt="stars" src="https://img.shields.io/github/stars/cleozi/Copy_Grail">
 - [Karim33z/CVE-2026-31431](https://github.com/Karim33z/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Karim33z/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Karim33z/CVE-2026-31431">
+- [Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
