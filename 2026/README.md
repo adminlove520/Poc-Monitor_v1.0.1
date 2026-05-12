@@ -1799,6 +1799,8 @@
 - [polyakovavv/copyfail](https://github.com/polyakovavv/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/polyakovavv/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/polyakovavv/copyfail">
 - [studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-31431">
 - [gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/gbonacini/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/gbonacini/CVE-2026-31431">
+- [SystemVll/CVE-2026-31431-copyfail-aarch64](https://github.com/SystemVll/CVE-2026-31431-copyfail-aarch64)	<img alt="forks" src="https://img.shields.io/github/forks/SystemVll/CVE-2026-31431-copyfail-aarch64">	<img alt="stars" src="https://img.shields.io/github/stars/SystemVll/CVE-2026-31431-copyfail-aarch64">
+- [paulorlima9/copyfail-fix](https://github.com/paulorlima9/copyfail-fix)	<img alt="forks" src="https://img.shields.io/github/forks/paulorlima9/copyfail-fix">	<img alt="stars" src="https://img.shields.io/github/stars/paulorlima9/copyfail-fix">
 
 ---
 ## CVE-2026-3143 ()
