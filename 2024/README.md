@@ -7232,6 +7232,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
 - [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
 - [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">
+- [rcribelar-nucleus/demo-php-cve-2024-2961](https://github.com/rcribelar-nucleus/demo-php-cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/demo-php-cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/demo-php-cve-2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
