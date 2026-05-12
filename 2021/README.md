@@ -228,6 +228,77 @@
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-46143](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">
 
 ---
+## CVE-2021-46080 ()
+> 
+- [sanupl/CVE-2021-46080](https://github.com/sanupl/CVE-2021-46080)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46080">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46080">
+- [sanupl/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-Cross-Site-Request-Forgery-CSRF-Leads-to-XSS">
+
+---
+## CVE-2021-46079 ()
+> 
+- [sanupl/CVE-2021-46079](https://github.com/sanupl/CVE-2021-46079)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46079">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46079">
+- [sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Html-Injection">
+
+---
+## CVE-2021-46078 ()
+> 
+- [sanupl/CVE-2021-46078](https://github.com/sanupl/CVE-2021-46078)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46078">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46078">
+- [sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Stored-Cross-Site-Scripting">
+
+---
+## CVE-2021-46076 ()
+> 
+- [sanupl/CVE-2021-46076](https://github.com/sanupl/CVE-2021-46076)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46076">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46076">
+
+---
+## CVE-2021-46075 ()
+> 
+- [sanupl/CVE-2021-46075](https://github.com/sanupl/CVE-2021-46075)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46075">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46075">
+- [sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-Privilege-Escalation-Leads-to-CRUD-Operations">
+
+---
+## CVE-2021-46074 ()
+> 
+- [sanupl/CVE-2021-46074](https://github.com/sanupl/CVE-2021-46074)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46074">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46074">
+- [sanupl/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Settings-Stored-Cross-Site-Scripting-XSS">
+
+---
+## CVE-2021-46073 ()
+> 
+- [sanupl/CVE-2021-46073](https://github.com/sanupl/CVE-2021-46073)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46073">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46073">
+
+---
+## CVE-2021-46072 ()
+> 
+- [sanupl/CVE-2021-46072](https://github.com/sanupl/CVE-2021-46072)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46072">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46072">
+
+---
+## CVE-2021-46071 ()
+> 
+- [sanupl/CVE-2021-46071](https://github.com/sanupl/CVE-2021-46071)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46071">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46071">
+
+---
+## CVE-2021-46070 ()
+> 
+- [sanupl/CVE-2021-46070](https://github.com/sanupl/CVE-2021-46070)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46070">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46070">
+- [sanupl/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Service-Requests-Stored-Cross-Site-Scripting-XSS">
+
+---
+## CVE-2021-46069 ()
+> 
+- [sanupl/CVE-2021-46069](https://github.com/sanupl/CVE-2021-46069)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46069">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46069">
+
+---
+## CVE-2021-46068 ()
+> 
+- [sanupl/CVE-2021-46068](https://github.com/sanupl/CVE-2021-46068)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46068">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46068">
+
+---
+## CVE-2021-46067 ()
+> 
+- [sanupl/CVE-2021-46067](https://github.com/sanupl/CVE-2021-46067)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46067">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46067">
+
+---
 ## CVE-2021-46063 (2022-02-18T20:15:00)
 > MCMS v5.2.5 was discovered to contain a Server Side Template Injection (SSTI) vulnerability via the Template Management module.
 - [miguelc49/CVE-2021-46063-3](https://github.com/miguelc49/CVE-2021-46063-3)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-46063-3">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-46063-3">
@@ -329,6 +400,16 @@
 ## CVE-2021-45788 (2022-09-29T03:15:00)
 > Time-based SQL Injection vulnerabilities were found in Metersphere v1.15.4 via the "orders" parameter.
 - [Live-Hack-CVE/CVE-2021-45788](https://github.com/Live-Hack-CVE/CVE-2021-45788)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45788">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45788">
+
+---
+## CVE-2021-45745 ()
+> 
+- [sanupl/CVE-2021-45745](https://github.com/sanupl/CVE-2021-45745)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-45745">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-45745">
+
+---
+## CVE-2021-45744 ()
+> 
+- [sanupl/CVE-2021-45744](https://github.com/sanupl/CVE-2021-45744)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-45744">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-45744">
 
 ---
 ## CVE-2021-45710 (2021-12-27T00:15:00)
