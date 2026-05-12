@@ -157,6 +157,7 @@
 ## CVE-2026-5718 ()
 > 
 - [kyukazamiqq/cve-2026-5718](https://github.com/kyukazamiqq/cve-2026-5718)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/cve-2026-5718">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/cve-2026-5718">
+- [rootdirective-sec/cve-2026-5718-Lab](https://github.com/rootdirective-sec/cve-2026-5718-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/cve-2026-5718-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/cve-2026-5718-Lab">
 
 ---
 ## CVE-2026-5615 ()
