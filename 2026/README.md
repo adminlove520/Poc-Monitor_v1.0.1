@@ -388,6 +388,7 @@
 - [friparia/NGINX_RIFT_SCAN_CVE_2026_42945](https://github.com/friparia/NGINX_RIFT_SCAN_CVE_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/friparia/NGINX_RIFT_SCAN_CVE_2026_42945">
 - [RyosukeDTomita/CVE-2026-42945](https://github.com/RyosukeDTomita/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/RyosukeDTomita/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/RyosukeDTomita/CVE-2026-42945">
 - [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/DepthFirstDisclosures/Nginx-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/DepthFirstDisclosures/Nginx-Rift">
+- [0xBlackash/CVE-2026-42945](https://github.com/0xBlackash/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -1877,6 +1878,7 @@
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
+- [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
 
 ---
 ## CVE-2026-3143 ()
@@ -2211,6 +2213,7 @@
 - [strikoder/CVE-2026-29000-pac4j-jwt](https://github.com/strikoder/CVE-2026-29000-pac4j-jwt)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/CVE-2026-29000-pac4j-jwt">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/CVE-2026-29000-pac4j-jwt">
 - [zF-tm/CVE-2026-29000](https://github.com/zF-tm/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/zF-tm/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/zF-tm/CVE-2026-29000">
 - [tc4dy/CVE-2026-29000-PoC-Exploit](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-29000-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-29000-PoC-Exploit">
+- [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
 
 ---
 ## CVE-2026-28992 ()
@@ -3903,6 +3906,11 @@
 - [adamshaikhma/CVE-2026-1844](https://github.com/adamshaikhma/CVE-2026-1844)	<img alt="forks" src="https://img.shields.io/github/forks/adamshaikhma/CVE-2026-1844">	<img alt="stars" src="https://img.shields.io/github/stars/adamshaikhma/CVE-2026-1844">
 - [tingvoshage22/CVE-2026-1844-exploit](https://github.com/tingvoshage22/CVE-2026-1844-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tingvoshage22/CVE-2026-1844-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tingvoshage22/CVE-2026-1844-exploit">
 - [tingvoshage22/CVE-2026-1844-exploit](https://github.com/tingvoshage22/CVE-2026-1844-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tingvoshage22/CVE-2026-1844-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tingvoshage22/CVE-2026-1844-exploit">
+
+---
+## CVE-2026-1814 ()
+> 
+- [pbrass/CVE-2026-1814](https://github.com/pbrass/CVE-2026-1814)	<img alt="forks" src="https://img.shields.io/github/forks/pbrass/CVE-2026-1814">	<img alt="stars" src="https://img.shields.io/github/stars/pbrass/CVE-2026-1814">
 
 ---
 ## CVE-2026-1731 ()
