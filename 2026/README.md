@@ -366,6 +366,7 @@
 - [FrosterDL/CVE-2026-43284-Dirty-Frag](https://github.com/FrosterDL/CVE-2026-43284-Dirty-Frag)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-43284-Dirty-Frag">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-43284-Dirty-Frag">
 - [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
 - [FrosterDL/CVE-2026-43284](https://github.com/FrosterDL/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/FrosterDL/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/FrosterDL/CVE-2026-43284">
+- [ChernStepanov/DirtyFrag-for-dummies](https://github.com/ChernStepanov/DirtyFrag-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/DirtyFrag-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/DirtyFrag-for-dummies">
 
 ---
 ## CVE-2026-42940 ()
@@ -1854,6 +1855,7 @@
 - [SilverRuler/copy-fail-CVE-2026-31431](https://github.com/SilverRuler/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SilverRuler/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SilverRuler/copy-fail-CVE-2026-31431">
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
+- [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
 
 ---
 ## CVE-2026-3143 ()
