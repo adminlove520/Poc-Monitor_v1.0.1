@@ -322,6 +322,8 @@
 - [AK777177/Dirty-Frag-Analysis](https://github.com/AK777177/Dirty-Frag-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/AK777177/Dirty-Frag-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/AK777177/Dirty-Frag-Analysis">
 - [0xlane/pagecache-guard](https://github.com/0xlane/pagecache-guard)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/pagecache-guard">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/pagecache-guard">
 - [gagaltotal/CVE-2026-43284-CVE-2026-43500-scan](https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan">
+- [liamromanis101/DirtyFrag-Detector](https://github.com/liamromanis101/DirtyFrag-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/liamromanis101/DirtyFrag-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/liamromanis101/DirtyFrag-Detector">
+- [XRSecCD/202605_dirty_frag](https://github.com/XRSecCD/202605_dirty_frag)	<img alt="forks" src="https://img.shields.io/github/forks/XRSecCD/202605_dirty_frag">	<img alt="stars" src="https://img.shields.io/github/stars/XRSecCD/202605_dirty_frag">
 
 ---
 ## CVE-2026-4342 ()
@@ -1841,6 +1843,7 @@
 - [Koshmare-Blossom/Copyfail-sh](https://github.com/Koshmare-Blossom/Copyfail-sh)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/Copyfail-sh">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/Copyfail-sh">
 - [SilverRuler/copy-fail-CVE-2026-31431](https://github.com/SilverRuler/copy-fail-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/SilverRuler/copy-fail-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/SilverRuler/copy-fail-CVE-2026-31431">
 - [Diktrome/-cve_2026_31431_python3-5](https://github.com/Diktrome/-cve_2026_31431_python3-5)	<img alt="forks" src="https://img.shields.io/github/forks/Diktrome/-cve_2026_31431_python3-5">	<img alt="stars" src="https://img.shields.io/github/stars/Diktrome/-cve_2026_31431_python3-5">
+- [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
