@@ -412,6 +412,8 @@
 - [rheodev/CVE-2026-42945](https://github.com/rheodev/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/rheodev/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/rheodev/CVE-2026-42945">
 - [jelasin/CVE-2026-42945](https://github.com/jelasin/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/jelasin/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/jelasin/CVE-2026-42945">
 - [iammerrida-source/nginx-rift-detect](https://github.com/iammerrida-source/nginx-rift-detect)	<img alt="forks" src="https://img.shields.io/github/forks/iammerrida-source/nginx-rift-detect">	<img alt="stars" src="https://img.shields.io/github/stars/iammerrida-source/nginx-rift-detect">
+- [byezero/nginx-cve-2026-42945-check](https://github.com/byezero/nginx-cve-2026-42945-check)	<img alt="forks" src="https://img.shields.io/github/forks/byezero/nginx-cve-2026-42945-check">	<img alt="stars" src="https://img.shields.io/github/stars/byezero/nginx-cve-2026-42945-check">
+- [soksofos/wazuh-nginx-cve-2026-42945-sca-lab](https://github.com/soksofos/wazuh-nginx-cve-2026-42945-sca-lab)	<img alt="forks" src="https://img.shields.io/github/forks/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">	<img alt="stars" src="https://img.shields.io/github/stars/soksofos/wazuh-nginx-cve-2026-42945-sca-lab">
 
 ---
 ## CVE-2026-42940 ()
