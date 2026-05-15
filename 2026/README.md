@@ -3864,6 +3864,11 @@
 - [George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-">
 
 ---
+## CVE-2026-20182 ()
+> 
+- [fangbarristerbar/CVE-2026-20182-POC](https://github.com/fangbarristerbar/CVE-2026-20182-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-20182-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-20182-POC">
+
+---
 ## CVE-2026-20180 ()
 > 
 - [kaleth4/CVE-2026-20180](https://github.com/kaleth4/CVE-2026-20180)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-20180">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-20180">
