@@ -1028,6 +1028,16 @@
 - [HiteshGorana/susvibes-jupyter-server-cve-2026-35397](https://github.com/HiteshGorana/susvibes-jupyter-server-cve-2026-35397)	<img alt="forks" src="https://img.shields.io/github/forks/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">	<img alt="stars" src="https://img.shields.io/github/stars/HiteshGorana/susvibes-jupyter-server-cve-2026-35397">
 
 ---
+## CVE-2026-35333 ()
+> 
+- [JohannesLks/CVE-2026-35333](https://github.com/JohannesLks/CVE-2026-35333)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35333">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35333">
+
+---
+## CVE-2026-35330 ()
+> 
+- [JohannesLks/CVE-2026-35330](https://github.com/JohannesLks/CVE-2026-35330)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2026-35330">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2026-35330">
+
+---
 ## CVE-2026-35250 ()
 > 
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
