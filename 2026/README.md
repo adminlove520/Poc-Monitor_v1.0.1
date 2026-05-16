@@ -417,6 +417,7 @@
 - [ChernStepanov/DirtyFrag-for-dummies](https://github.com/ChernStepanov/DirtyFrag-for-dummies)	<img alt="forks" src="https://img.shields.io/github/forks/ChernStepanov/DirtyFrag-for-dummies">	<img alt="stars" src="https://img.shields.io/github/stars/ChernStepanov/DirtyFrag-for-dummies">
 - [grabesec/XCP_ng_CVE-2026-43284_tester](https://github.com/grabesec/XCP_ng_CVE-2026-43284_tester)	<img alt="forks" src="https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-43284_tester">	<img alt="stars" src="https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-43284_tester">
 - [xd20111/CVE-2026-43284](https://github.com/xd20111/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/xd20111/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/xd20111/CVE-2026-43284">
+- [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
 
 ---
 ## CVE-2026-42945 ()
@@ -1962,7 +1963,7 @@
 - [Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/Sebastian294/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/Sebastian294/cve-2026-31431">
 - [0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail">
 - [dotPY-hax/CopyFail](https://github.com/dotPY-hax/CopyFail)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/CopyFail">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/CopyFail">
-- [whosfault/cve-2026-31431](https://github.com/whosfault/cve-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/cve-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/cve-2026-31431">
+- [whosfault/CVE-2026-31431](https://github.com/whosfault/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-31431">
 - [zKaaanon/ProyectoFinalSO](https://github.com/zKaaanon/ProyectoFinalSO)	<img alt="forks" src="https://img.shields.io/github/forks/zKaaanon/ProyectoFinalSO">	<img alt="stars" src="https://img.shields.io/github/stars/zKaaanon/ProyectoFinalSO">
 - [CharBay/Linux-CVE-2026-31431_Public](https://github.com/CharBay/Linux-CVE-2026-31431_Public)	<img alt="forks" src="https://img.shields.io/github/forks/CharBay/Linux-CVE-2026-31431_Public">	<img alt="stars" src="https://img.shields.io/github/stars/CharBay/Linux-CVE-2026-31431_Public">
 - [adityasingh108/CVE-2026-31431-Metasploit-exploit](https://github.com/adityasingh108/CVE-2026-31431-Metasploit-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/adityasingh108/CVE-2026-31431-Metasploit-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/adityasingh108/CVE-2026-31431-Metasploit-exploit">
