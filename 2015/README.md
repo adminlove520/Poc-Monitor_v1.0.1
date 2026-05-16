@@ -477,6 +477,11 @@
 - [Live-Hack-CVE/CVE-2015-3258](https://github.com/Live-Hack-CVE/CVE-2015-3258)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3258">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3258">
 
 ---
+## CVE-2015-3256 ()
+> 
+- [puglia-ryan/S-V-Project-Implementation-of-CVE-2015-3256](https://github.com/puglia-ryan/S-V-Project-Implementation-of-CVE-2015-3256)	<img alt="forks" src="https://img.shields.io/github/forks/puglia-ryan/S-V-Project-Implementation-of-CVE-2015-3256">	<img alt="stars" src="https://img.shields.io/github/stars/puglia-ryan/S-V-Project-Implementation-of-CVE-2015-3256">
+
+---
 ## CVE-2015-3248 (2017-09-26T15:29:00)
 > It was found that the "/var/lib/openhpi" directory provided by OpenHPI used world-writeable and world-readable permissions. A local user could use this flaw to view, modify, and delete OpenHPI-related data, or even fill up the storage device hosting the /var/lib directory.
 - [Live-Hack-CVE/CVE-2015-3248](https://github.com/Live-Hack-CVE/CVE-2015-3248)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3248">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3248">
