@@ -2672,6 +2672,7 @@
 - [NetVanguard-cmd/CVE-2025-59536](https://github.com/NetVanguard-cmd/CVE-2025-59536)	<img alt="forks" src="https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2025-59536">	<img alt="stars" src="https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2025-59536">
 - [DBarr3/AETHER-PROTOCOL-P](https://github.com/DBarr3/AETHER-PROTOCOL-P)	<img alt="forks" src="https://img.shields.io/github/forks/DBarr3/AETHER-PROTOCOL-P">	<img alt="stars" src="https://img.shields.io/github/stars/DBarr3/AETHER-PROTOCOL-P">
 - [Rohitberiwala/Claude-Code-MCP-Injection-PoC](https://github.com/Rohitberiwala/Claude-Code-MCP-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rohitberiwala/Claude-Code-MCP-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rohitberiwala/Claude-Code-MCP-Injection-PoC">
+- [tacdm/cve-2025-59536-poc](https://github.com/tacdm/cve-2025-59536-poc)	<img alt="forks" src="https://img.shields.io/github/forks/tacdm/cve-2025-59536-poc">	<img alt="stars" src="https://img.shields.io/github/stars/tacdm/cve-2025-59536-poc">
 
 ---
 ## CVE-2025-59532 ()
@@ -4208,6 +4209,7 @@
 - [Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process)	<img alt="forks" src="https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">	<img alt="stars" src="https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process">
 - [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 - [fevra-dev/GitExpose](https://github.com/fevra-dev/GitExpose)	<img alt="forks" src="https://img.shields.io/github/forks/fevra-dev/GitExpose">	<img alt="stars" src="https://img.shields.io/github/stars/fevra-dev/GitExpose">
+- [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
 
 ---
 ## CVE-2025-55130 ()
