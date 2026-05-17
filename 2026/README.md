@@ -453,6 +453,7 @@
 - [sibersan/web-server-audit_CVE-2026-42945](https://github.com/sibersan/web-server-audit_CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/sibersan/web-server-audit_CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/sibersan/web-server-audit_CVE-2026-42945">
 - [dinosn/cve-2026-42945-nginx32-lab](https://github.com/dinosn/cve-2026-42945-nginx32-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-42945-nginx32-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-42945-nginx32-lab">
 - [tal7aouy/nginx-cve-2026-42945](https://github.com/tal7aouy/nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/tal7aouy/nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/tal7aouy/nginx-cve-2026-42945">
+- [Renison-Gohel/CVE-2026-42945-NGINX-Rift](https://github.com/Renison-Gohel/CVE-2026-42945-NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/Renison-Gohel/CVE-2026-42945-NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/Renison-Gohel/CVE-2026-42945-NGINX-Rift">
 
 ---
 ## CVE-2026-42940 ()
