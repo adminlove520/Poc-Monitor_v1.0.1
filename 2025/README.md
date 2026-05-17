@@ -2701,6 +2701,7 @@
 - [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 - [im-nymii/CVE-2025-59528](https://github.com/im-nymii/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/im-nymii/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/im-nymii/CVE-2025-59528">
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
+- [corey-farley/CVE-2025-59528-Flowise-RCE](https://github.com/corey-farley/CVE-2025-59528-Flowise-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/corey-farley/CVE-2025-59528-Flowise-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/corey-farley/CVE-2025-59528-Flowise-RCE">
 
 ---
 ## CVE-2025-59503 ()
