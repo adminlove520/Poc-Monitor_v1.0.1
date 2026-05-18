@@ -1320,6 +1320,10 @@
 ## CVE-2026-33825 ()
 > 
 - [kaleth4/CVE-2026-33825](https://github.com/kaleth4/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33825">
+- [0xBlackash/CVE-2026-33825](https://github.com/0xBlackash/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-33825">
+- [Letlaka/redsun-bluehammer-undefend-detection-pack](https://github.com/Letlaka/redsun-bluehammer-undefend-detection-pack)	<img alt="forks" src="https://img.shields.io/github/forks/Letlaka/redsun-bluehammer-undefend-detection-pack">	<img alt="stars" src="https://img.shields.io/github/stars/Letlaka/redsun-bluehammer-undefend-detection-pack">
+- [Joe1sn/CVE-2026-33825](https://github.com/Joe1sn/CVE-2026-33825)	<img alt="forks" src="https://img.shields.io/github/forks/Joe1sn/CVE-2026-33825">	<img alt="stars" src="https://img.shields.io/github/stars/Joe1sn/CVE-2026-33825">
+- [Bilal3755/Detecting_blue_hammer_vuln](https://github.com/Bilal3755/Detecting_blue_hammer_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/Bilal3755/Detecting_blue_hammer_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/Bilal3755/Detecting_blue_hammer_vuln">
 
 ---
 ## CVE-2026-33824 ()
