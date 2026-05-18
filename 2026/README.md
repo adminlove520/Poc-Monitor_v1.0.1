@@ -2018,6 +2018,7 @@
 - [royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/royayub/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/royayub/CVE-2026-31431">
 - [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
+- [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
 
 ---
 ## CVE-2026-3143 ()
