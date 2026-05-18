@@ -4211,6 +4211,7 @@
 - [Theori-lO/reactguard](https://github.com/Theori-lO/reactguard)	<img alt="forks" src="https://img.shields.io/github/forks/Theori-lO/reactguard">	<img alt="stars" src="https://img.shields.io/github/stars/Theori-lO/reactguard">
 - [fevra-dev/GitExpose](https://github.com/fevra-dev/GitExpose)	<img alt="forks" src="https://img.shields.io/github/forks/fevra-dev/GitExpose">	<img alt="stars" src="https://img.shields.io/github/stars/fevra-dev/GitExpose">
 - [MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182">
+- [yannisduvignau/react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/yannisduvignau/react2shell-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/yannisduvignau/react2shell-exploit">
 
 ---
 ## CVE-2025-55130 ()
@@ -6932,6 +6933,11 @@
 - [Ashwesker/Blackash-CVE-2025-34299](https://github.com/Ashwesker/Blackash-CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-34299">
 - [Chocapikk/CVE-2025-34299](https://github.com/Chocapikk/CVE-2025-34299)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2025-34299">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2025-34299">
 - [KrE80r/CVE-2025-34299-lab](https://github.com/KrE80r/CVE-2025-34299-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KrE80r/CVE-2025-34299-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KrE80r/CVE-2025-34299-lab">
+
+---
+## CVE-2025-34291 ()
+> 
+- [amnnrth/CVE-2025-34291_cors_security_scanner](https://github.com/amnnrth/CVE-2025-34291_cors_security_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/amnnrth/CVE-2025-34291_cors_security_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/amnnrth/CVE-2025-34291_cors_security_scanner">
 
 ---
 ## CVE-2025-34282 ()
