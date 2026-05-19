@@ -468,6 +468,9 @@
 - [dinosn/cve-2026-42945-nginx32-lab](https://github.com/dinosn/cve-2026-42945-nginx32-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/cve-2026-42945-nginx32-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/cve-2026-42945-nginx32-lab">
 - [tal7aouy/nginx-cve-2026-42945](https://github.com/tal7aouy/nginx-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/tal7aouy/nginx-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/tal7aouy/nginx-cve-2026-42945">
 - [Renison-Gohel/CVE-2026-42945-NGINX-Rift](https://github.com/Renison-Gohel/CVE-2026-42945-NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/Renison-Gohel/CVE-2026-42945-NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/Renison-Gohel/CVE-2026-42945-NGINX-Rift">
+- [imSre9/CVE-2026-42945](https://github.com/imSre9/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/imSre9/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/imSre9/CVE-2026-42945">
+- [hnytgl/cve-2026-42945](https://github.com/hnytgl/cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/hnytgl/cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/hnytgl/cve-2026-42945">
+- [MateusVerass/nGixshell](https://github.com/MateusVerass/nGixshell)	<img alt="forks" src="https://img.shields.io/github/forks/MateusVerass/nGixshell">	<img alt="stars" src="https://img.shields.io/github/stars/MateusVerass/nGixshell">
 
 ---
 ## CVE-2026-42940 ()
@@ -1127,6 +1130,11 @@
 ## CVE-2026-35031 ()
 > 
 - [keraattin/CVE-2026-35031](https://github.com/keraattin/CVE-2026-35031)	<img alt="forks" src="https://img.shields.io/github/forks/keraattin/CVE-2026-35031">	<img alt="stars" src="https://img.shields.io/github/stars/keraattin/CVE-2026-35031">
+
+---
+## CVE-2026-35029 ()
+> 
+- [learner202649/CVE-2026-35029-PoC](https://github.com/learner202649/CVE-2026-35029-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2026-35029-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2026-35029-PoC">
 
 ---
 ## CVE-2026-3502 ()
@@ -2025,6 +2033,7 @@
 - [Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation">
 - [First-John/CVE-2026-43500](https://github.com/First-John/CVE-2026-43500)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/CVE-2026-43500">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/CVE-2026-43500">
 - [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
+- [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 
 ---
 ## CVE-2026-3143 ()
