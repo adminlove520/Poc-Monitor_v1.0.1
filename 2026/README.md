@@ -313,6 +313,12 @@
 - [infiniroot/ansible-mitigate-copyfail-dirtyfrag](https://github.com/infiniroot/ansible-mitigate-copyfail-dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/ansible-mitigate-copyfail-dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/ansible-mitigate-copyfail-dirtyfrag">
 - [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
 - [ExploitEoom/CVE-2026-46300](https://github.com/ExploitEoom/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-46300">
+- [Maxime288/Fragnesia-CVE-2026-46300](https://github.com/Maxime288/Fragnesia-CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/Fragnesia-CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/Fragnesia-CVE-2026-46300">
+
+---
+## CVE-2026-45829 ()
+> 
+- [fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-](https://github.com/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/FULL-ANALYSIS---CVE-2026-45829-ChromaDB-">
 
 ---
 ## CVE-2026-45616 ()
@@ -483,6 +489,7 @@
 - [fkj-src/fix_nginx_cve_2026_42945](https://github.com/fkj-src/fix_nginx_cve_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/fkj-src/fix_nginx_cve_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/fkj-src/fix_nginx_cve_2026_42945">
 - [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
 - [gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">
+- [yusufdalbudak/CVE-2026-42945](https://github.com/yusufdalbudak/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
