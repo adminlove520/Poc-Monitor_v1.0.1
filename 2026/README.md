@@ -482,6 +482,7 @@
 - [gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Scanner">
 - [fkj-src/fix_nginx_cve_2026_42945](https://github.com/fkj-src/fix_nginx_cve_2026_42945)	<img alt="forks" src="https://img.shields.io/github/forks/fkj-src/fix_nginx_cve_2026_42945">	<img alt="stars" src="https://img.shields.io/github/stars/fkj-src/fix_nginx_cve_2026_42945">
 - [BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix)	<img alt="forks" src="https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix">	<img alt="stars" src="https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix">
+- [gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit](https://github.com/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-42945-NGINX-Rift-Toolkit">
 
 ---
 ## CVE-2026-42940 ()
@@ -1717,6 +1718,8 @@
 ## CVE-2026-31635 ()
 > 
 - [0xBlackash/CVE-2026-31635](https://github.com/0xBlackash/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-31635">
+- [Lutfifakee-Project/CVE-2026-31635](https://github.com/Lutfifakee-Project/CVE-2026-31635)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31635">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31635">
+- [aexdyhaxor/DirtyDecrypt](https://github.com/aexdyhaxor/DirtyDecrypt)	<img alt="forks" src="https://img.shields.io/github/forks/aexdyhaxor/DirtyDecrypt">	<img alt="stars" src="https://img.shields.io/github/stars/aexdyhaxor/DirtyDecrypt">
 
 ---
 ## CVE-2026-31431 ()
@@ -4429,6 +4432,8 @@
 - [unnaim/adbHijacker](https://github.com/unnaim/adbHijacker)	<img alt="forks" src="https://img.shields.io/github/forks/unnaim/adbHijacker">	<img alt="stars" src="https://img.shields.io/github/stars/unnaim/adbHijacker">
 - [ByteWraith1/CVE-2026-0073](https://github.com/ByteWraith1/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0073">
 - [tc4dy/CVE-2026-0073-PoC-Exploit](https://github.com/tc4dy/CVE-2026-0073-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-0073-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-0073-PoC-Exploit">
+- [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE-2026-0073">
+- [xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/xqi1337/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/xqi1337/poc-CVE-2026-0073">
 
 ---
 ## CVE-2026-0047 ()

@@ -3551,6 +3551,7 @@
 - [Murguii/DEV-CVE-2021-4034](https://github.com/Murguii/DEV-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Murguii/DEV-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Murguii/DEV-CVE-2021-4034">
 - [vaibhavkrishna12004/ubuntu-privesc-lab](https://github.com/vaibhavkrishna12004/ubuntu-privesc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/vaibhavkrishna12004/ubuntu-privesc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/vaibhavkrishna12004/ubuntu-privesc-lab">
 - [B1gN0Se/PwnKit_CVE-2021-4034](https://github.com/B1gN0Se/PwnKit_CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/B1gN0Se/PwnKit_CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/B1gN0Se/PwnKit_CVE-2021-4034">
+- [jayhutajulu1/PwnKit-CVE-2021-4034](https://github.com/jayhutajulu1/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/PwnKit-CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
