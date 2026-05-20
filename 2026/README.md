@@ -879,6 +879,11 @@
 - [sm1ee/CVE-2026-39324](https://github.com/sm1ee/CVE-2026-39324)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2026-39324">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2026-39324">
 
 ---
+## CVE-2026-39107 ()
+> 
+- [MGTx2/CVE-2026-39107](https://github.com/MGTx2/CVE-2026-39107)	<img alt="forks" src="https://img.shields.io/github/forks/MGTx2/CVE-2026-39107">	<img alt="stars" src="https://img.shields.io/github/stars/MGTx2/CVE-2026-39107">
+
+---
 ## CVE-2026-3910 ()
 > 
 - [5o1z/CVE-2026-3910](https://github.com/5o1z/CVE-2026-3910)	<img alt="forks" src="https://img.shields.io/github/forks/5o1z/CVE-2026-3910">	<img alt="stars" src="https://img.shields.io/github/stars/5o1z/CVE-2026-3910">
@@ -2199,6 +2204,11 @@
 ## CVE-2026-30951 ()
 > 
 - [EQSTLab/CVE-2026-30951](https://github.com/EQSTLab/CVE-2026-30951)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2026-30951">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2026-30951">
+
+---
+## CVE-2026-30950 ()
+> 
+- [ZeroPathAI/autogpt-CVE-2026-30950-poc](https://github.com/ZeroPathAI/autogpt-CVE-2026-30950-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/autogpt-CVE-2026-30950-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/autogpt-CVE-2026-30950-poc">
 
 ---
 ## CVE-2026-30945 ()
@@ -4418,6 +4428,11 @@
 - [qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC](https://github.com/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/qassam-315/PAN-OS-User-ID-Buffer-Overflow-PoC">
 - [p3Nt3st3r-sTAr/CVE-2026-0300-POC](https://github.com/p3Nt3st3r-sTAr/CVE-2026-0300-POC)	<img alt="forks" src="https://img.shields.io/github/forks/p3Nt3st3r-sTAr/CVE-2026-0300-POC">	<img alt="stars" src="https://img.shields.io/github/stars/p3Nt3st3r-sTAr/CVE-2026-0300-POC">
 - [ByteWraith1/CVE-2026-0300](https://github.com/ByteWraith1/CVE-2026-0300)	<img alt="forks" src="https://img.shields.io/github/forks/ByteWraith1/CVE-2026-0300">	<img alt="stars" src="https://img.shields.io/github/stars/ByteWraith1/CVE-2026-0300">
+
+---
+## CVE-2026-0265 ()
+> 
+- [BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check">
 
 ---
 ## CVE-2026-0227 ()
