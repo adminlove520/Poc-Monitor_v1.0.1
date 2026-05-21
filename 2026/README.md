@@ -754,6 +754,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
 
 ---
+## CVE-2026-41091 ()
+> 
+- [0xBlackash/CVE-2026-41091](https://github.com/0xBlackash/CVE-2026-41091)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41091">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41091">
+
+---
 ## CVE-2026-4106 ()
 > 
 - [ef3tr/CVE-2026-4106](https://github.com/ef3tr/CVE-2026-4106)	<img alt="forks" src="https://img.shields.io/github/forks/ef3tr/CVE-2026-4106">	<img alt="stars" src="https://img.shields.io/github/stars/ef3tr/CVE-2026-4106">
@@ -2116,6 +2121,7 @@
 - [cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431">
 - [GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker)	<img alt="forks" src="https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker">	<img alt="stars" src="https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker">
 - [sgkdev/ptrace_may_dream](https://github.com/sgkdev/ptrace_may_dream)	<img alt="forks" src="https://img.shields.io/github/forks/sgkdev/ptrace_may_dream">	<img alt="stars" src="https://img.shields.io/github/stars/sgkdev/ptrace_may_dream">
+- [JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC">
 
 ---
 ## CVE-2026-3143 ()
