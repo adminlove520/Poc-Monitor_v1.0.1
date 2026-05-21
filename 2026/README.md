@@ -1361,6 +1361,11 @@
 - [O99099O/By-Poloss..-..CVE-2026-33868](https://github.com/O99099O/By-Poloss..-..CVE-2026-33868)	<img alt="forks" src="https://img.shields.io/github/forks/O99099O/By-Poloss..-..CVE-2026-33868">	<img alt="stars" src="https://img.shields.io/github/stars/O99099O/By-Poloss..-..CVE-2026-33868">
 
 ---
+## CVE-2026-33829 ()
+> 
+- [rahultb-sec/CVE-2026-33829-Writeup](https://github.com/rahultb-sec/CVE-2026-33829-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/rahultb-sec/CVE-2026-33829-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/rahultb-sec/CVE-2026-33829-Writeup">
+
+---
 ## CVE-2026-33827 ()
 > 
 - [kaleth4/CVE-2026-33827](https://github.com/kaleth4/CVE-2026-33827)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-33827">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-33827">
