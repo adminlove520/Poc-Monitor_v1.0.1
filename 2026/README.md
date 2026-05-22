@@ -229,6 +229,7 @@
 > 
 - [umair-aziz025/CVE-2026-5281-Research-Toolkit](https://github.com/umair-aziz025/CVE-2026-5281-Research-Toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/CVE-2026-5281-Research-Toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/CVE-2026-5281-Research-Toolkit">
 - [TheMalwareGuardian/CVE-2026-5281](https://github.com/TheMalwareGuardian/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-5281">
+- [anansi2safe/CVE-2026-5281](https://github.com/anansi2safe/CVE-2026-5281)	<img alt="forks" src="https://img.shields.io/github/forks/anansi2safe/CVE-2026-5281">	<img alt="stars" src="https://img.shields.io/github/stars/anansi2safe/CVE-2026-5281">
 
 ---
 ## CVE-2026-5252 ()
@@ -347,6 +348,11 @@
 ## CVE-2026-45616 ()
 > 
 - [elvinsuleymanov/CVE-2026-45616](https://github.com/elvinsuleymanov/CVE-2026-45616)	<img alt="forks" src="https://img.shields.io/github/forks/elvinsuleymanov/CVE-2026-45616">	<img alt="stars" src="https://img.shields.io/github/stars/elvinsuleymanov/CVE-2026-45616">
+
+---
+## CVE-2026-45584 ()
+> 
+- [96613686/CVE-2026-45584](https://github.com/96613686/CVE-2026-45584)	<img alt="forks" src="https://img.shields.io/github/forks/96613686/CVE-2026-45584">	<img alt="stars" src="https://img.shields.io/github/stars/96613686/CVE-2026-45584">
 
 ---
 ## CVE-2026-45185 ()
@@ -1235,6 +1241,11 @@
 > 
 - [KKongTen/CVE-2026-3494_Verfication](https://github.com/KKongTen/CVE-2026-3494_Verfication)	<img alt="forks" src="https://img.shields.io/github/forks/KKongTen/CVE-2026-3494_Verfication">	<img alt="stars" src="https://img.shields.io/github/stars/KKongTen/CVE-2026-3494_Verfication">
 - [romain-deperne/CVE-2026-34940](https://github.com/romain-deperne/CVE-2026-34940)	<img alt="forks" src="https://img.shields.io/github/forks/romain-deperne/CVE-2026-34940">	<img alt="stars" src="https://img.shields.io/github/stars/romain-deperne/CVE-2026-34940">
+
+---
+## CVE-2026-34926 ()
+> 
+- [HORKimhab/CVE-2026-34926](https://github.com/HORKimhab/CVE-2026-34926)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-34926">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-34926">
 
 ---
 ## CVE-2026-34838 ()
