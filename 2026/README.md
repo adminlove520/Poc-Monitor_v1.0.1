@@ -3567,6 +3567,11 @@
 - [SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover](https://github.com/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Mailpit-RCE-v1.0---Temporal-Resonance-Mail-Server-Takeover">
 
 ---
+## CVE-2026-23813 ()
+> 
+- [offseckit/CVE-2026-23813](https://github.com/offseckit/CVE-2026-23813)	<img alt="forks" src="https://img.shields.io/github/forks/offseckit/CVE-2026-23813">	<img alt="stars" src="https://img.shields.io/github/stars/offseckit/CVE-2026-23813">
+
+---
 ## CVE-2026-23760 ()
 > 
 - [MaxMnMl/smartermail-CVE-2026-23760-poc](https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/MaxMnMl/smartermail-CVE-2026-23760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/MaxMnMl/smartermail-CVE-2026-23760-poc">
