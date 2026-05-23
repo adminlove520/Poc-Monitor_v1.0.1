@@ -299,6 +299,7 @@
 ## CVE-2026-4885 ()
 > 
 - [Jenderal92/CVE-2026-4885](https://github.com/Jenderal92/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2026-4885">
+- [xShadow-Here/CVE-2026-4885](https://github.com/xShadow-Here/CVE-2026-4885)	<img alt="forks" src="https://img.shields.io/github/forks/xShadow-Here/CVE-2026-4885">	<img alt="stars" src="https://img.shields.io/github/stars/xShadow-Here/CVE-2026-4885">
 
 ---
 ## CVE-2026-4821 ()
@@ -1934,7 +1935,7 @@
 - [wesmar/CVE-2026-31431](https://github.com/wesmar/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/wesmar/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/wesmar/CVE-2026-31431">
 - [grishinpv/CVE-2026-31431-old-python](https://github.com/grishinpv/CVE-2026-31431-old-python)	<img alt="forks" src="https://img.shields.io/github/forks/grishinpv/CVE-2026-31431-old-python">	<img alt="stars" src="https://img.shields.io/github/stars/grishinpv/CVE-2026-31431-old-python">
 - [yxdm02/CVE-2026-31431](https://github.com/yxdm02/CVE-2026-31431)	<img alt="forks" src="https://img.shields.io/github/forks/yxdm02/CVE-2026-31431">	<img alt="stars" src="https://img.shields.io/github/stars/yxdm02/CVE-2026-31431">
-- [rfxn/copyfail](https://github.com/rfxn/copyfail)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/copyfail">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/copyfail">
+- [rfxn/rfxn-defense](https://github.com/rfxn/rfxn-defense)	<img alt="forks" src="https://img.shields.io/github/forks/rfxn/rfxn-defense">	<img alt="stars" src="https://img.shields.io/github/stars/rfxn/rfxn-defense">
 - [cozystack/copy-fail-blocker](https://github.com/cozystack/copy-fail-blocker)	<img alt="forks" src="https://img.shields.io/github/forks/cozystack/copy-fail-blocker">	<img alt="stars" src="https://img.shields.io/github/stars/cozystack/copy-fail-blocker">
 - [professional-slacker/alg_check](https://github.com/professional-slacker/alg_check)	<img alt="forks" src="https://img.shields.io/github/forks/professional-slacker/alg_check">	<img alt="stars" src="https://img.shields.io/github/stars/professional-slacker/alg_check">
 - [wgnet/wg.copyfail.patch](https://github.com/wgnet/wg.copyfail.patch)	<img alt="forks" src="https://img.shields.io/github/forks/wgnet/wg.copyfail.patch">	<img alt="stars" src="https://img.shields.io/github/stars/wgnet/wg.copyfail.patch">
