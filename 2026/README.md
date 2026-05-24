@@ -14,6 +14,7 @@
 - [HORKimhab/CVE-2026-9082](https://github.com/HORKimhab/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-9082">
 - [ywh-jfellus/CVE-2026-9082](https://github.com/ywh-jfellus/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ywh-jfellus/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ywh-jfellus/CVE-2026-9082">
 - [ridhinva/CVE-2026-9082](https://github.com/ridhinva/CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-9082">
+- [N45HT/drupal-cve-2026-9082-checker](https://github.com/N45HT/drupal-cve-2026-9082-checker)	<img alt="forks" src="https://img.shields.io/github/forks/N45HT/drupal-cve-2026-9082-checker">	<img alt="stars" src="https://img.shields.io/github/stars/N45HT/drupal-cve-2026-9082-checker">
 
 ---
 ## CVE-2026-9018 ()
@@ -3667,6 +3668,7 @@
 - [0xzap/CVE-2026-23520](https://github.com/0xzap/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/0xzap/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/0xzap/CVE-2026-23520">
 - [n0rmh3ll/CVE-2026-23520](https://github.com/n0rmh3ll/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/n0rmh3ll/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/n0rmh3ll/CVE-2026-23520">
 - [cypher-21/CVE-2026-23520](https://github.com/cypher-21/CVE-2026-23520)	<img alt="forks" src="https://img.shields.io/github/forks/cypher-21/CVE-2026-23520">	<img alt="stars" src="https://img.shields.io/github/stars/cypher-21/CVE-2026-23520">
+- [kikechans/CVE-2026-23520-Educational](https://github.com/kikechans/CVE-2026-23520-Educational)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/CVE-2026-23520-Educational">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/CVE-2026-23520-Educational">
 
 ---
 ## CVE-2026-23500 ()
