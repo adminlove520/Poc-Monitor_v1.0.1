@@ -5816,6 +5816,7 @@
 - [Majdae/CVE-2025-47812-Research](https://github.com/Majdae/CVE-2025-47812-Research)	<img alt="forks" src="https://img.shields.io/github/forks/Majdae/CVE-2025-47812-Research">	<img alt="stars" src="https://img.shields.io/github/stars/Majdae/CVE-2025-47812-Research">
 - [H3XploR/Exploit_CVE-2025-47812](https://github.com/H3XploR/Exploit_CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/H3XploR/Exploit_CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/H3XploR/Exploit_CVE-2025-47812">
 - [AmogelangMongwaketse/cs50-final-project](https://github.com/AmogelangMongwaketse/cs50-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/AmogelangMongwaketse/cs50-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/AmogelangMongwaketse/cs50-final-project">
+- [0xS4N4TG/CVE-2025-47812](https://github.com/0xS4N4TG/CVE-2025-47812)	<img alt="forks" src="https://img.shields.io/github/forks/0xS4N4TG/CVE-2025-47812">	<img alt="stars" src="https://img.shields.io/github/stars/0xS4N4TG/CVE-2025-47812">
 
 ---
 ## CVE-2025-47810 ()
@@ -10291,6 +10292,11 @@
 - [meenakshisl/PoC-CVE-2025-13780](https://github.com/meenakshisl/PoC-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/meenakshisl/PoC-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/meenakshisl/PoC-CVE-2025-13780">
 - [Ashwesker/Blackash-CVE-2025-13780](https://github.com/Ashwesker/Blackash-CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/Ashwesker/Blackash-CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/Ashwesker/Blackash-CVE-2025-13780">
 - [ThemeHackers/CVE-2025-13780](https://github.com/ThemeHackers/CVE-2025-13780)	<img alt="forks" src="https://img.shields.io/github/forks/ThemeHackers/CVE-2025-13780">	<img alt="stars" src="https://img.shields.io/github/stars/ThemeHackers/CVE-2025-13780">
+
+---
+## CVE-2025-13673 ()
+> 
+- [dinosn/CVE-2025-13673](https://github.com/dinosn/CVE-2025-13673)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2025-13673">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2025-13673">
 
 ---
 ## CVE-2025-13615 ()
