@@ -818,6 +818,11 @@
 - [Hann1bl3L3ct3r/CVE-2026-4112](https://github.com/Hann1bl3L3ct3r/CVE-2026-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-4112">
 
 ---
+## CVE-2026-41096 ()
+> 
+- [bajoex/CVE-2026-41096-POC-trigger-no-exploit-](https://github.com/bajoex/CVE-2026-41096-POC-trigger-no-exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/bajoex/CVE-2026-41096-POC-trigger-no-exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/bajoex/CVE-2026-41096-POC-trigger-no-exploit-">
+
+---
 ## CVE-2026-41091 ()
 > 
 - [0xBlackash/CVE-2026-41091](https://github.com/0xBlackash/CVE-2026-41091)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-41091">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-41091">
