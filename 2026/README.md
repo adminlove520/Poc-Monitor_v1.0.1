@@ -500,6 +500,7 @@
 > 
 - [0xBlackash/CVE-2026-43494](https://github.com/0xBlackash/CVE-2026-43494)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-43494">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-43494">
 - [Koshmare-Blossom/PinTheft-go](https://github.com/Koshmare-Blossom/PinTheft-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/PinTheft-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/PinTheft-go">
+- [jayhutajulu1/CVE-2026-43494-PinTheft-PoC](https://github.com/jayhutajulu1/CVE-2026-43494-PinTheft-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43494-PinTheft-PoC">
 
 ---
 ## CVE-2026-4342 ()
@@ -538,6 +539,11 @@
 - [whosfault/CVE-2026-43284](https://github.com/whosfault/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/whosfault/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/whosfault/CVE-2026-43284">
 - [LucasPDiniz/CVE-2026-43284](https://github.com/LucasPDiniz/CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/LucasPDiniz/CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/LucasPDiniz/CVE-2026-43284">
 - [AtlasVector/Dirty-Frag-CVE-2026-43284](https://github.com/AtlasVector/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/AtlasVector/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/AtlasVector/Dirty-Frag-CVE-2026-43284">
+- [Koshmare-Blossom/DirtyFrag-go](https://github.com/Koshmare-Blossom/DirtyFrag-go)	<img alt="forks" src="https://img.shields.io/github/forks/Koshmare-Blossom/DirtyFrag-go">	<img alt="stars" src="https://img.shields.io/github/stars/Koshmare-Blossom/DirtyFrag-go">
+- [First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix)	<img alt="forks" src="https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix">	<img alt="stars" src="https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix">
+- [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
+- [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
+- [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
 
 ---
 ## CVE-2026-42945 ()
@@ -1285,6 +1291,11 @@
 ## CVE-2026-35250 ()
 > 
 - [xooxo/CVE-2026-35250](https://github.com/xooxo/CVE-2026-35250)	<img alt="forks" src="https://img.shields.io/github/forks/xooxo/CVE-2026-35250">	<img alt="stars" src="https://img.shields.io/github/stars/xooxo/CVE-2026-35250">
+
+---
+## CVE-2026-35196 ()
+> 
+- [kx00007/CVE-2026-35196](https://github.com/kx00007/CVE-2026-35196)	<img alt="forks" src="https://img.shields.io/github/forks/kx00007/CVE-2026-35196">	<img alt="stars" src="https://img.shields.io/github/stars/kx00007/CVE-2026-35196">
 
 ---
 ## CVE-2026-35045 ()

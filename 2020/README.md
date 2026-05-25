@@ -754,6 +754,11 @@
 - [Live-Hack-CVE/CVE-2020-7608](https://github.com/Live-Hack-CVE/CVE-2020-7608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7608">
 
 ---
+## CVE-2020-7598 ()
+> 
+- [renewablehacking/CVE-2020-7598](https://github.com/renewablehacking/CVE-2020-7598)	<img alt="forks" src="https://img.shields.io/github/forks/renewablehacking/CVE-2020-7598">	<img alt="stars" src="https://img.shields.io/github/stars/renewablehacking/CVE-2020-7598">
+
+---
 ## CVE-2020-7588 (2020-07-14T14:15:00)
 > A vulnerability has been identified in Opcenter Execution Discrete (All versions < V3.2), Opcenter Execution Foundation (All versions < V3.2), Opcenter Execution Process (All versions < V3.2), Opcenter Intelligence (All versions < V3.3), Opcenter Quality (All versions < V11.3), Opcenter RD&L (V8.0), SIMATIC IT LMS (All versions < V2.6), SIMATIC IT Production Suite (All versions < V8.0), SIMATIC Notifier Server for Windows (All versions), SIMATIC PCS neo (All versions < V3.0 SP1), SIMATIC STEP 7 (TIA Portal) V15 (All versions < V15.1 Update 5), SIMATIC STEP 7 (TIA Portal) V16 (All versions < V16 Update 2), SIMOCODE ES V15.1 (All versions < V15.1 Update 4), SIMOCODE ES V16 (All versions < V16 Update 1), Soft Starter ES V15.1 (All versions < V15.1 Update 3), Soft Starter ES V16 (All versions < V16 Update 1). Sending a specially crafted packet to the affected service could cause a partial remote denial-of-service, that would cause the service to restart itself.
 - [Live-Hack-CVE/CVE-2020-7588](https://github.com/Live-Hack-CVE/CVE-2020-7588)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7588">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7588">
