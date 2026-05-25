@@ -581,6 +581,7 @@
 - [yusufdalbudak/CVE-2026-42945](https://github.com/yusufdalbudak/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2026-42945">
 - [F2u0a0d3/CVE-2026-42945-nginx-rift-poc](https://github.com/F2u0a0d3/CVE-2026-42945-nginx-rift-poc)	<img alt="forks" src="https://img.shields.io/github/forks/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">	<img alt="stars" src="https://img.shields.io/github/stars/F2u0a0d3/CVE-2026-42945-nginx-rift-poc">
 - [webdev75950-ux/nginx-rce-cve-2026-42945](https://github.com/webdev75950-ux/nginx-rce-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/webdev75950-ux/nginx-rce-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/webdev75950-ux/nginx-rce-cve-2026-42945">
+- [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
 
 ---
 ## CVE-2026-42940 ()
@@ -591,6 +592,11 @@
 ## CVE-2026-42897 ()
 > 
 - [atiilla/CVE-2026-42897](https://github.com/atiilla/CVE-2026-42897)	<img alt="forks" src="https://img.shields.io/github/forks/atiilla/CVE-2026-42897">	<img alt="stars" src="https://img.shields.io/github/stars/atiilla/CVE-2026-42897">
+
+---
+## CVE-2026-42880 ()
+> 
+- [HAERIN-L/POC_CVE-2026-42880](https://github.com/HAERIN-L/POC_CVE-2026-42880)	<img alt="forks" src="https://img.shields.io/github/forks/HAERIN-L/POC_CVE-2026-42880">	<img alt="stars" src="https://img.shields.io/github/stars/HAERIN-L/POC_CVE-2026-42880">
 
 ---
 ## CVE-2026-42879 ()
@@ -4663,6 +4669,7 @@
 - [0xbinder/CVE-2026-0073](https://github.com/0xbinder/CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/0xbinder/CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/0xbinder/CVE-2026-0073">
 - [xqi1337/poc-CVE-2026-0073](https://github.com/xqi1337/poc-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/xqi1337/poc-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/xqi1337/poc-CVE-2026-0073">
 - [ridhinva/CVE-2026-0073-ADBD-Bypass](https://github.com/ridhinva/CVE-2026-0073-ADBD-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/ridhinva/CVE-2026-0073-ADBD-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/ridhinva/CVE-2026-0073-ADBD-Bypass">
+- [thakur2309/CVE-2026-0073-ZERO-CLICK](https://github.com/thakur2309/CVE-2026-0073-ZERO-CLICK)	<img alt="forks" src="https://img.shields.io/github/forks/thakur2309/CVE-2026-0073-ZERO-CLICK">	<img alt="stars" src="https://img.shields.io/github/stars/thakur2309/CVE-2026-0073-ZERO-CLICK">
 
 ---
 ## CVE-2026-0047 ()

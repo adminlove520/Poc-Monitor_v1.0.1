@@ -9110,6 +9110,8 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [valornode/CVE-2024-23113](https://github.com/valornode/CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/valornode/CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/valornode/CVE-2024-23113">
 - [zetzns/cve-2024-23113](https://github.com/zetzns/cve-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/zetzns/cve-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/zetzns/cve-2024-23113">
 - [MAVRICK-1/cve-2024-23113-test-env](https://github.com/MAVRICK-1/cve-2024-23113-test-env)	<img alt="forks" src="https://img.shields.io/github/forks/MAVRICK-1/cve-2024-23113-test-env">	<img alt="stars" src="https://img.shields.io/github/stars/MAVRICK-1/cve-2024-23113-test-env">
+- [MinhPham123456789/PoC-CVE-2024-23113](https://github.com/MinhPham123456789/PoC-CVE-2024-23113)	<img alt="forks" src="https://img.shields.io/github/forks/MinhPham123456789/PoC-CVE-2024-23113">	<img alt="stars" src="https://img.shields.io/github/stars/MinhPham123456789/PoC-CVE-2024-23113">
+- [ownouwa/cve-2024-23113-poc](https://github.com/ownouwa/cve-2024-23113-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ownouwa/cve-2024-23113-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ownouwa/cve-2024-23113-poc">
 
 ---
 ## CVE-2024-23112 (2024-03-12T15:15:00)
