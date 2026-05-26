@@ -343,6 +343,11 @@
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
 
 ---
+## CVE-2026-47668 ()
+> 
+- [Nxploited/CVE-2026-47668](https://github.com/Nxploited/CVE-2026-47668)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2026-47668">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2026-47668">
+
+---
 ## CVE-2026-4747 ()
 > 
 - [kaleth4/CVE-2026-4747](https://github.com/kaleth4/CVE-2026-4747)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2026-4747">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2026-4747">
@@ -390,6 +395,11 @@
 - [HORKimhab/CVE-2026-46300](https://github.com/HORKimhab/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-46300">
 - [ExploitEoom/CVE-2026-46300](https://github.com/ExploitEoom/CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitEoom/CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitEoom/CVE-2026-46300">
 - [Maxime288/Fragnesia-CVE-2026-46300](https://github.com/Maxime288/Fragnesia-CVE-2026-46300)	<img alt="forks" src="https://img.shields.io/github/forks/Maxime288/Fragnesia-CVE-2026-46300">	<img alt="stars" src="https://img.shields.io/github/stars/Maxime288/Fragnesia-CVE-2026-46300">
+
+---
+## CVE-2026-46275 ()
+> 
+- [xxconi/CVE-2026-46275](https://github.com/xxconi/CVE-2026-46275)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-46275">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-46275">
 
 ---
 ## CVE-2026-45829 ()
