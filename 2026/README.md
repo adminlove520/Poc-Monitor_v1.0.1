@@ -333,6 +333,11 @@
 - [retmakarunia/CVE-2026-48172](https://github.com/retmakarunia/CVE-2026-48172)	<img alt="forks" src="https://img.shields.io/github/forks/retmakarunia/CVE-2026-48172">	<img alt="stars" src="https://img.shields.io/github/stars/retmakarunia/CVE-2026-48172">
 
 ---
+## CVE-2026-48095 ()
+> 
+- [HORKimhab/CVE-2026-48095](https://github.com/HORKimhab/CVE-2026-48095)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-48095">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-48095">
+
+---
 ## CVE-2026-4800 ()
 > 
 - [SvenLie/next-rep-CVE-2026-4800](https://github.com/SvenLie/next-rep-CVE-2026-4800)	<img alt="forks" src="https://img.shields.io/github/forks/SvenLie/next-rep-CVE-2026-4800">	<img alt="stars" src="https://img.shields.io/github/stars/SvenLie/next-rep-CVE-2026-4800">
@@ -560,6 +565,7 @@
 - [kuniyal08/Dirty-Frag-CVE-2026-43284](https://github.com/kuniyal08/Dirty-Frag-CVE-2026-43284)	<img alt="forks" src="https://img.shields.io/github/forks/kuniyal08/Dirty-Frag-CVE-2026-43284">	<img alt="stars" src="https://img.shields.io/github/stars/kuniyal08/Dirty-Frag-CVE-2026-43284">
 - [ochebotar/copy-fail-CVE-2026-31431-detection-probe](https://github.com/ochebotar/copy-fail-CVE-2026-31431-detection-probe)	<img alt="forks" src="https://img.shields.io/github/forks/ochebotar/copy-fail-CVE-2026-31431-detection-probe">	<img alt="stars" src="https://img.shields.io/github/stars/ochebotar/copy-fail-CVE-2026-31431-detection-probe">
 - [Aiyakami/rust_dirtyfrag](https://github.com/Aiyakami/rust_dirtyfrag)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/rust_dirtyfrag">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/rust_dirtyfrag">
+- [jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC](https://github.com/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jayhutajulu1/CVE-2026-43284-DirtyFrag-PoC">
 
 ---
 ## CVE-2026-42945 ()
@@ -2850,6 +2856,11 @@
 > 
 - [kocaemre/CVE-2026-27470](https://github.com/kocaemre/CVE-2026-27470)	<img alt="forks" src="https://img.shields.io/github/forks/kocaemre/CVE-2026-27470">	<img alt="stars" src="https://img.shields.io/github/stars/kocaemre/CVE-2026-27470">
 - [d3vn0mi/CVE-2026-27470-POC](https://github.com/d3vn0mi/CVE-2026-27470-POC)	<img alt="forks" src="https://img.shields.io/github/forks/d3vn0mi/CVE-2026-27470-POC">	<img alt="stars" src="https://img.shields.io/github/stars/d3vn0mi/CVE-2026-27470-POC">
+
+---
+## CVE-2026-27384 ()
+> 
+- [xxconi/CVE-2026-27384](https://github.com/xxconi/CVE-2026-27384)	<img alt="forks" src="https://img.shields.io/github/forks/xxconi/CVE-2026-27384">	<img alt="stars" src="https://img.shields.io/github/stars/xxconi/CVE-2026-27384">
 
 ---
 ## CVE-2026-27211 ()
