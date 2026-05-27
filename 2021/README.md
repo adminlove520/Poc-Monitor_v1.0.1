@@ -6054,6 +6054,7 @@
 - [VoiidByte/Impacket](https://github.com/VoiidByte/Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/VoiidByte/Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/VoiidByte/Impacket">
 - [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
+- [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
