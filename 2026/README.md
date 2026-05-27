@@ -627,6 +627,8 @@
 - [webdev75950-ux/nginx-rce-cve-2026-42945](https://github.com/webdev75950-ux/nginx-rce-cve-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/webdev75950-ux/nginx-rce-cve-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/webdev75950-ux/nginx-rce-cve-2026-42945">
 - [bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR](https://github.com/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR)	<img alt="forks" src="https://img.shields.io/github/forks/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">	<img alt="stars" src="https://img.shields.io/github/stars/bamov970/CVE-2026-42945-Nginx-RCE-bypass-ASLR">
 - [niekaicheng/CVE-2026-42945_NGINX_Rift](https://github.com/niekaicheng/CVE-2026-42945_NGINX_Rift)	<img alt="forks" src="https://img.shields.io/github/forks/niekaicheng/CVE-2026-42945_NGINX_Rift">	<img alt="stars" src="https://img.shields.io/github/stars/niekaicheng/CVE-2026-42945_NGINX_Rift">
+- [nu0l/NGINX-Rift](https://github.com/nu0l/NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/NGINX-Rift">
+- [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
 
 ---
 ## CVE-2026-42940 ()
@@ -2475,6 +2477,11 @@
 > 
 - [iremnurylmz/CVE-2026-30695](https://github.com/iremnurylmz/CVE-2026-30695)	<img alt="forks" src="https://img.shields.io/github/forks/iremnurylmz/CVE-2026-30695">	<img alt="stars" src="https://img.shields.io/github/stars/iremnurylmz/CVE-2026-30695">
 - [iremnurylmz/CVE-2026-30695](https://github.com/iremnurylmz/CVE-2026-30695)	<img alt="forks" src="https://img.shields.io/github/forks/iremnurylmz/CVE-2026-30695">	<img alt="stars" src="https://img.shields.io/github/stars/iremnurylmz/CVE-2026-30695">
+
+---
+## CVE-2026-30690 ()
+> 
+- [walidriouah/CVE-2026-30690](https://github.com/walidriouah/CVE-2026-30690)	<img alt="forks" src="https://img.shields.io/github/forks/walidriouah/CVE-2026-30690">	<img alt="stars" src="https://img.shields.io/github/stars/walidriouah/CVE-2026-30690">
 
 ---
 ## CVE-2026-30655 ()
