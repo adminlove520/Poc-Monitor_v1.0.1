@@ -4264,6 +4264,7 @@
 ## CVE-2026-20817 ()
 > 
 - [oxfemale/CVE-2026-20817](https://github.com/oxfemale/CVE-2026-20817)	<img alt="forks" src="https://img.shields.io/github/forks/oxfemale/CVE-2026-20817">	<img alt="stars" src="https://img.shields.io/github/stars/oxfemale/CVE-2026-20817">
+- [dwgth4i/CVE-2026-20817](https://github.com/dwgth4i/CVE-2026-20817)	<img alt="forks" src="https://img.shields.io/github/forks/dwgth4i/CVE-2026-20817">	<img alt="stars" src="https://img.shields.io/github/stars/dwgth4i/CVE-2026-20817">
 
 ---
 ## CVE-2026-20805 ()
