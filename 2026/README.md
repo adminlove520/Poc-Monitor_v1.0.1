@@ -3987,6 +3987,7 @@
 - [GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection)	<img alt="forks" src="https://img.shields.io/github/forks/GarethMSheldon/cve-2026-22557-unifi-detection">	<img alt="stars" src="https://img.shields.io/github/stars/GarethMSheldon/cve-2026-22557-unifi-detection">
 - [0xBlackash/CVE-2026-22557](https://github.com/0xBlackash/CVE-2026-22557)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-22557">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-22557">
 - [ThePotatoOfDoom/CVE-2026-22557-PoC](https://github.com/ThePotatoOfDoom/CVE-2026-22557-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ThePotatoOfDoom/CVE-2026-22557-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ThePotatoOfDoom/CVE-2026-22557-PoC">
+- [BishopFox/CVE-2026-22557-check](https://github.com/BishopFox/CVE-2026-22557-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-22557-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-22557-check">
 
 ---
 ## CVE-2026-22553 ()
@@ -4783,6 +4784,11 @@
 - [BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check">
 - [BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check">
 - [tstephens1080/palo-alto-cve-2026-0265-checker](https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker)	<img alt="forks" src="https://img.shields.io/github/forks/tstephens1080/palo-alto-cve-2026-0265-checker">	<img alt="stars" src="https://img.shields.io/github/stars/tstephens1080/palo-alto-cve-2026-0265-checker">
+
+---
+## CVE-2026-0257 ()
+> 
+- [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
 
 ---
 ## CVE-2026-0227 ()
