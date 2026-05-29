@@ -416,6 +416,11 @@
 - [bradyjmcl/cve-2026-46391](https://github.com/bradyjmcl/cve-2026-46391)	<img alt="forks" src="https://img.shields.io/github/forks/bradyjmcl/cve-2026-46391">	<img alt="stars" src="https://img.shields.io/github/stars/bradyjmcl/cve-2026-46391">
 
 ---
+## CVE-2026-46376 ()
+> 
+- [portbuster1337/CVE-2026-46376](https://github.com/portbuster1337/CVE-2026-46376)	<img alt="forks" src="https://img.shields.io/github/forks/portbuster1337/CVE-2026-46376">	<img alt="stars" src="https://img.shields.io/github/stars/portbuster1337/CVE-2026-46376">
+
+---
 ## CVE-2026-46333 ()
 > 
 - [studiogangster/CVE-2026-46333](https://github.com/studiogangster/CVE-2026-46333)	<img alt="forks" src="https://img.shields.io/github/forks/studiogangster/CVE-2026-46333">	<img alt="stars" src="https://img.shields.io/github/stars/studiogangster/CVE-2026-46333">
