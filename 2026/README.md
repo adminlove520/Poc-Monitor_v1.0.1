@@ -875,6 +875,7 @@
 - [shibaaa204/Pack2TheRoot](https://github.com/shibaaa204/Pack2TheRoot)	<img alt="forks" src="https://img.shields.io/github/forks/shibaaa204/Pack2TheRoot">	<img alt="stars" src="https://img.shields.io/github/stars/shibaaa204/Pack2TheRoot">
 - [Kowntaewook/CVE-2026-41651-analysis](https://github.com/Kowntaewook/CVE-2026-41651-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Kowntaewook/CVE-2026-41651-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Kowntaewook/CVE-2026-41651-analysis">
 - [mawussid/CVE-2026-41651-Python](https://github.com/mawussid/CVE-2026-41651-Python)	<img alt="forks" src="https://img.shields.io/github/forks/mawussid/CVE-2026-41651-Python">	<img alt="stars" src="https://img.shields.io/github/stars/mawussid/CVE-2026-41651-Python">
+- [Lutfifakee-Project/CVE-2026-41651](https://github.com/Lutfifakee-Project/CVE-2026-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-41651">
 
 ---
 ## CVE-2026-41575 ()
@@ -958,6 +959,11 @@
 ## CVE-2026-40579 ()
 > 
 - [zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579">
+
+---
+## CVE-2026-40564 ()
+> 
+- [oscerd/CVE-2026-40564](https://github.com/oscerd/CVE-2026-40564)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40564">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40564">
 
 ---
 ## CVE-2026-40487 ()
