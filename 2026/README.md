@@ -391,6 +391,11 @@
 - [rootdirective-sec/CVE-2026-47100-Analysis-Lab](https://github.com/rootdirective-sec/CVE-2026-47100-Analysis-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-47100-Analysis-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-47100-Analysis-Lab">
 
 ---
+## CVE-2026-46840 ()
+> 
+- [fangbarristerbar/CVE-2026-46840-ORDS-RCE](https://github.com/fangbarristerbar/CVE-2026-46840-ORDS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fangbarristerbar/CVE-2026-46840-ORDS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fangbarristerbar/CVE-2026-46840-ORDS-RCE">
+
+---
 ## CVE-2026-46680 ()
 > 
 - [r0binak/CVE-2026-46680](https://github.com/r0binak/CVE-2026-46680)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2026-46680">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2026-46680">
@@ -447,6 +452,7 @@
 ## CVE-2026-45659 ()
 > 
 - [HORKimhab/CVE-2026-45659](https://github.com/HORKimhab/CVE-2026-45659)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-45659">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-45659">
+- [mistbarbarianspot/CVE-2026-45659-SharePoint-RCE](https://github.com/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mistbarbarianspot/CVE-2026-45659-SharePoint-RCE">
 
 ---
 ## CVE-2026-45616 ()
