@@ -11,6 +11,11 @@
 - [lasdjk/CVE-2026-99999-important-info](https://github.com/lasdjk/CVE-2026-99999-important-info)	<img alt="forks" src="https://img.shields.io/github/forks/lasdjk/CVE-2026-99999-important-info">	<img alt="stars" src="https://img.shields.io/github/stars/lasdjk/CVE-2026-99999-important-info">
 
 ---
+## CVE-2026-9490 ()
+> 
+- [ugvxb/CVE-2026-9490](https://github.com/ugvxb/CVE-2026-9490)	<img alt="forks" src="https://img.shields.io/github/forks/ugvxb/CVE-2026-9490">	<img alt="stars" src="https://img.shields.io/github/stars/ugvxb/CVE-2026-9490">
+
+---
 ## CVE-2026-9256 ()
 > 
 - [suominen/CVE-2026-9256](https://github.com/suominen/CVE-2026-9256)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2026-9256">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2026-9256">
@@ -712,6 +717,11 @@
 - [Akinfue/CVE-2026-42778-POC](https://github.com/Akinfue/CVE-2026-42778-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Akinfue/CVE-2026-42778-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Akinfue/CVE-2026-42778-POC">
 
 ---
+## CVE-2026-42589 ()
+> 
+- [fineman999/POC_CVE-2026-42589](https://github.com/fineman999/POC_CVE-2026-42589)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2026-42589">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2026-42589">
+
+---
 ## CVE-2026-4257 ()
 > 
 - [bootstrapbool/cve-2026-4257](https://github.com/bootstrapbool/cve-2026-4257)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/cve-2026-4257">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/cve-2026-4257">
@@ -1036,6 +1046,7 @@
 - [rootdirective-sec/CVE-2026-39987-Lab](https://github.com/rootdirective-sec/CVE-2026-39987-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-39987-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-39987-Lab">
 - [0xdeadroot/CVE-2026-39987-marimo-rce](https://github.com/0xdeadroot/CVE-2026-39987-marimo-rce)	<img alt="forks" src="https://img.shields.io/github/forks/0xdeadroot/CVE-2026-39987-marimo-rce">	<img alt="stars" src="https://img.shields.io/github/stars/0xdeadroot/CVE-2026-39987-marimo-rce">
 - [M3PH1569/CVE-2026-39987-POC](https://github.com/M3PH1569/CVE-2026-39987-POC)	<img alt="forks" src="https://img.shields.io/github/forks/M3PH1569/CVE-2026-39987-POC">	<img alt="stars" src="https://img.shields.io/github/stars/M3PH1569/CVE-2026-39987-POC">
+- [HORKimhab/CVE-2026-39987](https://github.com/HORKimhab/CVE-2026-39987)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-39987">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-39987">
 
 ---
 ## CVE-2026-39983 ()
@@ -2730,6 +2741,7 @@
 - [zF-tm/CVE-2026-29000](https://github.com/zF-tm/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/zF-tm/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/zF-tm/CVE-2026-29000">
 - [tc4dy/CVE-2026-29000-PoC-Exploit](https://github.com/tc4dy/CVE-2026-29000-PoC-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/tc4dy/CVE-2026-29000-PoC-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/tc4dy/CVE-2026-29000-PoC-Exploit">
 - [ledksv/Principal-HackTheBox](https://github.com/ledksv/Principal-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Principal-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Principal-HackTheBox">
+- [c0gnit00/CVE-2026-29000](https://github.com/c0gnit00/CVE-2026-29000)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-29000">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-29000">
 
 ---
 ## CVE-2026-28992 ()
@@ -4800,6 +4812,7 @@
 ## CVE-2026-0257 ()
 > 
 - [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
+- [HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()

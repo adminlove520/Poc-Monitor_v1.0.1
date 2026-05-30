@@ -154,6 +154,7 @@
 - [rocket-panda/CVE-2025-9074](https://github.com/rocket-panda/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/rocket-panda/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/rocket-panda/CVE-2025-9074">
 - [chernandez321/CVE-2025-9074-docker-escape](https://github.com/chernandez321/CVE-2025-9074-docker-escape)	<img alt="forks" src="https://img.shields.io/github/forks/chernandez321/CVE-2025-9074-docker-escape">	<img alt="stars" src="https://img.shields.io/github/stars/chernandez321/CVE-2025-9074-docker-escape">
 - [Medaz-Sploit/CVE-2025-9074-Docker-Desktop-API-Escape-PoC](https://github.com/Medaz-Sploit/CVE-2025-9074-Docker-Desktop-API-Escape-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Medaz-Sploit/CVE-2025-9074-Docker-Desktop-API-Escape-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Medaz-Sploit/CVE-2025-9074-Docker-Desktop-API-Escape-PoC">
+- [c0gnit00/CVE-2025-9074](https://github.com/c0gnit00/CVE-2025-9074)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2025-9074">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2025-9074">
 
 ---
 ## CVE-2025-9043 ()
