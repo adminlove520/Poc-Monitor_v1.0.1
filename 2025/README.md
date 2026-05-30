@@ -4243,6 +4243,7 @@
 - [Jeanback1/react-rsc-cve-2025-55182-lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/react-rsc-cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/react-rsc-cve-2025-55182-lab">
 - [sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough](https://github.com/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/sonnycroco/HTB-Reactor-Linux-Machine---Walkthrough">
 - [LuizHenz/PoC-CVE-2025-55182](https://github.com/LuizHenz/PoC-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/LuizHenz/PoC-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/LuizHenz/PoC-CVE-2025-55182">
+- [K3ysTr0K3R/CVE-2025-55182-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2025-55182-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-55182-EXPLOIT">
 
 ---
 ## CVE-2025-55130 ()
