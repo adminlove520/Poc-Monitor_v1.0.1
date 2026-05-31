@@ -7118,6 +7118,8 @@
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
 - [ngtuonghung/CVE-2021-3156](https://github.com/ngtuonghung/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ngtuonghung/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ngtuonghung/CVE-2021-3156">
 - [Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux](https://github.com/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux">
+- [calonnuotcabe/CVE-2021-3156](https://github.com/calonnuotcabe/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/calonnuotcabe/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/calonnuotcabe/CVE-2021-3156">
+- [Robblackcatchai/porfolio-Baron-Samedit](https://github.com/Robblackcatchai/porfolio-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Robblackcatchai/porfolio-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Robblackcatchai/porfolio-Baron-Samedit">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)

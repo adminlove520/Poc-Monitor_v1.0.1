@@ -1409,6 +1409,7 @@
 - [Alaatk/CVE-2026-35616](https://github.com/Alaatk/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/Alaatk/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/Alaatk/CVE-2026-35616">
 - [wa6n3r/CVE-2026-35616](https://github.com/wa6n3r/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2026-35616">
 - [HORKimhab/CVE-2026-35616](https://github.com/HORKimhab/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-35616">
+- [jennydokumi30/CVE-2026-35616](https://github.com/jennydokumi30/CVE-2026-35616)	<img alt="forks" src="https://img.shields.io/github/forks/jennydokumi30/CVE-2026-35616">	<img alt="stars" src="https://img.shields.io/github/stars/jennydokumi30/CVE-2026-35616">
 
 ---
 ## CVE-2026-35585 ()
