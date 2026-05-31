@@ -3878,6 +3878,7 @@
 - [sbouabid-sec/CVE-2026-23744-POC](https://github.com/sbouabid-sec/CVE-2026-23744-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sbouabid-sec/CVE-2026-23744-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sbouabid-sec/CVE-2026-23744-POC">
 - [thisisish/HTB-DevHub](https://github.com/thisisish/HTB-DevHub)	<img alt="forks" src="https://img.shields.io/github/forks/thisisish/HTB-DevHub">	<img alt="stars" src="https://img.shields.io/github/stars/thisisish/HTB-DevHub">
 - [SuriyaBoon/DevHub-HackTheBox-ss11](https://github.com/SuriyaBoon/DevHub-HackTheBox-ss11)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/DevHub-HackTheBox-ss11">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/DevHub-HackTheBox-ss11">
+- [Least-Significant-Bit/CVE-2026-23744](https://github.com/Least-Significant-Bit/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
