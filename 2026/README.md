@@ -3868,6 +3868,7 @@
 - [luiskrnr/exploit-CVE-2026-23744](https://github.com/luiskrnr/exploit-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/exploit-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/exploit-CVE-2026-23744">
 - [w3nch/CVE-2026-23744](https://github.com/w3nch/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/w3nch/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/w3nch/CVE-2026-23744">
 - [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
+- [SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2](https://github.com/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2)	<img alt="forks" src="https://img.shields.io/github/forks/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2">	<img alt="stars" src="https://img.shields.io/github/stars/SrGinebras/CVE-2026-23744-RCE-for-MCPjam-inspector-v1.4.2">
 
 ---
 ## CVE-2026-23723 ()
