@@ -3855,6 +3855,7 @@
 - [CyLock11/CVE-2026-23744](https://github.com/CyLock11/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/CyLock11/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/CyLock11/CVE-2026-23744">
 - [luiskrnr/exploit-CVE-2026-23744](https://github.com/luiskrnr/exploit-CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/exploit-CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/exploit-CVE-2026-23744">
 - [w3nch/CVE-2026-23744](https://github.com/w3nch/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/w3nch/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/w3nch/CVE-2026-23744">
+- [p1ctur3p3rf3ct/CVE-2026-23744](https://github.com/p1ctur3p3rf3ct/CVE-2026-23744)	<img alt="forks" src="https://img.shields.io/github/forks/p1ctur3p3rf3ct/CVE-2026-23744">	<img alt="stars" src="https://img.shields.io/github/stars/p1ctur3p3rf3ct/CVE-2026-23744">
 
 ---
 ## CVE-2026-23723 ()
