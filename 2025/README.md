@@ -9127,6 +9127,7 @@
 - [EQSTLab/CVE-2025-24813](https://github.com/EQSTLab/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-24813">
 - [cchopin/CVE-Arsenal-Lab](https://github.com/cchopin/CVE-Arsenal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/cchopin/CVE-Arsenal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/cchopin/CVE-Arsenal-Lab">
 - [suil12/CVE-2025-24813_presentation](https://github.com/suil12/CVE-2025-24813_presentation)	<img alt="forks" src="https://img.shields.io/github/forks/suil12/CVE-2025-24813_presentation">	<img alt="stars" src="https://img.shields.io/github/stars/suil12/CVE-2025-24813_presentation">
+- [JTMH37/ICT279-CVE-2025-24813](https://github.com/JTMH37/ICT279-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/ICT279-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/ICT279-CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
