@@ -5744,6 +5744,7 @@
 - [azazhe1/Ransomware_CVE_2021_3493](https://github.com/azazhe1/Ransomware_CVE_2021_3493)	<img alt="forks" src="https://img.shields.io/github/forks/azazhe1/Ransomware_CVE_2021_3493">	<img alt="stars" src="https://img.shields.io/github/stars/azazhe1/Ransomware_CVE_2021_3493">
 - [Psychopath-Traveler/CVE-2021-3493](https://github.com/Psychopath-Traveler/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Psychopath-Traveler/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Psychopath-Traveler/CVE-2021-3493">
 - [George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot)	<img alt="forks" src="https://img.shields.io/github/forks/George-Yanni/DeepRoot">	<img alt="stars" src="https://img.shields.io/github/stars/George-Yanni/DeepRoot">
+- [iqbalhussainas/OverlayFS-LPE-Exploit](https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iqbalhussainas/OverlayFS-LPE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iqbalhussainas/OverlayFS-LPE-Exploit">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
