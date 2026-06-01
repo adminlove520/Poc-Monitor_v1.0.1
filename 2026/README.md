@@ -4866,6 +4866,9 @@
 > 
 - [akashsingh0454/CVE-2026-0257-PoC](https://github.com/akashsingh0454/CVE-2026-0257-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/akashsingh0454/CVE-2026-0257-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/akashsingh0454/CVE-2026-0257-PoC">
 - [HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257">
+- [jennydokumi30/CVE-2026-0257](https://github.com/jennydokumi30/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/jennydokumi30/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/jennydokumi30/CVE-2026-0257">
+- [0xBlackash/CVE-2026-0257](https://github.com/0xBlackash/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-0257">
+- [sfewer-r7/CVE-2026-0257](https://github.com/sfewer-r7/CVE-2026-0257)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/CVE-2026-0257">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/CVE-2026-0257">
 
 ---
 ## CVE-2026-0227 ()
