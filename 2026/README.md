@@ -754,6 +754,10 @@
 - [niekaicheng/CVE-2026-42945_NGINX_Rift](https://github.com/niekaicheng/CVE-2026-42945_NGINX_Rift)	<img alt="forks" src="https://img.shields.io/github/forks/niekaicheng/CVE-2026-42945_NGINX_Rift">	<img alt="stars" src="https://img.shields.io/github/stars/niekaicheng/CVE-2026-42945_NGINX_Rift">
 - [nu0l/NGINX-Rift](https://github.com/nu0l/NGINX-Rift)	<img alt="forks" src="https://img.shields.io/github/forks/nu0l/NGINX-Rift">	<img alt="stars" src="https://img.shields.io/github/stars/nu0l/NGINX-Rift">
 - [karakapaku43/CVE-2026-42945](https://github.com/karakapaku43/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/karakapaku43/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/karakapaku43/CVE-2026-42945">
+- [strivepan/Nginx_cve-2026-42945-scanner-gui](https://github.com/strivepan/Nginx_cve-2026-42945-scanner-gui)	<img alt="forks" src="https://img.shields.io/github/forks/strivepan/Nginx_cve-2026-42945-scanner-gui">	<img alt="stars" src="https://img.shields.io/github/stars/strivepan/Nginx_cve-2026-42945-scanner-gui">
+- [edgecases-PurpleHax/cve-images](https://github.com/edgecases-PurpleHax/cve-images)	<img alt="forks" src="https://img.shields.io/github/forks/edgecases-PurpleHax/cve-images">	<img alt="stars" src="https://img.shields.io/github/stars/edgecases-PurpleHax/cve-images">
+- [quantumworld-dpdns-io/CVE-2026-42945](https://github.com/quantumworld-dpdns-io/CVE-2026-42945)	<img alt="forks" src="https://img.shields.io/github/forks/quantumworld-dpdns-io/CVE-2026-42945">	<img alt="stars" src="https://img.shields.io/github/stars/quantumworld-dpdns-io/CVE-2026-42945">
+- [josephfelix/CVE-2026-42945-nginx-rift](https://github.com/josephfelix/CVE-2026-42945-nginx-rift)	<img alt="forks" src="https://img.shields.io/github/forks/josephfelix/CVE-2026-42945-nginx-rift">	<img alt="stars" src="https://img.shields.io/github/stars/josephfelix/CVE-2026-42945-nginx-rift">
 
 ---
 ## CVE-2026-42940 ()
