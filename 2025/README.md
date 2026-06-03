@@ -5602,6 +5602,11 @@
 - [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
 
 ---
+## CVE-2025-48595 ()
+> 
+- [HORKimhab/CVE-2025-48595](https://github.com/HORKimhab/CVE-2025-48595)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-48595">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-48595">
+
+---
 ## CVE-2025-48593 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-48593](https://github.com/B1ack4sh/Blackash-CVE-2025-48593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-48593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-48593">
