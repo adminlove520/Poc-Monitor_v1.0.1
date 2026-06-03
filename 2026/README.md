@@ -367,6 +367,11 @@
 - [0xBlackash/CVE-2026-5027](https://github.com/0xBlackash/CVE-2026-5027)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-5027">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-5027">
 
 ---
+## CVE-2026-49975 ()
+> 
+- [fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-](https://github.com/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/Proof-of-Concept-POC---CVE-2026-49975-HTTP-2-Bomb-">
+
+---
 ## CVE-2026-49009 ()
 > 
 - [j0xh-sec/CVE-2026-49009](https://github.com/j0xh-sec/CVE-2026-49009)	<img alt="forks" src="https://img.shields.io/github/forks/j0xh-sec/CVE-2026-49009">	<img alt="stars" src="https://img.shields.io/github/stars/j0xh-sec/CVE-2026-49009">
@@ -3130,6 +3135,11 @@
 - [John-Jung/CVE-2026-26903-PoC](https://github.com/John-Jung/CVE-2026-26903-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/John-Jung/CVE-2026-26903-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/John-Jung/CVE-2026-26903-PoC">
 
 ---
+## CVE-2026-26898 ()
+> 
+- [iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection](https://github.com/iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection)	<img alt="forks" src="https://img.shields.io/github/forks/iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection">	<img alt="stars" src="https://img.shields.io/github/stars/iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection">
+
+---
 ## CVE-2026-26833 ()
 > 
 - [zebbernCVE/CVE-2026-26833](https://github.com/zebbernCVE/CVE-2026-26833)	<img alt="forks" src="https://img.shields.io/github/forks/zebbernCVE/CVE-2026-26833">	<img alt="stars" src="https://img.shields.io/github/stars/zebbernCVE/CVE-2026-26833">
@@ -4114,6 +4124,11 @@
 ## CVE-2026-22610 ()
 > 
 - [ashizZz/CVE-2026-22610](https://github.com/ashizZz/CVE-2026-22610)	<img alt="forks" src="https://img.shields.io/github/forks/ashizZz/CVE-2026-22610">	<img alt="stars" src="https://img.shields.io/github/stars/ashizZz/CVE-2026-22610">
+
+---
+## CVE-2026-2256 ()
+> 
+- [melbratic/CVE-2026-2256-Threat-Model----ms-agent-Command-Injection](https://github.com/melbratic/CVE-2026-2256-Threat-Model----ms-agent-Command-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/melbratic/CVE-2026-2256-Threat-Model----ms-agent-Command-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/melbratic/CVE-2026-2256-Threat-Model----ms-agent-Command-Injection">
 
 ---
 ## CVE-2026-22557 ()
