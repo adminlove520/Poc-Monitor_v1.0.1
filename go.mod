@@ -1,4 +1,4 @@
-module github.com/sari3l/cve-monitor
+module github.com/adminlove520/Poc-Monitor
 
 go 1.18
 

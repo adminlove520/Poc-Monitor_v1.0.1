@@ -5,6 +5,7 @@ import (
 	"fmt"
 	nUrl "net/url"
 	"os"
+	"os"
 	"reflect"
 	"regexp"
 	"strconv"
@@ -66,6 +67,21 @@ var cveExp, _ = regexp.Compile(`(?i)CVE-(\d+)-\d+`)
 var blackUserMap map[int64]string
 
 func main() {
+	// Web server mode
+	if len(os.Args) > 1 && os.Args[1] == "web" {
+		srv := &Server{rootDir: GetCurrentDirectory()}
+		http.HandleFunc("/", srv.handleIndex)
+		port := os.Getenv("PORT")
+		if port == "" {
+			port = "8080"
+		}
+		fmt.Printf("🚀 Poc-Monitor Web UI 启动中: http://localhost:%s
+", port)
+		http.ListenAndServe(":"+port, nil)
+		return
+	}
+
+	// CLI monitor mode (default)
 	var addItems = make([]*Item, 0)
 	var updateItems = make([]*Item, 0)
 	_ = ReadYamlFile(blackListFile, &blackUserMap)

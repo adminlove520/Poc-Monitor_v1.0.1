@@ -136,3 +136,21 @@ func GetCurrentDirectory() string {
 	exPath := filepath.Dir(currentDir)
 	return exPath
 }
+
+type Server struct {
+	rootDir string
+}
+
+func (s *Server) root() string {
+	if s.rootDir != "" {
+		return s.rootDir
+	}
+	return GetCurrentDirectory()
+}
+
+func loadDateLog(rootDir, date string) DateLog {
+	logPath := fmt.Sprintf("%s/%s/%s.json", rootDir, LogFilePath, date)
+	var log DateLog
+	ReadJsonFile(logPath, &log)
+	return log
+}
